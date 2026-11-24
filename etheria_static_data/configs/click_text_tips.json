@@ -1,0 +1,39 @@
+{
+ "config": "click_text_tips",
+ "fields": [
+  "id",
+  "title",
+  "desc"
+ ],
+ "rows": [
+  {
+   "id": 1,
+   "title": "Bounty",
+   "title_th": "ล่าค่าหัว",
+   "desc": "From now on, each room you enter will grant Dream Dust equal to your Interest Points.",
+   "desc_th": "จากนี้ไป ทุกห้องที่คุณเข้าจะมอบ Dream Dust เท่ากับคะแนนดอกเบี้ยของคุณ"
+  },
+  {
+   "id": 2,
+   "title": "Greed Choice",
+   "title_th": "ทางเลือกแห่งความโลภ",
+   "desc": "Make your greed choice in Night Offering and Wheel of Greed for more gains.",
+   "desc_th": "เลือกทางเลือกแห่งความโลภของคุณใน Night Offering และ Wheel of Greed เพื่อผลตอบแทนที่มากยิ่งขึ้น"
+  },
+  {
+   "id": 3,
+   "title": "Fixed Dream Dust",
+   "title_th": "Dream Dust ตายตัว",
+   "desc": "Based on the Virtual Figure Boss's difficulty, you'll receive a fixed amount of Dream Dust.",
+   "desc_th": "คุณจะได้รับ Dream Dust จำนวนตายตัวโดยอ้างอิงจากระดับความยากของร่างเสมือนบอส"
+  },
+  {
+   "id": 4,
+   "title": "Bonus Dream Dust",
+   "title_th": "Dream Dust โบนัส",
+   "desc": "Based on the Virtual Figure Boss's difficulty, you'll receive Dream Dust equal to a percentage of your current own.",
+   "desc_th": "คุณจะได้รับ Dream Dust เท่ากับเปอร์เซ็นต์ของที่คุณมีในครอบครอง โดยอ้างอิงจากระดับความยากของร่างเสมือนบอส"
+  }
+ ],
+ "text_chunk": "00057_262f6515895a0207.json"
+}

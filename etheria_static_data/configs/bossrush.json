@@ -1,0 +1,2404 @@
+{
+ "config": "bossrush",
+ "fields": [
+  "id",
+  "boss_id",
+  "boss_type",
+  "dungeon_level",
+  "mark_list",
+  "score_list",
+  "reward_list",
+  "days",
+  "attr_list",
+  "rule",
+  "battle_tip"
+ ],
+ "rows": [
+  [
+   {
+    "id": 1,
+    "boss_id": 1,
+    "boss_type": 0,
+    "dungeon_level": 16001010,
+    "mark_list": [
+     "C",
+     "B",
+     "A",
+     "S",
+     "SS",
+     "SSS"
+    ],
+    "score_list": [
+     1,
+     100,
+     300,
+     500,
+     750,
+     1000
+    ],
+    "reward_list": [
+     {
+      "id": 28191,
+      "count": 1
+     },
+     {
+      "id": 28192,
+      "count": 1
+     },
+     {
+      "id": 28193,
+      "count": 1
+     },
+     {
+      "id": 28194,
+      "count": 1
+     },
+     {
+      "id": 28195,
+      "count": 1
+     },
+     {
+      "id": 28196,
+      "count": 1
+     }
+    ],
+    "days": [
+     1,
+     2
+    ],
+    "attr_list": [
+     3,
+     4
+    ],
+    "rule": 0,
+    "battle_tip": 427
+   },
+   {
+    "id": 1,
+    "boss_id": 2,
+    "boss_type": 0,
+    "dungeon_level": 16001020,
+    "mark_list": [
+     "C",
+     "B",
+     "A",
+     "S",
+     "SS",
+     "SSS"
+    ],
+    "score_list": [
+     1,
+     100,
+     300,
+     500,
+     750,
+     1000
+    ],
+    "reward_list": [
+     {
+      "id": 28191,
+      "count": 1
+     },
+     {
+      "id": 28192,
+      "count": 1
+     },
+     {
+      "id": 28193,
+      "count": 1
+     },
+     {
+      "id": 28194,
+      "count": 1
+     },
+     {
+      "id": 28195,
+      "count": 1
+     },
+     {
+      "id": 28196,
+      "count": 1
+     }
+    ],
+    "days": [
+     3,
+     4
+    ],
+    "attr_list": null,
+    "rule": 2,
+    "battle_tip": 429
+   },
+   {
+    "id": 1,
+    "boss_id": 3,
+    "boss_type": 0,
+    "dungeon_level": 16001030,
+    "mark_list": [
+     "C",
+     "B",
+     "A",
+     "S",
+     "SS",
+     "SSS"
+    ],
+    "score_list": [
+     1,
+     100,
+     300,
+     500,
+     750,
+     1000
+    ],
+    "reward_list": [
+     {
+      "id": 28191,
+      "count": 1
+     },
+     {
+      "id": 28192,
+      "count": 1
+     },
+     {
+      "id": 28193,
+      "count": 1
+     },
+     {
+      "id": 28194,
+      "count": 1
+     },
+     {
+      "id": 28195,
+      "count": 1
+     },
+     {
+      "id": 28196,
+      "count": 1
+     }
+    ],
+    "days": [
+     5,
+     6
+    ],
+    "attr_list": null,
+    "rule": 1,
+    "battle_tip": 425
+   },
+   {
+    "id": 1,
+    "boss_id": 4,
+    "boss_type": 0,
+    "dungeon_level": 16001040,
+    "mark_list": [
+     "C",
+     "B",
+     "A",
+     "S",
+     "SS",
+     "SSS"
+    ],
+    "score_list": [
+     1,
+     100,
+     300,
+     500,
+     750,
+     1000
+    ],
+    "reward_list": [
+     {
+      "id": 28191,
+      "count": 1
+     },
+     {
+      "id": 28192,
+      "count": 1
+     },
+     {
+      "id": 28193,
+      "count": 1
+     },
+     {
+      "id": 28194,
+      "count": 1
+     },
+     {
+      "id": 28195,
+      "count": 1
+     },
+     {
+      "id": 28196,
+      "count": 1
+     }
+    ],
+    "days": [
+     7,
+     8
+    ],
+    "attr_list": [
+     1,
+     2,
+     5
+    ],
+    "rule": 0,
+    "battle_tip": 430
+   },
+   {
+    "id": 1,
+    "boss_id": 5,
+    "boss_type": 0,
+    "dungeon_level": 16001050,
+    "mark_list": [
+     "C",
+     "B",
+     "A",
+     "S",
+     "SS",
+     "SSS"
+    ],
+    "score_list": [
+     1,
+     100,
+     300,
+     500,
+     750,
+     1000
+    ],
+    "reward_list": [
+     {
+      "id": 28191,
+      "count": 1
+     },
+     {
+      "id": 28192,
+      "count": 1
+     },
+     {
+      "id": 28193,
+      "count": 1
+     },
+     {
+      "id": 28194,
+      "count": 1
+     },
+     {
+      "id": 28195,
+      "count": 1
+     },
+     {
+      "id": 28196,
+      "count": 1
+     }
+    ],
+    "days": [
+     9,
+     10
+    ],
+    "attr_list": null,
+    "rule": 2,
+    "battle_tip": 426
+   },
+   {
+    "id": 1,
+    "boss_id": 6,
+    "boss_type": 0,
+    "dungeon_level": 16001060,
+    "mark_list": [
+     "C",
+     "B",
+     "A",
+     "S",
+     "SS",
+     "SSS"
+    ],
+    "score_list": [
+     1,
+     100,
+     300,
+     500,
+     750,
+     1000
+    ],
+    "reward_list": [
+     {
+      "id": 28191,
+      "count": 1
+     },
+     {
+      "id": 28192,
+      "count": 1
+     },
+     {
+      "id": 28193,
+      "count": 1
+     },
+     {
+      "id": 28194,
+      "count": 1
+     },
+     {
+      "id": 28195,
+      "count": 1
+     },
+     {
+      "id": 28196,
+      "count": 1
+     }
+    ],
+    "days": [
+     11,
+     12
+    ],
+    "attr_list": null,
+    "rule": 1,
+    "battle_tip": 428
+   },
+   {
+    "id": 1,
+    "boss_id": 7,
+    "boss_type": 1,
+    "dungeon_level": 16001070,
+    "mark_list": [
+     "C",
+     "B",
+     "A",
+     "S",
+     "SS",
+     "SSS"
+    ],
+    "score_list": [
+     1,
+     100,
+     300,
+     500,
+     750,
+     1000
+    ],
+    "reward_list": [
+     {
+      "id": 28191,
+      "count": 1
+     },
+     {
+      "id": 28192,
+      "count": 1
+     },
+     {
+      "id": 28193,
+      "count": 1
+     },
+     {
+      "id": 28194,
+      "count": 1
+     },
+     {
+      "id": 28195,
+      "count": 1
+     },
+     {
+      "id": 28196,
+      "count": 1
+     }
+    ],
+    "days": [
+     13,
+     14
+    ],
+    "attr_list": null,
+    "rule": 1,
+    "battle_tip": 426
+   }
+  ],
+  [
+   {
+    "id": 2,
+    "boss_id": 1,
+    "boss_type": 0,
+    "dungeon_level": 16002010,
+    "mark_list": [
+     "C",
+     "B",
+     "A",
+     "S",
+     "SS",
+     "SSS"
+    ],
+    "score_list": [
+     1,
+     100,
+     300,
+     500,
+     750,
+     1000
+    ],
+    "reward_list": [
+     {
+      "id": 28191,
+      "count": 1
+     },
+     {
+      "id": 28192,
+      "count": 1
+     },
+     {
+      "id": 28193,
+      "count": 1
+     },
+     {
+      "id": 28194,
+      "count": 1
+     },
+     {
+      "id": 28195,
+      "count": 1
+     },
+     {
+      "id": 28196,
+      "count": 1
+     }
+    ],
+    "days": [
+     1,
+     2
+    ],
+    "attr_list": [
+     2,
+     4,
+     5
+    ],
+    "rule": 0,
+    "battle_tip": 428
+   },
+   {
+    "id": 2,
+    "boss_id": 2,
+    "boss_type": 0,
+    "dungeon_level": 16002020,
+    "mark_list": [
+     "C",
+     "B",
+     "A",
+     "S",
+     "SS",
+     "SSS"
+    ],
+    "score_list": [
+     1,
+     100,
+     300,
+     500,
+     750,
+     1000
+    ],
+    "reward_list": [
+     {
+      "id": 28191,
+      "count": 1
+     },
+     {
+      "id": 28192,
+      "count": 1
+     },
+     {
+      "id": 28193,
+      "count": 1
+     },
+     {
+      "id": 28194,
+      "count": 1
+     },
+     {
+      "id": 28195,
+      "count": 1
+     },
+     {
+      "id": 28196,
+      "count": 1
+     }
+    ],
+    "days": [
+     3,
+     4
+    ],
+    "attr_list": null,
+    "rule": 1,
+    "battle_tip": 425
+   },
+   {
+    "id": 2,
+    "boss_id": 3,
+    "boss_type": 0,
+    "dungeon_level": 16002030,
+    "mark_list": [
+     "C",
+     "B",
+     "A",
+     "S",
+     "SS",
+     "SSS"
+    ],
+    "score_list": [
+     1,
+     100,
+     300,
+     500,
+     750,
+     1000
+    ],
+    "reward_list": [
+     {
+      "id": 28191,
+      "count": 1
+     },
+     {
+      "id": 28192,
+      "count": 1
+     },
+     {
+      "id": 28193,
+      "count": 1
+     },
+     {
+      "id": 28194,
+      "count": 1
+     },
+     {
+      "id": 28195,
+      "count": 1
+     },
+     {
+      "id": 28196,
+      "count": 1
+     }
+    ],
+    "days": [
+     5,
+     6
+    ],
+    "attr_list": [
+     1,
+     3,
+     5
+    ],
+    "rule": 0,
+    "battle_tip": 426
+   },
+   {
+    "id": 2,
+    "boss_id": 4,
+    "boss_type": 0,
+    "dungeon_level": 16002040,
+    "mark_list": [
+     "C",
+     "B",
+     "A",
+     "S",
+     "SS",
+     "SSS"
+    ],
+    "score_list": [
+     1,
+     100,
+     300,
+     500,
+     750,
+     1000
+    ],
+    "reward_list": [
+     {
+      "id": 28191,
+      "count": 1
+     },
+     {
+      "id": 28192,
+      "count": 1
+     },
+     {
+      "id": 28193,
+      "count": 1
+     },
+     {
+      "id": 28194,
+      "count": 1
+     },
+     {
+      "id": 28195,
+      "count": 1
+     },
+     {
+      "id": 28196,
+      "count": 1
+     }
+    ],
+    "days": [
+     7,
+     8
+    ],
+    "attr_list": null,
+    "rule": 2,
+    "battle_tip": 429
+   },
+   {
+    "id": 2,
+    "boss_id": 5,
+    "boss_type": 0,
+    "dungeon_level": 16002050,
+    "mark_list": [
+     "C",
+     "B",
+     "A",
+     "S",
+     "SS",
+     "SSS"
+    ],
+    "score_list": [
+     1,
+     100,
+     300,
+     500,
+     750,
+     1000
+    ],
+    "reward_list": [
+     {
+      "id": 28191,
+      "count": 1
+     },
+     {
+      "id": 28192,
+      "count": 1
+     },
+     {
+      "id": 28193,
+      "count": 1
+     },
+     {
+      "id": 28194,
+      "count": 1
+     },
+     {
+      "id": 28195,
+      "count": 1
+     },
+     {
+      "id": 28196,
+      "count": 1
+     }
+    ],
+    "days": [
+     9,
+     10
+    ],
+    "attr_list": null,
+    "rule": 1,
+    "battle_tip": 430
+   },
+   {
+    "id": 2,
+    "boss_id": 6,
+    "boss_type": 0,
+    "dungeon_level": 16002060,
+    "mark_list": [
+     "C",
+     "B",
+     "A",
+     "S",
+     "SS",
+     "SSS"
+    ],
+    "score_list": [
+     1,
+     100,
+     300,
+     500,
+     750,
+     1000
+    ],
+    "reward_list": [
+     {
+      "id": 28191,
+      "count": 1
+     },
+     {
+      "id": 28192,
+      "count": 1
+     },
+     {
+      "id": 28193,
+      "count": 1
+     },
+     {
+      "id": 28194,
+      "count": 1
+     },
+     {
+      "id": 28195,
+      "count": 1
+     },
+     {
+      "id": 28196,
+      "count": 1
+     }
+    ],
+    "days": [
+     11,
+     12
+    ],
+    "attr_list": null,
+    "rule": 1,
+    "battle_tip": 427
+   },
+   {
+    "id": 2,
+    "boss_id": 7,
+    "boss_type": 1,
+    "dungeon_level": 16002070,
+    "mark_list": [
+     "C",
+     "B",
+     "A",
+     "S",
+     "SS",
+     "SSS"
+    ],
+    "score_list": [
+     1,
+     100,
+     300,
+     500,
+     750,
+     1000
+    ],
+    "reward_list": [
+     {
+      "id": 28191,
+      "count": 1
+     },
+     {
+      "id": 28192,
+      "count": 1
+     },
+     {
+      "id": 28193,
+      "count": 1
+     },
+     {
+      "id": 28194,
+      "count": 1
+     },
+     {
+      "id": 28195,
+      "count": 1
+     },
+     {
+      "id": 28196,
+      "count": 1
+     }
+    ],
+    "days": [
+     13,
+     14
+    ],
+    "attr_list": [
+     1,
+     2,
+     3
+    ],
+    "rule": 0,
+    "battle_tip": 428
+   }
+  ],
+  [
+   {
+    "id": 3,
+    "boss_id": 1,
+    "boss_type": 0,
+    "dungeon_level": 16003010,
+    "mark_list": [
+     "C",
+     "B",
+     "A",
+     "S",
+     "SS",
+     "SSS"
+    ],
+    "score_list": [
+     1,
+     100,
+     300,
+     500,
+     750,
+     1000
+    ],
+    "reward_list": [
+     {
+      "id": 28191,
+      "count": 1
+     },
+     {
+      "id": 28192,
+      "count": 1
+     },
+     {
+      "id": 28193,
+      "count": 1
+     },
+     {
+      "id": 28194,
+      "count": 1
+     },
+     {
+      "id": 28195,
+      "count": 1
+     },
+     {
+      "id": 28196,
+      "count": 1
+     }
+    ],
+    "days": [
+     1,
+     2
+    ],
+    "attr_list": null,
+    "rule": 2,
+    "battle_tip": 429
+   },
+   {
+    "id": 3,
+    "boss_id": 2,
+    "boss_type": 0,
+    "dungeon_level": 16003020,
+    "mark_list": [
+     "C",
+     "B",
+     "A",
+     "S",
+     "SS",
+     "SSS"
+    ],
+    "score_list": [
+     1,
+     100,
+     300,
+     500,
+     750,
+     1000
+    ],
+    "reward_list": [
+     {
+      "id": 28191,
+      "count": 1
+     },
+     {
+      "id": 28192,
+      "count": 1
+     },
+     {
+      "id": 28193,
+      "count": 1
+     },
+     {
+      "id": 28194,
+      "count": 1
+     },
+     {
+      "id": 28195,
+      "count": 1
+     },
+     {
+      "id": 28196,
+      "count": 1
+     }
+    ],
+    "days": [
+     3,
+     4
+    ],
+    "attr_list": null,
+    "rule": 1,
+    "battle_tip": 425
+   },
+   {
+    "id": 3,
+    "boss_id": 3,
+    "boss_type": 0,
+    "dungeon_level": 16003030,
+    "mark_list": [
+     "C",
+     "B",
+     "A",
+     "S",
+     "SS",
+     "SSS"
+    ],
+    "score_list": [
+     1,
+     100,
+     300,
+     500,
+     750,
+     1000
+    ],
+    "reward_list": [
+     {
+      "id": 28191,
+      "count": 1
+     },
+     {
+      "id": 28192,
+      "count": 1
+     },
+     {
+      "id": 28193,
+      "count": 1
+     },
+     {
+      "id": 28194,
+      "count": 1
+     },
+     {
+      "id": 28195,
+      "count": 1
+     },
+     {
+      "id": 28196,
+      "count": 1
+     }
+    ],
+    "days": [
+     5,
+     6
+    ],
+    "attr_list": [
+     1,
+     3,
+     4
+    ],
+    "rule": 5,
+    "battle_tip": 430
+   },
+   {
+    "id": 3,
+    "boss_id": 4,
+    "boss_type": 0,
+    "dungeon_level": 16003040,
+    "mark_list": [
+     "C",
+     "B",
+     "A",
+     "S",
+     "SS",
+     "SSS"
+    ],
+    "score_list": [
+     1,
+     100,
+     300,
+     500,
+     750,
+     1000
+    ],
+    "reward_list": [
+     {
+      "id": 28191,
+      "count": 1
+     },
+     {
+      "id": 28192,
+      "count": 1
+     },
+     {
+      "id": 28193,
+      "count": 1
+     },
+     {
+      "id": 28194,
+      "count": 1
+     },
+     {
+      "id": 28195,
+      "count": 1
+     },
+     {
+      "id": 28196,
+      "count": 1
+     }
+    ],
+    "days": [
+     7,
+     8
+    ],
+    "attr_list": null,
+    "rule": 3,
+    "battle_tip": 427
+   },
+   {
+    "id": 3,
+    "boss_id": 5,
+    "boss_type": 0,
+    "dungeon_level": 16003050,
+    "mark_list": [
+     "C",
+     "B",
+     "A",
+     "S",
+     "SS",
+     "SSS"
+    ],
+    "score_list": [
+     1,
+     100,
+     300,
+     500,
+     750,
+     1000
+    ],
+    "reward_list": [
+     {
+      "id": 28191,
+      "count": 1
+     },
+     {
+      "id": 28192,
+      "count": 1
+     },
+     {
+      "id": 28193,
+      "count": 1
+     },
+     {
+      "id": 28194,
+      "count": 1
+     },
+     {
+      "id": 28195,
+      "count": 1
+     },
+     {
+      "id": 28196,
+      "count": 1
+     }
+    ],
+    "days": [
+     9,
+     10
+    ],
+    "attr_list": [
+     2,
+     5
+    ],
+    "rule": 0,
+    "battle_tip": 426
+   },
+   {
+    "id": 3,
+    "boss_id": 6,
+    "boss_type": 0,
+    "dungeon_level": 16003060,
+    "mark_list": [
+     "C",
+     "B",
+     "A",
+     "S",
+     "SS",
+     "SSS"
+    ],
+    "score_list": [
+     1,
+     100,
+     300,
+     500,
+     750,
+     1000
+    ],
+    "reward_list": [
+     {
+      "id": 28191,
+      "count": 1
+     },
+     {
+      "id": 28192,
+      "count": 1
+     },
+     {
+      "id": 28193,
+      "count": 1
+     },
+     {
+      "id": 28194,
+      "count": 1
+     },
+     {
+      "id": 28195,
+      "count": 1
+     },
+     {
+      "id": 28196,
+      "count": 1
+     }
+    ],
+    "days": [
+     11,
+     12
+    ],
+    "attr_list": null,
+    "rule": 3,
+    "battle_tip": 428
+   },
+   {
+    "id": 3,
+    "boss_id": 7,
+    "boss_type": 1,
+    "dungeon_level": 16003070,
+    "mark_list": [
+     "C",
+     "B",
+     "A",
+     "S",
+     "SS",
+     "SSS"
+    ],
+    "score_list": [
+     1,
+     100,
+     300,
+     500,
+     750,
+     1000
+    ],
+    "reward_list": [
+     {
+      "id": 28191,
+      "count": 1
+     },
+     {
+      "id": 28192,
+      "count": 1
+     },
+     {
+      "id": 28193,
+      "count": 1
+     },
+     {
+      "id": 28194,
+      "count": 1
+     },
+     {
+      "id": 28195,
+      "count": 1
+     },
+     {
+      "id": 28196,
+      "count": 1
+     }
+    ],
+    "days": [
+     13,
+     14
+    ],
+    "attr_list": [
+     2,
+     3,
+     4
+    ],
+    "rule": 5,
+    "battle_tip": 426
+   }
+  ],
+  [
+   {
+    "id": 4,
+    "boss_id": 1,
+    "boss_type": 0,
+    "dungeon_level": 16004010,
+    "mark_list": [
+     "C",
+     "B",
+     "A",
+     "S",
+     "SS",
+     "SSS"
+    ],
+    "score_list": [
+     1,
+     100,
+     300,
+     500,
+     750,
+     1000
+    ],
+    "reward_list": [
+     {
+      "id": 28191,
+      "count": 1
+     },
+     {
+      "id": 28192,
+      "count": 1
+     },
+     {
+      "id": 28193,
+      "count": 1
+     },
+     {
+      "id": 28194,
+      "count": 1
+     },
+     {
+      "id": 28195,
+      "count": 1
+     },
+     {
+      "id": 28196,
+      "count": 1
+     }
+    ],
+    "days": [
+     1,
+     2
+    ],
+    "attr_list": null,
+    "rule": 2,
+    "battle_tip": 430
+   },
+   {
+    "id": 4,
+    "boss_id": 2,
+    "boss_type": 0,
+    "dungeon_level": 16004020,
+    "mark_list": [
+     "C",
+     "B",
+     "A",
+     "S",
+     "SS",
+     "SSS"
+    ],
+    "score_list": [
+     1,
+     100,
+     300,
+     500,
+     750,
+     1000
+    ],
+    "reward_list": [
+     {
+      "id": 28191,
+      "count": 1
+     },
+     {
+      "id": 28192,
+      "count": 1
+     },
+     {
+      "id": 28193,
+      "count": 1
+     },
+     {
+      "id": 28194,
+      "count": 1
+     },
+     {
+      "id": 28195,
+      "count": 1
+     },
+     {
+      "id": 28196,
+      "count": 1
+     }
+    ],
+    "days": [
+     3,
+     4
+    ],
+    "attr_list": [
+     3,
+     4
+    ],
+    "rule": 0,
+    "battle_tip": 429
+   },
+   {
+    "id": 4,
+    "boss_id": 3,
+    "boss_type": 0,
+    "dungeon_level": 16004030,
+    "mark_list": [
+     "C",
+     "B",
+     "A",
+     "S",
+     "SS",
+     "SSS"
+    ],
+    "score_list": [
+     1,
+     100,
+     300,
+     500,
+     750,
+     1000
+    ],
+    "reward_list": [
+     {
+      "id": 28191,
+      "count": 1
+     },
+     {
+      "id": 28192,
+      "count": 1
+     },
+     {
+      "id": 28193,
+      "count": 1
+     },
+     {
+      "id": 28194,
+      "count": 1
+     },
+     {
+      "id": 28195,
+      "count": 1
+     },
+     {
+      "id": 28196,
+      "count": 1
+     }
+    ],
+    "days": [
+     5,
+     6
+    ],
+    "attr_list": [
+     1,
+     3,
+     4
+    ],
+    "rule": 5,
+    "battle_tip": 426
+   },
+   {
+    "id": 4,
+    "boss_id": 4,
+    "boss_type": 0,
+    "dungeon_level": 16004040,
+    "mark_list": [
+     "C",
+     "B",
+     "A",
+     "S",
+     "SS",
+     "SSS"
+    ],
+    "score_list": [
+     1,
+     100,
+     300,
+     500,
+     750,
+     1000
+    ],
+    "reward_list": [
+     {
+      "id": 28191,
+      "count": 1
+     },
+     {
+      "id": 28192,
+      "count": 1
+     },
+     {
+      "id": 28193,
+      "count": 1
+     },
+     {
+      "id": 28194,
+      "count": 1
+     },
+     {
+      "id": 28195,
+      "count": 1
+     },
+     {
+      "id": 28196,
+      "count": 1
+     }
+    ],
+    "days": [
+     7,
+     8
+    ],
+    "attr_list": null,
+    "rule": 1,
+    "battle_tip": 425
+   },
+   {
+    "id": 4,
+    "boss_id": 5,
+    "boss_type": 0,
+    "dungeon_level": 16004050,
+    "mark_list": [
+     "C",
+     "B",
+     "A",
+     "S",
+     "SS",
+     "SSS"
+    ],
+    "score_list": [
+     1,
+     100,
+     300,
+     500,
+     750,
+     1000
+    ],
+    "reward_list": [
+     {
+      "id": 28191,
+      "count": 1
+     },
+     {
+      "id": 28192,
+      "count": 1
+     },
+     {
+      "id": 28193,
+      "count": 1
+     },
+     {
+      "id": 28194,
+      "count": 1
+     },
+     {
+      "id": 28195,
+      "count": 1
+     },
+     {
+      "id": 28196,
+      "count": 1
+     }
+    ],
+    "days": [
+     9,
+     10
+    ],
+    "attr_list": null,
+    "rule": 3,
+    "battle_tip": 427
+   },
+   {
+    "id": 4,
+    "boss_id": 6,
+    "boss_type": 0,
+    "dungeon_level": 16004060,
+    "mark_list": [
+     "C",
+     "B",
+     "A",
+     "S",
+     "SS",
+     "SSS"
+    ],
+    "score_list": [
+     1,
+     100,
+     300,
+     500,
+     750,
+     1000
+    ],
+    "reward_list": [
+     {
+      "id": 28191,
+      "count": 1
+     },
+     {
+      "id": 28192,
+      "count": 1
+     },
+     {
+      "id": 28193,
+      "count": 1
+     },
+     {
+      "id": 28194,
+      "count": 1
+     },
+     {
+      "id": 28195,
+      "count": 1
+     },
+     {
+      "id": 28196,
+      "count": 1
+     }
+    ],
+    "days": [
+     11,
+     12
+    ],
+    "attr_list": [
+     2,
+     4,
+     5
+    ],
+    "rule": 5,
+    "battle_tip": 428
+   },
+   {
+    "id": 4,
+    "boss_id": 7,
+    "boss_type": 1,
+    "dungeon_level": 16004070,
+    "mark_list": [
+     "C",
+     "B",
+     "A",
+     "S",
+     "SS",
+     "SSS"
+    ],
+    "score_list": [
+     1,
+     100,
+     300,
+     500,
+     750,
+     1000
+    ],
+    "reward_list": [
+     {
+      "id": 28191,
+      "count": 1
+     },
+     {
+      "id": 28192,
+      "count": 1
+     },
+     {
+      "id": 28193,
+      "count": 1
+     },
+     {
+      "id": 28194,
+      "count": 1
+     },
+     {
+      "id": 28195,
+      "count": 1
+     },
+     {
+      "id": 28196,
+      "count": 1
+     }
+    ],
+    "days": [
+     13,
+     14
+    ],
+    "attr_list": null,
+    "rule": 1,
+    "battle_tip": 427
+   }
+  ],
+  [
+   {
+    "id": 5,
+    "boss_id": 1,
+    "boss_type": 0,
+    "dungeon_level": 16005010,
+    "mark_list": [
+     "C",
+     "B",
+     "A",
+     "S",
+     "SS",
+     "SSS"
+    ],
+    "score_list": [
+     1,
+     100,
+     300,
+     500,
+     750,
+     1000
+    ],
+    "reward_list": [
+     {
+      "id": 28191,
+      "count": 1
+     },
+     {
+      "id": 28192,
+      "count": 1
+     },
+     {
+      "id": 28193,
+      "count": 1
+     },
+     {
+      "id": 28194,
+      "count": 1
+     },
+     {
+      "id": 28195,
+      "count": 1
+     },
+     {
+      "id": 28196,
+      "count": 1
+     }
+    ],
+    "days": [
+     1,
+     2
+    ],
+    "attr_list": [
+     3,
+     4
+    ],
+    "rule": 0,
+    "battle_tip": 427
+   },
+   {
+    "id": 5,
+    "boss_id": 2,
+    "boss_type": 0,
+    "dungeon_level": 16005020,
+    "mark_list": [
+     "C",
+     "B",
+     "A",
+     "S",
+     "SS",
+     "SSS"
+    ],
+    "score_list": [
+     1,
+     100,
+     300,
+     500,
+     750,
+     1000
+    ],
+    "reward_list": [
+     {
+      "id": 28191,
+      "count": 1
+     },
+     {
+      "id": 28192,
+      "count": 1
+     },
+     {
+      "id": 28193,
+      "count": 1
+     },
+     {
+      "id": 28194,
+      "count": 1
+     },
+     {
+      "id": 28195,
+      "count": 1
+     },
+     {
+      "id": 28196,
+      "count": 1
+     }
+    ],
+    "days": [
+     3,
+     4
+    ],
+    "attr_list": null,
+    "rule": 1,
+    "battle_tip": 429
+   },
+   {
+    "id": 5,
+    "boss_id": 3,
+    "boss_type": 0,
+    "dungeon_level": 16005030,
+    "mark_list": [
+     "C",
+     "B",
+     "A",
+     "S",
+     "SS",
+     "SSS"
+    ],
+    "score_list": [
+     1,
+     100,
+     300,
+     500,
+     750,
+     1000
+    ],
+    "reward_list": [
+     {
+      "id": 28191,
+      "count": 1
+     },
+     {
+      "id": 28192,
+      "count": 1
+     },
+     {
+      "id": 28193,
+      "count": 1
+     },
+     {
+      "id": 28194,
+      "count": 1
+     },
+     {
+      "id": 28195,
+      "count": 1
+     },
+     {
+      "id": 28196,
+      "count": 1
+     }
+    ],
+    "days": [
+     5,
+     6
+    ],
+    "attr_list": null,
+    "rule": 3,
+    "battle_tip": 425
+   },
+   {
+    "id": 5,
+    "boss_id": 4,
+    "boss_type": 0,
+    "dungeon_level": 16005040,
+    "mark_list": [
+     "C",
+     "B",
+     "A",
+     "S",
+     "SS",
+     "SSS"
+    ],
+    "score_list": [
+     1,
+     100,
+     300,
+     500,
+     750,
+     1000
+    ],
+    "reward_list": [
+     {
+      "id": 28191,
+      "count": 1
+     },
+     {
+      "id": 28192,
+      "count": 1
+     },
+     {
+      "id": 28193,
+      "count": 1
+     },
+     {
+      "id": 28194,
+      "count": 1
+     },
+     {
+      "id": 28195,
+      "count": 1
+     },
+     {
+      "id": 28196,
+      "count": 1
+     }
+    ],
+    "days": [
+     7,
+     8
+    ],
+    "attr_list": [
+     1,
+     2,
+     5
+    ],
+    "rule": 5,
+    "battle_tip": 430
+   },
+   {
+    "id": 5,
+    "boss_id": 5,
+    "boss_type": 0,
+    "dungeon_level": 16005050,
+    "mark_list": [
+     "C",
+     "B",
+     "A",
+     "S",
+     "SS",
+     "SSS"
+    ],
+    "score_list": [
+     1,
+     100,
+     300,
+     500,
+     750,
+     1000
+    ],
+    "reward_list": [
+     {
+      "id": 28191,
+      "count": 1
+     },
+     {
+      "id": 28192,
+      "count": 1
+     },
+     {
+      "id": 28193,
+      "count": 1
+     },
+     {
+      "id": 28194,
+      "count": 1
+     },
+     {
+      "id": 28195,
+      "count": 1
+     },
+     {
+      "id": 28196,
+      "count": 1
+     }
+    ],
+    "days": [
+     9,
+     10
+    ],
+    "attr_list": null,
+    "rule": 2,
+    "battle_tip": 426
+   },
+   {
+    "id": 5,
+    "boss_id": 6,
+    "boss_type": 0,
+    "dungeon_level": 16005060,
+    "mark_list": [
+     "C",
+     "B",
+     "A",
+     "S",
+     "SS",
+     "SSS"
+    ],
+    "score_list": [
+     1,
+     100,
+     300,
+     500,
+     750,
+     1000
+    ],
+    "reward_list": [
+     {
+      "id": 28191,
+      "count": 1
+     },
+     {
+      "id": 28192,
+      "count": 1
+     },
+     {
+      "id": 28193,
+      "count": 1
+     },
+     {
+      "id": 28194,
+      "count": 1
+     },
+     {
+      "id": 28195,
+      "count": 1
+     },
+     {
+      "id": 28196,
+      "count": 1
+     }
+    ],
+    "days": [
+     11,
+     12
+    ],
+    "attr_list": null,
+    "rule": 1,
+    "battle_tip": 428
+   },
+   {
+    "id": 5,
+    "boss_id": 7,
+    "boss_type": 1,
+    "dungeon_level": 16005070,
+    "mark_list": [
+     "C",
+     "B",
+     "A",
+     "S",
+     "SS",
+     "SSS"
+    ],
+    "score_list": [
+     1,
+     100,
+     300,
+     500,
+     750,
+     1000
+    ],
+    "reward_list": [
+     {
+      "id": 28191,
+      "count": 1
+     },
+     {
+      "id": 28192,
+      "count": 1
+     },
+     {
+      "id": 28193,
+      "count": 1
+     },
+     {
+      "id": 28194,
+      "count": 1
+     },
+     {
+      "id": 28195,
+      "count": 1
+     },
+     {
+      "id": 28196,
+      "count": 1
+     }
+    ],
+    "days": [
+     13,
+     14
+    ],
+    "attr_list": [
+     1,
+     2,
+     3
+    ],
+    "rule": 5,
+    "battle_tip": 426
+   }
+  ],
+  [
+   {
+    "id": 6,
+    "boss_id": 1,
+    "boss_type": 0,
+    "dungeon_level": 16006010,
+    "mark_list": [
+     "C",
+     "B",
+     "A",
+     "S",
+     "SS",
+     "SSS"
+    ],
+    "score_list": [
+     1,
+     100,
+     300,
+     500,
+     750,
+     1000
+    ],
+    "reward_list": [
+     {
+      "id": 28191,
+      "count": 1
+     },
+     {
+      "id": 28192,
+      "count": 1
+     },
+     {
+      "id": 28193,
+      "count": 1
+     },
+     {
+      "id": 28194,
+      "count": 1
+     },
+     {
+      "id": 28195,
+      "count": 1
+     },
+     {
+      "id": 28196,
+      "count": 1
+     }
+    ],
+    "days": [
+     1,
+     2
+    ],
+    "attr_list": null,
+    "rule": 3,
+    "battle_tip": 428
+   },
+   {
+    "id": 6,
+    "boss_id": 2,
+    "boss_type": 0,
+    "dungeon_level": 16006020,
+    "mark_list": [
+     "C",
+     "B",
+     "A",
+     "S",
+     "SS",
+     "SSS"
+    ],
+    "score_list": [
+     1,
+     100,
+     300,
+     500,
+     750,
+     1000
+    ],
+    "reward_list": [
+     {
+      "id": 28191,
+      "count": 1
+     },
+     {
+      "id": 28192,
+      "count": 1
+     },
+     {
+      "id": 28193,
+      "count": 1
+     },
+     {
+      "id": 28194,
+      "count": 1
+     },
+     {
+      "id": 28195,
+      "count": 1
+     },
+     {
+      "id": 28196,
+      "count": 1
+     }
+    ],
+    "days": [
+     3,
+     4
+    ],
+    "attr_list": [
+     3,
+     4
+    ],
+    "rule": 0,
+    "battle_tip": 425
+   },
+   {
+    "id": 6,
+    "boss_id": 3,
+    "boss_type": 0,
+    "dungeon_level": 16006030,
+    "mark_list": [
+     "C",
+     "B",
+     "A",
+     "S",
+     "SS",
+     "SSS"
+    ],
+    "score_list": [
+     1,
+     100,
+     300,
+     500,
+     750,
+     1000
+    ],
+    "reward_list": [
+     {
+      "id": 28191,
+      "count": 1
+     },
+     {
+      "id": 28192,
+      "count": 1
+     },
+     {
+      "id": 28193,
+      "count": 1
+     },
+     {
+      "id": 28194,
+      "count": 1
+     },
+     {
+      "id": 28195,
+      "count": 1
+     },
+     {
+      "id": 28196,
+      "count": 1
+     }
+    ],
+    "days": [
+     5,
+     6
+    ],
+    "attr_list": null,
+    "rule": 2,
+    "battle_tip": 430
+   },
+   {
+    "id": 6,
+    "boss_id": 4,
+    "boss_type": 0,
+    "dungeon_level": 16006040,
+    "mark_list": [
+     "C",
+     "B",
+     "A",
+     "S",
+     "SS",
+     "SSS"
+    ],
+    "score_list": [
+     1,
+     100,
+     300,
+     500,
+     750,
+     1000
+    ],
+    "reward_list": [
+     {
+      "id": 28191,
+      "count": 1
+     },
+     {
+      "id": 28192,
+      "count": 1
+     },
+     {
+      "id": 28193,
+      "count": 1
+     },
+     {
+      "id": 28194,
+      "count": 1
+     },
+     {
+      "id": 28195,
+      "count": 1
+     },
+     {
+      "id": 28196,
+      "count": 1
+     }
+    ],
+    "days": [
+     7,
+     8
+    ],
+    "attr_list": null,
+    "rule": 1,
+    "battle_tip": 426
+   },
+   {
+    "id": 6,
+    "boss_id": 5,
+    "boss_type": 0,
+    "dungeon_level": 16006050,
+    "mark_list": [
+     "C",
+     "B",
+     "A",
+     "S",
+     "SS",
+     "SSS"
+    ],
+    "score_list": [
+     1,
+     100,
+     300,
+     500,
+     750,
+     1000
+    ],
+    "reward_list": [
+     {
+      "id": 28191,
+      "count": 1
+     },
+     {
+      "id": 28192,
+      "count": 1
+     },
+     {
+      "id": 28193,
+      "count": 1
+     },
+     {
+      "id": 28194,
+      "count": 1
+     },
+     {
+      "id": 28195,
+      "count": 1
+     },
+     {
+      "id": 28196,
+      "count": 1
+     }
+    ],
+    "days": [
+     9,
+     10
+    ],
+    "attr_list": [
+     3,
+     4,
+     5
+    ],
+    "rule": 5,
+    "battle_tip": 427
+   },
+   {
+    "id": 6,
+    "boss_id": 6,
+    "boss_type": 0,
+    "dungeon_level": 16006060,
+    "mark_list": [
+     "C",
+     "B",
+     "A",
+     "S",
+     "SS",
+     "SSS"
+    ],
+    "score_list": [
+     1,
+     100,
+     300,
+     500,
+     750,
+     1000
+    ],
+    "reward_list": [
+     {
+      "id": 28191,
+      "count": 1
+     },
+     {
+      "id": 28192,
+      "count": 1
+     },
+     {
+      "id": 28193,
+      "count": 1
+     },
+     {
+      "id": 28194,
+      "count": 1
+     },
+     {
+      "id": 28195,
+      "count": 1
+     },
+     {
+      "id": 28196,
+      "count": 1
+     }
+    ],
+    "days": [
+     11,
+     12
+    ],
+    "attr_list": [
+     1,
+     2,
+     3
+    ],
+    "rule": 0,
+    "battle_tip": 429
+   },
+   {
+    "id": 6,
+    "boss_id": 7,
+    "boss_type": 1,
+    "dungeon_level": 16006070,
+    "mark_list": [
+     "C",
+     "B",
+     "A",
+     "S",
+     "SS",
+     "SSS"
+    ],
+    "score_list": [
+     1,
+     100,
+     300,
+     500,
+     750,
+     1000
+    ],
+    "reward_list": [
+     {
+      "id": 28191,
+      "count": 1
+     },
+     {
+      "id": 28192,
+      "count": 1
+     },
+     {
+      "id": 28193,
+      "count": 1
+     },
+     {
+      "id": 28194,
+      "count": 1
+     },
+     {
+      "id": 28195,
+      "count": 1
+     },
+     {
+      "id": 28196,
+      "count": 1
+     }
+    ],
+    "days": [
+     13,
+     14
+    ],
+    "attr_list": null,
+    "rule": 1,
+    "battle_tip": 428
+   }
+  ]
+ ],
+ "text_chunk": null
+}

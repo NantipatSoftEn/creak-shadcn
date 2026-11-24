@@ -1,0 +1,103 @@
+{
+ "config": "tact_imp",
+ "fields": [
+  "id",
+  "item_id",
+  "asset",
+  "unlock_lv",
+  "name_en",
+  "name",
+  "desc"
+ ],
+ "rows": [
+  {
+   "id": 1,
+   "item_id": 10531,
+   "asset": "001",
+   "unlock_lv": 6,
+   "name_en": "Gladiator",
+   "name": "Gladiator",
+   "name_th": "Gladiator",
+   "desc": "Equip to become a Gladiator",
+   "desc_th": "สวมใส่เพื่อกลายเป็น Gladiator"
+  },
+  {
+   "id": 2,
+   "item_id": 10532,
+   "asset": "002",
+   "unlock_lv": 5,
+   "name_en": "Collector",
+   "name": "Collector",
+   "name_th": "Collector",
+   "desc": "Equip to become a Collector",
+   "desc_th": "สวมใส่เพื่อกลายเป็น Collector"
+  },
+  {
+   "id": 3,
+   "item_id": 10533,
+   "asset": "003",
+   "unlock_lv": 4,
+   "name_en": "Butcher",
+   "name": "Butcher",
+   "name_th": "Butcher",
+   "desc": "Equip to become a Butcher",
+   "desc_th": "สวมใส่เพื่อกลายเป็น Butcher"
+  },
+  {
+   "id": 4,
+   "item_id": 10534,
+   "asset": "004",
+   "unlock_lv": 4,
+   "name_en": "Sentinel",
+   "name": "Sentinel",
+   "name_th": "Sentinel",
+   "desc": "Equip to become a Sentinel",
+   "desc_th": "สวมใส่เพื่อกลายเป็น Sentinel"
+  },
+  {
+   "id": 5,
+   "item_id": 10535,
+   "asset": "005",
+   "unlock_lv": 5,
+   "name_en": "Prophet",
+   "name": "Prophet",
+   "name_th": "Prophet",
+   "desc": "Equip to become a Prophet",
+   "desc_th": "สวมใส่เพื่อกลายเป็น Prophet"
+  },
+  {
+   "id": 6,
+   "item_id": 10536,
+   "asset": "006",
+   "unlock_lv": 6,
+   "name_en": "Warden",
+   "name": "Warden",
+   "name_th": "Warden",
+   "desc": "Equip to become a Warden",
+   "desc_th": "สวมใส่เพื่อกลายเป็น Warden"
+  },
+  {
+   "id": 7,
+   "item_id": 10537,
+   "asset": "007",
+   "unlock_lv": 5,
+   "name_en": "Archon",
+   "name": "Archon",
+   "name_th": "Archon",
+   "desc": "Equip to become an Archon",
+   "desc_th": "สวมใส่เพื่อกลายเป็น Archon"
+  },
+  {
+   "id": 8,
+   "item_id": 10538,
+   "asset": "008",
+   "unlock_lv": 4,
+   "name_en": "Harmonizer",
+   "name": "Harmonizer",
+   "name_th": "Harmonizer",
+   "desc": "Equip to become a Harmonizer",
+   "desc_th": "สวมใส่เพื่อกลายเป็น Harmonizer"
+  }
+ ],
+ "text_chunk": "00158_f00baa7d3b0598b9.json"
+}

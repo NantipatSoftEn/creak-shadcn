@@ -1,0 +1,209 @@
+{
+ "config": "cir_reply",
+ "fields": [
+  "reply_id",
+  "send_a",
+  "receive_b",
+  "reply_text",
+  "reply_type"
+ ],
+ "rows": {
+  "101": {
+   "reply_id": 101,
+   "send_a": 2,
+   "receive_b": 0,
+   "reply_text": "太差劲了吧，怎么又给可爱宝宝们吃垃圾食品啊！",
+   "reply_type": 1
+  },
+  "102": {
+   "reply_id": 102,
+   "send_a": 1,
+   "receive_b": 2,
+   "reply_text": "你没点赞。",
+   "reply_type": 2
+  },
+  "103": {
+   "reply_id": 103,
+   "send_a": 2,
+   "receive_b": 1,
+   "reply_text": "不是下班勿扰吗，上班再说啦~",
+   "reply_type": 2
+  },
+  "104": {
+   "reply_id": 104,
+   "send_a": 3,
+   "receive_b": 0,
+   "reply_text": "看来现在银行工作待遇很一般啊。",
+   "reply_type": 1
+  },
+  "201": {
+   "reply_id": 201,
+   "send_a": 4,
+   "receive_b": 0,
+   "reply_text": "啊呀，好怀念的地方……我还不少东西落在这里了呢~",
+   "reply_type": 1
+  },
+  "202": {
+   "reply_id": 202,
+   "send_a": 5,
+   "receive_b": 0,
+   "reply_text": "夏妲小姐希望您尽快回她电话。",
+   "reply_type": 1
+  },
+  "203": {
+   "reply_id": 203,
+   "send_a": 0,
+   "receive_b": 0,
+   "reply_text": "库卢鲁已经被我塞回改造仓了。",
+   "reply_type": 3
+  },
+  "204": {
+   "reply_id": 204,
+   "send_a": 40331,
+   "receive_b": 0,
+   "reply_text": "骗人的吧？！",
+   "reply_type": 4
+  },
+  "205": {
+   "reply_id": 205,
+   "send_a": 0,
+   "receive_b": 0,
+   "reply_text": "这个角度根本看不见你的脸。",
+   "reply_type": 3
+  },
+  "206": {
+   "reply_id": 206,
+   "send_a": 40331,
+   "receive_b": 0,
+   "reply_text": "重点当然是伟大的莱伯茨实验室！",
+   "reply_type": 4
+  },
+  "301": {
+   "reply_id": 301,
+   "send_a": 46121,
+   "receive_b": 0,
+   "reply_text": "已报名。",
+   "reply_type": 1
+  },
+  "302": {
+   "reply_id": 302,
+   "send_a": 40451,
+   "receive_b": 0,
+   "reply_text": "麻烦！去年参加沙滩排球，打到一半居然要我退场！",
+   "reply_type": 1
+  },
+  "303": {
+   "reply_id": 303,
+   "send_a": 40181,
+   "receive_b": 40451,
+   "reply_text": "那、那好像是因为阿凛同学把排球往对面选手的脸上砸吧……人家都住院了……",
+   "reply_type": 2
+  },
+  "304": {
+   "reply_id": 304,
+   "send_a": 0,
+   "receive_b": 0,
+   "reply_text": "看起来好像不能称为主动自愿吧。",
+   "reply_type": 3
+  },
+  "305": {
+   "reply_id": 305,
+   "send_a": 101,
+   "receive_b": 0,
+   "reply_text": "会长做主，其他人负责动起来！",
+   "reply_type": 4
+  },
+  "306": {
+   "reply_id": 306,
+   "send_a": 0,
+   "receive_b": 0,
+   "reply_text": "我可以参加吗？",
+   "reply_type": 3
+  },
+  "307": {
+   "reply_id": 307,
+   "send_a": 101,
+   "receive_b": 0,
+   "reply_text": "十三区大家庭欢迎你加入哦！",
+   "reply_type": 4
+  },
+  "401": {
+   "reply_id": 401,
+   "send_a": 40421,
+   "receive_b": 0,
+   "reply_text": "为什么只有赞没有踩啊？太离谱了吧！本少爷投钱给你们多加个功能行不行？ @圈圈Cir.Official",
+   "reply_type": 1
+  },
+  "402": {
+   "reply_id": 402,
+   "send_a": 40451,
+   "receive_b": 40421,
+   "reply_text": "关心这个干嘛啊，你又不坐地铁。",
+   "reply_type": 2
+  },
+  "403": {
+   "reply_id": 403,
+   "send_a": 6,
+   "receive_b": 0,
+   "reply_text": "【已过滤】",
+   "reply_type": 1
+  },
+  "404": {
+   "reply_id": 404,
+   "send_a": 3,
+   "receive_b": 6,
+   "reply_text": "Friday的账号怎么了？！",
+   "reply_type": 2
+  },
+  "405": {
+   "reply_id": 405,
+   "send_a": 102,
+   "receive_b": 3,
+   "reply_text": "我们开启了机器人发言过滤系统哦~",
+   "reply_type": 2
+  },
+  "501": {
+   "reply_id": 501,
+   "send_a": 2,
+   "receive_b": 0,
+   "reply_text": "哇，所以你和 @伊瑟 NEWS 哪个说的是真的呢？大人们是不是都好喜欢撒谎呀？",
+   "reply_type": 1
+  },
+  "502": {
+   "reply_id": 502,
+   "send_a": 7,
+   "receive_b": 0,
+   "reply_text": "拜托，昨天预告有大事发生还以为是夏妲恋爱了，结果就这？无人在意……",
+   "reply_type": 1
+  },
+  "503": {
+   "reply_id": 503,
+   "send_a": 0,
+   "receive_b": 0,
+   "reply_text": "你们的摄影师哪里找的。",
+   "reply_type": 3
+  },
+  "504": {
+   "reply_id": 504,
+   "send_a": 103,
+   "receive_b": 0,
+   "reply_text": "厉害吧！",
+   "reply_type": 4
+  },
+  "505": {
+   "reply_id": 505,
+   "send_a": 0,
+   "receive_b": 0,
+   "reply_text": "随便发别人照片好吗？",
+   "reply_type": 3
+  },
+  "506": {
+   "reply_id": 506,
+   "send_a": 103,
+   "receive_b": 0,
+   "reply_text": "权利人可以私信我们伊瑟注册码申请照片删除哦~",
+   "reply_type": 4
+  }
+ },
+ "text_chunk": null
+}

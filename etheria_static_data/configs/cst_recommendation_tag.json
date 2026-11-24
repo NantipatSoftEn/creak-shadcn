@@ -1,0 +1,145 @@
+{
+ "config": "cst_recommendation_tag",
+ "fields": [
+  "id",
+  "sort_id",
+  "tag_id",
+  "desc",
+  "category_name"
+ ],
+ "rows": [
+  {
+   "id": 1,
+   "sort_id": 1,
+   "tag_id": 1,
+   "desc": "Challenge",
+   "desc_th": "ท้าทาย",
+   "category_name": "Scene Tags",
+   "category_name_th": "แท็กฉาก"
+  },
+  {
+   "id": 2,
+   "sort_id": 1,
+   "tag_id": 2,
+   "desc": "PvP",
+   "desc_th": "อารีน่า"
+  },
+  {
+   "id": 3,
+   "sort_id": 2,
+   "tag_id": 1,
+   "desc": "DPS",
+   "desc_th": "DPS",
+   "category_name": "Role Tags",
+   "category_name_th": "แท็กฟีเจอร์"
+  },
+  {
+   "id": 4,
+   "sort_id": 2,
+   "tag_id": 2,
+   "desc": "Survival",
+   "desc_th": "Survivor"
+  },
+  {
+   "id": 5,
+   "sort_id": 2,
+   "tag_id": 3,
+   "desc": "Control",
+   "desc_th": "ควบคุม"
+  },
+  {
+   "id": 6,
+   "sort_id": 2,
+   "tag_id": 4,
+   "desc": "Healing",
+   "desc_th": "Heal"
+  },
+  {
+   "id": 7,
+   "sort_id": 2,
+   "tag_id": 5,
+   "desc": "Buff",
+   "desc_th": "บัฟ"
+  },
+  {
+   "id": 8,
+   "sort_id": 2,
+   "tag_id": 6,
+   "desc": "Debuff",
+   "desc_th": "ดีบัฟ"
+  },
+  {
+   "id": 9,
+   "sort_id": 2,
+   "tag_id": 7,
+   "desc": "Support",
+   "desc_th": "Supporter"
+  },
+  {
+   "id": 10,
+   "sort_id": 2,
+   "tag_id": 8,
+   "desc": "Special",
+   "desc_th": "พิเศษ"
+  },
+  {
+   "id": 11,
+   "sort_id": 3,
+   "tag_id": 1,
+   "desc": "ATK",
+   "desc_th": "ATK",
+   "category_name": "Attribute Tags",
+   "category_name_th": "แท็กคุณสมบัติ"
+  },
+  {
+   "id": 12,
+   "sort_id": 3,
+   "tag_id": 2,
+   "desc": "HP",
+   "desc_th": "HP"
+  },
+  {
+   "id": 13,
+   "sort_id": 3,
+   "tag_id": 3,
+   "desc": "DEF",
+   "desc_th": "DEF"
+  },
+  {
+   "id": 14,
+   "sort_id": 3,
+   "tag_id": 4,
+   "desc": "SPD",
+   "desc_th": "SPD"
+  },
+  {
+   "id": 15,
+   "sort_id": 3,
+   "tag_id": 5,
+   "desc": "CRIT Rate",
+   "desc_th": "CRIT Rate"
+  },
+  {
+   "id": 16,
+   "sort_id": 3,
+   "tag_id": 6,
+   "desc": "CRIT DMG",
+   "desc_th": "CRIT DMG"
+  },
+  {
+   "id": 17,
+   "sort_id": 3,
+   "tag_id": 7,
+   "desc": "Effect ACC",
+   "desc_th": "Effect ACC"
+  },
+  {
+   "id": 18,
+   "sort_id": 3,
+   "tag_id": 8,
+   "desc": "Effect RES",
+   "desc_th": "Effect RES"
+  }
+ ],
+ "text_chunk": "00070_5a3c69f95ec5fb74.json"
+}

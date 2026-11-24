@@ -1,0 +1,153 @@
+{
+ "config": "infrastructure_collectionpoints",
+ "fields": [
+  "stage",
+  "score",
+  "rewards",
+  "effect",
+  "desc"
+ ],
+ "rows": [
+  {
+   "stage": 1,
+   "score": 20,
+   "rewards": [
+    {
+     "id": 10611,
+     "count": 1
+    },
+    {
+     "id": 10505,
+     "count": 50
+    }
+   ],
+   "effect": null,
+   "desc": "Cheer Rewards",
+   "desc_th": "รางวัลเชียร์"
+  },
+  {
+   "stage": 2,
+   "score": 40,
+   "rewards": null,
+   "effect": {
+    "type": 3,
+    "value": 10.0
+   },
+   "desc": "Top 16 Prediction Rewards",
+   "desc_th": "รางวัลทายผล 16 อันดับแรก"
+  },
+  {
+   "stage": 3,
+   "score": 60,
+   "rewards": [
+    {
+     "id": 10611,
+     "count": 1
+    },
+    {
+     "id": 10505,
+     "count": 50
+    }
+   ],
+   "effect": null,
+   "desc": "Top 8 Prediction Rewards",
+   "desc_th": "รางวัลทายผล 8 อันดับแรก"
+  },
+  {
+   "stage": 4,
+   "score": 80,
+   "rewards": null,
+   "effect": {
+    "type": 4,
+    "value": 10.0
+   },
+   "desc": "Top 4 Prediction Rewards",
+   "desc_th": "รางวัลทายผล 4 อันดับแรก"
+  },
+  {
+   "stage": 5,
+   "score": 100,
+   "rewards": [
+    {
+     "id": 10611,
+     "count": 1
+    },
+    {
+     "id": 10505,
+     "count": 50
+    }
+   ],
+   "effect": null,
+   "desc": "Champion Prediction Rewards",
+   "desc_th": "รางวัลทายผลแชมป์"
+  },
+  {
+   "stage": 6,
+   "score": 120,
+   "rewards": null,
+   "effect": {
+    "type": 5,
+    "value": 10.0
+   },
+   "desc": "Top 64",
+   "desc_th": "64 อันดับแรก"
+  },
+  {
+   "stage": 7,
+   "score": 140,
+   "rewards": [
+    {
+     "id": 10611,
+     "count": 1
+    },
+    {
+     "id": 10505,
+     "count": 50
+    }
+   ],
+   "effect": null,
+   "desc": "Top 32",
+   "desc_th": "32 อันดับแรก"
+  },
+  {
+   "stage": 8,
+   "score": 160,
+   "rewards": null,
+   "effect": {
+    "type": 6,
+    "value": 10.0
+   },
+   "desc": "Top 16",
+   "desc_th": "16 อันดับแรก"
+  },
+  {
+   "stage": 9,
+   "score": 180,
+   "rewards": [
+    {
+     "id": 10611,
+     "count": 1
+    },
+    {
+     "id": 10505,
+     "count": 50
+    }
+   ],
+   "effect": null,
+   "desc": "Top 8",
+   "desc_th": "8 อันดับแรก"
+  },
+  {
+   "stage": 10,
+   "score": 200,
+   "rewards": null,
+   "effect": {
+    "type": 7,
+    "value": 10.0
+   },
+   "desc": "Top 4",
+   "desc_th": "4 อันดับแรก"
+  }
+ ],
+ "text_chunk": "00090_2579c29e7919e2df.json"
+}

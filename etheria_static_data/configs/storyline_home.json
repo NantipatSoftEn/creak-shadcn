@@ -1,0 +1,166 @@
+{
+ "config": "storyline_home",
+ "fields": [
+  "id",
+  "story_name",
+  "story_id",
+  "trigger_type",
+  "value",
+  "value2",
+  "touch_obj",
+  "is_first_chunk"
+ ],
+ "rows": {
+  "3": {
+   "id": 3,
+   "story_name": "Tower_OpenGuide",
+   "story_id": 3090101,
+   "trigger_type": 3,
+   "value": 0,
+   "value2": 0,
+   "touch_obj": 0,
+   "is_first_chunk": 0
+  },
+  "9": {
+   "id": 9,
+   "story_name": "Hotel_01_P0S5",
+   "story_id": 10000105,
+   "trigger_type": 8,
+   "value": 10000101,
+   "value2": 0,
+   "touch_obj": 0,
+   "is_first_chunk": 0
+  },
+  "10": {
+   "id": 10,
+   "story_name": "Villa_P0S4",
+   "story_id": 3000104,
+   "trigger_type": 8,
+   "value": 3000101,
+   "value2": 0,
+   "touch_obj": 0,
+   "is_first_chunk": 0
+  },
+  "11": {
+   "id": 11,
+   "story_name": "Arena_P0S3",
+   "story_id": 4000103,
+   "trigger_type": 8,
+   "value": 4000101,
+   "value2": 0,
+   "touch_obj": 0,
+   "is_first_chunk": 0
+  },
+  "12": {
+   "id": 12,
+   "story_name": "Sewer_P0S4",
+   "story_id": 7000104,
+   "trigger_type": 8,
+   "value": 5000101,
+   "value2": 0,
+   "touch_obj": 0,
+   "is_first_chunk": 0
+  },
+  "13": {
+   "id": 13,
+   "story_name": "ECH_Lingluo_201",
+   "story_id": 920100201,
+   "trigger_type": 3,
+   "value": 0,
+   "value2": 0,
+   "touch_obj": 0,
+   "is_first_chunk": 1
+  },
+  "14": {
+   "id": 14,
+   "story_name": "ECH_Lingluo_206",
+   "story_id": 920100206,
+   "trigger_type": 3,
+   "value": 0,
+   "value2": 0,
+   "touch_obj": 0,
+   "is_first_chunk": 1
+  },
+  "15": {
+   "id": 15,
+   "story_name": "ECH_DokiHero_102",
+   "story_id": 920080102,
+   "trigger_type": 3,
+   "value": 0,
+   "value2": 0,
+   "touch_obj": 0,
+   "is_first_chunk": 1
+  },
+  "16": {
+   "id": 16,
+   "story_name": "ECH_DokiHero_201",
+   "story_id": 920080201,
+   "trigger_type": 3,
+   "value": 0,
+   "value2": 0,
+   "touch_obj": 0,
+   "is_first_chunk": 1
+  },
+  "17": {
+   "id": 17,
+   "story_name": "ECH_DokiHero_202",
+   "story_id": 920080202,
+   "trigger_type": 3,
+   "value": 0,
+   "value2": 0,
+   "touch_obj": 0,
+   "is_first_chunk": 1
+  },
+  "18": {
+   "id": 18,
+   "story_name": "ECH_DokiHero_303",
+   "story_id": 920080303,
+   "trigger_type": 3,
+   "value": 0,
+   "value2": 0,
+   "touch_obj": 0,
+   "is_first_chunk": 1
+  },
+  "19": {
+   "id": 19,
+   "story_name": "ECH_Ruho_101",
+   "story_id": 920110101,
+   "trigger_type": 3,
+   "value": 0,
+   "value2": 0,
+   "touch_obj": 0,
+   "is_first_chunk": 1
+  },
+  "20": {
+   "id": 20,
+   "story_name": "ECH_Borgne_101",
+   "story_id": 920090101,
+   "trigger_type": 3,
+   "value": 0,
+   "value2": 0,
+   "touch_obj": 0,
+   "is_first_chunk": 1
+  },
+  "21": {
+   "id": 21,
+   "story_name": "ECH_Borgne_103",
+   "story_id": 920090103,
+   "trigger_type": 3,
+   "value": 0,
+   "value2": 0,
+   "touch_obj": 0,
+   "is_first_chunk": 1
+  },
+  "22": {
+   "id": 22,
+   "story_name": "ECH_Borgne_302",
+   "story_id": 920090302,
+   "trigger_type": 3,
+   "value": 0,
+   "value2": 0,
+   "touch_obj": 0,
+   "is_first_chunk": 1
+  }
+ },
+ "text_chunk": null
+}

@@ -1,0 +1,180 @@
+{
+ "config": "channel_language",
+ "fields": [
+  "id",
+  "channel_name",
+  "prior",
+  "channel_range"
+ ],
+ "rows": [
+  {
+   "id": 101,
+   "channel_name": "简体中文",
+   "prior": 1,
+   "channel_range": "1,100"
+  },
+  {
+   "id": 110,
+   "channel_name": "繁體中文",
+   "prior": 1,
+   "channel_range": "101,200"
+  },
+  {
+   "id": 201,
+   "channel_name": "English",
+   "prior": 1,
+   "channel_range": "201,300"
+  },
+  {
+   "id": 301,
+   "channel_name": "日本語",
+   "prior": 1,
+   "channel_range": "301,400"
+  },
+  {
+   "id": 401,
+   "channel_name": "한국어",
+   "prior": 1,
+   "channel_range": "401,500"
+  },
+  {
+   "id": 501,
+   "channel_name": "Tiếng Việt",
+   "prior": 1,
+   "channel_range": "501,600"
+  },
+  {
+   "id": 601,
+   "channel_name": "Bahasa Indonesia",
+   "prior": 1,
+   "channel_range": "701,800"
+  },
+  {
+   "id": 701,
+   "channel_name": "ภาษาไทย",
+   "prior": 1,
+   "channel_range": "801,900"
+  },
+  {
+   "id": 801,
+   "channel_name": "Português",
+   "prior": 1,
+   "channel_range": "901,1000"
+  },
+  {
+   "id": 901,
+   "channel_name": "Deutsch",
+   "prior": 1,
+   "channel_range": "1001,1100"
+  },
+  {
+   "id": 1001,
+   "channel_name": "Français",
+   "prior": 1,
+   "channel_range": "1101,1200"
+  },
+  {
+   "id": 1101,
+   "channel_name": "Русский",
+   "prior": 1,
+   "channel_range": "1201,1300"
+  },
+  {
+   "id": 1201,
+   "channel_name": "Español",
+   "prior": 1,
+   "channel_range": "1301,1400"
+  },
+  {
+   "id": 1,
+   "channel_name": "其他语言",
+   "prior": 1,
+   "channel_range": "1901,2000"
+  },
+  {
+   "id": 101,
+   "channel_name": "简体中文",
+   "prior": 2,
+   "channel_range": "2001,2500"
+  },
+  {
+   "id": 110,
+   "channel_name": "繁體中文",
+   "prior": 2,
+   "channel_range": "2501,3000"
+  },
+  {
+   "id": 201,
+   "channel_name": "English",
+   "prior": 2,
+   "channel_range": "3001,3500"
+  },
+  {
+   "id": 301,
+   "channel_name": "日本語",
+   "prior": 2,
+   "channel_range": "3501,4000"
+  },
+  {
+   "id": 401,
+   "channel_name": "한국어",
+   "prior": 2,
+   "channel_range": "4001,4500"
+  },
+  {
+   "id": 501,
+   "channel_name": "Tiếng Việt",
+   "prior": 2,
+   "channel_range": "4501,5000"
+  },
+  {
+   "id": 601,
+   "channel_name": "Bahasa Indonesia",
+   "prior": 2,
+   "channel_range": "5501,6000"
+  },
+  {
+   "id": 701,
+   "channel_name": "ภาษาไทย",
+   "prior": 2,
+   "channel_range": "6001,6500"
+  },
+  {
+   "id": 801,
+   "channel_name": "Português",
+   "prior": 2,
+   "channel_range": "6501,7000"
+  },
+  {
+   "id": 901,
+   "channel_name": "Deutsch",
+   "prior": 2,
+   "channel_range": "7001,7500"
+  },
+  {
+   "id": 1001,
+   "channel_name": "Français",
+   "prior": 2,
+   "channel_range": "7501,8000"
+  },
+  {
+   "id": 1101,
+   "channel_name": "Русский",
+   "prior": 2,
+   "channel_range": "8001,8500"
+  },
+  {
+   "id": 1201,
+   "channel_name": "Español",
+   "prior": 2,
+   "channel_range": "8501,9000"
+  },
+  {
+   "id": 1,
+   "channel_name": "其他语言",
+   "prior": 2,
+   "channel_range": "9501,10000"
+  }
+ ],
+ "text_chunk": null
+}

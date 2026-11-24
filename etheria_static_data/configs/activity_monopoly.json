@@ -1,0 +1,540 @@
+{
+ "config": "activity_monopoly",
+ "fields": [
+  "seat_id",
+  "event_id",
+  "rewards",
+  "random_list",
+  "condition"
+ ],
+ "rows": [
+  {
+   "seat_id": 1,
+   "event_id": 1,
+   "rewards": [
+    {
+     "id": 10150,
+     "count": 35
+    }
+   ],
+   "random_list": null,
+   "condition": 1
+  },
+  {
+   "seat_id": 2,
+   "event_id": 1,
+   "rewards": [
+    {
+     "id": 10150,
+     "count": 60
+    }
+   ],
+   "random_list": null,
+   "condition": 1
+  },
+  {
+   "seat_id": 3,
+   "event_id": 9,
+   "rewards": null,
+   "random_list": null,
+   "condition": 0
+  },
+  {
+   "seat_id": 4,
+   "event_id": 1,
+   "rewards": [
+    {
+     "id": 10150,
+     "count": 40
+    }
+   ],
+   "random_list": null,
+   "condition": 1
+  },
+  {
+   "seat_id": 5,
+   "event_id": 1,
+   "rewards": [
+    {
+     "id": 10150,
+     "count": 30
+    }
+   ],
+   "random_list": null,
+   "condition": 1
+  },
+  {
+   "seat_id": 6,
+   "event_id": 2,
+   "rewards": null,
+   "random_list": null,
+   "condition": 0
+  },
+  {
+   "seat_id": 7,
+   "event_id": 1,
+   "rewards": [
+    {
+     "id": 10150,
+     "count": 45
+    }
+   ],
+   "random_list": null,
+   "condition": 1
+  },
+  {
+   "seat_id": 8,
+   "event_id": 1,
+   "rewards": [
+    {
+     "id": 10150,
+     "count": 60
+    }
+   ],
+   "random_list": null,
+   "condition": 1
+  },
+  {
+   "seat_id": 9,
+   "event_id": 4,
+   "rewards": null,
+   "random_list": [
+    [
+     201,
+     30
+    ],
+    [
+     202,
+     30
+    ],
+    [
+     203,
+     5
+    ],
+    [
+     204,
+     10
+    ],
+    [
+     205,
+     10
+    ],
+    [
+     206,
+     30
+    ],
+    [
+     207,
+     20
+    ],
+    [
+     208,
+     20
+    ],
+    [
+     209,
+     10
+    ],
+    [
+     210,
+     10
+    ]
+   ],
+   "condition": 0
+  },
+  {
+   "seat_id": 10,
+   "event_id": 1,
+   "rewards": [
+    {
+     "id": 10150,
+     "count": 55
+    }
+   ],
+   "random_list": null,
+   "condition": 1
+  },
+  {
+   "seat_id": 11,
+   "event_id": 1,
+   "rewards": [
+    {
+     "id": 10150,
+     "count": 40
+    }
+   ],
+   "random_list": null,
+   "condition": 1
+  },
+  {
+   "seat_id": 12,
+   "event_id": 1,
+   "rewards": [
+    {
+     "id": 10150,
+     "count": 60
+    }
+   ],
+   "random_list": null,
+   "condition": 1
+  },
+  {
+   "seat_id": 13,
+   "event_id": 8,
+   "rewards": null,
+   "random_list": [
+    [
+     301,
+     1
+    ],
+    [
+     302,
+     5
+    ],
+    [
+     303,
+     5
+    ],
+    [
+     304,
+     20
+    ],
+    [
+     305,
+     30
+    ],
+    [
+     306,
+     30
+    ],
+    [
+     307,
+     40
+    ],
+    [
+     308,
+     40
+    ],
+    [
+     309,
+     50
+    ]
+   ],
+   "condition": 0
+  },
+  {
+   "seat_id": 14,
+   "event_id": 1,
+   "rewards": [
+    {
+     "id": 10150,
+     "count": 60
+    }
+   ],
+   "random_list": null,
+   "condition": 1
+  },
+  {
+   "seat_id": 15,
+   "event_id": 1,
+   "rewards": [
+    {
+     "id": 10150,
+     "count": 35
+    }
+   ],
+   "random_list": null,
+   "condition": 1
+  },
+  {
+   "seat_id": 16,
+   "event_id": 1,
+   "rewards": [
+    {
+     "id": 10150,
+     "count": 55
+    }
+   ],
+   "random_list": null,
+   "condition": 1
+  },
+  {
+   "seat_id": 17,
+   "event_id": 3,
+   "rewards": null,
+   "random_list": null,
+   "condition": 0
+  },
+  {
+   "seat_id": 18,
+   "event_id": 1,
+   "rewards": [
+    {
+     "id": 10150,
+     "count": 45
+    }
+   ],
+   "random_list": null,
+   "condition": 1
+  },
+  {
+   "seat_id": 19,
+   "event_id": 1,
+   "rewards": [
+    {
+     "id": 10150,
+     "count": 50
+    }
+   ],
+   "random_list": null,
+   "condition": 1
+  },
+  {
+   "seat_id": 20,
+   "event_id": 1,
+   "rewards": [
+    {
+     "id": 10150,
+     "count": 30
+    }
+   ],
+   "random_list": null,
+   "condition": 1
+  },
+  {
+   "seat_id": 21,
+   "event_id": 1,
+   "rewards": [
+    {
+     "id": 10150,
+     "count": 55
+    }
+   ],
+   "random_list": null,
+   "condition": 1
+  },
+  {
+   "seat_id": 22,
+   "event_id": 5,
+   "rewards": null,
+   "random_list": [
+    [
+     101,
+     5
+    ],
+    [
+     102,
+     5
+    ],
+    [
+     103,
+     40
+    ],
+    [
+     104,
+     50
+    ],
+    [
+     105,
+     50
+    ],
+    [
+     106,
+     10
+    ],
+    [
+     107,
+     40
+    ],
+    [
+     108,
+     50
+    ],
+    [
+     109,
+     50
+    ]
+   ],
+   "condition": 0
+  },
+  {
+   "seat_id": 23,
+   "event_id": 1,
+   "rewards": [
+    {
+     "id": 10150,
+     "count": 60
+    }
+   ],
+   "random_list": null,
+   "condition": 1
+  },
+  {
+   "seat_id": 24,
+   "event_id": 1,
+   "rewards": [
+    {
+     "id": 10150,
+     "count": 40
+    }
+   ],
+   "random_list": null,
+   "condition": 1
+  },
+  {
+   "seat_id": 25,
+   "event_id": 1,
+   "rewards": [
+    {
+     "id": 10150,
+     "count": 55
+    }
+   ],
+   "random_list": null,
+   "condition": 1
+  },
+  {
+   "seat_id": 26,
+   "event_id": 1,
+   "rewards": [
+    {
+     "id": 10150,
+     "count": 30
+    }
+   ],
+   "random_list": null,
+   "condition": 1
+  },
+  {
+   "seat_id": 27,
+   "event_id": 3,
+   "rewards": null,
+   "random_list": null,
+   "condition": 0
+  },
+  {
+   "seat_id": 28,
+   "event_id": 1,
+   "rewards": [
+    {
+     "id": 10150,
+     "count": 60
+    }
+   ],
+   "random_list": null,
+   "condition": 1
+  },
+  {
+   "seat_id": 29,
+   "event_id": 1,
+   "rewards": [
+    {
+     "id": 10150,
+     "count": 45
+    }
+   ],
+   "random_list": null,
+   "condition": 1
+  },
+  {
+   "seat_id": 30,
+   "event_id": 1,
+   "rewards": [
+    {
+     "id": 10150,
+     "count": 40
+    }
+   ],
+   "random_list": null,
+   "condition": 1
+  },
+  {
+   "seat_id": 31,
+   "event_id": 2,
+   "rewards": null,
+   "random_list": null,
+   "condition": 0
+  },
+  {
+   "seat_id": 32,
+   "event_id": 1,
+   "rewards": [
+    {
+     "id": 10150,
+     "count": 45
+    }
+   ],
+   "random_list": null,
+   "condition": 1
+  },
+  {
+   "seat_id": 33,
+   "event_id": 1,
+   "rewards": [
+    {
+     "id": 10150,
+     "count": 55
+    }
+   ],
+   "random_list": null,
+   "condition": 1
+  },
+  {
+   "seat_id": 34,
+   "event_id": 1,
+   "rewards": [
+    {
+     "id": 10150,
+     "count": 60
+    }
+   ],
+   "random_list": null,
+   "condition": 1
+  },
+  {
+   "seat_id": 35,
+   "event_id": 5,
+   "rewards": null,
+   "random_list": [
+    [
+     101,
+     5
+    ],
+    [
+     102,
+     5
+    ],
+    [
+     103,
+     40
+    ],
+    [
+     104,
+     50
+    ],
+    [
+     105,
+     50
+    ],
+    [
+     106,
+     10
+    ],
+    [
+     107,
+     40
+    ],
+    [
+     108,
+     50
+    ],
+    [
+     109,
+     50
+    ]
+   ],
+   "condition": 0
+  }
+ ],
+ "text_chunk": null
+}

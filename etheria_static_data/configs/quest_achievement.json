@@ -1,0 +1,114 @@
+{
+ "config": "quest_achievement",
+ "fields": [
+  "special_id",
+  "achievement_sub_type",
+  "show_priority",
+  "icon",
+  "eng_name",
+  "banner",
+  "main_show_name",
+  "show_name"
+ ],
+ "rows": [
+  [
+   {
+    "special_id": 1,
+    "achievement_sub_type": 1,
+    "show_priority": 1,
+    "icon": "0001",
+    "eng_name": "CHALLENGE",
+    "banner": "T_UI_Achievement_Banner_1",
+    "show_name": "Module",
+    "show_name_th": "โมดูล"
+   },
+   {
+    "special_id": 1,
+    "achievement_sub_type": 2,
+    "show_priority": 2,
+    "icon": "0001",
+    "eng_name": "CHALLENGE",
+    "banner": "T_UI_Achievement_Banner_1",
+    "show_name": "Module",
+    "show_name_th": "โมดูล"
+   },
+   {
+    "special_id": 1,
+    "achievement_sub_type": 3,
+    "show_priority": 3,
+    "icon": "0001",
+    "eng_name": "CHALLENGE",
+    "banner": "T_UI_Achievement_Banner_1",
+    "show_name": "Module",
+    "show_name_th": "โมดูล"
+   }
+  ],
+  [
+   {
+    "special_id": 2,
+    "achievement_sub_type": 4,
+    "show_priority": 1,
+    "icon": "0002",
+    "eng_name": "DEVELOPMENTS",
+    "banner": "T_UI_Achievement_Banner_2",
+    "show_name": "Shell",
+    "show_name_th": "Shell"
+   }
+  ],
+  [
+   {
+    "special_id": 3,
+    "achievement_sub_type": 5,
+    "show_priority": 1,
+    "icon": "0003",
+    "eng_name": "COLLECTION",
+    "banner": "T_UI_Achievement_Banner_3",
+    "show_name": "Component",
+    "show_name_th": "Component"
+   },
+   {
+    "special_id": 3,
+    "achievement_sub_type": 6,
+    "show_priority": 2,
+    "icon": "0003",
+    "eng_name": "COLLECTION",
+    "banner": "T_UI_Achievement_Banner_3",
+    "show_name": "Component",
+    "show_name_th": "Component"
+   },
+   {
+    "special_id": 3,
+    "achievement_sub_type": 7,
+    "show_priority": 3,
+    "icon": "0003",
+    "eng_name": "COLLECTION",
+    "banner": "T_UI_Achievement_Banner_3",
+    "show_name": "Component",
+    "show_name_th": "Component"
+   },
+   {
+    "special_id": 3,
+    "achievement_sub_type": 8,
+    "show_priority": 4,
+    "icon": "0003",
+    "eng_name": "COLLECTION",
+    "banner": "T_UI_Achievement_Banner_3",
+    "show_name": "Component",
+    "show_name_th": "Component"
+   }
+  ],
+  [
+   {
+    "special_id": 4,
+    "achievement_sub_type": 9,
+    "show_priority": 1,
+    "icon": "0004",
+    "eng_name": "JOURNEY",
+    "banner": "T_UI_Achievement_Banner_4",
+    "show_name": "Materials",
+    "show_name_th": "วัสดุ"
+   }
+  ]
+ ],
+ "text_chunk": "00102_d5d5c83e5a32aee7.json"
+}

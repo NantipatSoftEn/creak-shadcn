@@ -1,0 +1,204 @@
+{
+ "config": "cir_npc",
+ "fields": [
+  "npc_id",
+  "npc_icon",
+  "npc_name",
+  "npc_verify"
+ ],
+ "rows": {
+  "1": {
+   "npc_id": 1,
+   "npc_icon": "",
+   "npc_name": "死神",
+   "npc_verify": 0
+  },
+  "2": {
+   "npc_id": 2,
+   "npc_icon": "",
+   "npc_name": "莉莉丝",
+   "npc_verify": 0
+  },
+  "3": {
+   "npc_id": 3,
+   "npc_icon": "",
+   "npc_name": "M",
+   "npc_verify": 0
+  },
+  "4": {
+   "npc_id": 4,
+   "npc_icon": "",
+   "npc_name": "弗洛拉",
+   "npc_verify": 0
+  },
+  "5": {
+   "npc_id": 5,
+   "npc_icon": "",
+   "npc_name": "丹特",
+   "npc_verify": 0
+  },
+  "6": {
+   "npc_id": 6,
+   "npc_icon": "",
+   "npc_name": "Friday",
+   "npc_verify": 0
+  },
+  "7": {
+   "npc_id": 7,
+   "npc_icon": "",
+   "npc_name": "安琪儿",
+   "npc_verify": 0
+  },
+  "101": {
+   "npc_id": 101,
+   "npc_icon": "",
+   "npc_name": "13th高校信使",
+   "npc_verify": 1
+  },
+  "102": {
+   "npc_id": 102,
+   "npc_icon": "",
+   "npc_name": "伊瑟 NEWS",
+   "npc_verify": 1
+  },
+  "103": {
+   "npc_id": 103,
+   "npc_icon": "",
+   "npc_name": "Doki吃瓜社",
+   "npc_verify": 1
+  },
+  "30061": {
+   "npc_id": 30061,
+   "npc_icon": "T_CstHead_BloodDiamond_Hollow",
+   "npc_name": "黛纳",
+   "npc_verify": 0
+  },
+  "30101": {
+   "npc_id": 30101,
+   "npc_icon": "T_CstHead_Helkid_Light",
+   "npc_name": "赫尔基德",
+   "npc_verify": 0
+  },
+  "30151": {
+   "npc_id": 30151,
+   "npc_icon": "T_CstHead_Messiah_Const",
+   "npc_name": "弥瑟亚",
+   "npc_verify": 0
+  },
+  "30201": {
+   "npc_id": 30201,
+   "npc_icon": "T_CstHead_Oboro_Odd",
+   "npc_name": "胧",
+   "npc_verify": 0
+  },
+  "40127": {
+   "npc_id": 40127,
+   "npc_icon": "T_CstHead_CorpseCol_Disor",
+   "npc_name": "维克托",
+   "npc_verify": 0
+  },
+  "40157": {
+   "npc_id": 40157,
+   "npc_icon": "T_CstHead_GhostMagic_Disor",
+   "npc_name": "梨梨",
+   "npc_verify": 0
+  },
+  "40181": {
+   "npc_id": 40181,
+   "npc_icon": "T_CstHead_Shears_Light",
+   "npc_name": "千明",
+   "npc_verify": 0
+  },
+  "40301": {
+   "npc_id": 40301,
+   "npc_icon": "T_CstHead_Jugg_Alpha",
+   "npc_name": "勉",
+   "npc_verify": 0
+  },
+  "40331": {
+   "npc_id": 40331,
+   "npc_icon": "T_CstHead_RC77_Odd",
+   "npc_name": "RC-77",
+   "npc_verify": 0
+  },
+  "40361": {
+   "npc_id": 40361,
+   "npc_icon": "T_CstHead_Lighting_Light",
+   "npc_name": "惊霆",
+   "npc_verify": 0
+  },
+  "40391": {
+   "npc_id": 40391,
+   "npc_icon": "T_CstHead_Kraken_Hollow",
+   "npc_name": "克拉肯",
+   "npc_verify": 0
+  },
+  "40421": {
+   "npc_id": 40421,
+   "npc_icon": "T_CstHead_Yang_Odd",
+   "npc_name": "炀",
+   "npc_verify": 0
+  },
+  "40451": {
+   "npc_id": 40451,
+   "npc_icon": "T_CstHead_Lin_Light",
+   "npc_name": "阿凛",
+   "npc_verify": 0
+  },
+  "40491": {
+   "npc_id": 40491,
+   "npc_icon": "T_CstHead_Shanya_Const",
+   "npc_name": "善雅",
+   "npc_verify": 0
+  },
+  "40511": {
+   "npc_id": 40511,
+   "npc_icon": "T_CstHead_ShadowHunter_Disor",
+   "npc_name": "谛听",
+   "npc_verify": 0
+  },
+  "40541": {
+   "npc_id": 40541,
+   "npc_icon": "T_CstHead_Dolores_Const",
+   "npc_name": "多乐丝",
+   "npc_verify": 0
+  },
+  "46001": {
+   "npc_id": 46001,
+   "npc_icon": "T_CstHead_HardShield_Odd",
+   "npc_name": "安德鲁",
+   "npc_verify": 0
+  },
+  "46046": {
+   "npc_id": 46046,
+   "npc_icon": "T_CstHead_Yao_Const",
+   "npc_name": "幺",
+   "npc_verify": 0
+  },
+  "46061": {
+   "npc_id": 46061,
+   "npc_icon": "T_CstHead_Opal_Const",
+   "npc_name": "奥波尔",
+   "npc_verify": 0
+  },
+  "46081": {
+   "npc_id": 46081,
+   "npc_icon": "T_CstHead_Experimenter41_Const",
+   "npc_name": "41号",
+   "npc_verify": 0
+  },
+  "46121": {
+   "npc_id": 46121,
+   "npc_icon": "T_CstHead_Kazama_Light",
+   "npc_name": "风见一宵",
+   "npc_verify": 0
+  },
+  "46161": {
+   "npc_id": 46161,
+   "npc_icon": "T_CstHead_Durandor_Light",
+   "npc_name": "杜兰铎",
+   "npc_verify": 0
+  }
+ },
+ "text_chunk": null
+}

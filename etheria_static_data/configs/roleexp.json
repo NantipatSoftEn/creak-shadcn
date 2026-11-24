@@ -1,0 +1,612 @@
+{
+ "config": "roleexp",
+ "fields": [
+  "level",
+  "exp",
+  "stamina",
+  "award"
+ ],
+ "rows": [
+  {
+   "level": 1,
+   "exp": 10,
+   "stamina": 101,
+   "award": null
+  },
+  {
+   "level": 2,
+   "exp": 20,
+   "stamina": 102,
+   "award": null
+  },
+  {
+   "level": 3,
+   "exp": 40,
+   "stamina": 103,
+   "award": null
+  },
+  {
+   "level": 4,
+   "exp": 60,
+   "stamina": 104,
+   "award": null
+  },
+  {
+   "level": 5,
+   "exp": 90,
+   "stamina": 105,
+   "award": null
+  },
+  {
+   "level": 6,
+   "exp": 120,
+   "stamina": 106,
+   "award": null
+  },
+  {
+   "level": 7,
+   "exp": 150,
+   "stamina": 107,
+   "award": null
+  },
+  {
+   "level": 8,
+   "exp": 180,
+   "stamina": 108,
+   "award": null
+  },
+  {
+   "level": 9,
+   "exp": 200,
+   "stamina": 109,
+   "award": null
+  },
+  {
+   "level": 10,
+   "exp": 220,
+   "stamina": 110,
+   "award": null
+  },
+  {
+   "level": 11,
+   "exp": 240,
+   "stamina": 111,
+   "award": null
+  },
+  {
+   "level": 12,
+   "exp": 260,
+   "stamina": 112,
+   "award": null
+  },
+  {
+   "level": 13,
+   "exp": 280,
+   "stamina": 113,
+   "award": null
+  },
+  {
+   "level": 14,
+   "exp": 300,
+   "stamina": 114,
+   "award": null
+  },
+  {
+   "level": 15,
+   "exp": 320,
+   "stamina": 115,
+   "award": null
+  },
+  {
+   "level": 16,
+   "exp": 340,
+   "stamina": 116,
+   "award": null
+  },
+  {
+   "level": 17,
+   "exp": 360,
+   "stamina": 117,
+   "award": null
+  },
+  {
+   "level": 18,
+   "exp": 365,
+   "stamina": 118,
+   "award": null
+  },
+  {
+   "level": 19,
+   "exp": 370,
+   "stamina": 119,
+   "award": null
+  },
+  {
+   "level": 20,
+   "exp": 375,
+   "stamina": 120,
+   "award": null
+  },
+  {
+   "level": 21,
+   "exp": 380,
+   "stamina": 121,
+   "award": null
+  },
+  {
+   "level": 22,
+   "exp": 385,
+   "stamina": 122,
+   "award": null
+  },
+  {
+   "level": 23,
+   "exp": 390,
+   "stamina": 123,
+   "award": null
+  },
+  {
+   "level": 24,
+   "exp": 395,
+   "stamina": 124,
+   "award": null
+  },
+  {
+   "level": 25,
+   "exp": 400,
+   "stamina": 125,
+   "award": null
+  },
+  {
+   "level": 26,
+   "exp": 420,
+   "stamina": 126,
+   "award": null
+  },
+  {
+   "level": 27,
+   "exp": 440,
+   "stamina": 127,
+   "award": null
+  },
+  {
+   "level": 28,
+   "exp": 460,
+   "stamina": 128,
+   "award": null
+  },
+  {
+   "level": 29,
+   "exp": 480,
+   "stamina": 129,
+   "award": null
+  },
+  {
+   "level": 30,
+   "exp": 500,
+   "stamina": 130,
+   "award": null
+  },
+  {
+   "level": 31,
+   "exp": 510,
+   "stamina": 131,
+   "award": null
+  },
+  {
+   "level": 32,
+   "exp": 520,
+   "stamina": 132,
+   "award": null
+  },
+  {
+   "level": 33,
+   "exp": 550,
+   "stamina": 133,
+   "award": null
+  },
+  {
+   "level": 34,
+   "exp": 600,
+   "stamina": 134,
+   "award": null
+  },
+  {
+   "level": 35,
+   "exp": 650,
+   "stamina": 135,
+   "award": null
+  },
+  {
+   "level": 36,
+   "exp": 700,
+   "stamina": 136,
+   "award": null
+  },
+  {
+   "level": 37,
+   "exp": 750,
+   "stamina": 137,
+   "award": null
+  },
+  {
+   "level": 38,
+   "exp": 800,
+   "stamina": 138,
+   "award": null
+  },
+  {
+   "level": 39,
+   "exp": 850,
+   "stamina": 139,
+   "award": null
+  },
+  {
+   "level": 40,
+   "exp": 900,
+   "stamina": 140,
+   "award": null
+  },
+  {
+   "level": 41,
+   "exp": 950,
+   "stamina": 141,
+   "award": null
+  },
+  {
+   "level": 42,
+   "exp": 1000,
+   "stamina": 142,
+   "award": null
+  },
+  {
+   "level": 43,
+   "exp": 1000,
+   "stamina": 143,
+   "award": null
+  },
+  {
+   "level": 44,
+   "exp": 1000,
+   "stamina": 144,
+   "award": null
+  },
+  {
+   "level": 45,
+   "exp": 1000,
+   "stamina": 145,
+   "award": null
+  },
+  {
+   "level": 46,
+   "exp": 1000,
+   "stamina": 146,
+   "award": null
+  },
+  {
+   "level": 47,
+   "exp": 1000,
+   "stamina": 147,
+   "award": null
+  },
+  {
+   "level": 48,
+   "exp": 1000,
+   "stamina": 148,
+   "award": null
+  },
+  {
+   "level": 49,
+   "exp": 1000,
+   "stamina": 149,
+   "award": null
+  },
+  {
+   "level": 50,
+   "exp": 1000,
+   "stamina": 150,
+   "award": null
+  },
+  {
+   "level": 51,
+   "exp": 1000,
+   "stamina": 151,
+   "award": null
+  },
+  {
+   "level": 52,
+   "exp": 1000,
+   "stamina": 152,
+   "award": null
+  },
+  {
+   "level": 53,
+   "exp": 1000,
+   "stamina": 153,
+   "award": null
+  },
+  {
+   "level": 54,
+   "exp": 1000,
+   "stamina": 154,
+   "award": null
+  },
+  {
+   "level": 55,
+   "exp": 1000,
+   "stamina": 155,
+   "award": null
+  },
+  {
+   "level": 56,
+   "exp": 1000,
+   "stamina": 156,
+   "award": null
+  },
+  {
+   "level": 57,
+   "exp": 1000,
+   "stamina": 157,
+   "award": null
+  },
+  {
+   "level": 58,
+   "exp": 1000,
+   "stamina": 158,
+   "award": null
+  },
+  {
+   "level": 59,
+   "exp": 1000,
+   "stamina": 159,
+   "award": null
+  },
+  {
+   "level": 60,
+   "exp": 1000,
+   "stamina": 160,
+   "award": null
+  },
+  {
+   "level": 61,
+   "exp": 1000,
+   "stamina": 161,
+   "award": null
+  },
+  {
+   "level": 62,
+   "exp": 1000,
+   "stamina": 162,
+   "award": null
+  },
+  {
+   "level": 63,
+   "exp": 1000,
+   "stamina": 163,
+   "award": null
+  },
+  {
+   "level": 64,
+   "exp": 1000,
+   "stamina": 164,
+   "award": null
+  },
+  {
+   "level": 65,
+   "exp": 1000,
+   "stamina": 165,
+   "award": null
+  },
+  {
+   "level": 66,
+   "exp": 1000,
+   "stamina": 166,
+   "award": null
+  },
+  {
+   "level": 67,
+   "exp": 1000,
+   "stamina": 167,
+   "award": null
+  },
+  {
+   "level": 68,
+   "exp": 1000,
+   "stamina": 168,
+   "award": null
+  },
+  {
+   "level": 69,
+   "exp": 1000,
+   "stamina": 169,
+   "award": null
+  },
+  {
+   "level": 70,
+   "exp": 1000,
+   "stamina": 170,
+   "award": null
+  },
+  {
+   "level": 71,
+   "exp": 1000,
+   "stamina": 171,
+   "award": null
+  },
+  {
+   "level": 72,
+   "exp": 1000,
+   "stamina": 172,
+   "award": null
+  },
+  {
+   "level": 73,
+   "exp": 1000,
+   "stamina": 173,
+   "award": null
+  },
+  {
+   "level": 74,
+   "exp": 1000,
+   "stamina": 174,
+   "award": null
+  },
+  {
+   "level": 75,
+   "exp": 1000,
+   "stamina": 175,
+   "award": null
+  },
+  {
+   "level": 76,
+   "exp": 1000,
+   "stamina": 176,
+   "award": null
+  },
+  {
+   "level": 77,
+   "exp": 1000,
+   "stamina": 177,
+   "award": null
+  },
+  {
+   "level": 78,
+   "exp": 1000,
+   "stamina": 178,
+   "award": null
+  },
+  {
+   "level": 79,
+   "exp": 1000,
+   "stamina": 179,
+   "award": null
+  },
+  {
+   "level": 80,
+   "exp": 1000,
+   "stamina": 180,
+   "award": null
+  },
+  {
+   "level": 81,
+   "exp": 1000,
+   "stamina": 181,
+   "award": null
+  },
+  {
+   "level": 82,
+   "exp": 1000,
+   "stamina": 182,
+   "award": null
+  },
+  {
+   "level": 83,
+   "exp": 1000,
+   "stamina": 183,
+   "award": null
+  },
+  {
+   "level": 84,
+   "exp": 1000,
+   "stamina": 184,
+   "award": null
+  },
+  {
+   "level": 85,
+   "exp": 1000,
+   "stamina": 185,
+   "award": null
+  },
+  {
+   "level": 86,
+   "exp": 1000,
+   "stamina": 186,
+   "award": null
+  },
+  {
+   "level": 87,
+   "exp": 1000,
+   "stamina": 187,
+   "award": null
+  },
+  {
+   "level": 88,
+   "exp": 1000,
+   "stamina": 188,
+   "award": null
+  },
+  {
+   "level": 89,
+   "exp": 1000,
+   "stamina": 189,
+   "award": null
+  },
+  {
+   "level": 90,
+   "exp": 1000,
+   "stamina": 190,
+   "award": null
+  },
+  {
+   "level": 91,
+   "exp": 1000,
+   "stamina": 191,
+   "award": null
+  },
+  {
+   "level": 92,
+   "exp": 1000,
+   "stamina": 192,
+   "award": null
+  },
+  {
+   "level": 93,
+   "exp": 1000,
+   "stamina": 193,
+   "award": null
+  },
+  {
+   "level": 94,
+   "exp": 1000,
+   "stamina": 194,
+   "award": null
+  },
+  {
+   "level": 95,
+   "exp": 1000,
+   "stamina": 195,
+   "award": null
+  },
+  {
+   "level": 96,
+   "exp": 1000,
+   "stamina": 196,
+   "award": null
+  },
+  {
+   "level": 97,
+   "exp": 1000,
+   "stamina": 197,
+   "award": null
+  },
+  {
+   "level": 98,
+   "exp": 1000,
+   "stamina": 198,
+   "award": null
+  },
+  {
+   "level": 99,
+   "exp": 1000,
+   "stamina": 199,
+   "award": null
+  },
+  {
+   "level": 100,
+   "exp": 0,
+   "stamina": 200,
+   "award": null
+  }
+ ],
+ "text_chunk": null
+}

@@ -1,0 +1,123 @@
+{
+ "config": "activity_competition",
+ "fields": [
+  "id",
+  "asset",
+  "title",
+  "desc",
+  "show_time_str"
+ ],
+ "rows": {
+  "501": {
+   "id": 501,
+   "asset": "0001",
+   "title": "Hyperlinker Cup S1",
+   "title_th": "ไฮเปอร์ลิงเกอร์คัพ S1",
+   "desc": "Who will become the strongest Hyperlinker of Season 1?\nWatch the tournament livestream for a chance to win awesome rewards!",
+   "desc_th": "ใครจะเป็นไฮเปอร์ลิงเกอร์ที่แข็งแกร่งที่สุดของฤดูกาล1กันนะ?\nดูทัวร์นาเมนต์สตรีมสดเพื่อโอกาสลุ้นรางวัลเจ๋ง ๆ เลย!",
+   "show_time_str": "9/27 11:00-9/27 16:00 (UTC-5)",
+   "show_time_str_th": "27/9 11:00-27/9 16:00 (UTC-5)"
+  },
+  "502": {
+   "id": 502,
+   "asset": "0002",
+   "title": "Global Fest Tournament",
+   "title_th": "ทัวร์นาเมนต์เทศกาลระดับโลก",
+   "desc": "All teams assembled across the globe!\nSupport your team now and win rewards for your server!",
+   "desc_th": "รวมพลทีมทั้งหมดจากทั่วโลก!\nสนับสนุนทีมของคุณเลยตอนนี้และคว้ารางวัลให้กับเซิร์ฟเวอร์ของคุณ!",
+   "show_time_str": "10/18-10/19 22:00- Next Day 03:00 (UTC+8)",
+   "show_time_str_th": "18-/1019/10 22:00- วันถัดไป 03:00 (UTC+8)"
+  },
+  "503": {
+   "id": 503,
+   "asset": "0002",
+   "title": "Global Fest Tournament",
+   "title_th": "ทัวร์นาเมนต์เทศกาลระดับโลก",
+   "desc": "All teams assembled across the globe!\nSupport your team now and win rewards for your server!",
+   "desc_th": "รวมพลทีมทั้งหมดจากทั่วโลก!\nสนับสนุนทีมของคุณเลยตอนนี้และคว้ารางวัลให้กับเซิร์ฟเวอร์ของคุณ!",
+   "show_time_str": "10/18-10/19 22:00- Next Day 03:00 (UTC+8)",
+   "show_time_str_th": "18-/1019/10 22:00- วันถัดไป 03:00 (UTC+8)"
+  },
+  "504": {
+   "id": 504,
+   "asset": "0002",
+   "title": "Global Fest Tournament",
+   "title_th": "ทัวร์นาเมนต์เทศกาลระดับโลก",
+   "desc": "All teams assembled across the globe!\nSupport your team now and win rewards for your server!",
+   "desc_th": "รวมพลทีมทั้งหมดจากทั่วโลก!\nสนับสนุนทีมของคุณเลยตอนนี้และคว้ารางวัลให้กับเซิร์ฟเวอร์ของคุณ!",
+   "show_time_str": "10/18-10/19 9:00-14:00 (UTC-5)",
+   "show_time_str_th": "18-/1019/10 9:00-14:00 (UTC-5)"
+  },
+  "505": {
+   "id": 505,
+   "asset": "0002",
+   "title": "Global Fest Tournament",
+   "title_th": "ทัวร์นาเมนต์เทศกาลระดับโลก",
+   "desc": "All teams assembled across the globe!\nSupport your team now and win rewards for your server!",
+   "desc_th": "รวมพลทีมทั้งหมดจากทั่วโลก!\nสนับสนุนทีมของคุณเลยตอนนี้และคว้ารางวัลให้กับเซิร์ฟเวอร์ของคุณ!",
+   "show_time_str": "10/18-10/19 22:00- Next Day 03:00 (UTC+8)",
+   "show_time_str_th": "18-/1019/10 22:00- วันถัดไป 03:00 (UTC+8)"
+  },
+  "506": {
+   "id": 506,
+   "asset": "0002",
+   "title": "Global Fest Tournament",
+   "title_th": "ทัวร์นาเมนต์เทศกาลระดับโลก",
+   "desc": "All teams assembled across the globe!\nSupport your team now and win rewards for your server!",
+   "desc_th": "รวมพลทีมทั้งหมดจากทั่วโลก!\nสนับสนุนทีมของคุณเลยตอนนี้และคว้ารางวัลให้กับเซิร์ฟเวอร์ของคุณ!",
+   "show_time_str": "10/18-10/19 22:00- Next Day 03:00 (UTC+8)",
+   "show_time_str_th": "18-/1019/10 22:00- วันถัดไป 03:00 (UTC+8)"
+  },
+  "511": {
+   "id": 511,
+   "asset": "0003",
+   "title": "Regional Qualifier: Finals",
+   "title_th": "รอบคัดเลือกภูมิภาค - ชิงชนะเลิศ",
+   "desc": "The regional top 8 are locked in\nWho's making it to the Global Finals?",
+   "desc_th": "ผู้เข้าแข่งขัน 8 อันดับแรกพร้อมแล้ว\nใครจะผ่านเข้า Global Finals?",
+   "show_time_str": "29/12 15:00-22:00 (UTC+8)",
+   "show_time_str_th": "29/12 15:00-22:00 (UTC+8)"
+  },
+  "512": {
+   "id": 512,
+   "asset": "0003",
+   "title": "Regional Qualifier: Finals",
+   "title_th": "รอบคัดเลือกภูมิภาค - ชิงชนะเลิศ",
+   "desc": "The regional top 8 are locked in\nWho's making it to the Global Finals?",
+   "desc_th": "ผู้เข้าแข่งขัน 8 อันดับแรกพร้อมแล้ว\nใครจะผ่านเข้า Global Finals?",
+   "show_time_str": "26/12 15:00-22:00 (UTC+8)",
+   "show_time_str_th": "26/12 15:00-22:00 (UTC+8)"
+  },
+  "513": {
+   "id": 513,
+   "asset": "0003",
+   "title": "Regional Qualifier: Finals",
+   "title_th": "รอบคัดเลือกภูมิภาค - ชิงชนะเลิศ",
+   "desc": "The regional top 8 are locked in\nWho's making it to the Global Finals?",
+   "desc_th": "ผู้เข้าแข่งขัน 8 อันดับแรกพร้อมแล้ว\nใครจะผ่านเข้า Global Finals?",
+   "show_time_str": "30/12 15:00-22:00 (UTC-5)",
+   "show_time_str_th": "30/12 15:00-22:00 (UTC-5)"
+  },
+  "514": {
+   "id": 514,
+   "asset": "0003",
+   "title": "Regional Qualifier: Finals",
+   "title_th": "รอบคัดเลือกภูมิภาค - ชิงชนะเลิศ",
+   "desc": "The regional top 8 are locked in\nWho's making it to the Global Finals?",
+   "desc_th": "ผู้เข้าแข่งขัน 8 อันดับแรกพร้อมแล้ว\nใครจะผ่านเข้า Global Finals?",
+   "show_time_str": "28/12 15:00-22:00 (UTC+9)",
+   "show_time_str_th": "28/12 15:00-22:00 (UTC+9)"
+  },
+  "515": {
+   "id": 515,
+   "asset": "0003",
+   "title": "Regional Qualifier: Finals",
+   "title_th": "รอบคัดเลือกภูมิภาค - ชิงชนะเลิศ",
+   "desc": "The regional top 8 are locked in\nWho's making it to the Global Finals?",
+   "desc_th": "ผู้เข้าแข่งขัน 8 อันดับแรกพร้อมแล้ว\nใครจะผ่านเข้า Global Finals?",
+   "show_time_str": "27/12 15:00-22:00 (UTC+9)",
+   "show_time_str_th": "27/12 15:00-22:00 (UTC+9)"
+  }
+ },
+ "text_chunk": "00005_337b403bcc4902ab.json"
+}

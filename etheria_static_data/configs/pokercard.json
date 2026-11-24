@@ -1,0 +1,286 @@
+{
+ "config": "pokercard",
+ "fields": [
+  "id",
+  "attr",
+  "number",
+  "dungeonId",
+  "unitId"
+ ],
+ "rows": {
+  "13701": {
+   "id": 13701,
+   "attr": 1,
+   "number": 1,
+   "dungeonId": 9000001,
+   "unitId": 30101
+  },
+  "13702": {
+   "id": 13702,
+   "attr": 1,
+   "number": 2,
+   "dungeonId": 9000002,
+   "unitId": 50001
+  },
+  "13703": {
+   "id": 13703,
+   "attr": 1,
+   "number": 3,
+   "dungeonId": 9000003,
+   "unitId": 50031
+  },
+  "13704": {
+   "id": 13704,
+   "attr": 1,
+   "number": 4,
+   "dungeonId": 9000004,
+   "unitId": 50141
+  },
+  "13705": {
+   "id": 13705,
+   "attr": 1,
+   "number": 5,
+   "dungeonId": 9000005,
+   "unitId": 46006
+  },
+  "13706": {
+   "id": 13706,
+   "attr": 1,
+   "number": 6,
+   "dungeonId": 9000006,
+   "unitId": 46146
+  },
+  "13707": {
+   "id": 13707,
+   "attr": 1,
+   "number": 7,
+   "dungeonId": 9000007,
+   "unitId": 46451
+  },
+  "13708": {
+   "id": 13708,
+   "attr": 1,
+   "number": 8,
+   "dungeonId": 9000008,
+   "unitId": 40451
+  },
+  "13709": {
+   "id": 13709,
+   "attr": 1,
+   "number": 9,
+   "dungeonId": 9000009,
+   "unitId": 40631
+  },
+  "13710": {
+   "id": 13710,
+   "attr": 1,
+   "number": 10,
+   "dungeonId": 9000010,
+   "unitId": 46241
+  },
+  "13711": {
+   "id": 13711,
+   "attr": 1,
+   "number": 11,
+   "dungeonId": 9000011,
+   "unitId": 40571
+  },
+  "13712": {
+   "id": 13712,
+   "attr": 1,
+   "number": 12,
+   "dungeonId": 9000012,
+   "unitId": 30701
+  },
+  "13713": {
+   "id": 13713,
+   "attr": 1,
+   "number": 13,
+   "dungeonId": 9000013,
+   "unitId": 30401
+  },
+  "13714": {
+   "id": 13714,
+   "attr": 2,
+   "number": 1,
+   "dungeonId": 9000014,
+   "unitId": 30501
+  },
+  "13715": {
+   "id": 13715,
+   "attr": 2,
+   "number": 2,
+   "dungeonId": 9000015,
+   "unitId": 50041
+  },
+  "13716": {
+   "id": 13716,
+   "attr": 2,
+   "number": 3,
+   "dungeonId": 9000016,
+   "unitId": 50061
+  },
+  "13717": {
+   "id": 13717,
+   "attr": 2,
+   "number": 4,
+   "dungeonId": 9000017,
+   "unitId": 50146
+  },
+  "13718": {
+   "id": 13718,
+   "attr": 2,
+   "number": 5,
+   "dungeonId": 9000018,
+   "unitId": 46001
+  },
+  "13719": {
+   "id": 13719,
+   "attr": 2,
+   "number": 6,
+   "dungeonId": 9000019,
+   "unitId": 46151
+  },
+  "13720": {
+   "id": 13720,
+   "attr": 2,
+   "number": 7,
+   "dungeonId": 9000020,
+   "unitId": 46331
+  },
+  "13721": {
+   "id": 13721,
+   "attr": 2,
+   "number": 8,
+   "dungeonId": 9000021,
+   "unitId": 40331
+  },
+  "13722": {
+   "id": 13722,
+   "attr": 2,
+   "number": 9,
+   "dungeonId": 9000022,
+   "unitId": 40391
+  },
+  "13723": {
+   "id": 13723,
+   "attr": 2,
+   "number": 10,
+   "dungeonId": 9000023,
+   "unitId": 40661
+  },
+  "13724": {
+   "id": 13724,
+   "attr": 2,
+   "number": 11,
+   "dungeonId": 9000024,
+   "unitId": 30201
+  },
+  "13725": {
+   "id": 13725,
+   "attr": 2,
+   "number": 12,
+   "dungeonId": 9000025,
+   "unitId": 30751
+  },
+  "13726": {
+   "id": 13726,
+   "attr": 2,
+   "number": 13,
+   "dungeonId": 9000026,
+   "unitId": 30351
+  },
+  "13727": {
+   "id": 13727,
+   "attr": 3,
+   "number": 1,
+   "dungeonId": 9000027,
+   "unitId": 30601
+  },
+  "13728": {
+   "id": 13728,
+   "attr": 3,
+   "number": 2,
+   "dungeonId": 9000028,
+   "unitId": 50241
+  },
+  "13729": {
+   "id": 13729,
+   "attr": 3,
+   "number": 3,
+   "dungeonId": 9000029,
+   "unitId": 50036
+  },
+  "13730": {
+   "id": 13730,
+   "attr": 3,
+   "number": 4,
+   "dungeonId": 9000030,
+   "unitId": 50301
+  },
+  "13731": {
+   "id": 13731,
+   "attr": 3,
+   "number": 5,
+   "dungeonId": 9000031,
+   "unitId": 50081
+  },
+  "13732": {
+   "id": 13732,
+   "attr": 3,
+   "number": 6,
+   "dungeonId": 9000032,
+   "unitId": 46421
+  },
+  "13733": {
+   "id": 13733,
+   "attr": 3,
+   "number": 7,
+   "dungeonId": 9000033,
+   "unitId": 46271
+  },
+  "13734": {
+   "id": 13734,
+   "attr": 3,
+   "number": 8,
+   "dungeonId": 9000034,
+   "unitId": 40186
+  },
+  "13735": {
+   "id": 13735,
+   "attr": 3,
+   "number": 9,
+   "dungeonId": 9000035,
+   "unitId": 40301
+  },
+  "13736": {
+   "id": 13736,
+   "attr": 3,
+   "number": 10,
+   "dungeonId": 9000036,
+   "unitId": 40691
+  },
+  "13737": {
+   "id": 13737,
+   "attr": 3,
+   "number": 11,
+   "dungeonId": 9000037,
+   "unitId": 40601
+  },
+  "13738": {
+   "id": 13738,
+   "attr": 3,
+   "number": 12,
+   "dungeonId": 9000038,
+   "unitId": 30451
+  },
+  "13739": {
+   "id": 13739,
+   "attr": 3,
+   "number": 13,
+   "dungeonId": 9000039,
+   "unitId": 30251
+  }
+ },
+ "text_chunk": null
+}

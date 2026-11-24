@@ -1,0 +1,57 @@
+{
+ "config": "activity_rta_match",
+ "fields": [
+  "round",
+  "rules",
+  "img_bg",
+  "quests",
+  "name",
+  "desc"
+ ],
+ "rows": {
+  "round": [
+   1,
+   [
+    1,
+    2,
+    3
+   ],
+   "T_UI_Activity_Arena_ARAM_BG",
+   [
+    1,
+    2,
+    3
+   ]
+  ],
+  "rules": [
+   2,
+   [
+    2,
+    3,
+    4
+   ],
+   "T_UI_Activity_Arena_ARAM_BG",
+   [
+    1,
+    2,
+    3,
+    4
+   ]
+  ],
+  "img_bg": [
+   3,
+   [
+    2,
+    3,
+    4
+   ],
+   "T_UI_Activity_Arena_ARAM_BG",
+   [
+    1,
+    2,
+    3,
+    4
+   ]
+  ]
+ }
+}

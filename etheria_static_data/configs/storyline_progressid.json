@@ -1,0 +1,226 @@
+{
+ "config": "storyline_progressid",
+ "fields": [
+  "storyline_id",
+  "progress_id"
+ ],
+ "rows": {
+  "1060101": {
+   "storyline_id": 1060101,
+   "progress_id": 1
+  },
+  "1060102": {
+   "storyline_id": 1060102,
+   "progress_id": 2
+  },
+  "1060104": {
+   "storyline_id": 1060104,
+   "progress_id": 3
+  },
+  "1060103": {
+   "storyline_id": 1060103,
+   "progress_id": 4
+  },
+  "2000102": {
+   "storyline_id": 2000102,
+   "progress_id": 5
+  },
+  "2000103": {
+   "storyline_id": 2000103,
+   "progress_id": 6
+  },
+  "2000104": {
+   "storyline_id": 2000104,
+   "progress_id": 7
+  },
+  "3000101": {
+   "storyline_id": 3000101,
+   "progress_id": 8
+  },
+  "3090101": {
+   "storyline_id": 3090101,
+   "progress_id": 9
+  },
+  "4000101": {
+   "storyline_id": 4000101,
+   "progress_id": 10
+  },
+  "5000101": {
+   "storyline_id": 5000101,
+   "progress_id": 11
+  },
+  "7000102": {
+   "storyline_id": 7000102,
+   "progress_id": 12
+  },
+  "91001110": {
+   "storyline_id": 91001110,
+   "progress_id": 28
+  },
+  "2030102": {
+   "storyline_id": 2030102,
+   "progress_id": 14
+  },
+  "2030105": {
+   "storyline_id": 2030105,
+   "progress_id": 15
+  },
+  "2030106": {
+   "storyline_id": 2030106,
+   "progress_id": 16
+  },
+  "2010302": {
+   "storyline_id": 2010302,
+   "progress_id": 17
+  },
+  "91001101": {
+   "storyline_id": 91001101,
+   "progress_id": 18
+  },
+  "91001102": {
+   "storyline_id": 91001102,
+   "progress_id": 19
+  },
+  "91001103": {
+   "storyline_id": 91001103,
+   "progress_id": 20
+  },
+  "91001104": {
+   "storyline_id": 91001104,
+   "progress_id": 21
+  },
+  "91001105": {
+   "storyline_id": 91001105,
+   "progress_id": 22
+  },
+  "910011061": {
+   "storyline_id": 910011061,
+   "progress_id": 23
+  },
+  "910011062": {
+   "storyline_id": 910011062,
+   "progress_id": 24
+  },
+  "91001107": {
+   "storyline_id": 91001107,
+   "progress_id": 25
+  },
+  "91001108": {
+   "storyline_id": 91001108,
+   "progress_id": 26
+  },
+  "91001109": {
+   "storyline_id": 91001109,
+   "progress_id": 27
+  },
+  "91001201": {
+   "storyline_id": 91001201,
+   "progress_id": 29
+  },
+  "91001202": {
+   "storyline_id": 91001202,
+   "progress_id": 30
+  },
+  "91001203": {
+   "storyline_id": 91001203,
+   "progress_id": 31
+  },
+  "91001204": {
+   "storyline_id": 91001204,
+   "progress_id": 32
+  },
+  "91001205": {
+   "storyline_id": 91001205,
+   "progress_id": 33
+  },
+  "91001206": {
+   "storyline_id": 91001206,
+   "progress_id": 34
+  },
+  "91001207": {
+   "storyline_id": 91001207,
+   "progress_id": 35
+  },
+  "91001208": {
+   "storyline_id": 91001208,
+   "progress_id": 36
+  },
+  "91001209": {
+   "storyline_id": 91001209,
+   "progress_id": 37
+  },
+  "91001210": {
+   "storyline_id": 91001210,
+   "progress_id": 38
+  },
+  "91001211": {
+   "storyline_id": 91001211,
+   "progress_id": 39
+  },
+  "91001212": {
+   "storyline_id": 91001212,
+   "progress_id": 40
+  },
+  "92000102": {
+   "storyline_id": 92000102,
+   "progress_id": 41
+  },
+  "92000103": {
+   "storyline_id": 92000103,
+   "progress_id": 42
+  },
+  "92000104": {
+   "storyline_id": 92000104,
+   "progress_id": 43
+  },
+  "92000105": {
+   "storyline_id": 92000105,
+   "progress_id": 44
+  },
+  "92000106": {
+   "storyline_id": 92000106,
+   "progress_id": 45
+  },
+  "92000101": {
+   "storyline_id": 92000101,
+   "progress_id": 46
+  },
+  "92000107": {
+   "storyline_id": 92000107,
+   "progress_id": 47
+  },
+  "92000108": {
+   "storyline_id": 92000108,
+   "progress_id": 48
+  },
+  "301": {
+   "storyline_id": 301,
+   "progress_id": 49
+  },
+  "304": {
+   "storyline_id": 304,
+   "progress_id": 50
+  },
+  "10000101": {
+   "storyline_id": 10000101,
+   "progress_id": 51
+  },
+  "10000105": {
+   "storyline_id": 10000105,
+   "progress_id": 52
+  },
+  "3000104": {
+   "storyline_id": 3000104,
+   "progress_id": 53
+  },
+  "4000103": {
+   "storyline_id": 4000103,
+   "progress_id": 54
+  },
+  "7000104": {
+   "storyline_id": 7000104,
+   "progress_id": 55
+  }
+ },
+ "text_chunk": null
+}

@@ -1,0 +1,994 @@
+{
+ "config": "shop",
+ "fields": [
+  "id",
+  "type",
+  "show_money",
+  "goods",
+  "num",
+  "cycle",
+  "refresh_limit",
+  "order",
+  "show_group",
+  "open_level",
+  "function_id",
+  "title"
+ ],
+ "rows": {
+  "2": {
+   "id": 2,
+   "type": 0,
+   "show_money": [
+    10136
+   ],
+   "goods": "12017,12001,12002,12003,12004,12005,12006,12008,12010,12012,12014,12015,12016,12018,12019,12020,12021,12022",
+   "num": 0,
+   "cycle": {
+    "type": 2,
+    "value": 1.0
+   },
+   "refresh_limit": 0,
+   "order": 2,
+   "show_group": 1,
+   "open_level": 0,
+   "function_id": 1000,
+   "title": "Union Shop",
+   "title_th": "ร้านสหพันธ์"
+  },
+  "3": {
+   "id": 3,
+   "type": 0,
+   "show_money": [
+    10137
+   ],
+   "goods": "13015,13013,13012,13001,13002,13003,13004,13005,13006,13007,13014,13008,13009,13010,13011",
+   "num": 0,
+   "cycle": {
+    "type": 2,
+    "value": 2.0
+   },
+   "refresh_limit": 0,
+   "order": 3,
+   "show_group": 1,
+   "open_level": 0,
+   "function_id": 1001,
+   "title": "Summon Shop",
+   "title_th": "ร้านอัญเชิญ"
+  },
+  "7": {
+   "id": 7,
+   "type": 0,
+   "show_money": [
+    10139
+   ],
+   "goods": "17001,17015,17003,17013,17004,17005,17006,17007,17011,17012,17014",
+   "num": 0,
+   "cycle": {
+    "type": 2,
+    "value": 1.0
+   },
+   "refresh_limit": 0,
+   "order": 4,
+   "show_group": 1,
+   "open_level": 0,
+   "function_id": 1002,
+   "title": "Arena Shop | Etherena",
+   "title_th": "ร้านอารีน่า | อีเทอรีน่า"
+  },
+  "8": {
+   "id": 8,
+   "type": 0,
+   "show_money": [
+    10150
+   ],
+   "goods": "18001,18002,18003,18004,18005,18013,18006,18007,18008,18009",
+   "num": 0,
+   "cycle": {
+    "type": 0,
+    "value": 0.0
+   },
+   "refresh_limit": 0,
+   "order": 1,
+   "show_group": 2,
+   "open_level": 0,
+   "function_id": 1003,
+   "title": "Grand Adventure Shop",
+   "title_th": "ร้านการผจญภัยครั้งใหญ่"
+  },
+  "10": {
+   "id": 10,
+   "type": 0,
+   "show_money": [
+    10012,
+    10011
+   ],
+   "goods": "20101,20102,20105,20106,20107,20108,20109,20110,20111,20112,20501,20503,20507,20508,20511,20515,20517,20519,20520,20521,20522,20523,20524,20525",
+   "num": 0,
+   "cycle": {
+    "type": 0,
+    "value": 0.0
+   },
+   "refresh_limit": 0,
+   "order": 1,
+   "show_group": 3,
+   "open_level": 0,
+   "function_id": 1017,
+   "title": "Costume Display",
+   "title_th": "การแสดงคอสตูม"
+  },
+  "11": {
+   "id": 11,
+   "type": 0,
+   "show_money": [
+    10157
+   ],
+   "goods": "21022,21023,21024",
+   "num": 0,
+   "cycle": {
+    "type": 0,
+    "value": 0.0
+   },
+   "refresh_limit": 0,
+   "order": 1,
+   "show_group": 4,
+   "open_level": 0,
+   "function_id": 1018,
+   "title": "Support Shop",
+   "title_th": "ร้านซัพพอร์ต"
+  },
+  "12": {
+   "id": 12,
+   "type": 0,
+   "show_money": [
+    10159
+   ],
+   "goods": "22001,22002,22003,22004,22026,22005,22006,22007,22008,22009,22012,22013,22014,22015,22016,22017,22018,22019,22020,22021,22022,22023,22024,22025,22027,22028,22029,22030,22031,22032,22033,22034,22035,22036,22037,22038,22039,22040,22041,22042,22043,22044,22045,22046,22047",
+   "num": 0,
+   "cycle": {
+    "type": 1,
+    "value": 30.0
+   },
+   "refresh_limit": 0,
+   "order": 5,
+   "show_group": 1,
+   "open_level": 0,
+   "function_id": 1004,
+   "title": "Arena Shop | Summit Arena",
+   "title_th": "ร้านอารีน่า | สุดยอดอารีน่า"
+  },
+  "13": {
+   "id": 13,
+   "type": 0,
+   "show_money": [
+    10161
+   ],
+   "goods": "24005,24003,24007,24011,24013,24016,24332,24301,24302,24303,24304,24305,24320,24325,24327,24329,24330,24334,24339|24006,24001,24008,24009,24017,24014,24337,24306,24307,24308,24309,24310,24311,24321,24323,24324,24331,24335,24338,24341|24002,24004,24010,24012,24015,24340,24312,24313,24314,24315,24316,24317,24319,24322,24326,24328,24333,24336,24343",
+   "num": 0,
+   "cycle": {
+    "type": 2,
+    "value": 1.0
+   },
+   "refresh_limit": 0,
+   "order": 7,
+   "show_group": 1,
+   "open_level": 0,
+   "function_id": 1005,
+   "title": "Anima Shop | SSR Animuses",
+   "title_th": "ร้าน Anima | Animus SSR"
+  },
+  "14": {
+   "id": 14,
+   "type": 0,
+   "show_money": [
+    10161
+   ],
+   "goods": "24701,24704,24709,24801,24802,24803,24804,24805,24806,24807|24702,24705,24708,24808,24809,24810,24811,24812,24813,24814|24703,24706,24815,24816,24817,24818,24819,24820,24707",
+   "num": 0,
+   "cycle": {
+    "type": 2,
+    "value": 1.0
+   },
+   "refresh_limit": 0,
+   "order": 8,
+   "show_group": 1,
+   "open_level": 0,
+   "function_id": 1006,
+   "title": "Anima Shop | SR Animuses",
+   "title_th": "ร้าน Anima | Animus SR"
+  },
+  "15": {
+   "id": 15,
+   "type": 0,
+   "show_money": [
+    10164
+   ],
+   "goods": "25001,25002,25003,25004,25013,25005,25006,25007,25008,25009,25010,25011,25012",
+   "num": 0,
+   "cycle": {
+    "type": 0,
+    "value": 0.0
+   },
+   "refresh_limit": 0,
+   "order": 1,
+   "show_group": 7,
+   "open_level": 0,
+   "function_id": 1007,
+   "title": "Concerto Shop",
+   "title_th": "ร้าน Concerto"
+  },
+  "16": {
+   "id": 16,
+   "type": 0,
+   "show_money": [
+    10012,
+    10011
+   ],
+   "goods": "16001,16002,16003,16904,16905,16906,16907,16908",
+   "num": 0,
+   "cycle": {
+    "type": 0,
+    "value": 0.0
+   },
+   "refresh_limit": 0,
+   "order": 2,
+   "show_group": 7,
+   "open_level": 0,
+   "function_id": 1008,
+   "title": "Harmony Bundle",
+   "title_th": "ชุดฮาร์โมนี"
+  },
+  "17": {
+   "id": 17,
+   "type": 0,
+   "show_money": [
+    27302
+   ],
+   "goods": "27001,27002,27003,27010,27004,27005,27006,27007,27008,27009",
+   "num": 0,
+   "cycle": {
+    "type": 0,
+    "value": 0.0
+   },
+   "refresh_limit": 0,
+   "order": 1,
+   "show_group": 8,
+   "open_level": 0,
+   "function_id": 1019,
+   "title": "Shell Paradise Shop",
+   "title_th": "ร้านค้า Shell Paradise"
+  },
+  "917": {
+   "id": 917,
+   "type": 0,
+   "show_money": [
+    27302
+   ],
+   "goods": "37001,37002,37003,37010,37004,37005,37006,37007,37008,37009",
+   "num": 0,
+   "cycle": {
+    "type": 0,
+    "value": 0.0
+   },
+   "refresh_limit": 0,
+   "order": 1,
+   "show_group": 108,
+   "open_level": 0,
+   "function_id": 1024,
+   "title": "Shell Paradise Shop",
+   "title_th": "ร้านค้า Shell Paradise"
+  },
+  "18": {
+   "id": 18,
+   "type": 0,
+   "show_money": [
+    27311
+   ],
+   "goods": "28001,28002,28003,28004,28005,28006,28007,28008,28009,28010,28011,28012,28013,28014,28015,28016,28017,28018,28019,28020,28021,28022,28023,28024",
+   "num": 0,
+   "cycle": {
+    "type": 0,
+    "value": 0.0
+   },
+   "refresh_limit": 0,
+   "order": 1,
+   "show_group": 9,
+   "open_level": 0,
+   "function_id": 1020,
+   "title": "Hunt Shop",
+   "title_th": "ร้านค้าการล่า"
+  },
+  "19": {
+   "id": 19,
+   "type": 0,
+   "show_money": [
+    10012,
+    10011
+   ],
+   "goods": "16052,16053,16054,16056,16057,16058,16059",
+   "num": 0,
+   "cycle": {
+    "type": 0,
+    "value": 0.0
+   },
+   "refresh_limit": 0,
+   "order": 1,
+   "show_group": 9,
+   "open_level": 0,
+   "function_id": 1021,
+   "title": "Hunt Bundle",
+   "title_th": "บันเดิลการล่า"
+  },
+  "20": {
+   "id": 20,
+   "type": 0,
+   "show_money": [
+    10160
+   ],
+   "goods": "23001,23002,23003,23004,23005,23006,23007,23008,23009,23010,23011,23012,23013,23014,23015,23016,23017,23018,23019,23020,23021",
+   "num": 0,
+   "cycle": {
+    "type": 0,
+    "value": 0.0
+   },
+   "refresh_limit": 0,
+   "order": 10,
+   "show_group": 1,
+   "open_level": 35,
+   "function_id": 1009,
+   "title": "Module Shop | Random Shop",
+   "title_th": "ร้านโมดูล | ร้านสุ่ม"
+  },
+  "21": {
+   "id": 21,
+   "type": 1,
+   "show_money": [
+    10178,
+    10011,
+    10160
+   ],
+   "goods": "23051,23052,23053,23054,23055,23056,23057,23058,23059,23060,23061,23062,23063,23064,23065,23066,23067,23068,23069,23070,23071,23072,23073,23074,23075,23076,23077,23078,23079,23080,23081,23082,23083,23084,23085,23086,23087,23088,23089,23090,23091,23092,23093,23094,23095,23096,23097,23098,23099,23100,23101,23102,23103,23104",
+   "num": 10,
+   "cycle": {
+    "type": 1,
+    "value": 1.0
+   },
+   "refresh_limit": -1,
+   "order": 9,
+   "show_group": 1,
+   "open_level": 50,
+   "function_id": 1026,
+   "title": "Module Shop | Select Shop",
+   "title_th": "ร้านโมดูล | ร้านเลือกเอง"
+  },
+  "22": {
+   "id": 22,
+   "type": 0,
+   "show_money": [
+    27316
+   ],
+   "goods": "25501,25502,25503,25504,25505,25506,25507,25508,25509,25510,25511",
+   "num": 0,
+   "cycle": {
+    "type": 0,
+    "value": 0.0
+   },
+   "refresh_limit": 0,
+   "order": 1,
+   "show_group": 11,
+   "open_level": 0,
+   "function_id": 1027,
+   "title": "Dreamscape",
+   "title_th": "แดนฝัน"
+  },
+  "23": {
+   "id": 23,
+   "type": 0,
+   "show_money": [
+    10176
+   ],
+   "goods": "32001,32002,32003,32004,32005,32006,32007,32008,32009",
+   "num": 0,
+   "cycle": {
+    "type": 0,
+    "value": 0.0
+   },
+   "refresh_limit": 0,
+   "order": 1,
+   "show_group": 13,
+   "open_level": 0,
+   "function_id": 0,
+   "title": "Spectral Shop",
+   "title_th": "ร้านค้าวิญญาณ"
+  },
+  "24": {
+   "id": 24,
+   "type": 0,
+   "show_money": [
+    10183
+   ],
+   "goods": "33001,33002,33003,33004,33005,33006,33007,33008,33009",
+   "num": 0,
+   "cycle": {
+    "type": 0,
+    "value": 0.0
+   },
+   "refresh_limit": 0,
+   "order": 1,
+   "show_group": 14,
+   "open_level": 0,
+   "function_id": 0,
+   "title": "Ginger Market",
+   "title_th": "ตลาด Gingerbread"
+  },
+  "25": {
+   "id": 25,
+   "type": 0,
+   "show_money": [
+    10185
+   ],
+   "goods": "34001,34002,34003,34004,34005,34006,34007,34008,34009,34010",
+   "num": 0,
+   "cycle": {
+    "type": 0,
+    "value": 0.0
+   },
+   "refresh_limit": 0,
+   "order": 1,
+   "show_group": 25,
+   "open_level": 0,
+   "function_id": 0,
+   "title": "Hyper Shop",
+   "title_th": "ร้านค้า Hyper"
+  },
+  "26": {
+   "id": 26,
+   "type": 0,
+   "show_money": [
+    10186
+   ],
+   "goods": "33101,33102,33103,33104,33105,33106,33107,33108,33109",
+   "num": 0,
+   "cycle": {
+    "type": 0,
+    "value": 0.0
+   },
+   "refresh_limit": 0,
+   "order": 1,
+   "show_group": 26,
+   "open_level": 0,
+   "function_id": 0,
+   "title": "Genesis Shop",
+   "title_th": "ร้านค้าปีใหม่"
+  },
+  "27": {
+   "id": 27,
+   "type": 0,
+   "show_money": [
+    10198
+   ],
+   "goods": "38001,38002,38003,38004,38005,38006,38007,38008,38009,38010",
+   "num": 0,
+   "cycle": {
+    "type": 0,
+    "value": 0.0
+   },
+   "refresh_limit": 0,
+   "order": 1,
+   "show_group": 27,
+   "open_level": 0,
+   "function_id": 0,
+   "title": "Honey Boutique",
+   "title_th": "Honey Boutique"
+  },
+  "28": {
+   "id": 28,
+   "type": 0,
+   "show_money": [
+    10201
+   ],
+   "goods": "39001,39002,39003,39004,39005,39006,39007,39008,39009,39010",
+   "num": 0,
+   "cycle": {
+    "type": 0,
+    "value": 0.0
+   },
+   "refresh_limit": 0,
+   "order": 1,
+   "show_group": 28,
+   "open_level": 0,
+   "function_id": 0,
+   "title": "Aurorean Repository",
+   "title_th": "Aurorean Repository"
+  },
+  "29": {
+   "id": 29,
+   "type": 0,
+   "show_money": [
+    10305
+   ],
+   "goods": "39101,39102,39103,39104,39105,39106,39107,39108,39109,39110",
+   "num": 0,
+   "cycle": {
+    "type": 0,
+    "value": 0.0
+   },
+   "refresh_limit": 0,
+   "order": 1,
+   "show_group": 30,
+   "open_level": 0,
+   "function_id": 0,
+   "title": "Dividend Bourse",
+   "title_th": "Dividend Bourse"
+  },
+  "30": {
+   "id": 30,
+   "type": 0,
+   "show_money": [
+    10012
+   ],
+   "goods": "26001,26002,26003,26004,26005,26006,26010,26011,26012,26013,26014,26015,26016,26017,26018,26019,26020,26021,26022,26023,26024,26025,26925,26026,26027,26028,26029,26030,26031,26032,26033,26034,26035,26036,26037,26038,26039,26040,26041,26042,26043,26044,26045,26046,26047,26048,26049,26050,26051,26052,26053,26054,26055,26056,26057",
+   "num": 0,
+   "cycle": {
+    "type": 0,
+    "value": 0.0
+   },
+   "refresh_limit": 0,
+   "order": 1,
+   "show_group": 10,
+   "open_level": 0,
+   "function_id": 1010,
+   "title": "Animus Outfit",
+   "title_th": "แฟชั่น Animus"
+  },
+  "31": {
+   "id": 31,
+   "type": 0,
+   "show_money": [
+    10012
+   ],
+   "goods": "30010,30011,30012",
+   "num": 0,
+   "cycle": {
+    "type": 0,
+    "value": 0.0
+   },
+   "refresh_limit": 0,
+   "order": 1,
+   "show_group": 12,
+   "open_level": 0,
+   "function_id": 1028,
+   "title": "Contender Realm",
+   "title_th": "อาณาจักรผู้ท้าชิง"
+  },
+  "32": {
+   "id": 32,
+   "type": 0,
+   "show_money": [
+    10012
+   ],
+   "goods": "40001,40002,40003,40004",
+   "num": 0,
+   "cycle": {
+    "type": 0,
+    "value": 0.0
+   },
+   "refresh_limit": 0,
+   "order": 1,
+   "show_group": 29,
+   "open_level": 0,
+   "function_id": 0,
+   "title": "Custom Bundle",
+   "title_th": "แพ็กปรับแต่ง"
+  },
+  "33": {
+   "id": 33,
+   "type": 0,
+   "show_money": [
+    10310
+   ],
+   "goods": "33201,33202,33203,33204,33205,33206,33207,33208,33209",
+   "num": 0,
+   "cycle": {
+    "type": 0,
+    "value": 0.0
+   },
+   "refresh_limit": 0,
+   "order": 1,
+   "show_group": 33,
+   "open_level": 0,
+   "function_id": 0,
+   "title": "Stellar Conclave",
+   "title_th": "Stellar Conclave"
+  },
+  "34": {
+   "id": 34,
+   "type": 0,
+   "show_money": [
+    10317
+   ],
+   "goods": "33301,33302,33303,33304,33305,33306,33307,33308,33309,33310",
+   "num": 0,
+   "cycle": {
+    "type": 0,
+    "value": 0.0
+   },
+   "refresh_limit": 0,
+   "order": 1,
+   "show_group": 34,
+   "open_level": 0,
+   "function_id": 0,
+   "title": "Oath Shop",
+   "title_th": "ร้าน Oath"
+  },
+  "101": {
+   "id": 101,
+   "type": 0,
+   "show_money": [
+    10168,
+    10012
+   ],
+   "goods": "10013",
+   "num": 0,
+   "cycle": {
+    "type": 0,
+    "value": 0.0
+   },
+   "refresh_limit": 0,
+   "order": 100,
+   "show_group": 5,
+   "open_level": 0,
+   "function_id": 1011,
+   "title": "Monthly Supply Card",
+   "title_th": "Monthly Supply Card"
+  },
+  "102": {
+   "id": 102,
+   "type": 0,
+   "show_money": [
+    10012
+   ],
+   "goods": "15019,15022,15023,15024,15025,15026,15061,15062,15063",
+   "num": 0,
+   "cycle": {
+    "type": 0,
+    "value": 0.0
+   },
+   "refresh_limit": 0,
+   "order": 101,
+   "show_group": 5,
+   "open_level": 0,
+   "function_id": 0,
+   "title": "Best Picks | Starter Pack",
+   "title_th": "การคัดสรรสุดคุ้ม|แพ็กเริ่มต้น"
+  },
+  "103": {
+   "id": 103,
+   "type": 0,
+   "show_money": [
+    10012,
+    10011
+   ],
+   "goods": "15001,15003,15004,15005,15126,15127,15128,15121,15129,15130,15131,15122,15123,15132",
+   "num": 0,
+   "cycle": {
+    "type": 2,
+    "value": 1.0
+   },
+   "refresh_limit": 0,
+   "order": 103,
+   "show_group": 5,
+   "open_level": 0,
+   "function_id": 1012,
+   "title": "Weekly Pack | Supply Shop",
+   "title_th": "แพ็กรายสัปดาห์ | ร้าน Supply"
+  },
+  "104": {
+   "id": 104,
+   "type": 0,
+   "show_money": [
+    10012,
+    10011
+   ],
+   "goods": "10001,10002,10003,10004,10005,10006",
+   "num": 0,
+   "cycle": {
+    "type": 0,
+    "value": 0.0
+   },
+   "refresh_limit": 0,
+   "order": 105,
+   "show_group": 5,
+   "open_level": 0,
+   "function_id": 1013,
+   "title": "Crystal Trade",
+   "title_th": "การแลกเปลี่ยนคริสตัล"
+  },
+  "105": {
+   "id": 105,
+   "type": 0,
+   "show_money": [
+    10012,
+    10011
+   ],
+   "goods": "16051,16060,15035,15036,15037,15038,15050,15051,15052,15053,15054,15055,15056,15057,15058,15059,15060,16929,16930,16931,16932,16933,16935,15077,15078,15079,15080,15103,15107,15027,15028,15017,15029,15030,15106,15015,15120,15101,15102,15104,15031,15032,15033,15034,15014,15016,15105,15040,15041,15042,15043,15044,15045,15046,15047,15048,15201,15202,15203,15206,15207,15208,15209,15211,15212,15213,15216,15217,15218,15219,15221,15222,15223,15224,15225,15226,15227,15228,15229,15231,15232,15233,15234,15235,15236,15237,15238,15239,15240,15241,15242,15243,15244,15249,15245,15246,15247,15248,15250,15251,15252,15253,15254,15255,15256,15257,15258,15259,15260,15261,15262,15263,15264,15265,15266,15267,15268,16014,16015,16016,16017,16018,16019,16020",
+   "num": 0,
+   "cycle": {
+    "type": 0,
+    "value": 0.0
+   },
+   "refresh_limit": 0,
+   "order": 102,
+   "show_group": 5,
+   "open_level": 0,
+   "function_id": 1022,
+   "title": "Best Picks | Best Picks",
+   "title_th": "การคัดสรรสุดคุ้ม|การคัดสรรสุดคุ้ม"
+  },
+  "106": {
+   "id": 106,
+   "type": 0,
+   "show_money": [
+    10012,
+    10011
+   ],
+   "goods": "",
+   "num": 0,
+   "cycle": {
+    "type": 0,
+    "value": 0.0
+   },
+   "refresh_limit": 0,
+   "order": 106,
+   "show_group": 99,
+   "open_level": 0,
+   "function_id": 1023,
+   "title": "Chromatic Center",
+   "title_th": "ศูนย์สีสัน"
+  },
+  "107": {
+   "id": 107,
+   "type": 0,
+   "show_money": [
+    10012,
+    10011
+   ],
+   "goods": "15064,15065,15066,15067,15068,15075,16911,16912,16913,16914",
+   "num": 0,
+   "cycle": {
+    "type": 2,
+    "value": 1.0
+   },
+   "refresh_limit": 0,
+   "order": 105,
+   "show_group": 5,
+   "open_level": 0,
+   "function_id": 0,
+   "title": "Weekly Pack | Essence Shop",
+   "title_th": "แพ็กรายสัปดาห์ | ร้าน Essence"
+  },
+  "110": {
+   "id": 110,
+   "type": 0,
+   "show_money": [
+    10173,
+    10012
+   ],
+   "goods": "30002,30003,30004,30005",
+   "num": 0,
+   "cycle": {
+    "type": 0,
+    "value": 0.0
+   },
+   "refresh_limit": 0,
+   "order": 106,
+   "show_group": 5,
+   "open_level": 0,
+   "function_id": 1029,
+   "title": "Stellar Shop | Stellar Voucher",
+   "title_th": "ร้าน Stellar | Stellar Voucher"
+  },
+  "111": {
+   "id": 111,
+   "type": 0,
+   "show_money": [
+    10174
+   ],
+   "goods": "31028,31029,31030,31031,31022,31025,31019,31001,31002,31016,31026,31023,31020,31003,31004,31017,31027,31024,31021,31005,31006,31018,31007,31008,31009,31010,31011,31012,31013,31014,31015",
+   "num": 0,
+   "cycle": {
+    "type": 0,
+    "value": 0.0
+   },
+   "refresh_limit": 0,
+   "order": 6,
+   "show_group": 1,
+   "open_level": 0,
+   "function_id": 1030,
+   "title": "Stellar Shop",
+   "title_th": "ร้าน Stellar"
+  },
+  "112": {
+   "id": 112,
+   "type": 0,
+   "show_money": [
+    10012
+   ],
+   "goods": "15901,16922,16923,16924,16925,16926,16927,16928",
+   "num": 0,
+   "cycle": {
+    "type": 3,
+    "value": 1.0
+   },
+   "refresh_limit": 0,
+   "order": 104,
+   "show_group": 5,
+   "open_level": 0,
+   "function_id": 1012,
+   "title": "Monthly Bundles",
+   "title_th": "แพ็ครายเดือน"
+  },
+  "113": {
+   "id": 113,
+   "type": 0,
+   "show_money": [
+    10012
+   ],
+   "goods": "35001,35002,35003,35004,35005",
+   "num": 0,
+   "cycle": {
+    "type": 1,
+    "value": 1.0
+   },
+   "refresh_limit": 0,
+   "order": 99,
+   "show_group": 5,
+   "open_level": 5,
+   "function_id": 1032,
+   "title": "Daily Pack",
+   "title_th": "บันเดิลรายวัน"
+  },
+  "201": {
+   "id": 201,
+   "type": 0,
+   "show_money": [
+    10169,
+    10170,
+    10012
+   ],
+   "goods": "11001,11002,11003",
+   "num": 0,
+   "cycle": {
+    "type": 0,
+    "value": 0.0
+   },
+   "refresh_limit": 0,
+   "order": 1,
+   "show_group": 6,
+   "open_level": 0,
+   "function_id": 1014,
+   "title": "Pass",
+   "title_th": "Pass"
+  },
+  "202": {
+   "id": 202,
+   "type": 0,
+   "show_money": [
+    10012
+   ],
+   "goods": "10000,10012",
+   "num": 0,
+   "cycle": {
+    "type": 0,
+    "value": 0.0
+   },
+   "refresh_limit": 0,
+   "order": 1,
+   "show_group": 99,
+   "open_level": 0,
+   "function_id": 1025,
+   "title": "Hydra Voucher",
+   "title_th": "Hydra Voucher"
+  },
+  "203": {
+   "id": 203,
+   "type": 0,
+   "show_money": [
+    10012
+   ],
+   "goods": "36001",
+   "num": 0,
+   "cycle": {
+    "type": 0,
+    "value": 0.0
+   },
+   "refresh_limit": 0,
+   "order": 1,
+   "show_group": 99,
+   "open_level": 0,
+   "function_id": 1025,
+   "title": "Growth Fund",
+   "title_th": "กองทุนเติบโต"
+  },
+  "204": {
+   "id": 204,
+   "type": 0,
+   "show_money": [
+    10012
+   ],
+   "goods": "11011",
+   "num": 0,
+   "cycle": {
+    "type": 0,
+    "value": 0.0
+   },
+   "refresh_limit": 0,
+   "order": 1,
+   "show_group": 99,
+   "open_level": 0,
+   "function_id": 0,
+   "title": "Return Pass",
+   "title_th": "Return Pass"
+  },
+  "205": {
+   "id": 205,
+   "type": 0,
+   "show_money": [
+    10012
+   ],
+   "goods": "11004",
+   "num": 0,
+   "cycle": {
+    "type": 0,
+    "value": 0.0
+   },
+   "refresh_limit": 0,
+   "order": 1,
+   "show_group": 99,
+   "open_level": 0,
+   "function_id": 0,
+   "title": "Pluto's Gifts",
+   "title_th": "Pluto's Gifts"
+  },
+  "206": {
+   "id": 206,
+   "type": 0,
+   "show_money": [
+    10012
+   ],
+   "goods": "",
+   "num": 0,
+   "cycle": {
+    "type": 0,
+    "value": 0.0
+   },
+   "refresh_limit": 0,
+   "order": 1,
+   "show_group": 99,
+   "open_level": 0,
+   "function_id": 0,
+   "title": "First Buy Pack",
+   "title_th": "แพ็กซื้อครั้งแรก"
+  },
+  "900": {
+   "id": 900,
+   "type": 0,
+   "show_money": [
+    10012
+   ],
+   "goods": "90001,90002,90003,90004,90005,90006,90007,90008,90009,90010,90011,90012,90013,90014,90015,90016,90017,90018,90019,90020,90021,90022",
+   "num": 0,
+   "cycle": {
+    "type": 0,
+    "value": 0.0
+   },
+   "refresh_limit": 0,
+   "order": 1,
+   "show_group": 99,
+   "open_level": 0,
+   "function_id": 0,
+   "title": "Bundle",
+   "title_th": "แพ็กชุด"
+  }
+ },
+ "text_chunk": "00145_09e89a5ec5ebf44b.json"
+}

@@ -1,0 +1,907 @@
+{
+ "config": "agt_passive_skill_type",
+ "fields": [
+  "id",
+  "prop_id",
+  "skill_id",
+  "param_range_1",
+  "param_range_2",
+  "param_range_3",
+  "param_range_4",
+  "param_range_5",
+  "format",
+  "icon",
+  "decimal",
+  "exchange_item",
+  "name",
+  "desc"
+ ],
+ "rows": [
+  {
+   "id": 1,
+   "prop_id": 8,
+   "skill_id": 0,
+   "param_range_1": [
+    36.0,
+    36.0
+   ],
+   "param_range_2": [
+    60.0,
+    60.0
+   ],
+   "param_range_3": [
+    80.0,
+    90.0
+   ],
+   "param_range_4": [
+    100.0,
+    120.0
+   ],
+   "param_range_5": [
+    150.0,
+    180.0
+   ],
+   "format": 0,
+   "icon": "0001",
+   "decimal": 0,
+   "exchange_item": 24001,
+   "name": "Amplification",
+   "name_th": "Amplification",
+   "desc": "Increases the Animus' ATK by <key>{1}</>",
+   "desc_th": "ATK ของ Animus เพิ่ม <key>{1}</> แต้ม"
+  },
+  {
+   "id": 2,
+   "prop_id": 7,
+   "skill_id": 0,
+   "param_range_1": [
+    0.06,
+    0.06
+   ],
+   "param_range_2": [
+    0.1,
+    0.1
+   ],
+   "param_range_3": [
+    0.13,
+    0.15
+   ],
+   "param_range_4": [
+    0.16,
+    0.2
+   ],
+   "param_range_5": [
+    0.24,
+    0.3
+   ],
+   "format": 1,
+   "icon": "0002",
+   "decimal": 0,
+   "exchange_item": 24002,
+   "name": "Overclocking",
+   "name_th": "Overclocking",
+   "desc": "Increases the Animus' ATK by <key>{1}</>",
+   "desc_th": "ATK ของ Animus เพิ่ม <key>{1}</>"
+  },
+  {
+   "id": 3,
+   "prop_id": 4,
+   "skill_id": 0,
+   "param_range_1": [
+    360.0,
+    360.0
+   ],
+   "param_range_2": [
+    600.0,
+    600.0
+   ],
+   "param_range_3": [
+    800.0,
+    900.0
+   ],
+   "param_range_4": [
+    1000.0,
+    1200.0
+   ],
+   "param_range_5": [
+    1500.0,
+    1800.0
+   ],
+   "format": 0,
+   "icon": "0003",
+   "decimal": 0,
+   "exchange_item": 24003,
+   "name": "Source",
+   "name_th": "Source",
+   "desc": "Increases the Animus' HP by <key>{1}</>",
+   "desc_th": "เพิ่ม HP ของ Animus ขึ้น <key>{1}</> แต้ม"
+  },
+  {
+   "id": 4,
+   "prop_id": 3,
+   "skill_id": 0,
+   "param_range_1": [
+    0.06,
+    0.06
+   ],
+   "param_range_2": [
+    0.1,
+    0.1
+   ],
+   "param_range_3": [
+    0.13,
+    0.15
+   ],
+   "param_range_4": [
+    0.16,
+    0.2
+   ],
+   "param_range_5": [
+    0.24,
+    0.3
+   ],
+   "format": 1,
+   "icon": "0004",
+   "decimal": 0,
+   "exchange_item": 24004,
+   "name": "Surge",
+   "name_th": "Surge",
+   "desc": "Increases the Animus' HP by <key>{1}</>",
+   "desc_th": "เพิ่ม HP ของ Animus ขึ้น <key>{1}</>"
+  },
+  {
+   "id": 5,
+   "prop_id": 12,
+   "skill_id": 0,
+   "param_range_1": [
+    24.0,
+    24.0
+   ],
+   "param_range_2": [
+    40.0,
+    40.0
+   ],
+   "param_range_3": [
+    50.0,
+    60.0
+   ],
+   "param_range_4": [
+    70.0,
+    80.0
+   ],
+   "param_range_5": [
+    100.0,
+    120.0
+   ],
+   "format": 0,
+   "icon": "0005",
+   "decimal": 0,
+   "exchange_item": 24005,
+   "name": "Crystallization",
+   "name_th": "Crystallization",
+   "desc": "Increases the Animus' DEF by <key>{1}</>",
+   "desc_th": "เพิ่ม DEF ของ Animus ขึ้น <key>{1}</> แต้ม"
+  },
+  {
+   "id": 6,
+   "prop_id": 11,
+   "skill_id": 0,
+   "param_range_1": [
+    0.06,
+    0.06
+   ],
+   "param_range_2": [
+    0.1,
+    0.1
+   ],
+   "param_range_3": [
+    0.13,
+    0.15
+   ],
+   "param_range_4": [
+    0.16,
+    0.2
+   ],
+   "param_range_5": [
+    0.24,
+    0.3
+   ],
+   "format": 1,
+   "icon": "0006",
+   "decimal": 0,
+   "exchange_item": 24006,
+   "name": "Crystal Wall",
+   "name_th": "Crystal Wall",
+   "desc": "Increases the Animus' DEF by <key>{1}</>",
+   "desc_th": "เพิ่ม DEF ของ Animus ขึ้น <key>{1}</>"
+  },
+  {
+   "id": 7,
+   "prop_id": 19,
+   "skill_id": 0,
+   "param_range_1": [
+    0.04,
+    0.04
+   ],
+   "param_range_2": [
+    0.06,
+    0.06
+   ],
+   "param_range_3": [
+    0.08,
+    0.09
+   ],
+   "param_range_4": [
+    0.1,
+    0.12
+   ],
+   "param_range_5": [
+    0.15,
+    0.18
+   ],
+   "format": 1,
+   "icon": "0007",
+   "decimal": 0,
+   "exchange_item": 24007,
+   "name": "Penetration",
+   "name_th": "Penetration",
+   "desc": "Increases the Animus' CRIT Rate by <key>{1}</>",
+   "desc_th": "เพิ่ม CRIT Rate ของ Animus ขึ้น <key>{1}</>"
+  },
+  {
+   "id": 8,
+   "prop_id": 22,
+   "skill_id": 0,
+   "param_range_1": [
+    0.06,
+    0.06
+   ],
+   "param_range_2": [
+    0.1,
+    0.1
+   ],
+   "param_range_3": [
+    0.13,
+    0.15
+   ],
+   "param_range_4": [
+    0.16,
+    0.2
+   ],
+   "param_range_5": [
+    0.24,
+    0.3
+   ],
+   "format": 1,
+   "icon": "0008",
+   "decimal": 0,
+   "exchange_item": 24008,
+   "name": "Unparalleled",
+   "name_th": "Unparalleled",
+   "desc": "Increases the Animus' CRIT DMG by <key>{1}</>",
+   "desc_th": "เพิ่ม CRIT DMG ของ Animus ขึ้น <key>{1}</>"
+  },
+  {
+   "id": 9,
+   "prop_id": 16,
+   "skill_id": 0,
+   "param_range_1": [
+    4.0,
+    4.0
+   ],
+   "param_range_2": [
+    7.0,
+    7.0
+   ],
+   "param_range_3": [
+    9.0,
+    10.0
+   ],
+   "param_range_4": [
+    12.0,
+    14.0
+   ],
+   "param_range_5": [
+    16.0,
+    20.0
+   ],
+   "format": 0,
+   "icon": "0009",
+   "decimal": 0,
+   "exchange_item": 24009,
+   "name": "Shadow Dash",
+   "name_th": "Shadow Dash",
+   "desc": "Increases the Animus' SPD by <key>{1}</>",
+   "desc_th": "เพิ่ม SPD ของ Animus ขึ้น <key>{1}</> แต้ม"
+  },
+  {
+   "id": 10,
+   "prop_id": 46,
+   "skill_id": 0,
+   "param_range_1": [
+    0.03,
+    0.03
+   ],
+   "param_range_2": [
+    0.05,
+    0.05
+   ],
+   "param_range_3": [
+    0.06,
+    0.07
+   ],
+   "param_range_4": [
+    0.08,
+    0.1
+   ],
+   "param_range_5": [
+    0.12,
+    0.15
+   ],
+   "format": 1,
+   "icon": "0010",
+   "decimal": 0,
+   "exchange_item": 24010,
+   "name": "Vibrancy",
+   "name_th": "Vibrancy",
+   "desc": "Increases the Animus' Healing Done by <key>{1}</>",
+   "desc_th": "เพิ่มการฮีลของ Animus ขึ้น <key>{1}</>"
+  },
+  {
+   "id": 11,
+   "prop_id": 93,
+   "skill_id": 0,
+   "param_range_1": [
+    0.02,
+    0.02
+   ],
+   "param_range_2": [
+    0.03,
+    0.03
+   ],
+   "param_range_3": [
+    0.04,
+    0.05
+   ],
+   "param_range_4": [
+    0.06,
+    0.07
+   ],
+   "param_range_5": [
+    0.08,
+    0.1
+   ],
+   "format": 1,
+   "icon": "0011",
+   "decimal": 0,
+   "exchange_item": 24011,
+   "name": "Support",
+   "name_th": "Support",
+   "desc": "Increases the Animus' Shield Provided by <key>{1}</>",
+   "desc_th": "เพิ่มโล่ที่ Animus มอบให้ขึ้น <key>{1}</>"
+  },
+  {
+   "id": 12,
+   "prop_id": 25,
+   "skill_id": 0,
+   "param_range_1": [
+    0.06,
+    0.06
+   ],
+   "param_range_2": [
+    0.1,
+    0.1
+   ],
+   "param_range_3": [
+    0.13,
+    0.15
+   ],
+   "param_range_4": [
+    0.16,
+    0.2
+   ],
+   "param_range_5": [
+    0.24,
+    0.3
+   ],
+   "format": 1,
+   "icon": "0012",
+   "decimal": 0,
+   "exchange_item": 24012,
+   "name": "Focus",
+   "name_th": "Focus",
+   "desc": "Increases the Animus' Effect ACC by <key>{1}</>",
+   "desc_th": "เพิ่ม Effect ACC ของ Animus ขึ้น <key>{1}</>"
+  },
+  {
+   "id": 13,
+   "prop_id": 28,
+   "skill_id": 0,
+   "param_range_1": [
+    0.06,
+    0.06
+   ],
+   "param_range_2": [
+    0.1,
+    0.1
+   ],
+   "param_range_3": [
+    0.13,
+    0.15
+   ],
+   "param_range_4": [
+    0.16,
+    0.2
+   ],
+   "param_range_5": [
+    0.24,
+    0.3
+   ],
+   "format": 1,
+   "icon": "0013",
+   "decimal": 0,
+   "exchange_item": 24013,
+   "name": "Calm",
+   "name_th": "Calm",
+   "desc": "Increases the Animus' Effect RES by <key>{1}</>",
+   "desc_th": "เพิ่ม Effect RES ของ Animus ขึ้น <key>{1}</>"
+  },
+  {
+   "id": 14,
+   "prop_id": 82,
+   "skill_id": 0,
+   "param_range_1": [
+    0.01,
+    0.01
+   ],
+   "param_range_2": [
+    0.02,
+    0.02
+   ],
+   "param_range_3": [
+    0.025,
+    0.03
+   ],
+   "param_range_4": [
+    0.04,
+    0.05
+   ],
+   "param_range_5": [
+    0.065,
+    0.08
+   ],
+   "format": 1,
+   "icon": "0014",
+   "decimal": 1,
+   "exchange_item": 24014,
+   "name": "Assault",
+   "name_th": "Assault",
+   "desc": "Increases the Animus' Final DMG Dealt by <key>{1}</>",
+   "desc_th": "เพิ่ม DMG ที่ทำได้ของ Animus ขึ้น <key>{1}</>"
+  },
+  {
+   "id": 15,
+   "prop_id": 0,
+   "skill_id": 3001,
+   "param_range_1": null,
+   "param_range_2": null,
+   "param_range_3": null,
+   "param_range_4": [
+    0.07,
+    0.08
+   ],
+   "param_range_5": [
+    0.1,
+    0.12
+   ],
+   "format": 1,
+   "icon": "",
+   "decimal": 0,
+   "exchange_item": 0,
+   "name": "Resonance",
+   "name_th": "Resonance",
+   "desc": "When an Animus has 3 or more buffs in battle, increases their Final DMG Dealt by <key>{1}</>",
+   "desc_th": "เมื่อ Animus มีมากกว่า 3 บัฟขึ้นไปในการต่อสู้ จะสร้าง DMG เพิ่มขึ้น <key>{1}</>"
+  },
+  {
+   "id": 16,
+   "prop_id": 0,
+   "skill_id": 3002,
+   "param_range_1": null,
+   "param_range_2": null,
+   "param_range_3": [
+    0.013,
+    0.015
+   ],
+   "param_range_4": [
+    0.018,
+    0.02
+   ],
+   "param_range_5": [
+    0.024,
+    0.03
+   ],
+   "format": 1,
+   "icon": "",
+   "decimal": 1,
+   "exchange_item": 0,
+   "name": "Shadow Strike",
+   "name_th": "Shadow Strike",
+   "desc": "At the end of each turn in battle, increases the Animus' Final DMG Dealt by <key>{1}</>, up to <key>5</> stack(s)",
+   "desc_th": "เมื่อสิ้นสุดแต่ละเทิร์นในการต่อสู้ จะเพิ่ม DMG ที่ทำได้ของ Animus ขึ้น <key>{1}</> สูงสุด <key>5</> Stack"
+  },
+  {
+   "id": 17,
+   "prop_id": 0,
+   "skill_id": 3003,
+   "param_range_1": [
+    0.02,
+    0.02
+   ],
+   "param_range_2": [
+    0.04,
+    0.04
+   ],
+   "param_range_3": [
+    0.05,
+    0.06
+   ],
+   "param_range_4": [
+    0.07,
+    0.08
+   ],
+   "param_range_5": [
+    0.1,
+    0.12
+   ],
+   "format": 1,
+   "icon": "",
+   "decimal": 0,
+   "exchange_item": 0,
+   "name": "Energy Burst",
+   "name_th": "Energy Burst",
+   "desc": "When an Animus has more than <key>70%</> HP in battle, increases their Final DMG Dealt by <key>{1}</>",
+   "desc_th": "เมื่อ Animus มี HP มากกว่า <key>70%</> ในการต่อสู้ จะสร้าง DMG เพิ่มขึ้น <key>{1}</>"
+  },
+  {
+   "id": 18,
+   "prop_id": 85,
+   "skill_id": 0,
+   "param_range_1": [
+    0.01,
+    0.01
+   ],
+   "param_range_2": [
+    0.02,
+    0.02
+   ],
+   "param_range_3": [
+    0.025,
+    0.03
+   ],
+   "param_range_4": [
+    0.04,
+    0.05
+   ],
+   "param_range_5": [
+    0.065,
+    0.08
+   ],
+   "format": 1,
+   "icon": "0015",
+   "decimal": 1,
+   "exchange_item": 24015,
+   "name": "Dauntless",
+   "name_th": "Dauntless",
+   "desc": "Reduces the Animus' Final DMG Taken by <key>{1}</>",
+   "desc_th": "Animus ได้รับ DMG ลดลง <key>{1}</>"
+  },
+  {
+   "id": 19,
+   "prop_id": 0,
+   "skill_id": 3004,
+   "param_range_1": [
+    0.02,
+    0.02
+   ],
+   "param_range_2": [
+    0.04,
+    0.04
+   ],
+   "param_range_3": [
+    0.05,
+    0.06
+   ],
+   "param_range_4": [
+    0.07,
+    0.08
+   ],
+   "param_range_5": [
+    0.1,
+    0.12
+   ],
+   "format": 1,
+   "icon": "0016",
+   "decimal": 0,
+   "exchange_item": 24016,
+   "name": "Shadow Guard",
+   "name_th": "Shadow Guard",
+   "desc": "If the Animus has the highest SPD among all allies in battle, reduces the Final DMG Taken by <key>{1}</>",
+   "desc_th": "ถ้า Animus มี SPD สูงที่สุดในพันธมิตรทั้งหมดในการต่อสู้ จะลด DMG ที่ได้รับลง <key>{1}</>"
+  },
+  {
+   "id": 20,
+   "prop_id": 0,
+   "skill_id": 3005,
+   "param_range_1": null,
+   "param_range_2": null,
+   "param_range_3": [
+    0.02,
+    0.025
+   ],
+   "param_range_4": [
+    0.03,
+    0.035
+   ],
+   "param_range_5": [
+    0.04,
+    0.05
+   ],
+   "format": 1,
+   "icon": "0017",
+   "decimal": 1,
+   "exchange_item": 24017,
+   "name": "Defensive Stance",
+   "name_th": "Defensive Stance",
+   "desc": "If the Animus didn't deal damage in a turn, reduces their Final DMG Taken by <key>{1}</>, up to <key>3</> stack(s)",
+   "desc_th": "ถ้า Animus ไม่สร้าง DMG ในเทิร์น จะลด DMG ที่ได้รับลง <key>{1}</> สูงสุด <key>3</> Stack"
+  },
+  {
+   "id": 21,
+   "prop_id": 0,
+   "skill_id": 3006,
+   "param_range_1": null,
+   "param_range_2": null,
+   "param_range_3": null,
+   "param_range_4": [
+    0.009,
+    0.01
+   ],
+   "param_range_5": [
+    0.012,
+    0.015
+   ],
+   "format": 1,
+   "icon": "0018",
+   "decimal": 1,
+   "exchange_item": 24018,
+   "name": "Synergy",
+   "name_th": "Synergy",
+   "desc": "When the Animus applies healing or shield in battle, increases the target's Final DMG Dealt by <key>{1}</>, up to <key>5</> stack(s)",
+   "desc_th": "เมื่อ Animus มอบการฮีลหรือโล่ในการต่อสู้ จะเพิ่ม DMG ที่ทำได้ของเป้าหมายขึ้น <key>{1}</> สูงสุด <key>5</> Stack"
+  },
+  {
+   "id": 22,
+   "prop_id": 0,
+   "skill_id": 3007,
+   "param_range_1": null,
+   "param_range_2": null,
+   "param_range_3": null,
+   "param_range_4": [
+    0.32,
+    0.4
+   ],
+   "param_range_5": [
+    0.48,
+    0.6
+   ],
+   "format": 1,
+   "icon": "0019",
+   "decimal": 0,
+   "exchange_item": 24019,
+   "name": "Insight",
+   "name_th": "Insight",
+   "desc": "At the start of the battle, increases the Animus' Effect RES and Effect ACC by <key>{1}</>; this effect reduces by <key>20%</> at the end of each turn",
+   "desc_th": "เมื่อเริ่มต่อสู้ จะเพิ่ม Effect RES และ Effect ACC ของ Animus ขึ้น <key>{1}</> และเอฟเฟ็กต์นี้จะลดลง <key>20%</> เมื่อสิ้นสุดแต่ละเทิร์น"
+  },
+  {
+   "id": 23,
+   "prop_id": 0,
+   "skill_id": 3008,
+   "param_range_1": [
+    0.02,
+    0.02
+   ],
+   "param_range_2": [
+    0.03,
+    0.03
+   ],
+   "param_range_3": [
+    0.04,
+    0.05
+   ],
+   "param_range_4": [
+    0.06,
+    0.07
+   ],
+   "param_range_5": [
+    0.08,
+    0.1
+   ],
+   "format": 1,
+   "icon": "0020",
+   "decimal": 0,
+   "exchange_item": 24020,
+   "name": "Gaze",
+   "name_th": "Gaze",
+   "desc": "At the end of each turn, increases the Animus' Effect ACC by <key>{1}</>, up to <key>5</> stacks",
+   "desc_th": "เมื่อสิ้นสุดแต่ละเทิร์น จะเพิ่ม Effect ACC ของ Animus ขึ้น <key>{1}</> สูงสุด <key>5</> Stack"
+  },
+  {
+   "id": 24,
+   "prop_id": 0,
+   "skill_id": 3009,
+   "param_range_1": [
+    0.02,
+    0.02
+   ],
+   "param_range_2": [
+    0.04,
+    0.04
+   ],
+   "param_range_3": [
+    0.05,
+    0.06
+   ],
+   "param_range_4": [
+    0.07,
+    0.08
+   ],
+   "param_range_5": [
+    0.1,
+    0.12
+   ],
+   "format": 1,
+   "icon": "0021",
+   "decimal": 0,
+   "exchange_item": 24021,
+   "name": "Blade of Reason",
+   "name_th": "Blade of Reason",
+   "desc": "Increases <Attr_1>Reason</> Animus' Final DMG Dealt by <key>{1}</>",
+   "desc_th": "เพิ่ม DMG ที่ทำได้ของ Animus รูปแบบ <Attr_1>Reason</> ขึ้น <key>{1}</>"
+  },
+  {
+   "id": 25,
+   "prop_id": 0,
+   "skill_id": 3010,
+   "param_range_1": [
+    0.02,
+    0.02
+   ],
+   "param_range_2": [
+    0.04,
+    0.04
+   ],
+   "param_range_3": [
+    0.05,
+    0.06
+   ],
+   "param_range_4": [
+    0.07,
+    0.08
+   ],
+   "param_range_5": [
+    0.1,
+    0.12
+   ],
+   "format": 1,
+   "icon": "0022",
+   "decimal": 0,
+   "exchange_item": 24022,
+   "name": "Blade of Oddity",
+   "name_th": "Blade of Oddity",
+   "desc": "Increases <Attr_2>Odd</> Animus' Final DMG Dealt by <key>{1}</>",
+   "desc_th": "เพิ่ม DMG ที่ทำได้ของ Animus รูปแบบ <Attr_2>Odd</> ขึ้น <key>{1}</>"
+  },
+  {
+   "id": 26,
+   "prop_id": 0,
+   "skill_id": 3011,
+   "param_range_1": [
+    0.02,
+    0.02
+   ],
+   "param_range_2": [
+    0.04,
+    0.04
+   ],
+   "param_range_3": [
+    0.05,
+    0.06
+   ],
+   "param_range_4": [
+    0.07,
+    0.08
+   ],
+   "param_range_5": [
+    0.1,
+    0.12
+   ],
+   "format": 1,
+   "icon": "0023",
+   "decimal": 0,
+   "exchange_item": 24023,
+   "name": "Blade of Hollow",
+   "name_th": "Blade of Hollow",
+   "desc": "Increases <Attr_3>Hollow</> Animus' Final DMG Dealt by <key>{1}</>",
+   "desc_th": "เพิ่ม DMG ที่ทำได้ของ Animus รูปแบบ <Attr_3>Hollow</> ขึ้น <key>{1}</>"
+  },
+  {
+   "id": 27,
+   "prop_id": 0,
+   "skill_id": 3012,
+   "param_range_1": [
+    0.02,
+    0.02
+   ],
+   "param_range_2": [
+    0.04,
+    0.04
+   ],
+   "param_range_3": [
+    0.05,
+    0.06
+   ],
+   "param_range_4": [
+    0.07,
+    0.08
+   ],
+   "param_range_5": [
+    0.1,
+    0.12
+   ],
+   "format": 1,
+   "icon": "0024",
+   "decimal": 0,
+   "exchange_item": 24024,
+   "name": "Blade of Constancy",
+   "name_th": "Blade of Constancy",
+   "desc": "Increases <Attr_5>Constant</> Animus' Final DMG Dealt by <key>{1}</>",
+   "desc_th": "เพิ่ม DMG ที่ทำได้ของ Animus รูปแบบ <Attr_5>Constant</> ขึ้น <key>{1}</>"
+  },
+  {
+   "id": 28,
+   "prop_id": 0,
+   "skill_id": 3013,
+   "param_range_1": [
+    0.02,
+    0.02
+   ],
+   "param_range_2": [
+    0.04,
+    0.04
+   ],
+   "param_range_3": [
+    0.05,
+    0.06
+   ],
+   "param_range_4": [
+    0.07,
+    0.08
+   ],
+   "param_range_5": [
+    0.1,
+    0.12
+   ],
+   "format": 1,
+   "icon": "0025",
+   "decimal": 0,
+   "exchange_item": 24025,
+   "name": "Blade of Disorder",
+   "name_th": "Blade of Disorder",
+   "desc": "Increases <Attr_4>Disorder</> Animus' Final DMG Dealt by <key>{1}</>",
+   "desc_th": "เพิ่ม DMG ที่ทำได้ของ Animus รูปแบบ <Attr_4>Disorder</> ขึ้น <key>{1}</>"
+  }
+ ],
+ "text_chunk": "00035_0de978a423728d50.json"
+}

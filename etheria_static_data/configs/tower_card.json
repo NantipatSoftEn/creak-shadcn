@@ -1,0 +1,1317 @@
+{
+ "config": "tower_card",
+ "fields": [
+  "id",
+  "icon",
+  "boss_skill_index",
+  "minion_skill_index",
+  "screen_status_widget",
+  "screen_status_params",
+  "name",
+  "desc"
+ ],
+ "rows": {
+  "22001": {
+   "id": 22001,
+   "icon": "0001",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Anima Storm",
+   "name_th": "Anima Storm",
+   "desc": "Enemy ATK increases by 25%",
+   "desc_th": "ATK ของศัตรูเพิ่มขึ้น 25%"
+  },
+  "22002": {
+   "id": 22002,
+   "icon": "0002",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Feeble Body",
+   "name_th": "Feeble Body",
+   "desc": "Our ATK decreases by 30%",
+   "desc_th": "ATK ของเราลดลง 30%"
+  },
+  "22003": {
+   "id": 22003,
+   "icon": "0005",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Specialized Armor",
+   "name_th": "Specialized Armor",
+   "desc": "Enemy DEF increases by 35%",
+   "desc_th": "DEF ของศัตรูเพิ่มขึ้น 35%"
+  },
+  "22004": {
+   "id": 22004,
+   "icon": "0006",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Equipment Degradation",
+   "name_th": "Equipment Degradation",
+   "desc": "Our DEF decreases by 40%",
+   "desc_th": "DEF ของเราลดลง 40%"
+  },
+  "22005": {
+   "id": 22005,
+   "icon": "0005",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Interference Shield",
+   "name_th": "Interference Shield",
+   "desc": "Enemy Effect RES increases by 40%",
+   "desc_th": "Effect RES ของศัตรูเพิ่มขึ้น 40%"
+  },
+  "22006": {
+   "id": 22006,
+   "icon": "0003",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Meltdown Spread",
+   "name_th": "Meltdown Spread",
+   "desc": "Enemy HP increases by 30%",
+   "desc_th": "HP ของศัตรูเพิ่มขึ้น 30%"
+  },
+  "22007": {
+   "id": 22007,
+   "icon": "0011",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Emergency Barrier",
+   "name_th": "Emergency Barrier",
+   "desc": "Gain 1 turns of [Immunity] at the start of the enemy's battle.",
+   "desc_th": "ได้รับ [Immunity] 1 เทิร์นเมื่อเริ่มการต่อสู้ของศัตรู"
+  },
+  "22008": {
+   "id": 22008,
+   "icon": "0010",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Caught off Guard",
+   "name_th": "Caught off Guard",
+   "desc": "Our units become stunned for 1 turn(s) at the start of battle.",
+   "desc_th": "ยูนิตของเราได้รับสถานะ Stunned เป็นเวลา 1 เทิร์นเมื่อเริ่มต่อสู้"
+  },
+  "22009": {
+   "id": 22009,
+   "icon": "0010",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Bone-Chilling Cold",
+   "name_th": "Bone-Chilling Cold",
+   "desc": "Our units become frozen for 1 turn(s) at the start of battle.",
+   "desc_th": "ยูนิตของเราได้รับสถานะ Frozen เป็นเวลา 1 เทิร์นเมื่อเริ่มต่อสู้"
+  },
+  "22010": {
+   "id": 22010,
+   "icon": "0010",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Exhausted",
+   "name_th": "Exhausted",
+   "desc": "Our units Slumber for 1 turn(s) at the start of battle.",
+   "desc_th": "ยูนิตของเราได้รับสถานะ Slumber เป็นเวลา 1 เทิร์นเมื่อเริ่มต่อสู้"
+  },
+  "22011": {
+   "id": 22011,
+   "icon": "0010",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Communication Cutoff",
+   "name_th": "Communication Cutoff",
+   "desc": "Our units are silenced for 1 turn(s) at the start of battle.",
+   "desc_th": "ยูนิตของเราได้รับสถานะ Silenced เป็นเวลา 1 เทิร์นเมื่อเริ่มต่อสู้"
+  },
+  "22012": {
+   "id": 22012,
+   "icon": "0011",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Alert Nature",
+   "name_th": "Alert Nature",
+   "desc": "Enemies have a 25% chance to Counterattack after being attacked.",
+   "desc_th": "ศัตรูมีโอกาส 25% ที่จะโจมตีสวนกลับหลังจากถูกโจมตี"
+  },
+  "22013": {
+   "id": 22013,
+   "icon": "0003",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Anima Theft",
+   "name_th": "Anima Theft",
+   "desc": "Recovers HP equal to 30% of the DMG dealt when attacking the enemy.",
+   "desc_th": "ฟื้นฟู HP เท่ากับ 30% ของ DMG ที่ทำได้เมื่อโจมตีศัตรู"
+  },
+  "22014": {
+   "id": 22014,
+   "icon": "0011",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Advantage Steal",
+   "name_th": "Advantage Steal",
+   "desc": "When the enemy attacks, they have a 20% chance to steal 1 buff(s) from our team.",
+   "desc_th": "เมื่อศัตรูโจมตี มีโอกาส 20% ที่จะขโมย 1 บัฟจากทีมของเรา"
+  },
+  "22015": {
+   "id": 22015,
+   "icon": "0011",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Impact Reflection",
+   "name_th": "Impact Reflection",
+   "desc": "When the enemy is attacked, reflect 15% DMG.",
+   "desc_th": "เมื่อศัตรูถูกโจมตี จะสะท้อน 15% ของ DMG"
+  },
+  "22016": {
+   "id": 22016,
+   "icon": "0004",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Drug Resistance",
+   "name_th": "Drug Resistance",
+   "desc": "Our team receives 30% less healing.",
+   "desc_th": "ทีมของเราได้รับการฮีลลดลง 30%"
+  },
+  "22201": {
+   "id": 22201,
+   "icon": "0007",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Etheron Overclocking",
+   "name_th": "Etheron Overclocking",
+   "desc": "Enemy SPD increases by 20%",
+   "desc_th": "SPD ของศัตรูเพิ่มขึ้น 20%"
+  },
+  "22202": {
+   "id": 22202,
+   "icon": "0008",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Slowed Action",
+   "name_th": "Slowed Action",
+   "desc": "Our SPD decreases by 20%",
+   "desc_th": "SPD ของเราลดลง 20%"
+  },
+  "22203": {
+   "id": 22203,
+   "icon": "0003",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Self-repair",
+   "name_th": "Self-repair",
+   "desc": "Restores 20% of lost HP before the enemy's turn starts.",
+   "desc_th": "ฟื้นฟู 20% ของ HP ที่สูญเสียไปก่อนที่เทิร์นของศัตรูจะเริ่มต้น"
+  },
+  "22204": {
+   "id": 22204,
+   "icon": "0004",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Anima Loss",
+   "name_th": "Anima Loss",
+   "desc": "Reduce current HP by 15% before the start of our turn.",
+   "desc_th": "ก่อนเริ่มเทิร์น ฝ่ายเรา HP ลดลง 15%"
+  },
+  "22205": {
+   "id": 22205,
+   "icon": "0011",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Purification Stance",
+   "name_th": "Purification Stance",
+   "desc": "Enemies cannot be inflicted with debuffs",
+   "desc_th": "ศัตรูจะไม่ได้รับผลจากดีบัฟ"
+  },
+  "22206": {
+   "id": 22206,
+   "icon": "0012",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "At Wits' End",
+   "name_th": "At Wits' End",
+   "desc": "Our team cannot gain buffs.",
+   "desc_th": "ทีมของเราจะรับบัฟไม่ได้"
+  },
+  "22207": {
+   "id": 22207,
+   "icon": "0007",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Meticulous Plan",
+   "name_th": "Meticulous Plan",
+   "desc": "Enemies are immune to effects that reduce Turn Meter progress and are unaffected by CD Reduction effects.",
+   "desc_th": "ศัตรูจะมี Immunity ต่อเอฟเฟ็กต์ที่ลดความคืบหน้าเกจเทิร์น และไม่ได้รับผลจากเอฟเฟ็กต์ CD Reduction"
+  },
+  "22208": {
+   "id": 22208,
+   "icon": "0008",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Heavy Steps",
+   "name_th": "Heavy Steps",
+   "desc": "Our team cannot advance Turn Meter and is unaffected by CD Reduction effects.",
+   "desc_th": "ทีมของเราเพิ่มเกจเทิร์นไม่ได้ และไม่ได้รับผลจากเอฟเฟ็กต์ CD Reduction"
+  },
+  "22209": {
+   "id": 22209,
+   "icon": "0011",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Irresistible",
+   "name_th": "Unstoppable",
+   "desc": "The enemy is immune to action restriction effects",
+   "desc_th": "ศัตรูมีภูมิคุ้มกันต่อเอฟเฟ็กต์จากการจำกัดการแอ็กชัน"
+  },
+  "22210": {
+   "id": 22210,
+   "icon": "0005",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Reactive Armor",
+   "name_th": "Reactive Armor",
+   "desc": "Gain a Shield equal to 10% of the enemy's Max HP at the end of their turn, lasting for 2 turn(s).",
+   "desc_th": "ได้รับโล่เท่ากับ 10% ของ HP สูงสุดของศัตรูเมื่อจบเทิร์น เป็นเวลา 2 เทิร์น"
+  },
+  "22211": {
+   "id": 22211,
+   "icon": "0009",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Consciousness Shockwave",
+   "name_th": "Consciousness Shockwave",
+   "desc": "After the enemy's attack, there is a 15% chance to apply [Stun] for 1 turn(s).",
+   "desc_th": "หลังจากศัตรูโจมตี มีโอกาส 15% ที่จะใช้งาน [Stun] เป็นเวลา 1 เทิร์น"
+  },
+  "22212": {
+   "id": 22212,
+   "icon": "0009",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Consciousness Freeze",
+   "name_th": "Consciousness Freeze",
+   "desc": "After the enemy's attack, there is a 15% chance to apply [Freeze] for 1 turn(s).",
+   "desc_th": "หลังจากศัตรูโจมตี มีโอกาส 15% ที่จะใช้งาน [Frozen] เป็นเวลา 1 เทิร์น"
+  },
+  "22213": {
+   "id": 22213,
+   "icon": "0009",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Consciousness Block",
+   "name_th": "Consciousness Block",
+   "desc": "After the enemy's attack, there is a 15% chance to apply [Slumber] for 1 turn(s).",
+   "desc_th": "หลังจากศัตรูโจมตี มีโอกาส 15% ที่จะใช้งาน [Slumber] เป็นเวลา 1 เทิร์น"
+  },
+  "22214": {
+   "id": 22214,
+   "icon": "0009",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Silent Consciousness",
+   "name_th": "Silent Consciousness",
+   "desc": "After the enemy's attack, there is a 15% chance to apply [Silence] for 1 turn(s).",
+   "desc_th": "หลังจากศัตรูโจมตี มีโอกาส 15% ที่จะใช้งาน [Silence] เป็นเวลา 1 เทิร์น"
+  },
+  "22215": {
+   "id": 22215,
+   "icon": "0009",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Consciousness Frenzy",
+   "name_th": "Consciousness Frenzy",
+   "desc": "After the enemy's attack, there is a 15% chance to apply [Taunt] for 1 turn(s).",
+   "desc_th": "หลังจากศัตรูโจมตี มีโอกาส 15% ที่จะใช้งาน [Taunt] เป็นเวลา 1 เทิร์น"
+  },
+  "22216": {
+   "id": 22216,
+   "icon": "0009",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Shockwave Counterattack",
+   "name_th": "Shockwave Counterattack",
+   "desc": "When hit, the enemy has a 10% chance to apply [Stun] to the attacker for 1 turn(s).",
+   "desc_th": "เมื่อถูกโจมตี ศัตรูมีโอกาส 10% ที่จะใช้งาน [Stun] กับผู้โจมตีเป็นเวลา 1 เทิร์น"
+  },
+  "22217": {
+   "id": 22217,
+   "icon": "0009",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Frozen Counterattack",
+   "name_th": "Frozen Counterattack",
+   "desc": "When hit, the enemy has a 10% chance to apply [Freeze] to the attacker for 1 turn(s).",
+   "desc_th": "เมื่อถูกโจมตี ศัตรูมีโอกาส 10% ที่จะใช้งาน [Frozen] กับผู้โจมตีเป็นเวลา 1 เทิร์น"
+  },
+  "22218": {
+   "id": 22218,
+   "icon": "0009",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Block Counterattack",
+   "name_th": "Block Counterattack",
+   "desc": "When hit, the enemy has a 10% chance to apply [Slumber] to the attacker for 1 turn(s).",
+   "desc_th": "เมื่อถูกโจมตี ศัตรูมีโอกาส 10% ที่จะใช้งาน [Slumber] กับผู้โจมตีเป็นเวลา 1 เทิร์น"
+  },
+  "22219": {
+   "id": 22219,
+   "icon": "0009",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Silent Counterattack",
+   "name_th": "Silent Counterattack",
+   "desc": "When hit, the enemy has a 10% chance to apply [Silence] to the attacker for 1 turn(s).",
+   "desc_th": "เมื่อถูกโจมตี ศัตรูมีโอกาส 10% ที่จะใช้งาน [Silence] กับผู้โจมตีเป็นเวลา 1 เทิร์น"
+  },
+  "22220": {
+   "id": 22220,
+   "icon": "0009",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Frenzied Counterattack",
+   "name_th": "Frenzied Counterattack",
+   "desc": "When hit, the enemy has a 10% chance to apply [Taunt] to the attacker for 1 turn(s).",
+   "desc_th": "เมื่อถูกโจมตี ศัตรูมีโอกาส 10% ที่จะใช้งาน [Taunt] กับผู้โจมตีเป็นเวลา 1 เทิร์น"
+  },
+  "22221": {
+   "id": 22221,
+   "icon": "0011",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Precision Strike",
+   "name_th": "Precision Strike",
+   "desc": "Locks HP equal to 20% of the DMG dealt when the enemy attacks.",
+   "desc_th": "ล็อก HP เท่ากับ 20% ของ DMG ที่ทำได้เมื่อศัตรูโจมตี"
+  },
+  "22222": {
+   "id": 22222,
+   "icon": "0001",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Heavy Strike",
+   "name_th": "Heavy Strike",
+   "desc": "When the enemy's HP is below 50%, the DMG dealt increases by an additional 30%.",
+   "desc_th": "เมื่อ HP ของศัตรูต่ำกว่า 50% DMG ที่ทำได้จะเพิ่มขึ้น 30%"
+  },
+  "22223": {
+   "id": 22223,
+   "icon": "0003",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Embers Rekindled",
+   "name_th": "Embers Rekindled",
+   "desc": "The enemy revives with 30% HP after the first death.",
+   "desc_th": "ศัตรูจะคืนชีพพร้อมกับ 30% HP หลังจากตายครั้งแรก"
+  },
+  "22224": {
+   "id": 22224,
+   "icon": "0011",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Adaptability",
+   "name_th": "Adaptability",
+   "desc": "There is a 15% chance to take Immediate Action after the enemy's turn ends.",
+   "desc_th": "มีโอกาส 15% ที่จะลงมือทันทีหลังจากสิ้นสุดเทิร์นของศัตรู"
+  },
+  "22225": {
+   "id": 22225,
+   "icon": "0012",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Vulnerable Shell",
+   "name_th": "Vulnerable Shell",
+   "desc": "The CD of our Shells' skills is extended by 1 turn(s).",
+   "desc_th": "CD สกิลของ Shell จะขยายออกไป 1 เทิร์น"
+  },
+  "22226": {
+   "id": 22226,
+   "icon": "0011",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Strategic Insight",
+   "name_th": "Strategic Insight",
+   "desc": "When the enemy successfully applies a debuff, there is a 25% chance to increase its duration by 1 turn(s).",
+   "desc_th": "เมื่อศัตรูใช้งานดีบัฟสำเร็จ มีโอกาส 25% ที่จะเพิ่มระยะเวลาดีบัฟขึ้น 1 เทิร์น"
+  },
+  "22227": {
+   "id": 22227,
+   "icon": "0012",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Support Blocked",
+   "name_th": "Support Blocked",
+   "desc": "When our units apply buffs, there is a 35% chance to reduce the buff duration by 1 turn(s), down to a minimum of 1 turn(s).",
+   "desc_th": "เมื่อยูนิตของเรามอบบัฟ มีโอกาส 35% ที่จะลดระยะเวลาบัฟลง 1 เทิร์น โดยลดเหลือต่ำที่สุด 1 เทิร์น"
+  },
+  "22401": {
+   "id": 22401,
+   "icon": "0001",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "WBP_UI_Battle_Screen_Status_Lightning",
+   "screen_status_params": 404,
+   "name": "Wrath of Thunder",
+   "name_th": "Wrath of Thunder",
+   "desc": "At the start of battle, inflicts [Thunder Mark] on a random allied Animus of yours. After 10 turn(s), the thunder will strike that unit",
+   "desc_th": "เมื่อเริ่มต้นการต่อสู้ จะสุ่มมอบ [Thunder Mark] ให้กับ Animus พันธมิตรของคุณ หลังจาก 10 เทิร์น สายฟ้าจะฟาดใส่ยูนิตนั้น"
+  },
+  "22402": {
+   "id": 22402,
+   "icon": "0012",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "10% increases DMG Reduction",
+   "name_th": "เพิ่มการลด DMG 10%",
+   "desc": "DMG dealt by the enemy is additionally increased by <key>0%</>\nDMG taken by the enemy is additionally reduced by <key>0%</>",
+   "desc_th": "DMG ที่ศัตรูทำได้จะเพิ่มขึ้นอีก <key>0%</>\nDMG ที่ศัตรูจะได้รับจะลดลงอีก <key>0%</>"
+  },
+  "22403": {
+   "id": 22403,
+   "icon": "0012",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "20% increases DMG Reduction",
+   "name_th": "เพิ่มการลด DMG 20%",
+   "desc": "DMG dealt by the enemy is additionally increased by <key>30%</>\nDMG taken by the enemy is additionally reduced by <key>30%</>",
+   "desc_th": "DMG ที่ศัตรูทำได้จะเพิ่มขึ้นอีก <key>30%</>\nDMG ที่ศัตรูจะได้รับจะลดลงอีก <key>30%</>"
+  },
+  "22404": {
+   "id": 22404,
+   "icon": "0012",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "30% increases DMG Reduction",
+   "name_th": "เพิ่มการลด DMG 30%",
+   "desc": "DMG dealt by the enemy is additionally increased by <key>45%</>\nDMG taken by the enemy is additionally reduced by <key>45%</>",
+   "desc_th": "DMG ที่ศัตรูทำได้จะเพิ่มขึ้นอีก <key>45%</>\nDMG ที่ศัตรูจะได้รับจะลดลงอีก <key>45%</>"
+  },
+  "22405": {
+   "id": 22405,
+   "icon": "0012",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Special monsters increase attributes",
+   "name_th": "ค่าคุณสมบัติมอนสเตอร์พิเศษเพิ่มขึ้น",
+   "desc": "All enemy HP increases by 20%, and ATK increases by 30%.",
+   "desc_th": "HP ของศัตรูทั้งหมดจะเพิ่มขึ้น 20% และ ATK จะเพิ่มขึ้น 30%"
+  },
+  "22406": {
+   "id": 22406,
+   "icon": "0012",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "0% increases DMG Reduction",
+   "name_th": "เพิ่มการลด DMG 0%",
+   "desc": "DMG dealt by the enemy is additionally increased by <key>0%</>\nDMG taken by the enemy is additionally reduced by <key>0%</>",
+   "desc_th": "DMG ที่ศัตรูทำได้จะเพิ่มขึ้นอีก <key>0%</>\nDMG ที่ศัตรูจะได้รับจะลดลงอีก <key>0%</>"
+  },
+  "22407": {
+   "id": 22407,
+   "icon": "0002",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "WBP_UI_Battle_Screen_Status_Tower_Poison",
+   "screen_status_params": 756,
+   "name": "Kiss of Venom",
+   "name_th": "Kiss of Venom",
+   "desc": "At the start of battle, inflicts [Toxin Mark] on a random allied Animus of yours, removing part of their HP at the start of their turn",
+   "desc_th": "เมื่อเริ่มการต่อสู้ จะสุ่มมอบ [Toxin Mark] ให้กับ Animus พันธมิตร ซึ่งจะทำให้ HP บางส่วนของ Animus พันธมิตรหายไปเมื่อเริ่มต้นเทิร์น"
+  },
+  "22501": {
+   "id": 22501,
+   "icon": "0012",
+   "boss_skill_index": [
+    1001,
+    1002,
+    1005
+   ],
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Double Halo",
+   "name_th": "Double Halo",
+   "desc": "After each Boss's action, [Day Aura] and [Night Aura] will upgrade 2 time(s)",
+   "desc_th": "หลังแต่ละแอ็กชันของบอส [Day Aura] และ [Night Aura] จะอัปเกรด 2 ครั้ง"
+  },
+  "22502": {
+   "id": 22502,
+   "icon": "0012",
+   "boss_skill_index": [
+    1003
+   ],
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Frozen Restriction",
+   "name_th": "Frozen Restriction",
+   "desc": "When using Castling, has a 30% chance to inflict a 1-turn [Freeze]",
+   "desc_th": "เมื่อใช้ Castling มีโอกาส 30% ที่จะมอบ [Freeze] เป็นเวลา 1 เทิร์น"
+  },
+  "22503": {
+   "id": 22503,
+   "icon": "0012",
+   "boss_skill_index": [
+    1004
+   ],
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Constant Day and Night",
+   "name_th": "Constant Day and Night",
+   "desc": "After each form change of Phoebe and Febian, allied Animus must act 15 times cumulatively before another form change is possible",
+   "desc_th": "หลัง Phoebe และ Febian เปลี่ยนร่างแต่ละครั้ง Animus ฝ่ายพันธมิตรจะต้องทำแอ็กชันสะสม 15 ครั้งจึงจะเกิดการเปลี่ยนร่างครั้งต่อไปได้"
+  },
+  "22504": {
+   "id": 22504,
+   "icon": "0012",
+   "boss_skill_index": [
+    1011
+   ],
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Illusion Shield",
+   "name_th": "Illusion Shield",
+   "desc": "Summoned Puppets gain a shield equal to <Key>50%</> of their Max HP",
+   "desc_th": "หุ่นเชิดที่อัญเชิญมาได้รับโล่เท่ากับ <Key>50%</> ของ Max HP ของพวกเขา"
+  },
+  "22505": {
+   "id": 22505,
+   "icon": "0012",
+   "boss_skill_index": [
+    1012,
+    1013
+   ],
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Master Technique",
+   "name_th": "Master Technique",
+   "desc": "Apate's Card Trick and Mirage Magic effects are upgraded",
+   "desc_th": "เอฟเฟ็กต์ของ Card Trick และ Mirage Magic ของ Apate จะได้รับการอัปเกรด"
+  },
+  "22506": {
+   "id": 22506,
+   "icon": "0012",
+   "boss_skill_index": [
+    1014
+   ],
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Mischievous Puppet",
+   "name_th": "Mischievous Puppet",
+   "desc": "Fate's Hand no longer summons puppets following a fixed order, and each time a different puppet will be summoned randomly",
+   "desc_th": "Fate's Hand จะไม่อัญเชิญหุ่นเชิดตามลำดับตายตัวอีกต่อไป และแต่ละครั้งจะอัญเชิญหุ่นเชิดที่ต่างกันแบบสุ่ม"
+  },
+  "22507": {
+   "id": 22507,
+   "icon": "0012",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Ability Enhancement",
+   "name_th": "เสริมประสิทธิภาพความสามารถ",
+   "desc": "Phoebe, Febian, and the Pawns' HP, ATK, and SPD increase by 15%.",
+   "desc_th": "HP, ATK และ SPD ของ Phoebe, Febian และตัวหมากจะเพิ่มขึ้น 15%"
+  },
+  "22508": {
+   "id": 22508,
+   "icon": "0012",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Ability Enhancement",
+   "name_th": "เสริมประสิทธิภาพความสามารถ",
+   "desc": "Apate and the puppet's HP, ATK, and SPD increased by 15%",
+   "desc_th": "HP, ATK และ SPD ของ Apate และหุ่นเชิดจะเพิ่มขึ้น 15%"
+  },
+  "22509": {
+   "id": 22509,
+   "icon": "0012",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Clockwork Cleanup",
+   "name_th": "Clockwork Cleanup",
+   "desc": "After Whitney's action, dispel one debuff from all Clock Monsters.",
+   "desc_th": "หลังแอ็กชันของ Whitney ลบล้างหนึ่งดีบัฟออกจาก Clock Monster ทั้งหมด"
+  },
+  "22510": {
+   "id": 22510,
+   "icon": "0012",
+   "boss_skill_index": [
+    1021
+   ],
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Angry Clock",
+   "name_th": "Angry Clock",
+   "desc": "The probability of the Clock Monster's normal Follow-up Attack Rate increases to 40%, and Whitney's Follow-up Attack Rate increases to 65% after releasing a DMG skill",
+   "desc_th": "โอกาสการโจมตีตามซ้ำตามปกติของ Clock Monster จะเพิ่มขึ้นเป็น 40% และโอกาสการโจมตีตามซ้ำของ Whitney จะเพิ่มขึ้นเป็น 65% หลังจากที่เธอปลดปล่อยสกิลสร้าง DMG"
+  },
+  "22511": {
+   "id": 22511,
+   "icon": "0012",
+   "boss_skill_index": [
+    1022,
+    1023
+   ],
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Clockwork Assistance",
+   "name_th": "Clockwork Assistance",
+   "desc": "The number of actions required for Whitney to gain an action turn from the Clock Monster is reduced to 3 time(s).",
+   "desc_th": "จำนวนแอ็กชันที่ Whitney ต้องการเพื่อจะได้รับเทิร์นแอ็กชันจาก Clock Monster จะลดลงเหลือ 3 ครั้ง"
+  },
+  "22512": {
+   "id": 22512,
+   "icon": "0012",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Time Stasis",
+   "name_th": "Time Stasis",
+   "desc": "When the Clockwork Monster attacks, there is a 50% chance to reduce the target's Turn Meter progress by 15%",
+   "desc_th": "เมื่อ Clockwork Monster โจมตี มีโอกาส 50% ที่จะลดความคืบหน้าเกจเทิร์นของเป้าหมายลง 15%"
+  },
+  "22513": {
+   "id": 22513,
+   "icon": "0012",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Rapid Bloom",
+   "name_th": "Rapid Bloom",
+   "desc": "Concerto Bud, Flower, and Flower Fairy gain 20% Turn Meter progress after each action.",
+   "desc_th": "Concerto Bud, Flower และ Flower Fairy จะได้รับความคืบหน้าเกจเทิร์น 20% หลังจากแต่ละแอ็กชัน"
+  },
+  "22514": {
+   "id": 22514,
+   "icon": "0012",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Flora Poison",
+   "name_th": "Flora Poison",
+   "desc": "Friendly units take 25% more DoT.",
+   "desc_th": "ยูนิตพันธมิตรได้รับ DoT เพิ่มขึ้น 25%"
+  },
+  "22515": {
+   "id": 22515,
+   "icon": "0012",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Parasitize Seed",
+   "name_th": "Parasitize Seed",
+   "desc": "After taking action, our team will take 1 stack(s) of DoT, lasting for 1 turn(s).",
+   "desc_th": "หลังจากทำแอ็กชัน ทีมของเราจะได้รับ DoT 1 Stack เป็นเวลา 1 เทิร์น"
+  },
+  "22516": {
+   "id": 22516,
+   "icon": "0012",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Feeble Movement",
+   "name_th": "Feeble Movement",
+   "desc": "Sharon has a 30% chance to dispel one buff from the target each time she deals DMG.",
+   "desc_th": "Sharon มีโอกาส 30% ที่จะลบล้างหนึ่งบัฟออกจากเป้าหมายทุกครั้งที่สร้าง DMG"
+  },
+  "22517": {
+   "id": 22517,
+   "icon": "0012",
+   "boss_skill_index": [
+    1031
+   ],
+   "minion_skill_index": [
+    [
+     57319,
+     1031
+    ],
+    [
+     57320,
+     1031
+    ],
+    [
+     57321,
+     1031
+    ],
+    [
+     57322,
+     1031
+    ],
+    [
+     57323,
+     1031
+    ]
+   ],
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Piercing Attack",
+   "name_th": "Piercing Attack",
+   "desc": "When facing off against countered Affinity, Astarte and Fang & Claw pierce through an increased 45% of their target's DEF.",
+   "desc_th": "เมื่อเผชิญหน้ากับรูปแบบเสียเปรียบ Astarte และ Fang & Claw จะเจาะทะลุ DEF ของเป้าหมายเพิ่มขึ้น 45%"
+  },
+  "22518": {
+   "id": 22518,
+   "icon": "0012",
+   "boss_skill_index": [
+    1032
+   ],
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Fortune Reversal",
+   "name_th": "Fortune Reversal",
+   "desc": "Fang & Claw takes 30% less DMG, but upon its death, our team's skill CD is reduced by 1 turn(s).",
+   "desc_th": "Fang & Claw ได้รับ DMG ลดลง 30% แต่เมื่อตาย CD สกิลของทีมจะลดลง 1 เทิร์น"
+  },
+  "22519": {
+   "id": 22519,
+   "icon": "0012",
+   "boss_skill_index": [
+    1033
+   ],
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Final Frenzy",
+   "name_th": "Final Frenzy",
+   "desc": "In her Final Form, Astarte's skills have no CD when her HP drops below 25%.",
+   "desc_th": "ในร่างสุดท้าย สกิลของ Astarte จะไม่มี CD เมื่อ HP ของเธอลดลงต่ำกว่า 25%"
+  },
+  "22520": {
+   "id": 22520,
+   "icon": "0012",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Ability Enhancement",
+   "name_th": "เสริมประสิทธิภาพความสามารถ",
+   "desc": "Astarte and Fang & Claw's HP, ATK, and SPD increase by 15%.",
+   "desc_th": "HP, ATK และ SPD ของ Astarte และ Fang & Claw จะเพิ่มขึ้น 15%"
+  },
+  "22521": {
+   "id": 22521,
+   "icon": "0012",
+   "boss_skill_index": null,
+   "minion_skill_index": [
+    [
+     60056,
+     1041,
+     1042
+    ]
+   ],
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Resist Skin",
+   "name_th": "ผิวต้านทาน",
+   "desc": "After Tailspin is controlled, it no longer gains [Resistance], but its base Resistance increases by 80%.",
+   "desc_th": "หลังจากควบคุม Tailspin แล้ว จะไม่ได้รับ [Resistance] อีกต่อไป แต่ Resistance พื้นฐานจะเพิ่มขึ้น 80%"
+  },
+  "22522": {
+   "id": 22522,
+   "icon": "0012",
+   "boss_skill_index": [
+    1043
+   ],
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Counterattack Storm",
+   "name_th": "พายุโจมตีสวนกลับ",
+   "desc": "Rengokutsu has a 30% Counterattack Chance, and all enemies deal increased DMG by 20% to [Silenced] units.",
+   "desc_th": "Rengokutsu มีอัตราการโจมตีสวนกลับ 30% และศัตรูทั้งหมดสร้าง DMG เพิ่มขึ้น 20% ให้กับยูนิต [Silenced]"
+  },
+  "22523": {
+   "id": 22523,
+   "icon": "0012",
+   "boss_skill_index": [
+    1044
+   ],
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Super Poison Flame",
+   "name_th": "เปลวเพลิงพิษร้ายแรง",
+   "desc": "The dispel count of Ascending Flame increases to 2, and when the application of [Basic Debuff Effect] fails, the DMG result increases by 20%.",
+   "desc_th": "จำนวนการลบล้าง Ascending Flame เพิ่มขึ้นเป็น 2 และเมื่อการใช้ [เอฟเฟ็กต์ดีบัฟพื้นฐาน] ล้มเหลว ผลลัพธ์ DMG จะเพิ่มขึ้น 20%"
+  },
+  "22524": {
+   "id": 22524,
+   "icon": "0012",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Ability Enhancement",
+   "name_th": "เสริมประสิทธิภาพความสามารถ",
+   "desc": "Rengokutsu and Tailspin's HP, ATK, and SPD increase by 15%.",
+   "desc_th": "HP, ATK และ SPD ของ Rengokutsu และ Tailspin เพิ่มขึ้น 15%"
+  },
+  "22525": {
+   "id": 22525,
+   "icon": "0012",
+   "boss_skill_index": [
+    1051
+   ],
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Ultimate Steal",
+   "name_th": "ขโมยขั้นสูงสุด",
+   "desc": "The stealing effect of Agonizing Hit is enhanced to steal all buffs.",
+   "desc_th": "เอฟเฟ็กต์การขโมยของ Agonizing Hit ได้รับการปรับปรุงเพื่อขโมยบัฟทั้งหมด"
+  },
+  "22526": {
+   "id": 22526,
+   "icon": "0012",
+   "boss_skill_index": null,
+   "minion_skill_index": [
+    [
+     60053,
+     1052
+    ]
+   ],
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Petrified Skin",
+   "name_th": "ผิวหนังกลายเป็นหิน",
+   "desc": "Durand's resistance to group DMG has been raised to 70%.",
+   "desc_th": "ความต้านทานต่อกลุ่ม DMG ของ Durand เพิ่มขึ้นเป็น 70%"
+  },
+  "22527": {
+   "id": 22527,
+   "icon": "0012",
+   "boss_skill_index": [
+    1053
+   ],
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Unyielding Will",
+   "name_th": "เจตจำนงสู้ไม่ถอย",
+   "desc": "The CRIT Rate boost for our side decreases to 20% after Durand's each death.",
+   "desc_th": "CRIT Rate ที่เพิ่มขึ้นของฝ่ายเราลดลงเหลือ 20% หลังจากที่ Durand ตายในแต่ละครั้ง"
+  },
+  "22528": {
+   "id": 22528,
+   "icon": "0012",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Ability Enhancement",
+   "name_th": "เสริมประสิทธิภาพความสามารถ",
+   "desc": "Shadowflame·Hoyan and Durand's HP, ATK, and SPD increase by 15%.",
+   "desc_th": "HP, ATK และ SPD ของ Shadowflame·Hoyan และ Durand เพิ่มขึ้น 15%"
+  },
+  "22529": {
+   "id": 22529,
+   "icon": "0012",
+   "boss_skill_index": [
+    1061
+   ],
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Frenzied Feeding",
+   "name_th": "Frenzied Feeding",
+   "desc": "If the target is already inflicted with [Parasitize Seed], Dahlia's Graceful Predation will immediately trigger [Parasitize Seed] 1 time(s)",
+   "desc_th": "หากเป้าหมายได้รับผลจาก [Parasitize Seed] อยู่แล้ว Graceful Predation ของ Dahlia จะเปิดใช้งาน [Parasitize Seed] 1 ครั้งในทันที"
+  },
+  "22530": {
+   "id": 22530,
+   "icon": "0012",
+   "boss_skill_index": [
+    1062
+   ],
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Solar Infuse",
+   "name_th": "Solar Infuse",
+   "desc": "Reduces the CD of Dahlia's Thorn Seed to 3 turn(s)",
+   "desc_th": "ลด CD ของ Thorn Seed ของ Dahlia ลง 3 เทิร์น"
+  },
+  "22531": {
+   "id": 22531,
+   "icon": "0012",
+   "boss_skill_index": null,
+   "minion_skill_index": [
+    [
+     60054,
+     1063
+    ]
+   ],
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Thornbind",
+   "name_th": "Thornbind",
+   "desc": "Increases the chance for Gluttony Thorn to inflict [Block] to 100%",
+   "desc_th": "เพิ่มโอกาสที่ Gluttony Thorn จะมอบ [Block] เป็น 100%"
+  },
+  "22532": {
+   "id": 22532,
+   "icon": "0012",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Ability Enhancement",
+   "name_th": "เสริมประสิทธิภาพความสามารถ",
+   "desc": "Increases Dahlia and the Gluttony Thorn's HP, ATK, and SPD by 15%",
+   "desc_th": "เพิ่ม HP, ATK และ SPD ของ Dahlia และ Gluttony Thorn ขึ้น 15%"
+  },
+  "22533": {
+   "id": 22533,
+   "icon": "0012",
+   "boss_skill_index": [
+    1071,
+    1072,
+    1073,
+    1074
+   ],
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Revelry Aura",
+   "name_th": "ออร่าแห่งความสนุกสนาน",
+   "desc": "Increases damage dealt by Phoebe and Febian by 20%. And after each action, [Day Aura] and [Night Aura] will upgrade 2 time(s)",
+   "desc_th": "เพิ่ม DMG ที่ทำได้ของ Phoebe และ Febian ขึ้น 20% หลังแต่ละแอ็กชัน [Day Aura] และ [Night Aura] จะอัปเกรด 2 ครั้ง"
+  },
+  "22534": {
+   "id": 22534,
+   "icon": "0012",
+   "boss_skill_index": [
+    1075
+   ],
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Glacial Restriction",
+   "name_th": "Glacial Restriction",
+   "desc": "When using Castling, has a 45% chance to inflict a 1-turn [Freeze]",
+   "desc_th": "เมื่อใช้ Castling มีโอกาส 45% ที่จะมอบ [Freeze] เป็นเวลา 1 เทิร์น"
+  },
+  "22535": {
+   "id": 22535,
+   "icon": "0012",
+   "boss_skill_index": [
+    1076
+   ],
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Luminal Embrace",
+   "name_th": "Luminal Embrace",
+   "desc": "Whenever Phoebe and Febian switch forms, they apply [DEF ↑] and [SPD ↑] to themselves for 2 turn(s)",
+   "desc_th": "ทุกครั้งที่ Phoebe และ Febian เปลี่ยนร่าง ทั้งคู่จะมอบ [DEF ↑] และ [SPD ↑] ให้กับตนเองเป็นเวลา 2 เทิร์น"
+  },
+  "22536": {
+   "id": 22536,
+   "icon": "0012",
+   "boss_skill_index": [
+    1077
+   ],
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Heart of Fortitude",
+   "name_th": "Heart of Fortitude",
+   "desc": "Phoebe and Febian are immune to [Taunt] and [Turn Meter-] effects",
+   "desc_th": "Phoebe และ Febian มีภูมิคุ้มกันต่อ [Taunt] และเอฟเฟ็กต์ [Turn Meter-]"
+  },
+  "22537": {
+   "id": 22537,
+   "icon": "0003",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "WBP_UI_Battle_Screen_Status_Broken",
+   "screen_status_params": 789,
+   "name": "Frostbite",
+   "name_th": "Frostbite",
+   "desc": "At the start of battle, inflicts [Rime Mark] on a random allied Animus of yours. After 10 turn(s), a blizzard will sweep the field",
+   "desc_th": "เมื่อเริ่มต้นการต่อสู้ จะสุ่มมอบ [Rime Mark] ให้กับ Animus พันธมิตรของคุณ หลังจาก 10 เทิร์น พายุหิมะจะถล่มสนาม"
+  },
+  "22538": {
+   "id": 22538,
+   "icon": "0012",
+   "boss_skill_index": null,
+   "minion_skill_index": [
+    [
+     60056,
+     1081,
+     1082
+    ]
+   ],
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Hardened Skin",
+   "name_th": "Hardened Skin",
+   "desc": "After Tailspin is controlled, it no longer gains [Resistance], but its base Resistance increases by 100%.",
+   "desc_th": "หลังจากควบคุม Tailspin แล้ว จะไม่ได้รับ [Resistance] อีกต่อไป แต่ Resistance พื้นฐานจะเพิ่มขึ้น 100%"
+  },
+  "22539": {
+   "id": 22539,
+   "icon": "0012",
+   "boss_skill_index": [
+    1083
+   ],
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Riposte Vortex",
+   "name_th": "Riposte Vortex",
+   "desc": "Rengokutsu has a 50% Counterattack Chance, and all enemies deal increased DMG by 50% to [Silenced] units.",
+   "desc_th": "Rengokutsu มีอัตราการโจมตีสวนกลับ 50% และศัตรูทั้งหมดสร้าง DMG เพิ่มขึ้น 50% ให้กับยูนิต [Silenced]"
+  },
+  "22540": {
+   "id": 22540,
+   "icon": "0012",
+   "boss_skill_index": [
+    1084
+   ],
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Corrosive Ignition",
+   "name_th": "Corrosive Ignition",
+   "desc": "The dispel count of Ascending Flame increases to 2, and when the application of [Basic Debuff Effect] fails, the DMG result increases by 50%.",
+   "desc_th": "จำนวนการลบล้าง Ascending Flame เพิ่มขึ้นเป็น 2 และเมื่อการใช้ [เอฟเฟ็กต์ดีบัฟพื้นฐาน] ล้มเหลว ผลลัพธ์ DMG จะเพิ่มขึ้น 50%"
+  },
+  "22541": {
+   "id": 22541,
+   "icon": "0012",
+   "boss_skill_index": [
+    1085
+   ],
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Heart of Fortitude",
+   "name_th": "Heart of Fortitude",
+   "desc": "Rengokutsu is immune to [Taunt] and Turn Meter- effects",
+   "desc_th": "Rengokutsu มีภูมิคุ้มกันต่อเอฟเฟ็กต์ [Taunt] และเกจเทิร์น-"
+  },
+  "22542": {
+   "id": 22542,
+   "icon": "0012",
+   "boss_skill_index": [
+    1091
+   ],
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Agony",
+   "name_th": "Agony",
+   "desc": "Targets inflicted with [Soul Binder] receive 50% less healing",
+   "desc_th": "เป้าหมายที่ได้รับผลจาก [Soul Binder] จะได้รับการฮีลลดลง 50%"
+  },
+  "22543": {
+   "id": 22543,
+   "icon": "0012",
+   "boss_skill_index": [
+    1092
+   ],
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Shattershadow",
+   "name_th": "Shattershadow",
+   "desc": "Khloros's Shadow Rift upgraded",
+   "desc_th": "อัปเกรด Shadow Rift ของ Khloros แล้ว"
+  },
+  "22544": {
+   "id": 22544,
+   "icon": "0012",
+   "boss_skill_index": [
+    1093
+   ],
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Scythe Aegis",
+   "name_th": "Scythe Aegis",
+   "desc": "Khloros's Scythe upgraded",
+   "desc_th": "อัปเกรด Scythe ของ Khloros แล้ว"
+  },
+  "22545": {
+   "id": 22545,
+   "icon": "0012",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Ability Enhancement",
+   "name_th": "เสริมประสิทธิภาพความสามารถ",
+   "desc": "Increases Khloros and Dreadcrow's HP, ATK, and SPD by 15%",
+   "desc_th": "เพิ่ม HP, ATK และ SPD ของ Khloros และ Dreadcrow ขึ้น 15%"
+  },
+  "22546": {
+   "id": 22546,
+   "icon": "0012",
+   "boss_skill_index": [
+    1101
+   ],
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Veil Ambush",
+   "name_th": "Veil Ambush",
+   "desc": "For each 1 stack(s) of [Giant Shroud] Helkid possesses, all enemies gain 4% SPD",
+   "desc_th": "สำหรับ [Giant Shroud] ทุก 1 ชั้นที่ Helkid มี ศัตรูทั้งหมดจะได้รับ 4% SPD"
+  },
+  "22547": {
+   "id": 22547,
+   "icon": "0012",
+   "boss_skill_index": null,
+   "minion_skill_index": [
+    [
+     60068,
+     1102
+    ]
+   ],
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Veil Layers",
+   "name_th": "Veil Layers",
+   "desc": "Blood Wraith's post-attack [Giant Shroud] stacks increased to 2",
+   "desc_th": "จำนวนชั้น [Giant Shroud] หลังการโจมตีของ Blood Wraith จะเพิ่มเป็น 2"
+  },
+  "22548": {
+   "id": 22548,
+   "icon": "0012",
+   "boss_skill_index": [
+    1103
+   ],
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Spike-Thorn",
+   "name_th": "Spike-Thorn",
+   "desc": "Helkid's Bramble effect is upgraded",
+   "desc_th": "เอฟเฟ็กต์ Bramble ของ Helkid อัปเกรดแล้ว"
+  },
+  "22549": {
+   "id": 22549,
+   "icon": "0012",
+   "boss_skill_index": null,
+   "minion_skill_index": null,
+   "screen_status_widget": "",
+   "screen_status_params": 0,
+   "name": "Ability Enhancement",
+   "name_th": "เสริมประสิทธิภาพความสามารถ",
+   "desc": "Helkid and Blood Wraith's HP, ATK, and SPD increase by 15%",
+   "desc_th": "HP, ATK และ SPD ของ Helkid และ Blood Wraith เพิ่มขึ้น 15%"
+  }
+ },
+ "text_chunk": "00166_a6435a0a23c90ac1.json"
+}

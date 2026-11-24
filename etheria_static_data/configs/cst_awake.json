@@ -1,0 +1,6296 @@
+{
+ "config": "cst_awake",
+ "fields": [
+  "cst_id",
+  "node_id",
+  "next_node_id_list",
+  "item_cost_list",
+  "prop",
+  "icon",
+  "name",
+  "description"
+ ],
+ "rows": {
+  "40331": [
+   {
+    "cst_id": 40331,
+    "node_id": 1,
+    "next_node_id_list": [
+     3
+    ],
+    "item_cost_list": [
+     {
+      "id": 10001,
+      "count": 50000
+     },
+     {
+      "id": 8001,
+      "count": 30
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "RC-77",
+    "name_th": "RC-77"
+   },
+   {
+    "cst_id": 40331,
+    "node_id": 2,
+    "next_node_id_list": [
+     4
+    ],
+    "item_cost_list": [
+     {
+      "id": 10114,
+      "count": 50
+     },
+     {
+      "id": 8001,
+      "count": 30
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "RC-77",
+    "name_th": "RC-77"
+   },
+   {
+    "cst_id": 40331,
+    "node_id": 3,
+    "next_node_id_list": [
+     5
+    ],
+    "item_cost_list": [
+     {
+      "id": 10105,
+      "count": 500
+     },
+     {
+      "id": 8001,
+      "count": 30
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "RC-77",
+    "name_th": "RC-77"
+   },
+   {
+    "cst_id": 40331,
+    "node_id": 4,
+    "next_node_id_list": [
+     5
+    ],
+    "item_cost_list": [
+     {
+      "id": 10132,
+      "count": 15
+     },
+     {
+      "id": 8001,
+      "count": 30
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "RC-77",
+    "name_th": "RC-77"
+   },
+   {
+    "cst_id": 40331,
+    "node_id": 5,
+    "next_node_id_list": [
+     6,
+     7
+    ],
+    "item_cost_list": [
+     {
+      "id": 10116,
+      "count": 2
+     },
+     {
+      "id": 8001,
+      "count": 30
+     }
+    ],
+    "prop": [
+     {
+      "type": 71,
+      "value": 0.03
+     }
+    ],
+    "icon": "002",
+    "name": "RC-77",
+    "name_th": "RC-77"
+   },
+   {
+    "cst_id": 40331,
+    "node_id": 6,
+    "next_node_id_list": [
+     8
+    ],
+    "item_cost_list": [
+     {
+      "id": 10001,
+      "count": 100000
+     },
+     {
+      "id": 8001,
+      "count": 60
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "RC-77",
+    "name_th": "RC-77"
+   },
+   {
+    "cst_id": 40331,
+    "node_id": 7,
+    "next_node_id_list": [
+     9
+    ],
+    "item_cost_list": [
+     {
+      "id": 10114,
+      "count": 50
+     },
+     {
+      "id": 8001,
+      "count": 60
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "RC-77",
+    "name_th": "RC-77"
+   },
+   {
+    "cst_id": 40331,
+    "node_id": 8,
+    "next_node_id_list": [
+     10
+    ],
+    "item_cost_list": [
+     {
+      "id": 10105,
+      "count": 1000
+     },
+     {
+      "id": 8001,
+      "count": 60
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "RC-77",
+    "name_th": "RC-77"
+   },
+   {
+    "cst_id": 40331,
+    "node_id": 9,
+    "next_node_id_list": [
+     10
+    ],
+    "item_cost_list": [
+     {
+      "id": 10132,
+      "count": 30
+     },
+     {
+      "id": 8001,
+      "count": 60
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "RC-77",
+    "name_th": "RC-77"
+   },
+   {
+    "cst_id": 40331,
+    "node_id": 10,
+    "next_node_id_list": [
+     11,
+     12
+    ],
+    "item_cost_list": [
+     {
+      "id": 10116,
+      "count": 2
+     },
+     {
+      "id": 8001,
+      "count": 60
+     }
+    ],
+    "prop": [
+     {
+      "type": 73,
+      "value": 0.03
+     }
+    ],
+    "icon": "006",
+    "name": "RC-77",
+    "name_th": "RC-77"
+   },
+   {
+    "cst_id": 40331,
+    "node_id": 11,
+    "next_node_id_list": [
+     13
+    ],
+    "item_cost_list": [
+     {
+      "id": 10001,
+      "count": 200000
+     },
+     {
+      "id": 8001,
+      "count": 90
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "RC-77",
+    "name_th": "RC-77"
+   },
+   {
+    "cst_id": 40331,
+    "node_id": 12,
+    "next_node_id_list": [
+     14
+    ],
+    "item_cost_list": [
+     {
+      "id": 10114,
+      "count": 50
+     },
+     {
+      "id": 8001,
+      "count": 90
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "RC-77",
+    "name_th": "RC-77"
+   },
+   {
+    "cst_id": 40331,
+    "node_id": 13,
+    "next_node_id_list": [
+     15
+    ],
+    "item_cost_list": [
+     {
+      "id": 10119,
+      "count": 200
+     },
+     {
+      "id": 8001,
+      "count": 90
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "RC-77",
+    "name_th": "RC-77"
+   },
+   {
+    "cst_id": 40331,
+    "node_id": 14,
+    "next_node_id_list": [
+     15
+    ],
+    "item_cost_list": [
+     {
+      "id": 10133,
+      "count": 8
+     },
+     {
+      "id": 8001,
+      "count": 90
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "RC-77",
+    "name_th": "RC-77"
+   },
+   {
+    "cst_id": 40331,
+    "node_id": 15,
+    "next_node_id_list": [
+     16,
+     17
+    ],
+    "item_cost_list": [
+     {
+      "id": 10116,
+      "count": 2
+     },
+     {
+      "id": 8001,
+      "count": 90
+     }
+    ],
+    "prop": [
+     {
+      "type": 14,
+      "value": 3.0
+     }
+    ],
+    "icon": "007",
+    "name": "RC-77",
+    "name_th": "RC-77"
+   },
+   {
+    "cst_id": 40331,
+    "node_id": 16,
+    "next_node_id_list": [
+     18
+    ],
+    "item_cost_list": [
+     {
+      "id": 10001,
+      "count": 300000
+     },
+     {
+      "id": 8001,
+      "count": 120
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "RC-77",
+    "name_th": "RC-77"
+   },
+   {
+    "cst_id": 40331,
+    "node_id": 17,
+    "next_node_id_list": [
+     19
+    ],
+    "item_cost_list": [
+     {
+      "id": 10114,
+      "count": 50
+     },
+     {
+      "id": 8001,
+      "count": 120
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "RC-77",
+    "name_th": "RC-77"
+   },
+   {
+    "cst_id": 40331,
+    "node_id": 18,
+    "next_node_id_list": [
+     20
+    ],
+    "item_cost_list": [
+     {
+      "id": 10119,
+      "count": 400
+     },
+     {
+      "id": 8001,
+      "count": 120
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "RC-77",
+    "name_th": "RC-77"
+   },
+   {
+    "cst_id": 40331,
+    "node_id": 19,
+    "next_node_id_list": [
+     20
+    ],
+    "item_cost_list": [
+     {
+      "id": 10133,
+      "count": 12
+     },
+     {
+      "id": 8001,
+      "count": 120
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "RC-77",
+    "name_th": "RC-77"
+   },
+   {
+    "cst_id": 40331,
+    "node_id": 20,
+    "next_node_id_list": [
+     21,
+     22
+    ],
+    "item_cost_list": [
+     {
+      "id": 10116,
+      "count": 2
+     },
+     {
+      "id": 8001,
+      "count": 120
+     }
+    ],
+    "prop": [
+     {
+      "type": 71,
+      "value": 0.03
+     }
+    ],
+    "icon": "002",
+    "name": "RC-77",
+    "name_th": "RC-77"
+   },
+   {
+    "cst_id": 40331,
+    "node_id": 21,
+    "next_node_id_list": [
+     23
+    ],
+    "item_cost_list": [
+     {
+      "id": 10001,
+      "count": 400000
+     },
+     {
+      "id": 8001,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "RC-77",
+    "name_th": "RC-77"
+   },
+   {
+    "cst_id": 40331,
+    "node_id": 22,
+    "next_node_id_list": [
+     24
+    ],
+    "item_cost_list": [
+     {
+      "id": 10114,
+      "count": 50
+     },
+     {
+      "id": 8001,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "RC-77",
+    "name_th": "RC-77"
+   },
+   {
+    "cst_id": 40331,
+    "node_id": 23,
+    "next_node_id_list": [
+     25
+    ],
+    "item_cost_list": [
+     {
+      "id": 10124,
+      "count": 80
+     },
+     {
+      "id": 8001,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "RC-77",
+    "name_th": "RC-77"
+   },
+   {
+    "cst_id": 40331,
+    "node_id": 24,
+    "next_node_id_list": [
+     25
+    ],
+    "item_cost_list": [
+     {
+      "id": 10134,
+      "count": 3
+     },
+     {
+      "id": 8001,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "RC-77",
+    "name_th": "RC-77"
+   },
+   {
+    "cst_id": 40331,
+    "node_id": 25,
+    "next_node_id_list": [
+     26,
+     27
+    ],
+    "item_cost_list": [
+     {
+      "id": 10116,
+      "count": 2
+     },
+     {
+      "id": 8001,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 73,
+      "value": 0.03
+     }
+    ],
+    "icon": "006",
+    "name": "RC-77",
+    "name_th": "RC-77"
+   },
+   {
+    "cst_id": 40331,
+    "node_id": 26,
+    "next_node_id_list": [
+     28
+    ],
+    "item_cost_list": [
+     {
+      "id": 10001,
+      "count": 500000
+     },
+     {
+      "id": 8001,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "RC-77",
+    "name_th": "RC-77"
+   },
+   {
+    "cst_id": 40331,
+    "node_id": 27,
+    "next_node_id_list": [
+     29
+    ],
+    "item_cost_list": [
+     {
+      "id": 10114,
+      "count": 100
+     },
+     {
+      "id": 8001,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "RC-77",
+    "name_th": "RC-77"
+   },
+   {
+    "cst_id": 40331,
+    "node_id": 28,
+    "next_node_id_list": [
+     30
+    ],
+    "item_cost_list": [
+     {
+      "id": 10124,
+      "count": 120
+     },
+     {
+      "id": 8001,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "RC-77",
+    "name_th": "RC-77"
+   },
+   {
+    "cst_id": 40331,
+    "node_id": 29,
+    "next_node_id_list": [
+     30
+    ],
+    "item_cost_list": [
+     {
+      "id": 10134,
+      "count": 5
+     },
+     {
+      "id": 8001,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "RC-77",
+    "name_th": "RC-77"
+   },
+   {
+    "cst_id": 40331,
+    "node_id": 30,
+    "next_node_id_list": null,
+    "item_cost_list": [
+     {
+      "id": 10116,
+      "count": 2
+     },
+     {
+      "id": 8001,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 72,
+      "value": 0.03
+     }
+    ],
+    "icon": "004",
+    "name": "RC-77",
+    "name_th": "RC-77"
+   }
+  ],
+  "40491": [
+   {
+    "cst_id": 40491,
+    "node_id": 1,
+    "next_node_id_list": [
+     3
+    ],
+    "item_cost_list": [
+     {
+      "id": 10001,
+      "count": 50000
+     },
+     {
+      "id": 8002,
+      "count": 30
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "Sania",
+    "name_th": "Sania"
+   },
+   {
+    "cst_id": 40491,
+    "node_id": 2,
+    "next_node_id_list": [
+     4
+    ],
+    "item_cost_list": [
+     {
+      "id": 10114,
+      "count": 50
+     },
+     {
+      "id": 8002,
+      "count": 30
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "Sania",
+    "name_th": "Sania"
+   },
+   {
+    "cst_id": 40491,
+    "node_id": 3,
+    "next_node_id_list": [
+     5
+    ],
+    "item_cost_list": [
+     {
+      "id": 10106,
+      "count": 500
+     },
+     {
+      "id": 8002,
+      "count": 30
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "Sania",
+    "name_th": "Sania"
+   },
+   {
+    "cst_id": 40491,
+    "node_id": 4,
+    "next_node_id_list": [
+     5
+    ],
+    "item_cost_list": [
+     {
+      "id": 10132,
+      "count": 15
+     },
+     {
+      "id": 8002,
+      "count": 30
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "Sania",
+    "name_th": "Sania"
+   },
+   {
+    "cst_id": 40491,
+    "node_id": 5,
+    "next_node_id_list": [
+     6,
+     7
+    ],
+    "item_cost_list": [
+     {
+      "id": 10116,
+      "count": 2
+     },
+     {
+      "id": 8002,
+      "count": 30
+     }
+    ],
+    "prop": [
+     {
+      "type": 71,
+      "value": 0.03
+     }
+    ],
+    "icon": "002",
+    "name": "Sania",
+    "name_th": "Sania"
+   },
+   {
+    "cst_id": 40491,
+    "node_id": 6,
+    "next_node_id_list": [
+     8
+    ],
+    "item_cost_list": [
+     {
+      "id": 10001,
+      "count": 100000
+     },
+     {
+      "id": 8002,
+      "count": 60
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "Sania",
+    "name_th": "Sania"
+   },
+   {
+    "cst_id": 40491,
+    "node_id": 7,
+    "next_node_id_list": [
+     9
+    ],
+    "item_cost_list": [
+     {
+      "id": 10114,
+      "count": 50
+     },
+     {
+      "id": 8002,
+      "count": 60
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "Sania",
+    "name_th": "Sania"
+   },
+   {
+    "cst_id": 40491,
+    "node_id": 8,
+    "next_node_id_list": [
+     10
+    ],
+    "item_cost_list": [
+     {
+      "id": 10106,
+      "count": 1000
+     },
+     {
+      "id": 8002,
+      "count": 60
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "Sania",
+    "name_th": "Sania"
+   },
+   {
+    "cst_id": 40491,
+    "node_id": 9,
+    "next_node_id_list": [
+     10
+    ],
+    "item_cost_list": [
+     {
+      "id": 10132,
+      "count": 30
+     },
+     {
+      "id": 8002,
+      "count": 60
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "Sania",
+    "name_th": "Sania"
+   },
+   {
+    "cst_id": 40491,
+    "node_id": 10,
+    "next_node_id_list": [
+     11,
+     12
+    ],
+    "item_cost_list": [
+     {
+      "id": 10116,
+      "count": 2
+     },
+     {
+      "id": 8002,
+      "count": 60
+     }
+    ],
+    "prop": [
+     {
+      "type": 73,
+      "value": 0.03
+     }
+    ],
+    "icon": "006",
+    "name": "Sania",
+    "name_th": "Sania"
+   },
+   {
+    "cst_id": 40491,
+    "node_id": 11,
+    "next_node_id_list": [
+     13
+    ],
+    "item_cost_list": [
+     {
+      "id": 10001,
+      "count": 200000
+     },
+     {
+      "id": 8002,
+      "count": 90
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "Sania",
+    "name_th": "Sania"
+   },
+   {
+    "cst_id": 40491,
+    "node_id": 12,
+    "next_node_id_list": [
+     14
+    ],
+    "item_cost_list": [
+     {
+      "id": 10114,
+      "count": 50
+     },
+     {
+      "id": 8002,
+      "count": 90
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "Sania",
+    "name_th": "Sania"
+   },
+   {
+    "cst_id": 40491,
+    "node_id": 13,
+    "next_node_id_list": [
+     15
+    ],
+    "item_cost_list": [
+     {
+      "id": 10120,
+      "count": 200
+     },
+     {
+      "id": 8002,
+      "count": 90
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "Sania",
+    "name_th": "Sania"
+   },
+   {
+    "cst_id": 40491,
+    "node_id": 14,
+    "next_node_id_list": [
+     15
+    ],
+    "item_cost_list": [
+     {
+      "id": 10133,
+      "count": 8
+     },
+     {
+      "id": 8002,
+      "count": 90
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "Sania",
+    "name_th": "Sania"
+   },
+   {
+    "cst_id": 40491,
+    "node_id": 15,
+    "next_node_id_list": [
+     16,
+     17
+    ],
+    "item_cost_list": [
+     {
+      "id": 10116,
+      "count": 2
+     },
+     {
+      "id": 8002,
+      "count": 90
+     }
+    ],
+    "prop": [
+     {
+      "type": 14,
+      "value": 3.0
+     }
+    ],
+    "icon": "007",
+    "name": "Sania",
+    "name_th": "Sania"
+   },
+   {
+    "cst_id": 40491,
+    "node_id": 16,
+    "next_node_id_list": [
+     18
+    ],
+    "item_cost_list": [
+     {
+      "id": 10001,
+      "count": 300000
+     },
+     {
+      "id": 8002,
+      "count": 120
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "Sania",
+    "name_th": "Sania"
+   },
+   {
+    "cst_id": 40491,
+    "node_id": 17,
+    "next_node_id_list": [
+     19
+    ],
+    "item_cost_list": [
+     {
+      "id": 10114,
+      "count": 50
+     },
+     {
+      "id": 8002,
+      "count": 120
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "Sania",
+    "name_th": "Sania"
+   },
+   {
+    "cst_id": 40491,
+    "node_id": 18,
+    "next_node_id_list": [
+     20
+    ],
+    "item_cost_list": [
+     {
+      "id": 10120,
+      "count": 400
+     },
+     {
+      "id": 8002,
+      "count": 120
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "Sania",
+    "name_th": "Sania"
+   },
+   {
+    "cst_id": 40491,
+    "node_id": 19,
+    "next_node_id_list": [
+     20
+    ],
+    "item_cost_list": [
+     {
+      "id": 10133,
+      "count": 12
+     },
+     {
+      "id": 8002,
+      "count": 120
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "Sania",
+    "name_th": "Sania"
+   },
+   {
+    "cst_id": 40491,
+    "node_id": 20,
+    "next_node_id_list": [
+     21,
+     22
+    ],
+    "item_cost_list": [
+     {
+      "id": 10116,
+      "count": 2
+     },
+     {
+      "id": 8002,
+      "count": 120
+     }
+    ],
+    "prop": [
+     {
+      "type": 71,
+      "value": 0.03
+     }
+    ],
+    "icon": "002",
+    "name": "Sania",
+    "name_th": "Sania"
+   },
+   {
+    "cst_id": 40491,
+    "node_id": 21,
+    "next_node_id_list": [
+     23
+    ],
+    "item_cost_list": [
+     {
+      "id": 10001,
+      "count": 400000
+     },
+     {
+      "id": 8002,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "Sania",
+    "name_th": "Sania"
+   },
+   {
+    "cst_id": 40491,
+    "node_id": 22,
+    "next_node_id_list": [
+     24
+    ],
+    "item_cost_list": [
+     {
+      "id": 10114,
+      "count": 50
+     },
+     {
+      "id": 8002,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "Sania",
+    "name_th": "Sania"
+   },
+   {
+    "cst_id": 40491,
+    "node_id": 23,
+    "next_node_id_list": [
+     25
+    ],
+    "item_cost_list": [
+     {
+      "id": 10125,
+      "count": 80
+     },
+     {
+      "id": 8002,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "Sania",
+    "name_th": "Sania"
+   },
+   {
+    "cst_id": 40491,
+    "node_id": 24,
+    "next_node_id_list": [
+     25
+    ],
+    "item_cost_list": [
+     {
+      "id": 10134,
+      "count": 3
+     },
+     {
+      "id": 8002,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "Sania",
+    "name_th": "Sania"
+   },
+   {
+    "cst_id": 40491,
+    "node_id": 25,
+    "next_node_id_list": [
+     26,
+     27
+    ],
+    "item_cost_list": [
+     {
+      "id": 10116,
+      "count": 2
+     },
+     {
+      "id": 8002,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 73,
+      "value": 0.03
+     }
+    ],
+    "icon": "006",
+    "name": "Sania",
+    "name_th": "Sania"
+   },
+   {
+    "cst_id": 40491,
+    "node_id": 26,
+    "next_node_id_list": [
+     28
+    ],
+    "item_cost_list": [
+     {
+      "id": 10001,
+      "count": 500000
+     },
+     {
+      "id": 8002,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "Sania",
+    "name_th": "Sania"
+   },
+   {
+    "cst_id": 40491,
+    "node_id": 27,
+    "next_node_id_list": [
+     29
+    ],
+    "item_cost_list": [
+     {
+      "id": 10114,
+      "count": 100
+     },
+     {
+      "id": 8002,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "Sania",
+    "name_th": "Sania"
+   },
+   {
+    "cst_id": 40491,
+    "node_id": 28,
+    "next_node_id_list": [
+     30
+    ],
+    "item_cost_list": [
+     {
+      "id": 10125,
+      "count": 120
+     },
+     {
+      "id": 8002,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "Sania",
+    "name_th": "Sania"
+   },
+   {
+    "cst_id": 40491,
+    "node_id": 29,
+    "next_node_id_list": [
+     30
+    ],
+    "item_cost_list": [
+     {
+      "id": 10134,
+      "count": 5
+     },
+     {
+      "id": 8002,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "Sania",
+    "name_th": "Sania"
+   },
+   {
+    "cst_id": 40491,
+    "node_id": 30,
+    "next_node_id_list": null,
+    "item_cost_list": [
+     {
+      "id": 10116,
+      "count": 2
+     },
+     {
+      "id": 8002,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 72,
+      "value": 0.03
+     }
+    ],
+    "icon": "004",
+    "name": "Sania",
+    "name_th": "Sania"
+   }
+  ],
+  "46161": [
+   {
+    "cst_id": 46161,
+    "node_id": 1,
+    "next_node_id_list": [
+     3
+    ],
+    "item_cost_list": [
+     {
+      "id": 10001,
+      "count": 50000
+     },
+     {
+      "id": 8003,
+      "count": 30
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "Turandot",
+    "name_th": "Turandot"
+   },
+   {
+    "cst_id": 46161,
+    "node_id": 2,
+    "next_node_id_list": [
+     4
+    ],
+    "item_cost_list": [
+     {
+      "id": 10114,
+      "count": 50
+     },
+     {
+      "id": 8003,
+      "count": 30
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "Turandot",
+    "name_th": "Turandot"
+   },
+   {
+    "cst_id": 46161,
+    "node_id": 3,
+    "next_node_id_list": [
+     5
+    ],
+    "item_cost_list": [
+     {
+      "id": 10104,
+      "count": 500
+     },
+     {
+      "id": 8003,
+      "count": 30
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "Turandot",
+    "name_th": "Turandot"
+   },
+   {
+    "cst_id": 46161,
+    "node_id": 4,
+    "next_node_id_list": [
+     5
+    ],
+    "item_cost_list": [
+     {
+      "id": 10132,
+      "count": 15
+     },
+     {
+      "id": 8003,
+      "count": 30
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "Turandot",
+    "name_th": "Turandot"
+   },
+   {
+    "cst_id": 46161,
+    "node_id": 5,
+    "next_node_id_list": [
+     6,
+     7
+    ],
+    "item_cost_list": [
+     {
+      "id": 10116,
+      "count": 2
+     },
+     {
+      "id": 8003,
+      "count": 30
+     }
+    ],
+    "prop": [
+     {
+      "type": 71,
+      "value": 0.03
+     }
+    ],
+    "icon": "002",
+    "name": "Turandot",
+    "name_th": "Turandot"
+   },
+   {
+    "cst_id": 46161,
+    "node_id": 6,
+    "next_node_id_list": [
+     8
+    ],
+    "item_cost_list": [
+     {
+      "id": 10001,
+      "count": 100000
+     },
+     {
+      "id": 8003,
+      "count": 60
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "Turandot",
+    "name_th": "Turandot"
+   },
+   {
+    "cst_id": 46161,
+    "node_id": 7,
+    "next_node_id_list": [
+     9
+    ],
+    "item_cost_list": [
+     {
+      "id": 10114,
+      "count": 50
+     },
+     {
+      "id": 8003,
+      "count": 60
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "Turandot",
+    "name_th": "Turandot"
+   },
+   {
+    "cst_id": 46161,
+    "node_id": 8,
+    "next_node_id_list": [
+     10
+    ],
+    "item_cost_list": [
+     {
+      "id": 10104,
+      "count": 1000
+     },
+     {
+      "id": 8003,
+      "count": 60
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "Turandot",
+    "name_th": "Turandot"
+   },
+   {
+    "cst_id": 46161,
+    "node_id": 9,
+    "next_node_id_list": [
+     10
+    ],
+    "item_cost_list": [
+     {
+      "id": 10132,
+      "count": 30
+     },
+     {
+      "id": 8003,
+      "count": 60
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "Turandot",
+    "name_th": "Turandot"
+   },
+   {
+    "cst_id": 46161,
+    "node_id": 10,
+    "next_node_id_list": [
+     11,
+     12
+    ],
+    "item_cost_list": [
+     {
+      "id": 10116,
+      "count": 2
+     },
+     {
+      "id": 8003,
+      "count": 60
+     }
+    ],
+    "prop": [
+     {
+      "type": 73,
+      "value": 0.03
+     }
+    ],
+    "icon": "006",
+    "name": "Turandot",
+    "name_th": "Turandot"
+   },
+   {
+    "cst_id": 46161,
+    "node_id": 11,
+    "next_node_id_list": [
+     13
+    ],
+    "item_cost_list": [
+     {
+      "id": 10001,
+      "count": 200000
+     },
+     {
+      "id": 8003,
+      "count": 90
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "Turandot",
+    "name_th": "Turandot"
+   },
+   {
+    "cst_id": 46161,
+    "node_id": 12,
+    "next_node_id_list": [
+     14
+    ],
+    "item_cost_list": [
+     {
+      "id": 10114,
+      "count": 50
+     },
+     {
+      "id": 8003,
+      "count": 90
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "Turandot",
+    "name_th": "Turandot"
+   },
+   {
+    "cst_id": 46161,
+    "node_id": 13,
+    "next_node_id_list": [
+     15
+    ],
+    "item_cost_list": [
+     {
+      "id": 10118,
+      "count": 200
+     },
+     {
+      "id": 8003,
+      "count": 90
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "Turandot",
+    "name_th": "Turandot"
+   },
+   {
+    "cst_id": 46161,
+    "node_id": 14,
+    "next_node_id_list": [
+     15
+    ],
+    "item_cost_list": [
+     {
+      "id": 10133,
+      "count": 8
+     },
+     {
+      "id": 8003,
+      "count": 90
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "Turandot",
+    "name_th": "Turandot"
+   },
+   {
+    "cst_id": 46161,
+    "node_id": 15,
+    "next_node_id_list": [
+     16,
+     17
+    ],
+    "item_cost_list": [
+     {
+      "id": 10116,
+      "count": 2
+     },
+     {
+      "id": 8003,
+      "count": 90
+     }
+    ],
+    "prop": [
+     {
+      "type": 14,
+      "value": 3.0
+     }
+    ],
+    "icon": "007",
+    "name": "Turandot",
+    "name_th": "Turandot"
+   },
+   {
+    "cst_id": 46161,
+    "node_id": 16,
+    "next_node_id_list": [
+     18
+    ],
+    "item_cost_list": [
+     {
+      "id": 10001,
+      "count": 300000
+     },
+     {
+      "id": 8003,
+      "count": 120
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "Turandot",
+    "name_th": "Turandot"
+   },
+   {
+    "cst_id": 46161,
+    "node_id": 17,
+    "next_node_id_list": [
+     19
+    ],
+    "item_cost_list": [
+     {
+      "id": 10114,
+      "count": 50
+     },
+     {
+      "id": 8003,
+      "count": 120
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "Turandot",
+    "name_th": "Turandot"
+   },
+   {
+    "cst_id": 46161,
+    "node_id": 18,
+    "next_node_id_list": [
+     20
+    ],
+    "item_cost_list": [
+     {
+      "id": 10118,
+      "count": 400
+     },
+     {
+      "id": 8003,
+      "count": 120
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "Turandot",
+    "name_th": "Turandot"
+   },
+   {
+    "cst_id": 46161,
+    "node_id": 19,
+    "next_node_id_list": [
+     20
+    ],
+    "item_cost_list": [
+     {
+      "id": 10133,
+      "count": 12
+     },
+     {
+      "id": 8003,
+      "count": 120
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "Turandot",
+    "name_th": "Turandot"
+   },
+   {
+    "cst_id": 46161,
+    "node_id": 20,
+    "next_node_id_list": [
+     21,
+     22
+    ],
+    "item_cost_list": [
+     {
+      "id": 10116,
+      "count": 2
+     },
+     {
+      "id": 8003,
+      "count": 120
+     }
+    ],
+    "prop": [
+     {
+      "type": 71,
+      "value": 0.03
+     }
+    ],
+    "icon": "002",
+    "name": "Turandot",
+    "name_th": "Turandot"
+   },
+   {
+    "cst_id": 46161,
+    "node_id": 21,
+    "next_node_id_list": [
+     23
+    ],
+    "item_cost_list": [
+     {
+      "id": 10001,
+      "count": 400000
+     },
+     {
+      "id": 8003,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "Turandot",
+    "name_th": "Turandot"
+   },
+   {
+    "cst_id": 46161,
+    "node_id": 22,
+    "next_node_id_list": [
+     24
+    ],
+    "item_cost_list": [
+     {
+      "id": 10114,
+      "count": 50
+     },
+     {
+      "id": 8003,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "Turandot",
+    "name_th": "Turandot"
+   },
+   {
+    "cst_id": 46161,
+    "node_id": 23,
+    "next_node_id_list": [
+     25
+    ],
+    "item_cost_list": [
+     {
+      "id": 10123,
+      "count": 80
+     },
+     {
+      "id": 8003,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "Turandot",
+    "name_th": "Turandot"
+   },
+   {
+    "cst_id": 46161,
+    "node_id": 24,
+    "next_node_id_list": [
+     25
+    ],
+    "item_cost_list": [
+     {
+      "id": 10134,
+      "count": 3
+     },
+     {
+      "id": 8003,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "Turandot",
+    "name_th": "Turandot"
+   },
+   {
+    "cst_id": 46161,
+    "node_id": 25,
+    "next_node_id_list": [
+     26,
+     27
+    ],
+    "item_cost_list": [
+     {
+      "id": 10116,
+      "count": 2
+     },
+     {
+      "id": 8003,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 73,
+      "value": 0.03
+     }
+    ],
+    "icon": "006",
+    "name": "Turandot",
+    "name_th": "Turandot"
+   },
+   {
+    "cst_id": 46161,
+    "node_id": 26,
+    "next_node_id_list": [
+     28
+    ],
+    "item_cost_list": [
+     {
+      "id": 10001,
+      "count": 500000
+     },
+     {
+      "id": 8003,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "Turandot",
+    "name_th": "Turandot"
+   },
+   {
+    "cst_id": 46161,
+    "node_id": 27,
+    "next_node_id_list": [
+     29
+    ],
+    "item_cost_list": [
+     {
+      "id": 10114,
+      "count": 100
+     },
+     {
+      "id": 8003,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "Turandot",
+    "name_th": "Turandot"
+   },
+   {
+    "cst_id": 46161,
+    "node_id": 28,
+    "next_node_id_list": [
+     30
+    ],
+    "item_cost_list": [
+     {
+      "id": 10123,
+      "count": 120
+     },
+     {
+      "id": 8003,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "Turandot",
+    "name_th": "Turandot"
+   },
+   {
+    "cst_id": 46161,
+    "node_id": 29,
+    "next_node_id_list": [
+     30
+    ],
+    "item_cost_list": [
+     {
+      "id": 10134,
+      "count": 5
+     },
+     {
+      "id": 8003,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "Turandot",
+    "name_th": "Turandot"
+   },
+   {
+    "cst_id": 46161,
+    "node_id": 30,
+    "next_node_id_list": null,
+    "item_cost_list": [
+     {
+      "id": 10116,
+      "count": 2
+     },
+     {
+      "id": 8003,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 72,
+      "value": 0.03
+     }
+    ],
+    "icon": "004",
+    "name": "Turandot",
+    "name_th": "Turandot"
+   }
+  ],
+  "40691": [
+   {
+    "cst_id": 40691,
+    "node_id": 1,
+    "next_node_id_list": [
+     3
+    ],
+    "item_cost_list": [
+     {
+      "id": 10001,
+      "count": 50000
+     },
+     {
+      "id": 8004,
+      "count": 30
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "Valerian",
+    "name_th": "Valerian"
+   },
+   {
+    "cst_id": 40691,
+    "node_id": 2,
+    "next_node_id_list": [
+     4
+    ],
+    "item_cost_list": [
+     {
+      "id": 10114,
+      "count": 50
+     },
+     {
+      "id": 8004,
+      "count": 30
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "Valerian",
+    "name_th": "Valerian"
+   },
+   {
+    "cst_id": 40691,
+    "node_id": 3,
+    "next_node_id_list": [
+     5
+    ],
+    "item_cost_list": [
+     {
+      "id": 10108,
+      "count": 500
+     },
+     {
+      "id": 8004,
+      "count": 30
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "Valerian",
+    "name_th": "Valerian"
+   },
+   {
+    "cst_id": 40691,
+    "node_id": 4,
+    "next_node_id_list": [
+     5
+    ],
+    "item_cost_list": [
+     {
+      "id": 10132,
+      "count": 15
+     },
+     {
+      "id": 8004,
+      "count": 30
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "Valerian",
+    "name_th": "Valerian"
+   },
+   {
+    "cst_id": 40691,
+    "node_id": 5,
+    "next_node_id_list": [
+     6,
+     7
+    ],
+    "item_cost_list": [
+     {
+      "id": 10116,
+      "count": 2
+     },
+     {
+      "id": 8004,
+      "count": 30
+     }
+    ],
+    "prop": [
+     {
+      "type": 71,
+      "value": 0.03
+     }
+    ],
+    "icon": "002",
+    "name": "Valerian",
+    "name_th": "Valerian"
+   },
+   {
+    "cst_id": 40691,
+    "node_id": 6,
+    "next_node_id_list": [
+     8
+    ],
+    "item_cost_list": [
+     {
+      "id": 10001,
+      "count": 100000
+     },
+     {
+      "id": 8004,
+      "count": 60
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "Valerian",
+    "name_th": "Valerian"
+   },
+   {
+    "cst_id": 40691,
+    "node_id": 7,
+    "next_node_id_list": [
+     9
+    ],
+    "item_cost_list": [
+     {
+      "id": 10114,
+      "count": 50
+     },
+     {
+      "id": 8004,
+      "count": 60
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "Valerian",
+    "name_th": "Valerian"
+   },
+   {
+    "cst_id": 40691,
+    "node_id": 8,
+    "next_node_id_list": [
+     10
+    ],
+    "item_cost_list": [
+     {
+      "id": 10108,
+      "count": 1000
+     },
+     {
+      "id": 8004,
+      "count": 60
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "Valerian",
+    "name_th": "Valerian"
+   },
+   {
+    "cst_id": 40691,
+    "node_id": 9,
+    "next_node_id_list": [
+     10
+    ],
+    "item_cost_list": [
+     {
+      "id": 10132,
+      "count": 30
+     },
+     {
+      "id": 8004,
+      "count": 60
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "Valerian",
+    "name_th": "Valerian"
+   },
+   {
+    "cst_id": 40691,
+    "node_id": 10,
+    "next_node_id_list": [
+     11,
+     12
+    ],
+    "item_cost_list": [
+     {
+      "id": 10116,
+      "count": 2
+     },
+     {
+      "id": 8004,
+      "count": 60
+     }
+    ],
+    "prop": [
+     {
+      "type": 73,
+      "value": 0.03
+     }
+    ],
+    "icon": "006",
+    "name": "Valerian",
+    "name_th": "Valerian"
+   },
+   {
+    "cst_id": 40691,
+    "node_id": 11,
+    "next_node_id_list": [
+     13
+    ],
+    "item_cost_list": [
+     {
+      "id": 10001,
+      "count": 200000
+     },
+     {
+      "id": 8004,
+      "count": 90
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "Valerian",
+    "name_th": "Valerian"
+   },
+   {
+    "cst_id": 40691,
+    "node_id": 12,
+    "next_node_id_list": [
+     14
+    ],
+    "item_cost_list": [
+     {
+      "id": 10114,
+      "count": 50
+     },
+     {
+      "id": 8004,
+      "count": 90
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "Valerian",
+    "name_th": "Valerian"
+   },
+   {
+    "cst_id": 40691,
+    "node_id": 13,
+    "next_node_id_list": [
+     15
+    ],
+    "item_cost_list": [
+     {
+      "id": 10122,
+      "count": 200
+     },
+     {
+      "id": 8004,
+      "count": 90
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "Valerian",
+    "name_th": "Valerian"
+   },
+   {
+    "cst_id": 40691,
+    "node_id": 14,
+    "next_node_id_list": [
+     15
+    ],
+    "item_cost_list": [
+     {
+      "id": 10133,
+      "count": 8
+     },
+     {
+      "id": 8004,
+      "count": 90
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "Valerian",
+    "name_th": "Valerian"
+   },
+   {
+    "cst_id": 40691,
+    "node_id": 15,
+    "next_node_id_list": [
+     16,
+     17
+    ],
+    "item_cost_list": [
+     {
+      "id": 10116,
+      "count": 2
+     },
+     {
+      "id": 8004,
+      "count": 90
+     }
+    ],
+    "prop": [
+     {
+      "type": 14,
+      "value": 3.0
+     }
+    ],
+    "icon": "007",
+    "name": "Valerian",
+    "name_th": "Valerian"
+   },
+   {
+    "cst_id": 40691,
+    "node_id": 16,
+    "next_node_id_list": [
+     18
+    ],
+    "item_cost_list": [
+     {
+      "id": 10001,
+      "count": 300000
+     },
+     {
+      "id": 8004,
+      "count": 120
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "Valerian",
+    "name_th": "Valerian"
+   },
+   {
+    "cst_id": 40691,
+    "node_id": 17,
+    "next_node_id_list": [
+     19
+    ],
+    "item_cost_list": [
+     {
+      "id": 10114,
+      "count": 50
+     },
+     {
+      "id": 8004,
+      "count": 120
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "Valerian",
+    "name_th": "Valerian"
+   },
+   {
+    "cst_id": 40691,
+    "node_id": 18,
+    "next_node_id_list": [
+     20
+    ],
+    "item_cost_list": [
+     {
+      "id": 10122,
+      "count": 400
+     },
+     {
+      "id": 8004,
+      "count": 120
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "Valerian",
+    "name_th": "Valerian"
+   },
+   {
+    "cst_id": 40691,
+    "node_id": 19,
+    "next_node_id_list": [
+     20
+    ],
+    "item_cost_list": [
+     {
+      "id": 10133,
+      "count": 12
+     },
+     {
+      "id": 8004,
+      "count": 120
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "Valerian",
+    "name_th": "Valerian"
+   },
+   {
+    "cst_id": 40691,
+    "node_id": 20,
+    "next_node_id_list": [
+     21,
+     22
+    ],
+    "item_cost_list": [
+     {
+      "id": 10116,
+      "count": 2
+     },
+     {
+      "id": 8004,
+      "count": 120
+     }
+    ],
+    "prop": [
+     {
+      "type": 71,
+      "value": 0.03
+     }
+    ],
+    "icon": "002",
+    "name": "Valerian",
+    "name_th": "Valerian"
+   },
+   {
+    "cst_id": 40691,
+    "node_id": 21,
+    "next_node_id_list": [
+     23
+    ],
+    "item_cost_list": [
+     {
+      "id": 10001,
+      "count": 400000
+     },
+     {
+      "id": 8004,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "Valerian",
+    "name_th": "Valerian"
+   },
+   {
+    "cst_id": 40691,
+    "node_id": 22,
+    "next_node_id_list": [
+     24
+    ],
+    "item_cost_list": [
+     {
+      "id": 10114,
+      "count": 50
+     },
+     {
+      "id": 8004,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "Valerian",
+    "name_th": "Valerian"
+   },
+   {
+    "cst_id": 40691,
+    "node_id": 23,
+    "next_node_id_list": [
+     25
+    ],
+    "item_cost_list": [
+     {
+      "id": 10127,
+      "count": 80
+     },
+     {
+      "id": 8004,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "Valerian",
+    "name_th": "Valerian"
+   },
+   {
+    "cst_id": 40691,
+    "node_id": 24,
+    "next_node_id_list": [
+     25
+    ],
+    "item_cost_list": [
+     {
+      "id": 10134,
+      "count": 3
+     },
+     {
+      "id": 8004,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "Valerian",
+    "name_th": "Valerian"
+   },
+   {
+    "cst_id": 40691,
+    "node_id": 25,
+    "next_node_id_list": [
+     26,
+     27
+    ],
+    "item_cost_list": [
+     {
+      "id": 10116,
+      "count": 2
+     },
+     {
+      "id": 8004,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 73,
+      "value": 0.03
+     }
+    ],
+    "icon": "006",
+    "name": "Valerian",
+    "name_th": "Valerian"
+   },
+   {
+    "cst_id": 40691,
+    "node_id": 26,
+    "next_node_id_list": [
+     28
+    ],
+    "item_cost_list": [
+     {
+      "id": 10001,
+      "count": 500000
+     },
+     {
+      "id": 8004,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "Valerian",
+    "name_th": "Valerian"
+   },
+   {
+    "cst_id": 40691,
+    "node_id": 27,
+    "next_node_id_list": [
+     29
+    ],
+    "item_cost_list": [
+     {
+      "id": 10114,
+      "count": 100
+     },
+     {
+      "id": 8004,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "Valerian",
+    "name_th": "Valerian"
+   },
+   {
+    "cst_id": 40691,
+    "node_id": 28,
+    "next_node_id_list": [
+     30
+    ],
+    "item_cost_list": [
+     {
+      "id": 10127,
+      "count": 120
+     },
+     {
+      "id": 8004,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "Valerian",
+    "name_th": "Valerian"
+   },
+   {
+    "cst_id": 40691,
+    "node_id": 29,
+    "next_node_id_list": [
+     30
+    ],
+    "item_cost_list": [
+     {
+      "id": 10134,
+      "count": 5
+     },
+     {
+      "id": 8004,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "Valerian",
+    "name_th": "Valerian"
+   },
+   {
+    "cst_id": 40691,
+    "node_id": 30,
+    "next_node_id_list": null,
+    "item_cost_list": [
+     {
+      "id": 10116,
+      "count": 2
+     },
+     {
+      "id": 8004,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 72,
+      "value": 0.03
+     }
+    ],
+    "icon": "004",
+    "name": "Valerian",
+    "name_th": "Valerian"
+   }
+  ],
+  "46306": [
+   {
+    "cst_id": 46306,
+    "node_id": 1,
+    "next_node_id_list": [
+     3
+    ],
+    "item_cost_list": [
+     {
+      "id": 10001,
+      "count": 50000
+     },
+     {
+      "id": 8005,
+      "count": 30
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "Cachi the Guard",
+    "name_th": "Cachi the Guard"
+   },
+   {
+    "cst_id": 46306,
+    "node_id": 2,
+    "next_node_id_list": [
+     4
+    ],
+    "item_cost_list": [
+     {
+      "id": 10114,
+      "count": 50
+     },
+     {
+      "id": 8005,
+      "count": 30
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "Cachi the Guard",
+    "name_th": "Cachi the Guard"
+   },
+   {
+    "cst_id": 46306,
+    "node_id": 3,
+    "next_node_id_list": [
+     5
+    ],
+    "item_cost_list": [
+     {
+      "id": 10107,
+      "count": 500
+     },
+     {
+      "id": 8005,
+      "count": 30
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "Cachi the Guard",
+    "name_th": "Cachi the Guard"
+   },
+   {
+    "cst_id": 46306,
+    "node_id": 4,
+    "next_node_id_list": [
+     5
+    ],
+    "item_cost_list": [
+     {
+      "id": 10132,
+      "count": 15
+     },
+     {
+      "id": 8005,
+      "count": 30
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "Cachi the Guard",
+    "name_th": "Cachi the Guard"
+   },
+   {
+    "cst_id": 46306,
+    "node_id": 5,
+    "next_node_id_list": [
+     6,
+     7
+    ],
+    "item_cost_list": [
+     {
+      "id": 10116,
+      "count": 2
+     },
+     {
+      "id": 8005,
+      "count": 30
+     }
+    ],
+    "prop": [
+     {
+      "type": 71,
+      "value": 0.03
+     }
+    ],
+    "icon": "002",
+    "name": "Cachi the Guard",
+    "name_th": "Cachi the Guard"
+   },
+   {
+    "cst_id": 46306,
+    "node_id": 6,
+    "next_node_id_list": [
+     8
+    ],
+    "item_cost_list": [
+     {
+      "id": 10001,
+      "count": 100000
+     },
+     {
+      "id": 8005,
+      "count": 60
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "Cachi the Guard",
+    "name_th": "Cachi the Guard"
+   },
+   {
+    "cst_id": 46306,
+    "node_id": 7,
+    "next_node_id_list": [
+     9
+    ],
+    "item_cost_list": [
+     {
+      "id": 10114,
+      "count": 50
+     },
+     {
+      "id": 8005,
+      "count": 60
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "Cachi the Guard",
+    "name_th": "Cachi the Guard"
+   },
+   {
+    "cst_id": 46306,
+    "node_id": 8,
+    "next_node_id_list": [
+     10
+    ],
+    "item_cost_list": [
+     {
+      "id": 10107,
+      "count": 1000
+     },
+     {
+      "id": 8005,
+      "count": 60
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "Cachi the Guard",
+    "name_th": "Cachi the Guard"
+   },
+   {
+    "cst_id": 46306,
+    "node_id": 9,
+    "next_node_id_list": [
+     10
+    ],
+    "item_cost_list": [
+     {
+      "id": 10132,
+      "count": 30
+     },
+     {
+      "id": 8005,
+      "count": 60
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "Cachi the Guard",
+    "name_th": "Cachi the Guard"
+   },
+   {
+    "cst_id": 46306,
+    "node_id": 10,
+    "next_node_id_list": [
+     11,
+     12
+    ],
+    "item_cost_list": [
+     {
+      "id": 10116,
+      "count": 2
+     },
+     {
+      "id": 8005,
+      "count": 60
+     }
+    ],
+    "prop": [
+     {
+      "type": 73,
+      "value": 0.03
+     }
+    ],
+    "icon": "006",
+    "name": "Cachi the Guard",
+    "name_th": "Cachi the Guard"
+   },
+   {
+    "cst_id": 46306,
+    "node_id": 11,
+    "next_node_id_list": [
+     13
+    ],
+    "item_cost_list": [
+     {
+      "id": 10001,
+      "count": 200000
+     },
+     {
+      "id": 8005,
+      "count": 90
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "Cachi the Guard",
+    "name_th": "Cachi the Guard"
+   },
+   {
+    "cst_id": 46306,
+    "node_id": 12,
+    "next_node_id_list": [
+     14
+    ],
+    "item_cost_list": [
+     {
+      "id": 10114,
+      "count": 50
+     },
+     {
+      "id": 8005,
+      "count": 90
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "Cachi the Guard",
+    "name_th": "Cachi the Guard"
+   },
+   {
+    "cst_id": 46306,
+    "node_id": 13,
+    "next_node_id_list": [
+     15
+    ],
+    "item_cost_list": [
+     {
+      "id": 10121,
+      "count": 200
+     },
+     {
+      "id": 8005,
+      "count": 90
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "Cachi the Guard",
+    "name_th": "Cachi the Guard"
+   },
+   {
+    "cst_id": 46306,
+    "node_id": 14,
+    "next_node_id_list": [
+     15
+    ],
+    "item_cost_list": [
+     {
+      "id": 10133,
+      "count": 8
+     },
+     {
+      "id": 8005,
+      "count": 90
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "Cachi the Guard",
+    "name_th": "Cachi the Guard"
+   },
+   {
+    "cst_id": 46306,
+    "node_id": 15,
+    "next_node_id_list": [
+     16,
+     17
+    ],
+    "item_cost_list": [
+     {
+      "id": 10116,
+      "count": 2
+     },
+     {
+      "id": 8005,
+      "count": 90
+     }
+    ],
+    "prop": [
+     {
+      "type": 14,
+      "value": 3.0
+     }
+    ],
+    "icon": "007",
+    "name": "Cachi the Guard",
+    "name_th": "Cachi the Guard"
+   },
+   {
+    "cst_id": 46306,
+    "node_id": 16,
+    "next_node_id_list": [
+     18
+    ],
+    "item_cost_list": [
+     {
+      "id": 10001,
+      "count": 300000
+     },
+     {
+      "id": 8005,
+      "count": 120
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "Cachi the Guard",
+    "name_th": "Cachi the Guard"
+   },
+   {
+    "cst_id": 46306,
+    "node_id": 17,
+    "next_node_id_list": [
+     19
+    ],
+    "item_cost_list": [
+     {
+      "id": 10114,
+      "count": 50
+     },
+     {
+      "id": 8005,
+      "count": 120
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "Cachi the Guard",
+    "name_th": "Cachi the Guard"
+   },
+   {
+    "cst_id": 46306,
+    "node_id": 18,
+    "next_node_id_list": [
+     20
+    ],
+    "item_cost_list": [
+     {
+      "id": 10121,
+      "count": 400
+     },
+     {
+      "id": 8005,
+      "count": 120
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "Cachi the Guard",
+    "name_th": "Cachi the Guard"
+   },
+   {
+    "cst_id": 46306,
+    "node_id": 19,
+    "next_node_id_list": [
+     20
+    ],
+    "item_cost_list": [
+     {
+      "id": 10133,
+      "count": 12
+     },
+     {
+      "id": 8005,
+      "count": 120
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "Cachi the Guard",
+    "name_th": "Cachi the Guard"
+   },
+   {
+    "cst_id": 46306,
+    "node_id": 20,
+    "next_node_id_list": [
+     21,
+     22
+    ],
+    "item_cost_list": [
+     {
+      "id": 10116,
+      "count": 2
+     },
+     {
+      "id": 8005,
+      "count": 120
+     }
+    ],
+    "prop": [
+     {
+      "type": 71,
+      "value": 0.03
+     }
+    ],
+    "icon": "002",
+    "name": "Cachi the Guard",
+    "name_th": "Cachi the Guard"
+   },
+   {
+    "cst_id": 46306,
+    "node_id": 21,
+    "next_node_id_list": [
+     23
+    ],
+    "item_cost_list": [
+     {
+      "id": 10001,
+      "count": 400000
+     },
+     {
+      "id": 8005,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "Cachi the Guard",
+    "name_th": "Cachi the Guard"
+   },
+   {
+    "cst_id": 46306,
+    "node_id": 22,
+    "next_node_id_list": [
+     24
+    ],
+    "item_cost_list": [
+     {
+      "id": 10114,
+      "count": 50
+     },
+     {
+      "id": 8005,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "Cachi the Guard",
+    "name_th": "Cachi the Guard"
+   },
+   {
+    "cst_id": 46306,
+    "node_id": 23,
+    "next_node_id_list": [
+     25
+    ],
+    "item_cost_list": [
+     {
+      "id": 10126,
+      "count": 80
+     },
+     {
+      "id": 8005,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "Cachi the Guard",
+    "name_th": "Cachi the Guard"
+   },
+   {
+    "cst_id": 46306,
+    "node_id": 24,
+    "next_node_id_list": [
+     25
+    ],
+    "item_cost_list": [
+     {
+      "id": 10134,
+      "count": 3
+     },
+     {
+      "id": 8005,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "Cachi the Guard",
+    "name_th": "Cachi the Guard"
+   },
+   {
+    "cst_id": 46306,
+    "node_id": 25,
+    "next_node_id_list": [
+     26,
+     27
+    ],
+    "item_cost_list": [
+     {
+      "id": 10116,
+      "count": 2
+     },
+     {
+      "id": 8005,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 73,
+      "value": 0.03
+     }
+    ],
+    "icon": "006",
+    "name": "Cachi the Guard",
+    "name_th": "Cachi the Guard"
+   },
+   {
+    "cst_id": 46306,
+    "node_id": 26,
+    "next_node_id_list": [
+     28
+    ],
+    "item_cost_list": [
+     {
+      "id": 10001,
+      "count": 500000
+     },
+     {
+      "id": 8005,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "Cachi the Guard",
+    "name_th": "Cachi the Guard"
+   },
+   {
+    "cst_id": 46306,
+    "node_id": 27,
+    "next_node_id_list": [
+     29
+    ],
+    "item_cost_list": [
+     {
+      "id": 10114,
+      "count": 100
+     },
+     {
+      "id": 8005,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "Cachi the Guard",
+    "name_th": "Cachi the Guard"
+   },
+   {
+    "cst_id": 46306,
+    "node_id": 28,
+    "next_node_id_list": [
+     30
+    ],
+    "item_cost_list": [
+     {
+      "id": 10126,
+      "count": 120
+     },
+     {
+      "id": 8005,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "Cachi the Guard",
+    "name_th": "Cachi the Guard"
+   },
+   {
+    "cst_id": 46306,
+    "node_id": 29,
+    "next_node_id_list": [
+     30
+    ],
+    "item_cost_list": [
+     {
+      "id": 10134,
+      "count": 5
+     },
+     {
+      "id": 8005,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "Cachi the Guard",
+    "name_th": "Cachi the Guard"
+   },
+   {
+    "cst_id": 46306,
+    "node_id": 30,
+    "next_node_id_list": null,
+    "item_cost_list": [
+     {
+      "id": 10116,
+      "count": 2
+     },
+     {
+      "id": 8005,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 72,
+      "value": 0.03
+     }
+    ],
+    "icon": "004",
+    "name": "Cachi the Guard",
+    "name_th": "Cachi the Guard"
+   }
+  ],
+  "40631": [
+   {
+    "cst_id": 40631,
+    "node_id": 1,
+    "next_node_id_list": [
+     3
+    ],
+    "item_cost_list": [
+     {
+      "id": 10001,
+      "count": 50000
+     },
+     {
+      "id": 8006,
+      "count": 30
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "Dinah",
+    "name_th": "Dinah"
+   },
+   {
+    "cst_id": 40631,
+    "node_id": 2,
+    "next_node_id_list": [
+     4
+    ],
+    "item_cost_list": [
+     {
+      "id": 10114,
+      "count": 50
+     },
+     {
+      "id": 8006,
+      "count": 30
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "Dinah",
+    "name_th": "Dinah"
+   },
+   {
+    "cst_id": 40631,
+    "node_id": 3,
+    "next_node_id_list": [
+     5
+    ],
+    "item_cost_list": [
+     {
+      "id": 10104,
+      "count": 500
+     },
+     {
+      "id": 8006,
+      "count": 30
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "Dinah",
+    "name_th": "Dinah"
+   },
+   {
+    "cst_id": 40631,
+    "node_id": 4,
+    "next_node_id_list": [
+     5
+    ],
+    "item_cost_list": [
+     {
+      "id": 10132,
+      "count": 15
+     },
+     {
+      "id": 8006,
+      "count": 30
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "Dinah",
+    "name_th": "Dinah"
+   },
+   {
+    "cst_id": 40631,
+    "node_id": 5,
+    "next_node_id_list": [
+     6,
+     7
+    ],
+    "item_cost_list": [
+     {
+      "id": 10116,
+      "count": 2
+     },
+     {
+      "id": 8006,
+      "count": 30
+     }
+    ],
+    "prop": [
+     {
+      "type": 71,
+      "value": 0.03
+     }
+    ],
+    "icon": "002",
+    "name": "Dinah",
+    "name_th": "Dinah"
+   },
+   {
+    "cst_id": 40631,
+    "node_id": 6,
+    "next_node_id_list": [
+     8
+    ],
+    "item_cost_list": [
+     {
+      "id": 10001,
+      "count": 100000
+     },
+     {
+      "id": 8006,
+      "count": 60
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "Dinah",
+    "name_th": "Dinah"
+   },
+   {
+    "cst_id": 40631,
+    "node_id": 7,
+    "next_node_id_list": [
+     9
+    ],
+    "item_cost_list": [
+     {
+      "id": 10114,
+      "count": 50
+     },
+     {
+      "id": 8006,
+      "count": 60
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "Dinah",
+    "name_th": "Dinah"
+   },
+   {
+    "cst_id": 40631,
+    "node_id": 8,
+    "next_node_id_list": [
+     10
+    ],
+    "item_cost_list": [
+     {
+      "id": 10104,
+      "count": 1000
+     },
+     {
+      "id": 8006,
+      "count": 60
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "Dinah",
+    "name_th": "Dinah"
+   },
+   {
+    "cst_id": 40631,
+    "node_id": 9,
+    "next_node_id_list": [
+     10
+    ],
+    "item_cost_list": [
+     {
+      "id": 10132,
+      "count": 30
+     },
+     {
+      "id": 8006,
+      "count": 60
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "Dinah",
+    "name_th": "Dinah"
+   },
+   {
+    "cst_id": 40631,
+    "node_id": 10,
+    "next_node_id_list": [
+     11,
+     12
+    ],
+    "item_cost_list": [
+     {
+      "id": 10116,
+      "count": 2
+     },
+     {
+      "id": 8006,
+      "count": 60
+     }
+    ],
+    "prop": [
+     {
+      "type": 73,
+      "value": 0.03
+     }
+    ],
+    "icon": "006",
+    "name": "Dinah",
+    "name_th": "Dinah"
+   },
+   {
+    "cst_id": 40631,
+    "node_id": 11,
+    "next_node_id_list": [
+     13
+    ],
+    "item_cost_list": [
+     {
+      "id": 10001,
+      "count": 200000
+     },
+     {
+      "id": 8006,
+      "count": 90
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "Dinah",
+    "name_th": "Dinah"
+   },
+   {
+    "cst_id": 40631,
+    "node_id": 12,
+    "next_node_id_list": [
+     14
+    ],
+    "item_cost_list": [
+     {
+      "id": 10114,
+      "count": 50
+     },
+     {
+      "id": 8006,
+      "count": 90
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "Dinah",
+    "name_th": "Dinah"
+   },
+   {
+    "cst_id": 40631,
+    "node_id": 13,
+    "next_node_id_list": [
+     15
+    ],
+    "item_cost_list": [
+     {
+      "id": 10118,
+      "count": 200
+     },
+     {
+      "id": 8006,
+      "count": 90
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "Dinah",
+    "name_th": "Dinah"
+   },
+   {
+    "cst_id": 40631,
+    "node_id": 14,
+    "next_node_id_list": [
+     15
+    ],
+    "item_cost_list": [
+     {
+      "id": 10133,
+      "count": 8
+     },
+     {
+      "id": 8006,
+      "count": 90
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "Dinah",
+    "name_th": "Dinah"
+   },
+   {
+    "cst_id": 40631,
+    "node_id": 15,
+    "next_node_id_list": [
+     16,
+     17
+    ],
+    "item_cost_list": [
+     {
+      "id": 10116,
+      "count": 2
+     },
+     {
+      "id": 8006,
+      "count": 90
+     }
+    ],
+    "prop": [
+     {
+      "type": 14,
+      "value": 3.0
+     }
+    ],
+    "icon": "007",
+    "name": "Dinah",
+    "name_th": "Dinah"
+   },
+   {
+    "cst_id": 40631,
+    "node_id": 16,
+    "next_node_id_list": [
+     18
+    ],
+    "item_cost_list": [
+     {
+      "id": 10001,
+      "count": 300000
+     },
+     {
+      "id": 8006,
+      "count": 120
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "Dinah",
+    "name_th": "Dinah"
+   },
+   {
+    "cst_id": 40631,
+    "node_id": 17,
+    "next_node_id_list": [
+     19
+    ],
+    "item_cost_list": [
+     {
+      "id": 10114,
+      "count": 50
+     },
+     {
+      "id": 8006,
+      "count": 120
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "Dinah",
+    "name_th": "Dinah"
+   },
+   {
+    "cst_id": 40631,
+    "node_id": 18,
+    "next_node_id_list": [
+     20
+    ],
+    "item_cost_list": [
+     {
+      "id": 10118,
+      "count": 400
+     },
+     {
+      "id": 8006,
+      "count": 120
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "Dinah",
+    "name_th": "Dinah"
+   },
+   {
+    "cst_id": 40631,
+    "node_id": 19,
+    "next_node_id_list": [
+     20
+    ],
+    "item_cost_list": [
+     {
+      "id": 10133,
+      "count": 12
+     },
+     {
+      "id": 8006,
+      "count": 120
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "Dinah",
+    "name_th": "Dinah"
+   },
+   {
+    "cst_id": 40631,
+    "node_id": 20,
+    "next_node_id_list": [
+     21,
+     22
+    ],
+    "item_cost_list": [
+     {
+      "id": 10116,
+      "count": 2
+     },
+     {
+      "id": 8006,
+      "count": 120
+     }
+    ],
+    "prop": [
+     {
+      "type": 71,
+      "value": 0.03
+     }
+    ],
+    "icon": "002",
+    "name": "Dinah",
+    "name_th": "Dinah"
+   },
+   {
+    "cst_id": 40631,
+    "node_id": 21,
+    "next_node_id_list": [
+     23
+    ],
+    "item_cost_list": [
+     {
+      "id": 10001,
+      "count": 400000
+     },
+     {
+      "id": 8006,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "Dinah",
+    "name_th": "Dinah"
+   },
+   {
+    "cst_id": 40631,
+    "node_id": 22,
+    "next_node_id_list": [
+     24
+    ],
+    "item_cost_list": [
+     {
+      "id": 10114,
+      "count": 50
+     },
+     {
+      "id": 8006,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "Dinah",
+    "name_th": "Dinah"
+   },
+   {
+    "cst_id": 40631,
+    "node_id": 23,
+    "next_node_id_list": [
+     25
+    ],
+    "item_cost_list": [
+     {
+      "id": 10123,
+      "count": 80
+     },
+     {
+      "id": 8006,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "Dinah",
+    "name_th": "Dinah"
+   },
+   {
+    "cst_id": 40631,
+    "node_id": 24,
+    "next_node_id_list": [
+     25
+    ],
+    "item_cost_list": [
+     {
+      "id": 10134,
+      "count": 3
+     },
+     {
+      "id": 8006,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "Dinah",
+    "name_th": "Dinah"
+   },
+   {
+    "cst_id": 40631,
+    "node_id": 25,
+    "next_node_id_list": [
+     26,
+     27
+    ],
+    "item_cost_list": [
+     {
+      "id": 10116,
+      "count": 2
+     },
+     {
+      "id": 8006,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 73,
+      "value": 0.03
+     }
+    ],
+    "icon": "006",
+    "name": "Dinah",
+    "name_th": "Dinah"
+   },
+   {
+    "cst_id": 40631,
+    "node_id": 26,
+    "next_node_id_list": [
+     28
+    ],
+    "item_cost_list": [
+     {
+      "id": 10001,
+      "count": 500000
+     },
+     {
+      "id": 8006,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "Dinah",
+    "name_th": "Dinah"
+   },
+   {
+    "cst_id": 40631,
+    "node_id": 27,
+    "next_node_id_list": [
+     29
+    ],
+    "item_cost_list": [
+     {
+      "id": 10114,
+      "count": 100
+     },
+     {
+      "id": 8006,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "Dinah",
+    "name_th": "Dinah"
+   },
+   {
+    "cst_id": 40631,
+    "node_id": 28,
+    "next_node_id_list": [
+     30
+    ],
+    "item_cost_list": [
+     {
+      "id": 10123,
+      "count": 120
+     },
+     {
+      "id": 8006,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "Dinah",
+    "name_th": "Dinah"
+   },
+   {
+    "cst_id": 40631,
+    "node_id": 29,
+    "next_node_id_list": [
+     30
+    ],
+    "item_cost_list": [
+     {
+      "id": 10134,
+      "count": 5
+     },
+     {
+      "id": 8006,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "Dinah",
+    "name_th": "Dinah"
+   },
+   {
+    "cst_id": 40631,
+    "node_id": 30,
+    "next_node_id_list": null,
+    "item_cost_list": [
+     {
+      "id": 10116,
+      "count": 2
+     },
+     {
+      "id": 8006,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 72,
+      "value": 0.03
+     }
+    ],
+    "icon": "004",
+    "name": "Dinah",
+    "name_th": "Dinah"
+   }
+  ],
+  "40661": [
+   {
+    "cst_id": 40661,
+    "node_id": 1,
+    "next_node_id_list": [
+     3
+    ],
+    "item_cost_list": [
+     {
+      "id": 10001,
+      "count": 50000
+     },
+     {
+      "id": 8007,
+      "count": 30
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "Viper",
+    "name_th": "Viper"
+   },
+   {
+    "cst_id": 40661,
+    "node_id": 2,
+    "next_node_id_list": [
+     4
+    ],
+    "item_cost_list": [
+     {
+      "id": 10114,
+      "count": 50
+     },
+     {
+      "id": 8007,
+      "count": 30
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "Viper",
+    "name_th": "Viper"
+   },
+   {
+    "cst_id": 40661,
+    "node_id": 3,
+    "next_node_id_list": [
+     5
+    ],
+    "item_cost_list": [
+     {
+      "id": 10105,
+      "count": 500
+     },
+     {
+      "id": 8007,
+      "count": 30
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "Viper",
+    "name_th": "Viper"
+   },
+   {
+    "cst_id": 40661,
+    "node_id": 4,
+    "next_node_id_list": [
+     5
+    ],
+    "item_cost_list": [
+     {
+      "id": 10132,
+      "count": 15
+     },
+     {
+      "id": 8007,
+      "count": 30
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "Viper",
+    "name_th": "Viper"
+   },
+   {
+    "cst_id": 40661,
+    "node_id": 5,
+    "next_node_id_list": [
+     6,
+     7
+    ],
+    "item_cost_list": [
+     {
+      "id": 10116,
+      "count": 2
+     },
+     {
+      "id": 8007,
+      "count": 30
+     }
+    ],
+    "prop": [
+     {
+      "type": 71,
+      "value": 0.03
+     }
+    ],
+    "icon": "002",
+    "name": "Viper",
+    "name_th": "Viper"
+   },
+   {
+    "cst_id": 40661,
+    "node_id": 6,
+    "next_node_id_list": [
+     8
+    ],
+    "item_cost_list": [
+     {
+      "id": 10001,
+      "count": 100000
+     },
+     {
+      "id": 8007,
+      "count": 60
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "Viper",
+    "name_th": "Viper"
+   },
+   {
+    "cst_id": 40661,
+    "node_id": 7,
+    "next_node_id_list": [
+     9
+    ],
+    "item_cost_list": [
+     {
+      "id": 10114,
+      "count": 50
+     },
+     {
+      "id": 8007,
+      "count": 60
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "Viper",
+    "name_th": "Viper"
+   },
+   {
+    "cst_id": 40661,
+    "node_id": 8,
+    "next_node_id_list": [
+     10
+    ],
+    "item_cost_list": [
+     {
+      "id": 10105,
+      "count": 1000
+     },
+     {
+      "id": 8007,
+      "count": 60
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "Viper",
+    "name_th": "Viper"
+   },
+   {
+    "cst_id": 40661,
+    "node_id": 9,
+    "next_node_id_list": [
+     10
+    ],
+    "item_cost_list": [
+     {
+      "id": 10132,
+      "count": 30
+     },
+     {
+      "id": 8007,
+      "count": 60
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "Viper",
+    "name_th": "Viper"
+   },
+   {
+    "cst_id": 40661,
+    "node_id": 10,
+    "next_node_id_list": [
+     11,
+     12
+    ],
+    "item_cost_list": [
+     {
+      "id": 10116,
+      "count": 2
+     },
+     {
+      "id": 8007,
+      "count": 60
+     }
+    ],
+    "prop": [
+     {
+      "type": 72,
+      "value": 0.03
+     }
+    ],
+    "icon": "004",
+    "name": "Viper",
+    "name_th": "Viper"
+   },
+   {
+    "cst_id": 40661,
+    "node_id": 11,
+    "next_node_id_list": [
+     13
+    ],
+    "item_cost_list": [
+     {
+      "id": 10001,
+      "count": 200000
+     },
+     {
+      "id": 8007,
+      "count": 90
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "Viper",
+    "name_th": "Viper"
+   },
+   {
+    "cst_id": 40661,
+    "node_id": 12,
+    "next_node_id_list": [
+     14
+    ],
+    "item_cost_list": [
+     {
+      "id": 10114,
+      "count": 50
+     },
+     {
+      "id": 8007,
+      "count": 90
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "Viper",
+    "name_th": "Viper"
+   },
+   {
+    "cst_id": 40661,
+    "node_id": 13,
+    "next_node_id_list": [
+     15
+    ],
+    "item_cost_list": [
+     {
+      "id": 10119,
+      "count": 200
+     },
+     {
+      "id": 8007,
+      "count": 90
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "Viper",
+    "name_th": "Viper"
+   },
+   {
+    "cst_id": 40661,
+    "node_id": 14,
+    "next_node_id_list": [
+     15
+    ],
+    "item_cost_list": [
+     {
+      "id": 10133,
+      "count": 8
+     },
+     {
+      "id": 8007,
+      "count": 90
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "Viper",
+    "name_th": "Viper"
+   },
+   {
+    "cst_id": 40661,
+    "node_id": 15,
+    "next_node_id_list": [
+     16,
+     17
+    ],
+    "item_cost_list": [
+     {
+      "id": 10116,
+      "count": 2
+     },
+     {
+      "id": 8007,
+      "count": 90
+     }
+    ],
+    "prop": [
+     {
+      "type": 14,
+      "value": 3.0
+     }
+    ],
+    "icon": "007",
+    "name": "Viper",
+    "name_th": "Viper"
+   },
+   {
+    "cst_id": 40661,
+    "node_id": 16,
+    "next_node_id_list": [
+     18
+    ],
+    "item_cost_list": [
+     {
+      "id": 10001,
+      "count": 300000
+     },
+     {
+      "id": 8007,
+      "count": 120
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "Viper",
+    "name_th": "Viper"
+   },
+   {
+    "cst_id": 40661,
+    "node_id": 17,
+    "next_node_id_list": [
+     19
+    ],
+    "item_cost_list": [
+     {
+      "id": 10114,
+      "count": 50
+     },
+     {
+      "id": 8007,
+      "count": 120
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "Viper",
+    "name_th": "Viper"
+   },
+   {
+    "cst_id": 40661,
+    "node_id": 18,
+    "next_node_id_list": [
+     20
+    ],
+    "item_cost_list": [
+     {
+      "id": 10119,
+      "count": 400
+     },
+     {
+      "id": 8007,
+      "count": 120
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "Viper",
+    "name_th": "Viper"
+   },
+   {
+    "cst_id": 40661,
+    "node_id": 19,
+    "next_node_id_list": [
+     20
+    ],
+    "item_cost_list": [
+     {
+      "id": 10133,
+      "count": 12
+     },
+     {
+      "id": 8007,
+      "count": 120
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "Viper",
+    "name_th": "Viper"
+   },
+   {
+    "cst_id": 40661,
+    "node_id": 20,
+    "next_node_id_list": [
+     21,
+     22
+    ],
+    "item_cost_list": [
+     {
+      "id": 10116,
+      "count": 2
+     },
+     {
+      "id": 8007,
+      "count": 120
+     }
+    ],
+    "prop": [
+     {
+      "type": 71,
+      "value": 0.03
+     }
+    ],
+    "icon": "002",
+    "name": "Viper",
+    "name_th": "Viper"
+   },
+   {
+    "cst_id": 40661,
+    "node_id": 21,
+    "next_node_id_list": [
+     23
+    ],
+    "item_cost_list": [
+     {
+      "id": 10001,
+      "count": 400000
+     },
+     {
+      "id": 8007,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "Viper",
+    "name_th": "Viper"
+   },
+   {
+    "cst_id": 40661,
+    "node_id": 22,
+    "next_node_id_list": [
+     24
+    ],
+    "item_cost_list": [
+     {
+      "id": 10114,
+      "count": 50
+     },
+     {
+      "id": 8007,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "Viper",
+    "name_th": "Viper"
+   },
+   {
+    "cst_id": 40661,
+    "node_id": 23,
+    "next_node_id_list": [
+     25
+    ],
+    "item_cost_list": [
+     {
+      "id": 10124,
+      "count": 80
+     },
+     {
+      "id": 8007,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "Viper",
+    "name_th": "Viper"
+   },
+   {
+    "cst_id": 40661,
+    "node_id": 24,
+    "next_node_id_list": [
+     25
+    ],
+    "item_cost_list": [
+     {
+      "id": 10134,
+      "count": 3
+     },
+     {
+      "id": 8007,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "Viper",
+    "name_th": "Viper"
+   },
+   {
+    "cst_id": 40661,
+    "node_id": 25,
+    "next_node_id_list": [
+     26,
+     27
+    ],
+    "item_cost_list": [
+     {
+      "id": 10116,
+      "count": 2
+     },
+     {
+      "id": 8007,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 73,
+      "value": 0.03
+     }
+    ],
+    "icon": "006",
+    "name": "Viper",
+    "name_th": "Viper"
+   },
+   {
+    "cst_id": 40661,
+    "node_id": 26,
+    "next_node_id_list": [
+     28
+    ],
+    "item_cost_list": [
+     {
+      "id": 10001,
+      "count": 500000
+     },
+     {
+      "id": 8007,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "Viper",
+    "name_th": "Viper"
+   },
+   {
+    "cst_id": 40661,
+    "node_id": 27,
+    "next_node_id_list": [
+     29
+    ],
+    "item_cost_list": [
+     {
+      "id": 10114,
+      "count": 100
+     },
+     {
+      "id": 8007,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "Viper",
+    "name_th": "Viper"
+   },
+   {
+    "cst_id": 40661,
+    "node_id": 28,
+    "next_node_id_list": [
+     30
+    ],
+    "item_cost_list": [
+     {
+      "id": 10124,
+      "count": 120
+     },
+     {
+      "id": 8007,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "Viper",
+    "name_th": "Viper"
+   },
+   {
+    "cst_id": 40661,
+    "node_id": 29,
+    "next_node_id_list": [
+     30
+    ],
+    "item_cost_list": [
+     {
+      "id": 10134,
+      "count": 5
+     },
+     {
+      "id": 8007,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "Viper",
+    "name_th": "Viper"
+   },
+   {
+    "cst_id": 40661,
+    "node_id": 30,
+    "next_node_id_list": null,
+    "item_cost_list": [
+     {
+      "id": 10116,
+      "count": 2
+     },
+     {
+      "id": 8007,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 72,
+      "value": 0.03
+     }
+    ],
+    "icon": "004",
+    "name": "Viper",
+    "name_th": "Viper"
+   }
+  ],
+  "40511": [
+   {
+    "cst_id": 40511,
+    "node_id": 1,
+    "next_node_id_list": [
+     3
+    ],
+    "item_cost_list": [
+     {
+      "id": 10001,
+      "count": 50000
+     },
+     {
+      "id": 8008,
+      "count": 30
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "Diting",
+    "name_th": "Diting"
+   },
+   {
+    "cst_id": 40511,
+    "node_id": 2,
+    "next_node_id_list": [
+     4
+    ],
+    "item_cost_list": [
+     {
+      "id": 10114,
+      "count": 50
+     },
+     {
+      "id": 8008,
+      "count": 30
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "Diting",
+    "name_th": "Diting"
+   },
+   {
+    "cst_id": 40511,
+    "node_id": 3,
+    "next_node_id_list": [
+     5
+    ],
+    "item_cost_list": [
+     {
+      "id": 10107,
+      "count": 500
+     },
+     {
+      "id": 8008,
+      "count": 30
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "Diting",
+    "name_th": "Diting"
+   },
+   {
+    "cst_id": 40511,
+    "node_id": 4,
+    "next_node_id_list": [
+     5
+    ],
+    "item_cost_list": [
+     {
+      "id": 10132,
+      "count": 15
+     },
+     {
+      "id": 8008,
+      "count": 30
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "Diting",
+    "name_th": "Diting"
+   },
+   {
+    "cst_id": 40511,
+    "node_id": 5,
+    "next_node_id_list": [
+     6,
+     7
+    ],
+    "item_cost_list": [
+     {
+      "id": 10116,
+      "count": 2
+     },
+     {
+      "id": 8008,
+      "count": 30
+     }
+    ],
+    "prop": [
+     {
+      "type": 71,
+      "value": 0.03
+     }
+    ],
+    "icon": "002",
+    "name": "Diting",
+    "name_th": "Diting"
+   },
+   {
+    "cst_id": 40511,
+    "node_id": 6,
+    "next_node_id_list": [
+     8
+    ],
+    "item_cost_list": [
+     {
+      "id": 10001,
+      "count": 100000
+     },
+     {
+      "id": 8008,
+      "count": 60
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "003",
+    "name": "Diting",
+    "name_th": "Diting"
+   },
+   {
+    "cst_id": 40511,
+    "node_id": 7,
+    "next_node_id_list": [
+     9
+    ],
+    "item_cost_list": [
+     {
+      "id": 10114,
+      "count": 50
+     },
+     {
+      "id": 8008,
+      "count": 60
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "003",
+    "name": "Diting",
+    "name_th": "Diting"
+   },
+   {
+    "cst_id": 40511,
+    "node_id": 8,
+    "next_node_id_list": [
+     10
+    ],
+    "item_cost_list": [
+     {
+      "id": 10107,
+      "count": 1000
+     },
+     {
+      "id": 8008,
+      "count": 60
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "003",
+    "name": "Diting",
+    "name_th": "Diting"
+   },
+   {
+    "cst_id": 40511,
+    "node_id": 9,
+    "next_node_id_list": [
+     10
+    ],
+    "item_cost_list": [
+     {
+      "id": 10132,
+      "count": 30
+     },
+     {
+      "id": 8008,
+      "count": 60
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "003",
+    "name": "Diting",
+    "name_th": "Diting"
+   },
+   {
+    "cst_id": 40511,
+    "node_id": 10,
+    "next_node_id_list": [
+     11,
+     12
+    ],
+    "item_cost_list": [
+     {
+      "id": 10116,
+      "count": 2
+     },
+     {
+      "id": 8008,
+      "count": 60
+     }
+    ],
+    "prop": [
+     {
+      "type": 73,
+      "value": 0.03
+     }
+    ],
+    "icon": "004",
+    "name": "Diting",
+    "name_th": "Diting"
+   },
+   {
+    "cst_id": 40511,
+    "node_id": 11,
+    "next_node_id_list": [
+     13
+    ],
+    "item_cost_list": [
+     {
+      "id": 10001,
+      "count": 200000
+     },
+     {
+      "id": 8008,
+      "count": 90
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "005",
+    "name": "Diting",
+    "name_th": "Diting"
+   },
+   {
+    "cst_id": 40511,
+    "node_id": 12,
+    "next_node_id_list": [
+     14
+    ],
+    "item_cost_list": [
+     {
+      "id": 10114,
+      "count": 50
+     },
+     {
+      "id": 8008,
+      "count": 90
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "005",
+    "name": "Diting",
+    "name_th": "Diting"
+   },
+   {
+    "cst_id": 40511,
+    "node_id": 13,
+    "next_node_id_list": [
+     15
+    ],
+    "item_cost_list": [
+     {
+      "id": 10121,
+      "count": 200
+     },
+     {
+      "id": 8008,
+      "count": 90
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "005",
+    "name": "Diting",
+    "name_th": "Diting"
+   },
+   {
+    "cst_id": 40511,
+    "node_id": 14,
+    "next_node_id_list": [
+     15
+    ],
+    "item_cost_list": [
+     {
+      "id": 10133,
+      "count": 8
+     },
+     {
+      "id": 8008,
+      "count": 90
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "005",
+    "name": "Diting",
+    "name_th": "Diting"
+   },
+   {
+    "cst_id": 40511,
+    "node_id": 15,
+    "next_node_id_list": [
+     16,
+     17
+    ],
+    "item_cost_list": [
+     {
+      "id": 10116,
+      "count": 2
+     },
+     {
+      "id": 8008,
+      "count": 90
+     }
+    ],
+    "prop": [
+     {
+      "type": 14,
+      "value": 3.0
+     }
+    ],
+    "icon": "007",
+    "name": "Diting",
+    "name_th": "Diting"
+   },
+   {
+    "cst_id": 40511,
+    "node_id": 16,
+    "next_node_id_list": [
+     18
+    ],
+    "item_cost_list": [
+     {
+      "id": 10001,
+      "count": 300000
+     },
+     {
+      "id": 8008,
+      "count": 120
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "Diting",
+    "name_th": "Diting"
+   },
+   {
+    "cst_id": 40511,
+    "node_id": 17,
+    "next_node_id_list": [
+     19
+    ],
+    "item_cost_list": [
+     {
+      "id": 10114,
+      "count": 50
+     },
+     {
+      "id": 8008,
+      "count": 120
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "Diting",
+    "name_th": "Diting"
+   },
+   {
+    "cst_id": 40511,
+    "node_id": 18,
+    "next_node_id_list": [
+     20
+    ],
+    "item_cost_list": [
+     {
+      "id": 10121,
+      "count": 400
+     },
+     {
+      "id": 8008,
+      "count": 120
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "Diting",
+    "name_th": "Diting"
+   },
+   {
+    "cst_id": 40511,
+    "node_id": 19,
+    "next_node_id_list": [
+     20
+    ],
+    "item_cost_list": [
+     {
+      "id": 10133,
+      "count": 12
+     },
+     {
+      "id": 8008,
+      "count": 120
+     }
+    ],
+    "prop": [
+     {
+      "type": 2,
+      "value": 100.0
+     }
+    ],
+    "icon": "001",
+    "name": "Diting",
+    "name_th": "Diting"
+   },
+   {
+    "cst_id": 40511,
+    "node_id": 20,
+    "next_node_id_list": [
+     21,
+     22
+    ],
+    "item_cost_list": [
+     {
+      "id": 10116,
+      "count": 2
+     },
+     {
+      "id": 8008,
+      "count": 120
+     }
+    ],
+    "prop": [
+     {
+      "type": 71,
+      "value": 0.03
+     }
+    ],
+    "icon": "002",
+    "name": "Diting",
+    "name_th": "Diting"
+   },
+   {
+    "cst_id": 40511,
+    "node_id": 21,
+    "next_node_id_list": [
+     23
+    ],
+    "item_cost_list": [
+     {
+      "id": 10001,
+      "count": 400000
+     },
+     {
+      "id": 8008,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "Diting",
+    "name_th": "Diting"
+   },
+   {
+    "cst_id": 40511,
+    "node_id": 22,
+    "next_node_id_list": [
+     24
+    ],
+    "item_cost_list": [
+     {
+      "id": 10114,
+      "count": 50
+     },
+     {
+      "id": 8008,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "Diting",
+    "name_th": "Diting"
+   },
+   {
+    "cst_id": 40511,
+    "node_id": 23,
+    "next_node_id_list": [
+     25
+    ],
+    "item_cost_list": [
+     {
+      "id": 10126,
+      "count": 80
+     },
+     {
+      "id": 8008,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "Diting",
+    "name_th": "Diting"
+   },
+   {
+    "cst_id": 40511,
+    "node_id": 24,
+    "next_node_id_list": [
+     25
+    ],
+    "item_cost_list": [
+     {
+      "id": 10134,
+      "count": 3
+     },
+     {
+      "id": 8008,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 10,
+      "value": 7.0
+     }
+    ],
+    "icon": "005",
+    "name": "Diting",
+    "name_th": "Diting"
+   },
+   {
+    "cst_id": 40511,
+    "node_id": 25,
+    "next_node_id_list": [
+     26,
+     27
+    ],
+    "item_cost_list": [
+     {
+      "id": 10116,
+      "count": 2
+     },
+     {
+      "id": 8008,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 73,
+      "value": 0.03
+     }
+    ],
+    "icon": "006",
+    "name": "Diting",
+    "name_th": "Diting"
+   },
+   {
+    "cst_id": 40511,
+    "node_id": 26,
+    "next_node_id_list": [
+     28
+    ],
+    "item_cost_list": [
+     {
+      "id": 10001,
+      "count": 500000
+     },
+     {
+      "id": 8008,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "Diting",
+    "name_th": "Diting"
+   },
+   {
+    "cst_id": 40511,
+    "node_id": 27,
+    "next_node_id_list": [
+     29
+    ],
+    "item_cost_list": [
+     {
+      "id": 10114,
+      "count": 100
+     },
+     {
+      "id": 8008,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "Diting",
+    "name_th": "Diting"
+   },
+   {
+    "cst_id": 40511,
+    "node_id": 28,
+    "next_node_id_list": [
+     30
+    ],
+    "item_cost_list": [
+     {
+      "id": 10126,
+      "count": 120
+     },
+     {
+      "id": 8008,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "Diting",
+    "name_th": "Diting"
+   },
+   {
+    "cst_id": 40511,
+    "node_id": 29,
+    "next_node_id_list": [
+     30
+    ],
+    "item_cost_list": [
+     {
+      "id": 10134,
+      "count": 5
+     },
+     {
+      "id": 8008,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 6,
+      "value": 10.0
+     }
+    ],
+    "icon": "003",
+    "name": "Diting",
+    "name_th": "Diting"
+   },
+   {
+    "cst_id": 40511,
+    "node_id": 30,
+    "next_node_id_list": null,
+    "item_cost_list": [
+     {
+      "id": 10116,
+      "count": 2
+     },
+     {
+      "id": 8008,
+      "count": 150
+     }
+    ],
+    "prop": [
+     {
+      "type": 72,
+      "value": 0.03
+     }
+    ],
+    "icon": "004",
+    "name": "Diting",
+    "name_th": "Diting"
+   }
+  ]
+ },
+ "text_chunk": "00064_e54471a8093b3078.json"
+}

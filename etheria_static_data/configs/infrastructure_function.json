@@ -1,0 +1,105 @@
+{
+ "config": "infrastructure_function",
+ "fields": [
+  "id",
+  "desc"
+ ],
+ "rows": [
+  {
+   "id": 1,
+   "desc": "Hyper Kernel Building Level Cap",
+   "desc_th": "ขีดจำกัดเลเวลสิ่งปลูกสร้าง Hyper Kernel"
+  },
+  {
+   "id": 2,
+   "desc": "Allocable Energy Points",
+   "desc_th": "แต้มพลังงานที่ใช้งานได้"
+  },
+  {
+   "id": 3,
+   "desc": "Increases Hyperlinker Stability Cap",
+   "desc_th": "เพิ่มขีดจำกัดเสถียรภาพของไฮเปอร์ลิงเกอร์"
+  },
+  {
+   "id": 4,
+   "desc": "Increases Daily Standard Price Stability Purchase Limit",
+   "desc_th": "เพิ่มขีดจำกัดการซื้อเสถียรภาพราคามาตรฐานรายวัน"
+  },
+  {
+   "id": 5,
+   "desc": "Material Production Rate",
+   "desc_th": "ความเร็วผลิตวัสดุ"
+  },
+  {
+   "id": 6,
+   "desc": "Crate Generation Rate",
+   "desc_th": "ความเร็วสร้างกล่องเสบียง"
+  },
+  {
+   "id": 7,
+   "desc": "Crate Storage Limit",
+   "desc_th": "ลิมิตจัดเก็บของกล่องเสบียง"
+  },
+  {
+   "id": 8,
+   "desc": "Crate Speed Boost",
+   "desc_th": "ฟีเจอร์เร่งสร้างกล่องเสบียง"
+  },
+  {
+   "id": 9,
+   "desc": "Collection Sell Price Increase",
+   "desc_th": "เพิ่มราคาขายไอเทมสะสม"
+  },
+  {
+   "id": 10,
+   "desc": "Daily Dispatch Limit",
+   "desc_th": "จำนวนครั้งจัดส่งรายวัน"
+  },
+  {
+   "id": 11,
+   "desc": "Commission Task Duration Reduction",
+   "desc_th": "ลดระยะเวลาเควสภารกิจจ้างวาน"
+  },
+  {
+   "id": 12,
+   "desc": "Dispatch Bonus Increase",
+   "desc_th": "เพิ่มโบนัสจัดส่ง"
+  },
+  {
+   "id": 13,
+   "desc": "Tech R&D Level Cap Unlock",
+   "desc_th": "ปลดล็อกขีดจำกัด Lv.วิจัยเทคโนโลยี"
+  },
+  {
+   "id": 14,
+   "desc": "{1} Inventory Limit",
+   "desc_th": "ลิมิตจัดเก็บ {1}"
+  },
+  {
+   "id": 15,
+   "desc": "Available Collection Areas",
+   "desc_th": "จำนวนพื้นที่ที่ไอเทมสะสมจะปรากฏ"
+  },
+  {
+   "id": 16,
+   "desc": "Weekly Dispatch Limit",
+   "desc_th": "จำนวนครั้งจัดส่งรายสัปดาห์"
+  },
+  {
+   "id": 17,
+   "desc": "Unlock Component Blueprints",
+   "desc_th": "ปลดล็อกพิมพ์เขียว Component"
+  },
+  {
+   "id": 18,
+   "desc": "Component Assembly Cost Reduction",
+   "desc_th": "ลดต้นทุนการประกอบ Component"
+  },
+  {
+   "id": 19,
+   "desc": "Energy Allocation",
+   "desc_th": "ฟีเจอร์จัดสรรพลังงาน"
+  }
+ ],
+ "text_chunk": "00098_99557f3a6d5e1e97.json"
+}

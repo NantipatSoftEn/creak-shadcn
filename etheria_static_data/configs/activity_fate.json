@@ -1,0 +1,309 @@
+{
+ "config": "activity_fate",
+ "fields": [
+  "id",
+  "sub_quest_ids",
+  "unit_ids",
+  "pool_ids"
+ ],
+ "rows": [
+  {
+   "id": 1,
+   "sub_quest_ids": [
+    1
+   ],
+   "unit_ids": [
+    31601
+   ],
+   "pool_ids": [
+    206
+   ]
+  },
+  {
+   "id": 2,
+   "sub_quest_ids": [
+    2,
+    3
+   ],
+   "unit_ids": [
+    31651,
+    40871
+   ],
+   "pool_ids": [
+    310,
+    311
+   ]
+  },
+  {
+   "id": 3,
+   "sub_quest_ids": [
+    4
+   ],
+   "unit_ids": [
+    31801
+   ],
+   "pool_ids": [
+    207
+   ]
+  },
+  {
+   "id": 4,
+   "sub_quest_ids": [
+    5,
+    6
+   ],
+   "unit_ids": [
+    31701,
+    40516
+   ],
+   "pool_ids": [
+    312,
+    313
+   ]
+  },
+  {
+   "id": 5,
+   "sub_quest_ids": [
+    7,
+    8
+   ],
+   "unit_ids": [
+    31901,
+    31851
+   ],
+   "pool_ids": [
+    208,
+    314
+   ]
+  },
+  {
+   "id": 6,
+   "sub_quest_ids": [
+    9,
+    10
+   ],
+   "unit_ids": [
+    32001,
+    40901
+   ],
+   "pool_ids": [
+    315,
+    316
+   ]
+  },
+  {
+   "id": 7,
+   "sub_quest_ids": [
+    11
+   ],
+   "unit_ids": [
+    32101
+   ],
+   "pool_ids": [
+    209
+   ]
+  },
+  {
+   "id": 8,
+   "sub_quest_ids": [
+    12,
+    13
+   ],
+   "unit_ids": [
+    32051,
+    32301
+   ],
+   "pool_ids": [
+    501,
+    317
+   ]
+  },
+  {
+   "id": 9,
+   "sub_quest_ids": [
+    14,
+    15
+   ],
+   "unit_ids": [
+    32251,
+    32201
+   ],
+   "pool_ids": [
+    210,
+    318
+   ]
+  },
+  {
+   "id": 10,
+   "sub_quest_ids": [
+    16,
+    17
+   ],
+   "unit_ids": [
+    32351,
+    31951
+   ],
+   "pool_ids": [
+    320,
+    319
+   ]
+  },
+  {
+   "id": 11,
+   "sub_quest_ids": [
+    18
+   ],
+   "unit_ids": [
+    32451
+   ],
+   "pool_ids": [
+    211
+   ]
+  },
+  {
+   "id": 12,
+   "sub_quest_ids": [
+    19,
+    20
+   ],
+   "unit_ids": [
+    32151,
+    32401
+   ],
+   "pool_ids": [
+    502,
+    321
+   ]
+  },
+  {
+   "id": 13,
+   "sub_quest_ids": [
+    21
+   ],
+   "unit_ids": [
+    32651
+   ],
+   "pool_ids": [
+    212
+   ]
+  },
+  {
+   "id": 14,
+   "sub_quest_ids": [
+    22,
+    23
+   ],
+   "unit_ids": [
+    32551,
+    32501
+   ],
+   "pool_ids": [
+    503,
+    322
+   ]
+  },
+  {
+   "id": 15,
+   "sub_quest_ids": [
+    24
+   ],
+   "unit_ids": [
+    32601
+   ],
+   "pool_ids": [
+    213
+   ]
+  },
+  {
+   "id": 16,
+   "sub_quest_ids": [
+    25,
+    26
+   ],
+   "unit_ids": [
+    32701,
+    32751
+   ],
+   "pool_ids": [
+    214,
+    323
+   ]
+  },
+  {
+   "id": 17,
+   "sub_quest_ids": [
+    27
+   ],
+   "unit_ids": [
+    32801
+   ],
+   "pool_ids": [
+    324
+   ]
+  },
+  {
+   "id": 18,
+   "sub_quest_ids": [
+    28
+   ],
+   "unit_ids": [
+    33051
+   ],
+   "pool_ids": [
+    504
+   ]
+  },
+  {
+   "id": 19,
+   "sub_quest_ids": [
+    29
+   ],
+   "unit_ids": [
+    33101
+   ],
+   "pool_ids": [
+    216
+   ]
+  },
+  {
+   "id": 20,
+   "sub_quest_ids": [
+    30
+   ],
+   "unit_ids": [
+    33151
+   ],
+   "pool_ids": [
+    325
+   ]
+  },
+  {
+   "id": 21,
+   "sub_quest_ids": [
+    31
+   ],
+   "unit_ids": [
+    33001
+   ],
+   "pool_ids": [
+    217
+   ]
+  },
+  {
+   "id": 22,
+   "sub_quest_ids": [
+    32,
+    33
+   ],
+   "unit_ids": [
+    32851,
+    32901
+   ],
+   "pool_ids": [
+    505,
+    215
+   ]
+  }
+ ],
+ "text_chunk": null
+}

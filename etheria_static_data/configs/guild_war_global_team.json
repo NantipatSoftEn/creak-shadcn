@@ -1,0 +1,90 @@
+{
+ "config": "guild_war_global_team",
+ "fields": [
+  "id",
+  "name"
+ ],
+ "rows": [
+  {
+   "id": 1,
+   "name": "Group A",
+   "name_th": "กลุ่ม A"
+  },
+  {
+   "id": 2,
+   "name": "Group B",
+   "name_th": "กลุ่ม B"
+  },
+  {
+   "id": 3,
+   "name": "Group C",
+   "name_th": "กลุ่ม C"
+  },
+  {
+   "id": 4,
+   "name": "Group D",
+   "name_th": "กลุ่ม D"
+  },
+  {
+   "id": 5,
+   "name": "Group E",
+   "name_th": "กลุ่ม E"
+  },
+  {
+   "id": 6,
+   "name": "Group F",
+   "name_th": "กลุ่ม F"
+  },
+  {
+   "id": 7,
+   "name": "Group G",
+   "name_th": "กลุ่ม G"
+  },
+  {
+   "id": 8,
+   "name": "Group H",
+   "name_th": "กลุ่ม H"
+  },
+  {
+   "id": 9,
+   "name": "Group I",
+   "name_th": "กลุ่ม I"
+  },
+  {
+   "id": 10,
+   "name": "Group J",
+   "name_th": "กลุ่ม J"
+  },
+  {
+   "id": 11,
+   "name": "Group K",
+   "name_th": "กลุ่ม K"
+  },
+  {
+   "id": 12,
+   "name": "Group L",
+   "name_th": "กลุ่ม L"
+  },
+  {
+   "id": 13,
+   "name": "Group M",
+   "name_th": "กลุ่ม M"
+  },
+  {
+   "id": 14,
+   "name": "Group N",
+   "name_th": "กลุ่ม N"
+  },
+  {
+   "id": 15,
+   "name": "Group O",
+   "name_th": "กลุ่ม O"
+  },
+  {
+   "id": 16,
+   "name": "Group P",
+   "name_th": "กลุ่ม P"
+  }
+ ],
+ "text_chunk": "00092_12a3ab66e821da91.json"
+}

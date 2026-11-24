@@ -1,0 +1,1517 @@
+{
+ "config": "npc_info",
+ "fields": [
+  "name",
+  "spine_asset_1",
+  "spine_asset_2",
+  "bp_asset",
+  "fullbody",
+  "loc_name"
+ ],
+ "rows": {
+  "Dolores": {
+   "name": "Dolores",
+   "spine_asset_1": "WBP_Story_Spine_HomeSlot_Dolores",
+   "spine_asset_2": "WBP_Story_Spine_Story2DSlot_Dolores",
+   "bp_asset": "BP_Cst_Dolores_Const_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Dolores",
+   "loc_name": "Dorothy",
+   "loc_name_th": "Dorothy"
+  },
+  "Cachi": {
+   "name": "Cachi",
+   "spine_asset_1": "WBP_Story_Spine_HomeSlot_Cachi",
+   "spine_asset_2": "WBP_Story_Spine_Story2DSlot_Cachi",
+   "bp_asset": "BP_Cachi_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Cachi",
+   "loc_name": "Cachi",
+   "loc_name_th": "Cachi"
+  },
+  "Sybil": {
+   "name": "Sybil",
+   "spine_asset_1": "WBP_Story_Spine_HomeSlot_Sybil",
+   "spine_asset_2": "WBP_Story_Spine_Story2DSlot_Sybil",
+   "bp_asset": "BP_Cst_Sybil_Odd_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Sybil",
+   "loc_name": "Sybil",
+   "loc_name_th": "Sybil"
+  },
+  "Anchor": {
+   "name": "Anchor",
+   "spine_asset_1": "WBP_Story_Spine_HomeSlot_Anchor",
+   "spine_asset_2": "WBP_Story_Spine_Story2DSlot_Anchor",
+   "bp_asset": "T_UI_Story_Dialog_Zhuchiren",
+   "fullbody": "T_UI_Story_Dialog_Zhuchiren",
+   "loc_name": "Streamer",
+   "loc_name_th": "Streamer"
+  },
+  "M": {
+   "name": "M",
+   "spine_asset_1": "WBP_Story_Spine_HomeSlot_AgentM",
+   "spine_asset_2": "WBP_Story_Spine_Story2DSlot_AgentM",
+   "bp_asset": "BP_M_Story",
+   "fullbody": "T_UI_2DStory_Dialog_M",
+   "loc_name": "Maggie",
+   "loc_name_th": "Maggie"
+  },
+  "friday": {
+   "name": "friday",
+   "spine_asset_1": "WBP_Story_Spine_HomeSlot_Friday",
+   "spine_asset_2": "WBP_Story_Spine_Story2DSlot_Friday",
+   "bp_asset": "BP_Agt_Friday_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Friday",
+   "loc_name": "Chaku-ring",
+   "loc_name_th": "Chaku-ring"
+  },
+  "ShadowHunter": {
+   "name": "ShadowHunter",
+   "spine_asset_1": "WBP_Story_Spine_HomeSlot_ShadowHunter",
+   "spine_asset_2": "WBP_Story_Spine_Story2DSlot_ShadowHunter",
+   "bp_asset": "BP_ShadowHunter_Disor_Story",
+   "fullbody": "T_UI_2DStory_Dialog_ShadowHunter",
+   "loc_name": "Diting",
+   "loc_name_th": "Diting"
+  },
+  "Kazama": {
+   "name": "Kazama",
+   "spine_asset_1": "WBP_Story_Spine_HomeSlot_Kazama",
+   "spine_asset_2": "WBP_Story_Spine_Story2DSlot_Kazama",
+   "bp_asset": "BP_Kazami_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Kazama",
+   "loc_name": "Kazami Kazuyo",
+   "loc_name_th": "Kazami Kazuyo"
+  },
+  "Shears": {
+   "name": "Shears",
+   "spine_asset_1": "WBP_Story_Spine_HomeSlot_Chiaki",
+   "spine_asset_2": "WBP_Story_Spine_Story2DSlot_Chiaki",
+   "bp_asset": "BP_Cst_Shears_Light_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Shears",
+   "loc_name": "Chiaki",
+   "loc_name_th": "Chiaki"
+  },
+  "Yang": {
+   "name": "Yang",
+   "spine_asset_1": "WBP_Story_Spine_HomeSlot_Yang",
+   "spine_asset_2": "WBP_Story_Spine_Story2DSlot_Yang",
+   "bp_asset": "BP_Yang_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Yang",
+   "loc_name": "Yang",
+   "loc_name_th": "Yang"
+  },
+  "Rin": {
+   "name": "Rin",
+   "spine_asset_1": "WBP_Story_Spine_HomeSlot_Rin",
+   "spine_asset_2": "WBP_Story_Spine_Story2DSlot_Rin",
+   "bp_asset": "BP_Lin_Light_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Alin",
+   "loc_name": "Rin",
+   "loc_name_th": "Rin"
+  },
+  "RC77": {
+   "name": "RC77",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Cst_RC77_Odd_Story",
+   "fullbody": "T_UI_2dStory_Dialog_RC77",
+   "loc_name": "RC77",
+   "loc_name_th": "RC77"
+  },
+  "Victor": {
+   "name": "Victor",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Cst_CorpseCol_Odd_Story",
+   "fullbody": "",
+   "loc_name": "Victor",
+   "loc_name_th": "Victor"
+  },
+  "Experimenter41": {
+   "name": "Experimenter41",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Cst_Experimenter41_Story",
+   "fullbody": "T_UI_2DStory_Dialog_41",
+   "loc_name": "No. 41",
+   "loc_name_th": "No. 41"
+  },
+  "Fungus": {
+   "name": "Fungus",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Cst_Fungus_Light_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Fungus",
+   "loc_name": "Fangus",
+   "loc_name_th": "Fangus"
+  },
+  "GhostMagic": {
+   "name": "GhostMagic",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Cst_GhostMagic_Disor_Story",
+   "fullbody": "T_UI_2DStory_Dialog_GhostMagic",
+   "loc_name": "Lily",
+   "loc_name_th": "Lily"
+  },
+  "Gray": {
+   "name": "Gray",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Cst_Gray_Hollow_Story",
+   "fullbody": "",
+   "loc_name": "Asshu",
+   "loc_name_th": "Asshu"
+  },
+  "Khloros": {
+   "name": "Khloros",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Khloros_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Khloros",
+   "loc_name": "Khloros",
+   "loc_name_th": "Khloros"
+  },
+  "Kraken": {
+   "name": "Kraken",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Cst_Kraken_Hollow_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Kraken",
+   "loc_name": "Kraken",
+   "loc_name_th": "Kraken"
+  },
+  "Lian": {
+   "name": "Lian",
+   "spine_asset_1": "WBP_Story_Spine_HomeSlot_Lian",
+   "spine_asset_2": "WBP_Story_Spine_Story2DSlot_Lian",
+   "bp_asset": "BP_Cst_Lian_Light_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Lian",
+   "loc_name": "Lian",
+   "loc_name_th": "Lian"
+  },
+  "Lilith": {
+   "name": "Lilith",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Lilith_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Lilith",
+   "loc_name": "Lilith",
+   "loc_name_th": "Lilith"
+  },
+  "Messiah": {
+   "name": "Messiah",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Messiah_Const_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Messiah",
+   "loc_name": "Massiah",
+   "loc_name_th": "Massiah"
+  },
+  "Oboro": {
+   "name": "Oboro",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Cst_Oboro_Odd_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Oboro",
+   "loc_name": "Oboro",
+   "loc_name_th": "Oboro"
+  },
+  "Opal": {
+   "name": "Opal",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Opal_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Opal",
+   "loc_name": "Obol",
+   "loc_name_th": "Obol"
+  },
+  "Shanya": {
+   "name": "Shanya",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Cst_Shanya_Const_Story",
+   "fullbody": "T_UI_2DStory_Dialog_ShanyaConst",
+   "loc_name": "Sania",
+   "loc_name_th": "Sania"
+  },
+  "TimeReaper": {
+   "name": "TimeReaper",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_TimeReaper_Story",
+   "fullbody": "T_UI_2DStory_Dialog_TimeReaper",
+   "loc_name": "Heinrich",
+   "loc_name_th": "Heinrich"
+  },
+  "Turandot": {
+   "name": "Turandot",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Turandot_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Turandot",
+   "loc_name": "Turandot",
+   "loc_name_th": "Turandot"
+  },
+  "BloodDiamond": {
+   "name": "BloodDiamond",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Cst_BloodDiamond_Light_Story",
+   "fullbody": "T_UI_2DStory_Dialog_BloodDiamond",
+   "loc_name": "Dinah",
+   "loc_name_th": "Dinah"
+  },
+  "Kloss": {
+   "name": "Kloss",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Cst_Kloss_Odd_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Kloss",
+   "loc_name": "Kloss",
+   "loc_name_th": "Kloss"
+  },
+  "Xiada": {
+   "name": "Xiada",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_NineTailedFox_Odd_Story",
+   "fullbody": "T_UI_2DStory_Dialog_NineTailedFox",
+   "loc_name": "Xiada",
+   "loc_name_th": "Xiada"
+  },
+  "Tiamat": {
+   "name": "Tiamat",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Tiamat_Hollow_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Tiamat",
+   "loc_name": "Tiamat",
+   "loc_name_th": "Tiamat"
+  },
+  "player_boy": {
+   "name": "player_boy",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Scenario_ClothPlayer_Boy",
+   "fullbody": "T_UI_2DStory_Dialog_PlayerMale",
+   "loc_name": "Protagonist",
+   "loc_name_th": "พระเอก"
+  },
+  "player_girl": {
+   "name": "player_girl",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Scenario_ClothPlayer_Girl",
+   "fullbody": "T_UI_2DStory_Dialog_PlayerFemale",
+   "loc_name": "Heroine",
+   "loc_name_th": "นางเอก"
+  },
+  "Thunderbolt": {
+   "name": "Thunderbolt",
+   "spine_asset_1": "WBP_Story_Spine_HomeSlot_Lightning",
+   "spine_asset_2": "WBP_Story_Spine_Story2DSlot_Lightning",
+   "bp_asset": "BP_Thunderbolt_Hollow_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Thunderbolt",
+   "loc_name": "Gray",
+   "loc_name_th": "Gray"
+  },
+  "boyUnknow": {
+   "name": "boyUnknow",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_BoyUnknow_Hollow_Story",
+   "fullbody": "T_UI_2DStory_Dialog_boyUnknow",
+   "loc_name": "Mysterious Figure",
+   "loc_name_th": "ร่างปริศนา"
+  },
+  "Cyborg": {
+   "name": "Cyborg",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Cyborg_Disor_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Cyborg",
+   "loc_name": "Leiboz Security Personnel",
+   "loc_name_th": "เจ้าหน้าที่รักษาความปลอดภัย Leiboz"
+  },
+  "Guard": {
+   "name": "Guard",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Guard_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Guard",
+   "loc_name": "Leiboz Guard",
+   "loc_name_th": "Leiboz Guard"
+  },
+  "ExperimenterA": {
+   "name": "ExperimenterA",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Experimenter_Disor_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Experimenter",
+   "loc_name": "Leiboz Lab Personnel",
+   "loc_name_th": "เจ้าหน้าที่ห้องทดลอง Leiboz"
+  },
+  "GirlUnknow": {
+   "name": "GirlUnknow",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_GirlUnknow_Hollow_Story",
+   "fullbody": "T_UI_2DStory_Dialog_GirlUnknow",
+   "loc_name": "Mysterious Figure",
+   "loc_name_th": "ร่างปริศนา"
+  },
+  "ExperimenterB": {
+   "name": "ExperimenterB",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Experimenter_Disor_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Experimenter",
+   "loc_name": "Leiboz Lab Personnel",
+   "loc_name_th": "เจ้าหน้าที่ห้องทดลอง Leiboz"
+  },
+  "GirlUnknow2": {
+   "name": "GirlUnknow2",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_GirlUnknow_Hollow_Story",
+   "fullbody": "T_UI_2DStory_Dialog_GirlUnknow",
+   "loc_name": "Mysterious Figure",
+   "loc_name_th": "ร่างปริศนา"
+  },
+  "Beyontin": {
+   "name": "Beyontin",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Beyontin_Light_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Beyontin",
+   "loc_name": "Beyontin",
+   "loc_name_th": "Beyontin"
+  },
+  "Helkid": {
+   "name": "Helkid",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Helkid_Light_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Helkid",
+   "loc_name": "Helkid",
+   "loc_name_th": "Helkid"
+  },
+  "Guard_A": {
+   "name": "Guard_A",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Guard_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Guard",
+   "loc_name": "Guard A",
+   "loc_name_th": "Guard A"
+  },
+  "Guard_B": {
+   "name": "Guard_B",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Guard_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Guard",
+   "loc_name": "Guard B",
+   "loc_name_th": "Guard B"
+  },
+  "Shanya_Hotel": {
+   "name": "Shanya_Hotel",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Cst_Shanya_Disor_S_Story",
+   "fullbody": "T_UI_2DStory_Dialog_ShanyaDisor",
+   "loc_name": "\"Sania\"",
+   "loc_name_th": "\"Sania\""
+  },
+  "Waitress": {
+   "name": "Waitress",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Waitress_Light_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Waitress",
+   "loc_name": "Waitress",
+   "loc_name_th": "Waitress"
+  },
+  "Ally": {
+   "name": "Ally",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Waitress_Light_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Waitress",
+   "loc_name": "Ellie",
+   "loc_name_th": "Ellie"
+  },
+  "HardShield": {
+   "name": "HardShield",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Cst_HardShield_Odd_Story",
+   "fullbody": "T_UI_2DStory_Dialog_HardShield",
+   "loc_name": "Andrew",
+   "loc_name_th": "Andrew"
+  },
+  "Lingluo": {
+   "name": "Lingluo",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Cst_Lingluo_Odd_Story",
+   "fullbody": "T_UI_2DStory_Dialog_LingLuo",
+   "loc_name": "Lingluo",
+   "loc_name_th": "Lingluo"
+  },
+  "Valerian": {
+   "name": "Valerian",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Cst_Valerian_Hollow_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Valerian",
+   "loc_name": "Valerian",
+   "loc_name_th": "Valerian"
+  },
+  "BeyontinShadow": {
+   "name": "BeyontinShadow",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Beyontin_Light_Shadow_Story",
+   "fullbody": "",
+   "loc_name": "Beyontin",
+   "loc_name_th": "Beyontin"
+  },
+  "DokiDoki": {
+   "name": "DokiDoki",
+   "spine_asset_1": "",
+   "spine_asset_2": ".",
+   "bp_asset": "BP_Cst_DokiDoki_Story",
+   "fullbody": "T_UI_2DStory_Dialog_DokiBoss",
+   "loc_name": "DokiDoki",
+   "loc_name_th": "DokiDoki"
+  },
+  "DokiDoki2": {
+   "name": "DokiDoki2",
+   "spine_asset_1": "",
+   "spine_asset_2": ".",
+   "bp_asset": "BP_Cst_DokiDoki_Story",
+   "fullbody": "T_UI_2DStory_Dialog_DokiBoss",
+   "loc_name": "DokiDoki 2",
+   "loc_name_th": "DokiDoki2"
+  },
+  "DokiHero": {
+   "name": "DokiHero",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_DokiHero_Story",
+   "fullbody": "T_UI_2DStory_Dialog_DokiHero",
+   "loc_name": "DokiDoki",
+   "loc_name_th": "DokiDoki"
+  },
+  "ExperimenterUpgrade": {
+   "name": "ExperimenterUpgrade",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Cst_ExperimenterUpgrade_Hollow_Story",
+   "fullbody": "T_UI_2DStory_Dialog_ExperimenterUpgrade",
+   "loc_name": "Elite Leiboz Lab Personnel",
+   "loc_name_th": "เจ้าหน้าที่ห้องทดลองขั้นสูง Leiboz"
+  },
+  "Jugg": {
+   "name": "Jugg",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Cst_Jugg_Hollow_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Jugg",
+   "loc_name": "Tsutomu",
+   "loc_name_th": "Tsutomu"
+  },
+  "Ruho": {
+   "name": "Ruho",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Cst_Ruho_Odd_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Ruho",
+   "loc_name": "Rahu",
+   "loc_name_th": "Rahu"
+  },
+  "Thug": {
+   "name": "Thug",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Thug_Disor_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Thug",
+   "loc_name": "Bruiser",
+   "loc_name_th": "Bruiser"
+  },
+  "Waiter": {
+   "name": "Waiter",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Waiter_Light_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Waiter",
+   "loc_name": "Waiter",
+   "loc_name_th": "Waiter"
+  },
+  "Waiter_B": {
+   "name": "Waiter_B",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Waiter_Light_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Waiter",
+   "loc_name": "Waiter",
+   "loc_name_th": "Waiter"
+  },
+  "WaiterManager": {
+   "name": "WaiterManager",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Cst_WaiterManager_Light_Story",
+   "fullbody": "T_UI_2DStory_Dialog_WaiterManager",
+   "loc_name": "Service Manager",
+   "loc_name_th": "ผู้จัดการฝ่ายบริการ"
+  },
+  "Aya": {
+   "name": "Aya",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Chr_NPC_Aya_LOD0_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Aya",
+   "loc_name": "Arya",
+   "loc_name_th": "Arya"
+  },
+  "Viper": {
+   "name": "Viper",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Cst_Viper_Odd_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Viper",
+   "loc_name": "Viper",
+   "loc_name_th": "Viper"
+  },
+  "GhostMagicGhost": {
+   "name": "GhostMagicGhost",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "",
+   "fullbody": "T_UI_2DStory_Dialog_GhostMagicGhost",
+   "loc_name": "Pitu & Rabbi",
+   "loc_name_th": "Pitu & Rabbi"
+  },
+  "GhostMagicHat": {
+   "name": "GhostMagicHat",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "",
+   "fullbody": "T_UI_2DStory_Dialog_GhostMagicHat",
+   "loc_name": "Rabbi",
+   "loc_name_th": "Rabbi"
+  },
+  "GhostMagicCloak": {
+   "name": "GhostMagicCloak",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "",
+   "fullbody": "T_UI_2DStory_Dialog_GhostMagicCloak",
+   "loc_name": "Pitu",
+   "loc_name_th": "Pitu"
+  },
+  "PoliceFemale": {
+   "name": "PoliceFemale",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_NPC_PoliceFemale",
+   "fullbody": "",
+   "loc_name": "Amy",
+   "loc_name_th": "Amy"
+  },
+  "PoliceMale": {
+   "name": "PoliceMale",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_NPC_PoliceMale",
+   "fullbody": "",
+   "loc_name": "Male Police Officer",
+   "loc_name_th": "เจ้าหน้าที่ตำรวจชาย"
+  },
+  "Yeli": {
+   "name": "Yeli",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Yeli_Const_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Yeli",
+   "loc_name": "Yeli",
+   "loc_name_th": "Yeli"
+  },
+  "Marvell": {
+   "name": "Marvell",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Cst_Marvell_Const_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Marvell",
+   "loc_name": "Marvell",
+   "loc_name_th": "Marvell"
+  },
+  "Nahor": {
+   "name": "Nahor",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Cst_Nahor_Odd_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Nahor",
+   "loc_name": "Nahor",
+   "loc_name_th": "Nahor"
+  },
+  "WaiterManager_Yeli": {
+   "name": "WaiterManager_Yeli",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Cst_WaiterManager_Light_Story",
+   "fullbody": "T_UI_2DStory_Dialog_WaiterManager",
+   "loc_name": "Azbel",
+   "loc_name_th": "Azbel"
+  },
+  "NpcBoy": {
+   "name": "NpcBoy",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_NPC_Man_003_Story",
+   "fullbody": "",
+   "loc_name": "Passerby Male",
+   "loc_name_th": "ผู้ชายที่เดินผ่าน"
+  },
+  "NpcBoyB": {
+   "name": "NpcBoyB",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_NPC_Man_003_Story",
+   "fullbody": "",
+   "loc_name": "Background Male Character 2",
+   "loc_name_th": "ผู้ชายที่เดินผ่าน 2"
+  },
+  "NpcGirl": {
+   "name": "NpcGirl",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_NPC_Woman_003_Story",
+   "fullbody": "",
+   "loc_name": "Passerby Female",
+   "loc_name_th": "ผู้หญิงที่เดินผ่าน"
+  },
+  "Bastard_Odd_A": {
+   "name": "Bastard_Odd_A",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Bastard_Odd_Story",
+   "fullbody": "",
+   "loc_name": "Faltering District Bruiser",
+   "loc_name_th": "Faltering District Bruiser"
+  },
+  "Bastard_Odd_B": {
+   "name": "Bastard_Odd_B",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Bastard_Odd_Story",
+   "fullbody": "",
+   "loc_name": "Faltering District Bruiser",
+   "loc_name_th": "Faltering District Bruiser"
+  },
+  "Bastard_Odd_C": {
+   "name": "Bastard_Odd_C",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Bastard_Odd_Story",
+   "fullbody": "",
+   "loc_name": "Faltering District Bruiser",
+   "loc_name_th": "Faltering District Bruiser"
+  },
+  "Bastard_Light_A": {
+   "name": "Bastard_Light_A",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Bastard_Light_Story",
+   "fullbody": "",
+   "loc_name": "Faltering District Bruiser",
+   "loc_name_th": "Faltering District Bruiser"
+  },
+  "Bastard_Light_B": {
+   "name": "Bastard_Light_B",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Bastard_Light_Story",
+   "fullbody": "",
+   "loc_name": "Faltering District Bruiser",
+   "loc_name_th": "Faltering District Bruiser"
+  },
+  "Bastard_Light_C": {
+   "name": "Bastard_Light_C",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Bastard_Light_Story",
+   "fullbody": "",
+   "loc_name": "Faltering District Bruiser",
+   "loc_name_th": "Faltering District Bruiser"
+  },
+  "BadLuck": {
+   "name": "BadLuck",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_BadLuck_Story",
+   "fullbody": "",
+   "loc_name": "Vice",
+   "loc_name_th": "Vice"
+  },
+  "Hoyan": {
+   "name": "Hoyan",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Hoyan_Hollow_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Hoyan",
+   "loc_name": "Hoyan",
+   "loc_name_th": "Hoyan"
+  },
+  "Celince": {
+   "name": "Celince",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Cst_Celince_Hollow_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Celince",
+   "loc_name": "Celince",
+   "loc_name_th": "Celince"
+  },
+  "CyborgUpgrade": {
+   "name": "CyborgUpgrade",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Cyborg_Hollow_Story",
+   "fullbody": "T_UI_2DStory_Dialog_CyborgUpgrade",
+   "loc_name": "Elite Leiboz Security Personnel",
+   "loc_name_th": "Elite Leiboz Security Personnel"
+  },
+  "Veronika": {
+   "name": "Veronika",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Cst_Veronika_Light_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Veronika",
+   "loc_name": "Veronika",
+   "loc_name_th": "Veronika"
+  },
+  "TiamatShadow": {
+   "name": "TiamatShadow",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Tiamat_Shadow_Story",
+   "fullbody": "T_UI_2DStory_Dialog_GirlUnknow",
+   "loc_name": "\"Tiamat\"",
+   "loc_name_th": "\"Tiamat\""
+  },
+  "Experimenter_Tiamat": {
+   "name": "Experimenter_Tiamat",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Experimenter_Disor_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Experimenter",
+   "loc_name": "Leiboz Researcher",
+   "loc_name_th": "Leiboz Researcher"
+  },
+  "Rilmocha": {
+   "name": "Rilmocha",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Cst_Rilmocha_Hollow_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Rilmocha",
+   "loc_name": "Rilmocha",
+   "loc_name_th": "Rilmocha"
+  },
+  "Freya": {
+   "name": "Freya",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Freya_Hollow_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Freya",
+   "loc_name": "Freya",
+   "loc_name_th": "Freya"
+  },
+  "Holden": {
+   "name": "Holden",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Holden_Light_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Holden",
+   "loc_name": "Holden",
+   "loc_name_th": "Holden"
+  },
+  "Rose": {
+   "name": "Rose",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Cst_Rosa_Odd_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Rosa",
+   "loc_name": "Rosa",
+   "loc_name_th": "Rosa"
+  },
+  "Fuqiu": {
+   "name": "Fuqiu",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Cst_Fuqiu_Hollow_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Fuqiu",
+   "loc_name": "Fuqiu",
+   "loc_name_th": "Fuqiu"
+  },
+  "Mia": {
+   "name": "Mia",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Cst_Mia_Light_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Mia",
+   "loc_name": "Mia",
+   "loc_name_th": "Mia"
+  },
+  "TsukiyoMi": {
+   "name": "TsukiyoMi",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Cst_TsukiyoMi_Odd_Story",
+   "fullbody": "T_UI_2DStory_Dialog_TsukiyoMi",
+   "loc_name": "Tsukiyo Mi",
+   "loc_name_th": "Tsukiyo Mi"
+  },
+  "Borgne": {
+   "name": "Borgne",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Cst_Borgne_Odd_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Borgne",
+   "loc_name": "Borgne",
+   "loc_name_th": "Borgne"
+  },
+  "Lailu": {
+   "name": "Lailu",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Waitress_Light_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Waitress",
+   "loc_name": "Lailune",
+   "loc_name_th": "Lailune"
+  },
+  "Veris": {
+   "name": "Veris",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Chr_NPCMale02A_Story",
+   "fullbody": "T_UI_2DStory_Dialog_boyUnknow",
+   "loc_name": "Verris",
+   "loc_name_th": "Verris"
+  },
+  "Shake": {
+   "name": "Shake",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Cst_WaiterManager_Light_Story",
+   "fullbody": "T_UI_2DStory_Dialog_WaiterManager",
+   "loc_name": "Shaque",
+   "loc_name_th": "Shaque"
+  },
+  "Male": {
+   "name": "Male",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Chr_NPCMale02A_Story",
+   "fullbody": "T_UI_2DStory_Dialog_boyUnknow",
+   "loc_name": "Male Character",
+   "loc_name_th": "ตัวละครชาย"
+  },
+  "NpcBoyC": {
+   "name": "NpcBoyC",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Cst_WaiterManager_Light_Story",
+   "fullbody": "T_UI_2DStory_Dialog_WaiterManager",
+   "loc_name": "Alex",
+   "loc_name_th": "Alex"
+  },
+  "Mio": {
+   "name": "Mio",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Cst_Mio_Light_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Mio",
+   "loc_name": "Mio",
+   "loc_name_th": "Mio"
+  },
+  "Makoto": {
+   "name": "Makoto",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Cst_Makoto_Hollow_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Makoto",
+   "loc_name": "Mizuki Makoto",
+   "loc_name_th": "Mizuki Makoto"
+  },
+  "Ninfoniel": {
+   "name": "Ninfoniel",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Ninfoniel_Odd_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Ninfoniel",
+   "loc_name": "Ninfoniel",
+   "loc_name_th": "Ninfoniel"
+  },
+  "Rupert": {
+   "name": "Rupert",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Chr_NPCMale03_Story",
+   "fullbody": "T_UI_2DStory_Dialog_boyUnknow",
+   "loc_name": "Rupert",
+   "loc_name_th": "Rupert"
+  },
+  "Doki_Shadow": {
+   "name": "Doki_Shadow",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_DokiHero_Shadow_Story",
+   "fullbody": "T_UI_2DStory_Dialog_DokiBoss",
+   "loc_name": "DokiDoki Projection",
+   "loc_name_th": "การฉายภาพ DokiDoki"
+  },
+  "Davik": {
+   "name": "Davik",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Cst_WaiterManager_Light_Story",
+   "fullbody": "T_UI_2DStory_Dialog_WaiterManager",
+   "loc_name": "Davik",
+   "loc_name_th": "Davik"
+  },
+  "Fibona": {
+   "name": "Fibona",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_DokiHero_Armed_Shadow_Story",
+   "fullbody": "T_UI_2DStory_Dialog_GirlUnknow",
+   "loc_name": "Fibona",
+   "loc_name_th": "Fibona"
+  },
+  "Doki_Shadow_02": {
+   "name": "Doki_Shadow_02",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_DokiHero_Armed_Shadow_Story",
+   "fullbody": "",
+   "loc_name": "DokiDoki Projection",
+   "loc_name_th": "การฉายภาพ DokiDoki"
+  },
+  "Doki_Hero_Armed": {
+   "name": "Doki_Hero_Armed",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_DokiHero_Armed_Story",
+   "fullbody": "",
+   "loc_name": "DokiDoki",
+   "loc_name_th": "DokiDoki"
+  },
+  "Jeremiah_Fire": {
+   "name": "Jeremiah_Fire",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_GhostFire_Story",
+   "fullbody": "",
+   "loc_name": "Jeremi",
+   "loc_name_th": "Jeremi"
+  },
+  "Raymerry_Waitress": {
+   "name": "Raymerry_Waitress",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Waitress_Light_Large_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Waitress",
+   "loc_name": "Raymerry",
+   "loc_name_th": "Raymerry"
+  },
+  "Pyxis_A": {
+   "name": "Pyxis_A",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "",
+   "fullbody": "T_UI_2DStory_Dialog_GirlUnknow",
+   "loc_name": "Palin",
+   "loc_name_th": "Palin"
+  },
+  "PoliceMale_A": {
+   "name": "PoliceMale_A",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_NPC_PoliceMale",
+   "fullbody": "",
+   "loc_name": "Police Officer A",
+   "loc_name_th": "เจ้าหน้าที่ตำรวจ A"
+  },
+  "PoliceMale_B": {
+   "name": "PoliceMale_B",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_NPC_PoliceMale",
+   "fullbody": "",
+   "loc_name": "Police Officer B",
+   "loc_name_th": "เจ้าหน้าที่ตำรวจ B"
+  },
+  "PoliceMale_C": {
+   "name": "PoliceMale_C",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_NPC_PoliceMale",
+   "fullbody": "",
+   "loc_name": "Police Officer C",
+   "loc_name_th": "เจ้าหน้าที่ตำรวจ C"
+  },
+  "Batsby": {
+   "name": "Batsby",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "",
+   "fullbody": "T_UI_Story_Dialog_Batsby",
+   "loc_name": "Batsby",
+   "loc_name_th": "Batsby"
+  },
+  "Kirkcaldy": {
+   "name": "Kirkcaldy",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "",
+   "fullbody": "T_UI_Story_Dialog_Kirkcaldy",
+   "loc_name": "Kokardi",
+   "loc_name_th": "Kokardi"
+  },
+  "Liliam": {
+   "name": "Liliam",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "",
+   "fullbody": "T_UI_Story_Dialog_Liliam",
+   "loc_name": "Liliam",
+   "loc_name_th": "Liliam"
+  },
+  "Mari": {
+   "name": "Mari",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "",
+   "fullbody": "T_UI_Story_Dialog_Mari",
+   "loc_name": "Hizuki Mari",
+   "loc_name_th": "Hizuki Mari"
+  },
+  "Ruwoon": {
+   "name": "Ruwoon",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Ruwoon_Hollow_Story",
+   "fullbody": "T_UI_Story_Dialog_Ruwoon",
+   "loc_name": "Lowan",
+   "loc_name_th": "Lowan"
+  },
+  "SunTyke": {
+   "name": "SunTyke",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "",
+   "fullbody": "T_UI_Story_Dialog_SunTyke",
+   "loc_name": "Santik",
+   "loc_name_th": "Santik"
+  },
+  "Deloitte": {
+   "name": "Deloitte",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Chr_NPCMale03_Story",
+   "fullbody": "",
+   "loc_name": "Dyles",
+   "loc_name_th": "Dyles"
+  },
+  "Yuus": {
+   "name": "Yuus",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Thug_Disor_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Thug",
+   "loc_name": "Euwus",
+   "loc_name_th": "Euwus"
+  },
+  "Contance": {
+   "name": "Contance",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Chr_NPCMale03_Story",
+   "fullbody": "T_UI_2DStory_Dialog_boyUnknow",
+   "loc_name": "Constans",
+   "loc_name_th": "Constans"
+  },
+  "Wade": {
+   "name": "Wade",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_NPC_Man_001_Story",
+   "fullbody": "",
+   "loc_name": "Wade",
+   "loc_name_th": "Wade"
+  },
+  "Kimfana": {
+   "name": "Kimfana",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Chr_NPCMale04_Story",
+   "fullbody": "",
+   "loc_name": "Councilor Ginfarna",
+   "loc_name_th": "Councilor Ginfarna"
+  },
+  "Deloitte_Shadow": {
+   "name": "Deloitte_Shadow",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Chr_2Shadow_NPCMale02_Story",
+   "fullbody": "",
+   "loc_name": "Dyles",
+   "loc_name_th": "Dyles"
+  },
+  "DoctorFemale": {
+   "name": "DoctorFemale",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "",
+   "fullbody": "T_UI_Story_Dialog_DoctorFemale",
+   "loc_name": "Doctor (F)",
+   "loc_name_th": "แพทย์"
+  },
+  "DoctorMale": {
+   "name": "DoctorMale",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "",
+   "fullbody": "T_UI_Story_Dialog_DoctorMale",
+   "loc_name": "Doctor (M)",
+   "loc_name_th": "แพทย์"
+  },
+  "Kethos": {
+   "name": "Kethos",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "",
+   "fullbody": "T_UI_Story_Dialog_Kethos",
+   "loc_name": "Kethos",
+   "loc_name_th": "Kethos"
+  },
+  "LadyUnknow": {
+   "name": "LadyUnknow",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "",
+   "fullbody": "T_UI_Story_Dialog_LadyUnknow",
+   "loc_name": "Mysterious Lady",
+   "loc_name_th": "หญิงปริศนา"
+  },
+  "Femorian": {
+   "name": "Femorian",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Femorian_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Femorian",
+   "loc_name": "Fiamelia",
+   "loc_name_th": "Fiamelia"
+  },
+  "Chr_Xuanli_Man": {
+   "name": "Chr_Xuanli_Man",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "",
+   "fullbody": "T_UI_Story_Dialog_GentlemanUnknow",
+   "loc_name": "Man",
+   "loc_name_th": "ชาย"
+  },
+  "Chr_Xuanli_Woman": {
+   "name": "Chr_Xuanli_Woman",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "",
+   "fullbody": "T_UI_2DStory_Dialog_GirlUnknow",
+   "loc_name": "Woman",
+   "loc_name_th": "หญิง"
+  },
+  "Xuanli": {
+   "name": "Xuanli",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "",
+   "fullbody": "T_UI_2DStory_Dialog_Xuanli",
+   "loc_name": "Xuan Li",
+   "loc_name_th": "Xuan Li"
+  },
+  "FocusedUpgrade": {
+   "name": "FocusedUpgrade",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Cst_FocusedUpgrade_Story",
+   "fullbody": "T_UI_2DStory_Dialog_FocusedUpgrade",
+   "loc_name": "Elite Focus",
+   "loc_name_th": "Elite Focus"
+  },
+  "Pyxis": {
+   "name": "Pyxis",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Cst_Pyxis_Const_Story",
+   "fullbody": "T_UI_2DStory_Dialog_GirlUnknow",
+   "loc_name": "Palin",
+   "loc_name_th": "Palin"
+  },
+  "Cordon": {
+   "name": "Cordon",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Cordon_Story",
+   "fullbody": "",
+   "loc_name": "Warning Line",
+   "loc_name_th": "Cordon"
+  },
+  "Butterfly": {
+   "name": "Butterfly",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Villa_Interactive_010_Story",
+   "fullbody": "",
+   "loc_name": "Butterfly",
+   "loc_name_th": "ผีเสื้อ"
+  },
+  "Villa_Door": {
+   "name": "Villa_Door",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Villa_Door_Story",
+   "fullbody": "",
+   "loc_name": "Energy Barrier",
+   "loc_name_th": "บาเรียพลังงาน"
+  },
+  "father1": {
+   "name": "father1",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Chr_NPCMale02_Story",
+   "fullbody": "",
+   "loc_name": "Father 1",
+   "loc_name_th": "พ่อ1"
+  },
+  "daughter1": {
+   "name": "daughter1",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Cst_ShanyaShadow_Const_Story",
+   "fullbody": "",
+   "loc_name": "Daughter 1",
+   "loc_name_th": "ลูกสาว1"
+  },
+  "father2": {
+   "name": "father2",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_2D_Shadow_NPCMale02_Story",
+   "fullbody": "",
+   "loc_name": "Father 2",
+   "loc_name_th": "พ่อ2"
+  },
+  "daughter2": {
+   "name": "daughter2",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Cst_Shanya2Shadow_Const_Story",
+   "fullbody": "",
+   "loc_name": "Daughter 2",
+   "loc_name_th": "ลูกสาว2"
+  },
+  "Book": {
+   "name": "Book",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Villa_Book_Story",
+   "fullbody": "",
+   "loc_name": "Book",
+   "loc_name_th": "หนังสือ"
+  },
+  "doctor2": {
+   "name": "doctor2",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_2Shadow_Experimenter41_Story",
+   "fullbody": "",
+   "loc_name": "Doctor (F)",
+   "loc_name_th": "แพทย์"
+  },
+  "Sshanya": {
+   "name": "Sshanya",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Shanya_Const_2DBig_Story",
+   "fullbody": "",
+   "loc_name": "Pre-Main Quest Sania Transformation 1",
+   "loc_name_th": "Main Tree ก่อน Sania Transform1"
+  },
+  "Sshanya2": {
+   "name": "Sshanya2",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Shanya_Disor_2DBig_Story",
+   "fullbody": "",
+   "loc_name": "Pre-Main Quest Sania Transformation 2",
+   "loc_name_th": "Main Tree ก่อน Sania Transform2"
+  },
+  "Experimenter_Yellow": {
+   "name": "Experimenter_Yellow",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Experimenter_Disor_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Experimenter",
+   "loc_name": "Yellow Researcher",
+   "loc_name_th": "Researcher สีเหลือง"
+  },
+  "Experimenter_White": {
+   "name": "Experimenter_White",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Experimenter_Hollow_Story",
+   "fullbody": "T_UI_2DStory_Dialog_Experimenter_Hollow",
+   "loc_name": "White Researcher",
+   "loc_name_th": "Researcher สีขาว"
+  },
+  "Water_Top": {
+   "name": "Water_Top",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Sewer_Water_Top_Story",
+   "fullbody": "",
+   "loc_name": "Leiboz Conspiracy Upper Sewage",
+   "loc_name_th": "ทฤษฎีสมคบคิดของ Leiboz ท่อระบายน้ำชั้นบน"
+  },
+  "Water_Down": {
+   "name": "Water_Down",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Sewer_Water_Down_Story",
+   "fullbody": "",
+   "loc_name": "Leiboz Conspiracy Lower Sewage",
+   "loc_name_th": "ทฤษฎีสมคบคิดของ Leiboz ท่อระบายน้ำชั้นล่าง"
+  },
+  "Sewer_Switch": {
+   "name": "Sewer_Switch",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Sewer_Switch_Story",
+   "fullbody": "",
+   "loc_name": "Leiboz Conspiracy Lower Switch",
+   "loc_name_th": "ทฤษฎีสมคบคิดของ Leiboz สวิตช์ชั้นล่าง"
+  },
+  "Pipe_Top": {
+   "name": "Pipe_Top",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Sewer_Pipe_A_Story",
+   "fullbody": "",
+   "loc_name": "Leiboz Conspiracy Upper Platform",
+   "loc_name_th": "ทฤษฎีสมคบคิดของ Leiboz แพลตฟอร์มชั้นบน"
+  },
+  "Ark": {
+   "name": "Ark",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Cst_Ark_Story",
+   "fullbody": "",
+   "loc_name": "Jacques",
+   "loc_name_th": "Jacques"
+  },
+  "Photo": {
+   "name": "Photo",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Villa_Photo_Story",
+   "fullbody": "",
+   "loc_name": "Sania Photo",
+   "loc_name_th": "รูปถ่าย Sania"
+  },
+  "Butterfly_Green": {
+   "name": "Butterfly_Green",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Villa_Interactive_010_Story",
+   "fullbody": "",
+   "loc_name": "Green Butterfly",
+   "loc_name_th": "ผีเสื้อสีเขียว"
+  },
+  "Television": {
+   "name": "Television",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Villa_Television_Story",
+   "fullbody": "",
+   "loc_name": "TV",
+   "loc_name_th": "โทรทัศน์"
+  },
+  "Hotel_WaiterA": {
+   "name": "Hotel_WaiterA",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Waiter_Light_Story",
+   "fullbody": "",
+   "loc_name": "Shan Hoi Mansion Main Quest_Waiter A",
+   "loc_name_th": "Shan Hoi Mansion Main_พนักงานเสิร์ฟ A"
+  },
+  "Hotel_WaiterB": {
+   "name": "Hotel_WaiterB",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Waiter_Const_Story",
+   "fullbody": "",
+   "loc_name": "Shan Hoi Mansion Main Quest_Waiter B",
+   "loc_name_th": "Shan Hoi Mansion Main_พนักงานเสิร์ฟ B"
+  },
+  "Common_Crack": {
+   "name": "Common_Crack",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "BP_Common_Crack_Story",
+   "fullbody": "",
+   "loc_name": "Generic Rift",
+   "loc_name_th": "Common Rift"
+  },
+  "Luvia": {
+   "name": "Luvia",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "",
+   "fullbody": "T_UI_Story_Dialog_Luvia",
+   "loc_name": "Luvia",
+   "loc_name_th": "Luvia"
+  },
+  "Osar": {
+   "name": "Osar",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "",
+   "fullbody": "T_UI_Story_Dialog_Osar",
+   "loc_name": "Asal",
+   "loc_name_th": "Asal"
+  },
+  "Nagalan": {
+   "name": "Nagalan",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "",
+   "fullbody": "T_UI_Story_Dialog_Nagalan",
+   "loc_name": "Nathenn",
+   "loc_name_th": "Nathenn"
+  },
+  "Airon": {
+   "name": "Airon",
+   "spine_asset_1": "",
+   "spine_asset_2": "",
+   "bp_asset": "",
+   "fullbody": "T_UI_2DStory_Dialog_Airon",
+   "loc_name": "Airon",
+   "loc_name_th": "Aeroan"
+  }
+ },
+ "text_chunk": "00118_acc24e69ac517dd7.json"
+}

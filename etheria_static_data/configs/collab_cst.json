@@ -1,0 +1,82 @@
+{
+ "config": "collab_cst",
+ "fields": [
+  "id",
+  "skill",
+  "skill_param",
+  "cooldown",
+  "ai_ban",
+  "asset_name",
+  "skill_name",
+  "name",
+  "skill_desc"
+ ],
+ "rows": {
+  "32851": {
+   "id": 32851,
+   "skill": 1,
+   "skill_param": 3,
+   "cooldown": 2,
+   "ai_ban": false,
+   "asset_name": "Sol",
+   "skill_name": "T_SkillIcon_Sol_Light_Skill2",
+   "name": "Sol Badguy",
+   "name_th": "Sol Badguy",
+   "skill_desc": "Winning the duel this turn deals 3 additional damage",
+   "skill_desc_th": "หากชนะ Duel ในเทิร์นนี้ จะสร้าง DMG เพิ่มอีก 3"
+  },
+  "32901": {
+   "id": 32901,
+   "skill": 2,
+   "skill_param": 0,
+   "cooldown": 0,
+   "ai_ban": false,
+   "asset_name": "Dizzy",
+   "skill_name": "T_SkillIcon_Dizzy_Disor_Skill2",
+   "name": "Queen Dizzy",
+   "name_th": "Queen Dizzy",
+   "skill_desc": "When the duel is won, restores HP equal to the number of cards played by the opponent",
+   "skill_desc_th": "เมื่อชนะ Duel ฟื้นฟู HP เท่ากับจำนวนการ์ดที่ฝ่ายตรงข้ามเล่น"
+  },
+  "32951": {
+   "id": 32951,
+   "skill": 3,
+   "skill_param": 0,
+   "cooldown": 2,
+   "ai_ban": false,
+   "asset_name": "JackO",
+   "skill_name": "T_SkillIcon_JackO_Hollow_Skill1",
+   "name": "Jack-O'",
+   "name_th": "Jack-O'",
+   "skill_desc": "Ends the turn without playing a card, then generates a card of a random Affinity for the duel and gains that card",
+   "skill_desc_th": "จบเทิร์นโดยไม่เล่นการ์ด จากนั้นสร้างการ์ด Affinity แบบสุ่มสำหรับ Duel และรับการ์ดใบนั้น"
+  },
+  "31801": {
+   "id": 31801,
+   "skill": 4,
+   "skill_param": 0,
+   "cooldown": 2,
+   "ai_ban": true,
+   "asset_name": "Raymerry",
+   "skill_name": "T_SkillIcon_Raymerry_Disor_Skill2",
+   "name": "Raymerry",
+   "name_th": "Raymerry",
+   "skill_desc": "All cards played this turn are treated as having no Affinity",
+   "skill_desc_th": "การ์ดทั้งหมดที่เล่นในเทิร์นนี้จะถือว่าไม่มี Affinity"
+  },
+  "31451": {
+   "id": 31451,
+   "skill": 5,
+   "skill_param": 0,
+   "cooldown": 0,
+   "ai_ban": false,
+   "asset_name": "Borgne",
+   "skill_name": "T_SkillIcon_Borgne_Odd_Skill3",
+   "name": "Borgne",
+   "name_th": "Borgne",
+   "skill_desc": "If only 1 card(s) are played during the turn, 1 additional card of the same Affinity is counted as played",
+   "skill_desc_th": "หากเล่นการ์ดเพียง 1 ใบในเทิร์นนี้ จะนับว่าเล่นการ์ด Affinity เดียวกันเพิ่มอีก 1 ใบ"
+  }
+ },
+ "text_chunk": "00062_5d13639e621f7cd7.json"
+}

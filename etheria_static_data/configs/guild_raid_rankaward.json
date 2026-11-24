@@ -1,0 +1,213 @@
+{
+ "config": "guild_raid_rankaward",
+ "fields": [
+  "rank_id",
+  "rank_pct",
+  "award"
+ ],
+ "rows": [
+  {
+   "rank_id": [
+    1
+   ],
+   "rank_pct": 0,
+   "award": [
+    {
+     "id": 26011,
+     "count": 10
+    },
+    {
+     "id": 25101,
+     "count": 100
+    },
+    {
+     "id": 10505,
+     "count": 50
+    },
+    {
+     "id": 27165,
+     "count": 1
+    },
+    {
+     "id": 27215,
+     "count": 1
+    }
+   ]
+  },
+  {
+   "rank_id": [
+    2
+   ],
+   "rank_pct": 0,
+   "award": [
+    {
+     "id": 26011,
+     "count": 8
+    },
+    {
+     "id": 25101,
+     "count": 80
+    },
+    {
+     "id": 10505,
+     "count": 40
+    },
+    {
+     "id": 27165,
+     "count": 1
+    },
+    {
+     "id": 27215,
+     "count": 1
+    }
+   ]
+  },
+  {
+   "rank_id": [
+    3
+   ],
+   "rank_pct": 0,
+   "award": [
+    {
+     "id": 26011,
+     "count": 6
+    },
+    {
+     "id": 25101,
+     "count": 60
+    },
+    {
+     "id": 10505,
+     "count": 30
+    },
+    {
+     "id": 27165,
+     "count": 1
+    },
+    {
+     "id": 27215,
+     "count": 1
+    }
+   ]
+  },
+  {
+   "rank_id": [
+    4,
+    10
+   ],
+   "rank_pct": 0,
+   "award": [
+    {
+     "id": 26011,
+     "count": 5
+    },
+    {
+     "id": 25101,
+     "count": 50
+    },
+    {
+     "id": 10505,
+     "count": 20
+    },
+    {
+     "id": 27165,
+     "count": 1
+    },
+    {
+     "id": 27215,
+     "count": 1
+    }
+   ]
+  },
+  {
+   "rank_id": [
+    11,
+    20
+   ],
+   "rank_pct": 0,
+   "award": [
+    {
+     "id": 26011,
+     "count": 4
+    },
+    {
+     "id": 25101,
+     "count": 40
+    },
+    {
+     "id": 10505,
+     "count": 10
+    },
+    {
+     "id": 27165,
+     "count": 1
+    },
+    {
+     "id": 27215,
+     "count": 1
+    }
+   ]
+  },
+  {
+   "rank_id": [
+    0
+   ],
+   "rank_pct": 30,
+   "award": [
+    {
+     "id": 26011,
+     "count": 3
+    },
+    {
+     "id": 25101,
+     "count": 30
+    },
+    {
+     "id": 10505,
+     "count": 5
+    }
+   ]
+  },
+  {
+   "rank_id": [
+    0
+   ],
+   "rank_pct": 60,
+   "award": [
+    {
+     "id": 26011,
+     "count": 2
+    },
+    {
+     "id": 25101,
+     "count": 20
+    },
+    {
+     "id": 10505,
+     "count": 5
+    }
+   ]
+  },
+  {
+   "rank_id": [
+    0
+   ],
+   "rank_pct": 100,
+   "award": [
+    {
+     "id": 26011,
+     "count": 1
+    },
+    {
+     "id": 25101,
+     "count": 10
+    },
+    {
+     "id": 10505,
+     "count": 5
+    }
+   ]
+  }
+ ],
+ "text_chunk": null
+}

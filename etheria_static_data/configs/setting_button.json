@@ -1,0 +1,1421 @@
+{
+ "config": "setting_button",
+ "fields": [
+  "id",
+  "platform",
+  "setting_group",
+  "setting_type",
+  "bool_show_in_loginview",
+  "type",
+  "event_name",
+  "default_value",
+  "bool_check_support",
+  "bool_reload_default_value",
+  "name",
+  "button_name",
+  "switch_des"
+ ],
+ "rows": {
+  "1010501": {
+   "id": 1010501,
+   "platform": 1,
+   "setting_group": 1,
+   "setting_type": 5,
+   "bool_show_in_loginview": 0,
+   "type": "graphics_pc_movie_mode",
+   "event_name": "",
+   "default_value": 0,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "Movie",
+   "name_th": "ภาพยนตร์",
+   "switch_des": [
+    "ON",
+    "OFF"
+   ],
+   "switch_des_th": [
+    "เปิด",
+    "ปิด"
+   ]
+  },
+  "1010502": {
+   "id": 1010502,
+   "platform": 1,
+   "setting_group": 1,
+   "setting_type": 5,
+   "bool_show_in_loginview": 0,
+   "type": "graphics_aa_switch",
+   "event_name": "",
+   "default_value": 0,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "Antialiasing",
+   "name_th": "การลดรอยหยัก",
+   "switch_des": [
+    "ON",
+    "OFF"
+   ],
+   "switch_des_th": [
+    "เปิด",
+    "ปิด"
+   ]
+  },
+  "1010503": {
+   "id": 1010503,
+   "platform": 1,
+   "setting_group": 1,
+   "setting_type": 5,
+   "bool_show_in_loginview": 0,
+   "type": "graphics_depth_of_field",
+   "event_name": "",
+   "default_value": 0,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "Depth of Field",
+   "name_th": "DOF",
+   "switch_des": [
+    "ON",
+    "OFF"
+   ],
+   "switch_des_th": [
+    "เปิด",
+    "ปิด"
+   ]
+  },
+  "1020501": {
+   "id": 1020501,
+   "platform": 1,
+   "setting_group": 2,
+   "setting_type": 5,
+   "bool_show_in_loginview": 0,
+   "type": "sound_cst_detail_voice_switch",
+   "event_name": "",
+   "default_value": 1,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "Idle Voice",
+   "name_th": "เสียงว่าง",
+   "switch_des": [
+    "ON",
+    "OFF"
+   ],
+   "switch_des_th": [
+    "เปิด",
+    "ปิด"
+   ]
+  },
+  "1050401": {
+   "id": 1050401,
+   "platform": 1,
+   "setting_group": 5,
+   "setting_type": 4,
+   "bool_show_in_loginview": 0,
+   "type": "account_center",
+   "event_name": "set_click_account_center",
+   "default_value": 0,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "User Center",
+   "name_th": "ศูนย์ผู้ใช้",
+   "button_name": "Press to jump",
+   "button_name_th": "คลิกเพื่อข้าม",
+   "switch_des": [
+    "ON",
+    "OFF"
+   ],
+   "switch_des_th": [
+    "เปิด",
+    "ปิด"
+   ]
+  },
+  "1050402": {
+   "id": 1050402,
+   "platform": 1,
+   "setting_group": 5,
+   "setting_type": 4,
+   "bool_show_in_loginview": 0,
+   "type": "account_agreement",
+   "event_name": "set_click_account_agreement",
+   "default_value": 0,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "User Agreement",
+   "name_th": "ข้อตกลงในการใช้บริการ",
+   "button_name": "Press to jump",
+   "button_name_th": "คลิกเพื่อข้าม",
+   "switch_des": [
+    "ON",
+    "OFF"
+   ],
+   "switch_des_th": [
+    "เปิด",
+    "ปิด"
+   ]
+  },
+  "1050403": {
+   "id": 1050403,
+   "platform": 1,
+   "setting_group": 5,
+   "setting_type": 4,
+   "bool_show_in_loginview": 0,
+   "type": "privacy",
+   "event_name": "set_click_privacy",
+   "default_value": 0,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "Privacy Agreement",
+   "name_th": "นโยบายความเป็นส่วนตัว",
+   "button_name": "Press to jump",
+   "button_name_th": "คลิกเพื่อข้าม",
+   "switch_des": [
+    "ON",
+    "OFF"
+   ],
+   "switch_des_th": [
+    "เปิด",
+    "ปิด"
+   ]
+  },
+  "1050404": {
+   "id": 1050404,
+   "platform": 1,
+   "setting_group": 5,
+   "setting_type": 4,
+   "bool_show_in_loginview": 0,
+   "type": "icp",
+   "event_name": "set_click_icp",
+   "default_value": 0,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "App Registration Number: Shanghai ICP 11033765 No. -61A",
+   "name_th": "หมายเลขลงทะเบียนแอป: Shanghai ICP 11033765 หมายเลข -61A",
+   "button_name": "Press to check",
+   "button_name_th": "กดเพื่อตรวจสอบ",
+   "switch_des": [
+    "ON",
+    "OFF"
+   ],
+   "switch_des_th": [
+    "เปิด",
+    "ปิด"
+   ]
+  },
+  "1050405": {
+   "id": 1050405,
+   "platform": 1,
+   "setting_group": 5,
+   "setting_type": 4,
+   "bool_show_in_loginview": 0,
+   "type": "sdk_support",
+   "event_name": "set_click_support",
+   "default_value": 0,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "Customer Service",
+   "name_th": "บริการลูกค้า",
+   "button_name": "Open Customer Service",
+   "button_name_th": "เปิดบริการลูกค้า"
+  },
+  "1050406": {
+   "id": 1050406,
+   "platform": 1,
+   "setting_group": 5,
+   "setting_type": 4,
+   "bool_show_in_loginview": 0,
+   "type": "account_cancellation",
+   "event_name": "set_click_account_cancellation",
+   "default_value": 0,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "Account Deletion",
+   "name_th": "การลบบัญชี",
+   "button_name": "Account Deletion",
+   "button_name_th": "การลบบัญชี"
+  },
+  "1050407": {
+   "id": 1050407,
+   "platform": 1,
+   "setting_group": 5,
+   "setting_type": 4,
+   "bool_show_in_loginview": 0,
+   "type": "user_dashboard",
+   "event_name": "set_click_user_dashboard",
+   "default_value": 0,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "Personal Information Collection List",
+   "name_th": "รายการรวบรวมข้อมูลส่วนบุคคล",
+   "button_name": "Press to jump",
+   "button_name_th": "คลิกเพื่อข้าม"
+  },
+  "1050408": {
+   "id": 1050408,
+   "platform": 1,
+   "setting_group": 5,
+   "setting_type": 5,
+   "bool_show_in_loginview": 0,
+   "type": "other_b_forbid_post_card",
+   "event_name": "",
+   "default_value": 0,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "Private Profile",
+   "name_th": "โปรไฟล์ส่วนตัว",
+   "switch_des": [
+    "ON",
+    "OFF"
+   ],
+   "switch_des_th": [
+    "เปิด",
+    "ปิด"
+   ]
+  },
+  "1050409": {
+   "id": 1050409,
+   "platform": 1,
+   "setting_group": 5,
+   "setting_type": 5,
+   "bool_show_in_loginview": 0,
+   "type": "other_battle_unequipped_tips",
+   "event_name": "set_other_battle_unequipped_tips",
+   "default_value": 1,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "Empty Gear Slot Warning",
+   "name_th": "คำเตือนช่องอุปกรณ์ที่ว่างเปล่า",
+   "switch_des": [
+    "ON",
+    "OFF"
+   ],
+   "switch_des_th": [
+    "เปิด",
+    "ปิด"
+   ]
+  },
+  "1040503": {
+   "id": 1040503,
+   "platform": 1,
+   "setting_group": 4,
+   "setting_type": 5,
+   "bool_show_in_loginview": 0,
+   "type": "operation_b_reject_pvp",
+   "event_name": "",
+   "default_value": 0,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "Auto-Reject Challenges",
+   "name_th": "ปฏิเสธคำท้าอัตโนมัติ",
+   "switch_des": [
+    "ON",
+    "OFF"
+   ],
+   "switch_des_th": [
+    "เปิด",
+    "ปิด"
+   ]
+  },
+  "1050410": {
+   "id": 1050410,
+   "platform": 1,
+   "setting_group": 5,
+   "setting_type": 5,
+   "bool_show_in_loginview": 0,
+   "type": "other_b_bag_recycle_hide_equip",
+   "event_name": "",
+   "default_value": 0,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "Hide Equipped Items",
+   "name_th": "ซ่อนไอเทมที่สวมใส่",
+   "switch_des": [
+    "ON",
+    "OFF"
+   ],
+   "switch_des_th": [
+    "เปิด",
+    "ปิด"
+   ]
+  },
+  "1050411": {
+   "id": 1050411,
+   "platform": 1,
+   "setting_group": 5,
+   "setting_type": 5,
+   "bool_show_in_loginview": 0,
+   "type": "other_arena_hide_emote",
+   "event_name": "set_other_arena_hide_emote",
+   "default_value": 0,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "Mute Arena Realm Chat",
+   "name_th": "ปิดแชต Arena Realm",
+   "switch_des": [
+    "ON",
+    "OFF"
+   ],
+   "switch_des_th": [
+    "เปิด",
+    "ปิด"
+   ]
+  },
+  "1070501": {
+   "id": 1070501,
+   "platform": 1,
+   "setting_group": 7,
+   "setting_type": 5,
+   "bool_show_in_loginview": 0,
+   "type": "push_b_push_enable",
+   "event_name": "",
+   "default_value": 1,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 1,
+   "name": "Enable Push Notifications",
+   "name_th": "เปิดการส่งแจ้งเตือน",
+   "switch_des": [
+    "ON",
+    "OFF"
+   ],
+   "switch_des_th": [
+    "เปิด",
+    "ปิด"
+   ]
+  },
+  "1070502": {
+   "id": 1070502,
+   "platform": 1,
+   "setting_group": 7,
+   "setting_type": 5,
+   "bool_show_in_loginview": 0,
+   "type": "push_b_auto_battle_over",
+   "event_name": "",
+   "default_value": 1,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "Auto-Battle Completed",
+   "name_th": "ต่อสู้ออโต้สำเร็จ",
+   "switch_des": [
+    "ON",
+    "OFF"
+   ],
+   "switch_des_th": [
+    "เปิด",
+    "ปิด"
+   ]
+  },
+  "1070503": {
+   "id": 1070503,
+   "platform": 1,
+   "setting_group": 7,
+   "setting_type": 5,
+   "bool_show_in_loginview": 0,
+   "type": "push_b_stamina_full",
+   "event_name": "",
+   "default_value": 1,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "Stability Full",
+   "name_th": "ค่าเสถียรภาพเต็ม",
+   "switch_des": [
+    "ON",
+    "OFF"
+   ],
+   "switch_des_th": [
+    "เปิด",
+    "ปิด"
+   ]
+  },
+  "1070504": {
+   "id": 1070504,
+   "platform": 1,
+   "setting_group": 7,
+   "setting_type": 5,
+   "bool_show_in_loginview": 0,
+   "type": "push_b_daily_check_in",
+   "event_name": "",
+   "default_value": 1,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "Every Day",
+   "name_th": "เช็กอินรายวัน",
+   "switch_des": [
+    "ON",
+    "OFF"
+   ],
+   "switch_des_th": [
+    "เปิด",
+    "ปิด"
+   ]
+  },
+  "2010501": {
+   "id": 2010501,
+   "platform": 2,
+   "setting_group": 1,
+   "setting_type": 5,
+   "bool_show_in_loginview": 0,
+   "type": "graphics_pc_movie_mode",
+   "event_name": "",
+   "default_value": 0,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "Movie",
+   "name_th": "ภาพยนตร์",
+   "switch_des": [
+    "ON",
+    "OFF"
+   ],
+   "switch_des_th": [
+    "เปิด",
+    "ปิด"
+   ]
+  },
+  "2010502": {
+   "id": 2010502,
+   "platform": 2,
+   "setting_group": 1,
+   "setting_type": 5,
+   "bool_show_in_loginview": 0,
+   "type": "graphics_aa_switch",
+   "event_name": "",
+   "default_value": 0,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "Antialiasing",
+   "name_th": "การลดรอยหยัก",
+   "switch_des": [
+    "ON",
+    "OFF"
+   ],
+   "switch_des_th": [
+    "เปิด",
+    "ปิด"
+   ]
+  },
+  "2010503": {
+   "id": 2010503,
+   "platform": 2,
+   "setting_group": 1,
+   "setting_type": 5,
+   "bool_show_in_loginview": 0,
+   "type": "graphics_depth_of_field",
+   "event_name": "",
+   "default_value": 0,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "Depth of Field",
+   "name_th": "DOF",
+   "switch_des": [
+    "ON",
+    "OFF"
+   ],
+   "switch_des_th": [
+    "เปิด",
+    "ปิด"
+   ]
+  },
+  "2010504": {
+   "id": 2010504,
+   "platform": 2,
+   "setting_group": 1,
+   "setting_type": 5,
+   "bool_show_in_loginview": 0,
+   "type": "graphics_android_vrs",
+   "event_name": "",
+   "default_value": 0,
+   "bool_check_support": 1,
+   "bool_reload_default_value": 0,
+   "name": "vrs",
+   "name_th": "vrs",
+   "switch_des": [
+    "ON",
+    "OFF"
+   ],
+   "switch_des_th": [
+    "เปิด",
+    "ปิด"
+   ]
+  },
+  "2020501": {
+   "id": 2020501,
+   "platform": 2,
+   "setting_group": 2,
+   "setting_type": 5,
+   "bool_show_in_loginview": 0,
+   "type": "sound_cst_detail_voice_switch",
+   "event_name": "",
+   "default_value": 1,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "Idle Voice",
+   "name_th": "เสียงว่าง",
+   "switch_des": [
+    "ON",
+    "OFF"
+   ],
+   "switch_des_th": [
+    "เปิด",
+    "ปิด"
+   ]
+  },
+  "2050401": {
+   "id": 2050401,
+   "platform": 2,
+   "setting_group": 5,
+   "setting_type": 4,
+   "bool_show_in_loginview": 0,
+   "type": "account_center",
+   "event_name": "set_click_account_center",
+   "default_value": 0,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "User Center",
+   "name_th": "ศูนย์ผู้ใช้",
+   "button_name": "Press to jump",
+   "button_name_th": "คลิกเพื่อข้าม",
+   "switch_des": [
+    "ON",
+    "OFF"
+   ],
+   "switch_des_th": [
+    "เปิด",
+    "ปิด"
+   ]
+  },
+  "2050402": {
+   "id": 2050402,
+   "platform": 2,
+   "setting_group": 5,
+   "setting_type": 4,
+   "bool_show_in_loginview": 0,
+   "type": "account_agreement",
+   "event_name": "set_click_account_agreement",
+   "default_value": 0,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "User Agreement",
+   "name_th": "ข้อตกลงในการใช้บริการ",
+   "button_name": "Press to jump",
+   "button_name_th": "คลิกเพื่อข้าม",
+   "switch_des": [
+    "ON",
+    "OFF"
+   ],
+   "switch_des_th": [
+    "เปิด",
+    "ปิด"
+   ]
+  },
+  "2050403": {
+   "id": 2050403,
+   "platform": 2,
+   "setting_group": 5,
+   "setting_type": 4,
+   "bool_show_in_loginview": 0,
+   "type": "privacy",
+   "event_name": "set_click_privacy",
+   "default_value": 0,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "Privacy Agreement",
+   "name_th": "นโยบายความเป็นส่วนตัว",
+   "button_name": "Press to jump",
+   "button_name_th": "คลิกเพื่อข้าม",
+   "switch_des": [
+    "ON",
+    "OFF"
+   ],
+   "switch_des_th": [
+    "เปิด",
+    "ปิด"
+   ]
+  },
+  "2050404": {
+   "id": 2050404,
+   "platform": 2,
+   "setting_group": 5,
+   "setting_type": 4,
+   "bool_show_in_loginview": 0,
+   "type": "icp",
+   "event_name": "set_click_icp",
+   "default_value": 0,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "App Registration Number: Shanghai ICP 11033765 No. -61A",
+   "name_th": "หมายเลขลงทะเบียนแอป: Shanghai ICP 11033765 หมายเลข -61A",
+   "button_name": "Press to check",
+   "button_name_th": "กดเพื่อตรวจสอบ",
+   "switch_des": [
+    "ON",
+    "OFF"
+   ],
+   "switch_des_th": [
+    "เปิด",
+    "ปิด"
+   ]
+  },
+  "2050405": {
+   "id": 2050405,
+   "platform": 2,
+   "setting_group": 5,
+   "setting_type": 4,
+   "bool_show_in_loginview": 0,
+   "type": "sdk_support",
+   "event_name": "set_click_support",
+   "default_value": 0,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "Customer Service",
+   "name_th": "บริการลูกค้า",
+   "button_name": "Open Customer Service",
+   "button_name_th": "เปิดบริการลูกค้า"
+  },
+  "2050406": {
+   "id": 2050406,
+   "platform": 2,
+   "setting_group": 5,
+   "setting_type": 4,
+   "bool_show_in_loginview": 0,
+   "type": "account_cancellation",
+   "event_name": "set_click_account_cancellation",
+   "default_value": 0,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "Account Deletion",
+   "name_th": "การลบบัญชี",
+   "button_name": "Account Deletion",
+   "button_name_th": "การลบบัญชี"
+  },
+  "2050407": {
+   "id": 2050407,
+   "platform": 2,
+   "setting_group": 5,
+   "setting_type": 4,
+   "bool_show_in_loginview": 0,
+   "type": "user_dashboard",
+   "event_name": "set_click_user_dashboard",
+   "default_value": 0,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "Personal Information Collection List",
+   "name_th": "รายการรวบรวมข้อมูลส่วนบุคคล",
+   "button_name": "Press to jump",
+   "button_name_th": "คลิกเพื่อข้าม"
+  },
+  "2050408": {
+   "id": 2050408,
+   "platform": 2,
+   "setting_group": 5,
+   "setting_type": 5,
+   "bool_show_in_loginview": 0,
+   "type": "other_b_forbid_post_card",
+   "event_name": "",
+   "default_value": 0,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "Private Profile",
+   "name_th": "โปรไฟล์ส่วนตัว",
+   "switch_des": [
+    "ON",
+    "OFF"
+   ],
+   "switch_des_th": [
+    "เปิด",
+    "ปิด"
+   ]
+  },
+  "2050409": {
+   "id": 2050409,
+   "platform": 2,
+   "setting_group": 5,
+   "setting_type": 5,
+   "bool_show_in_loginview": 0,
+   "type": "other_battle_unequipped_tips",
+   "event_name": "set_other_battle_unequipped_tips",
+   "default_value": 1,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "Empty Gear Slot Warning",
+   "name_th": "คำเตือนช่องอุปกรณ์ที่ว่างเปล่า",
+   "switch_des": [
+    "ON",
+    "OFF"
+   ],
+   "switch_des_th": [
+    "เปิด",
+    "ปิด"
+   ]
+  },
+  "2040503": {
+   "id": 2040503,
+   "platform": 2,
+   "setting_group": 4,
+   "setting_type": 5,
+   "bool_show_in_loginview": 0,
+   "type": "operation_b_reject_pvp",
+   "event_name": "",
+   "default_value": 0,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "Auto-Reject Challenges",
+   "name_th": "ปฏิเสธคำท้าอัตโนมัติ",
+   "switch_des": [
+    "ON",
+    "OFF"
+   ],
+   "switch_des_th": [
+    "เปิด",
+    "ปิด"
+   ]
+  },
+  "2070501": {
+   "id": 2070501,
+   "platform": 2,
+   "setting_group": 7,
+   "setting_type": 5,
+   "bool_show_in_loginview": 0,
+   "type": "push_b_push_enable",
+   "event_name": "",
+   "default_value": 1,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 1,
+   "name": "Enable Push Notifications",
+   "name_th": "เปิดการส่งแจ้งเตือน",
+   "switch_des": [
+    "ON",
+    "OFF"
+   ],
+   "switch_des_th": [
+    "เปิด",
+    "ปิด"
+   ]
+  },
+  "2070502": {
+   "id": 2070502,
+   "platform": 2,
+   "setting_group": 7,
+   "setting_type": 5,
+   "bool_show_in_loginview": 0,
+   "type": "push_b_auto_battle_over",
+   "event_name": "",
+   "default_value": 1,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "Auto-Battle Completed",
+   "name_th": "ต่อสู้ออโต้สำเร็จ",
+   "switch_des": [
+    "ON",
+    "OFF"
+   ],
+   "switch_des_th": [
+    "เปิด",
+    "ปิด"
+   ]
+  },
+  "2070503": {
+   "id": 2070503,
+   "platform": 2,
+   "setting_group": 7,
+   "setting_type": 5,
+   "bool_show_in_loginview": 0,
+   "type": "push_b_stamina_full",
+   "event_name": "",
+   "default_value": 1,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "Stability Full",
+   "name_th": "ค่าเสถียรภาพเต็ม",
+   "switch_des": [
+    "ON",
+    "OFF"
+   ],
+   "switch_des_th": [
+    "เปิด",
+    "ปิด"
+   ]
+  },
+  "2070504": {
+   "id": 2070504,
+   "platform": 2,
+   "setting_group": 7,
+   "setting_type": 5,
+   "bool_show_in_loginview": 0,
+   "type": "push_b_daily_check_in",
+   "event_name": "",
+   "default_value": 1,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "Every Day",
+   "name_th": "เช็กอินรายวัน",
+   "switch_des": [
+    "ON",
+    "OFF"
+   ],
+   "switch_des_th": [
+    "เปิด",
+    "ปิด"
+   ]
+  },
+  "2050410": {
+   "id": 2050410,
+   "platform": 2,
+   "setting_group": 5,
+   "setting_type": 5,
+   "bool_show_in_loginview": 0,
+   "type": "other_b_bag_recycle_hide_equip",
+   "event_name": "",
+   "default_value": 0,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "Hide Equipped Items",
+   "name_th": "ซ่อนไอเทมที่สวมใส่",
+   "switch_des": [
+    "ON",
+    "OFF"
+   ],
+   "switch_des_th": [
+    "เปิด",
+    "ปิด"
+   ]
+  },
+  "2050411": {
+   "id": 2050411,
+   "platform": 2,
+   "setting_group": 5,
+   "setting_type": 5,
+   "bool_show_in_loginview": 0,
+   "type": "other_arena_hide_emote",
+   "event_name": "set_other_arena_hide_emote",
+   "default_value": 0,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "Mute Arena Realm Chat",
+   "name_th": "ปิดแชต Arena Realm",
+   "switch_des": [
+    "ON",
+    "OFF"
+   ],
+   "switch_des_th": [
+    "เปิด",
+    "ปิด"
+   ]
+  },
+  "3010501": {
+   "id": 3010501,
+   "platform": 3,
+   "setting_group": 1,
+   "setting_type": 5,
+   "bool_show_in_loginview": 0,
+   "type": "graphics_pc_movie_mode",
+   "event_name": "",
+   "default_value": 1,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "Movie",
+   "name_th": "ภาพยนตร์",
+   "switch_des": [
+    "ON",
+    "OFF"
+   ],
+   "switch_des_th": [
+    "เปิด",
+    "ปิด"
+   ]
+  },
+  "3010502": {
+   "id": 3010502,
+   "platform": 3,
+   "setting_group": 1,
+   "setting_type": 5,
+   "bool_show_in_loginview": 0,
+   "type": "graphics_aa_switch",
+   "event_name": "",
+   "default_value": 0,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "Antialiasing Toggle",
+   "name_th": "เปิด/ปิดการลดรอยหยัก",
+   "switch_des": [
+    "ON",
+    "OFF"
+   ],
+   "switch_des_th": [
+    "เปิด",
+    "ปิด"
+   ]
+  },
+  "3010503": {
+   "id": 3010503,
+   "platform": 3,
+   "setting_group": 1,
+   "setting_type": 5,
+   "bool_show_in_loginview": 0,
+   "type": "graphics_depth_of_field",
+   "event_name": "",
+   "default_value": 0,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "Depth of Field",
+   "name_th": "DOF",
+   "switch_des": [
+    "ON",
+    "OFF"
+   ],
+   "switch_des_th": [
+    "เปิด",
+    "ปิด"
+   ]
+  },
+  "3010504": {
+   "id": 3010504,
+   "platform": 3,
+   "setting_group": 1,
+   "setting_type": 5,
+   "bool_show_in_loginview": 0,
+   "type": "graphics_pc_vsync",
+   "event_name": "",
+   "default_value": 0,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "V-Sync",
+   "name_th": "V-Sync",
+   "switch_des": [
+    "ON",
+    "OFF"
+   ],
+   "switch_des_th": [
+    "เปิด",
+    "ปิด"
+   ]
+  },
+  "3020501": {
+   "id": 3020501,
+   "platform": 3,
+   "setting_group": 2,
+   "setting_type": 5,
+   "bool_show_in_loginview": 0,
+   "type": "sound_cst_detail_voice_switch",
+   "event_name": "",
+   "default_value": 1,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "Idle Voice",
+   "name_th": "เสียงว่าง",
+   "switch_des": [
+    "ON",
+    "OFF"
+   ],
+   "switch_des_th": [
+    "เปิด",
+    "ปิด"
+   ]
+  },
+  "3040501": {
+   "id": 3040501,
+   "platform": 3,
+   "setting_group": 4,
+   "setting_type": 5,
+   "bool_show_in_loginview": 0,
+   "type": "operation_x_invert",
+   "event_name": "",
+   "default_value": 0,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "Invert X-Axis",
+   "name_th": "กลับด้านแกน X",
+   "switch_des": [
+    "ON",
+    "OFF"
+   ],
+   "switch_des_th": [
+    "เปิด",
+    "ปิด"
+   ]
+  },
+  "3040502": {
+   "id": 3040502,
+   "platform": 3,
+   "setting_group": 4,
+   "setting_type": 5,
+   "bool_show_in_loginview": 0,
+   "type": "operation_y_invert",
+   "event_name": "",
+   "default_value": 0,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "Invert Y-Axis",
+   "name_th": "กลับด้านแกน Y",
+   "switch_des": [
+    "ON",
+    "OFF"
+   ],
+   "switch_des_th": [
+    "เปิด",
+    "ปิด"
+   ]
+  },
+  "3040503": {
+   "id": 3040503,
+   "platform": 3,
+   "setting_group": 4,
+   "setting_type": 5,
+   "bool_show_in_loginview": 0,
+   "type": "operation_b_reject_pvp",
+   "event_name": "",
+   "default_value": 0,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "Auto-Reject Challenges",
+   "name_th": "ปฏิเสธคำท้าอัตโนมัติ",
+   "switch_des": [
+    "ON",
+    "OFF"
+   ],
+   "switch_des_th": [
+    "เปิด",
+    "ปิด"
+   ]
+  },
+  "3040504": {
+   "id": 3040504,
+   "platform": 3,
+   "setting_group": 4,
+   "setting_type": 5,
+   "bool_show_in_loginview": 0,
+   "type": "operation_b_mouse_hover_tip",
+   "event_name": "",
+   "default_value": 1,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "Mouse Hover",
+   "name_th": "ฟังก์ชันเมาส์โฮเวอร์",
+   "switch_des": [
+    "ON",
+    "OFF"
+   ],
+   "switch_des_th": [
+    "เปิด",
+    "ปิด"
+   ]
+  },
+  "3050401": {
+   "id": 3050401,
+   "platform": 3,
+   "setting_group": 5,
+   "setting_type": 4,
+   "bool_show_in_loginview": 0,
+   "type": "account_center",
+   "event_name": "set_click_account_center",
+   "default_value": 0,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "User Center",
+   "name_th": "ศูนย์ผู้ใช้",
+   "button_name": "Press to jump",
+   "button_name_th": "คลิกเพื่อข้าม",
+   "switch_des": [
+    "ON",
+    "OFF"
+   ],
+   "switch_des_th": [
+    "เปิด",
+    "ปิด"
+   ]
+  },
+  "3050402": {
+   "id": 3050402,
+   "platform": 3,
+   "setting_group": 5,
+   "setting_type": 4,
+   "bool_show_in_loginview": 0,
+   "type": "account_agreement",
+   "event_name": "set_click_account_agreement",
+   "default_value": 0,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "User Agreement",
+   "name_th": "ข้อตกลงในการใช้บริการ",
+   "button_name": "Press to jump",
+   "button_name_th": "คลิกเพื่อข้าม",
+   "switch_des": [
+    "ON",
+    "OFF"
+   ],
+   "switch_des_th": [
+    "เปิด",
+    "ปิด"
+   ]
+  },
+  "3050403": {
+   "id": 3050403,
+   "platform": 3,
+   "setting_group": 5,
+   "setting_type": 4,
+   "bool_show_in_loginview": 0,
+   "type": "privacy",
+   "event_name": "set_click_privacy",
+   "default_value": 0,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "Privacy Agreement",
+   "name_th": "นโยบายความเป็นส่วนตัว",
+   "button_name": "Press to jump",
+   "button_name_th": "คลิกเพื่อข้าม",
+   "switch_des": [
+    "ON",
+    "OFF"
+   ],
+   "switch_des_th": [
+    "เปิด",
+    "ปิด"
+   ]
+  },
+  "3050404": {
+   "id": 3050404,
+   "platform": 3,
+   "setting_group": 5,
+   "setting_type": 4,
+   "bool_show_in_loginview": 0,
+   "type": "icp",
+   "event_name": "set_click_icp",
+   "default_value": 0,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "App Registration Number: Shanghai ICP 11033765 No. -61A",
+   "name_th": "หมายเลขลงทะเบียนแอป: Shanghai ICP 11033765 หมายเลข -61A",
+   "button_name": "Press to check",
+   "button_name_th": "กดเพื่อตรวจสอบ",
+   "switch_des": [
+    "ON",
+    "OFF"
+   ],
+   "switch_des_th": [
+    "เปิด",
+    "ปิด"
+   ]
+  },
+  "3050405": {
+   "id": 3050405,
+   "platform": 3,
+   "setting_group": 5,
+   "setting_type": 4,
+   "bool_show_in_loginview": 0,
+   "type": "sdk_support",
+   "event_name": "set_click_support",
+   "default_value": 0,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "Customer Service",
+   "name_th": "บริการลูกค้า",
+   "button_name": "Open Customer Service",
+   "button_name_th": "เปิดบริการลูกค้า"
+  },
+  "3050406": {
+   "id": 3050406,
+   "platform": 3,
+   "setting_group": 5,
+   "setting_type": 4,
+   "bool_show_in_loginview": 0,
+   "type": "account_cancellation",
+   "event_name": "set_click_account_cancellation",
+   "default_value": 0,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "Account Deletion",
+   "name_th": "การลบบัญชี",
+   "button_name": "Account Deletion",
+   "button_name_th": "การลบบัญชี"
+  },
+  "3050407": {
+   "id": 3050407,
+   "platform": 3,
+   "setting_group": 5,
+   "setting_type": 4,
+   "bool_show_in_loginview": 0,
+   "type": "user_dashboard",
+   "event_name": "set_click_user_dashboard",
+   "default_value": 0,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "Personal Information Collection List",
+   "name_th": "รายการรวบรวมข้อมูลส่วนบุคคล",
+   "button_name": "Press to jump",
+   "button_name_th": "คลิกเพื่อข้าม"
+  },
+  "3050408": {
+   "id": 3050408,
+   "platform": 3,
+   "setting_group": 5,
+   "setting_type": 5,
+   "bool_show_in_loginview": 0,
+   "type": "other_b_forbid_post_card",
+   "event_name": "",
+   "default_value": 0,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "Private Profile",
+   "name_th": "โปรไฟล์ส่วนตัว",
+   "switch_des": [
+    "ON",
+    "OFF"
+   ],
+   "switch_des_th": [
+    "เปิด",
+    "ปิด"
+   ]
+  },
+  "3050409": {
+   "id": 3050409,
+   "platform": 3,
+   "setting_group": 5,
+   "setting_type": 5,
+   "bool_show_in_loginview": 0,
+   "type": "other_battle_unequipped_tips",
+   "event_name": "set_other_battle_unequipped_tips",
+   "default_value": 1,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "Empty Gear Slot Warning",
+   "name_th": "คำเตือนช่องอุปกรณ์ที่ว่างเปล่า",
+   "switch_des": [
+    "ON",
+    "OFF"
+   ],
+   "switch_des_th": [
+    "เปิด",
+    "ปิด"
+   ]
+  },
+  "3070501": {
+   "id": 3070501,
+   "platform": 3,
+   "setting_group": 7,
+   "setting_type": 5,
+   "bool_show_in_loginview": 0,
+   "type": "push_b_push_enable",
+   "event_name": "",
+   "default_value": 1,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 1,
+   "name": "Enable Push Notifications",
+   "name_th": "เปิดการส่งแจ้งเตือน",
+   "switch_des": [
+    "ON",
+    "OFF"
+   ],
+   "switch_des_th": [
+    "เปิด",
+    "ปิด"
+   ]
+  },
+  "3070502": {
+   "id": 3070502,
+   "platform": 3,
+   "setting_group": 7,
+   "setting_type": 5,
+   "bool_show_in_loginview": 0,
+   "type": "push_b_auto_battle_over",
+   "event_name": "",
+   "default_value": 1,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "Auto-Battle Completed",
+   "name_th": "ต่อสู้ออโต้สำเร็จ",
+   "switch_des": [
+    "ON",
+    "OFF"
+   ],
+   "switch_des_th": [
+    "เปิด",
+    "ปิด"
+   ]
+  },
+  "3070503": {
+   "id": 3070503,
+   "platform": 3,
+   "setting_group": 7,
+   "setting_type": 5,
+   "bool_show_in_loginview": 0,
+   "type": "push_b_stamina_full",
+   "event_name": "",
+   "default_value": 1,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "Stability Full",
+   "name_th": "ค่าเสถียรภาพเต็ม",
+   "switch_des": [
+    "ON",
+    "OFF"
+   ],
+   "switch_des_th": [
+    "เปิด",
+    "ปิด"
+   ]
+  },
+  "3070504": {
+   "id": 3070504,
+   "platform": 3,
+   "setting_group": 7,
+   "setting_type": 5,
+   "bool_show_in_loginview": 0,
+   "type": "push_b_daily_check_in",
+   "event_name": "",
+   "default_value": 1,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "Every Day",
+   "name_th": "เช็กอินรายวัน",
+   "switch_des": [
+    "ON",
+    "OFF"
+   ],
+   "switch_des_th": [
+    "เปิด",
+    "ปิด"
+   ]
+  },
+  "3050410": {
+   "id": 3050410,
+   "platform": 3,
+   "setting_group": 5,
+   "setting_type": 5,
+   "bool_show_in_loginview": 0,
+   "type": "other_b_bag_recycle_hide_equip",
+   "event_name": "",
+   "default_value": 0,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "Hide Equipped Items",
+   "name_th": "ซ่อนไอเทมที่สวมใส่",
+   "switch_des": [
+    "ON",
+    "OFF"
+   ],
+   "switch_des_th": [
+    "เปิด",
+    "ปิด"
+   ]
+  },
+  "3050411": {
+   "id": 3050411,
+   "platform": 3,
+   "setting_group": 5,
+   "setting_type": 5,
+   "bool_show_in_loginview": 0,
+   "type": "other_arena_hide_emote",
+   "event_name": "set_other_arena_hide_emote",
+   "default_value": 0,
+   "bool_check_support": 0,
+   "bool_reload_default_value": 0,
+   "name": "Mute Arena Realm Chat",
+   "name_th": "ปิดแชต Arena Realm",
+   "switch_des": [
+    "ON",
+    "OFF"
+   ],
+   "switch_des_th": [
+    "เปิด",
+    "ปิด"
+   ]
+  }
+ },
+ "text_chunk": "00138_50f3e482972841c4.json"
+}

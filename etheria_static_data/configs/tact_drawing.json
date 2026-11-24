@@ -1,0 +1,458 @@
+{
+ "config": "tact_drawing",
+ "fields": [
+  "id",
+  "quality",
+  "com_id_list",
+  "unlock_lv",
+  "name",
+  "desc"
+ ],
+ "rows": {
+  "10621": {
+   "id": 10621,
+   "quality": 1,
+   "com_id_list": [
+    11001
+   ],
+   "unlock_lv": 1,
+   "name": "Offensive Component C",
+   "name_th": "Offensive Component ระดับ C",
+   "desc": "Offensive Component C",
+   "desc_th": "Offensive Component ระดับ C"
+  },
+  "10622": {
+   "id": 10622,
+   "quality": 1,
+   "com_id_list": [
+    11002
+   ],
+   "unlock_lv": 1,
+   "name": "Defensive Component C",
+   "name_th": "Defensive Component ระดับ C",
+   "desc": "Defensive Component C",
+   "desc_th": "Defensive Component ระดับ C"
+  },
+  "10623": {
+   "id": 10623,
+   "quality": 1,
+   "com_id_list": [
+    11003
+   ],
+   "unlock_lv": 1,
+   "name": "Vitality Component C",
+   "name_th": "Vitality Component ระดับ C",
+   "desc": "Vitality Component C",
+   "desc_th": "Vitality Component ระดับ C"
+  },
+  "10624": {
+   "id": 10624,
+   "quality": 1,
+   "com_id_list": [
+    11004
+   ],
+   "unlock_lv": 1,
+   "name": "Velocity Component C",
+   "name_th": "Velocity Component ระดับ C",
+   "desc": "Velocity Component C",
+   "desc_th": "Velocity Component ระดับ C"
+  },
+  "10625": {
+   "id": 10625,
+   "quality": 2,
+   "com_id_list": [
+    11005
+   ],
+   "unlock_lv": 3,
+   "name": "Offensive Component B",
+   "name_th": "Offensive Component ระดับ B",
+   "desc": "Offensive Component B",
+   "desc_th": "Offensive Component ระดับ B"
+  },
+  "10626": {
+   "id": 10626,
+   "quality": 2,
+   "com_id_list": [
+    11006
+   ],
+   "unlock_lv": 3,
+   "name": "Defensive Component B",
+   "name_th": "Defensive Component ระดับ B",
+   "desc": "Defensive Component B",
+   "desc_th": "Defensive Component ระดับ B"
+  },
+  "10627": {
+   "id": 10627,
+   "quality": 2,
+   "com_id_list": [
+    11007
+   ],
+   "unlock_lv": 3,
+   "name": "Vitality Component B",
+   "name_th": "Vitality Component ระดับ B",
+   "desc": "Vitality Component B",
+   "desc_th": "Vitality Component ระดับ B"
+  },
+  "10628": {
+   "id": 10628,
+   "quality": 2,
+   "com_id_list": [
+    11008
+   ],
+   "unlock_lv": 3,
+   "name": "Velocity Component B",
+   "name_th": "Velocity Component ระดับ B",
+   "desc": "Velocity Component B",
+   "desc_th": "Velocity Component ระดับ B"
+  },
+  "10629": {
+   "id": 10629,
+   "quality": 3,
+   "com_id_list": [
+    11009,
+    11013
+   ],
+   "unlock_lv": 5,
+   "name": "Offensive Component A",
+   "name_th": "Offensive Component ระดับ A",
+   "desc": "Offensive Component A",
+   "desc_th": "Offensive Component ระดับ A"
+  },
+  "10630": {
+   "id": 10630,
+   "quality": 3,
+   "com_id_list": [
+    11010,
+    11014
+   ],
+   "unlock_lv": 5,
+   "name": "Defensive Component A",
+   "name_th": "Defensive Component ระดับ A",
+   "desc": "Defensive Component A",
+   "desc_th": "Defensive Component ระดับ A"
+  },
+  "10631": {
+   "id": 10631,
+   "quality": 3,
+   "com_id_list": [
+    11011,
+    11015
+   ],
+   "unlock_lv": 5,
+   "name": "Vitality Component A",
+   "name_th": "Vitality Component ระดับ A",
+   "desc": "Vitality Component A",
+   "desc_th": "Vitality Component ระดับ A"
+  },
+  "10632": {
+   "id": 10632,
+   "quality": 3,
+   "com_id_list": [
+    11012,
+    11016
+   ],
+   "unlock_lv": 5,
+   "name": "Velocity Component A",
+   "name_th": "Velocity Component ระดับ A",
+   "desc": "Velocity Component A",
+   "desc_th": "Velocity Component ระดับ A"
+  },
+  "10633": {
+   "id": 10633,
+   "quality": 4,
+   "com_id_list": [
+    11017,
+    11021
+   ],
+   "unlock_lv": 7,
+   "name": "Offensive Component S",
+   "name_th": "Offensive Component ระดับ S",
+   "desc": "Offensive Component S",
+   "desc_th": "Offensive Component ระดับ S"
+  },
+  "10634": {
+   "id": 10634,
+   "quality": 4,
+   "com_id_list": [
+    11018,
+    11022
+   ],
+   "unlock_lv": 7,
+   "name": "Defensive Component S",
+   "name_th": "Defensive Component ระดับ S",
+   "desc": "Defensive Component S",
+   "desc_th": "Defensive Component ระดับ S"
+  },
+  "10635": {
+   "id": 10635,
+   "quality": 4,
+   "com_id_list": [
+    11019,
+    11023
+   ],
+   "unlock_lv": 7,
+   "name": "Vitality Component S",
+   "name_th": "Vitality Component ระดับ S",
+   "desc": "Vitality Component S",
+   "desc_th": "Vitality Component ระดับ S"
+  },
+  "10636": {
+   "id": 10636,
+   "quality": 4,
+   "com_id_list": [
+    11020,
+    11024
+   ],
+   "unlock_lv": 7,
+   "name": "Velocity Component S",
+   "name_th": "Velocity Component ระดับ S",
+   "desc": "Velocity Component S",
+   "desc_th": "Velocity Component ระดับ S"
+  },
+  "10637": {
+   "id": 10637,
+   "quality": 4,
+   "com_id_list": [
+    11025,
+    11029
+   ],
+   "unlock_lv": 9,
+   "name": "Offensive Component SS",
+   "name_th": "Offensive Component ระดับ SS",
+   "desc": "Offensive Component SS",
+   "desc_th": "Offensive Component ระดับ SS"
+  },
+  "10638": {
+   "id": 10638,
+   "quality": 4,
+   "com_id_list": [
+    11026,
+    11030
+   ],
+   "unlock_lv": 9,
+   "name": "Defensive Component SS",
+   "name_th": "Defensive Component ระดับ SS",
+   "desc": "Defensive Component SS",
+   "desc_th": "Defensive Component ระดับ SS"
+  },
+  "10639": {
+   "id": 10639,
+   "quality": 4,
+   "com_id_list": [
+    11027,
+    11031
+   ],
+   "unlock_lv": 9,
+   "name": "Vitality Component SS",
+   "name_th": "Vitality Component ระดับ SS",
+   "desc": "Vitality Component SS",
+   "desc_th": "Vitality Component ระดับ SS"
+  },
+  "10640": {
+   "id": 10640,
+   "quality": 4,
+   "com_id_list": [
+    11028,
+    11032
+   ],
+   "unlock_lv": 9,
+   "name": "Velocity Component SS",
+   "name_th": "Velocity Component ระดับ SS",
+   "desc": "Velocity Component SS",
+   "desc_th": "Velocity Component ระดับ SS"
+  },
+  "10641": {
+   "id": 10641,
+   "quality": 5,
+   "com_id_list": [
+    11033
+   ],
+   "unlock_lv": 1,
+   "name": "Offensive Blueprint",
+   "name_th": "พิมพ์เขียว Offensive",
+   "desc": "Offensive Blueprint",
+   "desc_th": "พิมพ์เขียว Offensive"
+  },
+  "10642": {
+   "id": 10642,
+   "quality": 5,
+   "com_id_list": [
+    11034
+   ],
+   "unlock_lv": 1,
+   "name": "Pursuit Blueprint",
+   "name_th": "พิมพ์เขียว Pursuit",
+   "desc": "Pursuit Blueprint",
+   "desc_th": "พิมพ์เขียว Pursuit"
+  },
+  "10643": {
+   "id": 10643,
+   "quality": 5,
+   "com_id_list": [
+    11035
+   ],
+   "unlock_lv": 1,
+   "name": "Blueprint Caliber",
+   "name_th": "พิมพ์เขียว Caliber",
+   "desc": "Blueprint Caliber",
+   "desc_th": "พิมพ์เขียว Caliber"
+  },
+  "10644": {
+   "id": 10644,
+   "quality": 5,
+   "com_id_list": [
+    11036
+   ],
+   "unlock_lv": 1,
+   "name": "Blueprint Fluxion",
+   "name_th": "พิมพ์เขียว Fluxion",
+   "desc": "Blueprint Fluxion",
+   "desc_th": "พิมพ์เขียว Fluxion"
+  },
+  "10645": {
+   "id": 10645,
+   "quality": 5,
+   "com_id_list": [
+    11037
+   ],
+   "unlock_lv": 1,
+   "name": "Fortify Blueprint",
+   "name_th": "พิมพ์เขียว Fortify",
+   "desc": "Fortify Blueprint",
+   "desc_th": "พิมพ์เขียว Fortify"
+  },
+  "10646": {
+   "id": 10646,
+   "quality": 5,
+   "com_id_list": [
+    11038
+   ],
+   "unlock_lv": 1,
+   "name": "Blueprint Bastion",
+   "name_th": "พิมพ์เขียว Bastion",
+   "desc": "Blueprint Bastion",
+   "desc_th": "พิมพ์เขียว Bastion"
+  },
+  "10647": {
+   "id": 10647,
+   "quality": 5,
+   "com_id_list": [
+    11039
+   ],
+   "unlock_lv": 1,
+   "name": "Resolve Blueprint",
+   "name_th": "พิมพ์เขียว Resolve",
+   "desc": "Resolve Blueprint",
+   "desc_th": "พิมพ์เขียว Resolve"
+  },
+  "10648": {
+   "id": 10648,
+   "quality": 5,
+   "com_id_list": [
+    11040
+   ],
+   "unlock_lv": 1,
+   "name": "Blueprint Bulwark",
+   "name_th": "พิมพ์เขียว Bulwark",
+   "desc": "Blueprint Bulwark",
+   "desc_th": "พิมพ์เขียว Bulwark"
+  },
+  "10649": {
+   "id": 10649,
+   "quality": 5,
+   "com_id_list": [
+    11041
+   ],
+   "unlock_lv": 1,
+   "name": "Surge Blueprint",
+   "name_th": "พิมพ์เขียว Surge",
+   "desc": "Surge Blueprint",
+   "desc_th": "พิมพ์เขียว Surge"
+  },
+  "10650": {
+   "id": 10650,
+   "quality": 5,
+   "com_id_list": [
+    11042
+   ],
+   "unlock_lv": 1,
+   "name": "Blueprint Bravura",
+   "name_th": "พิมพ์เขียว Bravura",
+   "desc": "Blueprint Bravura",
+   "desc_th": "พิมพ์เขียว Bravura"
+  },
+  "10651": {
+   "id": 10651,
+   "quality": 5,
+   "com_id_list": [
+    11043
+   ],
+   "unlock_lv": 1,
+   "name": "Thorns Blueprint",
+   "name_th": "พิมพ์เขียว Thorns",
+   "desc": "Thorns Blueprint",
+   "desc_th": "พิมพ์เขียว Thorns"
+  },
+  "10652": {
+   "id": 10652,
+   "quality": 5,
+   "com_id_list": [
+    11044
+   ],
+   "unlock_lv": 1,
+   "name": "Blueprint Unbowed",
+   "name_th": "พิมพ์เขียว Unbowed",
+   "desc": "Blueprint Unbowed",
+   "desc_th": "พิมพ์เขียว Unbowed"
+  },
+  "10653": {
+   "id": 10653,
+   "quality": 5,
+   "com_id_list": [
+    11045
+   ],
+   "unlock_lv": 1,
+   "name": "Destiny Blueprint",
+   "name_th": "พิมพ์เขียว Destiny",
+   "desc": "Destiny Blueprint",
+   "desc_th": "พิมพ์เขียว Destiny"
+  },
+  "10654": {
+   "id": 10654,
+   "quality": 5,
+   "com_id_list": [
+    11046
+   ],
+   "unlock_lv": 1,
+   "name": "Blueprint Clarion",
+   "name_th": "พิมพ์เขียว Clarion",
+   "desc": "Blueprint Clarion",
+   "desc_th": "พิมพ์เขียว Clarion"
+  },
+  "10655": {
+   "id": 10655,
+   "quality": 5,
+   "com_id_list": [
+    11047
+   ],
+   "unlock_lv": 1,
+   "name": "Blueprint Glister",
+   "name_th": "พิมพ์เขียว Glister",
+   "desc": "Blueprint Glister",
+   "desc_th": "พิมพ์เขียว Glister"
+  },
+  "10656": {
+   "id": 10656,
+   "quality": 5,
+   "com_id_list": [
+    11048
+   ],
+   "unlock_lv": 1,
+   "name": "Shadow Blueprint",
+   "name_th": "พิมพ์เขียว Shadow",
+   "desc": "Shadow Blueprint",
+   "desc_th": "พิมพ์เขียว Shadow"
+  }
+ },
+ "text_chunk": "00156_78329dad9c7037a5.json"
+}

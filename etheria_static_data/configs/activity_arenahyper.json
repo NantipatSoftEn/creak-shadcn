@@ -1,0 +1,25 @@
+{
+ "config": "activity_arenahyper",
+ "fields": [
+  "round",
+  "rules",
+  "name",
+  "desc"
+ ],
+ "rows": {
+  "round": [
+   1,
+   [
+    9,
+    10
+   ]
+  ],
+  "rules": [
+   2,
+   [
+    8,
+    10
+   ]
+  ]
+ }
+}

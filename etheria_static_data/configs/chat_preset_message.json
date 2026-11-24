@@ -1,0 +1,87 @@
+{
+ "config": "chat_preset_message",
+ "fields": [
+  "id",
+  "group",
+  "message"
+ ],
+ "rows": {
+  "0": {
+   "id": [
+    1,
+    0
+   ],
+   "group": [
+    2,
+    0
+   ]
+  },
+  "1": [
+   {
+    "id": 1,
+    "group": 1
+   },
+   {
+    "id": 2,
+    "group": 1
+   },
+   {
+    "id": 3,
+    "group": 1
+   },
+   {
+    "id": 4,
+    "group": 1
+   },
+   {
+    "id": 5,
+    "group": 1
+   }
+  ],
+  "2": [
+   {
+    "id": 1,
+    "group": 2
+   },
+   {
+    "id": 2,
+    "group": 2
+   },
+   {
+    "id": 3,
+    "group": 2
+   },
+   {
+    "id": 4,
+    "group": 2
+   },
+   {
+    "id": 5,
+    "group": 2
+   }
+  ],
+  "3": [
+   {
+    "id": 1,
+    "group": 3
+   },
+   {
+    "id": 2,
+    "group": 3
+   },
+   {
+    "id": 3,
+    "group": 3
+   },
+   {
+    "id": 4,
+    "group": 3
+   },
+   {
+    "id": 5,
+    "group": 3
+   }
+  ]
+ },
+ "text_chunk": null
+}

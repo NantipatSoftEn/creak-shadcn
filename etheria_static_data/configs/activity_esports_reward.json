@@ -1,0 +1,281 @@
+{
+ "config": "activity_esports_reward",
+ "fields": [
+  "id",
+  "type",
+  "reward_type",
+  "title_type",
+  "rewards",
+  "icon_table",
+  "icon_pos",
+  "image_size",
+  "progress",
+  "title_table",
+  "rewards_table",
+  "btn_desc_table"
+ ],
+ "rows": [
+  {
+   "id": 1,
+   "type": 1,
+   "reward_type": 1,
+   "title_type": 2,
+   "rewards": [
+    {
+     "id": 10011,
+     "count": 200
+    }
+   ],
+   "icon_table": [
+    "T_UI_Activity_Esports_Diamond"
+   ],
+   "icon_pos": [
+    85
+   ],
+   "image_size": [
+    [
+     360,
+     310
+    ]
+   ],
+   "progress": 0,
+   "title_table": [
+    "Successfully predict the winning team",
+    "Rewards will be sent via mail"
+   ],
+   "title_table_th": [
+    "ทายผลทีมที่ชนะสำเร็จ",
+    "รางวัลจะถูกส่งทางจดหมาย"
+   ],
+   "rewards_table": "Hydra Crystal ×200",
+   "rewards_table_th": "Hydra Crystal ×200",
+   "btn_desc_table": [
+    "Register for Live",
+    "Claim Rewards"
+   ],
+   "btn_desc_table_th": [
+    "ลงทะเบียนไลฟ์สด",
+    "รับรางวัล"
+   ]
+  },
+  {
+   "id": 2,
+   "type": 2,
+   "reward_type": 1,
+   "title_type": 1,
+   "rewards": [
+    {
+     "id": 10001,
+     "count": 100000
+    }
+   ],
+   "icon_table": [
+    "T_UI_Activity_Esports_Coin"
+   ],
+   "icon_pos": [
+    183
+   ],
+   "image_size": [
+    [
+     301,
+     166
+    ]
+   ],
+   "progress": 1,
+   "title_table": "Support your favorite team",
+   "title_table_th": "สนับสนุนทีมโปรดของคุณ",
+   "rewards_table": "Etheria Coin ×100000",
+   "rewards_table_th": "Etheria Coin ×100000",
+   "btn_desc_table": [
+    "Go",
+    "Claim Rewards"
+   ],
+   "btn_desc_table_th": [
+    "ไป",
+    "รับรางวัล"
+   ]
+  },
+  {
+   "id": 3,
+   "type": 3,
+   "reward_type": 3,
+   "title_type": 2,
+   "rewards": null,
+   "icon_table": [
+    "T_UI_Activity_Esports_Coin"
+   ],
+   "icon_pos": [
+    183
+   ],
+   "image_size": [
+    [
+     301,
+     166
+    ]
+   ],
+   "progress": 0,
+   "title_table": [
+    "The winning team will draw awesome rewards",
+    "For all event participants"
+   ],
+   "title_table_th": [
+    "ทีมที่ชนะจะได้รับรางวัลสุดพิเศษ",
+    "สำหรับผู้เข้าร่วมอีเวนต์ทุกคน"
+   ],
+   "rewards_table": "2",
+   "rewards_table_th": "2",
+   "btn_desc_table": [
+    "Go",
+    "Claim Rewards"
+   ],
+   "btn_desc_table_th": [
+    "ไป",
+    "รับรางวัล"
+   ]
+  },
+  {
+   "id": 4,
+   "type": 4,
+   "reward_type": 1,
+   "title_type": 1,
+   "rewards": [
+    {
+     "id": 10001,
+     "count": 100000
+    }
+   ],
+   "icon_table": [
+    "T_UI_Activity_Esports_Coin"
+   ],
+   "icon_pos": [
+    183
+   ],
+   "image_size": [
+    [
+     301,
+     166
+    ]
+   ],
+   "progress": 1,
+   "title_table": "Complete champion prediction",
+   "title_table_th": "เสร็จสิ้นการทายผลแชมป์",
+   "rewards_table": "Etheria Coin ×100000",
+   "rewards_table_th": "Etheria Coin ×100000",
+   "btn_desc_table": [
+    "Go",
+    "Claim Rewards"
+   ],
+   "btn_desc_table_th": [
+    "ไป",
+    "รับรางวัล"
+   ]
+  },
+  {
+   "id": 5,
+   "type": 5,
+   "reward_type": 1,
+   "title_type": 2,
+   "rewards": [
+    {
+     "id": 10011,
+     "count": 50
+    },
+    {
+     "id": 14306,
+     "count": 1
+    }
+   ],
+   "icon_table": [
+    "T_UI_Player_Frame_0106"
+   ],
+   "icon_pos": [
+    169
+   ],
+   "image_size": [
+    [
+     189,
+     185
+    ]
+   ],
+   "progress": 0,
+   "title_table": [
+    "Visit EWS official website to check advancement status",
+    "Claim EWS avatar frame"
+   ],
+   "title_table_th": [
+    "เยี่ยมชมเว็บไซต์ทางการของ EWS เพื่อตรวจสอบสถานะการเข้ารอบ",
+    "รับกรอบรูปภาพประจำตัว EWS"
+   ],
+   "rewards_table": "EWS Avatar Frame",
+   "rewards_table_th": "กรอบรูปภาพประจำตัว EWS",
+   "btn_desc_table": [
+    "Go",
+    "Claim Rewards"
+   ],
+   "btn_desc_table_th": [
+    "ไป",
+    "รับรางวัล"
+   ]
+  },
+  {
+   "id": 6,
+   "type": 6,
+   "reward_type": 2,
+   "title_type": 2,
+   "rewards": [
+    {
+     "id": 10011,
+     "count": 100
+    },
+    {
+     "id": 14416,
+     "count": 1
+    }
+   ],
+   "icon_table": [
+    "T_UI_Title_0040",
+    "T_UI_Arena_CardFrame_16"
+   ],
+   "icon_pos": [
+    196,
+    375
+   ],
+   "image_size": [
+    [
+     280,
+     90
+    ],
+    [
+     270,
+     515
+    ]
+   ],
+   "progress": 1,
+   "title_table": [
+    "Watch matches live",
+    "Claim EWS title and arena card frame"
+   ],
+   "title_table_th": [
+    "รับชมการแข่งขันสด",
+    "รับฉายาและกรอบการ์ดอารีน่า EWS"
+   ],
+   "rewards_table": [
+    "EWS Title",
+    "EWS Arena Card Frame"
+   ],
+   "rewards_table_th": [
+    "ฉายา EWS",
+    "กรอบการ์ดอารีน่า EWS"
+   ],
+   "btn_desc_table": [
+    "Go",
+    "Claim Rewards"
+   ],
+   "btn_desc_table_th": [
+    "ไป",
+    "รับรางวัล"
+   ]
+  }
+ ],
+ "text_chunk": "00008_0c0dcdb79d430270.json"
+}

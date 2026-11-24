@@ -1,0 +1,984 @@
+{
+ "config": "arenadraft_setmaker",
+ "fields": [
+  "id",
+  "first_affix",
+  "second_affix",
+  "third_affix"
+ ],
+ "rows": [
+  {
+   "id": 1,
+   "first_affix": {
+    "id": 21,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 32,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 2,
+   "first_affix": {
+    "id": 17,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 34,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 3,
+   "first_affix": {
+    "id": 5,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 4,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 4,
+   "first_affix": {
+    "id": 17,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 40,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 5,
+   "first_affix": {
+    "id": 4,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 39,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 6,
+   "first_affix": {
+    "id": 18,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 32,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 7,
+   "first_affix": {
+    "id": 12,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 32,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 8,
+   "first_affix": {
+    "id": 20,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 4,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 9,
+   "first_affix": {
+    "id": 4,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 32,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 10,
+   "first_affix": {
+    "id": 4,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 32,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 11,
+   "first_affix": {
+    "id": 17,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 34,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 12,
+   "first_affix": {
+    "id": 20,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 32,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 13,
+   "first_affix": {
+    "id": 4,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 32,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 14,
+   "first_affix": {
+    "id": 19,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 32,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 15,
+   "first_affix": {
+    "id": 4,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 32,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 16,
+   "first_affix": {
+    "id": 4,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 32,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 17,
+   "first_affix": {
+    "id": 3,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 32,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 18,
+   "first_affix": {
+    "id": 18,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 39,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 19,
+   "first_affix": {
+    "id": 17,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 40,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 20,
+   "first_affix": {
+    "id": 5,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 4,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 21,
+   "first_affix": {
+    "id": 19,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 34,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 22,
+   "first_affix": {
+    "id": 18,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 32,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 23,
+   "first_affix": {
+    "id": 4,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 32,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 24,
+   "first_affix": {
+    "id": 20,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 4,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 25,
+   "first_affix": {
+    "id": 17,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 34,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 26,
+   "first_affix": {
+    "id": 6,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 4,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 27,
+   "first_affix": {
+    "id": 4,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 32,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 28,
+   "first_affix": {
+    "id": 17,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 32,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 29,
+   "first_affix": {
+    "id": 8,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 39,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 30,
+   "first_affix": {
+    "id": 21,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 32,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 31,
+   "first_affix": {
+    "id": 5,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 4,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 32,
+   "first_affix": {
+    "id": 17,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 40,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 33,
+   "first_affix": {
+    "id": 18,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 32,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 34,
+   "first_affix": {
+    "id": 20,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 4,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 35,
+   "first_affix": {
+    "id": 21,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 32,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 36,
+   "first_affix": {
+    "id": 17,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 30,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 37,
+   "first_affix": {
+    "id": 4,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 39,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 38,
+   "first_affix": {
+    "id": 18,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 39,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 39,
+   "first_affix": {
+    "id": 17,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 40,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 40,
+   "first_affix": {
+    "id": 5,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 39,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 41,
+   "first_affix": {
+    "id": 1,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 4,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 42,
+   "first_affix": {
+    "id": 17,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 34,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 43,
+   "first_affix": {
+    "id": 21,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 4,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 44,
+   "first_affix": {
+    "id": 17,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 34,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 45,
+   "first_affix": {
+    "id": 4,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 39,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 46,
+   "first_affix": {
+    "id": 18,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 32,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 47,
+   "first_affix": {
+    "id": 4,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 32,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 48,
+   "first_affix": {
+    "id": 4,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 32,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 49,
+   "first_affix": {
+    "id": 4,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 32,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 50,
+   "first_affix": {
+    "id": 5,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 4,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 51,
+   "first_affix": {
+    "id": 19,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 4,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 52,
+   "first_affix": {
+    "id": 18,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 39,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 53,
+   "first_affix": {
+    "id": 21,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 2,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 54,
+   "first_affix": {
+    "id": 20,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 4,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 55,
+   "first_affix": {
+    "id": 4,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 32,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 56,
+   "first_affix": {
+    "id": 17,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 34,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 57,
+   "first_affix": {
+    "id": 4,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 32,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 58,
+   "first_affix": {
+    "id": 4,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 32,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 59,
+   "first_affix": {
+    "id": 20,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 4,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 60,
+   "first_affix": {
+    "id": 4,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 39,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 61,
+   "first_affix": {
+    "id": 4,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 39,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 62,
+   "first_affix": {
+    "id": 5,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 4,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 63,
+   "first_affix": {
+    "id": 19,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 32,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 64,
+   "first_affix": {
+    "id": 4,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 32,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 65,
+   "first_affix": {
+    "id": 5,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 4,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 66,
+   "first_affix": {
+    "id": 20,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 32,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 67,
+   "first_affix": {
+    "id": 5,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 4,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 68,
+   "first_affix": {
+    "id": 19,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 4,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 69,
+   "first_affix": {
+    "id": 18,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 32,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 70,
+   "first_affix": {
+    "id": 21,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 32,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 71,
+   "first_affix": {
+    "id": 4,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 32,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 72,
+   "first_affix": {
+    "id": 5,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 4,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 73,
+   "first_affix": {
+    "id": 4,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 30,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 74,
+   "first_affix": {
+    "id": 20,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 4,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 75,
+   "first_affix": {
+    "id": 21,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 4,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 76,
+   "first_affix": {
+    "id": 4,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 2,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 77,
+   "first_affix": {
+    "id": 5,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 4,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 78,
+   "first_affix": {
+    "id": 12,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 4,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 79,
+   "first_affix": {
+    "id": 12,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 32,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 80,
+   "first_affix": {
+    "id": 17,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 34,
+    "count": 12
+   },
+   "third_affix": null
+  },
+  {
+   "id": 81,
+   "first_affix": {
+    "id": 2,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 4,
+    "count": 12
+   },
+   "third_affix": null
+  }
+ ],
+ "text_chunk": null
+}

@@ -1,0 +1,322 @@
+{
+ "config": "cst_maker",
+ "fields": [
+  "id",
+  "type",
+  "level_list",
+  "template_id_list",
+  "color"
+ ],
+ "rows": {
+  "7001": {
+   "id": 7001,
+   "type": 2,
+   "level_list": [
+    50,
+    30
+   ],
+   "template_id_list": [
+    30051,
+    54010
+   ],
+   "color": 6
+  },
+  "7002": {
+   "id": 7002,
+   "type": 2,
+   "level_list": [
+    50,
+    30
+   ],
+   "template_id_list": [
+    30151,
+    54010
+   ],
+   "color": 6
+  },
+  "7003": {
+   "id": 7003,
+   "type": 2,
+   "level_list": [
+    50,
+    30
+   ],
+   "template_id_list": [
+    30061,
+    54012
+   ],
+   "color": 6
+  },
+  "7004": {
+   "id": 7004,
+   "type": 2,
+   "level_list": [
+    50,
+    30
+   ],
+   "template_id_list": [
+    40091,
+    54013
+   ],
+   "color": 6
+  },
+  "7005": {
+   "id": 7005,
+   "type": 2,
+   "level_list": [
+    50,
+    30
+   ],
+   "template_id_list": [
+    40121,
+    54014
+   ],
+   "color": 6
+  },
+  "7006": {
+   "id": 7006,
+   "type": 2,
+   "level_list": [
+    50,
+    30
+   ],
+   "template_id_list": [
+    40127,
+    54014
+   ],
+   "color": 6
+  },
+  "7007": {
+   "id": 7007,
+   "type": 2,
+   "level_list": [
+    50,
+    30
+   ],
+   "template_id_list": [
+    40151,
+    54015
+   ],
+   "color": 6
+  },
+  "7008": {
+   "id": 7008,
+   "type": 2,
+   "level_list": [
+    50,
+    30
+   ],
+   "template_id_list": [
+    40157,
+    54015
+   ],
+   "color": 6
+  },
+  "7009": {
+   "id": 7009,
+   "type": 2,
+   "level_list": [
+    50,
+    30
+   ],
+   "template_id_list": [
+    40301,
+    54016
+   ],
+   "color": 6
+  },
+  "7010": {
+   "id": 7010,
+   "type": 2,
+   "level_list": [
+    50,
+    30
+   ],
+   "template_id_list": [
+    40331,
+    54010
+   ],
+   "color": 6
+  },
+  "7011": {
+   "id": 7011,
+   "type": 2,
+   "level_list": [
+    50,
+    30
+   ],
+   "template_id_list": [
+    40361,
+    54013
+   ],
+   "color": 6
+  },
+  "7012": {
+   "id": 7012,
+   "type": 2,
+   "level_list": [
+    50,
+    30
+   ],
+   "template_id_list": [
+    46001,
+    54012
+   ],
+   "color": 6
+  },
+  "7013": {
+   "id": 7013,
+   "type": 2,
+   "level_list": [
+    50,
+    30
+   ],
+   "template_id_list": [
+    46041,
+    54013
+   ],
+   "color": 6
+  },
+  "7014": {
+   "id": 7014,
+   "type": 2,
+   "level_list": [
+    50,
+    30
+   ],
+   "template_id_list": [
+    46046,
+    54013
+   ],
+   "color": 6
+  },
+  "7015": {
+   "id": 7015,
+   "type": 2,
+   "level_list": [
+    50,
+    30
+   ],
+   "template_id_list": [
+    50001,
+    54014
+   ],
+   "color": 6
+  },
+  "7016": {
+   "id": 7016,
+   "type": 2,
+   "level_list": [
+    50,
+    30
+   ],
+   "template_id_list": [
+    50041,
+    54015
+   ],
+   "color": 6
+  },
+  "7017": {
+   "id": 7017,
+   "type": 2,
+   "level_list": [
+    50,
+    30
+   ],
+   "template_id_list": [
+    50061,
+    54016
+   ],
+   "color": 6
+  },
+  "7018": {
+   "id": 7018,
+   "type": 1,
+   "level_list": [
+    6
+   ],
+   "template_id_list": [
+    40541
+   ],
+   "color": 3
+  },
+  "7019": {
+   "id": 7019,
+   "type": 1,
+   "level_list": [
+    35
+   ],
+   "template_id_list": [
+    40127
+   ],
+   "color": 3
+  },
+  "7020": {
+   "id": 7020,
+   "type": 1,
+   "level_list": [
+    1
+   ],
+   "template_id_list": [
+    50001
+   ],
+   "color": 3
+  },
+  "7021": {
+   "id": 7021,
+   "type": 1,
+   "level_list": [
+    1
+   ],
+   "template_id_list": [
+    53989
+   ],
+   "color": 2
+  },
+  "7022": {
+   "id": 7022,
+   "type": 1,
+   "level_list": [
+    1
+   ],
+   "template_id_list": [
+    53990
+   ],
+   "color": 3
+  },
+  "7023": {
+   "id": 7023,
+   "type": 1,
+   "level_list": [
+    1
+   ],
+   "template_id_list": [
+    53991
+   ],
+   "color": 4
+  },
+  "7024": {
+   "id": 7024,
+   "type": 1,
+   "level_list": [
+    1
+   ],
+   "template_id_list": [
+    53992
+   ],
+   "color": 5
+  },
+  "7031": {
+   "id": 7031,
+   "type": 1,
+   "level_list": [
+    20
+   ],
+   "template_id_list": [
+    40421
+   ],
+   "color": 2
+  }
+ },
+ "text_chunk": null
+}

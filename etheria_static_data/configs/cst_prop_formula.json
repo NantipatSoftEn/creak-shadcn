@@ -1,0 +1,55 @@
+{
+ "config": "cst_prop_formula",
+ "fields": [
+  "star",
+  "max_level",
+  "percent_init",
+  "percent_full",
+  "extra_speed_base"
+ ],
+ "rows": [
+  {
+   "star": 1,
+   "max_level": 25,
+   "percent_init": 12.2,
+   "percent_full": 18.2,
+   "extra_speed_base": 0
+  },
+  {
+   "star": 2,
+   "max_level": 30,
+   "percent_init": 20.9,
+   "percent_full": 28.2,
+   "extra_speed_base": 0
+  },
+  {
+   "star": 3,
+   "max_level": 35,
+   "percent_init": 32.4,
+   "percent_full": 40.9,
+   "extra_speed_base": 0
+  },
+  {
+   "star": 4,
+   "max_level": 40,
+   "percent_init": 47.1,
+   "percent_full": 56.8,
+   "extra_speed_base": 0
+  },
+  {
+   "star": 5,
+   "max_level": 45,
+   "percent_init": 65.3,
+   "percent_full": 76.3,
+   "extra_speed_base": 5
+  },
+  {
+   "star": 6,
+   "max_level": 50,
+   "percent_init": 87.8,
+   "percent_full": 100.0,
+   "extra_speed_base": 10
+  }
+ ],
+ "text_chunk": null
+}

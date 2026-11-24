@@ -1,0 +1,4098 @@
+{
+ "config": "arenarealtime_stageaward",
+ "fields": [
+  "season",
+  "tier_id",
+  "season_award",
+  "season_first_award"
+ ],
+ "rows": {
+  "0": [
+   {
+    "season": 0,
+    "tier_id": 1,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 200
+     },
+     {
+      "id": 10159,
+      "count": 3200
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 0,
+    "tier_id": 2,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 250
+     },
+     {
+      "id": 10159,
+      "count": 3250
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 0,
+    "tier_id": 3,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 300
+     },
+     {
+      "id": 10159,
+      "count": 3300
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 0,
+    "tier_id": 4,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 350
+     },
+     {
+      "id": 10159,
+      "count": 3350
+     }
+    ],
+    "season_first_award": [
+     {
+      "id": 10159,
+      "count": 200
+     },
+     {
+      "id": 10202,
+      "count": 1
+     }
+    ]
+   },
+   {
+    "season": 0,
+    "tier_id": 5,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 400
+     },
+     {
+      "id": 10159,
+      "count": 3400
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 0,
+    "tier_id": 6,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 450
+     },
+     {
+      "id": 10159,
+      "count": 3450
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 0,
+    "tier_id": 7,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 500
+     },
+     {
+      "id": 10159,
+      "count": 3500
+     }
+    ],
+    "season_first_award": [
+     {
+      "id": 10159,
+      "count": 250
+     },
+     {
+      "id": 10133,
+      "count": 1
+     }
+    ]
+   },
+   {
+    "season": 0,
+    "tier_id": 8,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 550
+     },
+     {
+      "id": 10159,
+      "count": 3550
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 0,
+    "tier_id": 9,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 600
+     },
+     {
+      "id": 10159,
+      "count": 3600
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 0,
+    "tier_id": 10,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 650
+     },
+     {
+      "id": 10159,
+      "count": 3650
+     }
+    ],
+    "season_first_award": [
+     {
+      "id": 10159,
+      "count": 300
+     },
+     {
+      "id": 10207,
+      "count": 1
+     }
+    ]
+   },
+   {
+    "season": 0,
+    "tier_id": 11,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 700
+     },
+     {
+      "id": 10159,
+      "count": 3700
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 0,
+    "tier_id": 12,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 750
+     },
+     {
+      "id": 10159,
+      "count": 3750
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 0,
+    "tier_id": 13,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 800
+     },
+     {
+      "id": 10159,
+      "count": 3800
+     },
+     {
+      "id": 63005,
+      "count": 1
+     }
+    ],
+    "season_first_award": [
+     {
+      "id": 10159,
+      "count": 400
+     },
+     {
+      "id": 10011,
+      "count": 300
+     }
+    ]
+   },
+   {
+    "season": 0,
+    "tier_id": 14,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 850
+     },
+     {
+      "id": 10159,
+      "count": 3850
+     },
+     {
+      "id": 63005,
+      "count": 1
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 0,
+    "tier_id": 15,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 900
+     },
+     {
+      "id": 10159,
+      "count": 3900
+     },
+     {
+      "id": 63005,
+      "count": 1
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 0,
+    "tier_id": 16,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 1000
+     },
+     {
+      "id": 10159,
+      "count": 4000
+     },
+     {
+      "id": 63005,
+      "count": 1
+     }
+    ],
+    "season_first_award": [
+     {
+      "id": 10159,
+      "count": 500
+     },
+     {
+      "id": 10116,
+      "count": 1
+     }
+    ]
+   },
+   {
+    "season": 0,
+    "tier_id": 17,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 1100
+     },
+     {
+      "id": 10159,
+      "count": 4100
+     },
+     {
+      "id": 63005,
+      "count": 1
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 0,
+    "tier_id": 18,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 1200
+     },
+     {
+      "id": 10159,
+      "count": 4200
+     },
+     {
+      "id": 63005,
+      "count": 1
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 0,
+    "tier_id": 19,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 1400
+     },
+     {
+      "id": 10159,
+      "count": 4300
+     },
+     {
+      "id": 63005,
+      "count": 1
+     }
+    ],
+    "season_first_award": [
+     {
+      "id": 10159,
+      "count": 600
+     },
+     {
+      "id": 10134,
+      "count": 1
+     }
+    ]
+   },
+   {
+    "season": 0,
+    "tier_id": 20,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 1600
+     },
+     {
+      "id": 10159,
+      "count": 4400
+     },
+     {
+      "id": 63005,
+      "count": 1
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 0,
+    "tier_id": 21,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 1800
+     },
+     {
+      "id": 10159,
+      "count": 4500
+     },
+     {
+      "id": 63005,
+      "count": 1
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 0,
+    "tier_id": 22,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 2000
+     },
+     {
+      "id": 10159,
+      "count": 5000
+     },
+     {
+      "id": 14219,
+      "count": 1
+     },
+     {
+      "id": 63005,
+      "count": 1
+     }
+    ],
+    "season_first_award": [
+     {
+      "id": 10159,
+      "count": 750
+     },
+     {
+      "id": 10117,
+      "count": 1
+     }
+    ]
+   }
+  ],
+  "1": [
+   {
+    "season": 1,
+    "tier_id": 1,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 200
+     },
+     {
+      "id": 10159,
+      "count": 3200
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 1,
+    "tier_id": 2,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 250
+     },
+     {
+      "id": 10159,
+      "count": 3250
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 1,
+    "tier_id": 3,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 300
+     },
+     {
+      "id": 10159,
+      "count": 3300
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 1,
+    "tier_id": 4,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 350
+     },
+     {
+      "id": 10159,
+      "count": 3350
+     }
+    ],
+    "season_first_award": [
+     {
+      "id": 10159,
+      "count": 200
+     },
+     {
+      "id": 10202,
+      "count": 1
+     }
+    ]
+   },
+   {
+    "season": 1,
+    "tier_id": 5,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 400
+     },
+     {
+      "id": 10159,
+      "count": 3400
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 1,
+    "tier_id": 6,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 450
+     },
+     {
+      "id": 10159,
+      "count": 3450
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 1,
+    "tier_id": 7,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 500
+     },
+     {
+      "id": 10159,
+      "count": 3500
+     }
+    ],
+    "season_first_award": [
+     {
+      "id": 10159,
+      "count": 250
+     },
+     {
+      "id": 10133,
+      "count": 1
+     }
+    ]
+   },
+   {
+    "season": 1,
+    "tier_id": 8,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 550
+     },
+     {
+      "id": 10159,
+      "count": 3550
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 1,
+    "tier_id": 9,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 600
+     },
+     {
+      "id": 10159,
+      "count": 3600
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 1,
+    "tier_id": 10,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 650
+     },
+     {
+      "id": 10159,
+      "count": 3650
+     }
+    ],
+    "season_first_award": [
+     {
+      "id": 10159,
+      "count": 300
+     },
+     {
+      "id": 10207,
+      "count": 1
+     }
+    ]
+   },
+   {
+    "season": 1,
+    "tier_id": 11,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 700
+     },
+     {
+      "id": 10159,
+      "count": 3700
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 1,
+    "tier_id": 12,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 750
+     },
+     {
+      "id": 10159,
+      "count": 3750
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 1,
+    "tier_id": 13,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 800
+     },
+     {
+      "id": 10159,
+      "count": 3800
+     },
+     {
+      "id": 63005,
+      "count": 1
+     }
+    ],
+    "season_first_award": [
+     {
+      "id": 10159,
+      "count": 400
+     },
+     {
+      "id": 10011,
+      "count": 300
+     }
+    ]
+   },
+   {
+    "season": 1,
+    "tier_id": 14,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 850
+     },
+     {
+      "id": 10159,
+      "count": 3850
+     },
+     {
+      "id": 63005,
+      "count": 1
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 1,
+    "tier_id": 15,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 900
+     },
+     {
+      "id": 10159,
+      "count": 3900
+     },
+     {
+      "id": 63005,
+      "count": 1
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 1,
+    "tier_id": 16,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 1000
+     },
+     {
+      "id": 10159,
+      "count": 4000
+     },
+     {
+      "id": 63005,
+      "count": 1
+     }
+    ],
+    "season_first_award": [
+     {
+      "id": 10159,
+      "count": 500
+     },
+     {
+      "id": 10116,
+      "count": 1
+     }
+    ]
+   },
+   {
+    "season": 1,
+    "tier_id": 17,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 1100
+     },
+     {
+      "id": 10159,
+      "count": 4100
+     },
+     {
+      "id": 63005,
+      "count": 1
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 1,
+    "tier_id": 18,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 1200
+     },
+     {
+      "id": 10159,
+      "count": 4200
+     },
+     {
+      "id": 63005,
+      "count": 1
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 1,
+    "tier_id": 19,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 1400
+     },
+     {
+      "id": 10159,
+      "count": 4300
+     },
+     {
+      "id": 63005,
+      "count": 1
+     }
+    ],
+    "season_first_award": [
+     {
+      "id": 10159,
+      "count": 600
+     },
+     {
+      "id": 10134,
+      "count": 1
+     }
+    ]
+   },
+   {
+    "season": 1,
+    "tier_id": 20,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 1600
+     },
+     {
+      "id": 10159,
+      "count": 4400
+     },
+     {
+      "id": 63005,
+      "count": 1
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 1,
+    "tier_id": 21,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 1800
+     },
+     {
+      "id": 10159,
+      "count": 4500
+     },
+     {
+      "id": 63005,
+      "count": 1
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 1,
+    "tier_id": 22,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 2000
+     },
+     {
+      "id": 10159,
+      "count": 5000
+     },
+     {
+      "id": 14219,
+      "count": 1
+     },
+     {
+      "id": 63005,
+      "count": 1
+     }
+    ],
+    "season_first_award": [
+     {
+      "id": 10159,
+      "count": 750
+     },
+     {
+      "id": 10117,
+      "count": 1
+     }
+    ]
+   }
+  ],
+  "2": [
+   {
+    "season": 2,
+    "tier_id": 1,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 200
+     },
+     {
+      "id": 10159,
+      "count": 3200
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 2,
+    "tier_id": 2,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 250
+     },
+     {
+      "id": 10159,
+      "count": 3250
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 2,
+    "tier_id": 3,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 300
+     },
+     {
+      "id": 10159,
+      "count": 3300
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 2,
+    "tier_id": 4,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 350
+     },
+     {
+      "id": 10159,
+      "count": 3350
+     }
+    ],
+    "season_first_award": [
+     {
+      "id": 10159,
+      "count": 200
+     },
+     {
+      "id": 10202,
+      "count": 1
+     }
+    ]
+   },
+   {
+    "season": 2,
+    "tier_id": 5,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 400
+     },
+     {
+      "id": 10159,
+      "count": 3400
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 2,
+    "tier_id": 6,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 450
+     },
+     {
+      "id": 10159,
+      "count": 3450
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 2,
+    "tier_id": 7,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 500
+     },
+     {
+      "id": 10159,
+      "count": 3500
+     }
+    ],
+    "season_first_award": [
+     {
+      "id": 10159,
+      "count": 250
+     },
+     {
+      "id": 10133,
+      "count": 1
+     }
+    ]
+   },
+   {
+    "season": 2,
+    "tier_id": 8,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 550
+     },
+     {
+      "id": 10159,
+      "count": 3550
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 2,
+    "tier_id": 9,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 600
+     },
+     {
+      "id": 10159,
+      "count": 3600
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 2,
+    "tier_id": 10,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 650
+     },
+     {
+      "id": 10159,
+      "count": 3650
+     }
+    ],
+    "season_first_award": [
+     {
+      "id": 10159,
+      "count": 300
+     },
+     {
+      "id": 10207,
+      "count": 1
+     }
+    ]
+   },
+   {
+    "season": 2,
+    "tier_id": 11,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 700
+     },
+     {
+      "id": 10159,
+      "count": 3700
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 2,
+    "tier_id": 12,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 750
+     },
+     {
+      "id": 10159,
+      "count": 3750
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 2,
+    "tier_id": 13,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 800
+     },
+     {
+      "id": 10159,
+      "count": 3800
+     },
+     {
+      "id": 30653,
+      "count": 1
+     }
+    ],
+    "season_first_award": [
+     {
+      "id": 10159,
+      "count": 400
+     },
+     {
+      "id": 10011,
+      "count": 300
+     }
+    ]
+   },
+   {
+    "season": 2,
+    "tier_id": 14,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 850
+     },
+     {
+      "id": 10159,
+      "count": 3850
+     },
+     {
+      "id": 30653,
+      "count": 1
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 2,
+    "tier_id": 15,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 900
+     },
+     {
+      "id": 10159,
+      "count": 3900
+     },
+     {
+      "id": 30653,
+      "count": 1
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 2,
+    "tier_id": 16,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 1000
+     },
+     {
+      "id": 10159,
+      "count": 4000
+     },
+     {
+      "id": 13544,
+      "count": 1
+     },
+     {
+      "id": 30653,
+      "count": 1
+     }
+    ],
+    "season_first_award": [
+     {
+      "id": 10159,
+      "count": 500
+     },
+     {
+      "id": 10116,
+      "count": 1
+     }
+    ]
+   },
+   {
+    "season": 2,
+    "tier_id": 17,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 1100
+     },
+     {
+      "id": 10159,
+      "count": 4100
+     },
+     {
+      "id": 13544,
+      "count": 1
+     },
+     {
+      "id": 30653,
+      "count": 1
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 2,
+    "tier_id": 18,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 1200
+     },
+     {
+      "id": 10159,
+      "count": 4200
+     },
+     {
+      "id": 13544,
+      "count": 1
+     },
+     {
+      "id": 30653,
+      "count": 1
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 2,
+    "tier_id": 19,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 1400
+     },
+     {
+      "id": 10159,
+      "count": 4300
+     },
+     {
+      "id": 13544,
+      "count": 1
+     },
+     {
+      "id": 26051,
+      "count": 1
+     },
+     {
+      "id": 30653,
+      "count": 1
+     }
+    ],
+    "season_first_award": [
+     {
+      "id": 10159,
+      "count": 600
+     },
+     {
+      "id": 10134,
+      "count": 1
+     }
+    ]
+   },
+   {
+    "season": 2,
+    "tier_id": 20,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 1600
+     },
+     {
+      "id": 10159,
+      "count": 4400
+     },
+     {
+      "id": 13544,
+      "count": 1
+     },
+     {
+      "id": 26051,
+      "count": 1
+     },
+     {
+      "id": 30653,
+      "count": 1
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 2,
+    "tier_id": 21,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 1800
+     },
+     {
+      "id": 10159,
+      "count": 4500
+     },
+     {
+      "id": 13544,
+      "count": 1
+     },
+     {
+      "id": 26051,
+      "count": 1
+     },
+     {
+      "id": 30653,
+      "count": 1
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 2,
+    "tier_id": 22,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 2000
+     },
+     {
+      "id": 10159,
+      "count": 5000
+     },
+     {
+      "id": 14420,
+      "count": 1
+     },
+     {
+      "id": 13544,
+      "count": 1
+     },
+     {
+      "id": 26051,
+      "count": 1
+     },
+     {
+      "id": 30653,
+      "count": 1
+     }
+    ],
+    "season_first_award": [
+     {
+      "id": 10159,
+      "count": 750
+     },
+     {
+      "id": 10117,
+      "count": 1
+     }
+    ]
+   }
+  ],
+  "3": [
+   {
+    "season": 3,
+    "tier_id": 1,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 200
+     },
+     {
+      "id": 10159,
+      "count": 3200
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 3,
+    "tier_id": 2,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 250
+     },
+     {
+      "id": 10159,
+      "count": 3250
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 3,
+    "tier_id": 3,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 300
+     },
+     {
+      "id": 10159,
+      "count": 3300
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 3,
+    "tier_id": 4,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 350
+     },
+     {
+      "id": 10159,
+      "count": 3350
+     }
+    ],
+    "season_first_award": [
+     {
+      "id": 10159,
+      "count": 200
+     },
+     {
+      "id": 10202,
+      "count": 1
+     }
+    ]
+   },
+   {
+    "season": 3,
+    "tier_id": 5,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 400
+     },
+     {
+      "id": 10159,
+      "count": 3400
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 3,
+    "tier_id": 6,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 450
+     },
+     {
+      "id": 10159,
+      "count": 3450
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 3,
+    "tier_id": 7,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 500
+     },
+     {
+      "id": 10159,
+      "count": 3500
+     }
+    ],
+    "season_first_award": [
+     {
+      "id": 10159,
+      "count": 250
+     },
+     {
+      "id": 10133,
+      "count": 1
+     }
+    ]
+   },
+   {
+    "season": 3,
+    "tier_id": 8,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 550
+     },
+     {
+      "id": 10159,
+      "count": 3550
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 3,
+    "tier_id": 9,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 600
+     },
+     {
+      "id": 10159,
+      "count": 3600
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 3,
+    "tier_id": 10,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 650
+     },
+     {
+      "id": 10159,
+      "count": 3650
+     }
+    ],
+    "season_first_award": [
+     {
+      "id": 10159,
+      "count": 300
+     },
+     {
+      "id": 10207,
+      "count": 1
+     }
+    ]
+   },
+   {
+    "season": 3,
+    "tier_id": 11,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 700
+     },
+     {
+      "id": 10159,
+      "count": 3700
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 3,
+    "tier_id": 12,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 750
+     },
+     {
+      "id": 10159,
+      "count": 3750
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 3,
+    "tier_id": 13,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 800
+     },
+     {
+      "id": 10159,
+      "count": 3800
+     },
+     {
+      "id": 30503,
+      "count": 1
+     }
+    ],
+    "season_first_award": [
+     {
+      "id": 10159,
+      "count": 400
+     },
+     {
+      "id": 10011,
+      "count": 300
+     }
+    ]
+   },
+   {
+    "season": 3,
+    "tier_id": 14,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 850
+     },
+     {
+      "id": 10159,
+      "count": 3850
+     },
+     {
+      "id": 30503,
+      "count": 1
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 3,
+    "tier_id": 15,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 900
+     },
+     {
+      "id": 10159,
+      "count": 3900
+     },
+     {
+      "id": 30503,
+      "count": 1
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 3,
+    "tier_id": 16,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 1000
+     },
+     {
+      "id": 10159,
+      "count": 4000
+     },
+     {
+      "id": 13554,
+      "count": 1
+     },
+     {
+      "id": 30503,
+      "count": 1
+     }
+    ],
+    "season_first_award": [
+     {
+      "id": 10159,
+      "count": 500
+     },
+     {
+      "id": 10116,
+      "count": 1
+     }
+    ]
+   },
+   {
+    "season": 3,
+    "tier_id": 17,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 1100
+     },
+     {
+      "id": 10159,
+      "count": 4100
+     },
+     {
+      "id": 13554,
+      "count": 1
+     },
+     {
+      "id": 30503,
+      "count": 1
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 3,
+    "tier_id": 18,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 1200
+     },
+     {
+      "id": 10159,
+      "count": 4200
+     },
+     {
+      "id": 13554,
+      "count": 1
+     },
+     {
+      "id": 30503,
+      "count": 1
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 3,
+    "tier_id": 19,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 1400
+     },
+     {
+      "id": 10159,
+      "count": 4300
+     },
+     {
+      "id": 13554,
+      "count": 1
+     },
+     {
+      "id": 26052,
+      "count": 1
+     },
+     {
+      "id": 30503,
+      "count": 1
+     }
+    ],
+    "season_first_award": [
+     {
+      "id": 10159,
+      "count": 600
+     },
+     {
+      "id": 10134,
+      "count": 1
+     }
+    ]
+   },
+   {
+    "season": 3,
+    "tier_id": 20,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 1600
+     },
+     {
+      "id": 10159,
+      "count": 4400
+     },
+     {
+      "id": 13554,
+      "count": 1
+     },
+     {
+      "id": 26052,
+      "count": 1
+     },
+     {
+      "id": 30503,
+      "count": 1
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 3,
+    "tier_id": 21,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 1800
+     },
+     {
+      "id": 10159,
+      "count": 4500
+     },
+     {
+      "id": 13554,
+      "count": 1
+     },
+     {
+      "id": 26052,
+      "count": 1
+     },
+     {
+      "id": 30503,
+      "count": 1
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 3,
+    "tier_id": 22,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 2000
+     },
+     {
+      "id": 10159,
+      "count": 5000
+     },
+     {
+      "id": 14425,
+      "count": 1
+     },
+     {
+      "id": 13554,
+      "count": 1
+     },
+     {
+      "id": 26052,
+      "count": 1
+     },
+     {
+      "id": 30503,
+      "count": 1
+     }
+    ],
+    "season_first_award": [
+     {
+      "id": 10159,
+      "count": 750
+     },
+     {
+      "id": 10117,
+      "count": 1
+     }
+    ]
+   },
+   {
+    "season": 3,
+    "tier_id": 23,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 2200
+     },
+     {
+      "id": 10159,
+      "count": 5500
+     },
+     {
+      "id": 14427,
+      "count": 1
+     },
+     {
+      "id": 13554,
+      "count": 1
+     },
+     {
+      "id": 26052,
+      "count": 1
+     },
+     {
+      "id": 30503,
+      "count": 1
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 3,
+    "tier_id": 24,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 2400
+     },
+     {
+      "id": 10159,
+      "count": 6000
+     },
+     {
+      "id": 14428,
+      "count": 1
+     },
+     {
+      "id": 13554,
+      "count": 1
+     },
+     {
+      "id": 26052,
+      "count": 1
+     },
+     {
+      "id": 30503,
+      "count": 1
+     }
+    ],
+    "season_first_award": null
+   }
+  ],
+  "4": [
+   {
+    "season": 4,
+    "tier_id": 1,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 200
+     },
+     {
+      "id": 10159,
+      "count": 3200
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 4,
+    "tier_id": 2,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 250
+     },
+     {
+      "id": 10159,
+      "count": 3250
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 4,
+    "tier_id": 3,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 300
+     },
+     {
+      "id": 10159,
+      "count": 3300
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 4,
+    "tier_id": 4,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 350
+     },
+     {
+      "id": 10159,
+      "count": 3350
+     }
+    ],
+    "season_first_award": [
+     {
+      "id": 10159,
+      "count": 200
+     },
+     {
+      "id": 10202,
+      "count": 1
+     }
+    ]
+   },
+   {
+    "season": 4,
+    "tier_id": 5,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 400
+     },
+     {
+      "id": 10159,
+      "count": 3400
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 4,
+    "tier_id": 6,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 450
+     },
+     {
+      "id": 10159,
+      "count": 3450
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 4,
+    "tier_id": 7,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 500
+     },
+     {
+      "id": 10159,
+      "count": 3500
+     }
+    ],
+    "season_first_award": [
+     {
+      "id": 10159,
+      "count": 250
+     },
+     {
+      "id": 10133,
+      "count": 1
+     }
+    ]
+   },
+   {
+    "season": 4,
+    "tier_id": 8,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 550
+     },
+     {
+      "id": 10159,
+      "count": 3550
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 4,
+    "tier_id": 9,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 600
+     },
+     {
+      "id": 10159,
+      "count": 3600
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 4,
+    "tier_id": 10,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 650
+     },
+     {
+      "id": 10159,
+      "count": 3650
+     }
+    ],
+    "season_first_award": [
+     {
+      "id": 10159,
+      "count": 300
+     },
+     {
+      "id": 10207,
+      "count": 1
+     }
+    ]
+   },
+   {
+    "season": 4,
+    "tier_id": 11,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 700
+     },
+     {
+      "id": 10159,
+      "count": 3700
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 4,
+    "tier_id": 12,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 750
+     },
+     {
+      "id": 10159,
+      "count": 3750
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 4,
+    "tier_id": 13,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 800
+     },
+     {
+      "id": 10159,
+      "count": 3800
+     },
+     {
+      "id": 30953,
+      "count": 1
+     }
+    ],
+    "season_first_award": [
+     {
+      "id": 10159,
+      "count": 400
+     },
+     {
+      "id": 10011,
+      "count": 300
+     }
+    ]
+   },
+   {
+    "season": 4,
+    "tier_id": 14,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 850
+     },
+     {
+      "id": 10159,
+      "count": 3850
+     },
+     {
+      "id": 30953,
+      "count": 1
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 4,
+    "tier_id": 15,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 900
+     },
+     {
+      "id": 10159,
+      "count": 3900
+     },
+     {
+      "id": 30953,
+      "count": 1
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 4,
+    "tier_id": 16,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 1000
+     },
+     {
+      "id": 10159,
+      "count": 4000
+     },
+     {
+      "id": 13555,
+      "count": 1
+     },
+     {
+      "id": 30953,
+      "count": 1
+     }
+    ],
+    "season_first_award": [
+     {
+      "id": 10159,
+      "count": 500
+     },
+     {
+      "id": 10116,
+      "count": 1
+     }
+    ]
+   },
+   {
+    "season": 4,
+    "tier_id": 17,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 1100
+     },
+     {
+      "id": 10159,
+      "count": 4100
+     },
+     {
+      "id": 13555,
+      "count": 1
+     },
+     {
+      "id": 30953,
+      "count": 1
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 4,
+    "tier_id": 18,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 1200
+     },
+     {
+      "id": 10159,
+      "count": 4200
+     },
+     {
+      "id": 13555,
+      "count": 1
+     },
+     {
+      "id": 30953,
+      "count": 1
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 4,
+    "tier_id": 19,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 1400
+     },
+     {
+      "id": 10159,
+      "count": 4300
+     },
+     {
+      "id": 13555,
+      "count": 1
+     },
+     {
+      "id": 26053,
+      "count": 1
+     },
+     {
+      "id": 30953,
+      "count": 1
+     }
+    ],
+    "season_first_award": [
+     {
+      "id": 10159,
+      "count": 600
+     },
+     {
+      "id": 10134,
+      "count": 1
+     }
+    ]
+   },
+   {
+    "season": 4,
+    "tier_id": 20,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 1600
+     },
+     {
+      "id": 10159,
+      "count": 4400
+     },
+     {
+      "id": 13555,
+      "count": 1
+     },
+     {
+      "id": 26053,
+      "count": 1
+     },
+     {
+      "id": 30953,
+      "count": 1
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 4,
+    "tier_id": 21,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 1800
+     },
+     {
+      "id": 10159,
+      "count": 4500
+     },
+     {
+      "id": 13555,
+      "count": 1
+     },
+     {
+      "id": 26053,
+      "count": 1
+     },
+     {
+      "id": 30953,
+      "count": 1
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 4,
+    "tier_id": 22,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 2000
+     },
+     {
+      "id": 10159,
+      "count": 5000
+     },
+     {
+      "id": 14433,
+      "count": 1
+     },
+     {
+      "id": 13555,
+      "count": 1
+     },
+     {
+      "id": 26053,
+      "count": 1
+     },
+     {
+      "id": 30953,
+      "count": 1
+     }
+    ],
+    "season_first_award": [
+     {
+      "id": 10159,
+      "count": 750
+     },
+     {
+      "id": 10117,
+      "count": 1
+     }
+    ]
+   },
+   {
+    "season": 4,
+    "tier_id": 23,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 2200
+     },
+     {
+      "id": 10159,
+      "count": 5500
+     },
+     {
+      "id": 14434,
+      "count": 1
+     },
+     {
+      "id": 13555,
+      "count": 1
+     },
+     {
+      "id": 26053,
+      "count": 1
+     },
+     {
+      "id": 30953,
+      "count": 1
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 4,
+    "tier_id": 24,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 2400
+     },
+     {
+      "id": 10159,
+      "count": 6000
+     },
+     {
+      "id": 14435,
+      "count": 1
+     },
+     {
+      "id": 13555,
+      "count": 1
+     },
+     {
+      "id": 26053,
+      "count": 1
+     },
+     {
+      "id": 30953,
+      "count": 1
+     }
+    ],
+    "season_first_award": null
+   }
+  ],
+  "5": [
+   {
+    "season": 5,
+    "tier_id": 1,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 200
+     },
+     {
+      "id": 10159,
+      "count": 3200
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 5,
+    "tier_id": 2,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 250
+     },
+     {
+      "id": 10159,
+      "count": 3250
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 5,
+    "tier_id": 3,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 300
+     },
+     {
+      "id": 10159,
+      "count": 3300
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 5,
+    "tier_id": 4,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 350
+     },
+     {
+      "id": 10159,
+      "count": 3350
+     }
+    ],
+    "season_first_award": [
+     {
+      "id": 10159,
+      "count": 200
+     },
+     {
+      "id": 10202,
+      "count": 1
+     }
+    ]
+   },
+   {
+    "season": 5,
+    "tier_id": 5,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 400
+     },
+     {
+      "id": 10159,
+      "count": 3400
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 5,
+    "tier_id": 6,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 450
+     },
+     {
+      "id": 10159,
+      "count": 3450
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 5,
+    "tier_id": 7,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 500
+     },
+     {
+      "id": 10159,
+      "count": 3500
+     }
+    ],
+    "season_first_award": [
+     {
+      "id": 10159,
+      "count": 250
+     },
+     {
+      "id": 10133,
+      "count": 1
+     }
+    ]
+   },
+   {
+    "season": 5,
+    "tier_id": 8,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 550
+     },
+     {
+      "id": 10159,
+      "count": 3550
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 5,
+    "tier_id": 9,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 600
+     },
+     {
+      "id": 10159,
+      "count": 3600
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 5,
+    "tier_id": 10,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 650
+     },
+     {
+      "id": 10159,
+      "count": 3650
+     }
+    ],
+    "season_first_award": [
+     {
+      "id": 10159,
+      "count": 300
+     },
+     {
+      "id": 10207,
+      "count": 1
+     }
+    ]
+   },
+   {
+    "season": 5,
+    "tier_id": 11,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 700
+     },
+     {
+      "id": 10159,
+      "count": 3700
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 5,
+    "tier_id": 12,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 750
+     },
+     {
+      "id": 10159,
+      "count": 3750
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 5,
+    "tier_id": 13,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 800
+     },
+     {
+      "id": 10159,
+      "count": 3800
+     },
+     {
+      "id": 31603,
+      "count": 1
+     }
+    ],
+    "season_first_award": [
+     {
+      "id": 10159,
+      "count": 400
+     },
+     {
+      "id": 10011,
+      "count": 300
+     }
+    ]
+   },
+   {
+    "season": 5,
+    "tier_id": 14,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 850
+     },
+     {
+      "id": 10159,
+      "count": 3850
+     },
+     {
+      "id": 31603,
+      "count": 1
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 5,
+    "tier_id": 15,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 900
+     },
+     {
+      "id": 10159,
+      "count": 3900
+     },
+     {
+      "id": 31603,
+      "count": 1
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 5,
+    "tier_id": 16,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 1000
+     },
+     {
+      "id": 10159,
+      "count": 4000
+     },
+     {
+      "id": 13565,
+      "count": 1
+     },
+     {
+      "id": 31603,
+      "count": 1
+     }
+    ],
+    "season_first_award": [
+     {
+      "id": 10159,
+      "count": 500
+     },
+     {
+      "id": 10116,
+      "count": 1
+     }
+    ]
+   },
+   {
+    "season": 5,
+    "tier_id": 17,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 1100
+     },
+     {
+      "id": 10159,
+      "count": 4100
+     },
+     {
+      "id": 13565,
+      "count": 1
+     },
+     {
+      "id": 31603,
+      "count": 1
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 5,
+    "tier_id": 18,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 1200
+     },
+     {
+      "id": 10159,
+      "count": 4200
+     },
+     {
+      "id": 13565,
+      "count": 1
+     },
+     {
+      "id": 31603,
+      "count": 1
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 5,
+    "tier_id": 19,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 1400
+     },
+     {
+      "id": 10159,
+      "count": 4300
+     },
+     {
+      "id": 13565,
+      "count": 1
+     },
+     {
+      "id": 26054,
+      "count": 1
+     },
+     {
+      "id": 31603,
+      "count": 1
+     }
+    ],
+    "season_first_award": [
+     {
+      "id": 10159,
+      "count": 600
+     },
+     {
+      "id": 10134,
+      "count": 1
+     }
+    ]
+   },
+   {
+    "season": 5,
+    "tier_id": 20,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 1600
+     },
+     {
+      "id": 10159,
+      "count": 4400
+     },
+     {
+      "id": 13565,
+      "count": 1
+     },
+     {
+      "id": 26054,
+      "count": 1
+     },
+     {
+      "id": 31603,
+      "count": 1
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 5,
+    "tier_id": 21,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 1800
+     },
+     {
+      "id": 10159,
+      "count": 4500
+     },
+     {
+      "id": 13565,
+      "count": 1
+     },
+     {
+      "id": 26054,
+      "count": 1
+     },
+     {
+      "id": 31603,
+      "count": 1
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 5,
+    "tier_id": 22,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 2000
+     },
+     {
+      "id": 10159,
+      "count": 5000
+     },
+     {
+      "id": 14437,
+      "count": 1
+     },
+     {
+      "id": 13565,
+      "count": 1
+     },
+     {
+      "id": 26054,
+      "count": 1
+     },
+     {
+      "id": 31603,
+      "count": 1
+     }
+    ],
+    "season_first_award": [
+     {
+      "id": 10159,
+      "count": 750
+     },
+     {
+      "id": 10117,
+      "count": 1
+     }
+    ]
+   },
+   {
+    "season": 5,
+    "tier_id": 23,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 2200
+     },
+     {
+      "id": 10159,
+      "count": 5500
+     },
+     {
+      "id": 14438,
+      "count": 1
+     },
+     {
+      "id": 13565,
+      "count": 1
+     },
+     {
+      "id": 26054,
+      "count": 1
+     },
+     {
+      "id": 31603,
+      "count": 1
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 5,
+    "tier_id": 24,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 2400
+     },
+     {
+      "id": 10159,
+      "count": 6000
+     },
+     {
+      "id": 14439,
+      "count": 1
+     },
+     {
+      "id": 13565,
+      "count": 1
+     },
+     {
+      "id": 26054,
+      "count": 1
+     },
+     {
+      "id": 31603,
+      "count": 1
+     }
+    ],
+    "season_first_award": null
+   }
+  ],
+  "6": [
+   {
+    "season": 6,
+    "tier_id": 1,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 200
+     },
+     {
+      "id": 10159,
+      "count": 3200
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 6,
+    "tier_id": 2,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 250
+     },
+     {
+      "id": 10159,
+      "count": 3250
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 6,
+    "tier_id": 3,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 300
+     },
+     {
+      "id": 10159,
+      "count": 3300
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 6,
+    "tier_id": 4,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 350
+     },
+     {
+      "id": 10159,
+      "count": 3350
+     }
+    ],
+    "season_first_award": [
+     {
+      "id": 10159,
+      "count": 200
+     },
+     {
+      "id": 10202,
+      "count": 1
+     }
+    ]
+   },
+   {
+    "season": 6,
+    "tier_id": 5,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 400
+     },
+     {
+      "id": 10159,
+      "count": 3400
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 6,
+    "tier_id": 6,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 450
+     },
+     {
+      "id": 10159,
+      "count": 3450
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 6,
+    "tier_id": 7,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 500
+     },
+     {
+      "id": 10159,
+      "count": 3500
+     }
+    ],
+    "season_first_award": [
+     {
+      "id": 10159,
+      "count": 250
+     },
+     {
+      "id": 10133,
+      "count": 1
+     }
+    ]
+   },
+   {
+    "season": 6,
+    "tier_id": 8,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 550
+     },
+     {
+      "id": 10159,
+      "count": 3550
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 6,
+    "tier_id": 9,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 600
+     },
+     {
+      "id": 10159,
+      "count": 3600
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 6,
+    "tier_id": 10,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 650
+     },
+     {
+      "id": 10159,
+      "count": 3650
+     }
+    ],
+    "season_first_award": [
+     {
+      "id": 10159,
+      "count": 300
+     },
+     {
+      "id": 10207,
+      "count": 1
+     }
+    ]
+   },
+   {
+    "season": 6,
+    "tier_id": 11,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 700
+     },
+     {
+      "id": 10159,
+      "count": 3700
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 6,
+    "tier_id": 12,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 750
+     },
+     {
+      "id": 10159,
+      "count": 3750
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 6,
+    "tier_id": 13,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 800
+     },
+     {
+      "id": 10159,
+      "count": 3800
+     },
+     {
+      "id": 31853,
+      "count": 1
+     }
+    ],
+    "season_first_award": [
+     {
+      "id": 10159,
+      "count": 400
+     },
+     {
+      "id": 10011,
+      "count": 300
+     }
+    ]
+   },
+   {
+    "season": 6,
+    "tier_id": 14,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 850
+     },
+     {
+      "id": 10159,
+      "count": 3850
+     },
+     {
+      "id": 31853,
+      "count": 1
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 6,
+    "tier_id": 15,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 900
+     },
+     {
+      "id": 10159,
+      "count": 3900
+     },
+     {
+      "id": 31853,
+      "count": 1
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 6,
+    "tier_id": 16,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 1000
+     },
+     {
+      "id": 10159,
+      "count": 4000
+     },
+     {
+      "id": 13569,
+      "count": 1
+     },
+     {
+      "id": 31853,
+      "count": 1
+     }
+    ],
+    "season_first_award": [
+     {
+      "id": 10159,
+      "count": 500
+     },
+     {
+      "id": 10116,
+      "count": 1
+     }
+    ]
+   },
+   {
+    "season": 6,
+    "tier_id": 17,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 1100
+     },
+     {
+      "id": 10159,
+      "count": 4100
+     },
+     {
+      "id": 13569,
+      "count": 1
+     },
+     {
+      "id": 31853,
+      "count": 1
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 6,
+    "tier_id": 18,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 1200
+     },
+     {
+      "id": 10159,
+      "count": 4200
+     },
+     {
+      "id": 13569,
+      "count": 1
+     },
+     {
+      "id": 31853,
+      "count": 1
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 6,
+    "tier_id": 19,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 1400
+     },
+     {
+      "id": 10159,
+      "count": 4300
+     },
+     {
+      "id": 13569,
+      "count": 1
+     },
+     {
+      "id": 26055,
+      "count": 1
+     },
+     {
+      "id": 31853,
+      "count": 1
+     }
+    ],
+    "season_first_award": [
+     {
+      "id": 10159,
+      "count": 600
+     },
+     {
+      "id": 10134,
+      "count": 1
+     }
+    ]
+   },
+   {
+    "season": 6,
+    "tier_id": 20,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 1600
+     },
+     {
+      "id": 10159,
+      "count": 4400
+     },
+     {
+      "id": 13569,
+      "count": 1
+     },
+     {
+      "id": 26055,
+      "count": 1
+     },
+     {
+      "id": 31853,
+      "count": 1
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 6,
+    "tier_id": 21,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 1800
+     },
+     {
+      "id": 10159,
+      "count": 4500
+     },
+     {
+      "id": 13569,
+      "count": 1
+     },
+     {
+      "id": 26055,
+      "count": 1
+     },
+     {
+      "id": 31853,
+      "count": 1
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 6,
+    "tier_id": 22,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 2000
+     },
+     {
+      "id": 10159,
+      "count": 5000
+     },
+     {
+      "id": 14441,
+      "count": 1
+     },
+     {
+      "id": 13569,
+      "count": 1
+     },
+     {
+      "id": 26055,
+      "count": 1
+     },
+     {
+      "id": 31853,
+      "count": 1
+     }
+    ],
+    "season_first_award": [
+     {
+      "id": 10159,
+      "count": 750
+     },
+     {
+      "id": 10117,
+      "count": 1
+     }
+    ]
+   },
+   {
+    "season": 6,
+    "tier_id": 23,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 2200
+     },
+     {
+      "id": 10159,
+      "count": 5500
+     },
+     {
+      "id": 14442,
+      "count": 1
+     },
+     {
+      "id": 13569,
+      "count": 1
+     },
+     {
+      "id": 26055,
+      "count": 1
+     },
+     {
+      "id": 31853,
+      "count": 1
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 6,
+    "tier_id": 24,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 2400
+     },
+     {
+      "id": 10159,
+      "count": 6000
+     },
+     {
+      "id": 14443,
+      "count": 1
+     },
+     {
+      "id": 13569,
+      "count": 1
+     },
+     {
+      "id": 26055,
+      "count": 1
+     },
+     {
+      "id": 31853,
+      "count": 1
+     }
+    ],
+    "season_first_award": null
+   }
+  ],
+  "7": [
+   {
+    "season": 7,
+    "tier_id": 1,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 200
+     },
+     {
+      "id": 10159,
+      "count": 3200
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 7,
+    "tier_id": 2,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 250
+     },
+     {
+      "id": 10159,
+      "count": 3250
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 7,
+    "tier_id": 3,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 300
+     },
+     {
+      "id": 10159,
+      "count": 3300
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 7,
+    "tier_id": 4,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 350
+     },
+     {
+      "id": 10159,
+      "count": 3350
+     }
+    ],
+    "season_first_award": [
+     {
+      "id": 10159,
+      "count": 200
+     },
+     {
+      "id": 10202,
+      "count": 1
+     }
+    ]
+   },
+   {
+    "season": 7,
+    "tier_id": 5,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 400
+     },
+     {
+      "id": 10159,
+      "count": 3400
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 7,
+    "tier_id": 6,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 450
+     },
+     {
+      "id": 10159,
+      "count": 3450
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 7,
+    "tier_id": 7,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 500
+     },
+     {
+      "id": 10159,
+      "count": 3500
+     }
+    ],
+    "season_first_award": [
+     {
+      "id": 10159,
+      "count": 250
+     },
+     {
+      "id": 10133,
+      "count": 1
+     }
+    ]
+   },
+   {
+    "season": 7,
+    "tier_id": 8,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 550
+     },
+     {
+      "id": 10159,
+      "count": 3550
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 7,
+    "tier_id": 9,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 600
+     },
+     {
+      "id": 10159,
+      "count": 3600
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 7,
+    "tier_id": 10,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 650
+     },
+     {
+      "id": 10159,
+      "count": 3650
+     }
+    ],
+    "season_first_award": [
+     {
+      "id": 10159,
+      "count": 300
+     },
+     {
+      "id": 10207,
+      "count": 1
+     }
+    ]
+   },
+   {
+    "season": 7,
+    "tier_id": 11,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 700
+     },
+     {
+      "id": 10159,
+      "count": 3700
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 7,
+    "tier_id": 12,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 750
+     },
+     {
+      "id": 10159,
+      "count": 3750
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 7,
+    "tier_id": 13,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 800
+     },
+     {
+      "id": 10159,
+      "count": 3800
+     },
+     {
+      "id": 32103,
+      "count": 1
+     }
+    ],
+    "season_first_award": [
+     {
+      "id": 10159,
+      "count": 400
+     },
+     {
+      "id": 10011,
+      "count": 300
+     }
+    ]
+   },
+   {
+    "season": 7,
+    "tier_id": 14,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 850
+     },
+     {
+      "id": 10159,
+      "count": 3850
+     },
+     {
+      "id": 32103,
+      "count": 1
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 7,
+    "tier_id": 15,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 900
+     },
+     {
+      "id": 10159,
+      "count": 3900
+     },
+     {
+      "id": 32103,
+      "count": 1
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 7,
+    "tier_id": 16,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 1000
+     },
+     {
+      "id": 10159,
+      "count": 4000
+     },
+     {
+      "id": 13570,
+      "count": 1
+     },
+     {
+      "id": 32103,
+      "count": 1
+     }
+    ],
+    "season_first_award": [
+     {
+      "id": 10159,
+      "count": 500
+     },
+     {
+      "id": 10116,
+      "count": 1
+     }
+    ]
+   },
+   {
+    "season": 7,
+    "tier_id": 17,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 1100
+     },
+     {
+      "id": 10159,
+      "count": 4100
+     },
+     {
+      "id": 13570,
+      "count": 1
+     },
+     {
+      "id": 32103,
+      "count": 1
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 7,
+    "tier_id": 18,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 1200
+     },
+     {
+      "id": 10159,
+      "count": 4200
+     },
+     {
+      "id": 13570,
+      "count": 1
+     },
+     {
+      "id": 32103,
+      "count": 1
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 7,
+    "tier_id": 19,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 1400
+     },
+     {
+      "id": 10159,
+      "count": 4300
+     },
+     {
+      "id": 13570,
+      "count": 1
+     },
+     {
+      "id": 26056,
+      "count": 1
+     },
+     {
+      "id": 32103,
+      "count": 1
+     }
+    ],
+    "season_first_award": [
+     {
+      "id": 10159,
+      "count": 600
+     },
+     {
+      "id": 10134,
+      "count": 1
+     }
+    ]
+   },
+   {
+    "season": 7,
+    "tier_id": 20,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 1600
+     },
+     {
+      "id": 10159,
+      "count": 4400
+     },
+     {
+      "id": 13570,
+      "count": 1
+     },
+     {
+      "id": 26056,
+      "count": 1
+     },
+     {
+      "id": 32103,
+      "count": 1
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 7,
+    "tier_id": 21,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 1800
+     },
+     {
+      "id": 10159,
+      "count": 4500
+     },
+     {
+      "id": 13570,
+      "count": 1
+     },
+     {
+      "id": 26056,
+      "count": 1
+     },
+     {
+      "id": 32103,
+      "count": 1
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 7,
+    "tier_id": 22,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 2000
+     },
+     {
+      "id": 10159,
+      "count": 5000
+     },
+     {
+      "id": 14445,
+      "count": 1
+     },
+     {
+      "id": 13570,
+      "count": 1
+     },
+     {
+      "id": 26056,
+      "count": 1
+     },
+     {
+      "id": 32103,
+      "count": 1
+     }
+    ],
+    "season_first_award": [
+     {
+      "id": 10159,
+      "count": 750
+     },
+     {
+      "id": 10117,
+      "count": 1
+     }
+    ]
+   },
+   {
+    "season": 7,
+    "tier_id": 23,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 2200
+     },
+     {
+      "id": 10159,
+      "count": 5500
+     },
+     {
+      "id": 14446,
+      "count": 1
+     },
+     {
+      "id": 13570,
+      "count": 1
+     },
+     {
+      "id": 26056,
+      "count": 1
+     },
+     {
+      "id": 32103,
+      "count": 1
+     }
+    ],
+    "season_first_award": null
+   },
+   {
+    "season": 7,
+    "tier_id": 24,
+    "season_award": [
+     {
+      "id": 10011,
+      "count": 2400
+     },
+     {
+      "id": 10159,
+      "count": 6000
+     },
+     {
+      "id": 14447,
+      "count": 1
+     },
+     {
+      "id": 13570,
+      "count": 1
+     },
+     {
+      "id": 26056,
+      "count": 1
+     },
+     {
+      "id": 32103,
+      "count": 1
+     }
+    ],
+    "season_first_award": null
+   }
+  ]
+ },
+ "text_chunk": null
+}

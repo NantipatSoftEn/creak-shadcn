@@ -1,0 +1,335 @@
+{
+ "config": "activity_stronghold",
+ "fields": [
+  "id",
+  "stage",
+  "pre_stronghold",
+  "point",
+  "reward"
+ ],
+ "rows": [
+  {
+   "id": 1,
+   "stage": 1,
+   "pre_stronghold": null,
+   "point": 5000000,
+   "reward": [
+    {
+     "id": 26104,
+     "count": 1
+    },
+    {
+     "id": 10001,
+     "count": 50000
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "stage": 1,
+   "pre_stronghold": null,
+   "point": 5000000,
+   "reward": [
+    {
+     "id": 26104,
+     "count": 1
+    },
+    {
+     "id": 10001,
+     "count": 50000
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "stage": 1,
+   "pre_stronghold": null,
+   "point": 5000000,
+   "reward": [
+    {
+     "id": 26104,
+     "count": 1
+    },
+    {
+     "id": 10001,
+     "count": 50000
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "stage": 1,
+   "pre_stronghold": [
+    1
+   ],
+   "point": 10000000,
+   "reward": [
+    {
+     "id": 10306,
+     "count": 1
+    },
+    {
+     "id": 10001,
+     "count": 50000
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "stage": 1,
+   "pre_stronghold": [
+    2
+   ],
+   "point": 10000000,
+   "reward": [
+    {
+     "id": 10306,
+     "count": 1
+    },
+    {
+     "id": 10001,
+     "count": 50000
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "stage": 1,
+   "pre_stronghold": [
+    3
+   ],
+   "point": 10000000,
+   "reward": [
+    {
+     "id": 10306,
+     "count": 1
+    },
+    {
+     "id": 10001,
+     "count": 50000
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "stage": 1,
+   "pre_stronghold": [
+    4,
+    5,
+    6
+   ],
+   "point": 5000000,
+   "reward": [
+    {
+     "id": 10203,
+     "count": 1
+    },
+    {
+     "id": 10001,
+     "count": 100000
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "stage": 2,
+   "pre_stronghold": null,
+   "point": 10000000,
+   "reward": [
+    {
+     "id": 10179,
+     "count": 1
+    },
+    {
+     "id": 10001,
+     "count": 100000
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "stage": 3,
+   "pre_stronghold": null,
+   "point": 15000000,
+   "reward": [
+    {
+     "id": 10309,
+     "count": 1
+    },
+    {
+     "id": 10001,
+     "count": 100000
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "stage": 4,
+   "pre_stronghold": null,
+   "point": 20000000,
+   "reward": [
+    {
+     "id": 26104,
+     "count": 1
+    },
+    {
+     "id": 10001,
+     "count": 100000
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "stage": 5,
+   "pre_stronghold": null,
+   "point": 40000000,
+   "reward": [
+    {
+     "id": 26104,
+     "count": 1
+    },
+    {
+     "id": 10001,
+     "count": 100000
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "stage": 6,
+   "pre_stronghold": null,
+   "point": 60000000,
+   "reward": [
+    {
+     "id": 26104,
+     "count": 1
+    },
+    {
+     "id": 10001,
+     "count": 100000
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "stage": 7,
+   "pre_stronghold": null,
+   "point": 80000000,
+   "reward": [
+    {
+     "id": 26104,
+     "count": 1
+    },
+    {
+     "id": 10001,
+     "count": 100000
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "stage": 8,
+   "pre_stronghold": null,
+   "point": 100000000,
+   "reward": [
+    {
+     "id": 26104,
+     "count": 1
+    },
+    {
+     "id": 10001,
+     "count": 100000
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "stage": 9,
+   "pre_stronghold": null,
+   "point": 120000000,
+   "reward": [
+    {
+     "id": 26104,
+     "count": 1
+    },
+    {
+     "id": 10001,
+     "count": 100000
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "stage": 10,
+   "pre_stronghold": null,
+   "point": 150000000,
+   "reward": [
+    {
+     "id": 26104,
+     "count": 1
+    },
+    {
+     "id": 10001,
+     "count": 100000
+    }
+   ]
+  },
+  {
+   "id": 0,
+   "stage": 0,
+   "pre_stronghold": null,
+   "point": 0,
+   "reward": null
+  },
+  {
+   "id": 0,
+   "stage": 0,
+   "pre_stronghold": null,
+   "point": 0,
+   "reward": null
+  },
+  {
+   "id": 0,
+   "stage": 0,
+   "pre_stronghold": null,
+   "point": 0,
+   "reward": null
+  },
+  {
+   "id": 0,
+   "stage": 0,
+   "pre_stronghold": null,
+   "point": 0,
+   "reward": null
+  },
+  {
+   "id": 0,
+   "stage": 0,
+   "pre_stronghold": null,
+   "point": 0,
+   "reward": null
+  },
+  {
+   "id": 0,
+   "stage": 0,
+   "pre_stronghold": null,
+   "point": 0,
+   "reward": null
+  },
+  {
+   "id": 0,
+   "stage": 0,
+   "pre_stronghold": null,
+   "point": 0,
+   "reward": null
+  },
+  {
+   "id": 0,
+   "stage": 0,
+   "pre_stronghold": null,
+   "point": 0,
+   "reward": null
+  }
+ ],
+ "text_chunk": null
+}

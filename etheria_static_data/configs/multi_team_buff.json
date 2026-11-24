@@ -1,0 +1,52 @@
+{
+ "config": "multi_team_buff",
+ "fields": [
+  "id",
+  "icon",
+  "effect",
+  "limit",
+  "name",
+  "desc"
+ ],
+ "rows": {
+  "22002": {
+   "id": 22002,
+   "icon": "0001",
+   "effect": 2001,
+   "limit": [
+    1,
+    3,
+    5
+   ],
+   "name": "Anima Storm",
+   "name_th": "Anima Storm",
+   "desc": "Increases our team's ATK by 30%",
+   "desc_th": "เพิ่ม ATK ของทีมขึ้น 30%"
+  },
+  "22003": {
+   "id": 22003,
+   "icon": "0005",
+   "effect": 2003,
+   "limit": [
+    2,
+    4,
+    5
+   ],
+   "name": "Specialized Armor",
+   "name_th": "Specialized Armor",
+   "desc": "Increases our team's DEF by 35%",
+   "desc_th": "เพิ่ม DEF ของทีมขึ้น 35%"
+  },
+  "22007": {
+   "id": 22007,
+   "icon": "0011",
+   "effect": 2007,
+   "limit": null,
+   "name": "Emergency Barrier",
+   "name_th": "Emergency Barrier",
+   "desc": "Our team gains 1 turn(s) of [Immunity] at the start of the battle",
+   "desc_th": "ทีมของเราจะได้รับ [Immunity] 1 เทิร์นเมื่อเริ่มต่อสู้"
+  }
+ },
+ "text_chunk": "00112_b84b0af848b03746.json"
+}

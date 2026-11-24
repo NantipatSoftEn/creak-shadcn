@@ -1,0 +1,247 @@
+{
+ "config": "linkerexamrank",
+ "fields": [
+  "rank_id",
+  "rank_pct",
+  "award"
+ ],
+ "rows": [
+  {
+   "rank_id": [
+    1
+   ],
+   "rank_pct": 0,
+   "award": [
+    {
+     "id": 10504,
+     "count": 100
+    },
+    {
+     "id": 10502,
+     "count": 100
+    },
+    {
+     "id": 10001,
+     "count": 1000000
+    },
+    {
+     "id": 48,
+     "count": 1
+    }
+   ]
+  },
+  {
+   "rank_id": [
+    2
+   ],
+   "rank_pct": 0,
+   "award": [
+    {
+     "id": 10504,
+     "count": 90
+    },
+    {
+     "id": 10502,
+     "count": 90
+    },
+    {
+     "id": 10001,
+     "count": 800000
+    },
+    {
+     "id": 49,
+     "count": 1
+    }
+   ]
+  },
+  {
+   "rank_id": [
+    3
+   ],
+   "rank_pct": 0,
+   "award": [
+    {
+     "id": 10504,
+     "count": 80
+    },
+    {
+     "id": 10502,
+     "count": 80
+    },
+    {
+     "id": 10001,
+     "count": 600000
+    },
+    {
+     "id": 49,
+     "count": 1
+    }
+   ]
+  },
+  {
+   "rank_id": [
+    4,
+    10
+   ],
+   "rank_pct": 0,
+   "award": [
+    {
+     "id": 10504,
+     "count": 70
+    },
+    {
+     "id": 10502,
+     "count": 70
+    },
+    {
+     "id": 10001,
+     "count": 500000
+    },
+    {
+     "id": 49,
+     "count": 1
+    }
+   ]
+  },
+  {
+   "rank_id": [
+    11,
+    50
+   ],
+   "rank_pct": 0,
+   "award": [
+    {
+     "id": 10504,
+     "count": 60
+    },
+    {
+     "id": 10502,
+     "count": 60
+    },
+    {
+     "id": 10001,
+     "count": 450000
+    },
+    {
+     "id": 50,
+     "count": 1
+    }
+   ]
+  },
+  {
+   "rank_id": [
+    51,
+    100
+   ],
+   "rank_pct": 0,
+   "award": [
+    {
+     "id": 10504,
+     "count": 55
+    },
+    {
+     "id": 10502,
+     "count": 55
+    },
+    {
+     "id": 10001,
+     "count": 400000
+    },
+    {
+     "id": 50,
+     "count": 1
+    }
+   ]
+  },
+  {
+   "rank_id": [
+    101,
+    200
+   ],
+   "rank_pct": 0,
+   "award": [
+    {
+     "id": 10504,
+     "count": 50
+    },
+    {
+     "id": 10502,
+     "count": 50
+    },
+    {
+     "id": 10001,
+     "count": 350000
+    },
+    {
+     "id": 50,
+     "count": 1
+    }
+   ]
+  },
+  {
+   "rank_id": [
+    0
+   ],
+   "rank_pct": 10,
+   "award": [
+    {
+     "id": 10504,
+     "count": 45
+    },
+    {
+     "id": 10001,
+     "count": 300000
+    }
+   ]
+  },
+  {
+   "rank_id": [
+    0
+   ],
+   "rank_pct": 30,
+   "award": [
+    {
+     "id": 10504,
+     "count": 40
+    },
+    {
+     "id": 10001,
+     "count": 200000
+    }
+   ]
+  },
+  {
+   "rank_id": [
+    0
+   ],
+   "rank_pct": 60,
+   "award": [
+    {
+     "id": 10504,
+     "count": 35
+    },
+    {
+     "id": 10001,
+     "count": 150000
+    }
+   ]
+  },
+  {
+   "rank_id": [
+    0
+   ],
+   "rank_pct": 100,
+   "award": [
+    {
+     "id": 10504,
+     "count": 30
+    },
+    {
+     "id": 10001,
+     "count": 100000
+    }
+   ]
+  }
+ ],
+ "text_chunk": null
+}

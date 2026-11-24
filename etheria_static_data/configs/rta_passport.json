@@ -1,0 +1,2562 @@
+{
+ "config": "rta_passport",
+ "fields": [
+  "level",
+  "exp",
+  "normal_rewards",
+  "is_key_level",
+  "title_color",
+  "title_tex",
+  "passport_color",
+  "reward_package_tex",
+  "entrance_tex",
+  "bg_tex",
+  "field_id",
+  "sprint_bg",
+  "title",
+  "tips"
+ ],
+ "rows": {
+  "1001": {
+   "level": 1,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 10159,
+     "count": 200
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "FF72FDFF",
+   "title_tex": "T_UI_Arena_BattlePass_Title_BG5",
+   "passport_color": "da70d4FF",
+   "reward_package_tex": "T_UI_Arena_BattlePass_Gift5",
+   "entrance_tex": "T_UI_Arena_Img_Scene16",
+   "bg_tex": "T_UI_Arena_BG_Scene006",
+   "field_id": 63016,
+   "sprint_bg": "T_UI_Arena_BattlePass_TextboardSS3",
+   "tips": "Press to return",
+   "tips_th": "กดเพื่อย้อนกลับ"
+  },
+  "1002": {
+   "level": 2,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "tips": "test3dui",
+   "tips_th": "test3dui"
+  },
+  "1003": {
+   "level": 3,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 10174,
+     "count": 100
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": ""
+  },
+  "1004": {
+   "level": 4,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": ""
+  },
+  "1005": {
+   "level": 5,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 10174,
+     "count": 1000
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "Press Gacha.",
+   "tips_th": "กดกาชา"
+  },
+  "1006": {
+   "level": 6,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "Anima Prototype is a necessary medium for Hyperlink Summon. Try using it!",
+   "tips_th": "ต้นแบบ Anima เป็นสื่อจำเป็นสำหรับการอัญเชิญไฮเปอร์ลิงก์ ลองใช้ดูสิ!"
+  },
+  "1007": {
+   "level": 7,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 10159,
+     "count": 200
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "Now, focus...",
+   "tips_th": "เอาละ ตั้งสมาธิ..."
+  },
+  "1008": {
+   "level": 8,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "An Animus has responded to your summon. Check out their abilities.",
+   "tips_th": "มี Animus ตอบรับการอัญเชิญของคุณแล้ว ไปดูความสามารถของเขากัน"
+  },
+  "1009": {
+   "level": 9,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 10174,
+     "count": 100
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "Press to return",
+   "tips_th": "กดเพื่อย้อนกลับ"
+  },
+  "1010": {
+   "level": 10,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 14091,
+     "count": 1
+    }
+   ],
+   "is_key_level": 1,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "All set? Let's head out quickly.",
+   "tips_th": "พร้อมหรือยัง? รีบไปกันเถอะ"
+  },
+  "1011": {
+   "level": 11,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 10159,
+     "count": 200
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "I have set the coordinates for the Decaninth Street Transit Hub. I'm sure there won't be any deviation.",
+   "tips_th": "ตั้งค่าพิกัดศูนย์ขนส่งถนนสายที่ 90 เรียบร้อย ฉันมั่นใจว่าไม่น่ามีความคลาดเคลื่อนอะไรได้นะ"
+  },
+  "1012": {
+   "level": 12,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "Tap to start",
+   "tips_th": "คลิกเพื่อเริ่ม"
+  },
+  "1013": {
+   "level": 13,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 10174,
+     "count": 100
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "The Ether Link is your auxiliary device for activating the Hyperlink to enter Etheria.",
+   "tips_th": "อีเทอร์ลิงก์เป็นอุปกรณ์เสริมสำหรับเปิดใช้งานไฮเปอร์ลิงก์เพื่อเข้าสู่ Etheria"
+  },
+  "1014": {
+   "level": 14,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": ""
+  },
+  "1015": {
+   "level": 15,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 10174,
+     "count": 1000
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": ""
+  },
+  "1016": {
+   "level": 16,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": ""
+  },
+  "1017": {
+   "level": 17,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 10159,
+     "count": 200
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": ""
+  },
+  "1018": {
+   "level": 18,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "An Animus has responded to your summon",
+   "tips_th": "มี Animus ตอบรับการอัญเชิญของคุณแล้ว"
+  },
+  "1019": {
+   "level": 19,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 10174,
+     "count": 100
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "We need more manpower, use Summon to get more Animuses' help.",
+   "tips_th": "เราต้องการกำลังคน ใช้การอัญเชิญเพื่อรับความช่วยเหลือเพิ่มเติมจาก Animus"
+  },
+  "1020": {
+   "level": 20,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 10174,
+     "count": 2000
+    }
+   ],
+   "is_key_level": 1,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "You may also enhance an Animus's potential, but it requires special materials.",
+   "tips_th": "คุณสามารถเสริมศักยภาพของ Animus ได้แต่ต้องใช้วัสดุพิเศษ"
+  },
+  "1021": {
+   "level": 21,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 10174,
+     "count": 100
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "To obtain more Prowess materials, complete the commissions at the GP Outpost. It is on the edge of Etheria and is not safe.",
+   "tips_th": "หากต้องการวัสดุศักยภาพเพิ่มเติม ทำภารกิจจ้างงานให้สำเร็จที่ด่านหน้า GP อยู่ที่ชายขอบของ Etheria ที่นั่นไม่ปลอดภัย"
+  },
+  "1022": {
+   "level": 22,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "Complete various challenges to earn different rewards and fully empower your Animuses.",
+   "tips_th": "ทำท้าทายให้สำเร็จเพื่อรับรางวัลหลากหลายและเพิ่มพลัง Animus ของคุณให้สมบูรณ์"
+  },
+  "1023": {
+   "level": 23,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 10159,
+     "count": 200
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "You can view relevant information in this area.",
+   "tips_th": "คุณสามารถดูข้อมูลที่เกี่ยวข้องได้ในพื้นที่นี้"
+  },
+  "1024": {
+   "level": 24,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "To become stronger, let's go!",
+   "tips_th": "เพื่อจะแข็งแกร่งขึ้น ไปกันเลย!"
+  },
+  "1025": {
+   "level": 25,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 10174,
+     "count": 1000
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "If you want to get more Ether Crystals, you have to work for the Genesis Plan. They really know how to play their cards.",
+   "tips_th": "หากต้องการได้ Ether Crystal เพิ่มขึ้นคุณต้องทำงานให้กับ Genesis Plan พวกนั้นรู้ดีว่าจะทำอะไรในตอนไหน"
+  },
+  "1026": {
+   "level": 26,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "Before the power limit kicks in, here's a quick Maggie news update! The Mains Foundation has just decided to collaborate with the Union to develop Module resources.",
+   "tips_th": "ก่อนการจำกัดพลังงานจะเริ่มต้น เชิญพบกับอัปเดตข่าวสั้นจาก Maggie! มูลนิธิ Mains ได้ตัดสินใจที่จะร่วมมือกับสหพันธ์ในการพัฒนาทรัพยากรโมดูล"
+  },
+  "1027": {
+   "level": 27,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 10159,
+     "count": 200
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "You may also enhance an Animus's potential, but it requires special materials.",
+   "tips_th": "คุณสามารถเสริมศักยภาพของ Animus ได้แต่ต้องใช้วัสดุพิเศษ"
+  },
+  "1028": {
+   "level": 28,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie"
+  },
+  "1029": {
+   "level": 29,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 10174,
+     "count": 100
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": ""
+  },
+  "1030": {
+   "level": 30,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 14394,
+     "count": 1
+    }
+   ],
+   "is_key_level": 1,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": ""
+  },
+  "1031": {
+   "level": 31,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 10174,
+     "count": 100
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": ""
+  },
+  "1032": {
+   "level": 32,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": ""
+  },
+  "1033": {
+   "level": 33,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 10159,
+     "count": 200
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": ""
+  },
+  "1034": {
+   "level": 34,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": ""
+  },
+  "1035": {
+   "level": 35,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 10174,
+     "count": 1000
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": ""
+  },
+  "1036": {
+   "level": 36,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": ""
+  },
+  "1037": {
+   "level": 37,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 10174,
+     "count": 100
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": ""
+  },
+  "1038": {
+   "level": 38,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": ""
+  },
+  "1039": {
+   "level": 39,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 10159,
+     "count": 200
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": ""
+  },
+  "1040": {
+   "level": 40,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 23104,
+     "count": 1
+    }
+   ],
+   "is_key_level": 1,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "It seems the Animus's abilities are somewhat lacking. Let's see what else we can do to enhance them.",
+   "tips_th": "ดูเหมือนความสามารถของ Animus จะยังไม่พอ มาดูกันว่าเราทำอะไรได้บ้างเพื่อเพิ่มพลังพวกเขา"
+  },
+  "1041": {
+   "level": 41,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 10174,
+     "count": 100
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "This area allows you to view Animus information.",
+   "tips_th": "พื้นที่นี้อนุญาตให้คุณดูข้อมูล Animus ได้"
+  },
+  "1042": {
+   "level": 42,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "Here you can view all the Animuses you have contracted. Choose one with potential.",
+   "tips_th": "ที่นี่ คุณสามารถดู Animus ทั้งหมดที่คุณทำสัญญาด้วยได้ เลือก Animus ที่มีศักยภาพ"
+  },
+  "1043": {
+   "level": 43,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 10159,
+     "count": 200
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "Let's go with him.",
+   "tips_th": "เลือกเขากันเถอะ"
+  },
+  "1044": {
+   "level": 44,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "It seems that the star level restricts the growth of Animuses.",
+   "tips_th": "ดูเหมือนระดับดาวจะจำกัดการเติบโตของ Animus"
+  },
+  "1045": {
+   "level": 45,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 10174,
+     "count": 1000
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "Fighting and communicating with Animuses of the same level may provide insights to break through limits.",
+   "tips_th": "การต่อสู้และสื่อสารกับ Animus ใน Lv.เดียวกันอาจช่วยมอบข้อมูลเชิงลึกในการข้ามขีดจำกัด"
+  },
+  "1046": {
+   "level": 46,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "Fighting and communicating with Animuses of the same level may provide insights to break through limits.",
+   "tips_th": "การต่อสู้และสื่อสารกับ Animus ใน Lv.เดียวกันอาจช่วยมอบข้อมูลเชิงลึกในการข้ามขีดจำกัด"
+  },
+  "1047": {
+   "level": 47,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 10159,
+     "count": 200
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "Fighting and communicating with Animuses of the same level may provide insights to break through limits.",
+   "tips_th": "การต่อสู้และสื่อสารกับ Animus ใน Lv.เดียวกันอาจช่วยมอบข้อมูลเชิงลึกในการข้ามขีดจำกัด"
+  },
+  "1048": {
+   "level": 48,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "All the conditions for Star Upgrade are met. I can't wait to see a stronger Animus!",
+   "tips_th": "ครบเงื่อนไขการอัปเกรดดาวทั้งหมดแล้ว ฉันรอเห็น Animus ที่แข็งแกร่งขึ้นแทบไม่ไหว!"
+  },
+  "1049": {
+   "level": 49,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 10174,
+     "count": 100
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "The next quest is very dangerous. Make sure you are fully prepared before setting out. Check the workstation.",
+   "tips_th": "เควสถัดไปนั้นอันตรายมาก ตรวจสอบให้ดีว่าคุณเตรียมตัวพร้อมเต็มที่แล้วก่อนออกไป ตรวจสอบโต๊ะทำงาน"
+  },
+  "1050": {
+   "level": 50,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 63016,
+     "count": 1
+    }
+   ],
+   "is_key_level": 1,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "Now that they have greater combat power, do you want them to take on some challenges?",
+   "tips_th": "ตอนนี้เมื่อทุกคนมีพลังต่อสู้มากขึ้นแล้ว ต้องการเผชิญหน้าความท้าทายไหม?"
+  },
+  "1051": {
+   "level": 51,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": ""
+  },
+  "1052": {
+   "level": 52,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": ""
+  },
+  "1053": {
+   "level": 53,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": ""
+  },
+  "1054": {
+   "level": 54,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": ""
+  },
+  "1055": {
+   "level": 55,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": ""
+  },
+  "1056": {
+   "level": 56,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": ""
+  },
+  "1057": {
+   "level": 57,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": ""
+  },
+  "1058": {
+   "level": 58,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": ""
+  },
+  "1059": {
+   "level": 59,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": ""
+  },
+  "1060": {
+   "level": 60,
+   "exp": 0,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "Press to view the Animus.",
+   "tips_th": "กดเพื่อดู Animus"
+  },
+  "2001": {
+   "level": 1,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 10159,
+     "count": 200
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "FFE99CFF",
+   "title_tex": "T_UI_Arena_BattlePass_Title_BG6",
+   "passport_color": "f37916FF",
+   "reward_package_tex": "T_UI_Arena_BattlePass_Gift6",
+   "entrance_tex": "T_UI_Arena_Img_Scene17",
+   "bg_tex": "T_UI_Arena_BG_Scene007",
+   "field_id": 63017,
+   "sprint_bg": "T_UI_Arena_BattlePass_TextboardSS4",
+   "tips": "Press to return",
+   "tips_th": "กดเพื่อย้อนกลับ"
+  },
+  "2002": {
+   "level": 2,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "tips": "test3dui",
+   "tips_th": "test3dui"
+  },
+  "2003": {
+   "level": 3,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 10174,
+     "count": 100
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": ""
+  },
+  "2004": {
+   "level": 4,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": ""
+  },
+  "2005": {
+   "level": 5,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 10174,
+     "count": 1000
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "Press Gacha.",
+   "tips_th": "กดกาชา"
+  },
+  "2006": {
+   "level": 6,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "Anima Prototype is a necessary medium for Hyperlink Summon. Try using it!",
+   "tips_th": "ต้นแบบ Anima เป็นสื่อจำเป็นสำหรับการอัญเชิญไฮเปอร์ลิงก์ ลองใช้ดูสิ!"
+  },
+  "2007": {
+   "level": 7,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 10159,
+     "count": 200
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "Now, focus...",
+   "tips_th": "เอาละ ตั้งสมาธิ..."
+  },
+  "2008": {
+   "level": 8,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "An Animus has responded to your summon. Check out their abilities.",
+   "tips_th": "มี Animus ตอบรับการอัญเชิญของคุณแล้ว ไปดูความสามารถของเขากัน"
+  },
+  "2009": {
+   "level": 9,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 10174,
+     "count": 100
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "Press to return",
+   "tips_th": "กดเพื่อย้อนกลับ"
+  },
+  "2010": {
+   "level": 10,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 14095,
+     "count": 1
+    }
+   ],
+   "is_key_level": 1,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "All set? Let's head out quickly.",
+   "tips_th": "พร้อมหรือยัง? รีบไปกันเถอะ"
+  },
+  "2011": {
+   "level": 11,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 10159,
+     "count": 200
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "I have set the coordinates for the Decaninth Street Transit Hub. I'm sure there won't be any deviation.",
+   "tips_th": "ตั้งค่าพิกัดศูนย์ขนส่งถนนสายที่ 90 เรียบร้อย ฉันมั่นใจว่าไม่น่ามีความคลาดเคลื่อนอะไรได้นะ"
+  },
+  "2012": {
+   "level": 12,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "Tap to start",
+   "tips_th": "คลิกเพื่อเริ่ม"
+  },
+  "2013": {
+   "level": 13,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 10174,
+     "count": 100
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "The Ether Link is your auxiliary device for activating the Hyperlink to enter Etheria.",
+   "tips_th": "อีเทอร์ลิงก์เป็นอุปกรณ์เสริมสำหรับเปิดใช้งานไฮเปอร์ลิงก์เพื่อเข้าสู่ Etheria"
+  },
+  "2014": {
+   "level": 14,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": ""
+  },
+  "2015": {
+   "level": 15,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 10174,
+     "count": 1000
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": ""
+  },
+  "2016": {
+   "level": 16,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": ""
+  },
+  "2017": {
+   "level": 17,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 10159,
+     "count": 200
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": ""
+  },
+  "2018": {
+   "level": 18,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "An Animus has responded to your summon",
+   "tips_th": "มี Animus ตอบรับการอัญเชิญของคุณแล้ว"
+  },
+  "2019": {
+   "level": 19,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 10174,
+     "count": 100
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "We need more manpower, use Summon to get more Animuses' help.",
+   "tips_th": "เราต้องการกำลังคน ใช้การอัญเชิญเพื่อรับความช่วยเหลือเพิ่มเติมจาก Animus"
+  },
+  "2020": {
+   "level": 20,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 10174,
+     "count": 2000
+    }
+   ],
+   "is_key_level": 1,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "You may also enhance an Animus's potential, but it requires special materials.",
+   "tips_th": "คุณสามารถเสริมศักยภาพของ Animus ได้แต่ต้องใช้วัสดุพิเศษ"
+  },
+  "2021": {
+   "level": 21,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 10174,
+     "count": 100
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "To obtain more Prowess materials, complete the commissions at the GP Outpost. It is on the edge of Etheria and is not safe.",
+   "tips_th": "หากต้องการวัสดุศักยภาพเพิ่มเติม ทำภารกิจจ้างงานให้สำเร็จที่ด่านหน้า GP อยู่ที่ชายขอบของ Etheria ที่นั่นไม่ปลอดภัย"
+  },
+  "2022": {
+   "level": 22,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "Complete various challenges to earn different rewards and fully empower your Animuses.",
+   "tips_th": "ทำท้าทายให้สำเร็จเพื่อรับรางวัลหลากหลายและเพิ่มพลัง Animus ของคุณให้สมบูรณ์"
+  },
+  "2023": {
+   "level": 23,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 10159,
+     "count": 200
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "You can view relevant information in this area.",
+   "tips_th": "คุณสามารถดูข้อมูลที่เกี่ยวข้องได้ในพื้นที่นี้"
+  },
+  "2024": {
+   "level": 24,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "To become stronger, let's go!",
+   "tips_th": "เพื่อจะแข็งแกร่งขึ้น ไปกันเลย!"
+  },
+  "2025": {
+   "level": 25,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 10174,
+     "count": 1000
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "If you want to get more Ether Crystals, you have to work for the Genesis Plan. They really know how to play their cards.",
+   "tips_th": "หากต้องการได้ Ether Crystal เพิ่มขึ้นคุณต้องทำงานให้กับ Genesis Plan พวกนั้นรู้ดีว่าจะทำอะไรในตอนไหน"
+  },
+  "2026": {
+   "level": 26,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "Before the power limit kicks in, here's a quick Maggie news update! The Mains Foundation has just decided to collaborate with the Union to develop Module resources.",
+   "tips_th": "ก่อนการจำกัดพลังงานจะเริ่มต้น เชิญพบกับอัปเดตข่าวสั้นจาก Maggie! มูลนิธิ Mains ได้ตัดสินใจที่จะร่วมมือกับสหพันธ์ในการพัฒนาทรัพยากรโมดูล"
+  },
+  "2027": {
+   "level": 27,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 10159,
+     "count": 200
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "You may also enhance an Animus's potential, but it requires special materials.",
+   "tips_th": "คุณสามารถเสริมศักยภาพของ Animus ได้แต่ต้องใช้วัสดุพิเศษ"
+  },
+  "2028": {
+   "level": 28,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie"
+  },
+  "2029": {
+   "level": 29,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 10174,
+     "count": 100
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": ""
+  },
+  "2030": {
+   "level": 30,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 14395,
+     "count": 1
+    }
+   ],
+   "is_key_level": 1,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": ""
+  },
+  "2031": {
+   "level": 31,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 10174,
+     "count": 100
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": ""
+  },
+  "2032": {
+   "level": 32,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": ""
+  },
+  "2033": {
+   "level": 33,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 10159,
+     "count": 200
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": ""
+  },
+  "2034": {
+   "level": 34,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": ""
+  },
+  "2035": {
+   "level": 35,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 10174,
+     "count": 1000
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": ""
+  },
+  "2036": {
+   "level": 36,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": ""
+  },
+  "2037": {
+   "level": 37,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 10174,
+     "count": 100
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": ""
+  },
+  "2038": {
+   "level": 38,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": ""
+  },
+  "2039": {
+   "level": 39,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 10159,
+     "count": 200
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": ""
+  },
+  "2040": {
+   "level": 40,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 23105,
+     "count": 1
+    }
+   ],
+   "is_key_level": 1,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "It seems the Animus's abilities are somewhat lacking. Let's see what else we can do to enhance them.",
+   "tips_th": "ดูเหมือนความสามารถของ Animus จะยังไม่พอ มาดูกันว่าเราทำอะไรได้บ้างเพื่อเพิ่มพลังพวกเขา"
+  },
+  "2041": {
+   "level": 41,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 10174,
+     "count": 100
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "This area allows you to view Animus information.",
+   "tips_th": "พื้นที่นี้อนุญาตให้คุณดูข้อมูล Animus ได้"
+  },
+  "2042": {
+   "level": 42,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "Here you can view all the Animuses you have contracted. Choose one with potential.",
+   "tips_th": "ที่นี่ คุณสามารถดู Animus ทั้งหมดที่คุณทำสัญญาด้วยได้ เลือก Animus ที่มีศักยภาพ"
+  },
+  "2043": {
+   "level": 43,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 10159,
+     "count": 200
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "Let's go with him.",
+   "tips_th": "เลือกเขากันเถอะ"
+  },
+  "2044": {
+   "level": 44,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "It seems that the star level restricts the growth of Animuses.",
+   "tips_th": "ดูเหมือนระดับดาวจะจำกัดการเติบโตของ Animus"
+  },
+  "2045": {
+   "level": 45,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 10174,
+     "count": 1000
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "Fighting and communicating with Animuses of the same level may provide insights to break through limits.",
+   "tips_th": "การต่อสู้และสื่อสารกับ Animus ใน Lv.เดียวกันอาจช่วยมอบข้อมูลเชิงลึกในการข้ามขีดจำกัด"
+  },
+  "2046": {
+   "level": 46,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "Fighting and communicating with Animuses of the same level may provide insights to break through limits.",
+   "tips_th": "การต่อสู้และสื่อสารกับ Animus ใน Lv.เดียวกันอาจช่วยมอบข้อมูลเชิงลึกในการข้ามขีดจำกัด"
+  },
+  "2047": {
+   "level": 47,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 10159,
+     "count": 200
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "Fighting and communicating with Animuses of the same level may provide insights to break through limits.",
+   "tips_th": "การต่อสู้และสื่อสารกับ Animus ใน Lv.เดียวกันอาจช่วยมอบข้อมูลเชิงลึกในการข้ามขีดจำกัด"
+  },
+  "2048": {
+   "level": 48,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "All the conditions for Star Upgrade are met. I can't wait to see a stronger Animus!",
+   "tips_th": "ครบเงื่อนไขการอัปเกรดดาวทั้งหมดแล้ว ฉันรอเห็น Animus ที่แข็งแกร่งขึ้นแทบไม่ไหว!"
+  },
+  "2049": {
+   "level": 49,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 10174,
+     "count": 100
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "The next quest is very dangerous. Make sure you are fully prepared before setting out. Check the workstation.",
+   "tips_th": "เควสถัดไปนั้นอันตรายมาก ตรวจสอบให้ดีว่าคุณเตรียมตัวพร้อมเต็มที่แล้วก่อนออกไป ตรวจสอบโต๊ะทำงาน"
+  },
+  "2050": {
+   "level": 50,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 63017,
+     "count": 1
+    }
+   ],
+   "is_key_level": 1,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "Now that they have greater combat power, do you want them to take on some challenges?",
+   "tips_th": "ตอนนี้เมื่อทุกคนมีพลังต่อสู้มากขึ้นแล้ว ต้องการเผชิญหน้าความท้าทายไหม?"
+  },
+  "2051": {
+   "level": 51,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": ""
+  },
+  "2052": {
+   "level": 52,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": ""
+  },
+  "2053": {
+   "level": 53,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": ""
+  },
+  "2054": {
+   "level": 54,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": ""
+  },
+  "2055": {
+   "level": 55,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": ""
+  },
+  "2056": {
+   "level": 56,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": ""
+  },
+  "2057": {
+   "level": 57,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": ""
+  },
+  "2058": {
+   "level": 58,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": ""
+  },
+  "2059": {
+   "level": 59,
+   "exp": 1000,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": ""
+  },
+  "2060": {
+   "level": 60,
+   "exp": 0,
+   "normal_rewards": [
+    {
+     "id": 27050,
+     "count": 1
+    }
+   ],
+   "is_key_level": 0,
+   "title_color": "",
+   "title_tex": "",
+   "passport_color": "",
+   "reward_package_tex": "",
+   "entrance_tex": "",
+   "bg_tex": "",
+   "field_id": 0,
+   "sprint_bg": "",
+   "title": "Maggie",
+   "title_th": "Maggie",
+   "tips": "Press to view the Animus.",
+   "tips_th": "กดเพื่อดู Animus"
+  }
+ },
+ "text_chunk": "00081_727b44c58d69dcd8.json"
+}

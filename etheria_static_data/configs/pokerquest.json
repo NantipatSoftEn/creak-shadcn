@@ -1,0 +1,149 @@
+{
+ "config": "pokerquest",
+ "fields": [
+  "id",
+  "type",
+  "award",
+  "quest_level",
+  "quest_title"
+ ],
+ "rows": [
+  {
+   "id": 1,
+   "type": 1,
+   "award": [
+    {
+     "id": 27004,
+     "count": 1
+    },
+    {
+     "id": 10134,
+     "count": 1
+    }
+   ],
+   "quest_level": 1,
+   "quest_title": "Radiance",
+   "quest_title_th": "Radiance"
+  },
+  {
+   "id": 2,
+   "type": 4,
+   "award": [
+    {
+     "id": 10001,
+     "count": 250000
+    },
+    {
+     "id": 10111,
+     "count": 1
+    }
+   ],
+   "quest_level": 2,
+   "quest_title": "Radiance",
+   "quest_title_th": "Radiance"
+  },
+  {
+   "id": 3,
+   "type": 3,
+   "award": [
+    {
+     "id": 10001,
+     "count": 250000
+    },
+    {
+     "id": 10202,
+     "count": 1
+    }
+   ],
+   "quest_level": 2,
+   "quest_title": "Radiance",
+   "quest_title_th": "Radiance"
+  },
+  {
+   "id": 4,
+   "type": 5,
+   "award": [
+    {
+     "id": 10001,
+     "count": 200000
+    },
+    {
+     "id": 10111,
+     "count": 1
+    }
+   ],
+   "quest_level": 3,
+   "quest_title": "Splendor",
+   "quest_title_th": "รุ่งโรจน์"
+  },
+  {
+   "id": 5,
+   "type": 6,
+   "award": [
+    {
+     "id": 10001,
+     "count": 200000
+    },
+    {
+     "id": 25002,
+     "count": 5
+    }
+   ],
+   "quest_level": 3,
+   "quest_title": "Splendor",
+   "quest_title_th": "รุ่งโรจน์"
+  },
+  {
+   "id": 6,
+   "type": 7,
+   "award": [
+    {
+     "id": 10001,
+     "count": 100000
+    },
+    {
+     "id": 10102,
+     "count": 100
+    }
+   ],
+   "quest_level": 4,
+   "quest_title": "Phantom",
+   "quest_title_th": "มายา"
+  },
+  {
+   "id": 7,
+   "type": 8,
+   "award": [
+    {
+     "id": 10001,
+     "count": 100000
+    },
+    {
+     "id": 10102,
+     "count": 100
+    }
+   ],
+   "quest_level": 4,
+   "quest_title": "Phantom",
+   "quest_title_th": "มายา"
+  },
+  {
+   "id": 8,
+   "type": 9,
+   "award": [
+    {
+     "id": 10001,
+     "count": 100000
+    },
+    {
+     "id": 10102,
+     "count": 100
+    }
+   ],
+   "quest_level": 4,
+   "quest_title": "Phantom",
+   "quest_title_th": "มายา"
+  }
+ ],
+ "text_chunk": "00121_8997d00b5e591f1c.json"
+}

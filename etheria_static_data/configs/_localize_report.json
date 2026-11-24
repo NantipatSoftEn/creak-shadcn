@@ -1,0 +1,1698 @@
+{
+ "activity": {
+  "missing_text_fields": [
+   "activity_name"
+  ],
+  "text_chunk": null
+ },
+ "activity_agttrain": {
+  "missing_text_fields": [
+   "agt_name",
+   "desc1",
+   "desc2"
+  ],
+  "text_chunk": "00001_6b2e16557e05eb66.json"
+ },
+ "activity_bingo": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "activity_chaku": {
+  "missing_text_fields": [
+   "name"
+  ],
+  "text_chunk": "00003_deefdaa0c97517f3.json"
+ },
+ "activity_collection": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "activity_competition": {
+  "missing_text_fields": [
+   "title",
+   "desc",
+   "show_time_str"
+  ],
+  "text_chunk": "00005_337b403bcc4902ab.json"
+ },
+ "activity_componentforge": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "activity_cst_draw": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "activity_draw": {
+  "missing_text_fields": [
+   "desc"
+  ],
+  "text_chunk": "00006_8c014c59dacf8bbd.json"
+ },
+ "activity_esports": {
+  "missing_text_fields": [
+   "title",
+   "banner_title",
+   "banner_desc"
+  ],
+  "text_chunk": "00007_e8ea631ce65421f1.json"
+ },
+ "activity_esports_player_info": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "activity_esports_reward": {
+  "missing_text_fields": [
+   "title_table",
+   "rewards_table",
+   "btn_desc_table"
+  ],
+  "text_chunk": "00008_0c0dcdb79d430270.json"
+ },
+ "activity_ews_player_info": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "activity_fate": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "activity_field_skin_shop": {
+  "missing_text_fields": [
+   "name",
+   "desc"
+  ],
+  "text_chunk": "00010_56adb807ae9b3b24.json"
+ },
+ "activity_mission": {
+  "missing_text_fields": [
+   "desc",
+   "desc_table"
+  ],
+  "text_chunk": null
+ },
+ "activity_monopoly": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "activity_monopoly_event": {
+  "missing_text_fields": [
+   "title",
+   "effect_info",
+   "description"
+  ],
+  "text_chunk": "00009_7721796944ca0d59.json"
+ },
+ "activity_monopoly_reward": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "activity_musicparty": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "activity_musicparty_reward": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "activity_qualifier": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "activity_server": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "activity_stronghold": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "activity_strongholdreward": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "activity_summerlottery_reward": {
+  "missing_text_fields": [
+   "extra"
+  ],
+  "text_chunk": null
+ },
+ "activity_treasurehunt": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "activity_treasurehunt_random": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "activity_try_actor": {
+  "missing_text_fields": [
+   "activity_id",
+   "skin",
+   "goods",
+   "unit",
+   "items",
+   "act_name",
+   "desc",
+   "title1",
+   "title2",
+   "title3",
+   "title4",
+   "title5"
+  ],
+  "text_chunk": null
+ },
+ "activity_twentyone_card21": {
+  "missing_text_fields": [
+   "name",
+   "desc"
+  ],
+  "text_chunk": "00016_7b8e9a8f9675451b.json"
+ },
+ "afk_agt": {
+  "missing_text_fields": [
+   "name"
+  ],
+  "text_chunk": "00018_011b884deb6e7b52.json"
+ },
+ "afk_agtdevour": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "afk_agtlevel": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "afk_agtpassive": {
+  "missing_text_fields": [
+   "name",
+   "desc"
+  ],
+  "text_chunk": "00019_bd41984240a8ddad.json"
+ },
+ "afk_agtquality": {
+  "missing_text_fields": [
+   "name"
+  ],
+  "text_chunk": "00020_82c075fa1e2061c7.json"
+ },
+ "afk_chest": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "afk_cst": {
+  "missing_text_fields": [
+   "name"
+  ],
+  "text_chunk": "00021_36ae375ddb1ddb23.json"
+ },
+ "afk_cstlevel": {
+  "missing_text_fields": [
+   "star_desc"
+  ],
+  "text_chunk": null
+ },
+ "afk_cstpassive": {
+  "missing_text_fields": [
+   "name",
+   "desc"
+  ],
+  "text_chunk": "00023_38ba8908d1253eb7.json"
+ },
+ "afk_cstquality": {
+  "missing_text_fields": [
+   "name"
+  ],
+  "text_chunk": "00020_82c075fa1e2061c7.json"
+ },
+ "afk_draw": {
+  "missing_text_fields": [
+   "name"
+  ],
+  "text_chunk": "00025_c0bd43f0af1f6488.json"
+ },
+ "afk_dungeonsection": {
+  "missing_text_fields": [
+   "name",
+   "section_descript"
+  ],
+  "text_chunk": "00026_1137e13d3457d683.json"
+ },
+ "afk_item": {
+  "missing_text_fields": [
+   "name",
+   "describe",
+   "lore"
+  ],
+  "text_chunk": "00027_c64263d33ebc0431.json"
+ },
+ "afk_itemexchange": {
+  "missing_text_fields": [
+   "show_name"
+  ],
+  "text_chunk": "00028_d5202de9c97be05f.json"
+ },
+ "afk_levelviewconfig": {
+  "missing_text_fields": [
+   "chapter_name"
+  ],
+  "text_chunk": "00029_24438f369692cf03.json"
+ },
+ "afk_loot": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "afk_passport": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "afk_rankaward": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "afk_relic": {
+  "missing_text_fields": [
+   "name"
+  ],
+  "text_chunk": "00030_2072c1f07fca3f0c.json"
+ },
+ "afk_relic_sub_attrlevel": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "afk_reliceffect": {
+  "missing_text_fields": [
+   "name",
+   "desc"
+  ],
+  "text_chunk": "00031_53ce5a1088bcafbf.json"
+ },
+ "afk_relicquality": {
+  "missing_text_fields": [
+   "name"
+  ],
+  "text_chunk": "00020_82c075fa1e2061c7.json"
+ },
+ "afk_relicslot": {
+  "missing_text_fields": [
+   "name"
+  ],
+  "text_chunk": "00003_deefdaa0c97517f3.json"
+ },
+ "afk_relicslotlevel": {
+  "missing_text_fields": [
+   "type",
+   "level",
+   "cost_items",
+   "step_prop_add",
+   "step_prop_percent",
+   "totalLevelLimit"
+  ],
+  "text_chunk": null
+ },
+ "afk_shop": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "afk_storyline": {
+  "missing_text_fields": [
+   "name",
+   "chat"
+  ],
+  "text_chunk": "00034_f8f5721f32f42a31.json"
+ },
+ "agentstory": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "agentstory_random": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "agentstory_reward": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "agt_info": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "agt_levelup": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "agt_maker": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "agt_passive_skill_type": {
+  "missing_text_fields": [
+   "name",
+   "desc"
+  ],
+  "text_chunk": "00035_0de978a423728d50.json"
+ },
+ "agt_star": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "arena_bet_team_name": {
+  "missing_text_fields": [
+   "name"
+  ],
+  "text_chunk": "00003_deefdaa0c97517f3.json"
+ },
+ "arena_rankingaward": {
+  "missing_text_fields": [
+   "rank_scope",
+   "rank_award"
+  ],
+  "text_chunk": null
+ },
+ "arena_stage": {
+  "missing_text_fields": [
+   "tier_name",
+   "stage_name"
+  ],
+  "text_chunk": "00042_cb68fa1f20343c18.json"
+ },
+ "arenaauto_teamaward": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "arenaauto_winningaward": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "arenabet_award": {
+  "missing_text_fields": [
+   "name"
+  ],
+  "text_chunk": "00036_471173c9dae17954.json"
+ },
+ "arenabet_setmaker": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "arenadraft_agtmaker": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "arenadraft_chipmaker": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "arenadraft_cstmaker": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "arenadraft_setmaker": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "arenahyper_rankaward": {
+  "missing_text_fields": [
+   "season",
+   "sub_id",
+   "rank_scope",
+   "rank_award"
+  ],
+  "text_chunk": null
+ },
+ "arenahyper_stage": {
+  "missing_text_fields": [
+   "tier_name",
+   "stage_name"
+  ],
+  "text_chunk": "00037_1ab4ac7118f5a790.json"
+ },
+ "arenahyper_stageaward": {
+  "missing_text_fields": [
+   "season",
+   "tier_id",
+   "season_award",
+   "season_first_award"
+  ],
+  "text_chunk": null
+ },
+ "arenarealtime_rankingaward": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "arenarealtime_stage": {
+  "missing_text_fields": [
+   "tier_name",
+   "stage_name"
+  ],
+  "text_chunk": "00037_1ab4ac7118f5a790.json"
+ },
+ "arenarealtime_stageaward": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "badge": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "battle_dialog": {
+  "missing_text_fields": [
+   "dialog"
+  ],
+  "text_chunk": "00045_f75bd8890eb06d47.json"
+ },
+ "battle_guide_step": {
+  "missing_text_fields": [
+   "tips",
+   "tips_keyboard",
+   "tips_gamepad"
+  ],
+  "text_chunk": "00046_5aeeb3bc263268c7.json"
+ },
+ "battleformation": {
+  "missing_text_fields": [
+   "name"
+  ],
+  "text_chunk": null
+ },
+ "battlemaps": {
+  "missing_text_fields": [
+   "map_name",
+   "source"
+  ],
+  "text_chunk": "00044_79619eb20e6803a2.json"
+ },
+ "battlesystemtype": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "battletype": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "battlevars": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "bossextrashowskill": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "bossrush": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "bossrush_rankaward": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "bossrush_stage": {
+  "missing_text_fields": [
+   "daily_stage_award",
+   "daily_rank_score",
+   "stage_award",
+   "promotion_rank",
+   "promotion_mark",
+   "retention_rank",
+   "stage"
+  ],
+  "text_chunk": null
+ },
+ "bufftips": {
+  "missing_text_fields": [
+   "buff_name",
+   "buff_desc"
+  ],
+  "text_chunk": null
+ },
+ "bulletin": {
+  "missing_text_fields": [
+   "title",
+   "content"
+  ],
+  "text_chunk": "00051_1c3f4842dda4fd3b.json"
+ },
+ "carnival": {
+  "missing_text_fields": [
+   "title",
+   "banner_title",
+   "banner_desc"
+  ],
+  "text_chunk": null
+ },
+ "channel_language": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "chat_message": {
+  "missing_text_fields": [
+   "text_content",
+   "log_type_str"
+  ],
+  "text_chunk": "00053_de4fb65b65c31820.json"
+ },
+ "chat_preset_message": {
+  "missing_text_fields": [
+   "message"
+  ],
+  "text_chunk": null
+ },
+ "chat_sticker": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "chip_color": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "chip_fliter_plan": {
+  "missing_text_fields": [
+   "name",
+   "risk"
+  ],
+  "text_chunk": "00025_c0bd43f0af1f6488.json"
+ },
+ "chip_level_up": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "chip_maker": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "chip_vars": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "cir_message": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "cir_npc": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "cir_reply": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "click_text_tips": {
+  "missing_text_fields": [
+   "title",
+   "desc"
+  ],
+  "text_chunk": "00057_262f6515895a0207.json"
+ },
+ "clothing": {
+  "missing_text_fields": [
+   "title",
+   "desc"
+  ],
+  "text_chunk": "00058_f652ed906a32ff84.json"
+ },
+ "clue": {
+  "missing_text_fields": [
+   "name",
+   "detail",
+   "source"
+  ],
+  "text_chunk": "00059_b595ba3ecc84fa16.json"
+ },
+ "clue_fragment": {
+  "missing_text_fields": [
+   "name",
+   "detail"
+  ],
+  "text_chunk": "00060_0b6702d9f994ea56.json"
+ },
+ "collab_cst": {
+  "missing_text_fields": [
+   "name",
+   "skill_desc"
+  ],
+  "text_chunk": "00062_5d13639e621f7cd7.json"
+ },
+ "constvars": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "cst_archive": {
+  "missing_text_fields": [
+   "id",
+   "pin",
+   "unlock_1",
+   "unlock_2",
+   "unlock_3",
+   "unlock_4",
+   "unlock_5",
+   "cv_zh_zh",
+   "cv_zh_zhtw",
+   "cv_zh_ja",
+   "cv_zh_en",
+   "cv_zh_ko",
+   "cv_ja_zh",
+   "cv_ja_zhtw",
+   "cv_ja_ja",
+   "cv_ja_en",
+   "cv_ja_ko",
+   "name",
+   "title",
+   "gender",
+   "job",
+   "group",
+   "rea",
+   "resume",
+   "lore_s_1",
+   "lore_1",
+   "lore_s_2",
+   "lore_2",
+   "lore_s_3",
+   "lore_3",
+   "lore_s_4",
+   "lore_4",
+   "lore_s_5",
+   "lore_5"
+  ],
+  "text_chunk": null
+ },
+ "cst_awake": {
+  "missing_text_fields": [
+   "name",
+   "description"
+  ],
+  "text_chunk": "00064_e54471a8093b3078.json"
+ },
+ "cst_dialogue": {
+  "missing_text_fields": [
+   "name",
+   "subtitle"
+  ],
+  "text_chunk": null
+ },
+ "cst_draw": {
+  "missing_text_fields": [
+   "pool_type",
+   "cost",
+   "is_exchangeable",
+   "exchange_cost",
+   "open_type",
+   "close_type",
+   "weight",
+   "loot_list",
+   "extra_probs",
+   "extra_show_probs",
+   "cst_detail",
+   "up",
+   "is_always_show",
+   "pool_show_type",
+   "group_id",
+   "group_sub_id",
+   "icon",
+   "show_cst_list",
+   "sr_max",
+   "combined_prob",
+   "draw_option",
+   "replace_ten",
+   "max_draw",
+   "pool_desc_2",
+   "free_ten_item_id",
+   "extra_basic_show_probs",
+   "basic_prob",
+   "potential_activity_id",
+   "pool_name",
+   "pool_desc",
+   "group_name",
+   "rule_desc",
+   "tag"
+  ],
+  "text_chunk": null
+ },
+ "cst_draw_share": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "cst_draw_type": {
+  "missing_text_fields": [
+   "type_name"
+  ],
+  "text_chunk": "00068_3d2a30da5a75b472.json"
+ },
+ "cst_exp": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "cst_fate": {
+  "missing_text_fields": [
+   "cst_id",
+   "star_id",
+   "cst_cost",
+   "prop",
+   "skill",
+   "icon",
+   "name",
+   "description"
+  ],
+  "text_chunk": null
+ },
+ "cst_maker": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "cst_prop": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "cst_prop_formula": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "cst_recommendation": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "cst_recommendation_tag": {
+  "missing_text_fields": [
+   "desc",
+   "category_name"
+  ],
+  "text_chunk": "00070_5a3c69f95ec5fb74.json"
+ },
+ "cst_upgrade_cost": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "define_channel": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "define_zone_server": {
+  "missing_text_fields": [
+   "zone_name",
+   "zone_glb_gvg_name"
+  ],
+  "text_chunk": "00072_8be39b22293acfb8.json"
+ },
+ "dreammaze_buff": {
+  "missing_text_fields": [
+   "name",
+   "desc"
+  ],
+  "text_chunk": "00074_9c80a8babd4b88e9.json"
+ },
+ "dreammaze_random": {
+  "missing_text_fields": [
+   "type",
+   "weight",
+   "dungeon_id",
+   "treasure_prob",
+   "wheel_prob",
+   "wheel_greed_prob",
+   "altar",
+   "score_change",
+   "special_id",
+   "name",
+   "desc",
+   "quest_name",
+   "quest_name_2"
+  ],
+  "text_chunk": null
+ },
+ "dreammaze_rboss": {
+  "missing_text_fields": [
+   "name",
+   "desc"
+  ],
+  "text_chunk": "00076_db8b272b1d15d120.json"
+ },
+ "dreammaze_rboss_reward": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "dreammaze_shop": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "dungeon_open": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "dungeonlevel": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "dungeonsection": {
+  "missing_text_fields": [
+   "name",
+   "section_descript",
+   "show_name_2"
+  ],
+  "text_chunk": "00077_ca6184f0d20f2842.json"
+ },
+ "extradrop": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "function": {
+  "missing_text_fields": [
+   "loc_name",
+   "desc"
+  ],
+  "text_chunk": null
+ },
+ "group": {
+  "missing_text_fields": [
+   "show_name"
+  ],
+  "text_chunk": "00079_c67dcd06d188097d.json"
+ },
+ "guide": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "guide_all": {
+  "missing_text_fields": [
+   "tip_before_guide",
+   "tip_desc"
+  ],
+  "text_chunk": null
+ },
+ "guide_step": {
+  "missing_text_fields": [
+   "tips",
+   "title"
+  ],
+  "text_chunk": "00081_727b44c58d69dcd8.json"
+ },
+ "guild_activity": {
+  "missing_text_fields": [
+   "name"
+  ],
+  "text_chunk": "00074_9c80a8babd4b88e9.json"
+ },
+ "guild_boss_mark": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "guild_boss_reward": {
+  "missing_text_fields": [
+   "description"
+  ],
+  "text_chunk": "00083_9eb22b4d7fc12c5f.json"
+ },
+ "guild_heraldry": {
+  "missing_text_fields": [
+   "name",
+   "unlock_description"
+  ],
+  "text_chunk": "00084_b70c5160e8ca55d0.json"
+ },
+ "guild_label": {
+  "missing_text_fields": [
+   "description"
+  ],
+  "text_chunk": "00085_6c46fb890ab2aa25.json"
+ },
+ "guild_level": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "guild_raid_boss_level": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "guild_raid_boss_mark": {
+  "missing_text_fields": [
+   "name"
+  ],
+  "text_chunk": "00086_f0a3f015b7c04bef.json"
+ },
+ "guild_raid_rankaward": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "guild_sign_in": {
+  "missing_text_fields": [
+   "description"
+  ],
+  "text_chunk": null
+ },
+ "guild_war": {
+  "missing_text_fields": [
+   "segment_name"
+  ],
+  "text_chunk": "00089_5befe94eccb70e49.json"
+ },
+ "guild_war_global_award": {
+  "missing_text_fields": [
+   "desc"
+  ],
+  "text_chunk": "00090_2579c29e7919e2df.json"
+ },
+ "guild_war_global_stage": {
+  "missing_text_fields": [
+   "name",
+   "sub_name"
+  ],
+  "text_chunk": "00091_c40280feaa4054c8.json"
+ },
+ "guild_war_global_team": {
+  "missing_text_fields": [
+   "name"
+  ],
+  "text_chunk": "00092_12a3ab66e821da91.json"
+ },
+ "guild_war_map": {
+  "missing_text_fields": [
+   "point_name"
+  ],
+  "text_chunk": "00093_a37e9121e9d7f1ec.json"
+ },
+ "guild_war_map_menu": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "guild_war_skill": {
+  "missing_text_fields": [
+   "name",
+   "desc"
+  ],
+  "text_chunk": null
+ },
+ "guild_war_stage": {
+  "missing_text_fields": [
+   "stage_name",
+   "tier_name"
+  ],
+  "text_chunk": "00042_cb68fa1f20343c18.json"
+ },
+ "guild_war_stageaward": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "infrastructure_collectionpoints": {
+  "missing_text_fields": [
+   "desc"
+  ],
+  "text_chunk": "00090_2579c29e7919e2df.json"
+ },
+ "infrastructure_facility": {
+  "missing_text_fields": [
+   "name"
+  ],
+  "text_chunk": "00086_f0a3f015b7c04bef.json"
+ },
+ "infrastructure_function": {
+  "missing_text_fields": [
+   "desc"
+  ],
+  "text_chunk": "00098_99557f3a6d5e1e97.json"
+ },
+ "infrastructure_quest": {
+  "missing_text_fields": [
+   "title",
+   "desc",
+   "tag"
+  ],
+  "text_chunk": "00099_42838a08eaf93b21.json"
+ },
+ "infrastructure_quest_requirement": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "infrastructure_tech": {
+  "missing_text_fields": [
+   "description"
+  ],
+  "text_chunk": null
+ },
+ "item": {
+  "missing_text_fields": [
+   "name",
+   "describe",
+   "lore"
+  ],
+  "text_chunk": "00101_b87accdda13ac71e.json"
+ },
+ "item_bag": {
+  "missing_text_fields": [
+   "show_name"
+  ],
+  "text_chunk": "00102_d5d5c83e5a32aee7.json"
+ },
+ "item_choice": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "item_exchange": {
+  "missing_text_fields": [
+   "show_name"
+  ],
+  "text_chunk": "00103_20a870df5859a54d.json"
+ },
+ "item_type": {
+  "missing_text_fields": [
+   "show_name"
+  ],
+  "text_chunk": "00104_b218915739498ee7.json"
+ },
+ "jump_to": {
+  "missing_text_fields": [
+   "show_name"
+  ],
+  "text_chunk": "00105_beab29a7e06650ef.json"
+ },
+ "linkerexamrank": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "linkerexamtotalreward": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "localization_define": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "loot": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "mail": {
+  "missing_text_fields": [
+   "sender",
+   "title",
+   "content"
+  ],
+  "text_chunk": "00107_45610aafa7b5cf22.json"
+ },
+ "matchtype": {
+  "missing_text_fields": [
+   "match_circle_title"
+  ],
+  "text_chunk": "00108_0aa3f179f6638095.json"
+ },
+ "mercenary": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "monsters": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "multi_player": {
+  "missing_text_fields": [
+   "difficulty",
+   "sub_id",
+   "dungeon_level",
+   "mark_list",
+   "open_conditions",
+   "score_list",
+   "reward_list",
+   "kill_reward",
+   "name"
+  ],
+  "text_chunk": null
+ },
+ "multi_team_buff": {
+  "missing_text_fields": [
+   "name",
+   "desc"
+  ],
+  "text_chunk": "00112_b84b0af848b03746.json"
+ },
+ "multi_team_card": {
+  "missing_text_fields": [
+   "name",
+   "simple_desc",
+   "desc"
+  ],
+  "text_chunk": "00113_825f0d5398060b48.json"
+ },
+ "multi_team_cardbuff": {
+  "missing_text_fields": [
+   "card_title",
+   "enhance_name",
+   "enhance_desc"
+  ],
+  "text_chunk": "00114_ed1b8b2c515b0e8d.json"
+ },
+ "multi_team_cardtype": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "multi_team_map": {
+  "missing_text_fields": [
+   "type_name",
+   "name",
+   "desc"
+  ],
+  "text_chunk": null
+ },
+ "multi_team_zone": {
+  "missing_text_fields": [
+   "name"
+  ],
+  "text_chunk": "00116_7bf4d00956c5f558.json"
+ },
+ "multiwave": {
+  "missing_text_fields": [
+   "title",
+   "mechanism"
+  ],
+  "text_chunk": "00109_2b98c87380ce495c.json"
+ },
+ "multiwave_card": {
+  "missing_text_fields": [
+   "name",
+   "desc"
+  ],
+  "text_chunk": "00110_65422c6230a89a5a.json"
+ },
+ "newbie_title": {
+  "missing_text_fields": [
+   "title"
+  ],
+  "text_chunk": "00063_01806875e048c03b.json"
+ },
+ "npc_info": {
+  "missing_text_fields": [
+   "loc_name"
+  ],
+  "text_chunk": "00118_acc24e69ac517dd7.json"
+ },
+ "ornamenttype": {
+  "missing_text_fields": [
+   "name"
+  ],
+  "text_chunk": null
+ },
+ "passport": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "passport_callback": {
+  "missing_text_fields": [
+   "level",
+   "exp",
+   "normal_rewards",
+   "premium_rewards",
+   "flag"
+  ],
+  "text_chunk": null
+ },
+ "pokercard": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "pokerquest": {
+  "missing_text_fields": [
+   "quest_title"
+  ],
+  "text_chunk": "00121_8997d00b5e591f1c.json"
+ },
+ "propdefine": {
+  "missing_text_fields": [
+   "c_name",
+   "positive_name",
+   "negative_name"
+  ],
+  "text_chunk": "00122_f726b18f342373a2.json"
+ },
+ "quest": {
+  "missing_text_fields": [
+   "show_name"
+  ],
+  "text_chunk": "00123_aaadbb17b55cbdc0.json"
+ },
+ "quest_achievement": {
+  "missing_text_fields": [
+   "main_show_name",
+   "show_name"
+  ],
+  "text_chunk": "00102_d5d5c83e5a32aee7.json"
+ },
+ "quest_event": {
+  "missing_text_fields": [
+   "desc"
+  ],
+  "text_chunk": "00126_93ce1cbb4addcd3d.json"
+ },
+ "ranking": {
+  "missing_text_fields": [
+   "page_name",
+   "tab_name",
+   "tips"
+  ],
+  "text_chunk": "00127_6cbaee88ddefa3ac.json"
+ },
+ "regiondefination": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "roleexp": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "rta_passport": {
+  "missing_text_fields": [
+   "title",
+   "tips"
+  ],
+  "text_chunk": "00081_727b44c58d69dcd8.json"
+ },
+ "rta_rule": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "rule": {
+  "missing_text_fields": [
+   "text"
+  ],
+  "text_chunk": null
+ },
+ "scenario_chapter": {
+  "missing_text_fields": [
+   "show_name_1",
+   "desc"
+  ],
+  "text_chunk": "00130_6f0f5d852db5fe42.json"
+ },
+ "scenario_chapter_change": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "scenario_chapter_new": {
+  "missing_text_fields": [
+   "show_name_1",
+   "desc"
+  ],
+  "text_chunk": "00131_17b03d64e8fc432c.json"
+ },
+ "scenario_event": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "scenario_goal": {
+  "missing_text_fields": [
+   "desc"
+  ],
+  "text_chunk": "00132_e1240cb09e7803d1.json"
+ },
+ "scenario_initial": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "scenario_props": {
+  "missing_text_fields": [
+   "name",
+   "desc"
+  ],
+  "text_chunk": "00023_38ba8908d1253eb7.json"
+ },
+ "scenario_quest": {
+  "missing_text_fields": [
+   "title"
+  ],
+  "text_chunk": null
+ },
+ "scenario_section": {
+  "missing_text_fields": [
+   "section_id",
+   "chapter_id",
+   "stage_id",
+   "player_level_limit",
+   "condition_section",
+   "condition_trigger",
+   "navigation_section",
+   "show_id",
+   "bg",
+   "location",
+   "first_drop_show",
+   "complete_drop_show",
+   "normal_drop_show",
+   "cost_stamina",
+   "battles",
+   "wipe_battles",
+   "star_type_1",
+   "star_param_1",
+   "star_type_2",
+   "star_param_2",
+   "star_type_3",
+   "star_param_3",
+   "levelset",
+   "repeat_loadings",
+   "repeat_level_change",
+   "override_loading",
+   "scene_conversion",
+   "chest",
+   "show_name",
+   "desc",
+   "place_name",
+   "area_name"
+  ],
+  "text_chunk": null
+ },
+ "scenario_section_event": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "scenario_section_new": {
+  "missing_text_fields": [
+   "section_id",
+   "chapter_id",
+   "stage_id",
+   "player_level_limit",
+   "condition_section",
+   "condition_trigger",
+   "navigation_section",
+   "show_id",
+   "bg",
+   "location",
+   "treasure_show",
+   "first_drop_show",
+   "normal_drop_show",
+   "cost_stamina",
+   "key_dungeon",
+   "wipe_battles",
+   "star_type_1",
+   "star_param_1",
+   "star_type_2",
+   "star_param_2",
+   "star_type_3",
+   "star_param_3",
+   "diff",
+   "repeat_loadings",
+   "repeat_level_change",
+   "override_loading",
+   "scene_conversion",
+   "chest",
+   "group",
+   "branch",
+   "style",
+   "show_name",
+   "desc",
+   "place_name",
+   "warning_hint"
+  ],
+  "text_chunk": null
+ },
+ "scenario_track": {
+  "missing_text_fields": [
+   "desc"
+  ],
+  "text_chunk": null
+ },
+ "set_level": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "set_type": {
+  "missing_text_fields": [
+   "show_name",
+   "desc"
+  ],
+  "text_chunk": "00137_84884a848cbcd0d5.json"
+ },
+ "set_type_chipsdata": {
+  "missing_text_fields": [
+   "name"
+  ],
+  "text_chunk": "00144_2a86a44390fabd6a.json"
+ },
+ "setting_button": {
+  "missing_text_fields": [
+   "name",
+   "button_name",
+   "switch_des"
+  ],
+  "text_chunk": "00138_50f3e482972841c4.json"
+ },
+ "setting_checkbox_and_combo_box": {
+  "missing_text_fields": [
+   "name",
+   "name_list"
+  ],
+  "text_chunk": "00139_8d468e6312b5847a.json"
+ },
+ "setting_default": {
+  "missing_text_fields": [
+   "setting_des"
+  ],
+  "text_chunk": "00140_47f6fcfffd8f5128.json"
+ },
+ "setting_graphics_level": {
+  "missing_text_fields": [
+   "des"
+  ],
+  "text_chunk": "00141_b3117eb20deae565.json"
+ },
+ "setting_layout": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "setting_slider": {
+  "missing_text_fields": [
+   "name"
+  ],
+  "text_chunk": "00142_cf10b4b84044661f.json"
+ },
+ "shop": {
+  "missing_text_fields": [
+   "title"
+  ],
+  "text_chunk": "00145_09e89a5ec5ebf44b.json"
+ },
+ "shopgoods": {
+  "missing_text_fields": [
+   "title",
+   "label"
+  ],
+  "text_chunk": null
+ },
+ "shoppaidgoods": {
+  "missing_text_fields": [
+   "title",
+   "label"
+  ],
+  "text_chunk": null
+ },
+ "sign_in": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "skill": {
+  "missing_text_fields": [
+   "skill_cname",
+   "simple_desc",
+   "desc"
+  ],
+  "text_chunk": null
+ },
+ "skill_tag": {
+  "missing_text_fields": [
+   "tag"
+  ],
+  "text_chunk": "00149_30093cde360187b7.json"
+ },
+ "skin_draw": {
+  "missing_text_fields": [
+   "cardpool_name",
+   "description",
+   "rule_desc"
+  ],
+  "text_chunk": "00151_e866b35557880899.json"
+ },
+ "story_area_info": {
+  "missing_text_fields": [
+   "area_name",
+   "place_name"
+  ],
+  "text_chunk": null
+ },
+ "storyline": {
+  "missing_text_fields": [
+   "name",
+   "chat"
+  ],
+  "text_chunk": "00152_8272426b50698ebb.json"
+ },
+ "storyline_home": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "storyline_progressid": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "storyline_skip_group": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "sysmessage": {
+  "missing_text_fields": [
+   "content"
+  ],
+  "text_chunk": "00154_9aa1bae1ec214745.json"
+ },
+ "system_language": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "tact_com": {
+  "missing_text_fields": [
+   "name",
+   "desc"
+  ],
+  "text_chunk": "00155_544ae5f1c1c9f1fe.json"
+ },
+ "tact_com_star": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "tact_drawing": {
+  "missing_text_fields": [
+   "name",
+   "desc"
+  ],
+  "text_chunk": "00156_78329dad9c7037a5.json"
+ },
+ "tact_drawing_forge": {
+  "missing_text_fields": [
+   "quality",
+   "cost_list",
+   "is_cost_self",
+   "com_list",
+   "extra_prop_cfg",
+   "name"
+  ],
+  "text_chunk": null
+ },
+ "tact_imp": {
+  "missing_text_fields": [
+   "name",
+   "desc"
+  ],
+  "text_chunk": "00158_f00baa7d3b0598b9.json"
+ },
+ "tact_imp_up": {
+  "missing_text_fields": [
+   "level",
+   "cost_list",
+   "prop",
+   "skill",
+   "unlock_lv",
+   "name",
+   "desc"
+  ],
+  "text_chunk": null
+ },
+ "tact_prop": {
+  "missing_text_fields": [
+   "name",
+   "desc"
+  ],
+  "text_chunk": "00023_38ba8908d1253eb7.json"
+ },
+ "tarotaffect": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "tarotcard": {
+  "missing_text_fields": [
+   "name",
+   "describe",
+   "describe2"
+  ],
+  "text_chunk": "00161_0e56e1ea375ec18d.json"
+ },
+ "tech_prop": {
+  "missing_text_fields": [
+   "name"
+  ],
+  "text_chunk": "00163_875fcc8bb63df794.json"
+ },
+ "textbook": {
+  "missing_text_fields": [
+   "text0",
+   "text1",
+   "text2"
+  ],
+  "text_chunk": null
+ },
+ "title": {
+  "missing_text_fields": [
+   "name",
+   "desc"
+  ],
+  "text_chunk": "00164_18fe7623db6c7702.json"
+ },
+ "tower_bossskill": {
+  "missing_text_fields": [
+   "desc"
+  ],
+  "text_chunk": "00165_a80c015e83258217.json"
+ },
+ "tower_card": {
+  "missing_text_fields": [
+   "name",
+   "desc"
+  ],
+  "text_chunk": "00166_a6435a0a23c90ac1.json"
+ },
+ "tower_level": {
+  "missing_text_fields": [
+   "desc",
+   "name",
+   "diff_text"
+  ],
+  "text_chunk": "00167_8850894b753d844d.json"
+ },
+ "tower_quest": {
+  "missing_text_fields": [
+   "title"
+  ],
+  "text_chunk": null
+ },
+ "tower_template": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "tower_track": {
+  "missing_text_fields": [
+   "desc"
+  ],
+  "text_chunk": null
+ },
+ "tower_turntable_randlibrary": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "tower_turntable_urlibrary": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "treasure": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "triboss": {
+  "missing_text_fields": [
+   "title"
+  ],
+  "text_chunk": "00041_edf54ea09ede35a9.json"
+ },
+ "triboss_rankaward": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ },
+ "unit": {
+  "missing_text_fields": [
+   "cname",
+   "nick_name"
+  ],
+  "text_chunk": "00170_75425beb0352a20c.json"
+ },
+ "unitformal": {
+  "missing_text_fields": [],
+  "text_chunk": null
+ }
+}

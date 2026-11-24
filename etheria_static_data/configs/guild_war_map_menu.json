@@ -1,0 +1,36 @@
+{
+ "config": "guild_war_map_menu",
+ "fields": [
+  "id",
+  "map_name",
+  "asset",
+  "map_size",
+  "map_focus",
+  "max_score"
+ ],
+ "rows": [
+  {
+   "id": 1,
+   "map_name": "协同战线基础图",
+   "asset": "WBP_UI_Guild_GVG_Map_01_General",
+   "map_size": [
+    4096,
+    3072
+   ],
+   "map_focus": "14|8,9,10",
+   "max_score": 4600
+  },
+  {
+   "id": 2,
+   "map_name": "全球赛比赛用图",
+   "asset": "WBP_UI_Guild_GVG_Map_02_EWCS",
+   "map_size": [
+    4096,
+    3072
+   ],
+   "map_focus": "14|6,7,8,9",
+   "max_score": 6900
+  }
+ ],
+ "text_chunk": null
+}

@@ -1,0 +1,22 @@
+{
+ "config": "questtitle",
+ "fields": [
+  "title_id",
+  "order",
+  "badge_id",
+  "title_name",
+  "sub_title"
+ ],
+ "rows": {
+  "title_id": [
+   1,
+   1,
+   603
+  ],
+  "order": [
+   2,
+   2,
+   604
+  ]
+ }
+}

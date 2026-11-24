@@ -1,0 +1,73 @@
+{
+ "config": "activity_esports",
+ "fields": [
+  "id",
+  "data",
+  "banner_index",
+  "banner_asset",
+  "order",
+  "banner_badge",
+  "title",
+  "banner_title",
+  "banner_desc"
+ ],
+ "rows": [
+  {
+   "id": 1,
+   "data": "15026|15024,15022",
+   "banner_index": 1,
+   "banner_asset": "01",
+   "order": 1,
+   "banner_badge": 1471,
+   "title": "Supported",
+   "title_th": "สนับสนุนทีม",
+   "banner_title": "Supported",
+   "banner_title_th": "สนับสนุนทีม",
+   "banner_desc": "Supported",
+   "banner_desc_th": "สนับสนุนทีม"
+  },
+  {
+   "id": 2,
+   "data": "",
+   "banner_index": 1,
+   "banner_asset": "02",
+   "order": 2,
+   "banner_badge": 1472,
+   "title": "Cheer for Rewards",
+   "title_th": "เชียร์เพื่อรับรางวัล",
+   "banner_title": "Cheer for Rewards",
+   "banner_title_th": "เชียร์เพื่อรับรางวัล",
+   "banner_desc": "Cheer for Rewards",
+   "banner_desc_th": "เชียร์เพื่อรับรางวัล"
+  },
+  {
+   "id": 3,
+   "data": "26002,26004,26005|20111,20110,20106",
+   "banner_index": 2,
+   "banner_asset": "03",
+   "order": 3,
+   "banner_badge": 1473,
+   "title": "Champion's Call",
+   "title_th": "Champion's Call",
+   "banner_title": "Champion's Call",
+   "banner_title_th": "Champion's Call",
+   "banner_desc": "Champion's Call",
+   "banner_desc_th": "Champion's Call"
+  },
+  {
+   "id": 4,
+   "data": "",
+   "banner_index": 2,
+   "banner_asset": "04",
+   "order": 4,
+   "banner_badge": 1474,
+   "title": "Watch and Win",
+   "title_th": "รับชมและชนะ",
+   "banner_title": "Watch and Win",
+   "banner_title_th": "รับชมและชนะ",
+   "banner_desc": "Watch and Win",
+   "banner_desc_th": "รับชมและชนะ"
+  }
+ ],
+ "text_chunk": "00007_e8ea631ce65421f1.json"
+}

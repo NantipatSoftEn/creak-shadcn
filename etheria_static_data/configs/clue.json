@@ -1,0 +1,267 @@
+{
+ "config": "clue",
+ "fields": [
+  "id",
+  "clue_reward",
+  "icon",
+  "name",
+  "detail",
+  "source"
+ ],
+ "rows": {
+  "20001": {
+   "id": 20001,
+   "clue_reward": null,
+   "icon": 101,
+   "name": "Folder",
+   "name_th": "แฟ้ม",
+   "detail": "A notebook belonging to a Leiboz lab worker, filled with strange rules—some of which have been crossed out.",
+   "detail_th": "สมุดบันทึกของเจ้าหน้าที่ในห้องทดลองของ Leiboz นั้นเต็มไปด้วยกฎแปลกประหลาด ซึ่งกฎบางข้อถูกขีดฆ่าไปแล้ว",
+   "source": "Anisync Echoes - Trace of Dark Words",
+   "source_th": "Anisync Echoes - ร่องรอยแห่งถ้อยคำเร้นลับ"
+  },
+  "20002": {
+   "id": 20002,
+   "clue_reward": null,
+   "icon": 102,
+   "name": "Missing Person Report",
+   "name_th": "รายงานบุคคลสูญหาย",
+   "detail": "A Missing Person Report from the E-06 region, detailing numerous disappearances—most of them Animus.",
+   "detail_th": "รายงานบุคคลสูญหายจากภูมิภาค E-06 ที่มีรายละเอียดเกี่ยวกับการหายตัวไปจำนวนมาก ซึ่งส่วนใหญ่เป็น Animus",
+   "source": "Investigation - Leiboz Base",
+   "source_th": "การตรวจสอบ - Leiboz Base"
+  },
+  "20003": {
+   "id": 20003,
+   "clue_reward": null,
+   "icon": 103,
+   "name": "Lost Record: Signed Contract",
+   "name_th": "บันทึกสาบสูญ: สัญญาที่ลงนามแล้ว",
+   "detail": "The document is printed in a professional font, each page densely packed with long paragraphs and regulations.\nThe ink on the contract is dark and rich, mirroring its mysterious aura, as if it records a hidden secret.",
+   "detail_th": "เอกสารฉบับนี้พิมพ์ด้วยฟอนต์มืออาชีพ โดยแต่ละหน้าเต็มไปด้วยย่อหน้าและกฎข้อบังคับที่ยาวเหยียด\nหมึกที่ใช้เขียนสัญญามีสีเข้มเด่นชัด ชวนให้รู้สึกถึงบรรยากาศอันลึกลับราวกับว่ามีความลับซ่อนอยู่",
+   "source": "Hollow Ember Space - Layer 1",
+   "source_th": "พื้นที่เอมเบอร์ประเภท Hollow - ชั้นที่ 1"
+  },
+  "20004": {
+   "id": 20004,
+   "clue_reward": null,
+   "icon": 104,
+   "name": "Distress Letter",
+   "name_th": "จดหมายขอความช่วยเหลือ",
+   "detail": "An old distress letter that was never sent.\nThe message is pieced together from letters cut out of various sources, suggesting that the writer didn't want their identity revealed.",
+   "detail_th": "จดหมายขอความช่วยเหลือเก่า ๆ ที่ไม่เคยถูกส่ง\nข้อความนี้ประกอบขึ้นมาจากจดหมายที่ตัดมาจากแหล่งต่าง ๆ แสดงให้เห็นว่าผู้เขียนไม่อยากเปิดเผยตัวตน",
+   "source": "Anisync Echoes - Secret of Silence",
+   "source_th": "Anisync Echoes - ความลับที่ไม่อาจเอื้อนเอ่ย"
+  },
+  "20005": {
+   "id": 20005,
+   "clue_reward": null,
+   "icon": 105,
+   "name": "Leiboz Life Promo",
+   "name_th": "การโปรโมต Leiboz Life",
+   "detail": "\"Transformation, Fusion, Rebirth, Unleashing Prowess\"—the promises Leiboz Life made to its \"clients,\" none of which were ever fulfilled.",
+   "detail_th": "\"การแปลงร่าง การผสมผสาน การเกิดใหม่ การปลดปล่อยศักยภาพ\" คือคำสัญญาที่ Leiboz Life ให้กับ \"ลูกค้า\" แต่ไม่เคยเกิดขึ้นจริง",
+   "source": "Investigation - Ultra Building",
+   "source_th": "การตรวจสอบ - Ultra Building"
+  },
+  "20006": {
+   "id": 20006,
+   "clue_reward": null,
+   "icon": 106,
+   "name": "Experiment Record 019",
+   "name_th": "บันทึกการทดลอง 019",
+   "detail": "A recording of experiment No. 019. Most of the data is corrupted, with the only clear section capturing a violent explosion—followed by a panicked scream: \"No! THE THING is out of control!\"",
+   "detail_th": "บันทึกการทดลองหมายเลข 019 ข้อมูลส่วนใหญ่เสียหาย แต่ส่วนเดียวที่ชัดเจนนั้นบันทึกภาพการระเบิดอย่างรุนแรง ตามด้วยเสียงกรีดร้องอย่างตื่นตระหนกว่า \"ไม่นะ! เจ้านั่นอยู่เหนือการควบคุมแล้ว!\"",
+   "source": "Anisync Echoes - Shackles of Me",
+   "source_th": "Anisync Echoes - ติดอยู่ในพันธนาการ"
+  },
+  "20007": {
+   "id": 20007,
+   "clue_reward": null,
+   "icon": 107,
+   "name": "Mysterious Figure",
+   "name_th": "ร่างปริศนา",
+   "detail": "A Mysterious Figure caught on factory surveillance. To bypass layers of security and monitoring systems, slipping into Leiboz Life's secret factory undetected—this individual must possess extraordinary abilities.",
+   "detail_th": "ร่างปริศนาที่ถูกจับภาพได้จากกล้องวงจรปิดของโรงงาน การที่สามารถหลบเลี่ยงระบบรักษาความปลอดภัยและการตรวจสอบหลายชั้น\nแล้วแอบเข้าไปในโรงงานลับของ Leiboz Life โดยไม่ให้ถูกจับได้ บุคคลนี้ต้องมีความสามารถที่ไม่ธรรมดาอย่างแน่นอน",
+   "source": "Investigation - Fantasy Club",
+   "source_th": "การตรวจสอบ - Fantasy Club"
+  },
+  "20008": {
+   "id": 20008,
+   "clue_reward": null,
+   "icon": 108,
+   "name": "Comical Shadowprint",
+   "name_th": "ภาพเงาน่าขัน",
+   "detail": "Someone failed to escape Suekko's grasp—ending up with a turtle drawn on their face and a photo taken as proof. If that picture gets uploaded to social media, they might never be able to face OtherThug again.",
+   "detail_th": "Suekko จับตัว Thug คนหนึ่งเอาไว้ได้ เขาจึงวาดรูปเต่าไว้บนหน้าของเจ้านั่นและถ่ายรูปเก็บไว้เป็นหลักฐาน ถ้าเขาอัปโหลดรูปภาพนั้นลงในโซเชียลมีเดียละก็ เจ้านั่นคงไม่กล้าไปเจอหน้า Thug คนอื่น ๆ อีกแน่",
+   "source": "Hollow Ember Space - Layer 1",
+   "source_th": "พื้นที่เอมเบอร์ประเภท Hollow - ชั้นที่ 1"
+  },
+  "20009": {
+   "id": 20009,
+   "clue_reward": null,
+   "icon": 109,
+   "name": "Battle Video",
+   "name_th": "วิดีโอการต่อสู้",
+   "detail": "A Battle Video left behind by Suekko's former \"boss.\" Suekko frequently watches it to train, quickly mastering the use of a warhammer. Whether it's raw talent or sheer repetition, it's clear he's studied it countless times.",
+   "detail_th": "วิดีโอการต่อสู้ที่อดีต \"บอส\" ของ Suekko ทิ้งไว้ Suekko ดูวิดีโอนี้เพื่อฝึกฝนอยู่เป็นประจำ จนเชี่ยวชาญการใช้ค้อนศึกได้อย่างรวดเร็ว ไม่ว่าจะด้วยพรสวรรค์ล้วน ๆ หรือการฝึกฝนซ้ำแล้วซ้ำเล่า ก็เห็นได้ชัดว่าเขาศึกษาวิดีโอนี้มาแล้วนับครั้งไม่ถ้วน",
+   "source": "Hollow Ember Space - Layer 1",
+   "source_th": "พื้นที่เอมเบอร์ประเภท Hollow - ชั้นที่ 1"
+  },
+  "20010": {
+   "id": 20010,
+   "clue_reward": null,
+   "icon": 110,
+   "name": "Lost Record: Old Hammer",
+   "name_th": "บันทึกสาบสูญ: ค้อนเก่า",
+   "detail": "Suekko's personal weapon—now damaged beyond use. Based on its serial number, it's several times older than Suekko himself. Despite its surface being covered in scars, he refuses to throw it away.",
+   "detail_th": "อาวุธประจำตัวของ Suekko ซึ่งตอนนี้เสียหายเกินกว่าจะใช้งานได้ หมายเลขประจำเครื่องแสดงให้เห็นว่าอาวุธนี้เก่าแก่กว่า Suekko มาก แม้ว่าภายนอกของอาวุธจะมีร่องรอยจากการต่อสู้อยู่เต็มไปหมด แต่เขาก็ยังทำใจทิ้งไม่ลงอยู่ดี",
+   "source": "Hollow Ember Space - Layer 1",
+   "source_th": "พื้นที่เอมเบอร์ประเภท Hollow - ชั้นที่ 1"
+  },
+  "20011": {
+   "id": 20011,
+   "clue_reward": null,
+   "icon": 111,
+   "name": "Alloy Sample",
+   "name_th": "ตัวอย่างโลหะผสม",
+   "detail": "A small metal sample from a mysterious merchant, its luster and hardness far exceeding that of Suekko's current weapon. This shipment is worth a fortune—far beyond what Suekko could ever afford.",
+   "detail_th": "ตัวอย่างโลหะขนาดเล็กจากผู้ค้าปริศนา ซึ่งมีความมันเงาและความแข็งเหนือกว่าอาวุธปัจจุบันของ Suekko มาก การขนส่งนี้มีมูลค่ามหาศาล เกินกว่าที่ Suekko จะจ่ายไหว",
+   "source": "Hollow Ember Space - Layer 1",
+   "source_th": "พื้นที่เอมเบอร์ประเภท Hollow - ชั้นที่ 1"
+  },
+  "20012": {
+   "id": 20012,
+   "clue_reward": null,
+   "icon": 112,
+   "name": "A Piece of Bandage",
+   "name_th": "ผ้าพันแผล",
+   "detail": "A bandage stained with an unidentified red or dark-red liquid—possibly blood from a wound, or some other bodily fluid.",
+   "detail_th": "ผ้าพันแผลที่มีคราบของเหลวสีแดงหรือสีแดงเข้มที่ไม่ทราบที่มา อาจเป็นเลือดจากบาดแผล หรือของเหลวอื่น ๆ ในร่างกายก็เป็นได้",
+   "source": "Hollow Ember Space - Layer 1",
+   "source_th": "พื้นที่เอมเบอร์ประเภท Hollow - ชั้นที่ 1"
+  },
+  "20013": {
+   "id": 20013,
+   "clue_reward": null,
+   "icon": 113,
+   "name": "Lost Record: Demon Mask",
+   "name_th": "บันทึกสาบสูญ: หน้ากากปีศาจ",
+   "detail": "Its surface appears extremely rough, as if formed from layers of broken bones and jagged spikes.\nWhen you stare at it, you feel as though its deep gaze is piercing straight through your soul.",
+   "detail_th": "ภายนอกดูหยาบกระด้าง ราวกับว่าทำมาจากกระดูกที่แตกหักและหนามแหลมคมหลายชั้น\nเมื่อมองดู คุณจะรู้สึกราวกับว่ามีสายตาอันล้ำลึกทิ่มแทงทะลุจิตวิญญาณของคุณ",
+   "source": "Hollow Ember Space - Layer 1",
+   "source_th": "พื้นที่เอมเบอร์ประเภท Hollow - ชั้นที่ 1"
+  },
+  "20014": {
+   "id": 20014,
+   "clue_reward": null,
+   "icon": 114,
+   "name": "Lost Record: Someone's Selfie",
+   "name_th": "บันทึกสาบสูญ: เซลฟี่ของใครบางคน",
+   "detail": "A photo of someone with their pet, seemingly taken at a school festival.\nIt garnered a flood of likes and comments on social media—though many of them appear to be from bot accounts.",
+   "detail_th": "รูปถ่ายของคนคนหนึ่งกับสัตว์เลี้ยง ซึ่งน่าจะถ่ายในงานเทศกาลโรงเรียน\nมีคนกดถูกใจและแสดงความคิดเห็นบนโซเชียลมีเดียเป็นจำนวนมาก แม้ว่าส่วนใหญ่ดูเหมือนว่าจะมาจากบัญชีบอตก็ตาม",
+   "source": "Hollow Ember Space - Layer 2",
+   "source_th": "พื้นที่เอมเบอร์ประเภท Hollow - ชั้นที่ 2"
+  },
+  "20015": {
+   "id": 20015,
+   "clue_reward": null,
+   "icon": 115,
+   "name": "Transfer Agreement",
+   "name_th": "ข้อตกลงการถ่ายโอน",
+   "detail": "A damaged laboratory Transfer Agreement, with parts of the paper missing.\nIt appears to have been signed in a hurry—the handwriting is rushed and erratic.",
+   "detail_th": "เอกสารข้อตกลงการถ่ายโอนห้องปฏิบัติการที่เสียหาย โดยมีบาง\nส่วนหายไป\nดูเหมือนเอกสารนี้จะมีการลงนามอย่างเร่งรีบ เพราะลายมือดู\nหวัดๆ และไม่เรียบร้อย",
+   "source": "Investigation - Decaninth Street",
+   "source_th": "การตรวจสอบ - ถนนสายที่ 90"
+  },
+  "20016": {
+   "id": 20016,
+   "clue_reward": null,
+   "icon": 116,
+   "name": "Lost Record: Huge Bill",
+   "name_th": "บันทึกสาบสูญ: บิลยอดสูง",
+   "detail": "...\n...Automatic glass doors\n...Display screens...\nVarious lighting fixtures...\n...Square meters of building exterior... \nMedical expenses and psychological compensation...\n... ...\n...All damages to be reimbursed at full value.",
+   "detail_th": "...\n...ประตูกระจกอัตโนมัติ\n...หน้าจอแสดงผล...\nโคมไฟต่าง ๆ...\n...ตารางเมตรของภายนอกอาคาร...\nค่ารักษาพยาบาลและค่าสินไหมทดแทนทางด้านจิตใจ...\n... ...\n...ต้องชดใช้ค่าเสียหายทั้งหมดเต็มจำนวน",
+   "source": "Hollow Ember Space - Layer 2",
+   "source_th": "พื้นที่เอมเบอร์ประเภท Hollow - ชั้นที่ 2"
+  },
+  "20017": {
+   "id": 20017,
+   "clue_reward": null,
+   "icon": 117,
+   "name": "Notification Letter",
+   "name_th": "จดหมายแจ้งเตือน",
+   "detail": "Some parts of the letter remain legible, mentioning a group of senior Researchers arriving soon to take over the entire facility.",
+   "detail_th": "จดหมายบางส่วนยังคงอ่านได้ โดยพูดถึงกลุ่ม Researcher อาวุโสที่จะเข้ามาดูแลทั้งโรงงานในเร็ว ๆ นี้",
+   "source": "Investigation - Canary Manor",
+   "source_th": "การตรวจสอบ - Canary Manor"
+  },
+  "20018": {
+   "id": 20018,
+   "clue_reward": null,
+   "icon": 118,
+   "name": "Alarm Recording",
+   "name_th": "บันทึกเสียงเตือนภัย",
+   "detail": "A generic Alarm Recording, continuously repeating: \"Emergency situation detected. All personnel, please evacuate to the nearest safe area.\"",
+   "detail_th": "บันทึกเสียงเตือนภัยทั่วไปที่ย้ำซ้ำ ๆ ว่า \"ตรวจพบสถานการณ์ฉุกเฉิน เจ้าหน้าที่ทุกคน โปรดอพยพไปยังพื้นที่ปลอดภัยที่ใกล้ที่สุด\"",
+   "source": "Anisync Echoes - Chess Piece",
+   "source_th": "Anisync Echoes - หมากรุก"
+  },
+  "20019": {
+   "id": 20019,
+   "clue_reward": null,
+   "icon": 119,
+   "name": "Lost Record: Unknown Shadow",
+   "name_th": "บันทึกสาบสูญ: เงาที่ไม่รู้จัก",
+   "detail": "A blurry photograph, shaken due to the photographer's panic.\nAmidst the pitch-black background, a bright beam of light illuminates a monstrous silhouette.",
+   "detail_th": "รูปภาพที่พร่ามัวและสั่นไหวเนื่องจากช่างภาพที่ตกใจกลัว\nบนพื้นหลังที่มืดสนิท มีลำแสงสว่างจ้าส่องกระทบเงาอันน่าสะพรึงกลัว",
+   "source": "Hollow Ember Space - Layer 3",
+   "source_th": "พื้นที่เอมเบอร์ประเภท Hollow - ชั้น 3"
+  },
+  "20020": {
+   "id": 20020,
+   "clue_reward": null,
+   "icon": 120,
+   "name": "Lost Record: Business Notice",
+   "name_th": "บันทึกสาบสูญ: ประกาศทางธุรกิจ",
+   "detail": "Shops and entertainment venues across the E-023 region display the same Notification: \"Beware of customers under 1.6 meters tall.\"\nNew staff members are required to undergo training—whatever happens, they must not provoke a certain hammer-wielding child.",
+   "detail_th": "ร้านค้าและสถานบันเทิงต่าง ๆ ในภูมิภาค E-023 แสดงข้อความแจ้งเตือนเดียวกันนี้ว่า \"ให้ระวังลูกค้าที่มีความสูงน้อยกว่า 1.6 เมตร\"\nพนักงานใหม่จะต้องผ่านการฝึกอบรม และห้ามไปยั่วโมโหเด็กที่ถือค้อนเด็ดขาดไม่ว่าจะเกิดอะไรขึ้นก็ตาม",
+   "source": "Hollow Ember Space - Layer 3",
+   "source_th": "พื้นที่เอมเบอร์ประเภท Hollow - ชั้น 3"
+  },
+  "20021": {
+   "id": 20021,
+   "clue_reward": null,
+   "icon": 121,
+   "name": "Lost Record: Work Doodle",
+   "name_th": "บันทึกสาบสูญ: ภาพวาดขยุกขยิก",
+   "detail": "Messy records of protection fees collected.\nBut in truth, those who paid never received any protection.\nEvery day, a random page is flipped open to decide whose place will be \"visited\" next.",
+   "detail_th": "บันทึกค่าธรรมเนียมการคุ้มครองที่ไม่เป็นระเบียบ\nแต่ในความจริงนั้น ผู้ที่จ่ายเงินไปไม่เคยได้รับการคุ้มครองเลยสักครั้งเดียว\nในแต่ละวัน จะมีการสุ่มเปิดหน้าขึ้นมาเพื่อตัดสินใจว่าจะไป \"เยี่ยมชม\" สถานที่ของใครเป็นรายถัดไป",
+   "source": "Hollow Ember Space - Layer 3",
+   "source_th": "พื้นที่เอมเบอร์ประเภท Hollow - ชั้น 3"
+  },
+  "20022": {
+   "id": 20022,
+   "clue_reward": null,
+   "icon": 122,
+   "name": "Lost Record: Eavesdropping Record",
+   "name_th": "บันทึกสาบสูญ: บันทึกการดักฟัง",
+   "detail": "A transcript of eavesdropped conversations.\nA group of unknown \"merchants\" recently robbed a major corporation in E-01 and are now desperate to offload stolen goods. Among their loot is the alloy material Suekko needs.",
+   "detail_th": "บันทึกบทสนทนาที่ถูกแอบฟัง\nเมื่อไม่นานมานี้ มีกลุ่ม \"ผู้ค้า\" ลึกลับปล้นบริษัทใหญ่แห่งหนึ่งใน E-01 และตอนนี้พวกเขาพยายามที่จะขนย้ายของที่ขโมยมาให้ได้ ในบรรดาของที่ปล้นมาได้มีวัสดุโลหะผสมที่ Suekko ต้องการอยู่",
+   "source": "Hollow Ember Space - Layer 3",
+   "source_th": "พื้นที่เอมเบอร์ประเภท Hollow - ชั้น 3"
+  },
+  "20023": {
+   "id": 20023,
+   "clue_reward": null,
+   "icon": 123,
+   "name": "Emergency Evacuation Guide",
+   "name_th": "คู่มือการอพยพฉุกเฉิน",
+   "detail": "Every Leiboz Life facility is equipped with multiple escape routes, and the methods to access them are detailed in the corresponding Emergency Evacuation Guide.",
+   "detail_th": "โรงงานทุกแห่งของ Leiboz Life นั้นมีเส้นทางหลบหนีอยู่หลายเส้นทางด้วยกัน และมีรายละเอียดเกี่ยวกับวิธีการเข้าถึงเส้นทางเหล่านั้นอยู่ในคู่มือการอพยพฉุกเฉินที่เกี่ยวข้อง",
+   "source": "Investigation - Leiboz Base",
+   "source_th": "การตรวจสอบ - Leiboz Base"
+  }
+ },
+ "text_chunk": "00059_b595ba3ecc84fa16.json"
+}

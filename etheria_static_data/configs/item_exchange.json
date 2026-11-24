@@ -1,0 +1,3516 @@
+{
+ "config": "item_exchange",
+ "fields": [
+  "id",
+  "gain_item",
+  "cost_id_list",
+  "cost_num_list",
+  "cost_limit_list",
+  "max",
+  "priority",
+  "extra_cost_list",
+  "over_cost_num_list",
+  "show_name"
+ ],
+ "rows": {
+  "1": {
+   "id": 1,
+   "gain_item": {
+    "id": 10102,
+    "count": 100
+   },
+   "cost_id_list": [
+    10011
+   ],
+   "cost_num_list": [
+    [
+     60,
+     100,
+     100
+    ]
+   ],
+   "cost_limit_list": [
+    1,
+    3,
+    6
+   ],
+   "max": 10,
+   "priority": 2,
+   "extra_cost_list": null,
+   "over_cost_num_list": [
+    200
+   ],
+   "show_name": "Hydra Crystal",
+   "show_name_th": "Hydra Crystal"
+  },
+  "2": {
+   "id": 2,
+   "gain_item": {
+    "id": 65102,
+    "count": 1
+   },
+   "cost_id_list": [
+    10001,
+    10011
+   ],
+   "cost_num_list": [
+    [
+     5000,
+     10000,
+     20000
+    ],
+    [
+     50,
+     100,
+     200
+    ]
+   ],
+   "cost_limit_list": [
+    1,
+    2,
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null
+  },
+  "3": {
+   "id": 3,
+   "gain_item": {
+    "id": 10102,
+    "count": 100
+   },
+   "cost_id_list": [
+    10111
+   ],
+   "cost_num_list": [
+    [
+     1
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Mental Stabilizer",
+   "show_name_th": "Mental Stabilizer"
+  },
+  "4": {
+   "id": 4,
+   "gain_item": {
+    "id": 10134,
+    "count": 1
+   },
+   "cost_id_list": [
+    10133
+   ],
+   "cost_num_list": [
+    [
+     5
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Red Shadowprint Craft",
+   "show_name_th": "คราฟต์ชาโดว์พรินต์สีแดง"
+  },
+  "5": {
+   "id": 5,
+   "gain_item": {
+    "id": 10133,
+    "count": 1
+   },
+   "cost_id_list": [
+    10132
+   ],
+   "cost_num_list": [
+    [
+     4
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Orange Shadowprint Craft",
+   "show_name_th": "คราฟต์ชาโดว์พรินต์สีส้ม"
+  },
+  "6": {
+   "id": 6,
+   "gain_item": {
+    "id": 10132,
+    "count": 1
+   },
+   "cost_id_list": [
+    10131
+   ],
+   "cost_num_list": [
+    [
+     3
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Purple Shadowprint Craft",
+   "show_name_th": "คราฟต์ชาโดว์พรินต์สีม่วง"
+  },
+  "7": {
+   "id": 7,
+   "gain_item": {
+    "id": 27315,
+    "count": 1
+   },
+   "cost_id_list": [
+    10011
+   ],
+   "cost_num_list": [
+    [
+     200
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 6,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Hydra Crystal",
+   "show_name_th": "Hydra Crystal"
+  },
+  "8": {
+   "id": 8,
+   "gain_item": {
+    "id": 10601,
+    "count": 0
+   },
+   "cost_id_list": [
+    10011
+   ],
+   "cost_num_list": [
+    [
+     100,
+     200,
+     300
+    ]
+   ],
+   "cost_limit_list": [
+    1,
+    1,
+    1
+   ],
+   "max": 3,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Energy Crystal",
+   "show_name_th": "Energy Crystal Block"
+  },
+  "11": {
+   "id": 11,
+   "gain_item": {
+    "id": 10118,
+    "count": 1
+   },
+   "cost_id_list": [
+    10104
+   ],
+   "cost_num_list": [
+    [
+     5
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Medium Craft",
+   "show_name_th": "คราฟต์ขั้นกลาง"
+  },
+  "12": {
+   "id": 12,
+   "gain_item": {
+    "id": 10119,
+    "count": 1
+   },
+   "cost_id_list": [
+    10105
+   ],
+   "cost_num_list": [
+    [
+     5
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Medium Craft",
+   "show_name_th": "คราฟต์ขั้นกลาง"
+  },
+  "13": {
+   "id": 13,
+   "gain_item": {
+    "id": 10120,
+    "count": 1
+   },
+   "cost_id_list": [
+    10106
+   ],
+   "cost_num_list": [
+    [
+     5
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Medium Craft",
+   "show_name_th": "คราฟต์ขั้นกลาง"
+  },
+  "14": {
+   "id": 14,
+   "gain_item": {
+    "id": 10121,
+    "count": 1
+   },
+   "cost_id_list": [
+    10107
+   ],
+   "cost_num_list": [
+    [
+     5
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Medium Craft",
+   "show_name_th": "คราฟต์ขั้นกลาง"
+  },
+  "15": {
+   "id": 15,
+   "gain_item": {
+    "id": 10122,
+    "count": 1
+   },
+   "cost_id_list": [
+    10108
+   ],
+   "cost_num_list": [
+    [
+     5
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Medium Craft",
+   "show_name_th": "คราฟต์ขั้นกลาง"
+  },
+  "16": {
+   "id": 16,
+   "gain_item": {
+    "id": 10123,
+    "count": 1
+   },
+   "cost_id_list": [
+    10118
+   ],
+   "cost_num_list": [
+    [
+     5
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Advanced Craft",
+   "show_name_th": "คราฟต์ขั้นสูง"
+  },
+  "17": {
+   "id": 17,
+   "gain_item": {
+    "id": 10124,
+    "count": 1
+   },
+   "cost_id_list": [
+    10119
+   ],
+   "cost_num_list": [
+    [
+     5
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Advanced Craft",
+   "show_name_th": "คราฟต์ขั้นสูง"
+  },
+  "18": {
+   "id": 18,
+   "gain_item": {
+    "id": 10125,
+    "count": 1
+   },
+   "cost_id_list": [
+    10120
+   ],
+   "cost_num_list": [
+    [
+     5
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Advanced Craft",
+   "show_name_th": "คราฟต์ขั้นสูง"
+  },
+  "19": {
+   "id": 19,
+   "gain_item": {
+    "id": 10126,
+    "count": 1
+   },
+   "cost_id_list": [
+    10121
+   ],
+   "cost_num_list": [
+    [
+     5
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Advanced Craft",
+   "show_name_th": "คราฟต์ขั้นสูง"
+  },
+  "20": {
+   "id": 20,
+   "gain_item": {
+    "id": 10127,
+    "count": 1
+   },
+   "cost_id_list": [
+    10122
+   ],
+   "cost_num_list": [
+    [
+     5
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Advanced Craft",
+   "show_name_th": "คราฟต์ขั้นสูง"
+  },
+  "21": {
+   "id": 21,
+   "gain_item": {
+    "id": 10113,
+    "count": 1
+   },
+   "cost_id_list": [
+    10112
+   ],
+   "cost_num_list": [
+    [
+     5
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Medium Craft",
+   "show_name_th": "คราฟต์ขั้นกลาง"
+  },
+  "22": {
+   "id": 22,
+   "gain_item": {
+    "id": 10114,
+    "count": 1
+   },
+   "cost_id_list": [
+    10113
+   ],
+   "cost_num_list": [
+    [
+     5
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Advanced Craft",
+   "show_name_th": "คราฟต์ขั้นสูง"
+  },
+  "51": {
+   "id": 51,
+   "gain_item": {
+    "id": 10116,
+    "count": 1
+   },
+   "cost_id_list": [
+    10501
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "52": {
+   "id": 52,
+   "gain_item": {
+    "id": 10117,
+    "count": 1
+   },
+   "cost_id_list": [
+    10502
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "53": {
+   "id": 53,
+   "gain_item": {
+    "id": 10203,
+    "count": 1
+   },
+   "cost_id_list": [
+    10503
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "54": {
+   "id": 54,
+   "gain_item": {
+    "id": 10205,
+    "count": 1
+   },
+   "cost_id_list": [
+    10504
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "55": {
+   "id": 55,
+   "gain_item": {
+    "id": 26121,
+    "count": 1
+   },
+   "cost_id_list": [
+    10505
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "56": {
+   "id": 56,
+   "gain_item": {
+    "id": 10611,
+    "count": 1
+   },
+   "cost_id_list": [
+    10612
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "57": {
+   "id": 57,
+   "gain_item": {
+    "id": 10182,
+    "count": 1
+   },
+   "cost_id_list": [
+    10506
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "58": {
+   "id": 58,
+   "gain_item": {
+    "id": 7120,
+    "count": 1
+   },
+   "cost_id_list": [
+    10507
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "59": {
+   "id": 59,
+   "gain_item": {
+    "id": 7111,
+    "count": 1
+   },
+   "cost_id_list": [
+    10508
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "60": {
+   "id": 60,
+   "gain_item": {
+    "id": 10316,
+    "count": 1
+   },
+   "cost_id_list": [
+    10509
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "100": {
+   "id": 100,
+   "gain_item": {
+    "id": 10138,
+    "count": 1
+   },
+   "cost_id_list": [
+    10011
+   ],
+   "cost_num_list": [
+    [
+     30
+    ]
+   ],
+   "cost_limit_list": [
+    10
+   ],
+   "max": 10,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Etherena Ticket",
+   "show_name_th": "ตั๋วอีเทอรีน่า"
+  },
+  "1001": {
+   "id": 1001,
+   "gain_item": {
+    "id": 1001,
+    "count": 1
+   },
+   "cost_id_list": [
+    4001
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1006": {
+   "id": 1006,
+   "gain_item": {
+    "id": 1006,
+    "count": 1
+   },
+   "cost_id_list": [
+    4006
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1011": {
+   "id": 1011,
+   "gain_item": {
+    "id": 1011,
+    "count": 1
+   },
+   "cost_id_list": [
+    4011
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1016": {
+   "id": 1016,
+   "gain_item": {
+    "id": 1016,
+    "count": 1
+   },
+   "cost_id_list": [
+    4016
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1017": {
+   "id": 1017,
+   "gain_item": {
+    "id": 1017,
+    "count": 1
+   },
+   "cost_id_list": [
+    4017
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1021": {
+   "id": 1021,
+   "gain_item": {
+    "id": 1021,
+    "count": 1
+   },
+   "cost_id_list": [
+    4021
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1026": {
+   "id": 1026,
+   "gain_item": {
+    "id": 1026,
+    "count": 1
+   },
+   "cost_id_list": [
+    4026
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1031": {
+   "id": 1031,
+   "gain_item": {
+    "id": 1031,
+    "count": 1
+   },
+   "cost_id_list": [
+    4031
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1036": {
+   "id": 1036,
+   "gain_item": {
+    "id": 1036,
+    "count": 1
+   },
+   "cost_id_list": [
+    4036
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1041": {
+   "id": 1041,
+   "gain_item": {
+    "id": 1041,
+    "count": 1
+   },
+   "cost_id_list": [
+    4041
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1046": {
+   "id": 1046,
+   "gain_item": {
+    "id": 1046,
+    "count": 1
+   },
+   "cost_id_list": [
+    4046
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1051": {
+   "id": 1051,
+   "gain_item": {
+    "id": 1051,
+    "count": 1
+   },
+   "cost_id_list": [
+    4051
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1056": {
+   "id": 1056,
+   "gain_item": {
+    "id": 1056,
+    "count": 1
+   },
+   "cost_id_list": [
+    4056
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1061": {
+   "id": 1061,
+   "gain_item": {
+    "id": 1061,
+    "count": 1
+   },
+   "cost_id_list": [
+    4061
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1066": {
+   "id": 1066,
+   "gain_item": {
+    "id": 1066,
+    "count": 1
+   },
+   "cost_id_list": [
+    4066
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1071": {
+   "id": 1071,
+   "gain_item": {
+    "id": 1071,
+    "count": 1
+   },
+   "cost_id_list": [
+    4071
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1076": {
+   "id": 1076,
+   "gain_item": {
+    "id": 1076,
+    "count": 1
+   },
+   "cost_id_list": [
+    4076
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1081": {
+   "id": 1081,
+   "gain_item": {
+    "id": 1081,
+    "count": 1
+   },
+   "cost_id_list": [
+    4081
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1086": {
+   "id": 1086,
+   "gain_item": {
+    "id": 1086,
+    "count": 1
+   },
+   "cost_id_list": [
+    4086
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1091": {
+   "id": 1091,
+   "gain_item": {
+    "id": 1091,
+    "count": 1
+   },
+   "cost_id_list": [
+    4091
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1096": {
+   "id": 1096,
+   "gain_item": {
+    "id": 1096,
+    "count": 1
+   },
+   "cost_id_list": [
+    4096
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1101": {
+   "id": 1101,
+   "gain_item": {
+    "id": 1101,
+    "count": 1
+   },
+   "cost_id_list": [
+    4101
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1106": {
+   "id": 1106,
+   "gain_item": {
+    "id": 1106,
+    "count": 1
+   },
+   "cost_id_list": [
+    4106
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1111": {
+   "id": 1111,
+   "gain_item": {
+    "id": 1111,
+    "count": 1
+   },
+   "cost_id_list": [
+    4111
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1116": {
+   "id": 1116,
+   "gain_item": {
+    "id": 1116,
+    "count": 1
+   },
+   "cost_id_list": [
+    4116
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1121": {
+   "id": 1121,
+   "gain_item": {
+    "id": 1121,
+    "count": 1
+   },
+   "cost_id_list": [
+    4121
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1126": {
+   "id": 1126,
+   "gain_item": {
+    "id": 1126,
+    "count": 1
+   },
+   "cost_id_list": [
+    4126
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1131": {
+   "id": 1131,
+   "gain_item": {
+    "id": 1131,
+    "count": 1
+   },
+   "cost_id_list": [
+    4131
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1136": {
+   "id": 1136,
+   "gain_item": {
+    "id": 1136,
+    "count": 1
+   },
+   "cost_id_list": [
+    4136
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1141": {
+   "id": 1141,
+   "gain_item": {
+    "id": 1141,
+    "count": 1
+   },
+   "cost_id_list": [
+    4141
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1146": {
+   "id": 1146,
+   "gain_item": {
+    "id": 1146,
+    "count": 1
+   },
+   "cost_id_list": [
+    4146
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1151": {
+   "id": 1151,
+   "gain_item": {
+    "id": 1151,
+    "count": 1
+   },
+   "cost_id_list": [
+    4151
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1156": {
+   "id": 1156,
+   "gain_item": {
+    "id": 1156,
+    "count": 1
+   },
+   "cost_id_list": [
+    4156
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1161": {
+   "id": 1161,
+   "gain_item": {
+    "id": 1161,
+    "count": 1
+   },
+   "cost_id_list": [
+    4161
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1166": {
+   "id": 1166,
+   "gain_item": {
+    "id": 1166,
+    "count": 1
+   },
+   "cost_id_list": [
+    4166
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1171": {
+   "id": 1171,
+   "gain_item": {
+    "id": 1171,
+    "count": 1
+   },
+   "cost_id_list": [
+    4171
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1176": {
+   "id": 1176,
+   "gain_item": {
+    "id": 1176,
+    "count": 1
+   },
+   "cost_id_list": [
+    4176
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1181": {
+   "id": 1181,
+   "gain_item": {
+    "id": 1181,
+    "count": 1
+   },
+   "cost_id_list": [
+    4181
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1186": {
+   "id": 1186,
+   "gain_item": {
+    "id": 1186,
+    "count": 1
+   },
+   "cost_id_list": [
+    4186
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1191": {
+   "id": 1191,
+   "gain_item": {
+    "id": 1191,
+    "count": 1
+   },
+   "cost_id_list": [
+    4191
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1196": {
+   "id": 1196,
+   "gain_item": {
+    "id": 1196,
+    "count": 1
+   },
+   "cost_id_list": [
+    4196
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1201": {
+   "id": 1201,
+   "gain_item": {
+    "id": 1201,
+    "count": 1
+   },
+   "cost_id_list": [
+    4201
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1206": {
+   "id": 1206,
+   "gain_item": {
+    "id": 1206,
+    "count": 1
+   },
+   "cost_id_list": [
+    4206
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1211": {
+   "id": 1211,
+   "gain_item": {
+    "id": 1211,
+    "count": 1
+   },
+   "cost_id_list": [
+    4211
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1216": {
+   "id": 1216,
+   "gain_item": {
+    "id": 1216,
+    "count": 1
+   },
+   "cost_id_list": [
+    4216
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1221": {
+   "id": 1221,
+   "gain_item": {
+    "id": 1221,
+    "count": 1
+   },
+   "cost_id_list": [
+    4221
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1226": {
+   "id": 1226,
+   "gain_item": {
+    "id": 1226,
+    "count": 1
+   },
+   "cost_id_list": [
+    4226
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1231": {
+   "id": 1231,
+   "gain_item": {
+    "id": 1231,
+    "count": 1
+   },
+   "cost_id_list": [
+    4231
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1236": {
+   "id": 1236,
+   "gain_item": {
+    "id": 1236,
+    "count": 1
+   },
+   "cost_id_list": [
+    4236
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1241": {
+   "id": 1241,
+   "gain_item": {
+    "id": 1241,
+    "count": 1
+   },
+   "cost_id_list": [
+    4241
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1246": {
+   "id": 1246,
+   "gain_item": {
+    "id": 1246,
+    "count": 1
+   },
+   "cost_id_list": [
+    4246
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1251": {
+   "id": 1251,
+   "gain_item": {
+    "id": 1251,
+    "count": 1
+   },
+   "cost_id_list": [
+    4251
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1256": {
+   "id": 1256,
+   "gain_item": {
+    "id": 1256,
+    "count": 1
+   },
+   "cost_id_list": [
+    4256
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1261": {
+   "id": 1261,
+   "gain_item": {
+    "id": 1261,
+    "count": 1
+   },
+   "cost_id_list": [
+    4261
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1266": {
+   "id": 1266,
+   "gain_item": {
+    "id": 1266,
+    "count": 1
+   },
+   "cost_id_list": [
+    4266
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1271": {
+   "id": 1271,
+   "gain_item": {
+    "id": 1271,
+    "count": 1
+   },
+   "cost_id_list": [
+    4271
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1276": {
+   "id": 1276,
+   "gain_item": {
+    "id": 1276,
+    "count": 1
+   },
+   "cost_id_list": [
+    4276
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1281": {
+   "id": 1281,
+   "gain_item": {
+    "id": 1281,
+    "count": 1
+   },
+   "cost_id_list": [
+    4281
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1286": {
+   "id": 1286,
+   "gain_item": {
+    "id": 1286,
+    "count": 1
+   },
+   "cost_id_list": [
+    4286
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1291": {
+   "id": 1291,
+   "gain_item": {
+    "id": 1291,
+    "count": 1
+   },
+   "cost_id_list": [
+    4291
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1296": {
+   "id": 1296,
+   "gain_item": {
+    "id": 1296,
+    "count": 1
+   },
+   "cost_id_list": [
+    4296
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1301": {
+   "id": 1301,
+   "gain_item": {
+    "id": 1301,
+    "count": 1
+   },
+   "cost_id_list": [
+    4301
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1306": {
+   "id": 1306,
+   "gain_item": {
+    "id": 1306,
+    "count": 1
+   },
+   "cost_id_list": [
+    4306
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1311": {
+   "id": 1311,
+   "gain_item": {
+    "id": 1311,
+    "count": 1
+   },
+   "cost_id_list": [
+    4311
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1316": {
+   "id": 1316,
+   "gain_item": {
+    "id": 1316,
+    "count": 1
+   },
+   "cost_id_list": [
+    4316
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "1321": {
+   "id": 1321,
+   "gain_item": {
+    "id": 1321,
+    "count": 1
+   },
+   "cost_id_list": [
+    4321
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "2001": {
+   "id": 2001,
+   "gain_item": {
+    "id": 2001,
+    "count": 1
+   },
+   "cost_id_list": [
+    5001
+   ],
+   "cost_num_list": [
+    [
+     30
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "2002": {
+   "id": 2002,
+   "gain_item": {
+    "id": 2002,
+    "count": 1
+   },
+   "cost_id_list": [
+    5002
+   ],
+   "cost_num_list": [
+    [
+     30
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "2006": {
+   "id": 2006,
+   "gain_item": {
+    "id": 2006,
+    "count": 1
+   },
+   "cost_id_list": [
+    5006
+   ],
+   "cost_num_list": [
+    [
+     30
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "2011": {
+   "id": 2011,
+   "gain_item": {
+    "id": 2011,
+    "count": 1
+   },
+   "cost_id_list": [
+    5011
+   ],
+   "cost_num_list": [
+    [
+     30
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "2016": {
+   "id": 2016,
+   "gain_item": {
+    "id": 2016,
+    "count": 1
+   },
+   "cost_id_list": [
+    5016
+   ],
+   "cost_num_list": [
+    [
+     30
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "2021": {
+   "id": 2021,
+   "gain_item": {
+    "id": 2021,
+    "count": 1
+   },
+   "cost_id_list": [
+    5021
+   ],
+   "cost_num_list": [
+    [
+     30
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "2022": {
+   "id": 2022,
+   "gain_item": {
+    "id": 2022,
+    "count": 1
+   },
+   "cost_id_list": [
+    5022
+   ],
+   "cost_num_list": [
+    [
+     30
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "2026": {
+   "id": 2026,
+   "gain_item": {
+    "id": 2026,
+    "count": 1
+   },
+   "cost_id_list": [
+    5026
+   ],
+   "cost_num_list": [
+    [
+     30
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "2031": {
+   "id": 2031,
+   "gain_item": {
+    "id": 2031,
+    "count": 1
+   },
+   "cost_id_list": [
+    5031
+   ],
+   "cost_num_list": [
+    [
+     30
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "2036": {
+   "id": 2036,
+   "gain_item": {
+    "id": 2036,
+    "count": 1
+   },
+   "cost_id_list": [
+    5036
+   ],
+   "cost_num_list": [
+    [
+     30
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "2041": {
+   "id": 2041,
+   "gain_item": {
+    "id": 2041,
+    "count": 1
+   },
+   "cost_id_list": [
+    5041
+   ],
+   "cost_num_list": [
+    [
+     30
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "2046": {
+   "id": 2046,
+   "gain_item": {
+    "id": 2046,
+    "count": 1
+   },
+   "cost_id_list": [
+    5046
+   ],
+   "cost_num_list": [
+    [
+     30
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "2047": {
+   "id": 2047,
+   "gain_item": {
+    "id": 2047,
+    "count": 1
+   },
+   "cost_id_list": [
+    5047
+   ],
+   "cost_num_list": [
+    [
+     30
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "2051": {
+   "id": 2051,
+   "gain_item": {
+    "id": 2051,
+    "count": 1
+   },
+   "cost_id_list": [
+    5051
+   ],
+   "cost_num_list": [
+    [
+     30
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "2052": {
+   "id": 2052,
+   "gain_item": {
+    "id": 2052,
+    "count": 1
+   },
+   "cost_id_list": [
+    5052
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "2056": {
+   "id": 2056,
+   "gain_item": {
+    "id": 2056,
+    "count": 1
+   },
+   "cost_id_list": [
+    5056
+   ],
+   "cost_num_list": [
+    [
+     30
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "2057": {
+   "id": 2057,
+   "gain_item": {
+    "id": 2057,
+    "count": 1
+   },
+   "cost_id_list": [
+    5057
+   ],
+   "cost_num_list": [
+    [
+     30
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "2061": {
+   "id": 2061,
+   "gain_item": {
+    "id": 2061,
+    "count": 1
+   },
+   "cost_id_list": [
+    5061
+   ],
+   "cost_num_list": [
+    [
+     30
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "2066": {
+   "id": 2066,
+   "gain_item": {
+    "id": 2066,
+    "count": 1
+   },
+   "cost_id_list": [
+    5066
+   ],
+   "cost_num_list": [
+    [
+     30
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "2067": {
+   "id": 2067,
+   "gain_item": {
+    "id": 2067,
+    "count": 1
+   },
+   "cost_id_list": [
+    5067
+   ],
+   "cost_num_list": [
+    [
+     30
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "2071": {
+   "id": 2071,
+   "gain_item": {
+    "id": 2071,
+    "count": 1
+   },
+   "cost_id_list": [
+    5071
+   ],
+   "cost_num_list": [
+    [
+     30
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "2076": {
+   "id": 2076,
+   "gain_item": {
+    "id": 2076,
+    "count": 1
+   },
+   "cost_id_list": [
+    5076
+   ],
+   "cost_num_list": [
+    [
+     30
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "2081": {
+   "id": 2081,
+   "gain_item": {
+    "id": 2081,
+    "count": 1
+   },
+   "cost_id_list": [
+    5081
+   ],
+   "cost_num_list": [
+    [
+     30
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "2086": {
+   "id": 2086,
+   "gain_item": {
+    "id": 2086,
+    "count": 1
+   },
+   "cost_id_list": [
+    5086
+   ],
+   "cost_num_list": [
+    [
+     30
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "2087": {
+   "id": 2087,
+   "gain_item": {
+    "id": 2087,
+    "count": 1
+   },
+   "cost_id_list": [
+    5087
+   ],
+   "cost_num_list": [
+    [
+     30
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "2091": {
+   "id": 2091,
+   "gain_item": {
+    "id": 2091,
+    "count": 1
+   },
+   "cost_id_list": [
+    5091
+   ],
+   "cost_num_list": [
+    [
+     30
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "2096": {
+   "id": 2096,
+   "gain_item": {
+    "id": 2096,
+    "count": 1
+   },
+   "cost_id_list": [
+    5096
+   ],
+   "cost_num_list": [
+    [
+     30
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "2101": {
+   "id": 2101,
+   "gain_item": {
+    "id": 2101,
+    "count": 1
+   },
+   "cost_id_list": [
+    5101
+   ],
+   "cost_num_list": [
+    [
+     30
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "2106": {
+   "id": 2106,
+   "gain_item": {
+    "id": 2106,
+    "count": 1
+   },
+   "cost_id_list": [
+    5106
+   ],
+   "cost_num_list": [
+    [
+     30
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "2111": {
+   "id": 2111,
+   "gain_item": {
+    "id": 2111,
+    "count": 1
+   },
+   "cost_id_list": [
+    5111
+   ],
+   "cost_num_list": [
+    [
+     30
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "2116": {
+   "id": 2116,
+   "gain_item": {
+    "id": 2116,
+    "count": 1
+   },
+   "cost_id_list": [
+    5116
+   ],
+   "cost_num_list": [
+    [
+     30
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "2121": {
+   "id": 2121,
+   "gain_item": {
+    "id": 2121,
+    "count": 1
+   },
+   "cost_id_list": [
+    5121
+   ],
+   "cost_num_list": [
+    [
+     30
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "2122": {
+   "id": 2122,
+   "gain_item": {
+    "id": 2122,
+    "count": 1
+   },
+   "cost_id_list": [
+    5122
+   ],
+   "cost_num_list": [
+    [
+     30
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "2126": {
+   "id": 2126,
+   "gain_item": {
+    "id": 2126,
+    "count": 1
+   },
+   "cost_id_list": [
+    5126
+   ],
+   "cost_num_list": [
+    [
+     30
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "2131": {
+   "id": 2131,
+   "gain_item": {
+    "id": 2131,
+    "count": 1
+   },
+   "cost_id_list": [
+    5131
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "2136": {
+   "id": 2136,
+   "gain_item": {
+    "id": 2136,
+    "count": 1
+   },
+   "cost_id_list": [
+    5136
+   ],
+   "cost_num_list": [
+    [
+     50
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "3001": {
+   "id": 3001,
+   "gain_item": {
+    "id": 3001,
+    "count": 1
+   },
+   "cost_id_list": [
+    6001
+   ],
+   "cost_num_list": [
+    [
+     30
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "3006": {
+   "id": 3006,
+   "gain_item": {
+    "id": 3006,
+    "count": 1
+   },
+   "cost_id_list": [
+    6006
+   ],
+   "cost_num_list": [
+    [
+     30
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "3007": {
+   "id": 3007,
+   "gain_item": {
+    "id": 3007,
+    "count": 1
+   },
+   "cost_id_list": [
+    6007
+   ],
+   "cost_num_list": [
+    [
+     30
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "3011": {
+   "id": 3011,
+   "gain_item": {
+    "id": 3011,
+    "count": 1
+   },
+   "cost_id_list": [
+    6011
+   ],
+   "cost_num_list": [
+    [
+     30
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "3016": {
+   "id": 3016,
+   "gain_item": {
+    "id": 3016,
+    "count": 1
+   },
+   "cost_id_list": [
+    6016
+   ],
+   "cost_num_list": [
+    [
+     30
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "3021": {
+   "id": 3021,
+   "gain_item": {
+    "id": 3021,
+    "count": 1
+   },
+   "cost_id_list": [
+    6021
+   ],
+   "cost_num_list": [
+    [
+     30
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "3022": {
+   "id": 3022,
+   "gain_item": {
+    "id": 3022,
+    "count": 1
+   },
+   "cost_id_list": [
+    6022
+   ],
+   "cost_num_list": [
+    [
+     30
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "3023": {
+   "id": 3023,
+   "gain_item": {
+    "id": 3023,
+    "count": 1
+   },
+   "cost_id_list": [
+    6023
+   ],
+   "cost_num_list": [
+    [
+     30
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "3026": {
+   "id": 3026,
+   "gain_item": {
+    "id": 3026,
+    "count": 1
+   },
+   "cost_id_list": [
+    6026
+   ],
+   "cost_num_list": [
+    [
+     30
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "3031": {
+   "id": 3031,
+   "gain_item": {
+    "id": 3031,
+    "count": 1
+   },
+   "cost_id_list": [
+    6031
+   ],
+   "cost_num_list": [
+    [
+     30
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "3032": {
+   "id": 3032,
+   "gain_item": {
+    "id": 3032,
+    "count": 1
+   },
+   "cost_id_list": [
+    6032
+   ],
+   "cost_num_list": [
+    [
+     30
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  },
+  "3036": {
+   "id": 3036,
+   "gain_item": {
+    "id": 3036,
+    "count": 1
+   },
+   "cost_id_list": [
+    6036
+   ],
+   "cost_num_list": [
+    [
+     30
+    ]
+   ],
+   "cost_limit_list": [
+    1
+   ],
+   "max": 0,
+   "priority": 1,
+   "extra_cost_list": null,
+   "over_cost_num_list": null,
+   "show_name": "Fragment Craft",
+   "show_name_th": "คราฟต์ชิ้นส่วน"
+  }
+ },
+ "text_chunk": "00103_20a870df5859a54d.json"
+}

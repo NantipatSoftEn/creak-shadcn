@@ -1,0 +1,65 @@
+{
+ "config": "sysmessage",
+ "fields": [
+  "id",
+  "content"
+ ],
+ "rows": [
+  {
+   "id": 1,
+   "content": "System Error",
+   "content_th": "ระบบผิดพลาด"
+  },
+  {
+   "id": 2,
+   "content": "Scattered successfully",
+   "content_th": "กระจายสำเร็จแล้ว"
+  },
+  {
+   "id": 3,
+   "content": "Stacking successful",
+   "content_th": "ทับซ้อนสำเร็จแล้ว"
+  },
+  {
+   "id": 4,
+   "content": "Insufficient funds",
+   "content_th": "เงินทุนไม่เพียงพอ"
+  },
+  {
+   "id": 5,
+   "content": "Insufficient team members",
+   "content_th": "สมาชิกในทีมไม่เพียงพอ"
+  },
+  {
+   "id": 6,
+   "content": "Party is Full",
+   "content_th": "สมาชิกเต็มแล้ว"
+  },
+  {
+   "id": 7,
+   "content": "Needs to be cast on a friendly unit",
+   "content_th": "ต้องร่ายกับยูนิตฝ่ายพันธมิตร"
+  },
+  {
+   "id": 8,
+   "content": "Replacement successful",
+   "content_th": "เปลี่ยนใหม่สำเร็จแล้ว"
+  },
+  {
+   "id": 9,
+   "content": "Insufficient ascension materials",
+   "content_th": "วัสดุเลื่อนขั้นไม่เพียงพอ"
+  },
+  {
+   "id": 10,
+   "content": "Must reach level {1} to Ascend.",
+   "content_th": "ต้องถึง Lv. {1} เพื่อเพิ่มลิมิท"
+  },
+  {
+   "id": 11,
+   "content": "Summon Beast has reached the Ascend limit",
+   "content_th": "การอัญเชิญสัตว์ร้ายได้ถึงขีดจำกัดเพิ่มลิมิทแล้ว"
+  }
+ ],
+ "text_chunk": "00154_9aa1bae1ec214745.json"
+}

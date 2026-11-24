@@ -1,0 +1,36 @@
+{
+ "config": "skin_draw",
+ "fields": [
+  "id",
+  "consume",
+  "weight",
+  "loot_list",
+  "ssr_maxnumber",
+  "sr_maxnumber",
+  "cardpool_ui",
+  "cardpool_name",
+  "description",
+  "rule_desc"
+ ],
+ "rows": [
+  {
+   "id": 1,
+   "consume": {
+    "id": 10173,
+    "count": 1
+   },
+   "weight": "3,170|4,29|5,1",
+   "loot_list": "3,75003|4,75002|5,75001",
+   "ssr_maxnumber": 100,
+   "sr_maxnumber": 10,
+   "cardpool_ui": "001",
+   "cardpool_name": "Neon Mirage",
+   "cardpool_name_th": "นีออนลวงตา",
+   "description": "Limited-time Draw of SSR Contender Realm Neon Mirage!",
+   "description_th": "การสุ่มแบบจำกัดเวลาของ Neon Mirage อาณาจักรผู้ท้าชิงระดับ SSR!",
+   "rule_desc": "In the [Contender Realm], the probability of obtaining SSR Contender Realm is <Red>0.5%</>, and SSR Contender Realm is guaranteed within <Red>100</> draw(s). The probability of obtaining an SR reward is <Red>14.5%</>, and an SR or greater reward is guaranteed within <Red>10</> draw(s), with <Red>50%</> chance of it being SR Contender Realm.",
+   "rule_desc_th": "ใน [อาณาจักรผู้ท้าชิง] โอกาสที่จะได้รับอาณาจักรผู้ท้าชิงระดับ SSR นั้นอยู่ที่ <Red>0.5%</> และการันตีว่าจะได้รับอาณาจักรผู้ท้าชิงระดับ SSR ภายในการสุ่ม <Red>100</> ครั้ง โอกาสที่จะได้รับรางวัลระดับ SR นั้นอยู่ที่ <Red>14.5%</> และการันตีว่าจะได้รับรางวัลระดับ SR หรือดีกว่าภายในการสุ่ม <Red>10</> ครั้ง โดยมีโอกาส <Red>50%</> ที่จะได้เป็นอาณาจักรผู้ท้าชิงระดับ SR"
+  }
+ ],
+ "text_chunk": "00151_e866b35557880899.json"
+}

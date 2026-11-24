@@ -1,0 +1,498 @@
+{
+ "config": "arenadraft_agtmaker",
+ "fields": [
+  "id",
+  "template_id",
+  "level",
+  "passive_skill"
+ ],
+ "rows": [
+  {
+   "id": 1,
+   "template_id": 54545,
+   "level": 40,
+   "passive_skill": "4,9,22"
+  },
+  {
+   "id": 2,
+   "template_id": 54435,
+   "level": 40,
+   "passive_skill": "2,7,14"
+  },
+  {
+   "id": 3,
+   "template_id": 54245,
+   "level": 40,
+   "passive_skill": "4,9,22"
+  },
+  {
+   "id": 4,
+   "template_id": 54465,
+   "level": 40,
+   "passive_skill": "2,7,14"
+  },
+  {
+   "id": 5,
+   "template_id": 54535,
+   "level": 40,
+   "passive_skill": "4,7,14"
+  },
+  {
+   "id": 6,
+   "template_id": 54225,
+   "level": 40,
+   "passive_skill": "4,9,21"
+  },
+  {
+   "id": 7,
+   "template_id": 54475,
+   "level": 40,
+   "passive_skill": "6,7,14"
+  },
+  {
+   "id": 8,
+   "template_id": 54245,
+   "level": 40,
+   "passive_skill": "4,9,22"
+  },
+  {
+   "id": 9,
+   "template_id": 54475,
+   "level": 40,
+   "passive_skill": "4,9,18"
+  },
+  {
+   "id": 10,
+   "template_id": 54425,
+   "level": 40,
+   "passive_skill": "4,9,23"
+  },
+  {
+   "id": 11,
+   "template_id": 54155,
+   "level": 40,
+   "passive_skill": "2,7,14"
+  },
+  {
+   "id": 12,
+   "template_id": 54455,
+   "level": 40,
+   "passive_skill": "4,9,23"
+  },
+  {
+   "id": 13,
+   "template_id": 54475,
+   "level": 40,
+   "passive_skill": "6,7,14"
+  },
+  {
+   "id": 14,
+   "template_id": 54555,
+   "level": 40,
+   "passive_skill": "6,9,14"
+  },
+  {
+   "id": 15,
+   "template_id": 54455,
+   "level": 40,
+   "passive_skill": "4,9,23"
+  },
+  {
+   "id": 16,
+   "template_id": 54425,
+   "level": 40,
+   "passive_skill": "4,9,23"
+  },
+  {
+   "id": 17,
+   "template_id": 54555,
+   "level": 40,
+   "passive_skill": "6,7,14"
+  },
+  {
+   "id": 18,
+   "template_id": 54425,
+   "level": 40,
+   "passive_skill": "4,9,23"
+  },
+  {
+   "id": 19,
+   "template_id": 54435,
+   "level": 40,
+   "passive_skill": "2,7,14"
+  },
+  {
+   "id": 20,
+   "template_id": 54245,
+   "level": 40,
+   "passive_skill": "4,9,22"
+  },
+  {
+   "id": 21,
+   "template_id": 54435,
+   "level": 40,
+   "passive_skill": "2,7,14"
+  },
+  {
+   "id": 22,
+   "template_id": 54175,
+   "level": 40,
+   "passive_skill": "4,9,21"
+  },
+  {
+   "id": 23,
+   "template_id": 54495,
+   "level": 40,
+   "passive_skill": "4,9,18"
+  },
+  {
+   "id": 24,
+   "template_id": 54245,
+   "level": 40,
+   "passive_skill": "4,9,22"
+  },
+  {
+   "id": 25,
+   "template_id": 54435,
+   "level": 40,
+   "passive_skill": "2,7,14"
+  },
+  {
+   "id": 26,
+   "template_id": 54565,
+   "level": 40,
+   "passive_skill": "2,9,14"
+  },
+  {
+   "id": 27,
+   "template_id": 54425,
+   "level": 40,
+   "passive_skill": "4,9,23"
+  },
+  {
+   "id": 28,
+   "template_id": 54465,
+   "level": 40,
+   "passive_skill": "2,7,18"
+  },
+  {
+   "id": 29,
+   "template_id": 54475,
+   "level": 40,
+   "passive_skill": "4,7,14"
+  },
+  {
+   "id": 30,
+   "template_id": 54375,
+   "level": 40,
+   "passive_skill": "4,9,18"
+  },
+  {
+   "id": 31,
+   "template_id": 54245,
+   "level": 40,
+   "passive_skill": "4,9,18"
+  },
+  {
+   "id": 32,
+   "template_id": 54465,
+   "level": 40,
+   "passive_skill": "2,7,14"
+  },
+  {
+   "id": 33,
+   "template_id": 54415,
+   "level": 40,
+   "passive_skill": "4,9,14"
+  },
+  {
+   "id": 34,
+   "template_id": 54245,
+   "level": 40,
+   "passive_skill": "4,9,22"
+  },
+  {
+   "id": 35,
+   "template_id": 54425,
+   "level": 40,
+   "passive_skill": "4,9,22"
+  },
+  {
+   "id": 36,
+   "template_id": 54435,
+   "level": 40,
+   "passive_skill": "2,7,14"
+  },
+  {
+   "id": 37,
+   "template_id": 54545,
+   "level": 40,
+   "passive_skill": "4,9,22"
+  },
+  {
+   "id": 38,
+   "template_id": 54455,
+   "level": 40,
+   "passive_skill": "4,9,14"
+  },
+  {
+   "id": 39,
+   "template_id": 54435,
+   "level": 40,
+   "passive_skill": "2,7,14"
+  },
+  {
+   "id": 40,
+   "template_id": 54455,
+   "level": 40,
+   "passive_skill": "4,7,14"
+  },
+  {
+   "id": 41,
+   "template_id": 54435,
+   "level": 40,
+   "passive_skill": "2,9,18"
+  },
+  {
+   "id": 42,
+   "template_id": 54435,
+   "level": 40,
+   "passive_skill": "2,7,14"
+  },
+  {
+   "id": 43,
+   "template_id": 54245,
+   "level": 40,
+   "passive_skill": "4,9,18"
+  },
+  {
+   "id": 44,
+   "template_id": 54435,
+   "level": 40,
+   "passive_skill": "2,7,14"
+  },
+  {
+   "id": 45,
+   "template_id": 54425,
+   "level": 40,
+   "passive_skill": "4,9,23"
+  },
+  {
+   "id": 46,
+   "template_id": 54425,
+   "level": 40,
+   "passive_skill": "4,9,23"
+  },
+  {
+   "id": 47,
+   "template_id": 54405,
+   "level": 40,
+   "passive_skill": "6,7,23"
+  },
+  {
+   "id": 48,
+   "template_id": 54505,
+   "level": 40,
+   "passive_skill": "2,7,14"
+  },
+  {
+   "id": 49,
+   "template_id": 54455,
+   "level": 40,
+   "passive_skill": "2,9,23"
+  },
+  {
+   "id": 50,
+   "template_id": 54245,
+   "level": 40,
+   "passive_skill": "4,9,22"
+  },
+  {
+   "id": 51,
+   "template_id": 54465,
+   "level": 40,
+   "passive_skill": "2,9,14"
+  },
+  {
+   "id": 52,
+   "template_id": 54545,
+   "level": 40,
+   "passive_skill": "4,9,18"
+  },
+  {
+   "id": 53,
+   "template_id": 54545,
+   "level": 40,
+   "passive_skill": "4,9,21"
+  },
+  {
+   "id": 54,
+   "template_id": 54245,
+   "level": 40,
+   "passive_skill": "4,9,22"
+  },
+  {
+   "id": 55,
+   "template_id": 54545,
+   "level": 40,
+   "passive_skill": "4,9,18"
+  },
+  {
+   "id": 56,
+   "template_id": 54435,
+   "level": 40,
+   "passive_skill": "2,7,14"
+  },
+  {
+   "id": 57,
+   "template_id": 54225,
+   "level": 40,
+   "passive_skill": "4,9,23"
+  },
+  {
+   "id": 58,
+   "template_id": 54475,
+   "level": 40,
+   "passive_skill": "4,9,18"
+  },
+  {
+   "id": 59,
+   "template_id": 54245,
+   "level": 40,
+   "passive_skill": "4,9,22"
+  },
+  {
+   "id": 60,
+   "template_id": 54425,
+   "level": 40,
+   "passive_skill": "4,9,18"
+  },
+  {
+   "id": 61,
+   "template_id": 54375,
+   "level": 40,
+   "passive_skill": "4,9,18"
+  },
+  {
+   "id": 62,
+   "template_id": 54245,
+   "level": 40,
+   "passive_skill": "4,9,22"
+  },
+  {
+   "id": 63,
+   "template_id": 54405,
+   "level": 40,
+   "passive_skill": "6,7,23"
+  },
+  {
+   "id": 64,
+   "template_id": 54455,
+   "level": 40,
+   "passive_skill": "4,9,23"
+  },
+  {
+   "id": 65,
+   "template_id": 54245,
+   "level": 40,
+   "passive_skill": "4,9,22"
+  },
+  {
+   "id": 66,
+   "template_id": 54135,
+   "level": 40,
+   "passive_skill": "2,9,23"
+  },
+  {
+   "id": 67,
+   "template_id": 54245,
+   "level": 40,
+   "passive_skill": "4,9,22"
+  },
+  {
+   "id": 68,
+   "template_id": 54565,
+   "level": 40,
+   "passive_skill": "2,9,14"
+  },
+  {
+   "id": 69,
+   "template_id": 54375,
+   "level": 40,
+   "passive_skill": "4,9,18"
+  },
+  {
+   "id": 70,
+   "template_id": 54375,
+   "level": 40,
+   "passive_skill": "4,9,18"
+  },
+  {
+   "id": 71,
+   "template_id": 54455,
+   "level": 40,
+   "passive_skill": "4,9,23"
+  },
+  {
+   "id": 72,
+   "template_id": 54245,
+   "level": 40,
+   "passive_skill": "4,9,18"
+  },
+  {
+   "id": 73,
+   "template_id": 54135,
+   "level": 40,
+   "passive_skill": "2,7,23"
+  },
+  {
+   "id": 74,
+   "template_id": 54455,
+   "level": 40,
+   "passive_skill": "4,7,14"
+  },
+  {
+   "id": 75,
+   "template_id": 54245,
+   "level": 40,
+   "passive_skill": "4,9,18"
+  },
+  {
+   "id": 76,
+   "template_id": 54545,
+   "level": 40,
+   "passive_skill": "4,9,18"
+  },
+  {
+   "id": 77,
+   "template_id": 54245,
+   "level": 40,
+   "passive_skill": "4,9,23"
+  },
+  {
+   "id": 78,
+   "template_id": 54545,
+   "level": 40,
+   "passive_skill": "4,9,23"
+  },
+  {
+   "id": 79,
+   "template_id": 54495,
+   "level": 40,
+   "passive_skill": "4,9,22"
+  },
+  {
+   "id": 80,
+   "template_id": 54435,
+   "level": 40,
+   "passive_skill": "4,7,14"
+  },
+  {
+   "id": 81,
+   "template_id": 54545,
+   "level": 40,
+   "passive_skill": "4,9,22"
+  }
+ ],
+ "text_chunk": null
+}

@@ -1,0 +1,150 @@
+{
+ "config": "guild_sign_in",
+ "fields": [
+  "people",
+  "personal_reward_list",
+  "guild_reward_list",
+  "description"
+ ],
+ "rows": [
+  {
+   "people": 0,
+   "personal_reward_list": [
+    {
+     "id": 10102,
+     "count": 50
+    },
+    {
+     "id": 10136,
+     "count": 90
+    },
+    {
+     "id": 10303,
+     "count": 2
+    }
+   ],
+   "guild_reward_list": [
+    {
+     "id": 10135,
+     "count": 30
+    }
+   ]
+  },
+  {
+   "people": 5,
+   "personal_reward_list": [
+    {
+     "id": 10102,
+     "count": 60
+    },
+    {
+     "id": 10136,
+     "count": 100
+    },
+    {
+     "id": 10303,
+     "count": 2
+    }
+   ],
+   "guild_reward_list": [
+    {
+     "id": 10135,
+     "count": 30
+    }
+   ]
+  },
+  {
+   "people": 10,
+   "personal_reward_list": [
+    {
+     "id": 10102,
+     "count": 70
+    },
+    {
+     "id": 10136,
+     "count": 110
+    },
+    {
+     "id": 10303,
+     "count": 2
+    }
+   ],
+   "guild_reward_list": [
+    {
+     "id": 10135,
+     "count": 30
+    }
+   ]
+  },
+  {
+   "people": 15,
+   "personal_reward_list": [
+    {
+     "id": 10102,
+     "count": 80
+    },
+    {
+     "id": 10136,
+     "count": 120
+    },
+    {
+     "id": 10303,
+     "count": 2
+    }
+   ],
+   "guild_reward_list": [
+    {
+     "id": 10135,
+     "count": 30
+    }
+   ]
+  },
+  {
+   "people": 20,
+   "personal_reward_list": [
+    {
+     "id": 10102,
+     "count": 90
+    },
+    {
+     "id": 10136,
+     "count": 135
+    },
+    {
+     "id": 10303,
+     "count": 2
+    }
+   ],
+   "guild_reward_list": [
+    {
+     "id": 10135,
+     "count": 30
+    }
+   ]
+  },
+  {
+   "people": 25,
+   "personal_reward_list": [
+    {
+     "id": 10102,
+     "count": 100
+    },
+    {
+     "id": 10136,
+     "count": 150
+    },
+    {
+     "id": 10303,
+     "count": 2
+    }
+   ],
+   "guild_reward_list": [
+    {
+     "id": 10135,
+     "count": 30
+    }
+   ]
+  }
+ ],
+ "text_chunk": null
+}

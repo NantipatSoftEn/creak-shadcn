@@ -1,0 +1,781 @@
+{
+ "config": "item_type",
+ "fields": [
+  "type_id",
+  "rough_type_id",
+  "soft_upper_limit",
+  "hard_upper_limit",
+  "permanent",
+  "flag",
+  "show_name"
+ ],
+ "rows": {
+  "1": {
+   "type_id": 1,
+   "rough_type_id": 0,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 0,
+   "show_name": "Universal Currency",
+   "show_name_th": "สกุลเงินสากล"
+  },
+  "2": {
+   "type_id": 2,
+   "rough_type_id": 1,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 0,
+   "show_name": "Materials",
+   "show_name_th": "วัสดุ"
+  },
+  "3": {
+   "type_id": 3,
+   "rough_type_id": 3,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 0,
+   "show_name": "Animus",
+   "show_name_th": "Animus"
+  },
+  "4": {
+   "type_id": 4,
+   "rough_type_id": 4,
+   "soft_upper_limit": 3000,
+   "hard_upper_limit": 5000,
+   "permanent": 0,
+   "flag": 0,
+   "show_name": "Shell",
+   "show_name_th": "Shell"
+  },
+  "5": {
+   "type_id": 5,
+   "rough_type_id": 6,
+   "soft_upper_limit": 5000,
+   "hard_upper_limit": 8000,
+   "permanent": 0,
+   "flag": 0,
+   "show_name": "Module",
+   "show_name_th": "โมดูล"
+  },
+  "6": {
+   "type_id": 6,
+   "rough_type_id": 0,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 0,
+   "show_name": "Stability",
+   "show_name_th": "ค่าเสถียรภาพ"
+  },
+  "7": {
+   "type_id": 7,
+   "rough_type_id": 18,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 2,
+   "show_name": "Animus Outfit",
+   "show_name_th": "แฟชั่น Animus"
+  },
+  "8": {
+   "type_id": 8,
+   "rough_type_id": 1,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 0
+  },
+  "9": {
+   "type_id": 9,
+   "rough_type_id": 5,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 3,
+   "show_name": "Decorative Items",
+   "show_name_th": "ไอเทมตกแต่ง"
+  },
+  "10": {
+   "type_id": 10,
+   "rough_type_id": 5,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 0,
+   "show_name": "Decorative Items",
+   "show_name_th": "ไอเทมตกแต่ง"
+  },
+  "11": {
+   "type_id": 11,
+   "rough_type_id": 5,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 0,
+   "show_name": "Decorative Items",
+   "show_name_th": "ไอเทมตกแต่ง"
+  },
+  "12": {
+   "type_id": 12,
+   "rough_type_id": 7,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 1,
+   "flag": 0,
+   "show_name": "Module",
+   "show_name_th": "โมดูล"
+  },
+  "13": {
+   "type_id": 13,
+   "rough_type_id": 8,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 0
+  },
+  "14": {
+   "type_id": 14,
+   "rough_type_id": 5,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 0,
+   "show_name": "Decorative Items",
+   "show_name_th": "ไอเทมตกแต่ง"
+  },
+  "15": {
+   "type_id": 15,
+   "rough_type_id": 7,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 1,
+   "flag": 0,
+   "show_name": "Animus",
+   "show_name_th": "Animus"
+  },
+  "16": {
+   "type_id": 16,
+   "rough_type_id": 1,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 0,
+   "show_name": "Consumables",
+   "show_name_th": "ของใช้"
+  },
+  "17": {
+   "type_id": 17,
+   "rough_type_id": 1,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 0,
+   "show_name": "Buff Card",
+   "show_name_th": "การ์ดบัฟ"
+  },
+  "18": {
+   "type_id": 18,
+   "rough_type_id": 10,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 0,
+   "show_name": "Clue",
+   "show_name_th": "เบาะแส"
+  },
+  "20": {
+   "type_id": 20,
+   "rough_type_id": 1,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 1,
+   "flag": 0,
+   "show_name": "Supply Pack",
+   "show_name_th": "แพ็กอุปกรณ์"
+  },
+  "21": {
+   "type_id": 21,
+   "rough_type_id": 9,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 1,
+   "flag": 0,
+   "show_name": "Supply Pack",
+   "show_name_th": "แพ็กอุปกรณ์"
+  },
+  "23": {
+   "type_id": 23,
+   "rough_type_id": 11,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 1,
+   "flag": 0,
+   "show_name": "Module",
+   "show_name_th": "โมดูล"
+  },
+  "24": {
+   "type_id": 24,
+   "rough_type_id": 15,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 0,
+   "show_name": "Animus Anima",
+   "show_name_th": "Anima ของ Animus"
+  },
+  "25": {
+   "type_id": 25,
+   "rough_type_id": 12,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 1,
+   "flag": 0,
+   "show_name": "Co-op Points",
+   "show_name_th": "คะแนนความร่วมมือ"
+  },
+  "26": {
+   "type_id": 26,
+   "rough_type_id": 11,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 1,
+   "flag": 0,
+   "show_name": "Supply Pack",
+   "show_name_th": "แพ็กอุปกรณ์"
+  },
+  "27": {
+   "type_id": 27,
+   "rough_type_id": 13,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 1,
+   "flag": 0,
+   "show_name": "Union EXP",
+   "show_name_th": "EXP สหพันธ์"
+  },
+  "28": {
+   "type_id": 28,
+   "rough_type_id": 14,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 0,
+   "show_name": "Etherena Ticket",
+   "show_name_th": "ตั๋วอีเทอรีน่า"
+  },
+  "29": {
+   "type_id": 29,
+   "rough_type_id": 0,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 0,
+   "show_name": "Etherena Currency",
+   "show_name_th": "เงินตราอีเทอรีน่า"
+  },
+  "30": {
+   "type_id": 30,
+   "rough_type_id": 5,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 5,
+   "show_name": "Decorative Items",
+   "show_name_th": "ไอเทมตกแต่ง"
+  },
+  "31": {
+   "type_id": 31,
+   "rough_type_id": 1,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 1,
+   "show_name": "Item Fragment",
+   "show_name_th": "ชิ้นส่วนไอเทม"
+  },
+  "32": {
+   "type_id": 32,
+   "rough_type_id": 1,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 1,
+   "show_name": "Anima Fragment",
+   "show_name_th": "ชิ้นส่วน Anima"
+  },
+  "33": {
+   "type_id": 33,
+   "rough_type_id": 1,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 0,
+   "show_name": "Event Items",
+   "show_name_th": "ไอเทมอีเวนต์"
+  },
+  "34": {
+   "type_id": 34,
+   "rough_type_id": 5,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 0,
+   "show_name": "Outfit",
+   "show_name_th": "แฟชั่น"
+  },
+  "35": {
+   "type_id": 35,
+   "rough_type_id": 1,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 0,
+   "show_name": "Poker Cards",
+   "show_name_th": "การ์ดโป๊กเกอร์"
+  },
+  "36": {
+   "type_id": 36,
+   "rough_type_id": 16,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 0,
+   "show_name": "Altar Cards",
+   "show_name_th": "การ์ดแท่นบูชา"
+  },
+  "37": {
+   "type_id": 37,
+   "rough_type_id": 17,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 0,
+   "show_name": "Decoration Supply Pack",
+   "show_name_th": "แพ็กอุปกรณ์ตกแต่ง"
+  },
+  "38": {
+   "type_id": 38,
+   "rough_type_id": 19,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 0,
+   "show_name": "Title",
+   "show_name_th": "ฉายา"
+  },
+  "39": {
+   "type_id": 39,
+   "rough_type_id": 20,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 1,
+   "flag": 0,
+   "show_name": "Invite EXP",
+   "show_name_th": "EXP การเชิญ"
+  },
+  "40": {
+   "type_id": 40,
+   "rough_type_id": 1,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 0,
+   "show_name": "Module",
+   "show_name_th": "โมดูล"
+  },
+  "41": {
+   "type_id": 41,
+   "rough_type_id": 21,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 0,
+   "show_name": "Arena Card Frame",
+   "show_name_th": "กรอบการ์ดอารีน่า"
+  },
+  "42": {
+   "type_id": 42,
+   "rough_type_id": 1,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 0,
+   "show_name": "Co-op Points",
+   "show_name_th": "คะแนนความร่วมมือ"
+  },
+  "43": {
+   "type_id": 43,
+   "rough_type_id": 1,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 0,
+   "show_name": "Attack Permit",
+   "show_name_th": "ใบอนุญาตโจมตี"
+  },
+  "44": {
+   "type_id": 44,
+   "rough_type_id": 22,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 0,
+   "show_name": "Arena Badge",
+   "show_name_th": "ตราอารีน่า"
+  },
+  "45": {
+   "type_id": 45,
+   "rough_type_id": 23,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 0,
+   "show_name": "EtherNet Rally",
+   "show_name_th": "ระดมพล EtherNet"
+  },
+  "46": {
+   "type_id": 46,
+   "rough_type_id": 1,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 0,
+   "show_name": "Union Insignia",
+   "show_name_th": "เครื่องหมายสหพันธ์"
+  },
+  "47": {
+   "type_id": 47,
+   "rough_type_id": 1,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 0,
+   "show_name": "Union Banner",
+   "show_name_th": "ธงสหพันธ์"
+  },
+  "48": {
+   "type_id": 48,
+   "rough_type_id": 24,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 0,
+   "show_name": "Energy Dice",
+   "show_name_th": "ลูกเต๋าพลังงาน"
+  },
+  "49": {
+   "type_id": 49,
+   "rough_type_id": 25,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 0,
+   "show_name": "Wish Orb",
+   "show_name_th": "ลูกแก้วปรารถนา"
+  },
+  "50": {
+   "type_id": 50,
+   "rough_type_id": 26,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 0,
+   "show_name": "Chaku Token",
+   "show_name_th": "Chaku Token"
+  },
+  "51": {
+   "type_id": 51,
+   "rough_type_id": 1,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 0,
+   "show_name": "Dream Points",
+   "show_name_th": "คะแนนความฝัน"
+  },
+  "52": {
+   "type_id": 52,
+   "rough_type_id": 1,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 0,
+   "show_name": "Dream Essence",
+   "show_name_th": "แก่นความฝัน"
+  },
+  "53": {
+   "type_id": 53,
+   "rough_type_id": 27,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 0,
+   "show_name": "Contender Realm",
+   "show_name_th": "อาณาจักรผู้ท้าชิง"
+  },
+  "54": {
+   "type_id": 54,
+   "rough_type_id": 1,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 0,
+   "show_name": "Exclusive Perfect Lattice",
+   "show_name_th": "Exclusive Perfect Lattice"
+  },
+  "55": {
+   "type_id": 55,
+   "rough_type_id": 28,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 0,
+   "show_name": "Outfit Giftbox",
+   "show_name_th": "กล่องของขวัญแฟชั่น"
+  },
+  "56": {
+   "type_id": 56,
+   "rough_type_id": 29,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 4,
+   "show_name": "Shell Projection",
+   "show_name_th": "ภาพฉาย Shell"
+  },
+  "57": {
+   "type_id": 57,
+   "rough_type_id": 1,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 0,
+   "show_name": "Awaken Material",
+   "show_name_th": "วัสดุปลุกพลัง"
+  },
+  "58": {
+   "type_id": 58,
+   "rough_type_id": 1,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 0,
+   "show_name": "Shell Passive Item",
+   "show_name_th": "ไอเทม Passive Shell"
+  },
+  "59": {
+   "type_id": 59,
+   "rough_type_id": 30,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 0,
+   "show_name": "Hyper Refractor",
+   "show_name_th": "กรวยแสงที่ปรับเปลี่ยนรูปร่างได้"
+  },
+  "60": {
+   "type_id": 60,
+   "rough_type_id": 31,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 0,
+   "show_name": "Training Points",
+   "show_name_th": "Training Point"
+  },
+  "61": {
+   "type_id": 61,
+   "rough_type_id": 1,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 0,
+   "show_name": "Champion Tickets",
+   "show_name_th": "ตั๋ว Champion"
+  },
+  "62": {
+   "type_id": 62,
+   "rough_type_id": 32,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 0,
+   "show_name": "Wish Tree Materials",
+   "show_name_th": "วัสดุต้นไม้ขอพร"
+  },
+  "63": {
+   "type_id": 63,
+   "rough_type_id": 33,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 0,
+   "show_name": "Chaku Badge",
+   "show_name_th": "Chaku Badge"
+  },
+  "64": {
+   "type_id": 64,
+   "rough_type_id": 34,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 0,
+   "show_name": "Puzzle Piece",
+   "show_name_th": "ชิ้นส่วนปริศนา"
+  },
+  "65": {
+   "type_id": 65,
+   "rough_type_id": 35,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 0,
+   "show_name": "Tactical Imprint",
+   "show_name_th": "ประทับยุทธวิธี"
+  },
+  "66": {
+   "type_id": 66,
+   "rough_type_id": 36,
+   "soft_upper_limit": 1000,
+   "hard_upper_limit": 1000,
+   "permanent": 0,
+   "flag": 0,
+   "show_name": "Component",
+   "show_name_th": "Component"
+  },
+  "67": {
+   "type_id": 67,
+   "rough_type_id": 37,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 6,
+   "show_name": "Collection",
+   "show_name_th": "ของสะสม"
+  },
+  "68": {
+   "type_id": 68,
+   "rough_type_id": 38,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 0,
+   "show_name": "Neon Name Tag",
+   "show_name_th": "ป้ายชื่อนีออน"
+  },
+  "69": {
+   "type_id": 69,
+   "rough_type_id": 1,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 0,
+   "show_name": "Component Blueprint",
+   "show_name_th": "พิมพ์เขียว Component"
+  },
+  "70": {
+   "type_id": 70,
+   "rough_type_id": 39,
+   "soft_upper_limit": 2000,
+   "hard_upper_limit": 2000,
+   "permanent": 0,
+   "flag": 0,
+   "show_name": "Unified Armament",
+   "show_name_th": "Unified Armament"
+  },
+  "71": {
+   "type_id": 71,
+   "rough_type_id": 40,
+   "soft_upper_limit": 2000,
+   "hard_upper_limit": 2000,
+   "permanent": 0,
+   "flag": 0,
+   "show_name": "Animus",
+   "show_name_th": "Animus"
+  },
+  "72": {
+   "type_id": 72,
+   "rough_type_id": 41,
+   "soft_upper_limit": 2000,
+   "hard_upper_limit": 2000,
+   "permanent": 0,
+   "flag": 0,
+   "show_name": "Shell",
+   "show_name_th": "Shell"
+  },
+  "73": {
+   "type_id": 73,
+   "rough_type_id": 42,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 0,
+   "show_name": "Exclusive Energy",
+   "show_name_th": "พลังงานสุดพิเศษ"
+  },
+  "74": {
+   "type_id": 74,
+   "rough_type_id": 43,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 0,
+   "show_name": "Desynced Recursion Item",
+   "show_name_th": "ไอเทม Desynced Recursion"
+  },
+  "75": {
+   "type_id": 75,
+   "rough_type_id": 44,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 0,
+   "show_name": "Desynced Recursion Reliquary",
+   "show_name_th": "Reliquary Desynced Recursion"
+  },
+  "76": {
+   "type_id": 76,
+   "rough_type_id": 45,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 0,
+   "show_name": "App Icon",
+   "show_name_th": "ไอคอนแอป"
+  },
+  "77": {
+   "type_id": 77,
+   "rough_type_id": 46,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 0,
+   "show_name": "Reboot Payload",
+   "show_name_th": "Reboot Payload"
+  },
+  "78": {
+   "type_id": 78,
+   "rough_type_id": 47,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 0,
+   "show_name": "Training EXP",
+   "show_name_th": "Training EXP"
+  },
+  "79": {
+   "type_id": 79,
+   "rough_type_id": 48,
+   "soft_upper_limit": 0,
+   "hard_upper_limit": 0,
+   "permanent": 0,
+   "flag": 0,
+   "show_name": "Chaku Badge",
+   "show_name_th": "Chaku Badge"
+  }
+ },
+ "text_chunk": "00104_b218915739498ee7.json"
+}

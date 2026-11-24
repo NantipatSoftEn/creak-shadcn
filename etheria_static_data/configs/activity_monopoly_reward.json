@@ -1,0 +1,607 @@
+{
+ "config": "activity_monopoly_reward",
+ "fields": [
+  "id",
+  "item_type",
+  "item_list",
+  "price",
+  "discount"
+ ],
+ "rows": {
+  "101": {
+   "id": 101,
+   "item_type": 1,
+   "item_list": [
+    {
+     "id": 10202,
+     "count": 1
+    }
+   ],
+   "price": null,
+   "discount": 0
+  },
+  "102": {
+   "id": 102,
+   "item_type": 1,
+   "item_list": [
+    {
+     "id": 10133,
+     "count": 1
+    }
+   ],
+   "price": null,
+   "discount": 0
+  },
+  "103": {
+   "id": 103,
+   "item_type": 1,
+   "item_list": [
+    {
+     "id": 10011,
+     "count": 50
+    }
+   ],
+   "price": null,
+   "discount": 0
+  },
+  "104": {
+   "id": 104,
+   "item_type": 1,
+   "item_list": [
+    {
+     "id": 10011,
+     "count": 30
+    }
+   ],
+   "price": null,
+   "discount": 0
+  },
+  "105": {
+   "id": 105,
+   "item_type": 1,
+   "item_list": [
+    {
+     "id": 10114,
+     "count": 1
+    }
+   ],
+   "price": null,
+   "discount": 0
+  },
+  "106": {
+   "id": 106,
+   "item_type": 1,
+   "item_list": [
+    {
+     "id": 10111,
+     "count": 1
+    }
+   ],
+   "price": null,
+   "discount": 0
+  },
+  "107": {
+   "id": 107,
+   "item_type": 1,
+   "item_list": [
+    {
+     "id": 10132,
+     "count": 1
+    }
+   ],
+   "price": null,
+   "discount": 0
+  },
+  "108": {
+   "id": 108,
+   "item_type": 1,
+   "item_list": [
+    {
+     "id": 10001,
+     "count": 20000
+    }
+   ],
+   "price": null,
+   "discount": 0
+  },
+  "109": {
+   "id": 109,
+   "item_type": 1,
+   "item_list": [
+    {
+     "id": 10102,
+     "count": 30
+    }
+   ],
+   "price": null,
+   "discount": 0
+  },
+  "201": {
+   "id": 201,
+   "item_type": 2,
+   "item_list": [
+    {
+     "id": 10202,
+     "count": 1
+    }
+   ],
+   "price": [
+    10011,
+    75
+   ],
+   "discount": 25
+  },
+  "202": {
+   "id": 202,
+   "item_type": 2,
+   "item_list": [
+    {
+     "id": 10133,
+     "count": 1
+    }
+   ],
+   "price": [
+    10011,
+    150
+   ],
+   "discount": 25
+  },
+  "203": {
+   "id": 203,
+   "item_type": 2,
+   "item_list": [
+    {
+     "id": 10116,
+     "count": 1
+    }
+   ],
+   "price": [
+    10011,
+    750
+   ],
+   "discount": 25
+  },
+  "204": {
+   "id": 204,
+   "item_type": 2,
+   "item_list": [
+    {
+     "id": 10001,
+     "count": 100000
+    }
+   ],
+   "price": [
+    10011,
+    50
+   ],
+   "discount": 50
+  },
+  "205": {
+   "id": 205,
+   "item_type": 2,
+   "item_list": [
+    {
+     "id": 10101,
+     "count": 50000
+    }
+   ],
+   "price": [
+    10011,
+    75
+   ],
+   "discount": 50
+  },
+  "206": {
+   "id": 206,
+   "item_type": 2,
+   "item_list": [
+    {
+     "id": 10111,
+     "count": 1
+    }
+   ],
+   "price": [
+    10011,
+    60
+   ],
+   "discount": 40
+  },
+  "207": {
+   "id": 207,
+   "item_type": 2,
+   "item_list": [
+    {
+     "id": 10114,
+     "count": 5
+    }
+   ],
+   "price": [
+    10011,
+    45
+   ],
+   "discount": 40
+  },
+  "208": {
+   "id": 208,
+   "item_type": 2,
+   "item_list": [
+    {
+     "id": 10113,
+     "count": 10
+    }
+   ],
+   "price": [
+    10011,
+    30
+   ],
+   "discount": 40
+  },
+  "209": {
+   "id": 209,
+   "item_type": 2,
+   "item_list": [
+    {
+     "id": 25002,
+     "count": 4
+    }
+   ],
+   "price": [
+    10011,
+    20
+   ],
+   "discount": 50
+  },
+  "210": {
+   "id": 210,
+   "item_type": 2,
+   "item_list": [
+    {
+     "id": 25003,
+     "count": 2
+    }
+   ],
+   "price": [
+    10011,
+    50
+   ],
+   "discount": 50
+  },
+  "301": {
+   "id": 301,
+   "item_type": 1,
+   "item_list": [
+    {
+     "id": 10202,
+     "count": 1
+    }
+   ],
+   "price": null,
+   "discount": 0
+  },
+  "302": {
+   "id": 302,
+   "item_type": 1,
+   "item_list": [
+    {
+     "id": 10111,
+     "count": 1
+    }
+   ],
+   "price": null,
+   "discount": 0
+  },
+  "303": {
+   "id": 303,
+   "item_type": 1,
+   "item_list": [
+    {
+     "id": 10132,
+     "count": 1
+    }
+   ],
+   "price": null,
+   "discount": 0
+  },
+  "304": {
+   "id": 304,
+   "item_type": 1,
+   "item_list": [
+    {
+     "id": 10114,
+     "count": 2
+    }
+   ],
+   "price": null,
+   "discount": 0
+  },
+  "305": {
+   "id": 305,
+   "item_type": 1,
+   "item_list": [
+    {
+     "id": 10011,
+     "count": 30
+    }
+   ],
+   "price": null,
+   "discount": 0
+  },
+  "306": {
+   "id": 306,
+   "item_type": 1,
+   "item_list": [
+    {
+     "id": 10131,
+     "count": 1
+    }
+   ],
+   "price": null,
+   "discount": 0
+  },
+  "307": {
+   "id": 307,
+   "item_type": 1,
+   "item_list": [
+    {
+     "id": 10001,
+     "count": 20000
+    }
+   ],
+   "price": null,
+   "discount": 0
+  },
+  "308": {
+   "id": 308,
+   "item_type": 1,
+   "item_list": [
+    {
+     "id": 10101,
+     "count": 10000
+    }
+   ],
+   "price": null,
+   "discount": 0
+  },
+  "309": {
+   "id": 309,
+   "item_type": 1,
+   "item_list": [
+    {
+     "id": 10113,
+     "count": 5
+    }
+   ],
+   "price": null,
+   "discount": 0
+  },
+  "1001": {
+   "id": 1001,
+   "item_type": 101,
+   "item_list": [
+    {
+     "id": 10202,
+     "count": 1
+    }
+   ],
+   "price": null,
+   "discount": 0
+  },
+  "1002": {
+   "id": 1002,
+   "item_type": 101,
+   "item_list": [
+    {
+     "id": 10202,
+     "count": 1
+    }
+   ],
+   "price": null,
+   "discount": 0
+  },
+  "1003": {
+   "id": 1003,
+   "item_type": 101,
+   "item_list": [
+    {
+     "id": 10202,
+     "count": 1
+    }
+   ],
+   "price": null,
+   "discount": 0
+  },
+  "1004": {
+   "id": 1004,
+   "item_type": 101,
+   "item_list": [
+    {
+     "id": 10202,
+     "count": 1
+    }
+   ],
+   "price": null,
+   "discount": 0
+  },
+  "1005": {
+   "id": 1005,
+   "item_type": 101,
+   "item_list": [
+    {
+     "id": 10202,
+     "count": 1
+    }
+   ],
+   "price": null,
+   "discount": 0
+  },
+  "1006": {
+   "id": 1006,
+   "item_type": 101,
+   "item_list": [
+    {
+     "id": 10202,
+     "count": 1
+    }
+   ],
+   "price": null,
+   "discount": 0
+  },
+  "1007": {
+   "id": 1007,
+   "item_type": 101,
+   "item_list": [
+    {
+     "id": 10202,
+     "count": 1
+    }
+   ],
+   "price": null,
+   "discount": 0
+  },
+  "1008": {
+   "id": 1008,
+   "item_type": 101,
+   "item_list": [
+    {
+     "id": 10202,
+     "count": 1
+    }
+   ],
+   "price": null,
+   "discount": 0
+  },
+  "1009": {
+   "id": 1009,
+   "item_type": 101,
+   "item_list": [
+    {
+     "id": 10202,
+     "count": 1
+    }
+   ],
+   "price": null,
+   "discount": 0
+  },
+  "2001": {
+   "id": 2001,
+   "item_type": 102,
+   "item_list": [
+    {
+     "id": 10202,
+     "count": 1
+    }
+   ],
+   "price": null,
+   "discount": 0
+  },
+  "2002": {
+   "id": 2002,
+   "item_type": 102,
+   "item_list": [
+    {
+     "id": 10202,
+     "count": 1
+    }
+   ],
+   "price": null,
+   "discount": 0
+  },
+  "2003": {
+   "id": 2003,
+   "item_type": 102,
+   "item_list": [
+    {
+     "id": 10202,
+     "count": 1
+    }
+   ],
+   "price": null,
+   "discount": 0
+  },
+  "2004": {
+   "id": 2004,
+   "item_type": 102,
+   "item_list": [
+    {
+     "id": 10202,
+     "count": 1
+    }
+   ],
+   "price": null,
+   "discount": 0
+  },
+  "2005": {
+   "id": 2005,
+   "item_type": 102,
+   "item_list": [
+    {
+     "id": 10202,
+     "count": 1
+    }
+   ],
+   "price": null,
+   "discount": 0
+  },
+  "2006": {
+   "id": 2006,
+   "item_type": 102,
+   "item_list": [
+    {
+     "id": 10202,
+     "count": 1
+    }
+   ],
+   "price": null,
+   "discount": 0
+  },
+  "2007": {
+   "id": 2007,
+   "item_type": 102,
+   "item_list": [
+    {
+     "id": 10202,
+     "count": 1
+    }
+   ],
+   "price": null,
+   "discount": 0
+  },
+  "2008": {
+   "id": 2008,
+   "item_type": 102,
+   "item_list": [
+    {
+     "id": 10202,
+     "count": 1
+    }
+   ],
+   "price": null,
+   "discount": 0
+  },
+  "2009": {
+   "id": 2009,
+   "item_type": 102,
+   "item_list": [
+    {
+     "id": 10202,
+     "count": 1
+    }
+   ],
+   "price": null,
+   "discount": 0
+  },
+  "2010": {
+   "id": 2010,
+   "item_type": 102,
+   "item_list": [
+    {
+     "id": 10202,
+     "count": 1
+    }
+   ],
+   "price": null,
+   "discount": 0
+  }
+ },
+ "text_chunk": null
+}

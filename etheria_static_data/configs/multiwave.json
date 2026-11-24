@@ -1,0 +1,251 @@
+{
+ "config": "multiwave",
+ "fields": [
+  "id",
+  "attr",
+  "rarity",
+  "group_id",
+  "extra_unit_id",
+  "score_list",
+  "mark_list",
+  "reward_list",
+  "mechanism_icon",
+  "battle_tips",
+  "title",
+  "mechanism"
+ ],
+ "rows": [
+  {
+   "id": 1,
+   "attr": [
+    1,
+    4,
+    5
+   ],
+   "rarity": [
+    0
+   ],
+   "group_id": [
+    0
+   ],
+   "extra_unit_id": [
+    30451,
+    31001,
+    31251
+   ],
+   "score_list": [
+    1,
+    6,
+    9,
+    12,
+    15,
+    18,
+    21,
+    24
+   ],
+   "mark_list": [
+    "E",
+    "D",
+    "C",
+    "B",
+    "A",
+    "S",
+    "SS",
+    "SSS"
+   ],
+   "reward_list": [
+    {
+     "id": 28131,
+     "count": 1
+    },
+    {
+     "id": 28132,
+     "count": 1
+    },
+    {
+     "id": 28133,
+     "count": 1
+    },
+    {
+     "id": 28134,
+     "count": 1
+    },
+    {
+     "id": 28135,
+     "count": 1
+    },
+    {
+     "id": 28136,
+     "count": 1
+    },
+    {
+     "id": 28137,
+     "count": 1
+    },
+    {
+     "id": 28138,
+     "count": 1
+    }
+   ],
+   "mechanism_icon": "",
+   "battle_tips": 0,
+   "title": "Multi-wave PvE",
+   "title_th": "PvE มัลติเวฟ"
+  },
+  {
+   "id": 2,
+   "attr": [
+    3,
+    4,
+    5
+   ],
+   "rarity": [
+    0
+   ],
+   "group_id": [
+    0
+   ],
+   "extra_unit_id": [
+    30351,
+    31401,
+    31751
+   ],
+   "score_list": [
+    1,
+    6,
+    9,
+    12,
+    15,
+    18,
+    21,
+    24
+   ],
+   "mark_list": [
+    "E",
+    "D",
+    "C",
+    "B",
+    "A",
+    "S",
+    "SS",
+    "SSS"
+   ],
+   "reward_list": [
+    {
+     "id": 28131,
+     "count": 1
+    },
+    {
+     "id": 28132,
+     "count": 1
+    },
+    {
+     "id": 28133,
+     "count": 1
+    },
+    {
+     "id": 28134,
+     "count": 1
+    },
+    {
+     "id": 28135,
+     "count": 1
+    },
+    {
+     "id": 28136,
+     "count": 1
+    },
+    {
+     "id": 28137,
+     "count": 1
+    },
+    {
+     "id": 28138,
+     "count": 1
+    }
+   ],
+   "mechanism_icon": "",
+   "battle_tips": 0,
+   "title": "Multi-wave PvE",
+   "title_th": "PvE มัลติเวฟ"
+  },
+  {
+   "id": 3,
+   "attr": [
+    2,
+    4,
+    5
+   ],
+   "rarity": [
+    0
+   ],
+   "group_id": [
+    0
+   ],
+   "extra_unit_id": [
+    30401,
+    31251,
+    30701
+   ],
+   "score_list": [
+    1,
+    6,
+    9,
+    12,
+    15,
+    18,
+    21,
+    24
+   ],
+   "mark_list": [
+    "E",
+    "D",
+    "C",
+    "B",
+    "A",
+    "S",
+    "SS",
+    "SSS"
+   ],
+   "reward_list": [
+    {
+     "id": 28131,
+     "count": 1
+    },
+    {
+     "id": 28132,
+     "count": 1
+    },
+    {
+     "id": 28133,
+     "count": 1
+    },
+    {
+     "id": 28134,
+     "count": 1
+    },
+    {
+     "id": 28135,
+     "count": 1
+    },
+    {
+     "id": 28136,
+     "count": 1
+    },
+    {
+     "id": 28137,
+     "count": 1
+    },
+    {
+     "id": 28138,
+     "count": 1
+    }
+   ],
+   "mechanism_icon": "",
+   "battle_tips": 0,
+   "title": "Multi-wave PvE",
+   "title_th": "PvE มัลติเวฟ"
+  }
+ ],
+ "text_chunk": "00109_2b98c87380ce495c.json"
+}

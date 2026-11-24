@@ -1,0 +1,1291 @@
+{
+ "config": "guild_war_map",
+ "fields": [
+  "id",
+  "point_type",
+  "elite",
+  "troop_num",
+  "queue_num",
+  "hide_num",
+  "asset_name",
+  "kill_point",
+  "capture_point",
+  "reward",
+  "extra_param_list",
+  "map_id",
+  "twin_buff_id",
+  "extra_param_index_list",
+  "disable_list",
+  "point_name"
+ ],
+ "rows": [
+  {
+   "id": 1,
+   "point_type": 1,
+   "elite": null,
+   "troop_num": 1,
+   "queue_num": 3,
+   "hide_num": 0,
+   "asset_name": "9",
+   "kill_point": 10,
+   "capture_point": 50,
+   "reward": null,
+   "extra_param_list": null,
+   "map_id": 1,
+   "twin_buff_id": 0,
+   "extra_param_index_list": null,
+   "disable_list": null,
+   "point_name": "OB Point A",
+   "point_name_th": "จุดสังเกต A"
+  },
+  {
+   "id": 2,
+   "point_type": 1,
+   "elite": null,
+   "troop_num": 1,
+   "queue_num": 3,
+   "hide_num": 0,
+   "asset_name": "9",
+   "kill_point": 10,
+   "capture_point": 50,
+   "reward": null,
+   "extra_param_list": null,
+   "map_id": 1,
+   "twin_buff_id": 0,
+   "extra_param_index_list": null,
+   "disable_list": null,
+   "point_name": "OB Point B",
+   "point_name_th": "จุดสังเกต B"
+  },
+  {
+   "id": 3,
+   "point_type": 1,
+   "elite": null,
+   "troop_num": 1,
+   "queue_num": 3,
+   "hide_num": 0,
+   "asset_name": "9",
+   "kill_point": 10,
+   "capture_point": 50,
+   "reward": null,
+   "extra_param_list": null,
+   "map_id": 1,
+   "twin_buff_id": 0,
+   "extra_param_index_list": null,
+   "disable_list": null,
+   "point_name": "OB Point C",
+   "point_name_th": "จุดสังเกต C"
+  },
+  {
+   "id": 4,
+   "point_type": 2,
+   "elite": [
+    1,
+    5,
+    8
+   ],
+   "troop_num": 2,
+   "queue_num": 3,
+   "hide_num": 1,
+   "asset_name": "6",
+   "kill_point": 10,
+   "capture_point": 200,
+   "reward": [
+    {
+     "id": 10001,
+     "count": 50000
+    },
+    {
+     "id": 10102,
+     "count": 10
+    }
+   ],
+   "extra_param_list": [
+    1
+   ],
+   "map_id": 1,
+   "twin_buff_id": 0,
+   "extra_param_index_list": [
+    1
+   ],
+   "disable_list": null,
+   "point_name": "Supply Hub",
+   "point_name_th": "ศูนย์เสบียง"
+  },
+  {
+   "id": 5,
+   "point_type": 1,
+   "elite": [
+    2,
+    4,
+    6,
+    9
+   ],
+   "troop_num": 1,
+   "queue_num": 3,
+   "hide_num": 0,
+   "asset_name": "9",
+   "kill_point": 10,
+   "capture_point": 50,
+   "reward": null,
+   "extra_param_list": null,
+   "map_id": 1,
+   "twin_buff_id": 0,
+   "extra_param_index_list": null,
+   "disable_list": null,
+   "point_name": "OB Point D",
+   "point_name_th": "จุดสังเกต D"
+  },
+  {
+   "id": 6,
+   "point_type": 2,
+   "elite": [
+    3,
+    5,
+    10
+   ],
+   "troop_num": 2,
+   "queue_num": 3,
+   "hide_num": 1,
+   "asset_name": "8",
+   "kill_point": 10,
+   "capture_point": 200,
+   "reward": [
+    {
+     "id": 10001,
+     "count": 50000
+    },
+    {
+     "id": 10113,
+     "count": 2
+    }
+   ],
+   "extra_param_list": [
+    1
+   ],
+   "map_id": 1,
+   "twin_buff_id": 0,
+   "extra_param_index_list": [
+    1
+   ],
+   "disable_list": null,
+   "point_name": "Recon Spire",
+   "point_name_th": "Recon Spire"
+  },
+  {
+   "id": 7,
+   "point_type": 1,
+   "elite": [
+    8,
+    12
+   ],
+   "troop_num": 1,
+   "queue_num": 3,
+   "hide_num": 0,
+   "asset_name": "9",
+   "kill_point": 10,
+   "capture_point": 50,
+   "reward": null,
+   "extra_param_list": null,
+   "map_id": 1,
+   "twin_buff_id": 0,
+   "extra_param_index_list": null,
+   "disable_list": null,
+   "point_name": "OB Point E",
+   "point_name_th": "จุดสังเกต E"
+  },
+  {
+   "id": 8,
+   "point_type": 1,
+   "elite": [
+    4,
+    7,
+    9,
+    13
+   ],
+   "troop_num": 1,
+   "queue_num": 3,
+   "hide_num": 0,
+   "asset_name": "9",
+   "kill_point": 10,
+   "capture_point": 50,
+   "reward": null,
+   "extra_param_list": null,
+   "map_id": 1,
+   "twin_buff_id": 0,
+   "extra_param_index_list": null,
+   "disable_list": null,
+   "point_name": "OB Point F",
+   "point_name_th": "จุดสังเกต F"
+  },
+  {
+   "id": 9,
+   "point_type": 2,
+   "elite": [
+    5,
+    8,
+    10,
+    14
+   ],
+   "troop_num": 2,
+   "queue_num": 3,
+   "hide_num": 1,
+   "asset_name": "7",
+   "kill_point": 10,
+   "capture_point": 200,
+   "reward": [
+    {
+     "id": 10001,
+     "count": 50000
+    },
+    {
+     "id": 10112,
+     "count": 10
+    }
+   ],
+   "extra_param_list": [
+    1
+   ],
+   "map_id": 1,
+   "twin_buff_id": 0,
+   "extra_param_index_list": [
+    1
+   ],
+   "disable_list": null,
+   "point_name": "Integrated Train Station",
+   "point_name_th": "สถานีรถไฟบูรณาการ"
+  },
+  {
+   "id": 10,
+   "point_type": 1,
+   "elite": [
+    6,
+    9,
+    11,
+    15
+   ],
+   "troop_num": 1,
+   "queue_num": 3,
+   "hide_num": 0,
+   "asset_name": "9",
+   "kill_point": 10,
+   "capture_point": 50,
+   "reward": null,
+   "extra_param_list": null,
+   "map_id": 1,
+   "twin_buff_id": 0,
+   "extra_param_index_list": null,
+   "disable_list": null,
+   "point_name": "OB Point G",
+   "point_name_th": "จุดสังเกต B"
+  },
+  {
+   "id": 11,
+   "point_type": 1,
+   "elite": [
+    10,
+    16
+   ],
+   "troop_num": 1,
+   "queue_num": 3,
+   "hide_num": 0,
+   "asset_name": "9",
+   "kill_point": 10,
+   "capture_point": 50,
+   "reward": null,
+   "extra_param_list": null,
+   "map_id": 1,
+   "twin_buff_id": 0,
+   "extra_param_index_list": null,
+   "disable_list": null,
+   "point_name": "OB Point H",
+   "point_name_th": "จุดสังเกต H"
+  },
+  {
+   "id": 12,
+   "point_type": 2,
+   "elite": [
+    7,
+    13,
+    19
+   ],
+   "troop_num": 2,
+   "queue_num": 3,
+   "hide_num": 1,
+   "asset_name": "5",
+   "kill_point": 10,
+   "capture_point": 200,
+   "reward": [
+    {
+     "id": 10001,
+     "count": 50000
+    },
+    {
+     "id": 10131,
+     "count": 1
+    }
+   ],
+   "extra_param_list": [
+    1
+   ],
+   "map_id": 1,
+   "twin_buff_id": 0,
+   "extra_param_index_list": [
+    1
+   ],
+   "disable_list": null,
+   "point_name": "Stealth Hub",
+   "point_name_th": "ศูนย์สื่อสารลับ"
+  },
+  {
+   "id": 13,
+   "point_type": 1,
+   "elite": [
+    8,
+    12,
+    14,
+    17
+   ],
+   "troop_num": 1,
+   "queue_num": 3,
+   "hide_num": 0,
+   "asset_name": "9",
+   "kill_point": 10,
+   "capture_point": 50,
+   "reward": null,
+   "extra_param_list": null,
+   "map_id": 1,
+   "twin_buff_id": 0,
+   "extra_param_index_list": null,
+   "disable_list": null,
+   "point_name": "OB Point I",
+   "point_name_th": "จุดสังเกต I"
+  },
+  {
+   "id": 14,
+   "point_type": 1,
+   "elite": [
+    9,
+    13,
+    15
+   ],
+   "troop_num": 1,
+   "queue_num": 3,
+   "hide_num": 0,
+   "asset_name": "9",
+   "kill_point": 10,
+   "capture_point": 50,
+   "reward": null,
+   "extra_param_list": null,
+   "map_id": 1,
+   "twin_buff_id": 0,
+   "extra_param_index_list": null,
+   "disable_list": null,
+   "point_name": "OB Point J",
+   "point_name_th": "จุดสังเกต J"
+  },
+  {
+   "id": 15,
+   "point_type": 1,
+   "elite": [
+    10,
+    14,
+    16,
+    18
+   ],
+   "troop_num": 1,
+   "queue_num": 3,
+   "hide_num": 0,
+   "asset_name": "9",
+   "kill_point": 10,
+   "capture_point": 50,
+   "reward": null,
+   "extra_param_list": null,
+   "map_id": 1,
+   "twin_buff_id": 0,
+   "extra_param_index_list": null,
+   "disable_list": null,
+   "point_name": "OB Point K",
+   "point_name_th": "จุดสังเกต K"
+  },
+  {
+   "id": 16,
+   "point_type": 2,
+   "elite": [
+    11,
+    15,
+    20
+   ],
+   "troop_num": 2,
+   "queue_num": 3,
+   "hide_num": 1,
+   "asset_name": "3",
+   "kill_point": 10,
+   "capture_point": 200,
+   "reward": [
+    {
+     "id": 10001,
+     "count": 50000
+    },
+    {
+     "id": 10113,
+     "count": 2
+    }
+   ],
+   "extra_param_list": [
+    1
+   ],
+   "map_id": 1,
+   "twin_buff_id": 0,
+   "extra_param_index_list": [
+    1
+   ],
+   "disable_list": null,
+   "point_name": "Reserve Armory",
+   "point_name_th": "คลังอาวุธสำรอง"
+  },
+  {
+   "id": 17,
+   "point_type": 2,
+   "elite": [
+    13,
+    21
+   ],
+   "troop_num": 2,
+   "queue_num": 3,
+   "hide_num": 1,
+   "asset_name": "2",
+   "kill_point": 10,
+   "capture_point": 200,
+   "reward": [
+    {
+     "id": 10001,
+     "count": 50000
+    },
+    {
+     "id": 10131,
+     "count": 1
+    }
+   ],
+   "extra_param_list": [
+    1
+   ],
+   "map_id": 1,
+   "twin_buff_id": 0,
+   "extra_param_index_list": [
+    1
+   ],
+   "disable_list": null,
+   "point_name": "Molecular Lab",
+   "point_name_th": "ห้องแลปโมเลกุล"
+  },
+  {
+   "id": 18,
+   "point_type": 2,
+   "elite": [
+    15,
+    21
+   ],
+   "troop_num": 2,
+   "queue_num": 3,
+   "hide_num": 1,
+   "asset_name": "4",
+   "kill_point": 10,
+   "capture_point": 200,
+   "reward": [
+    {
+     "id": 10001,
+     "count": 50000
+    },
+    {
+     "id": 25001,
+     "count": 5
+    }
+   ],
+   "extra_param_list": [
+    1
+   ],
+   "map_id": 1,
+   "twin_buff_id": 0,
+   "extra_param_index_list": [
+    1
+   ],
+   "disable_list": null,
+   "point_name": "Medical Hub",
+   "point_name_th": "ศูนย์การแพทย์"
+  },
+  {
+   "id": 19,
+   "point_type": 3,
+   "elite": [
+    12
+   ],
+   "troop_num": 1,
+   "queue_num": 4,
+   "hide_num": 1,
+   "asset_name": "10",
+   "kill_point": 50,
+   "capture_point": 100,
+   "reward": [
+    {
+     "id": 10011,
+     "count": 50
+    },
+    {
+     "id": 10114,
+     "count": 2
+    }
+   ],
+   "extra_param_list": [
+    2
+   ],
+   "map_id": 1,
+   "twin_buff_id": 0,
+   "extra_param_index_list": [
+    1
+   ],
+   "disable_list": null,
+   "point_name": "Anomaly A",
+   "point_name_th": "ผิดปกติ A"
+  },
+  {
+   "id": 20,
+   "point_type": 3,
+   "elite": [
+    16
+   ],
+   "troop_num": 1,
+   "queue_num": 4,
+   "hide_num": 1,
+   "asset_name": "10",
+   "kill_point": 50,
+   "capture_point": 100,
+   "reward": [
+    {
+     "id": 10011,
+     "count": 50
+    },
+    {
+     "id": 25002,
+     "count": 3
+    }
+   ],
+   "extra_param_list": [
+    2
+   ],
+   "map_id": 1,
+   "twin_buff_id": 0,
+   "extra_param_index_list": [
+    2
+   ],
+   "disable_list": null,
+   "point_name": "Anomaly B",
+   "point_name_th": "ผิดปกติ B"
+  },
+  {
+   "id": 21,
+   "point_type": 4,
+   "elite": [
+    17,
+    18
+   ],
+   "troop_num": 3,
+   "queue_num": 4,
+   "hide_num": 1,
+   "asset_name": "1",
+   "kill_point": 30,
+   "capture_point": 500,
+   "reward": [
+    {
+     "id": 10011,
+     "count": 100
+    },
+    {
+     "id": 10132,
+     "count": 1
+    }
+   ],
+   "extra_param_list": [
+    1,
+    3
+   ],
+   "map_id": 1,
+   "twin_buff_id": 0,
+   "extra_param_index_list": [
+    1,
+    1
+   ],
+   "disable_list": null,
+   "point_name": "Prime Nexus",
+   "point_name_th": "คอร์ทั่วโลก"
+  },
+  {
+   "id": 1,
+   "point_type": 1,
+   "elite": null,
+   "troop_num": 1,
+   "queue_num": 5,
+   "hide_num": 0,
+   "asset_name": "3",
+   "kill_point": 10,
+   "capture_point": 50,
+   "reward": null,
+   "extra_param_list": null,
+   "map_id": 2,
+   "twin_buff_id": 0,
+   "extra_param_index_list": null,
+   "disable_list": null,
+   "point_name": "OB Point A",
+   "point_name_th": "จุดสังเกต A"
+  },
+  {
+   "id": 2,
+   "point_type": 1,
+   "elite": null,
+   "troop_num": 1,
+   "queue_num": 5,
+   "hide_num": 0,
+   "asset_name": "3",
+   "kill_point": 10,
+   "capture_point": 50,
+   "reward": null,
+   "extra_param_list": null,
+   "map_id": 2,
+   "twin_buff_id": 0,
+   "extra_param_index_list": null,
+   "disable_list": null,
+   "point_name": "OB Point B",
+   "point_name_th": "จุดสังเกต B"
+  },
+  {
+   "id": 3,
+   "point_type": 1,
+   "elite": null,
+   "troop_num": 1,
+   "queue_num": 5,
+   "hide_num": 0,
+   "asset_name": "3",
+   "kill_point": 10,
+   "capture_point": 50,
+   "reward": null,
+   "extra_param_list": null,
+   "map_id": 2,
+   "twin_buff_id": 0,
+   "extra_param_index_list": null,
+   "disable_list": null,
+   "point_name": "OB Point C",
+   "point_name_th": "จุดสังเกต C"
+  },
+  {
+   "id": 4,
+   "point_type": 1,
+   "elite": null,
+   "troop_num": 1,
+   "queue_num": 5,
+   "hide_num": 0,
+   "asset_name": "3",
+   "kill_point": 10,
+   "capture_point": 50,
+   "reward": null,
+   "extra_param_list": null,
+   "map_id": 2,
+   "twin_buff_id": 0,
+   "extra_param_index_list": null,
+   "disable_list": null,
+   "point_name": "OB Point D",
+   "point_name_th": "จุดสังเกต D"
+  },
+  {
+   "id": 5,
+   "point_type": 5,
+   "elite": [
+    1,
+    11
+   ],
+   "troop_num": 1,
+   "queue_num": 5,
+   "hide_num": 1,
+   "asset_name": "8",
+   "kill_point": 30,
+   "capture_point": 100,
+   "reward": [
+    {
+     "id": 10011,
+     "count": 50
+    },
+    {
+     "id": 10114,
+     "count": 2
+    }
+   ],
+   "extra_param_list": [
+    2
+   ],
+   "map_id": 2,
+   "twin_buff_id": 4001,
+   "extra_param_index_list": [
+    1
+   ],
+   "disable_list": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "point_name": "Blazing Star Garrison",
+   "point_name_th": "Blazing Star Garrison"
+  },
+  {
+   "id": 6,
+   "point_type": 2,
+   "elite": [
+    1,
+    2,
+    7,
+    12
+   ],
+   "troop_num": 2,
+   "queue_num": 5,
+   "hide_num": 1,
+   "asset_name": "5",
+   "kill_point": 10,
+   "capture_point": 200,
+   "reward": [
+    {
+     "id": 10001,
+     "count": 50000
+    },
+    {
+     "id": 10131,
+     "count": 1
+    }
+   ],
+   "extra_param_list": [
+    1
+   ],
+   "map_id": 2,
+   "twin_buff_id": 0,
+   "extra_param_index_list": [
+    1
+   ],
+   "disable_list": null,
+   "point_name": "Stealth Hub α",
+   "point_name_th": "ศูนย์สื่อสารลับ α"
+  },
+  {
+   "id": 7,
+   "point_type": 2,
+   "elite": [
+    2,
+    6,
+    8,
+    13
+   ],
+   "troop_num": 2,
+   "queue_num": 5,
+   "hide_num": 1,
+   "asset_name": "7",
+   "kill_point": 10,
+   "capture_point": 200,
+   "reward": [
+    {
+     "id": 10001,
+     "count": 50000
+    },
+    {
+     "id": 10112,
+     "count": 10
+    }
+   ],
+   "extra_param_list": [
+    1
+   ],
+   "map_id": 2,
+   "twin_buff_id": 0,
+   "extra_param_index_list": [
+    1
+   ],
+   "disable_list": null,
+   "point_name": "Integrated Train Station α",
+   "point_name_th": "สถานีรถไฟบูรณาการ α"
+  },
+  {
+   "id": 8,
+   "point_type": 2,
+   "elite": [
+    3,
+    7,
+    9,
+    14
+   ],
+   "troop_num": 2,
+   "queue_num": 5,
+   "hide_num": 1,
+   "asset_name": "5",
+   "kill_point": 10,
+   "capture_point": 200,
+   "reward": [
+    {
+     "id": 10001,
+     "count": 50000
+    },
+    {
+     "id": 10131,
+     "count": 1
+    }
+   ],
+   "extra_param_list": [
+    1
+   ],
+   "map_id": 2,
+   "twin_buff_id": 0,
+   "extra_param_index_list": [
+    2
+   ],
+   "disable_list": null,
+   "point_name": "Stealth Hub β",
+   "point_name_th": "ศูนย์สื่อสารลับ β"
+  },
+  {
+   "id": 9,
+   "point_type": 2,
+   "elite": [
+    3,
+    4,
+    8,
+    15
+   ],
+   "troop_num": 2,
+   "queue_num": 5,
+   "hide_num": 1,
+   "asset_name": "6",
+   "kill_point": 10,
+   "capture_point": 200,
+   "reward": [
+    {
+     "id": 10001,
+     "count": 50000
+    },
+    {
+     "id": 10113,
+     "count": 2
+    }
+   ],
+   "extra_param_list": [
+    1
+   ],
+   "map_id": 2,
+   "twin_buff_id": 0,
+   "extra_param_index_list": [
+    2
+   ],
+   "disable_list": null,
+   "point_name": "Reserve Armory β",
+   "point_name_th": "คลังอาวุธสำรอง β"
+  },
+  {
+   "id": 10,
+   "point_type": 5,
+   "elite": [
+    4,
+    16
+   ],
+   "troop_num": 1,
+   "queue_num": 5,
+   "hide_num": 1,
+   "asset_name": "8",
+   "kill_point": 30,
+   "capture_point": 100,
+   "reward": [
+    {
+     "id": 10011,
+     "count": 50
+    },
+    {
+     "id": 10114,
+     "count": 2
+    }
+   ],
+   "extra_param_list": [
+    2
+   ],
+   "map_id": 2,
+   "twin_buff_id": 4001,
+   "extra_param_index_list": [
+    1
+   ],
+   "disable_list": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "point_name": "Blazing Star Garrison",
+   "point_name_th": "Blazing Star Garrison"
+  },
+  {
+   "id": 11,
+   "point_type": 1,
+   "elite": [
+    5,
+    12,
+    17
+   ],
+   "troop_num": 1,
+   "queue_num": 5,
+   "hide_num": 0,
+   "asset_name": "3",
+   "kill_point": 10,
+   "capture_point": 50,
+   "reward": null,
+   "extra_param_list": null,
+   "map_id": 2,
+   "twin_buff_id": 0,
+   "extra_param_index_list": null,
+   "disable_list": null,
+   "point_name": "OB Point E",
+   "point_name_th": "จุดสังเกต E"
+  },
+  {
+   "id": 12,
+   "point_type": 2,
+   "elite": [
+    6,
+    11,
+    19
+   ],
+   "troop_num": 2,
+   "queue_num": 5,
+   "hide_num": 1,
+   "asset_name": "2",
+   "kill_point": 10,
+   "capture_point": 200,
+   "reward": [
+    {
+     "id": 10001,
+     "count": 50000
+    },
+    {
+     "id": 25001,
+     "count": 5
+    }
+   ],
+   "extra_param_list": [
+    1
+   ],
+   "map_id": 2,
+   "twin_buff_id": 0,
+   "extra_param_index_list": [
+    1
+   ],
+   "disable_list": null,
+   "point_name": "Molecular Lab α",
+   "point_name_th": "ห้องแลปโมเลกุล α"
+  },
+  {
+   "id": 13,
+   "point_type": 6,
+   "elite": [
+    7,
+    19
+   ],
+   "troop_num": 1,
+   "queue_num": 5,
+   "hide_num": 1,
+   "asset_name": "1",
+   "kill_point": 40,
+   "capture_point": 100,
+   "reward": [
+    {
+     "id": 10011,
+     "count": 50
+    },
+    {
+     "id": 25003,
+     "count": 1
+    }
+   ],
+   "extra_param_list": [
+    2
+   ],
+   "map_id": 2,
+   "twin_buff_id": 4002,
+   "extra_param_index_list": [
+    3
+   ],
+   "disable_list": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "point_name": "Luna Sentry Garrison",
+   "point_name_th": "Luna Sentry Garrison"
+  },
+  {
+   "id": 14,
+   "point_type": 6,
+   "elite": [
+    8,
+    20
+   ],
+   "troop_num": 1,
+   "queue_num": 5,
+   "hide_num": 1,
+   "asset_name": "1",
+   "kill_point": 40,
+   "capture_point": 100,
+   "reward": [
+    {
+     "id": 10011,
+     "count": 50
+    },
+    {
+     "id": 25003,
+     "count": 1
+    }
+   ],
+   "extra_param_list": [
+    2
+   ],
+   "map_id": 2,
+   "twin_buff_id": 4002,
+   "extra_param_index_list": [
+    3
+   ],
+   "disable_list": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "point_name": "Luna Sentry Garrison",
+   "point_name_th": "Luna Sentry Garrison"
+  },
+  {
+   "id": 15,
+   "point_type": 2,
+   "elite": [
+    9,
+    16,
+    20
+   ],
+   "troop_num": 2,
+   "queue_num": 5,
+   "hide_num": 1,
+   "asset_name": "4",
+   "kill_point": 10,
+   "capture_point": 200,
+   "reward": [
+    {
+     "id": 10001,
+     "count": 50000
+    },
+    {
+     "id": 25002,
+     "count": 2
+    }
+   ],
+   "extra_param_list": [
+    1
+   ],
+   "map_id": 2,
+   "twin_buff_id": 0,
+   "extra_param_index_list": [
+    2
+   ],
+   "disable_list": null,
+   "point_name": "Medical Hub β",
+   "point_name_th": "ศูนย์การแพทย์ β"
+  },
+  {
+   "id": 16,
+   "point_type": 1,
+   "elite": [
+    10,
+    15,
+    18
+   ],
+   "troop_num": 1,
+   "queue_num": 5,
+   "hide_num": 0,
+   "asset_name": "3",
+   "kill_point": 10,
+   "capture_point": 50,
+   "reward": null,
+   "extra_param_list": null,
+   "map_id": 2,
+   "twin_buff_id": 0,
+   "extra_param_index_list": null,
+   "disable_list": null,
+   "point_name": "OB Point F",
+   "point_name_th": "จุดสังเกต F"
+  },
+  {
+   "id": 17,
+   "point_type": 7,
+   "elite": [
+    11,
+    19
+   ],
+   "troop_num": 1,
+   "queue_num": 5,
+   "hide_num": 1,
+   "asset_name": "9",
+   "kill_point": 50,
+   "capture_point": 100,
+   "reward": [
+    {
+     "id": 10011,
+     "count": 50
+    },
+    {
+     "id": 10132,
+     "count": 1
+    }
+   ],
+   "extra_param_list": [
+    2
+   ],
+   "map_id": 2,
+   "twin_buff_id": 4003,
+   "extra_param_index_list": [
+    2
+   ],
+   "disable_list": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "point_name": "Apocalypse Garrison",
+   "point_name_th": "Apocalypse Garrison"
+  },
+  {
+   "id": 18,
+   "point_type": 7,
+   "elite": [
+    16,
+    20
+   ],
+   "troop_num": 1,
+   "queue_num": 5,
+   "hide_num": 1,
+   "asset_name": "9",
+   "kill_point": 50,
+   "capture_point": 100,
+   "reward": [
+    {
+     "id": 10011,
+     "count": 50
+    },
+    {
+     "id": 10132,
+     "count": 1
+    }
+   ],
+   "extra_param_list": [
+    2
+   ],
+   "map_id": 2,
+   "twin_buff_id": 4003,
+   "extra_param_index_list": [
+    2
+   ],
+   "disable_list": [
+    1,
+    2,
+    3,
+    4,
+    5
+   ],
+   "point_name": "Apocalypse Garrison",
+   "point_name_th": "Apocalypse Garrison"
+  },
+  {
+   "id": 19,
+   "point_type": 4,
+   "elite": [
+    12,
+    13,
+    17,
+    20
+   ],
+   "troop_num": 3,
+   "queue_num": 5,
+   "hide_num": 1,
+   "asset_name": "10",
+   "kill_point": 30,
+   "capture_point": 400,
+   "reward": [
+    {
+     "id": 10011,
+     "count": 100
+    },
+    {
+     "id": 10202,
+     "count": 1
+    }
+   ],
+   "extra_param_list": [
+    1,
+    3
+   ],
+   "map_id": 2,
+   "twin_buff_id": 4004,
+   "extra_param_index_list": [
+    1,
+    1
+   ],
+   "disable_list": null,
+   "point_name": "Prime Nexus α",
+   "point_name_th": "Prime Nexus α"
+  },
+  {
+   "id": 20,
+   "point_type": 4,
+   "elite": [
+    14,
+    15,
+    18,
+    19
+   ],
+   "troop_num": 3,
+   "queue_num": 5,
+   "hide_num": 1,
+   "asset_name": "10",
+   "kill_point": 30,
+   "capture_point": 400,
+   "reward": [
+    {
+     "id": 10011,
+     "count": 100
+    },
+    {
+     "id": 10202,
+     "count": 1
+    }
+   ],
+   "extra_param_list": [
+    1,
+    3
+   ],
+   "map_id": 2,
+   "twin_buff_id": 4004,
+   "extra_param_index_list": [
+    2,
+    1
+   ],
+   "disable_list": null,
+   "point_name": "Prime Nexus β",
+   "point_name_th": "Prime Nexus β"
+  }
+ ],
+ "text_chunk": "00093_a37e9121e9d7f1ec.json",
+ "note": "point_name keyed by row order (1..41), not id"
+}

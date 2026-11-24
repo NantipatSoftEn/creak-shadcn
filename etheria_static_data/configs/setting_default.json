@@ -1,0 +1,77 @@
+{
+ "config": "setting_default",
+ "fields": [
+  "id",
+  "default_setting_value",
+  "setting_des"
+ ],
+ "rows": {
+  "10001": {
+   "id": 10001,
+   "default_setting_value": 100,
+   "setting_des": "Master Volume",
+   "setting_des_th": "เสียงหลัก"
+  },
+  "10002": {
+   "id": 10002,
+   "default_setting_value": 100,
+   "setting_des": "Background Music Volume",
+   "setting_des_th": "เสียงแบ็คกราวด์"
+  },
+  "10003": {
+   "id": 10003,
+   "default_setting_value": 100,
+   "setting_des": "Sound Effect Volume",
+   "setting_des_th": "เสียงเอฟเฟ็กต์"
+  },
+  "10004": {
+   "id": 10004,
+   "default_setting_value": 100,
+   "setting_des": "Voice Volume",
+   "setting_des_th": "เสียงพูด"
+  },
+  "10005": {
+   "id": 10005,
+   "default_setting_value": 1,
+   "setting_des": "Voice Settings",
+   "setting_des_th": "การตั้งค่าเสียง"
+  },
+  "10006": {
+   "id": 10006,
+   "default_setting_value": 1,
+   "setting_des": "Voice speed-up during battle",
+   "setting_des_th": "เพิ่มเสียงพูดระหว่างต่อสู้"
+  },
+  "20001": {
+   "id": 20001,
+   "default_setting_value": 5,
+   "setting_des": "Graphics Quality",
+   "setting_des_th": "คุณภาพกราฟิก"
+  },
+  "30001": {
+   "id": 30001,
+   "default_setting_value": 100,
+   "setting_des": "Odd-Shaped Screen Adaptation",
+   "setting_des_th": "การปรับหน้าจอที่มีรูปทรงพิเศษ"
+  },
+  "30002": {
+   "id": 30002,
+   "default_setting_value": 0,
+   "setting_des": "Stamina Recovery Notification",
+   "setting_des_th": "แจ้งเตือนฟื้นฟูพลังงาน"
+  },
+  "30003": {
+   "id": 30003,
+   "default_setting_value": 0,
+   "setting_des": "Etherena Notification",
+   "setting_des_th": "แจ้งเตือนอีเทอรีน่า"
+  },
+  "30004": {
+   "id": 30004,
+   "default_setting_value": 1,
+   "setting_des": "Language",
+   "setting_des_th": "ภาษา"
+  }
+ },
+ "text_chunk": "00140_47f6fcfffd8f5128.json"
+}

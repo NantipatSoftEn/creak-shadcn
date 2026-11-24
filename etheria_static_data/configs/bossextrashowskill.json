@@ -1,0 +1,850 @@
+{
+ "config": "bossextrashowskill",
+ "fields": [
+  "dungeon_level_id",
+  "extra_skill_id",
+  "skill_lv"
+ ],
+ "rows": {
+  "5001010": {
+   "dungeon_level_id": 5001010,
+   "extra_skill_id": [
+    [
+     6001301,
+     6001401
+    ]
+   ],
+   "skill_lv": null
+  },
+  "5001020": {
+   "dungeon_level_id": 5001020,
+   "extra_skill_id": [
+    [
+     6001301,
+     6001401
+    ]
+   ],
+   "skill_lv": null
+  },
+  "5001030": {
+   "dungeon_level_id": 5001030,
+   "extra_skill_id": [
+    [
+     6001301,
+     6001401
+    ]
+   ],
+   "skill_lv": null
+  },
+  "5001040": {
+   "dungeon_level_id": 5001040,
+   "extra_skill_id": [
+    [
+     6001301,
+     6001401
+    ]
+   ],
+   "skill_lv": null
+  },
+  "5001050": {
+   "dungeon_level_id": 5001050,
+   "extra_skill_id": [
+    [
+     6001301,
+     6001401
+    ]
+   ],
+   "skill_lv": null
+  },
+  "5001060": {
+   "dungeon_level_id": 5001060,
+   "extra_skill_id": [
+    [
+     6001301,
+     6001401
+    ]
+   ],
+   "skill_lv": null
+  },
+  "5001070": {
+   "dungeon_level_id": 5001070,
+   "extra_skill_id": [
+    [
+     6001301,
+     6001401
+    ]
+   ],
+   "skill_lv": null
+  },
+  "5001080": {
+   "dungeon_level_id": 5001080,
+   "extra_skill_id": [
+    [
+     6001301,
+     6001401
+    ]
+   ],
+   "skill_lv": null
+  },
+  "5001090": {
+   "dungeon_level_id": 5001090,
+   "extra_skill_id": [
+    [
+     6001301,
+     6001401
+    ]
+   ],
+   "skill_lv": null
+  },
+  "5001100": {
+   "dungeon_level_id": 5001100,
+   "extra_skill_id": [
+    [
+     6001301,
+     6001401
+    ]
+   ],
+   "skill_lv": null
+  },
+  "5001110": {
+   "dungeon_level_id": 5001110,
+   "extra_skill_id": [
+    [
+     6001301,
+     6001401
+    ]
+   ],
+   "skill_lv": null
+  },
+  "5001120": {
+   "dungeon_level_id": 5001120,
+   "extra_skill_id": [
+    [
+     6001301,
+     6001401
+    ]
+   ],
+   "skill_lv": null
+  },
+  "5001130": {
+   "dungeon_level_id": 5001130,
+   "extra_skill_id": [
+    [
+     6001301,
+     6001401
+    ]
+   ],
+   "skill_lv": null
+  },
+  "5001140": {
+   "dungeon_level_id": 5001140,
+   "extra_skill_id": [
+    [
+     6001301,
+     6001401
+    ]
+   ],
+   "skill_lv": [
+    [
+     2,
+     2
+    ]
+   ]
+  },
+  "5003010": {
+   "dungeon_level_id": 5003010,
+   "extra_skill_id": [
+    [
+     6002701,
+     6002801
+    ]
+   ],
+   "skill_lv": null
+  },
+  "5003020": {
+   "dungeon_level_id": 5003020,
+   "extra_skill_id": [
+    [
+     6002701,
+     6002801
+    ]
+   ],
+   "skill_lv": null
+  },
+  "5003030": {
+   "dungeon_level_id": 5003030,
+   "extra_skill_id": [
+    [
+     6002701,
+     6002801
+    ]
+   ],
+   "skill_lv": null
+  },
+  "5003040": {
+   "dungeon_level_id": 5003040,
+   "extra_skill_id": [
+    [
+     6002701,
+     6002801
+    ]
+   ],
+   "skill_lv": null
+  },
+  "5003050": {
+   "dungeon_level_id": 5003050,
+   "extra_skill_id": [
+    [
+     6002701,
+     6002801
+    ]
+   ],
+   "skill_lv": null
+  },
+  "5003060": {
+   "dungeon_level_id": 5003060,
+   "extra_skill_id": [
+    [
+     6002701,
+     6002801
+    ]
+   ],
+   "skill_lv": null
+  },
+  "5003070": {
+   "dungeon_level_id": 5003070,
+   "extra_skill_id": [
+    [
+     6002701,
+     6002801
+    ]
+   ],
+   "skill_lv": null
+  },
+  "5003080": {
+   "dungeon_level_id": 5003080,
+   "extra_skill_id": [
+    [
+     6002701,
+     6002801
+    ]
+   ],
+   "skill_lv": null
+  },
+  "5003090": {
+   "dungeon_level_id": 5003090,
+   "extra_skill_id": [
+    [
+     6002701,
+     6002801
+    ]
+   ],
+   "skill_lv": null
+  },
+  "5003100": {
+   "dungeon_level_id": 5003100,
+   "extra_skill_id": [
+    [
+     6002701,
+     6002801
+    ]
+   ],
+   "skill_lv": null
+  },
+  "5003110": {
+   "dungeon_level_id": 5003110,
+   "extra_skill_id": [
+    [
+     6002701,
+     6002801
+    ]
+   ],
+   "skill_lv": null
+  },
+  "5003120": {
+   "dungeon_level_id": 5003120,
+   "extra_skill_id": [
+    [
+     6002701,
+     6002801
+    ]
+   ],
+   "skill_lv": null
+  },
+  "5003130": {
+   "dungeon_level_id": 5003130,
+   "extra_skill_id": [
+    [
+     6002701,
+     6002801
+    ]
+   ],
+   "skill_lv": null
+  },
+  "5003140": {
+   "dungeon_level_id": 5003140,
+   "extra_skill_id": [
+    [
+     6002701,
+     6002801,
+     6002702
+    ]
+   ],
+   "skill_lv": null
+  },
+  "2003010": {
+   "dungeon_level_id": 2003010,
+   "extra_skill_id": [
+    [
+     6001708,
+     6001808
+    ],
+    [
+     6001708,
+     6001808
+    ]
+   ],
+   "skill_lv": null
+  },
+  "2003020": {
+   "dungeon_level_id": 2003020,
+   "extra_skill_id": [
+    [
+     6001708,
+     6001808
+    ],
+    [
+     6001708,
+     6001808
+    ]
+   ],
+   "skill_lv": null
+  },
+  "9005022": {
+   "dungeon_level_id": 9005022,
+   "extra_skill_id": [
+    [
+     6001708,
+     6001808
+    ]
+   ],
+   "skill_lv": null
+  },
+  "2004010": {
+   "dungeon_level_id": 2004010,
+   "extra_skill_id": [
+    [
+     6000202
+    ]
+   ],
+   "skill_lv": null
+  },
+  "2004020": {
+   "dungeon_level_id": 2004020,
+   "extra_skill_id": [
+    [
+     6000202
+    ]
+   ],
+   "skill_lv": null
+  },
+  "9006012": {
+   "dungeon_level_id": 9006012,
+   "extra_skill_id": [
+    [
+     6000202
+    ]
+   ],
+   "skill_lv": null
+  },
+  "8018010": {
+   "dungeon_level_id": 8018010,
+   "extra_skill_id": [
+    [
+     6000201,
+     6000202
+    ]
+   ],
+   "skill_lv": null
+  },
+  "8018020": {
+   "dungeon_level_id": 8018020,
+   "extra_skill_id": [
+    [
+     6000201,
+     6000202
+    ]
+   ],
+   "skill_lv": null
+  },
+  "8018030": {
+   "dungeon_level_id": 8018030,
+   "extra_skill_id": [
+    [
+     6000201,
+     6000202
+    ]
+   ],
+   "skill_lv": null
+  },
+  "2005010": {
+   "dungeon_level_id": 2005010,
+   "extra_skill_id": [
+    [
+     6002302
+    ],
+    [
+     6002601
+    ]
+   ],
+   "skill_lv": null
+  },
+  "2005020": {
+   "dungeon_level_id": 2005020,
+   "extra_skill_id": [
+    [
+     6002302
+    ],
+    [
+     6002601
+    ]
+   ],
+   "skill_lv": null
+  },
+  "2006010": {
+   "dungeon_level_id": 2006010,
+   "extra_skill_id": [
+    [
+     6003901
+    ]
+   ],
+   "skill_lv": null
+  },
+  "2006020": {
+   "dungeon_level_id": 2006020,
+   "extra_skill_id": [
+    [
+     6003901
+    ]
+   ],
+   "skill_lv": null
+  },
+  "9004022": {
+   "dungeon_level_id": 9004022,
+   "extra_skill_id": [
+    [
+     6003901
+    ]
+   ],
+   "skill_lv": null
+  },
+  "8006010": {
+   "dungeon_level_id": 8006010,
+   "extra_skill_id": [
+    [
+     6003401
+    ]
+   ],
+   "skill_lv": null
+  },
+  "8006020": {
+   "dungeon_level_id": 8006020,
+   "extra_skill_id": [
+    [
+     6003401
+    ]
+   ],
+   "skill_lv": null
+  },
+  "8006030": {
+   "dungeon_level_id": 8006030,
+   "extra_skill_id": [
+    [
+     6003401
+    ]
+   ],
+   "skill_lv": null
+  },
+  "2008010": {
+   "dungeon_level_id": 2008010,
+   "extra_skill_id": [
+    [
+     6004002,
+     6004001,
+     6004101,
+     6004201,
+     6004003
+    ]
+   ],
+   "skill_lv": null
+  },
+  "2008020": {
+   "dungeon_level_id": 2008020,
+   "extra_skill_id": [
+    [
+     6004002,
+     6004001,
+     6004101,
+     6004201,
+     6004003
+    ]
+   ],
+   "skill_lv": null
+  },
+  "2008030": {
+   "dungeon_level_id": 2008030,
+   "extra_skill_id": [
+    [
+     6004002,
+     6004001,
+     6004101,
+     6004201,
+     6004003
+    ]
+   ],
+   "skill_lv": null
+  },
+  "9006022": {
+   "dungeon_level_id": 9006022,
+   "extra_skill_id": [
+    [
+     6004002,
+     6004001,
+     6004101,
+     6004201,
+     6004003
+    ]
+   ],
+   "skill_lv": null
+  },
+  "2009010": {
+   "dungeon_level_id": 2009010,
+   "extra_skill_id": [
+    [
+     6005701,
+     6005702
+    ]
+   ],
+   "skill_lv": null
+  },
+  "2009020": {
+   "dungeon_level_id": 2009020,
+   "extra_skill_id": [
+    [
+     6005701,
+     6005702
+    ]
+   ],
+   "skill_lv": null
+  },
+  "2009030": {
+   "dungeon_level_id": 2009030,
+   "extra_skill_id": [
+    [
+     6005701,
+     6005702
+    ]
+   ],
+   "skill_lv": [
+    [
+     1,
+     2
+    ]
+   ]
+  },
+  "9005032": {
+   "dungeon_level_id": 9005032,
+   "extra_skill_id": [
+    [
+     6005701,
+     6005702
+    ]
+   ],
+   "skill_lv": null
+  },
+  "9005012": {
+   "dungeon_level_id": 9005012,
+   "extra_skill_id": [
+    [
+     6000402,
+     6000502
+    ]
+   ],
+   "skill_lv": null
+  },
+  "2007010": {
+   "dungeon_level_id": 2007010,
+   "extra_skill_id": [
+    [
+     6005001,
+     6005101
+    ]
+   ],
+   "skill_lv": null
+  },
+  "2007020": {
+   "dungeon_level_id": 2007020,
+   "extra_skill_id": [
+    [
+     6005001,
+     6005101
+    ]
+   ],
+   "skill_lv": null
+  },
+  "2007030": {
+   "dungeon_level_id": 2007030,
+   "extra_skill_id": [
+    [
+     6005001,
+     6005101
+    ]
+   ],
+   "skill_lv": [
+    [
+     2,
+     2
+    ]
+   ]
+  },
+  "8024010": {
+   "dungeon_level_id": 8024010,
+   "extra_skill_id": [
+    [
+     6004901,
+     6004902
+    ]
+   ],
+   "skill_lv": null
+  },
+  "8024020": {
+   "dungeon_level_id": 8024020,
+   "extra_skill_id": [
+    [
+     6004901,
+     6004902
+    ]
+   ],
+   "skill_lv": null
+  },
+  "8024030": {
+   "dungeon_level_id": 8024030,
+   "extra_skill_id": [
+    [
+     6004901,
+     6004902
+    ]
+   ],
+   "skill_lv": null
+  },
+  "9004032": {
+   "dungeon_level_id": 9004032,
+   "extra_skill_id": [
+    [
+     6004901,
+     6004902
+    ]
+   ],
+   "skill_lv": null
+  },
+  "2010010": {
+   "dungeon_level_id": 2010010,
+   "extra_skill_id": [
+    [
+     6005501,
+     6005502
+    ]
+   ],
+   "skill_lv": null
+  },
+  "2010020": {
+   "dungeon_level_id": 2010020,
+   "extra_skill_id": [
+    [
+     6005501,
+     6005502
+    ]
+   ],
+   "skill_lv": null
+  },
+  "2010030": {
+   "dungeon_level_id": 2010030,
+   "extra_skill_id": [
+    [
+     6005501,
+     6005502
+    ]
+   ],
+   "skill_lv": null
+  },
+  "8030010": {
+   "dungeon_level_id": 8030010,
+   "extra_skill_id": [
+    [
+     6004901,
+     6004902
+    ]
+   ],
+   "skill_lv": null
+  },
+  "8030020": {
+   "dungeon_level_id": 8030020,
+   "extra_skill_id": [
+    [
+     6004901,
+     6004902
+    ]
+   ],
+   "skill_lv": null
+  },
+  "8030030": {
+   "dungeon_level_id": 8030030,
+   "extra_skill_id": [
+    [
+     6004901,
+     6004902
+    ]
+   ],
+   "skill_lv": null
+  },
+  "8012010": {
+   "dungeon_level_id": 8012010,
+   "extra_skill_id": [
+    [
+     6005401,
+     6005402
+    ]
+   ],
+   "skill_lv": null
+  },
+  "8012020": {
+   "dungeon_level_id": 8012020,
+   "extra_skill_id": [
+    [
+     6005401,
+     6005402
+    ]
+   ],
+   "skill_lv": null
+  },
+  "8012030": {
+   "dungeon_level_id": 8012030,
+   "extra_skill_id": [
+    [
+     6005401,
+     6005402
+    ]
+   ],
+   "skill_lv": null
+  },
+  "9006032": {
+   "dungeon_level_id": 9006032,
+   "extra_skill_id": [
+    [
+     6005401,
+     6005402
+    ]
+   ],
+   "skill_lv": null
+  },
+  "3124010": {
+   "dungeon_level_id": 3124010,
+   "extra_skill_id": [
+    [
+     6005511,
+     6005512
+    ]
+   ],
+   "skill_lv": null
+  },
+  "3106010": {
+   "dungeon_level_id": 3106010,
+   "extra_skill_id": [
+    [
+     6003401
+    ]
+   ],
+   "skill_lv": null
+  },
+  "3112010": {
+   "dungeon_level_id": 3112010,
+   "extra_skill_id": [
+    [
+     6005301,
+     6005302
+    ]
+   ],
+   "skill_lv": null
+  },
+  "3130010": {
+   "dungeon_level_id": 3130010,
+   "extra_skill_id": [
+    [
+     6003501,
+     6003502,
+     6003503
+    ],
+    [
+     6003601,
+     6003602,
+     6003604
+    ],
+    [
+     6003701
+    ]
+   ],
+   "skill_lv": null
+  },
+  "3136010": {
+   "dungeon_level_id": 3136010,
+   "extra_skill_id": [
+    [
+     6002301,
+     6002303,
+     6002401
+    ],
+    [
+     0
+    ]
+   ],
+   "skill_lv": null
+  },
+  "3142010": {
+   "dungeon_level_id": 3142010,
+   "extra_skill_id": [
+    [
+     6003801,
+     6003802
+    ],
+    [
+     0
+    ],
+    [
+     0
+    ]
+   ],
+   "skill_lv": null
+  },
+  "9007011": {
+   "dungeon_level_id": 9007011,
+   "extra_skill_id": [
+    [
+     6003201,
+     6003202
+    ]
+   ],
+   "skill_lv": null
+  },
+  "1011042": {
+   "dungeon_level_id": 1011042,
+   "extra_skill_id": [
+    [
+     6003201,
+     6003202
+    ]
+   ],
+   "skill_lv": null
+  }
+ },
+ "text_chunk": null
+}

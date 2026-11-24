@@ -1,0 +1,638 @@
+{
+ "config": "mercenary",
+ "fields": [
+  "id",
+  "cst_id",
+  "agt_id",
+  "hp",
+  "attack",
+  "defence",
+  "speed",
+  "crit",
+  "crit_damage",
+  "sp_hit",
+  "resist",
+  "skill_lv",
+  "cst_star_and_lv",
+  "agt_star_and_lv"
+ ],
+ "rows": {
+  "10101": {
+   "id": 10101,
+   "cst_id": 30051,
+   "agt_id": 54391,
+   "hp": 22000.0,
+   "attack": 1000.0,
+   "defence": 1300.0,
+   "speed": 180.0,
+   "crit": 0.1,
+   "crit_damage": 1.5,
+   "sp_hit": 0.0,
+   "resist": 0.5,
+   "skill_lv": 3,
+   "cst_star_and_lv": [
+    5,
+    45
+   ],
+   "agt_star_and_lv": [
+    4,
+    40
+   ]
+  },
+  "10102": {
+   "id": 10102,
+   "cst_id": 30101,
+   "agt_id": 54341,
+   "hp": 15000.0,
+   "attack": 3300.0,
+   "defence": 1000.0,
+   "speed": 150.0,
+   "crit": 0.1,
+   "crit_damage": 1.5,
+   "sp_hit": 0.3,
+   "resist": 0.1,
+   "skill_lv": 3,
+   "cst_star_and_lv": [
+    5,
+    45
+   ],
+   "agt_star_and_lv": [
+    4,
+    40
+   ]
+  },
+  "10103": {
+   "id": 10103,
+   "cst_id": 30151,
+   "agt_id": 54341,
+   "hp": 15000.0,
+   "attack": 2500.0,
+   "defence": 1000.0,
+   "speed": 130.0,
+   "crit": 0.6,
+   "crit_damage": 2.0,
+   "sp_hit": 0.1,
+   "resist": 0.1,
+   "skill_lv": 3,
+   "cst_star_and_lv": [
+    5,
+    45
+   ],
+   "agt_star_and_lv": [
+    4,
+    40
+   ]
+  },
+  "10104": {
+   "id": 10104,
+   "cst_id": 30251,
+   "agt_id": 54261,
+   "hp": 22000.0,
+   "attack": 800.0,
+   "defence": 900.0,
+   "speed": 160.0,
+   "crit": 0.1,
+   "crit_damage": 1.5,
+   "sp_hit": 0.5,
+   "resist": 0.1,
+   "skill_lv": 3,
+   "cst_star_and_lv": [
+    5,
+    45
+   ],
+   "agt_star_and_lv": [
+    4,
+    40
+   ]
+  },
+  "10105": {
+   "id": 10105,
+   "cst_id": 30301,
+   "agt_id": 54251,
+   "hp": 15000.0,
+   "attack": 2200.0,
+   "defence": 1000.0,
+   "speed": 135.0,
+   "crit": 0.5,
+   "crit_damage": 1.7,
+   "sp_hit": 0.5,
+   "resist": 0.1,
+   "skill_lv": 3,
+   "cst_star_and_lv": [
+    5,
+    45
+   ],
+   "agt_star_and_lv": [
+    4,
+    40
+   ]
+  },
+  "10106": {
+   "id": 10106,
+   "cst_id": 30751,
+   "agt_id": 54231,
+   "hp": 25000.0,
+   "attack": 1000.0,
+   "defence": 900.0,
+   "speed": 140.0,
+   "crit": 0.1,
+   "crit_damage": 1.5,
+   "sp_hit": 0.0,
+   "resist": 0.4,
+   "skill_lv": 3,
+   "cst_star_and_lv": [
+    5,
+    45
+   ],
+   "agt_star_and_lv": [
+    4,
+    40
+   ]
+  },
+  "10107": {
+   "id": 10107,
+   "cst_id": 40181,
+   "agt_id": 54161,
+   "hp": 22000.0,
+   "attack": 850.0,
+   "defence": 1100.0,
+   "speed": 165.0,
+   "crit": 0.1,
+   "crit_damage": 1.5,
+   "sp_hit": 0.0,
+   "resist": 0.5,
+   "skill_lv": 3,
+   "cst_star_and_lv": [
+    5,
+    45
+   ],
+   "agt_star_and_lv": [
+    4,
+    40
+   ]
+  },
+  "10108": {
+   "id": 10108,
+   "cst_id": 40186,
+   "agt_id": 54221,
+   "hp": 22000.0,
+   "attack": 1000.0,
+   "defence": 1100.0,
+   "speed": 195.0,
+   "crit": 0.1,
+   "crit_damage": 1.5,
+   "sp_hit": 0.0,
+   "resist": 0.2,
+   "skill_lv": 3,
+   "cst_star_and_lv": [
+    5,
+    45
+   ],
+   "agt_star_and_lv": [
+    4,
+    40
+   ]
+  },
+  "10109": {
+   "id": 10109,
+   "cst_id": 40331,
+   "agt_id": 54161,
+   "hp": 18000.0,
+   "attack": 1000.0,
+   "defence": 850.0,
+   "speed": 180.0,
+   "crit": 0.1,
+   "crit_damage": 1.5,
+   "sp_hit": 0.7,
+   "resist": 0.1,
+   "skill_lv": 3,
+   "cst_star_and_lv": [
+    5,
+    45
+   ],
+   "agt_star_and_lv": [
+    4,
+    40
+   ]
+  },
+  "10110": {
+   "id": 10110,
+   "cst_id": 40451,
+   "agt_id": 54181,
+   "hp": 17000.0,
+   "attack": 800.0,
+   "defence": 1700.0,
+   "speed": 160.0,
+   "crit": 0.1,
+   "crit_damage": 1.5,
+   "sp_hit": 0.5,
+   "resist": 0.1,
+   "skill_lv": 3,
+   "cst_star_and_lv": [
+    5,
+    45
+   ],
+   "agt_star_and_lv": [
+    4,
+    40
+   ]
+  },
+  "10111": {
+   "id": 10111,
+   "cst_id": 40491,
+   "agt_id": 54221,
+   "hp": 22000.0,
+   "attack": 800.0,
+   "defence": 900.0,
+   "speed": 160.0,
+   "crit": 0.1,
+   "crit_damage": 1.5,
+   "sp_hit": 0.0,
+   "resist": 0.3,
+   "skill_lv": 3,
+   "cst_star_and_lv": [
+    5,
+    45
+   ],
+   "agt_star_and_lv": [
+    4,
+    40
+   ]
+  },
+  "10112": {
+   "id": 10112,
+   "cst_id": 40631,
+   "agt_id": 54261,
+   "hp": 18000.0,
+   "attack": 1000.0,
+   "defence": 800.0,
+   "speed": 180.0,
+   "crit": 0.1,
+   "crit_damage": 1.5,
+   "sp_hit": 0.7,
+   "resist": 0.1,
+   "skill_lv": 3,
+   "cst_star_and_lv": [
+    5,
+    45
+   ],
+   "agt_star_and_lv": [
+    4,
+    40
+   ]
+  },
+  "10113": {
+   "id": 10113,
+   "cst_id": 40691,
+   "agt_id": 54161,
+   "hp": 25000.0,
+   "attack": 900.0,
+   "defence": 1000.0,
+   "speed": 150.0,
+   "crit": 0.1,
+   "crit_damage": 1.5,
+   "sp_hit": 0.0,
+   "resist": 0.2,
+   "skill_lv": 3,
+   "cst_star_and_lv": [
+    5,
+    45
+   ],
+   "agt_star_and_lv": [
+    4,
+    40
+   ]
+  },
+  "10114": {
+   "id": 10114,
+   "cst_id": 46121,
+   "agt_id": 54391,
+   "hp": 20000.0,
+   "attack": 1000.0,
+   "defence": 1150.0,
+   "speed": 155.0,
+   "crit": 0.1,
+   "crit_damage": 1.5,
+   "sp_hit": 0.4,
+   "resist": 0.1,
+   "skill_lv": 3,
+   "cst_star_and_lv": [
+    5,
+    45
+   ],
+   "agt_star_and_lv": [
+    4,
+    40
+   ]
+  },
+  "10115": {
+   "id": 10115,
+   "cst_id": 46161,
+   "agt_id": 54161,
+   "hp": 20000.0,
+   "attack": 1000.0,
+   "defence": 1300.0,
+   "speed": 195.0,
+   "crit": 0.1,
+   "crit_damage": 1.5,
+   "sp_hit": 0.5,
+   "resist": 0.3,
+   "skill_lv": 3,
+   "cst_star_and_lv": [
+    5,
+    45
+   ],
+   "agt_star_and_lv": [
+    4,
+    40
+   ]
+  },
+  "10116": {
+   "id": 10116,
+   "cst_id": 46241,
+   "agt_id": 54131,
+   "hp": 15000.0,
+   "attack": 2250.0,
+   "defence": 900.0,
+   "speed": 120.0,
+   "crit": 0.6,
+   "crit_damage": 2.0,
+   "sp_hit": 0.3,
+   "resist": 0.1,
+   "skill_lv": 3,
+   "cst_star_and_lv": [
+    5,
+    45
+   ],
+   "agt_star_and_lv": [
+    4,
+    40
+   ]
+  },
+  "10117": {
+   "id": 10117,
+   "cst_id": 46306,
+   "agt_id": 54161,
+   "hp": 18000.0,
+   "attack": 800.0,
+   "defence": 1100.0,
+   "speed": 165.0,
+   "crit": 0.1,
+   "crit_damage": 1.5,
+   "sp_hit": 0.8,
+   "resist": 0.2,
+   "skill_lv": 3,
+   "cst_star_and_lv": [
+    5,
+    45
+   ],
+   "agt_star_and_lv": [
+    4,
+    40
+   ]
+  },
+  "10118": {
+   "id": 10118,
+   "cst_id": 40421,
+   "agt_id": 54161,
+   "hp": 20000.0,
+   "attack": 1000.0,
+   "defence": 950.0,
+   "speed": 170.0,
+   "crit": 0.7,
+   "crit_damage": 1.5,
+   "sp_hit": 0.5,
+   "resist": 0.1,
+   "skill_lv": 3,
+   "cst_star_and_lv": [
+    5,
+    45
+   ],
+   "agt_star_and_lv": [
+    4,
+    40
+   ]
+  },
+  "10201": {
+   "id": 10201,
+   "cst_id": 30051,
+   "agt_id": 54241,
+   "hp": 15000.0,
+   "attack": 2250.0,
+   "defence": 1125.0,
+   "speed": 130.0,
+   "crit": 0.2,
+   "crit_damage": 1.8,
+   "sp_hit": 0.4,
+   "resist": 0.4,
+   "skill_lv": 2,
+   "cst_star_and_lv": [
+    5,
+    45
+   ],
+   "agt_star_and_lv": [
+    5,
+    40
+   ]
+  },
+  "10202": {
+   "id": 10202,
+   "cst_id": 30101,
+   "agt_id": 54241,
+   "hp": 15000.0,
+   "attack": 2250.0,
+   "defence": 1125.0,
+   "speed": 130.0,
+   "crit": 0.2,
+   "crit_damage": 1.8,
+   "sp_hit": 0.4,
+   "resist": 0.4,
+   "skill_lv": 2,
+   "cst_star_and_lv": [
+    5,
+    45
+   ],
+   "agt_star_and_lv": [
+    5,
+    40
+   ]
+  },
+  "10203": {
+   "id": 10203,
+   "cst_id": 30151,
+   "agt_id": 54241,
+   "hp": 15000.0,
+   "attack": 2250.0,
+   "defence": 1125.0,
+   "speed": 130.0,
+   "crit": 0.2,
+   "crit_damage": 1.8,
+   "sp_hit": 0.4,
+   "resist": 0.4,
+   "skill_lv": 2,
+   "cst_star_and_lv": [
+    5,
+    45
+   ],
+   "agt_star_and_lv": [
+    5,
+    40
+   ]
+  },
+  "10204": {
+   "id": 10204,
+   "cst_id": 30201,
+   "agt_id": 54241,
+   "hp": 15000.0,
+   "attack": 2250.0,
+   "defence": 1125.0,
+   "speed": 130.0,
+   "crit": 0.2,
+   "crit_damage": 1.8,
+   "sp_hit": 0.4,
+   "resist": 0.4,
+   "skill_lv": 2,
+   "cst_star_and_lv": [
+    5,
+    45
+   ],
+   "agt_star_and_lv": [
+    5,
+    40
+   ]
+  },
+  "10205": {
+   "id": 10205,
+   "cst_id": 30251,
+   "agt_id": 54241,
+   "hp": 15000.0,
+   "attack": 2250.0,
+   "defence": 1125.0,
+   "speed": 130.0,
+   "crit": 0.2,
+   "crit_damage": 1.8,
+   "sp_hit": 0.4,
+   "resist": 0.4,
+   "skill_lv": 2,
+   "cst_star_and_lv": [
+    5,
+    45
+   ],
+   "agt_star_and_lv": [
+    5,
+    40
+   ]
+  },
+  "10206": {
+   "id": 10206,
+   "cst_id": 30301,
+   "agt_id": 54241,
+   "hp": 15000.0,
+   "attack": 2250.0,
+   "defence": 1125.0,
+   "speed": 130.0,
+   "crit": 0.2,
+   "crit_damage": 1.8,
+   "sp_hit": 0.4,
+   "resist": 0.4,
+   "skill_lv": 2,
+   "cst_star_and_lv": [
+    5,
+    45
+   ],
+   "agt_star_and_lv": [
+    5,
+    40
+   ]
+  },
+  "10207": {
+   "id": 10207,
+   "cst_id": 30351,
+   "agt_id": 54241,
+   "hp": 15000.0,
+   "attack": 2250.0,
+   "defence": 1125.0,
+   "speed": 130.0,
+   "crit": 0.2,
+   "crit_damage": 1.8,
+   "sp_hit": 0.4,
+   "resist": 0.4,
+   "skill_lv": 2,
+   "cst_star_and_lv": [
+    5,
+    45
+   ],
+   "agt_star_and_lv": [
+    5,
+    40
+   ]
+  },
+  "10208": {
+   "id": 10208,
+   "cst_id": 30401,
+   "agt_id": 54241,
+   "hp": 15000.0,
+   "attack": 2250.0,
+   "defence": 1125.0,
+   "speed": 130.0,
+   "crit": 0.2,
+   "crit_damage": 1.8,
+   "sp_hit": 0.4,
+   "resist": 0.4,
+   "skill_lv": 2,
+   "cst_star_and_lv": [
+    5,
+    45
+   ],
+   "agt_star_and_lv": [
+    5,
+    40
+   ]
+  },
+  "10209": {
+   "id": 10209,
+   "cst_id": 30451,
+   "agt_id": 54241,
+   "hp": 15000.0,
+   "attack": 2250.0,
+   "defence": 1125.0,
+   "speed": 130.0,
+   "crit": 0.2,
+   "crit_damage": 1.8,
+   "sp_hit": 0.4,
+   "resist": 0.4,
+   "skill_lv": 2,
+   "cst_star_and_lv": [
+    5,
+    45
+   ],
+   "agt_star_and_lv": [
+    5,
+    40
+   ]
+  },
+  "10210": {
+   "id": 10210,
+   "cst_id": 30501,
+   "agt_id": 54241,
+   "hp": 15000.0,
+   "attack": 2250.0,
+   "defence": 1125.0,
+   "speed": 130.0,
+   "crit": 0.2,
+   "crit_damage": 1.8,
+   "sp_hit": 0.4,
+   "resist": 0.4,
+   "skill_lv": 2,
+   "cst_star_and_lv": [
+    5,
+    45
+   ],
+   "agt_star_and_lv": [
+    5,
+    40
+   ]
+  }
+ },
+ "text_chunk": null
+}

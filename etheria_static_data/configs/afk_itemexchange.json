@@ -1,0 +1,57 @@
+{
+ "config": "afk_itemexchange",
+ "fields": [
+  "id",
+  "gain_item",
+  "cost_id_list",
+  "cost_num_list",
+  "cost_limit_list",
+  "max",
+  "show_name"
+ ],
+ "rows": [
+  {
+   "id": 1,
+   "gain_item": {
+    "id": 21004,
+    "count": 1
+   },
+   "cost_id_list": [
+    10011
+   ],
+   "cost_num_list": [
+    [
+     100
+    ]
+   ],
+   "cost_limit_list": [
+    10
+   ],
+   "max": 10,
+   "show_name": "Basic Diskette Exchange",
+   "show_name_th": "Basic Diskette แลก"
+  },
+  {
+   "id": 2,
+   "gain_item": {
+    "id": 21005,
+    "count": 1
+   },
+   "cost_id_list": [
+    10011
+   ],
+   "cost_num_list": [
+    [
+     200
+    ]
+   ],
+   "cost_limit_list": [
+    5
+   ],
+   "max": 5,
+   "show_name": "Basic Diskette Exchange",
+   "show_name_th": "Basic Diskette แลก"
+  }
+ ],
+ "text_chunk": "00028_d5202de9c97be05f.json"
+}

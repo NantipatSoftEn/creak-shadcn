@@ -1,0 +1,241 @@
+{
+ "config": "agentstory_random",
+ "fields": [
+  "id",
+  "event",
+  "award"
+ ],
+ "rows": {
+  "1": {
+   "id": 1,
+   "event": 208,
+   "award": {
+    "id": 27302,
+    "count": 20
+   }
+  },
+  "2": {
+   "id": 2,
+   "event": 208,
+   "award": {
+    "id": 27302,
+    "count": 30
+   }
+  },
+  "3": {
+   "id": 3,
+   "event": 208,
+   "award": {
+    "id": 27302,
+    "count": 20
+   }
+  },
+  "4": {
+   "id": 4,
+   "event": 208,
+   "award": {
+    "id": 27302,
+    "count": 30
+   }
+  },
+  "5": {
+   "id": 5,
+   "event": 210,
+   "award": {
+    "id": 27302,
+    "count": 50
+   }
+  },
+  "6": {
+   "id": 6,
+   "event": 208,
+   "award": {
+    "id": 10011,
+    "count": 10
+   }
+  },
+  "7": {
+   "id": 7,
+   "event": 208,
+   "award": {
+    "id": 10011,
+    "count": 10
+   }
+  },
+  "8": {
+   "id": 8,
+   "event": 208,
+   "award": {
+    "id": 10011,
+    "count": 10
+   }
+  },
+  "9": {
+   "id": 9,
+   "event": 210,
+   "award": {
+    "id": 10202,
+    "count": 1
+   }
+  },
+  "10": {
+   "id": 10,
+   "event": 210,
+   "award": {
+    "id": 27300,
+    "count": 2
+   }
+  },
+  "11": {
+   "id": 11,
+   "event": 208,
+   "award": {
+    "id": 27301,
+    "count": 1
+   }
+  },
+  "12": {
+   "id": 12,
+   "event": 209,
+   "award": null
+  },
+  "13": {
+   "id": 13,
+   "event": 207,
+   "award": null
+  },
+  "101": {
+   "id": 101,
+   "event": 208,
+   "award": {
+    "id": 27302,
+    "count": 20
+   }
+  },
+  "102": {
+   "id": 102,
+   "event": 208,
+   "award": {
+    "id": 27302,
+    "count": 30
+   }
+  },
+  "103": {
+   "id": 103,
+   "event": 208,
+   "award": {
+    "id": 27302,
+    "count": 20
+   }
+  },
+  "104": {
+   "id": 104,
+   "event": 208,
+   "award": {
+    "id": 27302,
+    "count": 30
+   }
+  },
+  "105": {
+   "id": 105,
+   "event": 210,
+   "award": {
+    "id": 27302,
+    "count": 50
+   }
+  },
+  "106": {
+   "id": 106,
+   "event": 208,
+   "award": {
+    "id": 10011,
+    "count": 10
+   }
+  },
+  "107": {
+   "id": 107,
+   "event": 208,
+   "award": {
+    "id": 10011,
+    "count": 10
+   }
+  },
+  "108": {
+   "id": 108,
+   "event": 210,
+   "award": {
+    "id": 10011,
+    "count": 50
+   }
+  },
+  "109": {
+   "id": 109,
+   "event": 210,
+   "award": {
+    "id": 10011,
+    "count": 100
+   }
+  },
+  "110": {
+   "id": 110,
+   "event": 210,
+   "award": {
+    "id": 27300,
+    "count": 2
+   }
+  },
+  "111": {
+   "id": 111,
+   "event": 210,
+   "award": {
+    "id": 10202,
+    "count": 1
+   }
+  },
+  "112": {
+   "id": 112,
+   "event": 210,
+   "award": {
+    "id": 10207,
+    "count": 1
+   }
+  },
+  "113": {
+   "id": 113,
+   "event": 210,
+   "award": {
+    "id": 10179,
+    "count": 1
+   }
+  },
+  "114": {
+   "id": 114,
+   "event": 208,
+   "award": {
+    "id": 27301,
+    "count": 1
+   }
+  },
+  "115": {
+   "id": 115,
+   "event": 209,
+   "award": null
+  },
+  "116": {
+   "id": 116,
+   "event": 207,
+   "award": null
+  },
+  "117": {
+   "id": 117,
+   "event": 211,
+   "award": null
+  },
+  "118": {
+   "id": 118,
+   "event": 214,
+   "award": null
+  }
+ },
+ "text_chunk": null
+}

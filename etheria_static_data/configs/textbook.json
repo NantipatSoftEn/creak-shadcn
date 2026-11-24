@@ -1,0 +1,169 @@
+{
+ "config": "textbook",
+ "fields": [
+  "pkname",
+  "weight",
+  "text0",
+  "text1",
+  "text2"
+ ],
+ "rows": [
+  {
+   "pkname": "Default",
+   "weight": 1
+  },
+  {
+   "pkname": "Default",
+   "weight": 1
+  },
+  {
+   "pkname": "Default",
+   "weight": 1
+  },
+  {
+   "pkname": "Default",
+   "weight": 1
+  },
+  {
+   "pkname": "Default",
+   "weight": 1
+  },
+  {
+   "pkname": "Default",
+   "weight": 1
+  },
+  {
+   "pkname": "Default",
+   "weight": 1
+  },
+  {
+   "pkname": "Default",
+   "weight": 1
+  },
+  {
+   "pkname": "Default",
+   "weight": 1
+  },
+  {
+   "pkname": "Default",
+   "weight": 1
+  },
+  {
+   "pkname": "Default",
+   "weight": 1
+  },
+  {
+   "pkname": "Default",
+   "weight": 1
+  },
+  {
+   "pkname": "Default",
+   "weight": 1
+  },
+  {
+   "pkname": "Default",
+   "weight": 1
+  },
+  {
+   "pkname": "Default",
+   "weight": 1
+  },
+  {
+   "pkname": "Default",
+   "weight": 1
+  },
+  {
+   "pkname": "Default",
+   "weight": 1
+  },
+  {
+   "pkname": "Default",
+   "weight": 1
+  },
+  {
+   "pkname": "Default",
+   "weight": 1
+  },
+  {
+   "pkname": "Default",
+   "weight": 1
+  },
+  {
+   "pkname": "Default",
+   "weight": 1
+  },
+  {
+   "pkname": "Battle",
+   "weight": 1
+  },
+  {
+   "pkname": "Battle",
+   "weight": 1
+  },
+  {
+   "pkname": "Battle",
+   "weight": 1
+  },
+  {
+   "pkname": "Battle",
+   "weight": 1
+  },
+  {
+   "pkname": "Battle",
+   "weight": 1
+  },
+  {
+   "pkname": "Battle",
+   "weight": 1
+  },
+  {
+   "pkname": "Battle",
+   "weight": 1
+  },
+  {
+   "pkname": "Battle",
+   "weight": 1
+  },
+  {
+   "pkname": "Battle",
+   "weight": 1
+  },
+  {
+   "pkname": "Battle",
+   "weight": 1
+  },
+  {
+   "pkname": "Battle",
+   "weight": 1
+  },
+  {
+   "pkname": "Battle",
+   "weight": 1
+  },
+  {
+   "pkname": "Museum",
+   "weight": 1
+  },
+  {
+   "pkname": "Subway",
+   "weight": 1
+  },
+  {
+   "pkname": "Villa",
+   "weight": 1
+  },
+  {
+   "pkname": "Arena",
+   "weight": 1
+  },
+  {
+   "pkname": "Sewer",
+   "weight": 1
+  },
+  {
+   "pkname": "Hotel",
+   "weight": 1
+  }
+ ],
+ "text_chunk": null
+}

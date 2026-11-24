@@ -1,0 +1,1032 @@
+{
+ "config": "arenarealtime_stage",
+ "fields": [
+  "tier_id",
+  "stage_id",
+  "score_scope",
+  "win_award",
+  "fail_award",
+  "season_award",
+  "season_first_award",
+  "tier_eng_name",
+  "tier_name",
+  "stage_name"
+ ],
+ "rows": [
+  {
+   "tier_id": 1,
+   "stage_id": 1,
+   "score_scope": [
+    1000,
+    1099
+   ],
+   "win_award": [
+    {
+     "id": 10159,
+     "count": 200
+    }
+   ],
+   "fail_award": [
+    {
+     "id": 10159,
+     "count": 50
+    }
+   ],
+   "season_award": [
+    {
+     "id": 10011,
+     "count": 200
+    },
+    {
+     "id": 10159,
+     "count": 3200
+    }
+   ],
+   "season_first_award": [
+    {
+     "id": 10159,
+     "count": 200
+    },
+    {
+     "id": 10011,
+     "count": 100
+    }
+   ],
+   "tier_eng_name": "IRON",
+   "tier_name": "Iron I",
+   "tier_name_th": "Iron II",
+   "stage_name": "Iron",
+   "stage_name_th": "Iron"
+  },
+  {
+   "tier_id": 2,
+   "stage_id": 1,
+   "score_scope": [
+    1100,
+    1199
+   ],
+   "win_award": [
+    {
+     "id": 10159,
+     "count": 200
+    }
+   ],
+   "fail_award": [
+    {
+     "id": 10159,
+     "count": 50
+    }
+   ],
+   "season_award": [
+    {
+     "id": 10011,
+     "count": 250
+    },
+    {
+     "id": 10159,
+     "count": 3250
+    }
+   ],
+   "season_first_award": null,
+   "tier_eng_name": "IRON",
+   "tier_name": "Iron II",
+   "tier_name_th": "Iron II",
+   "stage_name": "Iron",
+   "stage_name_th": "Iron"
+  },
+  {
+   "tier_id": 3,
+   "stage_id": 1,
+   "score_scope": [
+    1200,
+    1299
+   ],
+   "win_award": [
+    {
+     "id": 10159,
+     "count": 200
+    }
+   ],
+   "fail_award": [
+    {
+     "id": 10159,
+     "count": 50
+    }
+   ],
+   "season_award": [
+    {
+     "id": 10011,
+     "count": 300
+    },
+    {
+     "id": 10159,
+     "count": 3300
+    }
+   ],
+   "season_first_award": null,
+   "tier_eng_name": "IRON",
+   "tier_name": "Iron III",
+   "tier_name_th": "Iron III",
+   "stage_name": "Iron",
+   "stage_name_th": "Iron"
+  },
+  {
+   "tier_id": 4,
+   "stage_id": 2,
+   "score_scope": [
+    1300,
+    1399
+   ],
+   "win_award": [
+    {
+     "id": 10159,
+     "count": 200
+    }
+   ],
+   "fail_award": [
+    {
+     "id": 10159,
+     "count": 50
+    }
+   ],
+   "season_award": [
+    {
+     "id": 10011,
+     "count": 350
+    },
+    {
+     "id": 10159,
+     "count": 3350
+    }
+   ],
+   "season_first_award": [
+    {
+     "id": 10159,
+     "count": 300
+    },
+    {
+     "id": 10202,
+     "count": 1
+    }
+   ],
+   "tier_eng_name": "BRONZE",
+   "tier_name": "Bronze I",
+   "tier_name_th": "Bronze I",
+   "stage_name": "Bronze",
+   "stage_name_th": "Bronze"
+  },
+  {
+   "tier_id": 5,
+   "stage_id": 2,
+   "score_scope": [
+    1400,
+    1499
+   ],
+   "win_award": [
+    {
+     "id": 10159,
+     "count": 200
+    }
+   ],
+   "fail_award": [
+    {
+     "id": 10159,
+     "count": 50
+    }
+   ],
+   "season_award": [
+    {
+     "id": 10011,
+     "count": 400
+    },
+    {
+     "id": 10159,
+     "count": 3400
+    }
+   ],
+   "season_first_award": null,
+   "tier_eng_name": "BRONZE",
+   "tier_name": "Bronze II",
+   "tier_name_th": "Bronze II",
+   "stage_name": "Bronze",
+   "stage_name_th": "Bronze"
+  },
+  {
+   "tier_id": 6,
+   "stage_id": 2,
+   "score_scope": [
+    1500,
+    1599
+   ],
+   "win_award": [
+    {
+     "id": 10159,
+     "count": 200
+    }
+   ],
+   "fail_award": [
+    {
+     "id": 10159,
+     "count": 50
+    }
+   ],
+   "season_award": [
+    {
+     "id": 10011,
+     "count": 450
+    },
+    {
+     "id": 10159,
+     "count": 3450
+    }
+   ],
+   "season_first_award": null,
+   "tier_eng_name": "BRONZE",
+   "tier_name": "Bronze III",
+   "tier_name_th": "Bronze III",
+   "stage_name": "Bronze",
+   "stage_name_th": "Bronze"
+  },
+  {
+   "tier_id": 7,
+   "stage_id": 3,
+   "score_scope": [
+    1600,
+    1699
+   ],
+   "win_award": [
+    {
+     "id": 10159,
+     "count": 200
+    }
+   ],
+   "fail_award": [
+    {
+     "id": 10159,
+     "count": 50
+    }
+   ],
+   "season_award": [
+    {
+     "id": 10011,
+     "count": 500
+    },
+    {
+     "id": 10159,
+     "count": 3500
+    }
+   ],
+   "season_first_award": [
+    {
+     "id": 10159,
+     "count": 400
+    },
+    {
+     "id": 10133,
+     "count": 1
+    }
+   ],
+   "tier_eng_name": "SILVER",
+   "tier_name": "Silver I",
+   "tier_name_th": "Silver I",
+   "stage_name": "Silver",
+   "stage_name_th": "Silver"
+  },
+  {
+   "tier_id": 8,
+   "stage_id": 3,
+   "score_scope": [
+    1700,
+    1799
+   ],
+   "win_award": [
+    {
+     "id": 10159,
+     "count": 200
+    }
+   ],
+   "fail_award": [
+    {
+     "id": 10159,
+     "count": 50
+    }
+   ],
+   "season_award": [
+    {
+     "id": 10011,
+     "count": 550
+    },
+    {
+     "id": 10159,
+     "count": 3550
+    }
+   ],
+   "season_first_award": null,
+   "tier_eng_name": "SILVER",
+   "tier_name": "Silver II",
+   "tier_name_th": "Silver II",
+   "stage_name": "Silver",
+   "stage_name_th": "Silver"
+  },
+  {
+   "tier_id": 9,
+   "stage_id": 3,
+   "score_scope": [
+    1800,
+    1899
+   ],
+   "win_award": [
+    {
+     "id": 10159,
+     "count": 200
+    }
+   ],
+   "fail_award": [
+    {
+     "id": 10159,
+     "count": 50
+    }
+   ],
+   "season_award": [
+    {
+     "id": 10011,
+     "count": 600
+    },
+    {
+     "id": 10159,
+     "count": 3600
+    }
+   ],
+   "season_first_award": null,
+   "tier_eng_name": "SILVER",
+   "tier_name": "Silver III",
+   "tier_name_th": "Silver III",
+   "stage_name": "Silver",
+   "stage_name_th": "Silver"
+  },
+  {
+   "tier_id": 10,
+   "stage_id": 4,
+   "score_scope": [
+    1900,
+    1999
+   ],
+   "win_award": [
+    {
+     "id": 10159,
+     "count": 200
+    }
+   ],
+   "fail_award": [
+    {
+     "id": 10159,
+     "count": 50
+    }
+   ],
+   "season_award": [
+    {
+     "id": 10011,
+     "count": 650
+    },
+    {
+     "id": 10159,
+     "count": 3650
+    }
+   ],
+   "season_first_award": [
+    {
+     "id": 10159,
+     "count": 600
+    },
+    {
+     "id": 10207,
+     "count": 1
+    }
+   ],
+   "tier_eng_name": "GOLD",
+   "tier_name": "Gold I",
+   "tier_name_th": "Gold I",
+   "stage_name": "Gold",
+   "stage_name_th": "Gold"
+  },
+  {
+   "tier_id": 11,
+   "stage_id": 4,
+   "score_scope": [
+    2000,
+    2099
+   ],
+   "win_award": [
+    {
+     "id": 10159,
+     "count": 200
+    }
+   ],
+   "fail_award": [
+    {
+     "id": 10159,
+     "count": 50
+    }
+   ],
+   "season_award": [
+    {
+     "id": 10011,
+     "count": 700
+    },
+    {
+     "id": 10159,
+     "count": 3700
+    }
+   ],
+   "season_first_award": null,
+   "tier_eng_name": "GOLD",
+   "tier_name": "Gold II",
+   "tier_name_th": "Gold II",
+   "stage_name": "Gold",
+   "stage_name_th": "Gold"
+  },
+  {
+   "tier_id": 12,
+   "stage_id": 4,
+   "score_scope": [
+    2100,
+    2199
+   ],
+   "win_award": [
+    {
+     "id": 10159,
+     "count": 200
+    }
+   ],
+   "fail_award": [
+    {
+     "id": 10159,
+     "count": 50
+    }
+   ],
+   "season_award": [
+    {
+     "id": 10011,
+     "count": 750
+    },
+    {
+     "id": 10159,
+     "count": 3750
+    }
+   ],
+   "season_first_award": null,
+   "tier_eng_name": "GOLD",
+   "tier_name": "Gold III",
+   "tier_name_th": "Gold III",
+   "stage_name": "Gold",
+   "stage_name_th": "Gold"
+  },
+  {
+   "tier_id": 13,
+   "stage_id": 5,
+   "score_scope": [
+    2200,
+    2299
+   ],
+   "win_award": [
+    {
+     "id": 10159,
+     "count": 200
+    }
+   ],
+   "fail_award": [
+    {
+     "id": 10159,
+     "count": 50
+    }
+   ],
+   "season_award": [
+    {
+     "id": 10011,
+     "count": 800
+    },
+    {
+     "id": 10159,
+     "count": 3800
+    },
+    {
+     "id": 63005,
+     "count": 1
+    }
+   ],
+   "season_first_award": [
+    {
+     "id": 10159,
+     "count": 800
+    },
+    {
+     "id": 10011,
+     "count": 300
+    }
+   ],
+   "tier_eng_name": "PLATINUM",
+   "tier_name": "Platinum I",
+   "tier_name_th": "Platinum I",
+   "stage_name": "Platinum",
+   "stage_name_th": "Platinum"
+  },
+  {
+   "tier_id": 14,
+   "stage_id": 5,
+   "score_scope": [
+    2300,
+    2399
+   ],
+   "win_award": [
+    {
+     "id": 10159,
+     "count": 200
+    }
+   ],
+   "fail_award": [
+    {
+     "id": 10159,
+     "count": 50
+    }
+   ],
+   "season_award": [
+    {
+     "id": 10011,
+     "count": 850
+    },
+    {
+     "id": 10159,
+     "count": 3850
+    },
+    {
+     "id": 63005,
+     "count": 1
+    }
+   ],
+   "season_first_award": null,
+   "tier_eng_name": "PLATINUM",
+   "tier_name": "Platinum II",
+   "tier_name_th": "Platinum II",
+   "stage_name": "Platinum",
+   "stage_name_th": "Platinum"
+  },
+  {
+   "tier_id": 15,
+   "stage_id": 5,
+   "score_scope": [
+    2400,
+    2499
+   ],
+   "win_award": [
+    {
+     "id": 10159,
+     "count": 200
+    }
+   ],
+   "fail_award": [
+    {
+     "id": 10159,
+     "count": 50
+    }
+   ],
+   "season_award": [
+    {
+     "id": 10011,
+     "count": 900
+    },
+    {
+     "id": 10159,
+     "count": 3900
+    },
+    {
+     "id": 63005,
+     "count": 1
+    }
+   ],
+   "season_first_award": null,
+   "tier_eng_name": "PLATINUM",
+   "tier_name": "Platinum III",
+   "tier_name_th": "Platinum III",
+   "stage_name": "Platinum",
+   "stage_name_th": "Platinum"
+  },
+  {
+   "tier_id": 16,
+   "stage_id": 6,
+   "score_scope": [
+    2500,
+    2599
+   ],
+   "win_award": [
+    {
+     "id": 10159,
+     "count": 200
+    }
+   ],
+   "fail_award": [
+    {
+     "id": 10159,
+     "count": 50
+    }
+   ],
+   "season_award": [
+    {
+     "id": 10011,
+     "count": 1000
+    },
+    {
+     "id": 10159,
+     "count": 4000
+    },
+    {
+     "id": 63005,
+     "count": 1
+    }
+   ],
+   "season_first_award": [
+    {
+     "id": 10159,
+     "count": 1000
+    },
+    {
+     "id": 10116,
+     "count": 1
+    }
+   ],
+   "tier_eng_name": "DIAMOND",
+   "tier_name": "Diamond I",
+   "tier_name_th": "Diamond I",
+   "stage_name": "Diamond",
+   "stage_name_th": "Diamond"
+  },
+  {
+   "tier_id": 17,
+   "stage_id": 6,
+   "score_scope": [
+    2600,
+    2699
+   ],
+   "win_award": [
+    {
+     "id": 10159,
+     "count": 200
+    }
+   ],
+   "fail_award": [
+    {
+     "id": 10159,
+     "count": 50
+    }
+   ],
+   "season_award": [
+    {
+     "id": 10011,
+     "count": 1100
+    },
+    {
+     "id": 10159,
+     "count": 4100
+    },
+    {
+     "id": 63005,
+     "count": 1
+    }
+   ],
+   "season_first_award": null,
+   "tier_eng_name": "DIAMOND",
+   "tier_name": "Diamond II",
+   "tier_name_th": "Diamond II",
+   "stage_name": "Diamond",
+   "stage_name_th": "Diamond"
+  },
+  {
+   "tier_id": 18,
+   "stage_id": 6,
+   "score_scope": [
+    2700,
+    2799
+   ],
+   "win_award": [
+    {
+     "id": 10159,
+     "count": 200
+    }
+   ],
+   "fail_award": [
+    {
+     "id": 10159,
+     "count": 50
+    }
+   ],
+   "season_award": [
+    {
+     "id": 10011,
+     "count": 1200
+    },
+    {
+     "id": 10159,
+     "count": 4200
+    },
+    {
+     "id": 63005,
+     "count": 1
+    }
+   ],
+   "season_first_award": null,
+   "tier_eng_name": "DIAMOND",
+   "tier_name": "Diamond III",
+   "tier_name_th": "Diamond III",
+   "stage_name": "Diamond",
+   "stage_name_th": "Diamond"
+  },
+  {
+   "tier_id": 19,
+   "stage_id": 7,
+   "score_scope": [
+    2800,
+    2899
+   ],
+   "win_award": [
+    {
+     "id": 10159,
+     "count": 200
+    }
+   ],
+   "fail_award": [
+    {
+     "id": 10159,
+     "count": 50
+    }
+   ],
+   "season_award": [
+    {
+     "id": 10011,
+     "count": 1400
+    },
+    {
+     "id": 10159,
+     "count": 4300
+    },
+    {
+     "id": 63005,
+     "count": 1
+    }
+   ],
+   "season_first_award": [
+    {
+     "id": 10159,
+     "count": 1250
+    },
+    {
+     "id": 10134,
+     "count": 1
+    }
+   ],
+   "tier_eng_name": "MASTER",
+   "tier_name": "Master I",
+   "tier_name_th": "Master I",
+   "stage_name": "Master",
+   "stage_name_th": "Master"
+  },
+  {
+   "tier_id": 20,
+   "stage_id": 7,
+   "score_scope": [
+    2900,
+    2999
+   ],
+   "win_award": [
+    {
+     "id": 10159,
+     "count": 200
+    }
+   ],
+   "fail_award": [
+    {
+     "id": 10159,
+     "count": 50
+    }
+   ],
+   "season_award": [
+    {
+     "id": 10011,
+     "count": 1600
+    },
+    {
+     "id": 10159,
+     "count": 4400
+    },
+    {
+     "id": 63005,
+     "count": 1
+    }
+   ],
+   "season_first_award": null,
+   "tier_eng_name": "MASTER",
+   "tier_name": "Master II",
+   "tier_name_th": "Master II",
+   "stage_name": "Master",
+   "stage_name_th": "Master"
+  },
+  {
+   "tier_id": 21,
+   "stage_id": 7,
+   "score_scope": [
+    3000,
+    3099
+   ],
+   "win_award": [
+    {
+     "id": 10159,
+     "count": 200
+    }
+   ],
+   "fail_award": [
+    {
+     "id": 10159,
+     "count": 50
+    }
+   ],
+   "season_award": [
+    {
+     "id": 10011,
+     "count": 1800
+    },
+    {
+     "id": 10159,
+     "count": 4500
+    },
+    {
+     "id": 63005,
+     "count": 1
+    }
+   ],
+   "season_first_award": null,
+   "tier_eng_name": "MASTER",
+   "tier_name": "Master III",
+   "tier_name_th": "Master III",
+   "stage_name": "Master",
+   "stage_name_th": "Master"
+  },
+  {
+   "tier_id": 22,
+   "stage_id": 8,
+   "score_scope": [
+    3100,
+    3499
+   ],
+   "win_award": [
+    {
+     "id": 10159,
+     "count": 200
+    }
+   ],
+   "fail_award": [
+    {
+     "id": 10159,
+     "count": 50
+    }
+   ],
+   "season_award": [
+    {
+     "id": 10011,
+     "count": 2000
+    },
+    {
+     "id": 10159,
+     "count": 5000
+    },
+    {
+     "id": 14219,
+     "count": 1
+    },
+    {
+     "id": 63005,
+     "count": 1
+    }
+   ],
+   "season_first_award": [
+    {
+     "id": 10159,
+     "count": 1500
+    },
+    {
+     "id": 10117,
+     "count": 1
+    }
+   ],
+   "tier_eng_name": "CHAMPION",
+   "tier_name": "Mythic I",
+   "tier_name_th": "Mythic I",
+   "stage_name": "Mythic",
+   "stage_name_th": "Mythic"
+  },
+  {
+   "tier_id": 23,
+   "stage_id": 8,
+   "score_scope": [
+    3500,
+    3999
+   ],
+   "win_award": [
+    {
+     "id": 10159,
+     "count": 200
+    }
+   ],
+   "fail_award": [
+    {
+     "id": 10159,
+     "count": 50
+    }
+   ],
+   "season_award": [
+    {
+     "id": 10011,
+     "count": 2000
+    },
+    {
+     "id": 10159,
+     "count": 5000
+    },
+    {
+     "id": 14219,
+     "count": 1
+    },
+    {
+     "id": 63005,
+     "count": 1
+    }
+   ],
+   "season_first_award": [
+    {
+     "id": 10159,
+     "count": 1500
+    },
+    {
+     "id": 10117,
+     "count": 1
+    }
+   ],
+   "tier_eng_name": "CHAMPION",
+   "tier_name": "Mythic II",
+   "tier_name_th": "Mythic II",
+   "stage_name": "Mythic",
+   "stage_name_th": "Mythic"
+  },
+  {
+   "tier_id": 24,
+   "stage_id": 8,
+   "score_scope": [
+    4000,
+    9999
+   ],
+   "win_award": [
+    {
+     "id": 10159,
+     "count": 200
+    }
+   ],
+   "fail_award": [
+    {
+     "id": 10159,
+     "count": 50
+    }
+   ],
+   "season_award": [
+    {
+     "id": 10011,
+     "count": 2000
+    },
+    {
+     "id": 10159,
+     "count": 5000
+    },
+    {
+     "id": 14219,
+     "count": 1
+    },
+    {
+     "id": 63005,
+     "count": 1
+    }
+   ],
+   "season_first_award": [
+    {
+     "id": 10159,
+     "count": 1500
+    },
+    {
+     "id": 10117,
+     "count": 1
+    }
+   ],
+   "tier_eng_name": "CHAMPION",
+   "tier_name": "Mythic III",
+   "tier_name_th": "Mythic III",
+   "stage_name": "Mythic",
+   "stage_name_th": "Mythic"
+  }
+ ],
+ "text_chunk": "00037_1ab4ac7118f5a790.json"
+}

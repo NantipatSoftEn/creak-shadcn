@@ -1,0 +1,24 @@
+{
+ "config": "bulletin",
+ "fields": [
+  "id",
+  "asset_name",
+  "start_time",
+  "duration_time",
+  "title",
+  "content"
+ ],
+ "rows": [
+  {
+   "id": 1,
+   "asset_name": "Temp",
+   "start_time": "2022-04-15",
+   "duration_time": 100,
+   "title": "Server Launch Notification",
+   "title_th": "แจ้งเตือนการเปิดเซิร์ฟเวอร์",
+   "content": "Welcome",
+   "content_th": "ยินดีต้อนรับ"
+  }
+ ],
+ "text_chunk": "00051_1c3f4842dda4fd3b.json"
+}

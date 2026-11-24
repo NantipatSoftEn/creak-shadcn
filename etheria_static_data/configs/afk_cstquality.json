@@ -1,0 +1,88 @@
+{
+ "config": "afk_cstquality",
+ "fields": [
+  "color",
+  "recycle_item_list",
+  "name"
+ ],
+ "rows": [
+  {
+   "color": 1,
+   "recycle_item_list": [
+    {
+     "id": 21009,
+     "count": 10
+    }
+   ],
+   "name": "Green",
+   "name_th": "สีเขียว"
+  },
+  {
+   "color": 2,
+   "recycle_item_list": [
+    {
+     "id": 21009,
+     "count": 30
+    }
+   ],
+   "name": "Blue",
+   "name_th": "สีฟ้า"
+  },
+  {
+   "color": 3,
+   "recycle_item_list": [
+    {
+     "id": 21009,
+     "count": 90
+    }
+   ],
+   "name": "Purple",
+   "name_th": "สีม่วง"
+  },
+  {
+   "color": 4,
+   "recycle_item_list": [
+    {
+     "id": 21009,
+     "count": 270
+    }
+   ],
+   "name": "Orange",
+   "name_th": "สีส้ม"
+  },
+  {
+   "color": 5,
+   "recycle_item_list": [
+    {
+     "id": 21009,
+     "count": 810
+    }
+   ],
+   "name": "Pink",
+   "name_th": "สีชมพู"
+  },
+  {
+   "color": 6,
+   "recycle_item_list": [
+    {
+     "id": 21009,
+     "count": 2430
+    }
+   ],
+   "name": "Red",
+   "name_th": "สีแดง"
+  },
+  {
+   "color": 7,
+   "recycle_item_list": [
+    {
+     "id": 21009,
+     "count": 7290
+    }
+   ],
+   "name": "Red Chromatic",
+   "name_th": "สีแดงหลากสี"
+  }
+ ],
+ "text_chunk": "00020_82c075fa1e2061c7.json"
+}

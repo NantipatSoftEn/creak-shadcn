@@ -1,0 +1,336 @@
+{
+ "config": "chat_message",
+ "fields": [
+  "id",
+  "bubble_style",
+  "b_show_head",
+  "log_icon",
+  "text_content",
+  "log_type_str"
+ ],
+ "rows": {
+  "1": {
+   "id": 1,
+   "bubble_style": "Guild",
+   "b_show_head": true,
+   "log_icon": "T_UI_Guild__Log_Icon_Join",
+   "text_content": "Welcome, <Orange>%s</>!",
+   "text_content_th": "ยินดีต้อนรับ <Orange>%s</>!",
+   "log_type_str": "Join",
+   "log_type_str_th": "เข้าร่วม"
+  },
+  "2": {
+   "id": 2,
+   "bubble_style": "Guild",
+   "b_show_head": true,
+   "log_icon": "T_UI_Guild__Log_Icon_Out",
+   "text_content": "<Orange>%s</> has been removed from the <Orange>%s</> Union.",
+   "text_content_th": "<Orange>%s</> ถูกลบออกจากสหพันธ์ <Orange>%s</> แล้ว",
+   "log_type_str": "Exit",
+   "log_type_str_th": "ออก"
+  },
+  "3": {
+   "id": 3,
+   "bubble_style": "Guild",
+   "b_show_head": true,
+   "log_icon": "T_UI_Guild__Log_Icon_Iinform",
+   "text_content": "Through the efforts of all Union Members, <Yellow>%s</> has been defeated.",
+   "text_content_th": "ความพยายามของสมาชิกสหพันธ์ทุกคนทำให้ <Yellow>%s</> พ่ายแพ้",
+   "log_type_str": "Notification",
+   "log_type_str_th": "แจ้งเตือน"
+  },
+  "4": {
+   "id": 4,
+   "bubble_style": "Guild",
+   "b_show_head": true,
+   "log_icon": "T_UI_Guild__Log_Icon_Iinform",
+   "text_content": "<Orange>%s</> has transferred the leadership of the Union to <Orange>%s</>.",
+   "text_content_th": "<Orange>%s</> โอนย้ายสิทธิ์หัวหน้าสหพันธ์ให้กับ <Orange>%s</> แล้ว",
+   "log_type_str": "Notification",
+   "log_type_str_th": "แจ้งเตือน"
+  },
+  "5": {
+   "id": 5,
+   "bubble_style": "Guild",
+   "b_show_head": true,
+   "log_icon": "T_UI_Guild__Log_Icon_Iinform",
+   "text_content": "<Orange>%s</> has become the Vice President of the Union.",
+   "text_content_th": "<Orange>%s</> กลายเป็นรองประธานของสหพันธ์แล้ว",
+   "log_type_str": "Notification",
+   "log_type_str_th": "แจ้งเตือน"
+  },
+  "6": {
+   "id": 6,
+   "bubble_style": "Guild",
+   "b_show_head": true,
+   "log_icon": "T_UI_Guild__Log_Icon_Iinform",
+   "text_content": "<Orange>%s</> modified the Union Notification.",
+   "text_content_th": "<Orange>%s</> แก้ไขการแจ้งเตือนของสหพันธ์แล้ว",
+   "log_type_str": "Notification",
+   "log_type_str_th": "แจ้งเตือน"
+  },
+  "7": {
+   "id": 7,
+   "bubble_style": "Guild",
+   "b_show_head": true,
+   "log_icon": "T_UI_Guild__Log_Icon_Iinform",
+   "text_content": "<Orange>%s</> has initiated the dissolution of the Union, and the Union is now in a frozen state.",
+   "text_content_th": "<Orange>%s</> เริ่มการยุบสหพันธ์แล้ว\nขณะนี้สหพันธ์อยู่ในสถานะหยุดดำเนินการ",
+   "log_type_str": "Notification",
+   "log_type_str_th": "แจ้งเตือน"
+  },
+  "8": {
+   "id": 8,
+   "bubble_style": "Guild",
+   "b_show_head": true,
+   "log_icon": "T_UI_Guild__Log_Icon_Iinform",
+   "text_content": "Through the efforts of all Union Members, <Orange>%s</> has been upgraded to Lv.<Orange>%s</>.",
+   "text_content_th": "ความพยายามของสมาชิกสหพันธ์ทุกคนทำให้ <Orange>%s</> ได้รับการอัปเกรดสู่ Lv.<Orange>%s</>",
+   "log_type_str": "Notification",
+   "log_type_str_th": "แจ้งเตือน"
+  },
+  "9": {
+   "id": 9,
+   "bubble_style": "System",
+   "b_show_head": false,
+   "log_icon": "",
+   "text_content": "<a color=\"#000000\">[United Front] You have registered for this week's United Front.</>",
+   "text_content_th": "<a color=\"#000000\">[แนวร่วม] คุณได้ลงทะเบียนแนวร่วมของสัปดาห์นี้แล้ว</>"
+  },
+  "10": {
+   "id": 10,
+   "bubble_style": "System",
+   "b_show_head": false,
+   "log_icon": "",
+   "text_content": "<a color=\"#000000\">[United Front] match found. Union members, please proceed to layout.</>",
+   "text_content_th": "<a color=\"#000000\">[แนวร่วม] พบการจับคู่แล้ว สมาชิกสหพันธ์โปรดทำการจัดวาง</>"
+  },
+  "11": {
+   "id": 11,
+   "bubble_style": "System",
+   "b_show_head": false,
+   "log_icon": "",
+   "text_content": "<a color=\"#000000\">[United Front] battle begins. Union members, please proceed to challenge.</>",
+   "text_content_th": "<a color=\"#000000\">[แนวร่วม] พบการจับคู่แล้ว สมาชิกสหพันธ์โปรดทำการท้าทาย</>"
+  },
+  "12": {
+   "id": 12,
+   "bubble_style": "System",
+   "b_show_head": false,
+   "log_icon": "",
+   "text_content": "<a color=\"#000000\">[United Front] </><a color=\"#2495D0\">Ally {1}</><a color=\"#000000\"> has been defeated by Union </><a color=\"#B53800\">{2}</><a color=\"#000000\">.</>",
+   "text_content_th": "<a color=\"#000000\">[แนวร่วม] </><a color=\"#2495D0\">พันธมิตร {1}</><a color=\"#000000\"> ถูกสหพันธ์</><a color=\"#B53800\">{2}</><a color=\"#000000\">บุกรุก</>"
+  },
+  "13": {
+   "id": 13,
+   "bubble_style": "System",
+   "b_show_head": false,
+   "log_icon": "",
+   "text_content": "<a color=\"#000000\">[United Front] </><a color=\"#B53800\">{1} - {2}</><a color=\"#000000\"> has been defeated by </><a color=\"#2495D0\">our team</><a color=\"#000000\">.</>",
+   "text_content_th": "<a color=\"#000000\">[แนวร่วม] </><a color=\"#B53800\">{1} - {2}</><a color=\"#000000\"> ถูก</><a color=\"#2495D0\">ทีมของเรา</><a color=\"#000000\">บุกรุก</>"
+  },
+  "14": {
+   "id": 14,
+   "bubble_style": "System",
+   "b_show_head": false,
+   "log_icon": "",
+   "text_content": "<a color=\"#000000\">[United Front] </><a color=\"#B53800\">{1} - {2}</><a color=\"#000000\"> has been defeated by </><a color=\"#2495D0\">our team</><a color=\"#000000\">. Proceed to claim breach rewards.</>",
+   "text_content_th": "<a color=\"#000000\">[แนวร่วม] </><a color=\"#B53800\">{1} - {2}</><a color=\"#000000\"> ถูก</><a color=\"#2495D0\">ทีมของเรา</><a color=\"#000000\">บุกรุก</> ดำเนินการต่อเพื่อรับรางวัลการบุกรุก</>"
+  },
+  "15": {
+   "id": 15,
+   "bubble_style": "System",
+   "b_show_head": false,
+   "log_icon": "",
+   "text_content": "<a color=\"#000000\">[United Front] </><a color=\"#2495D0\">{1}</><a color=\"#000000\"> achieved a winning streak! Pentakill against Union </><a color=\"#B53800\">{2}</><a color=\"#000000\"> defense lineup.</>",
+   "text_content_th": "<a color=\"#000000\">[แนวร่วม] </><a color=\"#2495D0\">{1}</><a color=\"#000000\"> ได้ชนะติดต่อกันหลายครั้ง! Pentakill ปะทะสหพันธ์ </><a color=\"#B53800\">{2}</><a color=\"#000000\"> แนวป้องกัน</>"
+  },
+  "16": {
+   "id": 16,
+   "bubble_style": "System",
+   "b_show_head": false,
+   "log_icon": "",
+   "text_content": "<a color=\"#000000\">[United Front] </><a color=\"#2495D0\">{1}</><a color=\"#000000\"> stood firm as iron! Pentakill against Union </><a color=\"#B53800\">{2}</><a color=\"#000000\"> attack lineup.</>",
+   "text_content_th": "<a color=\"#000000\">[แนวร่วม] </><a color=\"#2495D0\">{1}</><a color=\"#000000\"> ยืนหยัดมั่นคงดั่งเหล็ก! Pentakill ปะทะสหพันธ์ </><a color=\"#B53800\">{2}</><a color=\"#000000\"> แนวโจมตี</>"
+  },
+  "17": {
+   "id": 17,
+   "bubble_style": "System",
+   "b_show_head": false,
+   "log_icon": "",
+   "text_content": "<a color=\"#000000\">The United Front has ended for this week. Thank you for your contributions! Please proceed to the frontline to claim your rewards.</>",
+   "text_content_th": "<a color=\"#000000\">แนวร่วมจบลงแล้วสำหรับสัปดาห์นี้ ขอบคุณสำหรับการสนับสนุนของคุณ! โปรดไปยังแนวหน้าเพื่อรับรางวัลของคุณ</>"
+  },
+  "18": {
+   "id": 18,
+   "bubble_style": "Guild",
+   "b_show_head": true,
+   "log_icon": "T_UI_Guild__Log_Icon_Signin",
+   "text_content": "<Orange>%s</> checked in.",
+   "text_content_th": "<Orange>%s</> เช็กอินแล้ว",
+   "log_type_str": "Check In",
+   "log_type_str_th": "เช็กอิน"
+  },
+  "19": {
+   "id": 19,
+   "bubble_style": "Guild",
+   "b_show_head": true,
+   "log_icon": "T_UI_Guild__Log_Icon_Quit",
+   "text_content": "<Orange>%s</> left the Union.",
+   "text_content_th": "<Orange>%s</> ออกจากสหพันธ์แล้ว",
+   "log_type_str": "Exit",
+   "log_type_str_th": "ออก"
+  },
+  "1001": {
+   "id": 1001,
+   "bubble_style": "Share_BattleReport",
+   "b_show_head": true,
+   "log_icon": "",
+   "text_content": "<Share_Report>[Etherena Battle Report]</>",
+   "text_content_th": "<Share_Report>[รายงานผลการต่อสู้อีเทอรีน่า]</>"
+  },
+  "1002": {
+   "id": 1002,
+   "bubble_style": "Share_Cst",
+   "b_show_head": true,
+   "log_icon": "",
+   "text_content": "<{1}>[</><{1}_Link>{2}</><{1}>]</>",
+   "text_content_th": "<{1}>[</><{1}_Link>{2}</><{1}>]</>"
+  },
+  "1003": {
+   "id": 1003,
+   "bubble_style": "Share_Agt",
+   "b_show_head": true,
+   "log_icon": "",
+   "text_content": "<{1}>[</><{1}_Link>{2}</><{1}>]</>",
+   "text_content_th": "<{1}>[</><{1}_Link>{2}</><{1}>]</>"
+  },
+  "1004": {
+   "id": 1004,
+   "bubble_style": "Share_Chip",
+   "b_show_head": true,
+   "log_icon": "",
+   "text_content": "<{1}>[</><{1}_Link>{2}</><{1}>]</>",
+   "text_content_th": "<{1}>[</><{1}_Link>{2}</><{1}>]</>"
+  },
+  "1005": {
+   "id": 1005,
+   "bubble_style": "Share_Poker",
+   "b_show_head": true,
+   "log_icon": "",
+   "text_content": "<Share_Poker>[Animus Meme Wish]</>",
+   "text_content_th": "<Share_Poker>[มีมปรารถนา Animus]</>"
+  },
+  "1006": {
+   "id": 1006,
+   "bubble_style": "Share_Room",
+   "b_show_head": true,
+   "log_icon": "",
+   "text_content": "<Share_Room>[{1} Invitate]</>",
+   "text_content_th": "<Share_Room>[คำเชิญเข้าร่วม{1}]</>"
+  },
+  "1007": {
+   "id": 1007,
+   "bubble_style": "Share_BattleReport",
+   "b_show_head": true,
+   "log_icon": "",
+   "text_content": "<Share_Report>[Summit Arena Battle Report Sharing]</>",
+   "text_content_th": "<Share_Report>[การแชร์รายงานผลการต่อสู้ในสุดยอดอารีน่า]</>"
+  },
+  "1008": {
+   "id": 1008,
+   "bubble_style": "Share_BattleReport",
+   "b_show_head": true,
+   "log_icon": "",
+   "text_content": "<Share_Report>[Fearless Arena Report Sharing]</>",
+   "text_content_th": "<Share_Report>[แชร์รายงานอารีน่าห้าวหาญ]</>"
+  },
+  "1009": {
+   "id": 1009,
+   "bubble_style": "Share_Maze",
+   "b_show_head": true,
+   "log_icon": "",
+   "text_content": "<Share_Maze>[Dream Maze Score Sharing]</>",
+   "text_content_th": "<Share_Maze>[การแชร์คะแนน Dream Maze]</>"
+  },
+  "1010": {
+   "id": 1010,
+   "bubble_style": "Share_RTA_Live",
+   "b_show_head": true,
+   "log_icon": "",
+   "text_content": "<Share_Room>[Summit Arena Livestream Share]</>",
+   "text_content_th": "<Share_Room>[แบ่งปันไลฟ์สดสุดยอดอารีน่า]</>"
+  },
+  "1011": {
+   "id": 1011,
+   "bubble_style": "Share_RTA_ExcitingReport",
+   "b_show_head": true,
+   "log_icon": "",
+   "text_content": "<Share_Report>[Summit Arena Highlights]</>",
+   "text_content_th": "<Share_Report>[ไฮไลต์สุดยอดอารีน่า]</>"
+  },
+  "1012": {
+   "id": 1012,
+   "bubble_style": "Share_BattleReport",
+   "b_show_head": true,
+   "log_icon": "",
+   "text_content": "<Share_Report>[Hyper Arena Highlights]</>",
+   "text_content_th": "<Share_Report>[การแชร์รายงานผลการต่อสู้ใน Hyper Arena]</>"
+  },
+  "1013": {
+   "id": 1013,
+   "bubble_style": "Share_CstStrategy",
+   "b_show_head": true,
+   "log_icon": "",
+   "text_content": "<Share_Report>[Strategies]</>",
+   "text_content_th": "<Share_Report>[แชร์กลยุทธ์]</>"
+  },
+  "1014": {
+   "id": 1014,
+   "bubble_style": "Share_Guild_Display",
+   "b_show_head": true,
+   "log_icon": "",
+   "text_content": "<Share_Report>[Union Share]</>",
+   "text_content_th": "<Share_Report>[แชร์สหพันธ์]</>"
+  },
+  "1015": {
+   "id": 1015,
+   "bubble_style": "Share_BattleReport",
+   "b_show_head": true,
+   "log_icon": "",
+   "text_content": "<Share_Report>[HYPA Season Battle Report Share]</>",
+   "text_content_th": "<Share_Report>[ไฮไลต์ HYPA Season]</>"
+  },
+  "1016": {
+   "id": 1016,
+   "bubble_style": "Share_TicketRaffle",
+   "b_show_head": true,
+   "log_icon": "",
+   "text_content": "<Share_TicketRaffle>[Chrysus Codex]</>",
+   "text_content_th": "<Share_TicketRaffle>【Chrysus Codex】</>"
+  },
+  "2001": {
+   "id": 2001,
+   "bubble_style": "System",
+   "b_show_head": false,
+   "log_icon": "",
+   "text_content": "<a>[System]</> <a color=\"#0A7EC1FF\" player_id=\"{1}\">{2}</><a> obtained an {4} Animus through \"{3}\"</><a color=\"#AE8515FF\">{5}</>.",
+   "text_content_th": "<a>[ระบบ]</> <a color=\"#0A7EC1FF\" player_id=\"{1}\">{2}</><a> ได้รับ Animus {4} คนผ่าน \"{3}\"</><a color=\"#AE8515FF\">{5}</>"
+  },
+  "2002": {
+   "id": 2002,
+   "bubble_style": "System",
+   "b_show_head": false,
+   "log_icon": "",
+   "text_content": "<a>[System]</> <a color=\"#0A7EC1FF\" player_id=\"{1}\">{2}</><a color=\"#0A7EC1FF\">completed Ember Trek</><a color=\"#AE8515FF\"></>.",
+   "text_content_th": "<a>[ระบบ]</> <a color=\"#0A7EC1FF\" player_id=\"{1}\">{2}</><a color=\"#0A7EC1FF\">ผ่านเอมเบอร์แล้ว</><a color=\"#AE8515FF\"></>"
+  },
+  "2003": {
+   "id": 2003,
+   "bubble_style": "System",
+   "b_show_head": false,
+   "log_icon": ""
+  }
+ },
+ "text_chunk": "00053_de4fb65b65c31820.json"
+}

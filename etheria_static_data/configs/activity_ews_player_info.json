@@ -1,0 +1,125 @@
+{
+ "config": "activity_ews_player_info",
+ "fields": [
+  "id",
+  "name",
+  "server",
+  "img_link",
+  "tag"
+ ],
+ "rows": [
+  {
+   "id": 1,
+   "name": "二月晴朗",
+   "server": "CHINA",
+   "img_link": "T_UI_CstCardX_Holden_Light",
+   "tag": 0
+  },
+  {
+   "id": 2,
+   "name": "我爱犀牛",
+   "server": "CHINA",
+   "img_link": "T_UI_CstCardX_CorpseCol_Disor",
+   "tag": 0
+  },
+  {
+   "id": 3,
+   "name": "徐凤年",
+   "server": "CHINA",
+   "img_link": "T_UI_CstCardX_Raymerry_Disor",
+   "tag": 0
+  },
+  {
+   "id": 4,
+   "name": "swift 风",
+   "server": "CHINA",
+   "img_link": "T_UI_CstCardX_Silvia_Light",
+   "tag": 0
+  },
+  {
+   "id": 5,
+   "name": "认蒸你就熟了哦",
+   "server": "CHINA",
+   "img_link": "T_UI_CstCardX_Nell_Hollow",
+   "tag": 0
+  },
+  {
+   "id": 6,
+   "name": "幸运的格诺诺",
+   "server": "CHINA",
+   "img_link": "T_UI_CstCardX_Silvia_Light",
+   "tag": 0
+  },
+  {
+   "id": 7,
+   "name": "Kekker",
+   "server": "GLOBAL",
+   "img_link": "T_UI_CstCardX_Raymerry_Disor",
+   "tag": 0
+  },
+  {
+   "id": 8,
+   "name": "Madara",
+   "server": "GLOBAL",
+   "img_link": "T_UI_CstCardX_Osar_Hollow",
+   "tag": 0
+  },
+  {
+   "id": 9,
+   "name": "Siriusgty",
+   "server": "GLOBAL",
+   "img_link": "T_UI_CstCardX_Kirkcaldy_Light",
+   "tag": 0
+  },
+  {
+   "id": 10,
+   "name": "Dasuperasian",
+   "server": "GLOBAL",
+   "img_link": "T_UI_CstCardX_Danvery_Odd",
+   "tag": 0
+  },
+  {
+   "id": 11,
+   "name": "Lliia",
+   "server": "GLOBAL",
+   "img_link": "T_UI_CstCardX_Liliam_Disor",
+   "tag": 0
+  },
+  {
+   "id": 12,
+   "name": "圣Lisa",
+   "server": "GLOBAL",
+   "img_link": "T_UI_CstCardX_Pyxis_Const",
+   "tag": 0
+  },
+  {
+   "id": 13,
+   "name": "Junseo",
+   "server": "ASIA",
+   "img_link": "T_UI_CstCardX_Raymerry_Disor",
+   "tag": 0
+  },
+  {
+   "id": 14,
+   "name": "iROHAS",
+   "server": "ASIA",
+   "img_link": "T_UI_CstCardX_Hoyan_Hollow",
+   "tag": 0
+  },
+  {
+   "id": 15,
+   "name": "鹹酥貓",
+   "server": "ASIA",
+   "img_link": "T_UI_CstCardX_Thunderose_Odd",
+   "tag": 0
+  },
+  {
+   "id": 16,
+   "name": "골든리트리버",
+   "server": "ASIA",
+   "img_link": "T_UI_CstCardX_Lilith_Hollow",
+   "tag": 0
+  }
+ ],
+ "text_chunk": null
+}

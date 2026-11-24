@@ -1,0 +1,341 @@
+{
+ "config": "chat_sticker",
+ "fields": [
+  "id",
+  "group_id",
+  "asset_icon"
+ ],
+ "rows": {
+  "101": {
+   "id": 101,
+   "group_id": 1,
+   "asset_icon": "T_UI_Sticker_Maggie_1"
+  },
+  "102": {
+   "id": 102,
+   "group_id": 1,
+   "asset_icon": "T_UI_Sticker_Maggie_2"
+  },
+  "103": {
+   "id": 103,
+   "group_id": 1,
+   "asset_icon": "T_UI_Sticker_Maggie_3"
+  },
+  "104": {
+   "id": 104,
+   "group_id": 1,
+   "asset_icon": "T_UI_Sticker_Maggie_4"
+  },
+  "105": {
+   "id": 105,
+   "group_id": 1,
+   "asset_icon": "T_UI_Sticker_Maggie_5"
+  },
+  "106": {
+   "id": 106,
+   "group_id": 1,
+   "asset_icon": "T_UI_Sticker_Maggie_6"
+  },
+  "107": {
+   "id": 107,
+   "group_id": 1,
+   "asset_icon": "T_UI_Sticker_Maggie_7"
+  },
+  "108": {
+   "id": 108,
+   "group_id": 1,
+   "asset_icon": "T_UI_Sticker_Maggie_8"
+  },
+  "201": {
+   "id": 201,
+   "group_id": 2,
+   "asset_icon": "T_UI_Sticker_Chaku_1"
+  },
+  "202": {
+   "id": 202,
+   "group_id": 2,
+   "asset_icon": "T_UI_Sticker_Chaku_2"
+  },
+  "203": {
+   "id": 203,
+   "group_id": 2,
+   "asset_icon": "T_UI_Sticker_Chaku_3"
+  },
+  "204": {
+   "id": 204,
+   "group_id": 2,
+   "asset_icon": "T_UI_Sticker_Chaku_4"
+  },
+  "205": {
+   "id": 205,
+   "group_id": 2,
+   "asset_icon": "T_UI_Sticker_Chaku_5"
+  },
+  "206": {
+   "id": 206,
+   "group_id": 2,
+   "asset_icon": "T_UI_Sticker_Chaku_6"
+  },
+  "207": {
+   "id": 207,
+   "group_id": 2,
+   "asset_icon": "T_UI_Sticker_Chaku_7"
+  },
+  "208": {
+   "id": 208,
+   "group_id": 2,
+   "asset_icon": "T_UI_Sticker_Chaku_8"
+  },
+  "301": {
+   "id": 301,
+   "group_id": 23101,
+   "asset_icon": "T_UI_Sticker_GhostMagic_Disor_1"
+  },
+  "302": {
+   "id": 302,
+   "group_id": 23101,
+   "asset_icon": "T_UI_Sticker_GhostMagic_Disor_2"
+  },
+  "303": {
+   "id": 303,
+   "group_id": 23101,
+   "asset_icon": "T_UI_Sticker_GhostMagic_Disor_3"
+  },
+  "304": {
+   "id": 304,
+   "group_id": 23101,
+   "asset_icon": "T_UI_Sticker_GhostMagic_Disor_4"
+  },
+  "305": {
+   "id": 305,
+   "group_id": 23101,
+   "asset_icon": "T_UI_Sticker_GhostMagic_Disor_5"
+  },
+  "306": {
+   "id": 306,
+   "group_id": 23101,
+   "asset_icon": "T_UI_Sticker_GhostMagic_Disor_6"
+  },
+  "307": {
+   "id": 307,
+   "group_id": 23101,
+   "asset_icon": "T_UI_Sticker_GhostMagic_Disor_7"
+  },
+  "308": {
+   "id": 308,
+   "group_id": 23101,
+   "asset_icon": "T_UI_Sticker_GhostMagic_Disor_8"
+  },
+  "309": {
+   "id": 309,
+   "group_id": 23101,
+   "asset_icon": "T_UI_Sticker_GhostMagic_Disor_9"
+  },
+  "310": {
+   "id": 310,
+   "group_id": 23101,
+   "asset_icon": "T_UI_Sticker_GhostMagic_Disor_10"
+  },
+  "311": {
+   "id": 311,
+   "group_id": 23102,
+   "asset_icon": "T_UI_Sticker_Holden_Light_1"
+  },
+  "312": {
+   "id": 312,
+   "group_id": 23102,
+   "asset_icon": "T_UI_Sticker_Holden_Light_2"
+  },
+  "313": {
+   "id": 313,
+   "group_id": 23102,
+   "asset_icon": "T_UI_Sticker_Holden_Light_3"
+  },
+  "314": {
+   "id": 314,
+   "group_id": 23102,
+   "asset_icon": "T_UI_Sticker_Holden_Light_4"
+  },
+  "315": {
+   "id": 315,
+   "group_id": 23102,
+   "asset_icon": "T_UI_Sticker_Holden_Light_5"
+  },
+  "316": {
+   "id": 316,
+   "group_id": 23102,
+   "asset_icon": "T_UI_Sticker_Holden_Light_6"
+  },
+  "317": {
+   "id": 317,
+   "group_id": 23102,
+   "asset_icon": "T_UI_Sticker_Holden_Light_7"
+  },
+  "318": {
+   "id": 318,
+   "group_id": 23102,
+   "asset_icon": "T_UI_Sticker_Holden_Light_8"
+  },
+  "319": {
+   "id": 319,
+   "group_id": 23102,
+   "asset_icon": "T_UI_Sticker_Holden_Light_9"
+  },
+  "320": {
+   "id": 320,
+   "group_id": 23102,
+   "asset_icon": "T_UI_Sticker_Holden_Light_10"
+  },
+  "321": {
+   "id": 321,
+   "group_id": 23103,
+   "asset_icon": "T_UI_Sticker_Liliam_Disor_1"
+  },
+  "322": {
+   "id": 322,
+   "group_id": 23103,
+   "asset_icon": "T_UI_Sticker_Liliam_Disor_2"
+  },
+  "323": {
+   "id": 323,
+   "group_id": 23103,
+   "asset_icon": "T_UI_Sticker_Liliam_Disor_3"
+  },
+  "324": {
+   "id": 324,
+   "group_id": 23103,
+   "asset_icon": "T_UI_Sticker_Liliam_Disor_4"
+  },
+  "325": {
+   "id": 325,
+   "group_id": 23103,
+   "asset_icon": "T_UI_Sticker_Liliam_Disor_5"
+  },
+  "326": {
+   "id": 326,
+   "group_id": 23103,
+   "asset_icon": "T_UI_Sticker_Liliam_Disor_6"
+  },
+  "327": {
+   "id": 327,
+   "group_id": 23103,
+   "asset_icon": "T_UI_Sticker_Liliam_Disor_7"
+  },
+  "328": {
+   "id": 328,
+   "group_id": 23103,
+   "asset_icon": "T_UI_Sticker_Liliam_Disor_8"
+  },
+  "329": {
+   "id": 329,
+   "group_id": 23103,
+   "asset_icon": "T_UI_Sticker_Liliam_Disor_9"
+  },
+  "330": {
+   "id": 330,
+   "group_id": 23103,
+   "asset_icon": "T_UI_Sticker_Liliam_Disor_10"
+  },
+  "331": {
+   "id": 331,
+   "group_id": 23104,
+   "asset_icon": "T_UI_Sticker_Ruho_Odd_1"
+  },
+  "332": {
+   "id": 332,
+   "group_id": 23104,
+   "asset_icon": "T_UI_Sticker_Ruho_Odd_2"
+  },
+  "333": {
+   "id": 333,
+   "group_id": 23104,
+   "asset_icon": "T_UI_Sticker_Ruho_Odd_3"
+  },
+  "334": {
+   "id": 334,
+   "group_id": 23104,
+   "asset_icon": "T_UI_Sticker_Ruho_Odd_4"
+  },
+  "335": {
+   "id": 335,
+   "group_id": 23104,
+   "asset_icon": "T_UI_Sticker_Ruho_Odd_5"
+  },
+  "336": {
+   "id": 336,
+   "group_id": 23104,
+   "asset_icon": "T_UI_Sticker_Ruho_Odd_6"
+  },
+  "337": {
+   "id": 337,
+   "group_id": 23104,
+   "asset_icon": "T_UI_Sticker_Ruho_Odd_7"
+  },
+  "338": {
+   "id": 338,
+   "group_id": 23104,
+   "asset_icon": "T_UI_Sticker_Ruho_Odd_8"
+  },
+  "339": {
+   "id": 339,
+   "group_id": 23104,
+   "asset_icon": "T_UI_Sticker_Ruho_Odd_9"
+  },
+  "340": {
+   "id": 340,
+   "group_id": 23104,
+   "asset_icon": "T_UI_Sticker_Ruho_Odd_10"
+  },
+  "341": {
+   "id": 341,
+   "group_id": 23105,
+   "asset_icon": "T_UI_Sticker_Tiamat_Hollow_1"
+  },
+  "342": {
+   "id": 342,
+   "group_id": 23105,
+   "asset_icon": "T_UI_Sticker_Tiamat_Hollow_2"
+  },
+  "343": {
+   "id": 343,
+   "group_id": 23105,
+   "asset_icon": "T_UI_Sticker_Tiamat_Hollow_3"
+  },
+  "344": {
+   "id": 344,
+   "group_id": 23105,
+   "asset_icon": "T_UI_Sticker_Tiamat_Hollow_4"
+  },
+  "345": {
+   "id": 345,
+   "group_id": 23105,
+   "asset_icon": "T_UI_Sticker_Tiamat_Hollow_5"
+  },
+  "346": {
+   "id": 346,
+   "group_id": 23105,
+   "asset_icon": "T_UI_Sticker_Tiamat_Hollow_6"
+  },
+  "347": {
+   "id": 347,
+   "group_id": 23105,
+   "asset_icon": "T_UI_Sticker_Tiamat_Hollow_7"
+  },
+  "348": {
+   "id": 348,
+   "group_id": 23105,
+   "asset_icon": "T_UI_Sticker_Tiamat_Hollow_8"
+  },
+  "349": {
+   "id": 349,
+   "group_id": 23105,
+   "asset_icon": "T_UI_Sticker_Tiamat_Hollow_9"
+  },
+  "350": {
+   "id": 350,
+   "group_id": 23105,
+   "asset_icon": "T_UI_Sticker_Tiamat_Hollow_10"
+  }
+ },
+ "text_chunk": null
+}

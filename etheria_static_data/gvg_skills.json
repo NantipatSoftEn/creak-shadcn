@@ -1,0 +1,356 @@
+[
+ {
+  "id": 1001,
+  "type": 1,
+  "params": [
+   1002001,
+   1002006
+  ],
+  "tips_th": [
+   "Selone สร้าง DMG จริง กับผู้โจมตีและมอบ [Wound] หาก [Wound] ขัดขวางการฟื้นฟู HP จะทำให้ Animus โจมตีเอาชีวิตรอดได้ยาก",
+   "Selone สร้าง DMG จริง กับผู้โจมตีและมอบ [Wound] หาก [Wound] ขัดขวางการฟื้นฟู HP จะทำให้ Animus โจมตีเอาชีวิตรอดได้ยาก"
+  ],
+  "tips_en": [
+   "Selone deals True Damage to attackers and inflicts [Wound] on them. When [Wound] prevents HP recovery, attacking Animuses will struggle to survive.",
+   "Selone deals True Damage to attackers and inflicts [Wound] on them. When [Wound] prevents HP recovery, attacking Animuses will struggle to survive."
+  ]
+ },
+ {
+  "id": 1002,
+  "type": 1,
+  "params": [
+   1002002,
+   1002007
+  ],
+  "tips_th": [
+   "Selone ฮีล Animus ป้องกัน พยายามตัดการฮีลของพวกเขา",
+   "Selone ฮีล Animus ป้องกันและชะล้างดีบัฟของพวกเขาออก พยายามตัดการฮีลของพวกเขา"
+  ],
+  "tips_en": [
+   "Selone heals defending Animuses. Try to cut off their healing.",
+   "Selone heals defending Animuses and purifies their debuffs. Try to cut off their healing."
+  ]
+ },
+ {
+  "id": 1003,
+  "type": 1,
+  "params": [
+   1002003,
+   1002008
+  ],
+  "tips_th": [
+   "Selone จะมอบ [Blazing] ให้กับ Animus ป้องกัน [Blazing] จะเพิ่ม DMG ของ Animus",
+   "Selone จะมอบ [Blazing] ให้กับ Animus ป้องกัน [Blazing] จะเพิ่ม DMG ของ Animus"
+  ],
+  "tips_en": [
+   "Selone provides [Blazing] to defending Animuses. [Blazing] increases the Animuses' damage.",
+   "Selone provides [Blazing] to defending Animuses. [Blazing] increases the Animuses' damage."
+  ]
+ },
+ {
+  "id": 1004,
+  "type": 1,
+  "params": [
+   1002004,
+   1002009
+  ],
+  "tips_th": [
+   "Selone จะสร้าง DMG จริงใส่ผู้โจมตี โดยมีโอกาสที่จะลบล้างบัฟ",
+   "Selone จะสร้าง DMG จริงใส่ผู้โจมตี โดยมีโอกาสที่จะลบล้างบัฟ"
+  ],
+  "tips_en": [
+   "Selone deals True Damage to attackers with a chance to dispel buffs.",
+   "Selone deals True Damage to attackers with a chance to dispel buffs."
+  ]
+ },
+ {
+  "id": 1005,
+  "type": 1,
+  "params": [
+   1002005,
+   1002010
+  ],
+  "tips_th": [
+   "Selone เพิ่มเกจเทิร์นของ Animus ป้องกัน และมอบโบนัสหลังจากที่ Animus ทำแอ็กชัน โดยเอฟเฟ็กต์การควบคุมจะลบบัฟทั้งหมดที่ได้รับ",
+   "Selone เพิ่มเกจเทิร์นของ Animus ป้องกัน และมอบโบนัสหลังจากที่ Animus ทำแอ็กชัน โดยเอฟเฟ็กต์การควบคุมจะลบบัฟทั้งหมดที่ได้รับ"
+  ],
+  "tips_en": [
+   "Selone increases the Turn Meter of defending Animuses and grants bonuses after they take actions. Control effects will remove applied buffs.",
+   "Selone increases the Turn Meter of defending Animuses and grants bonuses after they take actions. Control effects will remove applied buffs."
+  ]
+ },
+ {
+  "id": 2001,
+  "type": 2,
+  "params": [
+   0,
+   613
+  ],
+  "tips_th": [
+   "Animus ป้องกันจะได้รับโอกาสโจมตีตามซ้ำเพิ่มเติม 30%"
+  ],
+  "tips_en": [
+   "Defending Animuses gain 30% additional Follow-up Attack Chance."
+  ]
+ },
+ {
+  "id": 2002,
+  "type": 2,
+  "params": [
+   0,
+   614
+  ],
+  "tips_th": [
+   "Animus ป้องกันจะได้รับโอกาสโจมตีสวนกลับเพิ่มเติม 40%"
+  ],
+  "tips_en": [
+   "Defending Animuses gain 40% additional Counterattack Chance."
+  ]
+ },
+ {
+  "id": 2003,
+  "type": 2,
+  "params": [
+   0,
+   615
+  ],
+  "tips_th": [
+   "เมื่อผู้ป้องกันสร้าง DMG จะเพิ่ม DMG สุดท้ายที่ผู้ป้องกันทำกับ Animus ที่มี HP สูงกว่า 65% ขึ้น 40%"
+  ],
+  "tips_en": [
+   "When defenders deal damage, increases final damage dealt to Animuses with HP above 65% by 40%."
+  ]
+ },
+ {
+  "id": 2004,
+  "type": 2,
+  "params": [
+   0,
+   616
+  ],
+  "tips_th": [
+   "เมื่อผู้ป้องกันสร้าง DMG จะเพิ่ม DMG สุดท้ายที่ผู้ป้องกันทำกับ Animus ที่มี HP ต่ำกว่า 35% ขึ้น 60%"
+  ],
+  "tips_en": [
+   "When defenders deal damage, increases final damage dealt to Animuses with HP below 35% by 60%."
+  ]
+ },
+ {
+  "id": 2005,
+  "type": 2,
+  "params": [
+   0,
+   617
+  ],
+  "tips_th": [
+   "เมื่อผู้ป้องกันสร้าง DMG สำหรับทุก ๆ 2.5% ของ Max HP ของเป้าหมายคือ DMG ที่ทำได้ เกจเทิร์นของเป้าหมายจะลดลง 1%"
+  ],
+  "tips_en": [
+   "When the defender deals damage, for every 2.5% of the target's Max HP as damage dealt, the target's Turn Meter is pushed back by 1%."
+  ]
+ },
+ {
+  "id": 2006,
+  "type": 2,
+  "params": [
+   0,
+   618
+  ],
+  "tips_th": [
+   "เมื่อผู้ป้องกันสร้าง DMG สำหรับทุก ๆ 2% ของ Max HP ของผู้ป้องกันคือ DMG ที่ได้รับ เกจเทิร์นของเป้าหมายจะเพิ่มขึ้น 1%"
+  ],
+  "tips_en": [
+   "When the defender takes damage, for every 2% of own Max HP as damage taken, the defender's Turn Meter increases by 1%."
+  ]
+ },
+ {
+  "id": 2007,
+  "type": 2,
+  "params": [
+   0,
+   619
+  ],
+  "tips_th": [
+   "เมื่อผู้ป้องกันรับ DMG ที่มีสกิลเป้าหมายเดียว ผู้ป้องกันจะสร้าง DMG ทางอ้อมเพิ่มเติม 50% กับ Animus ศัตรูตัวอื่น ๆ นอกเหนือจากเป้าหมายหลัก"
+  ],
+  "tips_en": [
+   "When defenders deal damage with single-target skills, they deal 50% additional indirect damage to other enemy Animuses besides the main target."
+  ]
+ },
+ {
+  "id": 2008,
+  "type": 2,
+  "params": [
+   0,
+   620
+  ],
+  "tips_th": [
+   "เมื่อผู้ป้องกันได้รับ DMG จะทำ DMG ทางอ้อมกับผู้โจมตีเท่ากับ 20% ของ DMG ที่ได้รับ"
+  ],
+  "tips_en": [
+   "When the defender takes damage, deals indirect damage to the attacker equal to 20% of the damage taken."
+  ]
+ },
+ {
+  "id": 2009,
+  "type": 2,
+  "params": [
+   0,
+   621
+  ],
+  "tips_th": [
+   "เมื่อผู้ป้องกันสร้าง DMG ผู้ป้องกันจะฟื้นฟู HP เท่ากับ 35% ของ DMG ที่ทำได้"
+  ],
+  "tips_en": [
+   "When defenders deal damage, they recover HP equal to 35% of the damage dealt."
+  ]
+ },
+ {
+  "id": 2010,
+  "type": 2,
+  "params": [
+   0,
+   622
+  ],
+  "tips_th": [
+   "หลังจาก Animus ป้องกันจบเทิร์นของพวกเขา จะเพิ่มเกจเทิร์นของ Animus พันธมิตรขึ้น 15%"
+  ],
+  "tips_en": [
+   "After a defending Animus ends their turn, increases other allied Animuses' Turn Meter by 15%."
+  ]
+ },
+ {
+  "id": 2011,
+  "type": 2,
+  "params": [
+   0,
+   623
+  ],
+  "tips_th": [
+   "แต่ละครั้งที่ Animus ป้องกันปล่อยโจมตีติด CRIT จะได้รับโบนัส DMG 2% สูงสุด 100%"
+  ],
+  "tips_en": [
+   "Each time a defending Animus lands a CRIT hit, gains 2% damage bonus, up to 100%."
+  ]
+ },
+ {
+  "id": 2012,
+  "type": 2,
+  "params": [
+   0,
+   624
+  ],
+  "tips_th": [
+   "เมื่อได้รับ CRIT DMG ผู้ป้องกันได้รับโล่เท่ากับ 30% ของ CRIT DMG"
+  ],
+  "tips_en": [
+   "When taking CRIT DMG, a defender gains a Shield equal to 30% of the CRIT DMG."
+  ]
+ },
+ {
+  "id": 2013,
+  "type": 2,
+  "params": [
+   0,
+   625
+  ],
+  "tips_th": [
+   "ใช้เอฟเฟ็กต์ออร่ากับ Animus ป้องกันที่อยู่ตำแหน่งกลางเพื่อเพิ่ม ATK 30% ให้กับพันธมิตรอื่น ๆ เอฟเฟ็กต์นี้จะถูกลบออกเมื่อผู้ถือครองออร่าตาย"
+  ],
+  "tips_en": [
+   "Applies an aura effect on the defending Animus in the center position to increase other allies' ATK by 30%. This effect is removed when the aura carrier dies."
+  ]
+ },
+ {
+  "id": 2014,
+  "type": 2,
+  "params": [
+   0,
+   626
+  ],
+  "tips_th": [
+   "ใช้เอฟเฟ็กต์ออร่ากับ Animus ป้องกันที่อยู่ตำแหน่งกลางเพื่อเพิ่ม DEF 45% ให้กับพันธมิตรอื่น ๆ เอฟเฟ็กต์นี้จะถูกลบออกเมื่อผู้ถือครองออร่าตาย"
+  ],
+  "tips_en": [
+   "Applies an aura effect on the defending Animus in the center position to increase other allies' DEF by 45%. This effect is removed when the aura carrier dies."
+  ]
+ },
+ {
+  "id": 2015,
+  "type": 2,
+  "params": [
+   0,
+   627
+  ],
+  "tips_th": [
+   "ใช้เอฟเฟ็กต์ออร่ากับ Animus ป้องกันที่อยู่ตำแหน่งกลางเพื่อเพิ่ม SPD 15% ให้กับพันธมิตรอื่น ๆ เอฟเฟ็กต์นี้จะถูกลบออกเมื่อผู้ถือครองออร่าตาย"
+  ],
+  "tips_en": [
+   "Applies an aura effect on the defending Animus in the center position to increase other allies' SPD by 15%. This effect is removed when the aura carrier dies."
+  ]
+ },
+ {
+  "id": 2016,
+  "type": 2,
+  "params": [
+   0,
+   628
+  ],
+  "tips_th": [
+   "เพิ่ม DMG สุดท้ายที่ผู้ป้องกันทำกับ Animus ที่มีความได้เปรียบในด้านรูปแบบ 300%"
+  ],
+  "tips_en": [
+   "Increases final damage dealt by defenders to Animuses against whom they have Affinity advantage to 300%."
+  ]
+ },
+ {
+  "id": 3001,
+  "type": 3,
+  "params": [
+   0,
+   612
+  ],
+  "tips_th": [
+   "สำหรับแต่ละโหนดของคอร์นี้ที่ยังไม่ถูกยึดครอง Animus ป้องกันจะได้รับ 20% ATK และ DEF"
+  ],
+  "tips_en": [
+   "For each uncaptured node belonging to this core, defending Animuses gain 20% ATK and DEF."
+  ]
+ },
+ {
+  "id": 4001,
+  "type": 4,
+  "params": [
+   100
+  ],
+  "tips_th": [],
+  "tips_en": []
+ },
+ {
+  "id": 4002,
+  "type": 4,
+  "params": [
+   200
+  ],
+  "tips_th": [],
+  "tips_en": []
+ },
+ {
+  "id": 4003,
+  "type": 4,
+  "params": [
+   300
+  ],
+  "tips_th": [],
+  "tips_en": []
+ },
+ {
+  "id": 4004,
+  "type": 4,
+  "params": [
+   400
+  ],
+  "tips_th": [],
+  "tips_en": []
+ }
+]

@@ -1,0 +1,3489 @@
+{
+ "config": "infrastructure_facility",
+ "fields": [
+  "type",
+  "level",
+  "cost",
+  "require",
+  "func_1",
+  "func_2",
+  "func_3",
+  "func_4",
+  "unlock_condition",
+  "name"
+ ],
+ "rows": [
+  {
+   "0": {
+    "type": 1,
+    "level": 0,
+    "cost": null,
+    "require": null,
+    "func_1": null,
+    "func_2": null,
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "NicoNana",
+    "name_th": "NicoNana"
+   },
+   "1": {
+    "type": 1,
+    "level": 1,
+    "cost": {
+     "id": 10601,
+     "count": 10000
+    },
+    "require": [
+     [
+      1,
+      3,
+      1
+     ],
+     [
+      1,
+      12,
+      1
+     ]
+    ],
+    "func_1": [
+     1,
+     1
+    ],
+    "func_2": null,
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "NicoNana",
+    "name_th": "NicoNana"
+   },
+   "2": {
+    "type": 1,
+    "level": 2,
+    "cost": {
+     "id": 10601,
+     "count": 30000
+    },
+    "require": [
+     [
+      2,
+      1
+     ],
+     [
+      1,
+      2,
+      2
+     ],
+     [
+      1,
+      10,
+      2
+     ]
+    ],
+    "func_1": [
+     1,
+     2
+    ],
+    "func_2": null,
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "NicoNana",
+    "name_th": "NicoNana"
+   },
+   "3": {
+    "type": 1,
+    "level": 3,
+    "cost": {
+     "id": 10601,
+     "count": 50000
+    },
+    "require": [
+     [
+      2,
+      3
+     ],
+     [
+      1,
+      4,
+      3
+     ],
+     [
+      1,
+      5,
+      3
+     ]
+    ],
+    "func_1": [
+     1,
+     3
+    ],
+    "func_2": [
+     2,
+     5
+    ],
+    "func_3": [
+     19
+    ],
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "NicoNana",
+    "name_th": "NicoNana"
+   },
+   "4": {
+    "type": 1,
+    "level": 4,
+    "cost": {
+     "id": 10601,
+     "count": 78500
+    },
+    "require": [
+     [
+      2,
+      4
+     ],
+     [
+      1,
+      6,
+      4
+     ],
+     [
+      1,
+      7,
+      4
+     ]
+    ],
+    "func_1": [
+     1,
+     4
+    ],
+    "func_2": [
+     2,
+     6
+    ],
+    "func_3": [
+     19
+    ],
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "NicoNana",
+    "name_th": "NicoNana"
+   },
+   "5": {
+    "type": 1,
+    "level": 5,
+    "cost": {
+     "id": 10601,
+     "count": 114200
+    },
+    "require": [
+     [
+      2,
+      5
+     ],
+     [
+      1,
+      8,
+      5
+     ],
+     [
+      1,
+      12,
+      5
+     ]
+    ],
+    "func_1": [
+     1,
+     5
+    ],
+    "func_2": [
+     2,
+     7
+    ],
+    "func_3": [
+     19
+    ],
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "NicoNana",
+    "name_th": "NicoNana"
+   },
+   "6": {
+    "type": 1,
+    "level": 6,
+    "cost": {
+     "id": 10601,
+     "count": 171200
+    },
+    "require": [
+     [
+      2,
+      7
+     ],
+     [
+      1,
+      2,
+      6
+     ],
+     [
+      1,
+      3,
+      6
+     ]
+    ],
+    "func_1": [
+     1,
+     6
+    ],
+    "func_2": [
+     2,
+     8
+    ],
+    "func_3": [
+     19
+    ],
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "NicoNana",
+    "name_th": "NicoNana"
+   },
+   "7": {
+    "type": 1,
+    "level": 7,
+    "cost": {
+     "id": 10601,
+     "count": 228300
+    },
+    "require": [
+     [
+      2,
+      10
+     ],
+     [
+      1,
+      11,
+      7
+     ],
+     [
+      1,
+      10,
+      7
+     ]
+    ],
+    "func_1": [
+     1,
+     7
+    ],
+    "func_2": [
+     2,
+     9
+    ],
+    "func_3": [
+     19
+    ],
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "NicoNana",
+    "name_th": "NicoNana"
+   },
+   "8": {
+    "type": 1,
+    "level": 8,
+    "cost": {
+     "id": 10601,
+     "count": 342500
+    },
+    "require": [
+     [
+      2,
+      15
+     ],
+     [
+      1,
+      6,
+      8
+     ],
+     [
+      1,
+      5,
+      8
+     ]
+    ],
+    "func_1": [
+     1,
+     8
+    ],
+    "func_2": [
+     2,
+     11
+    ],
+    "func_3": [
+     19
+    ],
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "NicoNana",
+    "name_th": "NicoNana"
+   },
+   "9": {
+    "type": 1,
+    "level": 9,
+    "cost": {
+     "id": 10601,
+     "count": 426700
+    },
+    "require": [
+     [
+      2,
+      20
+     ],
+     [
+      1,
+      7,
+      9
+     ],
+     [
+      1,
+      4,
+      9
+     ]
+    ],
+    "func_1": [
+     1,
+     9
+    ],
+    "func_2": [
+     2,
+     13
+    ],
+    "func_3": [
+     19
+    ],
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "NicoNana",
+    "name_th": "NicoNana"
+   },
+   "10": {
+    "type": 1,
+    "level": 10,
+    "cost": null,
+    "require": null,
+    "func_1": [
+     1,
+     10
+    ],
+    "func_2": [
+     2,
+     15
+    ],
+    "func_3": [
+     19
+    ],
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "NicoNana",
+    "name_th": "NicoNana"
+   }
+  },
+  {
+   "0": {
+    "type": 2,
+    "level": 0,
+    "cost": {
+     "id": 10601,
+     "count": 1700
+    },
+    "require": null,
+    "func_1": null,
+    "func_2": null,
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Sharon",
+    "name_th": "Sharon"
+   },
+   "1": {
+    "type": 2,
+    "level": 1,
+    "cost": {
+     "id": 10601,
+     "count": 3400
+    },
+    "require": [
+     [
+      1,
+      1,
+      2
+     ]
+    ],
+    "func_1": [
+     3,
+     5
+    ],
+    "func_2": [
+     4,
+     1
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Sharon",
+    "name_th": "Sharon"
+   },
+   "2": {
+    "type": 2,
+    "level": 2,
+    "cost": {
+     "id": 10601,
+     "count": 12800
+    },
+    "require": [
+     [
+      1,
+      1,
+      3
+     ]
+    ],
+    "func_1": [
+     3,
+     10
+    ],
+    "func_2": [
+     4,
+     2
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Sharon",
+    "name_th": "Sharon"
+   },
+   "3": {
+    "type": 2,
+    "level": 3,
+    "cost": {
+     "id": 10601,
+     "count": 21400
+    },
+    "require": [
+     [
+      1,
+      1,
+      4
+     ]
+    ],
+    "func_1": [
+     3,
+     15
+    ],
+    "func_2": [
+     4,
+     3
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Sharon",
+    "name_th": "Sharon"
+   },
+   "4": {
+    "type": 2,
+    "level": 4,
+    "cost": {
+     "id": 10601,
+     "count": 47100
+    },
+    "require": [
+     [
+      1,
+      1,
+      5
+     ]
+    ],
+    "func_1": [
+     3,
+     20
+    ],
+    "func_2": [
+     4,
+     4
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Sharon",
+    "name_th": "Sharon"
+   },
+   "5": {
+    "type": 2,
+    "level": 5,
+    "cost": {
+     "id": 10601,
+     "count": 68500
+    },
+    "require": [
+     [
+      1,
+      1,
+      6
+     ]
+    ],
+    "func_1": [
+     3,
+     25
+    ],
+    "func_2": [
+     4,
+     5
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Sharon",
+    "name_th": "Sharon"
+   },
+   "6": {
+    "type": 2,
+    "level": 6,
+    "cost": {
+     "id": 10601,
+     "count": 102700
+    },
+    "require": [
+     [
+      1,
+      1,
+      7
+     ]
+    ],
+    "func_1": [
+     3,
+     30
+    ],
+    "func_2": [
+     4,
+     6
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Sharon",
+    "name_th": "Sharon"
+   },
+   "7": {
+    "type": 2,
+    "level": 7,
+    "cost": {
+     "id": 10601,
+     "count": 137000
+    },
+    "require": [
+     [
+      1,
+      1,
+      8
+     ]
+    ],
+    "func_1": [
+     3,
+     35
+    ],
+    "func_2": [
+     4,
+     7
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Sharon",
+    "name_th": "Sharon"
+   },
+   "8": {
+    "type": 2,
+    "level": 8,
+    "cost": {
+     "id": 10601,
+     "count": 205500
+    },
+    "require": [
+     [
+      1,
+      1,
+      9
+     ]
+    ],
+    "func_1": [
+     3,
+     40
+    ],
+    "func_2": [
+     4,
+     8
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Sharon",
+    "name_th": "Sharon"
+   },
+   "9": {
+    "type": 2,
+    "level": 9,
+    "cost": {
+     "id": 10601,
+     "count": 256000
+    },
+    "require": [
+     [
+      1,
+      1,
+      10
+     ]
+    ],
+    "func_1": [
+     3,
+     45
+    ],
+    "func_2": [
+     4,
+     9
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Sharon",
+    "name_th": "Sharon"
+   },
+   "10": {
+    "type": 2,
+    "level": 10,
+    "cost": null,
+    "require": null,
+    "func_1": [
+     3,
+     50
+    ],
+    "func_2": [
+     4,
+     10
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Sharon",
+    "name_th": "Sharon"
+   }
+  },
+  {
+   "0": {
+    "type": 3,
+    "level": 0,
+    "cost": null,
+    "require": null,
+    "func_1": null,
+    "func_2": null,
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Apate",
+    "name_th": "Apate"
+   },
+   "1": {
+    "type": 3,
+    "level": 1,
+    "cost": {
+     "id": 10601,
+     "count": 1700
+    },
+    "require": [
+     [
+      1,
+      1,
+      2
+     ]
+    ],
+    "func_1": [
+     5,
+     10601,
+     300,
+     100
+    ],
+    "func_2": [
+     14,
+     30000
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Apate",
+    "name_th": "Apate"
+   },
+   "2": {
+    "type": 3,
+    "level": 2,
+    "cost": {
+     "id": 10601,
+     "count": 6400
+    },
+    "require": [
+     [
+      1,
+      1,
+      3
+     ]
+    ],
+    "func_1": [
+     5,
+     10601,
+     300,
+     110
+    ],
+    "func_2": [
+     14,
+     35000
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Apate",
+    "name_th": "Apate"
+   },
+   "3": {
+    "type": 3,
+    "level": 3,
+    "cost": {
+     "id": 10601,
+     "count": 10700
+    },
+    "require": [
+     [
+      1,
+      1,
+      4
+     ]
+    ],
+    "func_1": [
+     5,
+     10601,
+     300,
+     125
+    ],
+    "func_2": [
+     14,
+     40000
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Apate",
+    "name_th": "Apate"
+   },
+   "4": {
+    "type": 3,
+    "level": 4,
+    "cost": {
+     "id": 10601,
+     "count": 23500
+    },
+    "require": [
+     [
+      1,
+      1,
+      5
+     ]
+    ],
+    "func_1": [
+     5,
+     10601,
+     300,
+     140
+    ],
+    "func_2": [
+     14,
+     45000
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Apate",
+    "name_th": "Apate"
+   },
+   "5": {
+    "type": 3,
+    "level": 5,
+    "cost": {
+     "id": 10601,
+     "count": 34200
+    },
+    "require": [
+     [
+      1,
+      1,
+      6
+     ]
+    ],
+    "func_1": [
+     5,
+     10601,
+     300,
+     155
+    ],
+    "func_2": [
+     14,
+     50000
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Apate",
+    "name_th": "Apate"
+   },
+   "6": {
+    "type": 3,
+    "level": 6,
+    "cost": {
+     "id": 10601,
+     "count": 51400
+    },
+    "require": [
+     [
+      1,
+      1,
+      7
+     ]
+    ],
+    "func_1": [
+     5,
+     10601,
+     300,
+     175
+    ],
+    "func_2": [
+     14,
+     55000
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Apate",
+    "name_th": "Apate"
+   },
+   "7": {
+    "type": 3,
+    "level": 7,
+    "cost": {
+     "id": 10601,
+     "count": 68500
+    },
+    "require": [
+     [
+      1,
+      1,
+      8
+     ]
+    ],
+    "func_1": [
+     5,
+     10601,
+     300,
+     190
+    ],
+    "func_2": [
+     14,
+     60000
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Apate",
+    "name_th": "Apate"
+   },
+   "8": {
+    "type": 3,
+    "level": 8,
+    "cost": {
+     "id": 10601,
+     "count": 102700
+    },
+    "require": [
+     [
+      1,
+      1,
+      9
+     ]
+    ],
+    "func_1": [
+     5,
+     10601,
+     300,
+     210
+    ],
+    "func_2": [
+     14,
+     65000
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Apate",
+    "name_th": "Apate"
+   },
+   "9": {
+    "type": 3,
+    "level": 9,
+    "cost": {
+     "id": 10601,
+     "count": 128000
+    },
+    "require": [
+     [
+      1,
+      1,
+      10
+     ]
+    ],
+    "func_1": [
+     5,
+     10601,
+     300,
+     225
+    ],
+    "func_2": [
+     14,
+     70000
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Apate",
+    "name_th": "Apate"
+   },
+   "10": {
+    "type": 3,
+    "level": 10,
+    "cost": null,
+    "require": null,
+    "func_1": [
+     5,
+     10601,
+     300,
+     240
+    ],
+    "func_2": [
+     14,
+     80000
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Apate",
+    "name_th": "Apate"
+   }
+  },
+  {
+   "0": {
+    "type": 4,
+    "level": 0,
+    "cost": {
+     "id": 10601,
+     "count": 900
+    },
+    "require": [
+     [
+      1,
+      1,
+      2
+     ]
+    ],
+    "func_1": null,
+    "func_2": null,
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": [
+     1,
+     3
+    ],
+    "name": "Shadowflame·Hoyan",
+    "name_th": "Shadowflame·Hoyan"
+   },
+   "1": {
+    "type": 4,
+    "level": 1,
+    "cost": {
+     "id": 10601,
+     "count": 1700
+    },
+    "require": [
+     [
+      1,
+      1,
+      2
+     ]
+    ],
+    "func_1": [
+     5,
+     10602,
+     300,
+     3
+    ],
+    "func_2": [
+     14,
+     1200
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Shadowflame·Hoyan",
+    "name_th": "Shadowflame·Hoyan"
+   },
+   "2": {
+    "type": 4,
+    "level": 2,
+    "cost": {
+     "id": 10601,
+     "count": 6400
+    },
+    "require": [
+     [
+      1,
+      1,
+      3
+     ]
+    ],
+    "func_1": [
+     5,
+     10602,
+     300,
+     4
+    ],
+    "func_2": [
+     14,
+     1600
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Shadowflame·Hoyan",
+    "name_th": "Shadowflame·Hoyan"
+   },
+   "3": {
+    "type": 4,
+    "level": 3,
+    "cost": {
+     "id": 10601,
+     "count": 10700
+    },
+    "require": [
+     [
+      1,
+      1,
+      4
+     ]
+    ],
+    "func_1": [
+     5,
+     10602,
+     300,
+     5
+    ],
+    "func_2": [
+     14,
+     2000
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Shadowflame·Hoyan",
+    "name_th": "Shadowflame·Hoyan"
+   },
+   "4": {
+    "type": 4,
+    "level": 4,
+    "cost": {
+     "id": 10601,
+     "count": 23500
+    },
+    "require": [
+     [
+      1,
+      1,
+      5
+     ]
+    ],
+    "func_1": [
+     5,
+     10602,
+     300,
+     6
+    ],
+    "func_2": [
+     14,
+     2400
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Shadowflame·Hoyan",
+    "name_th": "Shadowflame·Hoyan"
+   },
+   "5": {
+    "type": 4,
+    "level": 5,
+    "cost": {
+     "id": 10601,
+     "count": 34200
+    },
+    "require": [
+     [
+      1,
+      1,
+      6
+     ]
+    ],
+    "func_1": [
+     5,
+     10602,
+     300,
+     7
+    ],
+    "func_2": [
+     14,
+     2800
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Shadowflame·Hoyan",
+    "name_th": "Shadowflame·Hoyan"
+   },
+   "6": {
+    "type": 4,
+    "level": 6,
+    "cost": {
+     "id": 10601,
+     "count": 51400
+    },
+    "require": [
+     [
+      1,
+      1,
+      7
+     ]
+    ],
+    "func_1": [
+     5,
+     10602,
+     300,
+     8
+    ],
+    "func_2": [
+     14,
+     3200
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Shadowflame·Hoyan",
+    "name_th": "Shadowflame·Hoyan"
+   },
+   "7": {
+    "type": 4,
+    "level": 7,
+    "cost": {
+     "id": 10601,
+     "count": 68500
+    },
+    "require": [
+     [
+      1,
+      1,
+      8
+     ]
+    ],
+    "func_1": [
+     5,
+     10602,
+     300,
+     9
+    ],
+    "func_2": [
+     14,
+     3600
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Shadowflame·Hoyan",
+    "name_th": "Shadowflame·Hoyan"
+   },
+   "8": {
+    "type": 4,
+    "level": 8,
+    "cost": {
+     "id": 10601,
+     "count": 102700
+    },
+    "require": [
+     [
+      1,
+      1,
+      9
+     ]
+    ],
+    "func_1": [
+     5,
+     10602,
+     300,
+     11
+    ],
+    "func_2": [
+     14,
+     4200
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Shadowflame·Hoyan",
+    "name_th": "Shadowflame·Hoyan"
+   },
+   "9": {
+    "type": 4,
+    "level": 9,
+    "cost": {
+     "id": 10601,
+     "count": 128000
+    },
+    "require": [
+     [
+      1,
+      1,
+      10
+     ]
+    ],
+    "func_1": [
+     5,
+     10602,
+     300,
+     12
+    ],
+    "func_2": [
+     14,
+     4800
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Shadowflame·Hoyan",
+    "name_th": "Shadowflame·Hoyan"
+   },
+   "10": {
+    "type": 4,
+    "level": 10,
+    "cost": null,
+    "require": null,
+    "func_1": [
+     5,
+     10602,
+     300,
+     14
+    ],
+    "func_2": [
+     14,
+     5600
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Shadowflame·Hoyan",
+    "name_th": "Shadowflame·Hoyan"
+   }
+  },
+  {
+   "0": {
+    "type": 5,
+    "level": 0,
+    "cost": {
+     "id": 10601,
+     "count": 900
+    },
+    "require": [
+     [
+      1,
+      1,
+      2
+     ]
+    ],
+    "func_1": null,
+    "func_2": null,
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": [
+     1,
+     3
+    ],
+    "name": "Jacques",
+    "name_th": "Jacques"
+   },
+   "1": {
+    "type": 5,
+    "level": 1,
+    "cost": {
+     "id": 10601,
+     "count": 1700
+    },
+    "require": [
+     [
+      1,
+      1,
+      2
+     ]
+    ],
+    "func_1": [
+     5,
+     10603,
+     300,
+     3
+    ],
+    "func_2": [
+     14,
+     1200
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Jacques",
+    "name_th": "Jacques"
+   },
+   "2": {
+    "type": 5,
+    "level": 2,
+    "cost": {
+     "id": 10601,
+     "count": 6400
+    },
+    "require": [
+     [
+      1,
+      1,
+      3
+     ]
+    ],
+    "func_1": [
+     5,
+     10603,
+     300,
+     4
+    ],
+    "func_2": [
+     14,
+     1600
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Jacques",
+    "name_th": "Jacques"
+   },
+   "3": {
+    "type": 5,
+    "level": 3,
+    "cost": {
+     "id": 10601,
+     "count": 10700
+    },
+    "require": [
+     [
+      1,
+      1,
+      4
+     ]
+    ],
+    "func_1": [
+     5,
+     10603,
+     300,
+     5
+    ],
+    "func_2": [
+     14,
+     2000
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Jacques",
+    "name_th": "Jacques"
+   },
+   "4": {
+    "type": 5,
+    "level": 4,
+    "cost": {
+     "id": 10601,
+     "count": 23500
+    },
+    "require": [
+     [
+      1,
+      1,
+      5
+     ]
+    ],
+    "func_1": [
+     5,
+     10603,
+     300,
+     6
+    ],
+    "func_2": [
+     14,
+     2400
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Jacques",
+    "name_th": "Jacques"
+   },
+   "5": {
+    "type": 5,
+    "level": 5,
+    "cost": {
+     "id": 10601,
+     "count": 34200
+    },
+    "require": [
+     [
+      1,
+      1,
+      6
+     ]
+    ],
+    "func_1": [
+     5,
+     10603,
+     300,
+     7
+    ],
+    "func_2": [
+     14,
+     2800
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Jacques",
+    "name_th": "Jacques"
+   },
+   "6": {
+    "type": 5,
+    "level": 6,
+    "cost": {
+     "id": 10601,
+     "count": 51400
+    },
+    "require": [
+     [
+      1,
+      1,
+      7
+     ]
+    ],
+    "func_1": [
+     5,
+     10603,
+     300,
+     8
+    ],
+    "func_2": [
+     14,
+     3200
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Jacques",
+    "name_th": "Jacques"
+   },
+   "7": {
+    "type": 5,
+    "level": 7,
+    "cost": {
+     "id": 10601,
+     "count": 68500
+    },
+    "require": [
+     [
+      1,
+      1,
+      8
+     ]
+    ],
+    "func_1": [
+     5,
+     10603,
+     300,
+     9
+    ],
+    "func_2": [
+     14,
+     3600
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Jacques",
+    "name_th": "Jacques"
+   },
+   "8": {
+    "type": 5,
+    "level": 8,
+    "cost": {
+     "id": 10601,
+     "count": 102700
+    },
+    "require": [
+     [
+      1,
+      1,
+      9
+     ]
+    ],
+    "func_1": [
+     5,
+     10603,
+     300,
+     11
+    ],
+    "func_2": [
+     14,
+     4200
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Jacques",
+    "name_th": "Jacques"
+   },
+   "9": {
+    "type": 5,
+    "level": 9,
+    "cost": {
+     "id": 10601,
+     "count": 128000
+    },
+    "require": [
+     [
+      1,
+      1,
+      10
+     ]
+    ],
+    "func_1": [
+     5,
+     10603,
+     300,
+     12
+    ],
+    "func_2": [
+     14,
+     4800
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Jacques",
+    "name_th": "Jacques"
+   },
+   "10": {
+    "type": 5,
+    "level": 10,
+    "cost": null,
+    "require": null,
+    "func_1": [
+     5,
+     10603,
+     300,
+     14
+    ],
+    "func_2": [
+     14,
+     5600
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Jacques",
+    "name_th": "Jacques"
+   }
+  },
+  {
+   "0": {
+    "type": 6,
+    "level": 0,
+    "cost": {
+     "id": 10601,
+     "count": 900
+    },
+    "require": [
+     [
+      1,
+      1,
+      3
+     ]
+    ],
+    "func_1": null,
+    "func_2": null,
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": [
+     1,
+     4
+    ],
+    "name": "Carrion Crows Khloros",
+    "name_th": "Carrion Crows Khloros"
+   },
+   "1": {
+    "type": 6,
+    "level": 1,
+    "cost": {
+     "id": 10601,
+     "count": 1700
+    },
+    "require": [
+     [
+      1,
+      1,
+      3
+     ]
+    ],
+    "func_1": [
+     5,
+     10604,
+     300,
+     3
+    ],
+    "func_2": [
+     14,
+     1200
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Carrion Crows Khloros",
+    "name_th": "Carrion Crows Khloros"
+   },
+   "2": {
+    "type": 6,
+    "level": 2,
+    "cost": {
+     "id": 10601,
+     "count": 6400
+    },
+    "require": [
+     [
+      1,
+      1,
+      3
+     ]
+    ],
+    "func_1": [
+     5,
+     10604,
+     300,
+     4
+    ],
+    "func_2": [
+     14,
+     1600
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Carrion Crows Khloros",
+    "name_th": "Carrion Crows Khloros"
+   },
+   "3": {
+    "type": 6,
+    "level": 3,
+    "cost": {
+     "id": 10601,
+     "count": 10700
+    },
+    "require": [
+     [
+      1,
+      1,
+      4
+     ]
+    ],
+    "func_1": [
+     5,
+     10604,
+     300,
+     5
+    ],
+    "func_2": [
+     14,
+     2000
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Carrion Crows Khloros",
+    "name_th": "Carrion Crows Khloros"
+   },
+   "4": {
+    "type": 6,
+    "level": 4,
+    "cost": {
+     "id": 10601,
+     "count": 23500
+    },
+    "require": [
+     [
+      1,
+      1,
+      5
+     ]
+    ],
+    "func_1": [
+     5,
+     10604,
+     300,
+     6
+    ],
+    "func_2": [
+     14,
+     2400
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Carrion Crows Khloros",
+    "name_th": "Carrion Crows Khloros"
+   },
+   "5": {
+    "type": 6,
+    "level": 5,
+    "cost": {
+     "id": 10601,
+     "count": 34200
+    },
+    "require": [
+     [
+      1,
+      1,
+      6
+     ]
+    ],
+    "func_1": [
+     5,
+     10604,
+     300,
+     7
+    ],
+    "func_2": [
+     14,
+     2800
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Carrion Crows Khloros",
+    "name_th": "Carrion Crows Khloros"
+   },
+   "6": {
+    "type": 6,
+    "level": 6,
+    "cost": {
+     "id": 10601,
+     "count": 51400
+    },
+    "require": [
+     [
+      1,
+      1,
+      7
+     ]
+    ],
+    "func_1": [
+     5,
+     10604,
+     300,
+     8
+    ],
+    "func_2": [
+     14,
+     3200
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Carrion Crows Khloros",
+    "name_th": "Carrion Crows Khloros"
+   },
+   "7": {
+    "type": 6,
+    "level": 7,
+    "cost": {
+     "id": 10601,
+     "count": 68500
+    },
+    "require": [
+     [
+      1,
+      1,
+      8
+     ]
+    ],
+    "func_1": [
+     5,
+     10604,
+     300,
+     9
+    ],
+    "func_2": [
+     14,
+     3600
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Carrion Crows Khloros",
+    "name_th": "Carrion Crows Khloros"
+   },
+   "8": {
+    "type": 6,
+    "level": 8,
+    "cost": {
+     "id": 10601,
+     "count": 102700
+    },
+    "require": [
+     [
+      1,
+      1,
+      9
+     ]
+    ],
+    "func_1": [
+     5,
+     10604,
+     300,
+     11
+    ],
+    "func_2": [
+     14,
+     4200
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Carrion Crows Khloros",
+    "name_th": "Carrion Crows Khloros"
+   },
+   "9": {
+    "type": 6,
+    "level": 9,
+    "cost": {
+     "id": 10601,
+     "count": 128000
+    },
+    "require": [
+     [
+      1,
+      1,
+      10
+     ]
+    ],
+    "func_1": [
+     5,
+     10604,
+     300,
+     12
+    ],
+    "func_2": [
+     14,
+     4800
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Carrion Crows Khloros",
+    "name_th": "Carrion Crows Khloros"
+   },
+   "10": {
+    "type": 6,
+    "level": 10,
+    "cost": null,
+    "require": null,
+    "func_1": [
+     5,
+     10604,
+     300,
+     14
+    ],
+    "func_2": [
+     14,
+     5600
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Carrion Crows Khloros",
+    "name_th": "Carrion Crows Khloros"
+   }
+  },
+  {
+   "0": {
+    "type": 7,
+    "level": 0,
+    "cost": {
+     "id": 10601,
+     "count": 900
+    },
+    "require": [
+     [
+      1,
+      1,
+      3
+     ]
+    ],
+    "func_1": null,
+    "func_2": null,
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": [
+     1,
+     4
+    ],
+    "name": "Astral Watcher Yeli",
+    "name_th": "Astral Watcher Yeli"
+   },
+   "1": {
+    "type": 7,
+    "level": 1,
+    "cost": {
+     "id": 10601,
+     "count": 1700
+    },
+    "require": [
+     [
+      1,
+      1,
+      3
+     ]
+    ],
+    "func_1": [
+     5,
+     10605,
+     300,
+     3
+    ],
+    "func_2": [
+     14,
+     1200
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Astral Watcher Yeli",
+    "name_th": "Astral Watcher Yeli"
+   },
+   "2": {
+    "type": 7,
+    "level": 2,
+    "cost": {
+     "id": 10601,
+     "count": 6400
+    },
+    "require": [
+     [
+      1,
+      1,
+      3
+     ]
+    ],
+    "func_1": [
+     5,
+     10605,
+     300,
+     4
+    ],
+    "func_2": [
+     14,
+     1600
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Astral Watcher Yeli",
+    "name_th": "Astral Watcher Yeli"
+   },
+   "3": {
+    "type": 7,
+    "level": 3,
+    "cost": {
+     "id": 10601,
+     "count": 10700
+    },
+    "require": [
+     [
+      1,
+      1,
+      4
+     ]
+    ],
+    "func_1": [
+     5,
+     10605,
+     300,
+     5
+    ],
+    "func_2": [
+     14,
+     2000
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Astral Watcher Yeli",
+    "name_th": "Astral Watcher Yeli"
+   },
+   "4": {
+    "type": 7,
+    "level": 4,
+    "cost": {
+     "id": 10601,
+     "count": 23500
+    },
+    "require": [
+     [
+      1,
+      1,
+      5
+     ]
+    ],
+    "func_1": [
+     5,
+     10605,
+     300,
+     6
+    ],
+    "func_2": [
+     14,
+     2400
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Astral Watcher Yeli",
+    "name_th": "Astral Watcher Yeli"
+   },
+   "5": {
+    "type": 7,
+    "level": 5,
+    "cost": {
+     "id": 10601,
+     "count": 34200
+    },
+    "require": [
+     [
+      1,
+      1,
+      6
+     ]
+    ],
+    "func_1": [
+     5,
+     10605,
+     300,
+     7
+    ],
+    "func_2": [
+     14,
+     2800
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Astral Watcher Yeli",
+    "name_th": "Astral Watcher Yeli"
+   },
+   "6": {
+    "type": 7,
+    "level": 6,
+    "cost": {
+     "id": 10601,
+     "count": 51400
+    },
+    "require": [
+     [
+      1,
+      1,
+      7
+     ]
+    ],
+    "func_1": [
+     5,
+     10605,
+     300,
+     8
+    ],
+    "func_2": [
+     14,
+     3200
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Astral Watcher Yeli",
+    "name_th": "Astral Watcher Yeli"
+   },
+   "7": {
+    "type": 7,
+    "level": 7,
+    "cost": {
+     "id": 10601,
+     "count": 68500
+    },
+    "require": [
+     [
+      1,
+      1,
+      8
+     ]
+    ],
+    "func_1": [
+     5,
+     10605,
+     300,
+     9
+    ],
+    "func_2": [
+     14,
+     3600
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Astral Watcher Yeli",
+    "name_th": "Astral Watcher Yeli"
+   },
+   "8": {
+    "type": 7,
+    "level": 8,
+    "cost": {
+     "id": 10601,
+     "count": 102700
+    },
+    "require": [
+     [
+      1,
+      1,
+      9
+     ]
+    ],
+    "func_1": [
+     5,
+     10605,
+     300,
+     11
+    ],
+    "func_2": [
+     14,
+     4200
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Astral Watcher Yeli",
+    "name_th": "Astral Watcher Yeli"
+   },
+   "9": {
+    "type": 7,
+    "level": 9,
+    "cost": {
+     "id": 10601,
+     "count": 128000
+    },
+    "require": [
+     [
+      1,
+      1,
+      10
+     ]
+    ],
+    "func_1": [
+     5,
+     10605,
+     300,
+     12
+    ],
+    "func_2": [
+     14,
+     4800
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Astral Watcher Yeli",
+    "name_th": "Astral Watcher Yeli"
+   },
+   "10": {
+    "type": 7,
+    "level": 10,
+    "cost": null,
+    "require": null,
+    "func_1": [
+     5,
+     10605,
+     300,
+     14
+    ],
+    "func_2": [
+     14,
+     5600
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Astral Watcher Yeli",
+    "name_th": "Astral Watcher Yeli"
+   }
+  },
+  {
+   "0": {
+    "type": 8,
+    "level": 0,
+    "cost": {
+     "id": 10601,
+     "count": 1700
+    },
+    "require": [
+     [
+      1,
+      1,
+      1
+     ]
+    ],
+    "func_1": null,
+    "func_2": null,
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": [
+     1,
+     3
+    ],
+    "name": "Axiom Verdict Nahor",
+    "name_th": "Axiom Verdict Nahor"
+   },
+   "1": {
+    "type": 8,
+    "level": 1,
+    "cost": {
+     "id": 10601,
+     "count": 3400
+    },
+    "require": [
+     [
+      1,
+      1,
+      2
+     ]
+    ],
+    "func_1": [
+     6,
+     43200,
+     201521
+    ],
+    "func_2": [
+     7,
+     5
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Axiom Verdict Nahor",
+    "name_th": "Axiom Verdict Nahor"
+   },
+   "2": {
+    "type": 8,
+    "level": 2,
+    "cost": {
+     "id": 10601,
+     "count": 12800
+    },
+    "require": [
+     [
+      1,
+      1,
+      3
+     ]
+    ],
+    "func_1": [
+     6,
+     39600,
+     201522
+    ],
+    "func_2": [
+     7,
+     5
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Axiom Verdict Nahor",
+    "name_th": "Axiom Verdict Nahor"
+   },
+   "3": {
+    "type": 8,
+    "level": 3,
+    "cost": {
+     "id": 10601,
+     "count": 21400
+    },
+    "require": [
+     [
+      1,
+      1,
+      4
+     ]
+    ],
+    "func_1": [
+     6,
+     39600,
+     201523
+    ],
+    "func_2": [
+     7,
+     6
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Axiom Verdict Nahor",
+    "name_th": "Axiom Verdict Nahor"
+   },
+   "4": {
+    "type": 8,
+    "level": 4,
+    "cost": {
+     "id": 10601,
+     "count": 47100
+    },
+    "require": [
+     [
+      1,
+      1,
+      5
+     ]
+    ],
+    "func_1": [
+     6,
+     36000,
+     201524
+    ],
+    "func_2": [
+     7,
+     6
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Axiom Verdict Nahor",
+    "name_th": "Axiom Verdict Nahor"
+   },
+   "5": {
+    "type": 8,
+    "level": 5,
+    "cost": {
+     "id": 10601,
+     "count": 68500
+    },
+    "require": [
+     [
+      1,
+      1,
+      6
+     ]
+    ],
+    "func_1": [
+     6,
+     36000,
+     201525
+    ],
+    "func_2": [
+     7,
+     7
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Axiom Verdict Nahor",
+    "name_th": "Axiom Verdict Nahor"
+   },
+   "6": {
+    "type": 8,
+    "level": 6,
+    "cost": {
+     "id": 10601,
+     "count": 102700
+    },
+    "require": [
+     [
+      1,
+      1,
+      7
+     ]
+    ],
+    "func_1": [
+     6,
+     32400,
+     201526
+    ],
+    "func_2": [
+     7,
+     7
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Axiom Verdict Nahor",
+    "name_th": "Axiom Verdict Nahor"
+   },
+   "7": {
+    "type": 8,
+    "level": 7,
+    "cost": {
+     "id": 10601,
+     "count": 137000
+    },
+    "require": [
+     [
+      1,
+      1,
+      8
+     ]
+    ],
+    "func_1": [
+     6,
+     32400,
+     201527
+    ],
+    "func_2": [
+     7,
+     8
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Axiom Verdict Nahor",
+    "name_th": "Axiom Verdict Nahor"
+   },
+   "8": {
+    "type": 8,
+    "level": 8,
+    "cost": {
+     "id": 10601,
+     "count": 205500
+    },
+    "require": [
+     [
+      1,
+      1,
+      9
+     ]
+    ],
+    "func_1": [
+     6,
+     28800,
+     201528
+    ],
+    "func_2": [
+     7,
+     8
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Axiom Verdict Nahor",
+    "name_th": "Axiom Verdict Nahor"
+   },
+   "9": {
+    "type": 8,
+    "level": 9,
+    "cost": {
+     "id": 10601,
+     "count": 256000
+    },
+    "require": [
+     [
+      1,
+      1,
+      10
+     ]
+    ],
+    "func_1": [
+     6,
+     28800,
+     201529
+    ],
+    "func_2": [
+     7,
+     9
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Axiom Verdict Nahor",
+    "name_th": "Axiom Verdict Nahor"
+   },
+   "10": {
+    "type": 8,
+    "level": 10,
+    "cost": null,
+    "require": null,
+    "func_1": [
+     6,
+     28800,
+     201530
+    ],
+    "func_2": [
+     7,
+     10
+    ],
+    "func_3": [
+     8
+    ],
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Axiom Verdict Nahor",
+    "name_th": "Axiom Verdict Nahor"
+   }
+  },
+  {
+   "0": {
+    "type": 9,
+    "level": 0,
+    "cost": null,
+    "require": null,
+    "func_1": null,
+    "func_2": null,
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": [
+     2
+    ],
+    "name": "Rengokutsu",
+    "name_th": "Rengokutsu"
+   },
+   "1": {
+    "type": 9,
+    "level": 1,
+    "cost": null,
+    "require": null,
+    "func_1": null,
+    "func_2": null,
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Rengokutsu",
+    "name_th": "Rengokutsu"
+   }
+  },
+  {
+   "0": {
+    "type": 10,
+    "level": 0,
+    "cost": {
+     "id": 10601,
+     "count": 1700
+    },
+    "require": null,
+    "func_1": null,
+    "func_2": null,
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Bloodspike Helkid",
+    "name_th": "Bloodspike Helkid"
+   },
+   "1": {
+    "type": 10,
+    "level": 1,
+    "cost": {
+     "id": 10601,
+     "count": 3400
+    },
+    "require": [
+     [
+      1,
+      1,
+      2
+     ]
+    ],
+    "func_1": [
+     10,
+     3
+    ],
+    "func_2": null,
+    "func_3": [
+     15,
+     1
+    ],
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Bloodspike Helkid",
+    "name_th": "Bloodspike Helkid"
+   },
+   "2": {
+    "type": 10,
+    "level": 2,
+    "cost": {
+     "id": 10601,
+     "count": 12800
+    },
+    "require": [
+     [
+      1,
+      1,
+      3
+     ]
+    ],
+    "func_1": [
+     10,
+     3
+    ],
+    "func_2": [
+     11,
+     5
+    ],
+    "func_3": [
+     15,
+     1
+    ],
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Bloodspike Helkid",
+    "name_th": "Bloodspike Helkid"
+   },
+   "3": {
+    "type": 10,
+    "level": 3,
+    "cost": {
+     "id": 10601,
+     "count": 21400
+    },
+    "require": [
+     [
+      1,
+      1,
+      4
+     ]
+    ],
+    "func_1": [
+     10,
+     3
+    ],
+    "func_2": [
+     11,
+     10
+    ],
+    "func_3": [
+     15,
+     1
+    ],
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Bloodspike Helkid",
+    "name_th": "Bloodspike Helkid"
+   },
+   "4": {
+    "type": 10,
+    "level": 4,
+    "cost": {
+     "id": 10601,
+     "count": 47100
+    },
+    "require": [
+     [
+      1,
+      1,
+      5
+     ]
+    ],
+    "func_1": [
+     10,
+     3
+    ],
+    "func_2": [
+     11,
+     15
+    ],
+    "func_3": [
+     15,
+     2
+    ],
+    "func_4": [
+     16,
+     2
+    ],
+    "unlock_condition": null,
+    "name": "Bloodspike Helkid",
+    "name_th": "Bloodspike Helkid"
+   },
+   "5": {
+    "type": 10,
+    "level": 5,
+    "cost": {
+     "id": 10601,
+     "count": 68500
+    },
+    "require": [
+     [
+      1,
+      1,
+      6
+     ]
+    ],
+    "func_1": [
+     10,
+     3
+    ],
+    "func_2": [
+     11,
+     20
+    ],
+    "func_3": [
+     15,
+     2
+    ],
+    "func_4": [
+     16,
+     2
+    ],
+    "unlock_condition": null,
+    "name": "Bloodspike Helkid",
+    "name_th": "Bloodspike Helkid"
+   },
+   "6": {
+    "type": 10,
+    "level": 6,
+    "cost": {
+     "id": 10601,
+     "count": 102700
+    },
+    "require": [
+     [
+      1,
+      1,
+      7
+     ]
+    ],
+    "func_1": [
+     10,
+     4
+    ],
+    "func_2": [
+     11,
+     25
+    ],
+    "func_3": [
+     15,
+     2
+    ],
+    "func_4": [
+     16,
+     2
+    ],
+    "unlock_condition": null,
+    "name": "Bloodspike Helkid",
+    "name_th": "Bloodspike Helkid"
+   },
+   "7": {
+    "type": 10,
+    "level": 7,
+    "cost": {
+     "id": 10601,
+     "count": 137000
+    },
+    "require": [
+     [
+      1,
+      1,
+      8
+     ]
+    ],
+    "func_1": [
+     10,
+     4
+    ],
+    "func_2": [
+     11,
+     30
+    ],
+    "func_3": [
+     15,
+     2
+    ],
+    "func_4": [
+     16,
+     3
+    ],
+    "unlock_condition": null,
+    "name": "Bloodspike Helkid",
+    "name_th": "Bloodspike Helkid"
+   },
+   "8": {
+    "type": 10,
+    "level": 8,
+    "cost": {
+     "id": 10601,
+     "count": 205500
+    },
+    "require": [
+     [
+      1,
+      1,
+      9
+     ]
+    ],
+    "func_1": [
+     10,
+     4
+    ],
+    "func_2": [
+     11,
+     35
+    ],
+    "func_3": [
+     15,
+     3
+    ],
+    "func_4": [
+     16,
+     3
+    ],
+    "unlock_condition": null,
+    "name": "Bloodspike Helkid",
+    "name_th": "Bloodspike Helkid"
+   },
+   "9": {
+    "type": 10,
+    "level": 9,
+    "cost": {
+     "id": 10601,
+     "count": 256000
+    },
+    "require": [
+     [
+      1,
+      1,
+      10
+     ]
+    ],
+    "func_1": [
+     10,
+     4
+    ],
+    "func_2": [
+     11,
+     40
+    ],
+    "func_3": [
+     15,
+     3
+    ],
+    "func_4": [
+     16,
+     3
+    ],
+    "unlock_condition": null,
+    "name": "Bloodspike Helkid",
+    "name_th": "Bloodspike Helkid"
+   },
+   "10": {
+    "type": 10,
+    "level": 10,
+    "cost": null,
+    "require": null,
+    "func_1": [
+     10,
+     5
+    ],
+    "func_2": [
+     11,
+     50
+    ],
+    "func_3": [
+     15,
+     3
+    ],
+    "func_4": [
+     16,
+     3
+    ],
+    "unlock_condition": null,
+    "name": "Bloodspike Helkid",
+    "name_th": "Bloodspike Helkid"
+   }
+  },
+  {
+   "0": {
+    "type": 11,
+    "level": 0,
+    "cost": {
+     "id": 10601,
+     "count": 1400
+    },
+    "require": null,
+    "func_1": null,
+    "func_2": null,
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": [
+     1,
+     4
+    ],
+    "name": "Shadowrunner",
+    "name_th": "Shadowrunner"
+   },
+   "1": {
+    "type": 11,
+    "level": 1,
+    "cost": {
+     "id": 10601,
+     "count": 2900
+    },
+    "require": [
+     [
+      1,
+      1,
+      2
+     ]
+    ],
+    "func_1": [
+     17,
+     1
+    ],
+    "func_2": null,
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Shadowrunner",
+    "name_th": "Shadowrunner"
+   },
+   "2": {
+    "type": 11,
+    "level": 2,
+    "cost": {
+     "id": 10601,
+     "count": 10700
+    },
+    "require": [
+     [
+      1,
+      1,
+      3
+     ]
+    ],
+    "func_1": [
+     17,
+     1
+    ],
+    "func_2": [
+     18,
+     10
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Shadowrunner",
+    "name_th": "Shadowrunner"
+   },
+   "3": {
+    "type": 11,
+    "level": 3,
+    "cost": {
+     "id": 10601,
+     "count": 17800
+    },
+    "require": [
+     [
+      1,
+      1,
+      4
+     ]
+    ],
+    "func_1": [
+     17,
+     2
+    ],
+    "func_2": [
+     18,
+     15
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Shadowrunner",
+    "name_th": "Shadowrunner"
+   },
+   "4": {
+    "type": 11,
+    "level": 4,
+    "cost": {
+     "id": 10601,
+     "count": 39200
+    },
+    "require": [
+     [
+      1,
+      1,
+      5
+     ]
+    ],
+    "func_1": [
+     17,
+     2
+    ],
+    "func_2": [
+     18,
+     20
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Shadowrunner",
+    "name_th": "Shadowrunner"
+   },
+   "5": {
+    "type": 11,
+    "level": 5,
+    "cost": {
+     "id": 10601,
+     "count": 57100
+    },
+    "require": [
+     [
+      1,
+      1,
+      6
+     ]
+    ],
+    "func_1": [
+     17,
+     3
+    ],
+    "func_2": [
+     18,
+     25
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Shadowrunner",
+    "name_th": "Shadowrunner"
+   },
+   "6": {
+    "type": 11,
+    "level": 6,
+    "cost": {
+     "id": 10601,
+     "count": 85600
+    },
+    "require": [
+     [
+      1,
+      1,
+      7
+     ]
+    ],
+    "func_1": [
+     17,
+     3
+    ],
+    "func_2": [
+     18,
+     30
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Shadowrunner",
+    "name_th": "Shadowrunner"
+   },
+   "7": {
+    "type": 11,
+    "level": 7,
+    "cost": {
+     "id": 10601,
+     "count": 114200
+    },
+    "require": [
+     [
+      1,
+      1,
+      8
+     ]
+    ],
+    "func_1": [
+     17,
+     4
+    ],
+    "func_2": [
+     18,
+     35
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Shadowrunner",
+    "name_th": "Shadowrunner"
+   },
+   "8": {
+    "type": 11,
+    "level": 8,
+    "cost": {
+     "id": 10601,
+     "count": 171200
+    },
+    "require": [
+     [
+      1,
+      1,
+      9
+     ]
+    ],
+    "func_1": [
+     17,
+     4
+    ],
+    "func_2": [
+     18,
+     40
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Shadowrunner",
+    "name_th": "Shadowrunner"
+   },
+   "9": {
+    "type": 11,
+    "level": 9,
+    "cost": {
+     "id": 10601,
+     "count": 213300
+    },
+    "require": [
+     [
+      1,
+      1,
+      10
+     ]
+    ],
+    "func_1": [
+     17,
+     4
+    ],
+    "func_2": [
+     18,
+     45
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Shadowrunner",
+    "name_th": "Shadowrunner"
+   },
+   "10": {
+    "type": 11,
+    "level": 10,
+    "cost": null,
+    "require": null,
+    "func_1": [
+     17,
+     4
+    ],
+    "func_2": [
+     18,
+     50
+    ],
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Shadowrunner",
+    "name_th": "Shadowrunner"
+   }
+  },
+  {
+   "0": {
+    "type": 12,
+    "level": 0,
+    "cost": {
+     "id": 10601,
+     "count": 2300
+    },
+    "require": [
+     [
+      1,
+      1,
+      1
+     ]
+    ],
+    "func_1": null,
+    "func_2": null,
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Whitney",
+    "name_th": "Whitney"
+   },
+   "1": {
+    "type": 12,
+    "level": 1,
+    "cost": {
+     "id": 10601,
+     "count": 4600
+    },
+    "require": [
+     [
+      1,
+      1,
+      2
+     ]
+    ],
+    "func_1": [
+     13,
+     1
+    ],
+    "func_2": null,
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Whitney",
+    "name_th": "Whitney"
+   },
+   "2": {
+    "type": 12,
+    "level": 2,
+    "cost": {
+     "id": 10601,
+     "count": 17100
+    },
+    "require": [
+     [
+      1,
+      1,
+      3
+     ]
+    ],
+    "func_1": [
+     13,
+     2
+    ],
+    "func_2": null,
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Whitney",
+    "name_th": "Whitney"
+   },
+   "3": {
+    "type": 12,
+    "level": 3,
+    "cost": {
+     "id": 10601,
+     "count": 28500
+    },
+    "require": [
+     [
+      1,
+      1,
+      4
+     ]
+    ],
+    "func_1": [
+     13,
+     3
+    ],
+    "func_2": null,
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Whitney",
+    "name_th": "Whitney"
+   },
+   "4": {
+    "type": 12,
+    "level": 4,
+    "cost": {
+     "id": 10601,
+     "count": 62800
+    },
+    "require": [
+     [
+      1,
+      1,
+      5
+     ]
+    ],
+    "func_1": [
+     13,
+     5
+    ],
+    "func_2": null,
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Whitney",
+    "name_th": "Whitney"
+   },
+   "5": {
+    "type": 12,
+    "level": 5,
+    "cost": {
+     "id": 10601,
+     "count": 91300
+    },
+    "require": [
+     [
+      1,
+      1,
+      6
+     ]
+    ],
+    "func_1": [
+     13,
+     8
+    ],
+    "func_2": null,
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Whitney",
+    "name_th": "Whitney"
+   },
+   "6": {
+    "type": 12,
+    "level": 6,
+    "cost": {
+     "id": 10601,
+     "count": 137000
+    },
+    "require": [
+     [
+      1,
+      1,
+      7
+     ]
+    ],
+    "func_1": [
+     13,
+     12
+    ],
+    "func_2": null,
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Whitney",
+    "name_th": "Whitney"
+   },
+   "7": {
+    "type": 12,
+    "level": 7,
+    "cost": {
+     "id": 10601,
+     "count": 182600
+    },
+    "require": [
+     [
+      1,
+      1,
+      8
+     ]
+    ],
+    "func_1": [
+     13,
+     16
+    ],
+    "func_2": null,
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Whitney",
+    "name_th": "Whitney"
+   },
+   "8": {
+    "type": 12,
+    "level": 8,
+    "cost": {
+     "id": 10601,
+     "count": 274000
+    },
+    "require": [
+     [
+      1,
+      1,
+      9
+     ]
+    ],
+    "func_1": [
+     13,
+     20
+    ],
+    "func_2": null,
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Whitney",
+    "name_th": "Whitney"
+   },
+   "9": {
+    "type": 12,
+    "level": 9,
+    "cost": {
+     "id": 10601,
+     "count": 341300
+    },
+    "require": [
+     [
+      1,
+      1,
+      10
+     ]
+    ],
+    "func_1": [
+     13,
+     25
+    ],
+    "func_2": null,
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Whitney",
+    "name_th": "Whitney"
+   },
+   "10": {
+    "type": 12,
+    "level": 10,
+    "cost": null,
+    "require": null,
+    "func_1": [
+     13,
+     50
+    ],
+    "func_2": null,
+    "func_3": null,
+    "func_4": null,
+    "unlock_condition": null,
+    "name": "Whitney",
+    "name_th": "Whitney"
+   }
+  }
+ ],
+ "text_chunk": "00086_f0a3f015b7c04bef.json"
+}

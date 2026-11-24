@@ -1,0 +1,234 @@
+{
+ "config": "guide",
+ "fields": [
+  "id",
+  "type",
+  "cam_angle",
+  "trigger_type",
+  "trigger_param",
+  "pre_story",
+  "post_story",
+  "steps",
+  "early_end_step"
+ ],
+ "rows": {
+  "1": [
+   {
+    "id": 1,
+    "type": 1,
+    "cam_angle": 1000.0,
+    "trigger_type": 1,
+    "trigger_param": 99,
+    "pre_story": 0,
+    "post_story": 0,
+    "steps": [
+     1
+    ],
+    "early_end_step": 1
+   }
+  ],
+  "2": {
+   "2": {
+    "id": 2,
+    "type": 2,
+    "cam_angle": -154.4,
+    "trigger_type": 2,
+    "trigger_param": 100101,
+    "pre_story": 1060103,
+    "post_story": 0,
+    "steps": [
+     87,
+     80,
+     81,
+     82,
+     83,
+     84,
+     88,
+     86,
+     86
+    ],
+    "early_end_step": 84
+   },
+   "3": {
+    "id": 3,
+    "type": 2,
+    "cam_angle": -115.0,
+    "trigger_type": 2,
+    "trigger_param": 100101,
+    "pre_story": 1060104,
+    "post_story": 0,
+    "steps": [
+     19,
+     5,
+     6,
+     8,
+     9
+    ],
+    "early_end_step": 6
+   },
+   "4": {
+    "id": 4,
+    "type": 2,
+    "cam_angle": -30.0,
+    "trigger_type": 2,
+    "trigger_param": 100101,
+    "pre_story": 1060102,
+    "post_story": 0,
+    "steps": [
+     13,
+     10,
+     11,
+     12
+    ],
+    "early_end_step": 11
+   },
+   "5": {
+    "id": 5,
+    "type": 2,
+    "cam_angle": -154.4,
+    "trigger_type": 2,
+    "trigger_param": 100205,
+    "pre_story": 0,
+    "post_story": 0,
+    "steps": [
+     49,
+     40,
+     42,
+     43,
+     44,
+     45,
+     46,
+     47,
+     48
+    ],
+    "early_end_step": 48
+   },
+   "6": {
+    "id": 6,
+    "type": 2,
+    "cam_angle": -154.4,
+    "trigger_type": 1,
+    "trigger_param": 99,
+    "pre_story": 0,
+    "post_story": 0,
+    "steps": [
+     74,
+     60,
+     61,
+     63,
+     64,
+     65,
+     73,
+     73,
+     66,
+     75,
+     68,
+     69,
+     73,
+     73,
+     70,
+     71,
+     72
+    ],
+    "early_end_step": 65
+   },
+   "7": {
+    "id": 7,
+    "type": 2,
+    "cam_angle": -30.0,
+    "trigger_type": 2,
+    "trigger_param": 100202,
+    "pre_story": 2000104,
+    "post_story": 0,
+    "steps": [
+     13,
+     10,
+     11,
+     12
+    ],
+    "early_end_step": 12
+   },
+   "8": {
+    "id": 8,
+    "type": 2,
+    "cam_angle": -154.4,
+    "trigger_type": 2,
+    "trigger_param": 100305,
+    "pre_story": 0,
+    "post_story": 0,
+    "steps": [
+     105,
+     100,
+     101,
+     103,
+     104
+    ],
+    "early_end_step": 104
+   },
+   "9": {
+    "id": 9,
+    "type": 2,
+    "cam_angle": -30.0,
+    "trigger_type": 2,
+    "trigger_param": 100305,
+    "pre_story": 0,
+    "post_story": 0,
+    "steps": [
+     25,
+     20,
+     21,
+     22,
+     24
+    ],
+    "early_end_step": 24
+   },
+   "10": {
+    "id": 10,
+    "type": 2,
+    "cam_angle": -30.0,
+    "trigger_type": 2,
+    "trigger_param": 100205,
+    "pre_story": 0,
+    "post_story": 0,
+    "steps": [
+     124,
+     120,
+     121,
+     122,
+     123
+    ],
+    "early_end_step": 123
+   }
+  },
+  "4": {
+   "11": {
+    "id": 11,
+    "type": 4,
+    "cam_angle": 1000.0,
+    "trigger_type": 3,
+    "trigger_param": 51,
+    "pre_story": 0,
+    "post_story": 0,
+    "steps": [
+     140,
+     141,
+     61,
+     63,
+     64,
+     65,
+     73,
+     73,
+     66,
+     75,
+     68,
+     69,
+     73,
+     73,
+     70
+    ],
+    "early_end_step": -1
+   }
+  }
+ },
+ "text_chunk": null
+}

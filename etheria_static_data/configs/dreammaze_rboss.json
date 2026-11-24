@@ -1,0 +1,1288 @@
+{
+ "config": "dreammaze_rboss",
+ "fields": [
+  "id",
+  "dungeon_id",
+  "loot_id",
+  "weight",
+  "legend_prob",
+  "restrict_prop",
+  "open_time",
+  "attr",
+  "icon",
+  "cst_prop_ids",
+  "monster_ids",
+  "zone_name",
+  "battle_skin",
+  "battle_tips",
+  "name",
+  "desc"
+ ],
+ "rows": {
+  "1": {
+   "id": 1,
+   "dungeon_id": [
+    14000001,
+    14000002,
+    14000003,
+    14000004,
+    14000005
+   ],
+   "loot_id": [
+    220021,
+    220022,
+    220023,
+    220024,
+    220025
+   ],
+   "weight": 10,
+   "legend_prob": 10,
+   "restrict_prop": [
+    [
+     2
+    ],
+    [
+     2
+    ]
+   ],
+   "open_time": null,
+   "attr": 3,
+   "icon": 30251,
+   "cst_prop_ids": [
+    1400101,
+    1400101,
+    1400101,
+    1400101,
+    1400101
+   ],
+   "monster_ids": [
+    14000001,
+    14000002,
+    14000003,
+    14000004,
+    14000005
+   ],
+   "zone_name": "",
+   "battle_skin": [
+    64002,
+    64004,
+    64006
+   ],
+   "battle_tips": 0,
+   "name": "Lilith",
+   "name_th": "Lilith",
+   "desc": "Virtual Figure Lilith, born in the boundless dreamscape from the Dreamweaver's captivity and replication. Innocent? Or cruel? Beware her ever-changing, whimsical torments between reality and illusion.",
+   "desc_th": "Lilith ร่างเสมือน ถือกำเนิดขึ้นในดินแดนแห่งความฝันอันไร้ขอบเขต จากการถูกจองจำและการจำลองของ Dreamweaver เธอไร้เดียงสา? หรือโหดร้าย? จงระวังความทรมานแสนแปลกประหลาด และการเปลี่ยนแปลงของเธอ ที่โลดแล่นอยู่ระหว่างความจริงและภาพลวงตา"
+  },
+  "2": {
+   "id": 2,
+   "dungeon_id": [
+    14000011,
+    14000012,
+    14000013,
+    14000014,
+    14000015
+   ],
+   "loot_id": [
+    220021,
+    220022,
+    220023,
+    220024,
+    220025
+   ],
+   "weight": 10,
+   "legend_prob": 10,
+   "restrict_prop": [
+    [
+     2
+    ],
+    [
+     2
+    ]
+   ],
+   "open_time": null,
+   "attr": 3,
+   "icon": 31051,
+   "cst_prop_ids": [
+    1400201,
+    1400201,
+    1400201,
+    1400201,
+    1400201
+   ],
+   "monster_ids": [
+    14000011,
+    14000012,
+    14000013,
+    14000014,
+    14000015
+   ],
+   "zone_name": "",
+   "battle_skin": [
+    64002,
+    64004,
+    64006
+   ],
+   "battle_tips": 0,
+   "name": "Celince",
+   "name_th": "Celince",
+   "desc": "Virtual Figure Celince, born in the boundless dreamscape from the Dreamweaver's captivity and replication. An absurd overture swells, a new drama begins, and she, its most perilous spectator, moves through the scene.",
+   "desc_th": "Celince ร่างเสมือน ถือกำเนิดขึ้นในดินแดนแห่งความฝันอันไร้ขอบเขต จากการถูกจองจำและการจำลองของ Dreamweaver บทนำที่ไร้สาระดังขึ้น ละครเรื่องใหม่เริ่มต้นขึ้น และเธอผู้ซึ่งเป็นผู้ชมที่อันตรายที่สุดก็เดินผ่านฉากนั้น"
+  },
+  "3": {
+   "id": 3,
+   "dungeon_id": [
+    14000021,
+    14000022,
+    14000023,
+    14000024,
+    14000025
+   ],
+   "loot_id": [
+    220021,
+    220022,
+    220023,
+    220024,
+    220025
+   ],
+   "weight": 10,
+   "legend_prob": 10,
+   "restrict_prop": [
+    [
+     2
+    ],
+    [
+     2
+    ]
+   ],
+   "open_time": null,
+   "attr": 3,
+   "icon": 31251,
+   "cst_prop_ids": [
+    1400301,
+    1400301,
+    1400301,
+    1400301,
+    1400301
+   ],
+   "monster_ids": [
+    14000021,
+    14000022,
+    14000023,
+    14000024,
+    14000025
+   ],
+   "zone_name": "",
+   "battle_skin": [
+    64002,
+    64004,
+    64006
+   ],
+   "battle_tips": 0,
+   "name": "Freya",
+   "name_th": "Freya",
+   "desc": "Virtual Figure Freya, born in the boundless dreamscape from the Dreamweaver's captivity and replication. False stars echo with hollow praise. Listen. Marvel. Fall asleep, and... forget the truth.",
+   "desc_th": "Freya ร่างเสมือน ถือกำเนิดขึ้นในดินแดนแห่งความฝันอันไร้ขอบเขต จากการถูกจองจำและการจำลองของ Dreamweaver ดวงดาวจอมปลอมสะท้อนเสียงสรรเสริญอันว่างเปล่า รับฟัง ชื่นชม ดื่มด่ำ จากนั้น... ลืมความจริงไปซะ"
+  },
+  "4": {
+   "id": 4,
+   "dungeon_id": [
+    14000031,
+    14000032,
+    14000033,
+    14000034,
+    14000035
+   ],
+   "loot_id": [
+    220021,
+    220022,
+    220023,
+    220024,
+    220025
+   ],
+   "weight": 0,
+   "legend_prob": 0,
+   "restrict_prop": [
+    [
+     2
+    ],
+    [
+     2
+    ]
+   ],
+   "open_time": null,
+   "attr": 3,
+   "icon": 30601,
+   "cst_prop_ids": [
+    1400401,
+    1400401,
+    1400401,
+    1400401,
+    1400401
+   ],
+   "monster_ids": [
+    14000031,
+    14000032,
+    14000033,
+    14000034,
+    14000035
+   ],
+   "zone_name": "",
+   "battle_skin": [
+    64002,
+    64004,
+    64006
+   ],
+   "battle_tips": 0,
+   "name": "Rahu",
+   "name_th": "Rahu",
+   "desc": "Virtual Figure Rahu, born in the boundless dreamscape from the Dreamweaver's captivity and replication. Trade, bargain, and hoard... On the other side of the dream, greed still buys the most.",
+   "desc_th": "Rahu ร่างเสมือน ถือกำเนิดขึ้นในดินแดนแห่งความฝันอันไร้ขอบเขต จากการถูกจองจำและการจำลองของ Dreamweaver การค้า การต่อรอง และการสะสม... ในอีกด้านหนึ่งของความฝัน ความโลภนั้นยังคงเป็นสิ่งที่ซื้อได้มากที่สุด"
+  },
+  "5": {
+   "id": 5,
+   "dungeon_id": [
+    14000041,
+    14000042,
+    14000043,
+    14000044,
+    14000045
+   ],
+   "loot_id": [
+    220021,
+    220022,
+    220023,
+    220024,
+    220025
+   ],
+   "weight": 0,
+   "legend_prob": 0,
+   "restrict_prop": [
+    [
+     2
+    ],
+    [
+     2
+    ]
+   ],
+   "open_time": null,
+   "attr": 3,
+   "icon": 30451,
+   "cst_prop_ids": [
+    1400501,
+    1400501,
+    1400501,
+    1400501,
+    1400501
+   ],
+   "monster_ids": [
+    14000041,
+    14000042,
+    14000043,
+    14000044,
+    14000045
+   ],
+   "zone_name": "",
+   "battle_skin": [
+    64002,
+    64004,
+    64006
+   ],
+   "battle_tips": 0,
+   "name": "Kloss",
+   "name_th": "Kloss",
+   "desc": "Virtual Figure Kloss, born in the boundless dreamscape from the Dreamweaver's captivity and replication. Even reborn in illusion, she never forgets how to revel in her own way.",
+   "desc_th": "Kloss ร่างเสมือน ถือกำเนิดขึ้นในดินแดนแห่งความฝันอันไร้ขอบเขต จากการถูกจองจำและการจำลองของ Dreamweaver แม้จะเกิดใหม่ในภาพลวงตา แต่เธอก็ไม่เคยลืมวิธีสนุกสนานของตัวเอง"
+  },
+  "6": {
+   "id": 6,
+   "dungeon_id": [
+    14000101,
+    14000102,
+    14000103,
+    14000104,
+    14000105
+   ],
+   "loot_id": [
+    220001,
+    220002,
+    220003,
+    220004,
+    220005
+   ],
+   "weight": 10,
+   "legend_prob": 10,
+   "restrict_prop": [
+    [
+     3
+    ],
+    [
+     3
+    ]
+   ],
+   "open_time": null,
+   "attr": 1,
+   "icon": 30801,
+   "cst_prop_ids": [
+    1401101,
+    1401101,
+    1401101,
+    1401101,
+    1401101
+   ],
+   "monster_ids": [
+    14000101,
+    14000102,
+    14000103,
+    14000104,
+    14000105
+   ],
+   "zone_name": "",
+   "battle_skin": [
+    64002,
+    64004,
+    64006
+   ],
+   "battle_tips": 0,
+   "name": "Holden",
+   "name_th": "Holden",
+   "desc": "Virtual Figure Holden, born in the boundless dreamscape from the Dreamweaver's captivity and replication. Eyes in the void have seen it all. Resist, though the end remains the same.",
+   "desc_th": "Holden ร่างเสมือน ถือกำเนิดขึ้นในดินแดนแห่งความฝันอันไร้ขอบเขต จากการถูกจองจำและการจำลองของ Dreamweaver ดวงตาในความว่างเปล่ามองเห็นทุกสิ่ง จงอดทนไว้ แม้จุดจบจะยังเหมือนเดิมก็ตาม"
+  },
+  "7": {
+   "id": 7,
+   "dungeon_id": [
+    14000111,
+    14000112,
+    14000113,
+    14000114,
+    14000115
+   ],
+   "loot_id": [
+    220001,
+    220002,
+    220003,
+    220004,
+    220005
+   ],
+   "weight": 0,
+   "legend_prob": 0,
+   "restrict_prop": [
+    [
+     3
+    ],
+    [
+     3
+    ]
+   ],
+   "open_time": null,
+   "attr": 1,
+   "icon": 30401,
+   "cst_prop_ids": [
+    1401201,
+    1401201,
+    1401201,
+    1401201,
+    1401201
+   ],
+   "monster_ids": [
+    14000111,
+    14000112,
+    14000113,
+    14000114,
+    14000115
+   ],
+   "zone_name": "",
+   "battle_skin": [
+    64002,
+    64004,
+    64006
+   ],
+   "battle_tips": 0,
+   "name": "Lian",
+   "name_th": "Lian",
+   "desc": "Virtual Figure Lian, born in the boundless dreamscape from the Dreamweaver's captivity and replication. The blade breaks through the flames and cuts the dream apart. This time, though, it turns against the old allies.",
+   "desc_th": "Lian ร่างเสมือน ถือกำเนิดขึ้นในดินแดนแห่งความฝันอันไร้ขอบเขต จากการถูกจองจำและการจำลองของ Dreamweaver คมดาบแหวกผ่านเปลวเพลิง และตัดขาดความฝันจนสะบั้น แต่คราวนี้มันกลับย้อนกลับมาทำร้ายพันธมิตรเก่า"
+  },
+  "8": {
+   "id": 8,
+   "dungeon_id": [
+    14000121,
+    14000122,
+    14000123,
+    14000124,
+    14000125
+   ],
+   "loot_id": [
+    220001,
+    220002,
+    220003,
+    220004,
+    220005
+   ],
+   "weight": 10,
+   "legend_prob": 10,
+   "restrict_prop": [
+    [
+     3
+    ],
+    [
+     3
+    ]
+   ],
+   "open_time": null,
+   "attr": 1,
+   "icon": 31351,
+   "cst_prop_ids": [
+    1401301,
+    1401301,
+    1401301,
+    1401301,
+    1401301
+   ],
+   "monster_ids": [
+    14000121,
+    14000122,
+    14000123,
+    14000124,
+    14000125
+   ],
+   "zone_name": "",
+   "battle_skin": [
+    64002,
+    64004,
+    64006
+   ],
+   "battle_tips": 0,
+   "name": "Mia",
+   "name_th": "Mia",
+   "desc": "Virtual Figure Mia, born in the boundless dreamscape from the Dreamweaver's captivity and replication. Gentle illusions lure the careless. But even soft water can kill.",
+   "desc_th": "Mia ร่างเสมือน ถือกำเนิดขึ้นในดินแดนแห่งความฝันอันไร้ขอบเขต จากการถูกจองจำและการจำลองของ Dreamweaver ภาพลวงตาอันอ่อนโยนล่อลวงผู้คนที่ไม่ระวังตัวได้เสมอ แต่แม้แต่น้ำธรรมดาก็สังหารคนได้เช่นกัน"
+  },
+  "9": {
+   "id": 9,
+   "dungeon_id": [
+    14000131,
+    14000132,
+    14000133,
+    14000134,
+    14000135
+   ],
+   "loot_id": [
+    220001,
+    220002,
+    220003,
+    220004,
+    220005
+   ],
+   "weight": 0,
+   "legend_prob": 0,
+   "restrict_prop": [
+    [
+     3
+    ],
+    [
+     3
+    ]
+   ],
+   "open_time": null,
+   "attr": 1,
+   "icon": 40571,
+   "cst_prop_ids": [
+    1401401,
+    1401401,
+    1401401,
+    1401401,
+    1401401
+   ],
+   "monster_ids": [
+    14000131,
+    14000132,
+    14000133,
+    14000134,
+    14000135
+   ],
+   "zone_name": "",
+   "battle_skin": [
+    64002,
+    64004,
+    64006
+   ],
+   "battle_tips": 0,
+   "name": "Khloros",
+   "name_th": "Khloros",
+   "desc": "Virtual Figure Khloros, born in the boundless dreamscape from the Dreamweaver's captivity and replication. Shame once buried fuels his wrath of revenge. Brace yourself, as death's scythe draws near.",
+   "desc_th": "Khloros ร่างเสมือน ถือกำเนิดขึ้นในดินแดนแห่งความฝันอันไร้ขอบเขต จากการถูกจองจำและการจำลองของ Dreamweaver ความอัปยศที่ถูกฝั่งไว้ครึ่งหนึ่ง กลับกลายเป็นเชื้อเพลิงแห่งความโกรธแค้น จงเตรียมตัวให้พร้อม เคียวมรณะใกล้เข้ามาแล้ว"
+  },
+  "10": {
+   "id": 10,
+   "dungeon_id": [
+    14000141,
+    14000142,
+    14000143,
+    14000144,
+    14000145
+   ],
+   "loot_id": [
+    220001,
+    220002,
+    220003,
+    220004,
+    220005
+   ],
+   "weight": 10,
+   "legend_prob": 10,
+   "restrict_prop": [
+    [
+     3
+    ],
+    [
+     3
+    ]
+   ],
+   "open_time": null,
+   "attr": 1,
+   "icon": 30101,
+   "cst_prop_ids": [
+    1401501,
+    1401501,
+    1401501,
+    1401501,
+    1401501
+   ],
+   "monster_ids": [
+    14000141,
+    14000142,
+    14000143,
+    14000144,
+    14000145
+   ],
+   "zone_name": "",
+   "battle_skin": [
+    64002,
+    64004,
+    64006
+   ],
+   "battle_tips": 0,
+   "name": "Helkid",
+   "name_th": "Helkid",
+   "desc": "Virtual Figure Helkid, born in the boundless dreamscape from the Dreamweaver's captivity and replication. He carves ambition and deceit with crimson crystal, even when the path is lost.",
+   "desc_th": "Helkid ร่างเสมือน ถือกำเนิดขึ้นในดินแดนแห่งความฝันอันไร้ขอบเขต จากการถูกจองจำและการจำลองของ Dreamweaver เขาสร้างความทะเยอทะยานและแผนการร้ายด้วยหนามคริสตัลสีแดง แม้ว่าจะหลงทางก็ตาม"
+  },
+  "11": {
+   "id": 11,
+   "dungeon_id": [
+    14000201,
+    14000202,
+    14000203,
+    14000204,
+    14000205
+   ],
+   "loot_id": [
+    220011,
+    220012,
+    220013,
+    220014,
+    220015
+   ],
+   "weight": 10,
+   "legend_prob": 10,
+   "restrict_prop": [
+    [
+     1
+    ],
+    [
+     1
+    ]
+   ],
+   "open_time": null,
+   "attr": 2,
+   "icon": 30751,
+   "cst_prop_ids": [
+    1402101,
+    1402101,
+    1402101,
+    1402101,
+    1402101
+   ],
+   "monster_ids": [
+    14000201,
+    14000202,
+    14000203,
+    14000204,
+    14000205
+   ],
+   "zone_name": "",
+   "battle_skin": [
+    64002,
+    64004,
+    64006
+   ],
+   "battle_tips": 0,
+   "name": "Lingluo",
+   "name_th": "Lingluo",
+   "desc": "Virtual Figure Lingluo, born in the boundless dreamscape from the Dreamweaver's captivity and replication. Whales echo in her song. Those who seek the divine voice sink into hollow illusion.",
+   "desc_th": "Lingluo ร่างเสมือน ถือกำเนิดขึ้นในดินแดนแห่งความฝันอันไร้ขอบเขต จากการถูกจองจำและการจำลองของ Dreamweaver เสียงวาฬก้องกังวานในบทเพลงของเธอ ผู้ที่แสวงหาเสียงศักดิ์สิทธิ์จมดิ่งลงสู่ภาพลวงตาอันว่างเปล่า"
+  },
+  "12": {
+   "id": 12,
+   "dungeon_id": [
+    14000211,
+    14000212,
+    14000213,
+    14000214,
+    14000215
+   ],
+   "loot_id": [
+    220011,
+    220012,
+    220013,
+    220014,
+    220015
+   ],
+   "weight": 10,
+   "legend_prob": 10,
+   "restrict_prop": [
+    [
+     1
+    ],
+    [
+     1
+    ]
+   ],
+   "open_time": null,
+   "attr": 2,
+   "icon": 31201,
+   "cst_prop_ids": [
+    1402201,
+    1402201,
+    1402201,
+    1402201,
+    1402201
+   ],
+   "monster_ids": [
+    14000211,
+    14000212,
+    14000213,
+    14000214,
+    14000215
+   ],
+   "zone_name": "",
+   "battle_skin": [
+    64002,
+    64004,
+    64006
+   ],
+   "battle_tips": 0,
+   "name": "Tsukiyo Mi",
+   "name_th": "Tsukiyo Mi",
+   "desc": "Virtual Figure Tsukiyo Mi, born in the boundless dreamscape from the Dreamweaver's captivity and replication. She never lets go of her unyielding aegis and lance. No matter the place or time, she stands for what is right.",
+   "desc_th": "Tsukiyo Mi ร่างเสมือน ถือกำเนิดขึ้นในดินแดนแห่งความฝันอันไร้ขอบเขต จากการถูกจองจำและการจำลองของ Dreamweaver เธอไม่เคยละทิ้งโล่และหอกอันแข็งแกร่งของตนเอง ไม่ว่าเมื่อไหร่หรือที่ใด เธอจะยืนหยัดเพื่อสิ่งที่ถูกต้องเสมอ"
+  },
+  "13": {
+   "id": 13,
+   "dungeon_id": [
+    14000221,
+    14000222,
+    14000223,
+    14000224,
+    14000225
+   ],
+   "loot_id": [
+    220011,
+    220012,
+    220013,
+    220014,
+    220015
+   ],
+   "weight": 10,
+   "legend_prob": 10,
+   "restrict_prop": [
+    [
+     1
+    ],
+    [
+     1
+    ]
+   ],
+   "open_time": null,
+   "attr": 2,
+   "icon": 31401,
+   "cst_prop_ids": [
+    1402301,
+    1402301,
+    1402301,
+    1402301,
+    1402301
+   ],
+   "monster_ids": [
+    14000221,
+    14000222,
+    14000223,
+    14000224,
+    14000225
+   ],
+   "zone_name": "",
+   "battle_skin": [
+    64002,
+    64004,
+    64006
+   ],
+   "battle_tips": 0,
+   "name": "Nahor",
+   "name_th": "Nahor",
+   "desc": "Virtual Figure Nahor, born in the boundless dreamscape from the Dreamweaver's captivity and replication. Justice has vanished. The scales of jurisdiction now weigh only death.",
+   "desc_th": "Nahor ร่างเสมือน ถือกำเนิดขึ้นในดินแดนแห่งความฝันอันไร้ขอบเขต จากการถูกจองจำและการจำลองของ Dreamweaver ความยุติธรรมได้สูญสิ้นไปแล้ว ตราชั่งแห่งความยุติธรรมในตอนนี้มีน้ำหนักเพียงความตายเท่านั้น"
+  },
+  "14": {
+   "id": 14,
+   "dungeon_id": [
+    14000231,
+    14000232,
+    14000233,
+    14000234,
+    14000235
+   ],
+   "loot_id": [
+    220011,
+    220012,
+    220013,
+    220014,
+    220015
+   ],
+   "weight": 0,
+   "legend_prob": 0,
+   "restrict_prop": [
+    [
+     1
+    ],
+    [
+     1
+    ]
+   ],
+   "open_time": null,
+   "attr": 2,
+   "icon": 31451,
+   "cst_prop_ids": [
+    1402401,
+    1402401,
+    1402401,
+    1402401,
+    1402401
+   ],
+   "monster_ids": [
+    14000231,
+    14000232,
+    14000233,
+    14000234,
+    14000235
+   ],
+   "zone_name": "",
+   "battle_skin": [
+    64002,
+    64004,
+    64006
+   ],
+   "battle_tips": 0,
+   "name": "Borgne",
+   "name_th": "Borgne",
+   "desc": "Virtual Figure Borgne, born in the boundless dreamscape from the Dreamweaver's captivity and replication. The dark has fallen. The hound awakens. Beware not the light ahead, but the shadow behind.",
+   "desc_th": "Borgne ร่างเสมือน ถือกำเนิดขึ้นในดินแดนแห่งความฝันอันไร้ขอบเขต จากการถูกจองจำและการจำลองของ Dreamweaver ความมืดปกคลุมจนทั่วแล้ว สุนัขล่าเนื้อพลันตื่นแล้ว อย่ามัวระวังแสงข้างหน้า แต่จงระวังเงาข้างหลัง"
+  },
+  "15": {
+   "id": 15,
+   "dungeon_id": [
+    14000241,
+    14000242,
+    14000243,
+    14000244,
+    14000245
+   ],
+   "loot_id": [
+    220011,
+    220012,
+    220013,
+    220014,
+    220015
+   ],
+   "weight": 0,
+   "legend_prob": 0,
+   "restrict_prop": [
+    [
+     1
+    ],
+    [
+     1
+    ]
+   ],
+   "open_time": null,
+   "attr": 2,
+   "icon": 30501,
+   "cst_prop_ids": [
+    1402501,
+    1402501,
+    1402501,
+    1402501,
+    1402501
+   ],
+   "monster_ids": [
+    14000241,
+    14000242,
+    14000243,
+    14000244,
+    14000245
+   ],
+   "zone_name": "",
+   "battle_skin": [
+    64002,
+    64004,
+    64006
+   ],
+   "battle_tips": 0,
+   "name": "Tiamat",
+   "name_th": "Tiamat",
+   "desc": "Virtual Figure Tiamat, born in the boundless dreamscape from the Dreamweaver's captivity and replication. Her wounds healed in dreams. With spear in hand, the fury within will break all bounds.",
+   "desc_th": "Tiamat ร่างเสมือน ถือกำเนิดขึ้นในดินแดนแห่งความฝันอันไร้ขอบเขต จากการถูกจองจำและการจำลองของ Dreamweaver บาดแผลของเธอได้รับการเยียวยาในความฝัน ความโกรธแค้นภายในจะทำลายขอบเขตทั้งหมด ด้วยหอกในมือ"
+  },
+  "16": {
+   "id": 16,
+   "dungeon_id": [
+    14000301,
+    14000302,
+    14000303,
+    14000304,
+    14000305
+   ],
+   "loot_id": [
+    220031,
+    220032,
+    220033,
+    220034,
+    220035
+   ],
+   "weight": 10,
+   "legend_prob": 10,
+   "restrict_prop": [
+    [
+     5
+    ],
+    [
+     5
+    ]
+   ],
+   "open_time": null,
+   "attr": 4,
+   "icon": 40481,
+   "cst_prop_ids": [
+    1403101,
+    1403101,
+    1403101,
+    1403101,
+    1403101
+   ],
+   "monster_ids": [
+    14000301,
+    14000302,
+    14000303,
+    14000304,
+    14000305
+   ],
+   "zone_name": "",
+   "battle_skin": [
+    64002,
+    64004,
+    64006
+   ],
+   "battle_tips": 0,
+   "name": "Shadow Sania",
+   "name_th": "Withered Shadow Sania",
+   "desc": "Virtual Figure Shadow Sania, born in the boundless dreamscape from the Dreamweaver's captivity and replication. Vines twist around the false, binding the hopeless fantasy. Intruders shall pay the price.",
+   "desc_th": "Shadow Sania ร่างเสมือน ถือกำเนิดขึ้นในดินแดนแห่งความฝันอันไร้ขอบเขต จากการถูกจองจำและการจำลองของ Dreamweaver เถาวัลย์พันรอบความจอมปลอม ผูกมัดจินตนาการอันสิ้นหวัง ผู้บุกรุกจะต้องชดใช้"
+  },
+  "17": {
+   "id": 17,
+   "dungeon_id": [
+    14000311,
+    14000312,
+    14000313,
+    14000314,
+    14000315
+   ],
+   "loot_id": [
+    220031,
+    220032,
+    220033,
+    220034,
+    220035
+   ],
+   "weight": 10,
+   "legend_prob": 10,
+   "restrict_prop": [
+    [
+     5
+    ],
+    [
+     5
+    ]
+   ],
+   "open_time": null,
+   "attr": 4,
+   "icon": 30301,
+   "cst_prop_ids": [
+    1403201,
+    1403201,
+    1403201,
+    1403201,
+    1403201
+   ],
+   "monster_ids": [
+    14000311,
+    14000312,
+    14000313,
+    14000314,
+    14000315
+   ],
+   "zone_name": "",
+   "battle_skin": [
+    64002,
+    64004,
+    64006
+   ],
+   "battle_tips": 0,
+   "name": "Heinrich",
+   "name_th": "Heinrich",
+   "desc": "Virtual Figure Heinrich, born in the boundless dreamscape from the Dreamweaver's captivity and replication. Be it dream or reality, none escape once 'Reaper' sets its mark.",
+   "desc_th": "Heinrich ร่างเสมือน ถือกำเนิดขึ้นในดินแดนแห่งความฝันอันไร้ขอบเขต จากการถูกจองจำและการจำลองของ Dreamweaver ไม่ว่าจะเป็นความฝันหรือความจริง เมื่อ \"ยมทูต\" ได้สร้างสัญลักษณ์ไว้ ก็ไม่มีใครหนีรอดไปได้"
+  },
+  "18": {
+   "id": 18,
+   "dungeon_id": [
+    14000321,
+    14000322,
+    14000323,
+    14000324,
+    14000325
+   ],
+   "loot_id": [
+    220031,
+    220032,
+    220033,
+    220034,
+    220035
+   ],
+   "weight": 10,
+   "legend_prob": 10,
+   "restrict_prop": [
+    [
+     5
+    ],
+    [
+     5
+    ]
+   ],
+   "open_time": null,
+   "attr": 4,
+   "icon": 30651,
+   "cst_prop_ids": [
+    1403301,
+    1403301,
+    1403301,
+    1403301,
+    1403301
+   ],
+   "monster_ids": [
+    14000321,
+    14000322,
+    14000323,
+    14000324,
+    14000325
+   ],
+   "zone_name": "",
+   "battle_skin": [
+    64002,
+    64004,
+    64006
+   ],
+   "battle_tips": 0,
+   "name": "Lily",
+   "name_th": "Lily",
+   "desc": "Virtual Figure Lily, born in the boundless dreamscape from the Dreamweaver's captivity and replication. She no longer fears. No longer flees. The magician stands ready for her grandest act.",
+   "desc_th": "Lily ร่างเสมือน ถือกำเนิดขึ้นในดินแดนแห่งความฝันอันไร้ขอบเขต จากการถูกจองจำและการจำลองของ Dreamweaver เธอไม่หวาดกลัวและไม่หนีอีกต่อไป นักมายากลเตรียมพร้อมสำหรับการแสดงอันยิ่งใหญ่ที่สุดของเธอแล้ว"
+  },
+  "19": {
+   "id": 19,
+   "dungeon_id": [
+    14000401,
+    14000402,
+    14000403,
+    14000404,
+    14000405
+   ],
+   "loot_id": [
+    220041,
+    220042,
+    220043,
+    220044,
+    220045
+   ],
+   "weight": 10,
+   "legend_prob": 10,
+   "restrict_prop": [
+    [
+     4
+    ],
+    [
+     4
+    ]
+   ],
+   "open_time": null,
+   "attr": 5,
+   "icon": 31551,
+   "cst_prop_ids": [
+    1404101,
+    1404101,
+    1404101,
+    1404101,
+    1404101
+   ],
+   "monster_ids": [
+    14000401,
+    14000402,
+    14000403,
+    14000404,
+    14000405
+   ],
+   "zone_name": "",
+   "battle_skin": [
+    64002,
+    64004,
+    64006
+   ],
+   "battle_tips": 0,
+   "name": "Mio",
+   "name_th": "Mio",
+   "desc": "Virtual Figure Mio, born in the boundless dreamscape from the Dreamweaver's captivity and replication. Even in dreams, she rules with pride. What danger hides behind that drifting smoke?",
+   "desc_th": "Mio ร่างเสมือน ถือกำเนิดขึ้นในดินแดนแห่งความฝันอันไร้ขอบเขต จากการถูกจองจำและการจำลองของ Dreamweaver แม้แต่ในความฝัน เธอก็ยังปกครองด้วยความภาคภูมิใจ อันตรายใดซ่อนอยู่เบื้องหลังควันที่ลอยฟุ้งกัน?"
+  },
+  "20": {
+   "id": 20,
+   "dungeon_id": [
+    14000411,
+    14000412,
+    14000413,
+    14000414,
+    14000415
+   ],
+   "loot_id": [
+    220041,
+    220042,
+    220043,
+    220044,
+    220045
+   ],
+   "weight": 10,
+   "legend_prob": 10,
+   "restrict_prop": [
+    [
+     4
+    ],
+    [
+     4
+    ]
+   ],
+   "open_time": null,
+   "attr": 5,
+   "icon": 31151,
+   "cst_prop_ids": [
+    1404201,
+    1404201,
+    1404201,
+    1404201,
+    1404201
+   ],
+   "monster_ids": [
+    14000411,
+    14000412,
+    14000413,
+    14000414,
+    14000415
+   ],
+   "zone_name": "",
+   "battle_skin": [
+    64002,
+    64004,
+    64006
+   ],
+   "battle_tips": 0,
+   "name": "Yeli",
+   "name_th": "Yeli",
+   "desc": "Virtual Figure Yeli, born in the boundless dreamscape from the Dreamweaver's captivity and replication. Butterflies dance through the night. Starlight flickers. The perfect girl grants every dream, until the dream devours you.",
+   "desc_th": "Yeli ร่างเสมือน ถือกำเนิดขึ้นในดินแดนแห่งความฝันอันไร้ขอบเขต จากการถูกจองจำและการจำลองของ Dreamweaver ผีเสื้อโบยบินในราตรี แสงดาวส่องระยิบระยับ หญิงสาวผู้สมบูรณ์แบบจะมอบทุกความฝัน จนกว่าความฝันนั้นจะกลืนกินเธอ"
+  },
+  "21": {
+   "id": 21,
+   "dungeon_id": [
+    14000421,
+    14000422,
+    14000423,
+    14000424,
+    14000425
+   ],
+   "loot_id": [
+    220041,
+    220042,
+    220043,
+    220044,
+    220045
+   ],
+   "weight": 10,
+   "legend_prob": 10,
+   "restrict_prop": [
+    [
+     4
+    ],
+    [
+     4
+    ]
+   ],
+   "open_time": null,
+   "attr": 5,
+   "icon": 30051,
+   "cst_prop_ids": [
+    1404301,
+    1404301,
+    1404301,
+    1404301,
+    1404301
+   ],
+   "monster_ids": [
+    14000421,
+    14000422,
+    14000423,
+    14000424,
+    14000425
+   ],
+   "zone_name": "",
+   "battle_skin": [
+    64002,
+    64004,
+    64006
+   ],
+   "battle_tips": 0,
+   "name": "DokiDoki",
+   "name_th": "DokiDoki",
+   "desc": "Virtual Figure DokiDoki, born in the boundless dreamscape from the Dreamweaver's captivity and replication. That blazing fire of desire is destined to burn everything to ash.",
+   "desc_th": "DokiDoki ร่างเสมือน ถือกำเนิดขึ้นในดินแดนแห่งความฝันอันไร้ขอบเขต จากการถูกจองจำและการจำลองของ Dreamweaver ไฟแห่งความปรารถนาอันลุกโชนนี้จะเผาผลาญทุกสิ่งจนกลายเป็นเถ้าถ่าน"
+  },
+  "501": {
+   "id": 501,
+   "dungeon_id": [
+    14000601
+   ],
+   "loot_id": [
+    220101
+   ],
+   "weight": 0,
+   "legend_prob": 0,
+   "restrict_prop": [
+    [
+     3,
+     1
+    ]
+   ],
+   "open_time": [
+    1,
+    2
+   ],
+   "attr": 1,
+   "icon": 0,
+   "cst_prop_ids": [
+    1406101
+   ],
+   "monster_ids": [
+    14000601
+   ],
+   "zone_name": "Maze_Room_FinalBoss_Sub",
+   "battle_skin": null,
+   "battle_tips": 1001,
+   "name": "Lindelle",
+   "name_th": "Lindelle",
+   "desc": "Where the Black Sea of teeming, formless minds meets the edge of all things, a shadowed rift to Etheria soundlessly unfurls. Carried on that surging tide of thought, the sea's deadliest foe slips every embankment, breaks every bond, and races for Etheria...",
+   "desc_th": "ณ ทะเลดำแห่งจิตใจอันกว้างใหญ่อันไร้รูปร่างบรรจบกับขอบของสรรพสิ่ง รอยแยกอันมืดมิดที่นำไปสู่ Etheria ได้เปิดออกอย่างเงียบ ๆ กระความคิดที่เชี่ยวกรากยังคงดำเนินต่อไป ศัตรูที่อันตรายที่สุดในทะเลได้ข้ามผ่านทุกสิ่ง ทำลายทุกพันธนาการและพุ่งเข้าสู่ Etheria..."
+  },
+  "502": {
+   "id": 502,
+   "dungeon_id": [
+    14000602
+   ],
+   "loot_id": [
+    220101
+   ],
+   "weight": 0,
+   "legend_prob": 0,
+   "restrict_prop": [
+    [
+     1,
+     5
+    ]
+   ],
+   "open_time": [
+    3,
+    4
+   ],
+   "attr": 2,
+   "icon": 0,
+   "cst_prop_ids": [
+    1406201
+   ],
+   "monster_ids": [
+    14000602
+   ],
+   "zone_name": "Maze_Room_FinalBoss_Blue_Sub",
+   "battle_skin": null,
+   "battle_tips": 1002,
+   "name": "Lindelle",
+   "name_th": "Lindelle",
+   "desc": "Where the Black Sea of teeming, formless minds meets the edge of all things, a shadowed rift to Etheria soundlessly unfurls. Carried on that surging tide of thought, the sea's deadliest foe slips every embankment, breaks every bond, and races for Etheria...",
+   "desc_th": "ณ ทะเลดำแห่งจิตใจอันกว้างใหญ่อันไร้รูปร่างบรรจบกับขอบของสรรพสิ่ง รอยแยกอันมืดมิดที่นำไปสู่ Etheria ได้เปิดออกอย่างเงียบ ๆ กระความคิดที่เชี่ยวกรากยังคงดำเนินต่อไป ศัตรูที่อันตรายที่สุดในทะเลได้ข้ามผ่านทุกสิ่ง ทำลายทุกพันธนาการและพุ่งเข้าสู่ Etheria..."
+  },
+  "503": {
+   "id": 503,
+   "dungeon_id": [
+    14000603
+   ],
+   "loot_id": [
+    220101
+   ],
+   "weight": 0,
+   "legend_prob": 0,
+   "restrict_prop": [
+    [
+     2,
+     4
+    ]
+   ],
+   "open_time": [
+    5,
+    6,
+    7
+   ],
+   "attr": 3,
+   "icon": 0,
+   "cst_prop_ids": [
+    1406301
+   ],
+   "monster_ids": [
+    14000603
+   ],
+   "zone_name": "Maze_Room_FinalBoss_Green_Sub",
+   "battle_skin": null,
+   "battle_tips": 1003,
+   "name": "Lindelle",
+   "name_th": "Lindelle",
+   "desc": "Where the Black Sea of teeming, formless minds meets the edge of all things, a shadowed rift to Etheria soundlessly unfurls. Carried on that surging tide of thought, the sea's deadliest foe slips every embankment, breaks every bond, and races for Etheria...",
+   "desc_th": "ณ ทะเลดำแห่งจิตใจอันกว้างใหญ่อันไร้รูปร่างบรรจบกับขอบของสรรพสิ่ง รอยแยกอันมืดมิดที่นำไปสู่ Etheria ได้เปิดออกอย่างเงียบ ๆ กระความคิดที่เชี่ยวกรากยังคงดำเนินต่อไป ศัตรูที่อันตรายที่สุดในทะเลได้ข้ามผ่านทุกสิ่ง ทำลายทุกพันธนาการและพุ่งเข้าสู่ Etheria..."
+  }
+ },
+ "text_chunk": "00076_db8b272b1d15d120.json"
+}

@@ -1,0 +1,84 @@
+{
+ "config": "linkerexamtotalreward",
+ "fields": [
+  "total_num",
+  "award"
+ ],
+ "rows": [
+  {
+   "total_num": 50,
+   "award": [
+    {
+     "id": 10202,
+     "count": 5
+    }
+   ]
+  },
+  {
+   "total_num": 100,
+   "award": [
+    {
+     "id": 10011,
+     "count": 500
+    }
+   ]
+  },
+  {
+   "total_num": 200,
+   "award": [
+    {
+     "id": 10116,
+     "count": 1
+    }
+   ]
+  },
+  {
+   "total_num": 300,
+   "award": [
+    {
+     "id": 10134,
+     "count": 1
+    }
+   ]
+  },
+  {
+   "total_num": 400,
+   "award": [
+    {
+     "id": 10207,
+     "count": 5
+    }
+   ]
+  },
+  {
+   "total_num": 500,
+   "award": [
+    {
+     "id": 10117,
+     "count": 1
+    }
+   ]
+  },
+  {
+   "total_num": 0,
+   "award": null
+  },
+  {
+   "total_num": 0,
+   "award": null
+  },
+  {
+   "total_num": 0,
+   "award": null
+  },
+  {
+   "total_num": 0,
+   "award": null
+  },
+  {
+   "total_num": 0,
+   "award": null
+  }
+ ],
+ "text_chunk": null
+}

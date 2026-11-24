@@ -1,0 +1,81 @@
+{
+ "config": "activity_strongholdreward",
+ "fields": [
+  "id",
+  "point",
+  "reward"
+ ],
+ "rows": [
+  {
+   "id": 1,
+   "point": 10000,
+   "reward": [
+    {
+     "id": 10011,
+     "count": 200
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "point": 20000,
+   "reward": [
+    {
+     "id": 10111,
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "point": 30000,
+   "reward": [
+    {
+     "id": 10306,
+     "count": 1
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "point": 40000,
+   "reward": [
+    {
+     "id": 10179,
+     "count": 1
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "point": 60000,
+   "reward": [
+    {
+     "id": 10207,
+     "count": 1
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "point": 80000,
+   "reward": [
+    {
+     "id": 10306,
+     "count": 1
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "point": 100000,
+   "reward": [
+    {
+     "id": 10180,
+     "count": 1
+    }
+   ]
+  }
+ ],
+ "text_chunk": null
+}

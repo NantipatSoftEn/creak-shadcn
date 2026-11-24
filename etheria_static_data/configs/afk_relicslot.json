@@ -1,0 +1,68 @@
+{
+ "config": "afk_relicslot",
+ "fields": [
+  "pos",
+  "type",
+  "main_prop",
+  "name"
+ ],
+ "rows": [
+  {
+   "pos": 1,
+   "type": 1,
+   "main_prop": 8,
+   "name": "Oneiric Box",
+   "name_th": "กล่องดั่งความฝัน"
+  },
+  {
+   "pos": 2,
+   "type": 1,
+   "main_prop": 8,
+   "name": "Heroic Box",
+   "name_th": "กล่อง Hero"
+  },
+  {
+   "pos": 3,
+   "type": 2,
+   "main_prop": 4,
+   "name": "Clouded Dreams",
+   "name_th": "ความฝันเลือนราง"
+  },
+  {
+   "pos": 4,
+   "type": 2,
+   "main_prop": 4,
+   "name": "Gilded Radiance",
+   "name_th": "Gilded Radiance"
+  },
+  {
+   "pos": 5,
+   "type": 3,
+   "main_prop": 12,
+   "name": "Phantom Parade",
+   "name_th": "พาเหรดมายา"
+  },
+  {
+   "pos": 6,
+   "type": 3,
+   "main_prop": 12,
+   "name": "Wishweaver",
+   "name_th": "Belldream"
+  },
+  {
+   "pos": 7,
+   "type": 4,
+   "main_prop": 16,
+   "name": "Vintage Mystery I",
+   "name_th": "Vintage Mystery I"
+  },
+  {
+   "pos": 8,
+   "type": 4,
+   "main_prop": 16,
+   "name": "Vintage Mystery II",
+   "name_th": "Vintage Mystery II"
+  }
+ ],
+ "text_chunk": "00003_deefdaa0c97517f3.json"
+}

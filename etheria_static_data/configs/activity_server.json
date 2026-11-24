@@ -1,0 +1,236 @@
+{
+ "config": "activity_server",
+ "fields": [
+  "group_id",
+  "server_codes"
+ ],
+ "rows": {
+  "1000": {
+   "group_id": 1000,
+   "server_codes": [
+    "kol"
+   ]
+  },
+  "1001": {
+   "group_id": 1001,
+   "server_codes": [
+    "dev",
+    "cbt3",
+    "itest",
+    "cbt4",
+    "cnprod",
+    "cnitest",
+    "cnreview",
+    "cnpreitest",
+    "ctest",
+    "cnedit"
+   ]
+  },
+  "1002": {
+   "group_id": 1002,
+   "server_codes": [
+    "dev",
+    "cbt3",
+    "itest",
+    "cbt4",
+    "twcbt",
+    "twitest",
+    "twcbt2",
+    "sgitest",
+    "sgcbt",
+    "sgprod",
+    "sgzone",
+    "global",
+    "sgitestzone",
+    "itestglobal",
+    "devzone",
+    "devglobal",
+    "itftest",
+    "pk",
+    "jpprod",
+    "krprod",
+    "twprod",
+    "cnprod",
+    "jpitest",
+    "kritest",
+    "twitest",
+    "cnitest",
+    "eazone",
+    "eaitestzone",
+    "cnreview",
+    "twreview",
+    "sgpreitest",
+    "twpreitest",
+    "cnpreitest",
+    "ctest",
+    "cnedit",
+    "sgedit",
+    "sgreview",
+    "euprod",
+    "euitest",
+    "naprod",
+    "naitest"
+   ]
+  },
+  "2001": {
+   "group_id": 2001,
+   "server_codes": [
+    "twcbt",
+    "twitest",
+    "twcbt2",
+    "twprod",
+    "twitest",
+    "twreview",
+    "twpreitest"
+   ]
+  },
+  "3001": {
+   "group_id": 3001,
+   "server_codes": [
+    "sgitest",
+    "sgkol",
+    "sgcbt",
+    "sgprod",
+    "naprod",
+    "euprod",
+    "sgzone",
+    "naitest",
+    "euitest",
+    "sgitestzone",
+    "itestglobal",
+    "sgpreitest",
+    "global",
+    "sgedit",
+    "sgreview"
+   ]
+  },
+  "4001": {
+   "group_id": 4001,
+   "server_codes": [
+    "jpprod",
+    "jpitest",
+    "eazone",
+    "eaitestzone"
+   ]
+  },
+  "5001": {
+   "group_id": 5001,
+   "server_codes": [
+    "krprod",
+    "kritest"
+   ]
+  },
+  "3011": {
+   "group_id": 3011,
+   "server_codes": [
+    "kol",
+    "dev",
+    "cbt3",
+    "itest",
+    "cbt4",
+    "twcbt",
+    "twitest",
+    "twcbt2",
+    "sgitest",
+    "sgkol",
+    "sgcbt",
+    "sgprod",
+    "sgzone",
+    "sgitestzone",
+    "itestglobal",
+    "devzone",
+    "devglobal",
+    "itftest",
+    "pk",
+    "jpprod",
+    "krprod",
+    "twprod",
+    "cnprod",
+    "jpitest",
+    "kritest",
+    "twitest",
+    "cnitest",
+    "eazone",
+    "eaitestzone",
+    "global",
+    "cnreview",
+    "twreview",
+    "sgpreitest",
+    "twpreitest",
+    "cnpreitest",
+    "ctest",
+    "cnedit",
+    "sgedit",
+    "sgreview"
+   ]
+  },
+  "3012": {
+   "group_id": 3012,
+   "server_codes": [
+    "euprod",
+    "euitest"
+   ]
+  },
+  "3013": {
+   "group_id": 3013,
+   "server_codes": [
+    "naprod",
+    "naitest"
+   ]
+  },
+  "3021": {
+   "group_id": 3021,
+   "server_codes": [
+    "kol",
+    "dev",
+    "cbt3",
+    "itest",
+    "cbt4",
+    "twcbt",
+    "twitest",
+    "twcbt2",
+    "devzone",
+    "devglobal",
+    "itftest",
+    "pk",
+    "jpprod",
+    "krprod",
+    "twprod",
+    "cnprod",
+    "jpitest",
+    "kritest",
+    "twitest",
+    "cnitest",
+    "eazone",
+    "eaitestzone",
+    "cnreview",
+    "twreview",
+    "twpreitest",
+    "cnpreitest",
+    "ctest",
+    "cnedit"
+   ]
+  },
+  "3022": {
+   "group_id": 3022,
+   "server_codes": [
+    "sgitest",
+    "sgkol",
+    "sgcbt",
+    "sgprod",
+    "naprod",
+    "euprod",
+    "sgzone",
+    "naitest",
+    "euitest",
+    "sgitestzone",
+    "itestglobal",
+    "sgpreitest",
+    "global",
+    "sgedit",
+    "sgreview"
+   ]
+  }
+ },
+ "text_chunk": null
+}

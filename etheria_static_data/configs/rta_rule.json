@@ -1,0 +1,126 @@
+{
+ "config": "rta_rule",
+ "fields": [
+  "id",
+  "icon",
+  "tips"
+ ],
+ "rows": {
+  "1": {
+   "id": 1,
+   "icon": "T_UI_Icon_Arena_PreBan",
+   "tips": [
+    502
+   ]
+  },
+  "2": {
+   "id": 2,
+   "icon": "T_UI_Icon_Arena_Lock",
+   "tips": [
+    503
+   ]
+  },
+  "3": {
+   "id": 3,
+   "icon": "T_UI_Icon_Arena_Private",
+   "tips": [
+    504
+   ]
+  },
+  "4": {
+   "id": 4,
+   "icon": "T_UI_Icon_Arena_Powerup",
+   "tips": [
+    505
+   ]
+  },
+  "5": {
+   "id": 5,
+   "icon": "T_UI_Icon_Arena_Protect",
+   "tips": [
+    506
+   ]
+  },
+  "6": {
+   "id": 6,
+   "icon": "T_UI_Icon_Arena_Sprint",
+   "tips": [
+    507
+   ]
+  },
+  "7": {
+   "id": 7,
+   "icon": "T_UI_Icon_Arena_Quick",
+   "tips": [
+    508
+   ]
+  },
+  "8": {
+   "id": 8,
+   "icon": "T_UI_Icon_Arena_Attribute",
+   "tips": [
+    509
+   ]
+  },
+  "9": {
+   "id": 9,
+   "icon": "T_UI_Icon_Arena_PreBan2",
+   "tips": [
+    510
+   ]
+  },
+  "10": {
+   "id": 10,
+   "icon": "T_UI_Icon_Arena_Quick",
+   "tips": [
+    511
+   ]
+  },
+  "11": {
+   "id": 11,
+   "icon": "",
+   "tips": null
+  },
+  "12": {
+   "id": 12,
+   "icon": "",
+   "tips": null
+  },
+  "13": {
+   "id": 13,
+   "icon": "",
+   "tips": null
+  },
+  "14": {
+   "id": 14,
+   "icon": "",
+   "tips": null
+  },
+  "15": {
+   "id": 15,
+   "icon": "",
+   "tips": null
+  },
+  "16": {
+   "id": 16,
+   "icon": "",
+   "tips": null
+  },
+  "100": {
+   "id": 100,
+   "icon": "",
+   "tips": null
+  },
+  "101": {
+   "id": 101,
+   "icon": "",
+   "tips": null
+  },
+  "102": {
+   "id": 102,
+   "icon": "",
+   "tips": null
+  }
+ },
+ "text_chunk": null
+}

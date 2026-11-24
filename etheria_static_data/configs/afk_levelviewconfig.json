@@ -1,0 +1,1505 @@
+{
+ "config": "afk_levelviewconfig",
+ "fields": [
+  "chapter",
+  "unit_id_list",
+  "drop1",
+  "drop2",
+  "scene",
+  "chapter_name"
+ ],
+ "rows": [
+  {
+   "chapter": 1,
+   "unit_id_list": [
+    46361,
+    40546,
+    46511,
+    50301,
+    40901,
+    46101,
+    50181,
+    46126,
+    50061,
+    50161,
+    46541,
+    46481,
+    40421,
+    50201
+   ],
+   "drop1": [
+    [
+     21001,
+     10,
+     1
+    ]
+   ],
+   "drop2": [
+    21009,
+    21013,
+    21012,
+    21007,
+    21011,
+    21008
+   ],
+   "scene": "T_UI_AFK_Env_1",
+   "chapter_name": "Chaos Grid",
+   "chapter_name_th": "Chaos Grid"
+  },
+  {
+   "chapter": 2,
+   "unit_id_list": null,
+   "drop1": [
+    [
+     21001,
+     40,
+     1
+    ]
+   ],
+   "drop2": [
+    21009,
+    21013,
+    21012,
+    21007,
+    21011,
+    21008
+   ],
+   "scene": "T_UI_AFK_Env_2",
+   "chapter_name": "Infernal Arc",
+   "chapter_name_th": "Infernal Arc"
+  },
+  {
+   "chapter": 3,
+   "unit_id_list": [
+    46541,
+    46241,
+    46101,
+    40601,
+    50161,
+    50301,
+    46481,
+    40661,
+    50181,
+    46306,
+    40546,
+    50201,
+    46511,
+    46361
+   ],
+   "drop1": [
+    [
+     21001,
+     70,
+     1
+    ]
+   ],
+   "drop2": [
+    21009,
+    21013,
+    21012,
+    21007,
+    21011,
+    21008
+   ],
+   "scene": "T_UI_AFK_Env_3",
+   "chapter_name": "Aurora Realm",
+   "chapter_name_th": "Aurora Realm"
+  },
+  {
+   "chapter": 4,
+   "unit_id_list": null,
+   "drop1": [
+    [
+     21001,
+     100,
+     1
+    ]
+   ],
+   "drop2": [
+    21009,
+    21013,
+    21012,
+    21007,
+    21011,
+    21008
+   ],
+   "scene": "T_UI_AFK_Env_4",
+   "chapter_name": "Berserk Cage",
+   "chapter_name_th": "Berserk Cage"
+  },
+  {
+   "chapter": 5,
+   "unit_id_list": [
+    46361,
+    46511,
+    50201,
+    50181,
+    50161,
+    46101,
+    40781,
+    50061,
+    40331,
+    40511,
+    46121,
+    40811,
+    40127,
+    40841,
+    50301
+   ],
+   "drop1": [
+    [
+     21001,
+     130,
+     1
+    ]
+   ],
+   "drop2": [
+    21009,
+    21013,
+    21012,
+    21007,
+    21011,
+    21008
+   ],
+   "scene": "T_UI_AFK_Env_5",
+   "chapter_name": "Antechamber",
+   "chapter_name_th": "Antechamber"
+  },
+  {
+   "chapter": 6,
+   "unit_id_list": null,
+   "drop1": [
+    [
+     21001,
+     160,
+     1
+    ]
+   ],
+   "drop2": [
+    21009,
+    21013,
+    21012,
+    21007,
+    21011,
+    21008
+   ],
+   "scene": "T_UI_AFK_Env_6",
+   "chapter_name": "Mirage Zone",
+   "chapter_name_th": "Mirage Zone"
+  },
+  {
+   "chapter": 7,
+   "unit_id_list": [
+    46511,
+    50061,
+    50181,
+    46161,
+    40456,
+    40721,
+    40301,
+    30201,
+    40127,
+    50201,
+    46361,
+    40781,
+    50161,
+    46481,
+    46061
+   ],
+   "drop1": [
+    [
+     21001,
+     190,
+     1
+    ]
+   ],
+   "drop2": [
+    21009,
+    21013,
+    21012,
+    21007,
+    21011,
+    21008
+   ],
+   "scene": "T_UI_AFK_Env_7",
+   "chapter_name": "Gambit Arena",
+   "chapter_name_th": "Gambit Arena"
+  },
+  {
+   "chapter": 8,
+   "unit_id_list": null,
+   "drop1": [
+    [
+     21001,
+     220,
+     1
+    ]
+   ],
+   "drop2": [
+    21009,
+    21013,
+    21012,
+    21007,
+    21011,
+    21008
+   ],
+   "scene": "T_UI_AFK_Env_8",
+   "chapter_name": "Rubric Vault",
+   "chapter_name_th": "Rubric Vault"
+  },
+  {
+   "chapter": 9,
+   "unit_id_list": [
+    40546,
+    40391,
+    50301,
+    40901,
+    40127,
+    46541,
+    40631,
+    40186,
+    40781,
+    40721,
+    50201,
+    46126,
+    50161,
+    50061,
+    50181
+   ],
+   "drop1": [
+    [
+     21001,
+     250,
+     1
+    ]
+   ],
+   "drop2": [
+    21009,
+    21013,
+    21012,
+    21007,
+    21011,
+    21008
+   ],
+   "scene": "T_UI_AFK_Env_9",
+   "chapter_name": "Astral Hall",
+   "chapter_name_th": "Astral Hall"
+  },
+  {
+   "chapter": 10,
+   "unit_id_list": null,
+   "drop1": [
+    [
+     21001,
+     280,
+     1
+    ]
+   ],
+   "drop2": [
+    21009,
+    21013,
+    21012,
+    21007,
+    21011,
+    21008
+   ],
+   "scene": "T_UI_AFK_Env_10",
+   "chapter_name": "Ruined Depot",
+   "chapter_name_th": "Ruined Depot"
+  },
+  {
+   "chapter": 11,
+   "unit_id_list": [
+    46121,
+    40751,
+    40721,
+    40181,
+    40456,
+    40541,
+    50201,
+    50301,
+    40391,
+    40691,
+    50061,
+    40491,
+    40781,
+    46361,
+    40361
+   ],
+   "drop1": [
+    [
+     21001,
+     310,
+     1
+    ]
+   ],
+   "drop2": [
+    21009,
+    21013,
+    21012,
+    21007,
+    21011,
+    21008
+   ],
+   "scene": "T_UI_AFK_Env_11",
+   "chapter_name": "Machina Core",
+   "chapter_name_th": "Machina Core"
+  },
+  {
+   "chapter": 12,
+   "unit_id_list": null,
+   "drop1": [
+    [
+     21001,
+     340,
+     1
+    ]
+   ],
+   "drop2": [
+    21009,
+    21013,
+    21012,
+    21007,
+    21011,
+    21008
+   ],
+   "scene": "T_UI_AFK_Env_12",
+   "chapter_name": "Sunken Alley",
+   "chapter_name_th": "Sunken Alley"
+  },
+  {
+   "chapter": 13,
+   "unit_id_list": [
+    46361,
+    40546,
+    46511,
+    50301,
+    40901,
+    46101,
+    50181,
+    46126,
+    50061,
+    50161,
+    46541,
+    46481,
+    40421,
+    50201
+   ],
+   "drop1": [
+    [
+     21001,
+     370,
+     1
+    ]
+   ],
+   "drop2": [
+    21009,
+    21013,
+    21012,
+    21007,
+    21011,
+    21008
+   ],
+   "scene": "T_UI_AFK_Env_1",
+   "chapter_name": "Anom-Chaos",
+   "chapter_name_th": "Anom-Chaos"
+  },
+  {
+   "chapter": 14,
+   "unit_id_list": null,
+   "drop1": [
+    [
+     21001,
+     400,
+     1
+    ]
+   ],
+   "drop2": [
+    21009,
+    21013,
+    21012,
+    21007,
+    21011,
+    21008
+   ],
+   "scene": "T_UI_AFK_Env_2",
+   "chapter_name": "Anom-Pyre",
+   "chapter_name_th": "Anom-Pyre"
+  },
+  {
+   "chapter": 15,
+   "unit_id_list": [
+    46541,
+    46241,
+    46101,
+    40601,
+    50161,
+    50301,
+    46481,
+    40661,
+    50181,
+    46306,
+    40546,
+    50201,
+    46511,
+    46361
+   ],
+   "drop1": [
+    [
+     21001,
+     430,
+     1
+    ]
+   ],
+   "drop2": [
+    21009,
+    21013,
+    21012,
+    21007,
+    21011,
+    21008
+   ],
+   "scene": "T_UI_AFK_Env_3",
+   "chapter_name": "Anom-Aurora",
+   "chapter_name_th": "Anom-Aurora"
+  },
+  {
+   "chapter": 16,
+   "unit_id_list": null,
+   "drop1": [
+    [
+     21001,
+     460,
+     1
+    ]
+   ],
+   "drop2": [
+    21009,
+    21013,
+    21012,
+    21007,
+    21011,
+    21008
+   ],
+   "scene": "T_UI_AFK_Env_4",
+   "chapter_name": "Anom-Cage",
+   "chapter_name_th": "Anom-Cage"
+  },
+  {
+   "chapter": 17,
+   "unit_id_list": [
+    46361,
+    46511,
+    50201,
+    50181,
+    50161,
+    46101,
+    40781,
+    50061,
+    40331,
+    40511,
+    46121,
+    40811,
+    40127,
+    40841,
+    50301
+   ],
+   "drop1": [
+    [
+     21001,
+     490,
+     1
+    ]
+   ],
+   "drop2": [
+    21009,
+    21013,
+    21012,
+    21007,
+    21011,
+    21008
+   ],
+   "scene": "T_UI_AFK_Env_5",
+   "chapter_name": "Anom-Vault",
+   "chapter_name_th": "Anom-Vault"
+  },
+  {
+   "chapter": 18,
+   "unit_id_list": null,
+   "drop1": [
+    [
+     21001,
+     520,
+     1
+    ]
+   ],
+   "drop2": [
+    21009,
+    21013,
+    21012,
+    21007,
+    21011,
+    21008
+   ],
+   "scene": "T_UI_AFK_Env_6",
+   "chapter_name": "Anom-Mirage",
+   "chapter_name_th": "Anom-Mirage"
+  },
+  {
+   "chapter": 19,
+   "unit_id_list": [
+    46511,
+    50061,
+    50181,
+    46161,
+    40456,
+    40721,
+    40301,
+    30201,
+    40127,
+    50201,
+    46361,
+    40781,
+    50161,
+    46481,
+    46061
+   ],
+   "drop1": [
+    [
+     21001,
+     550,
+     1
+    ]
+   ],
+   "drop2": [
+    21009,
+    21013,
+    21012,
+    21007,
+    21011,
+    21008
+   ],
+   "scene": "T_UI_AFK_Env_7",
+   "chapter_name": "Anom-Gambit",
+   "chapter_name_th": "Anom-Gambit"
+  },
+  {
+   "chapter": 20,
+   "unit_id_list": null,
+   "drop1": [
+    [
+     21001,
+     580,
+     1
+    ]
+   ],
+   "drop2": [
+    21009,
+    21013,
+    21012,
+    21007,
+    21011,
+    21008
+   ],
+   "scene": "T_UI_AFK_Env_8",
+   "chapter_name": "Anom-Rubric",
+   "chapter_name_th": "Anom-Rubric"
+  },
+  {
+   "chapter": 21,
+   "unit_id_list": [
+    40546,
+    40391,
+    50301,
+    40901,
+    40127,
+    46541,
+    40631,
+    40186,
+    40781,
+    40721,
+    50201,
+    46126,
+    50161,
+    50061,
+    50181
+   ],
+   "drop1": [
+    [
+     21001,
+     610,
+     1
+    ]
+   ],
+   "drop2": [
+    21009,
+    21013,
+    21012,
+    21007,
+    21011,
+    21008
+   ],
+   "scene": "T_UI_AFK_Env_9",
+   "chapter_name": "Anom-Astral",
+   "chapter_name_th": "Anom-Astral"
+  },
+  {
+   "chapter": 22,
+   "unit_id_list": null,
+   "drop1": [
+    [
+     21001,
+     640,
+     1
+    ]
+   ],
+   "drop2": [
+    21009,
+    21013,
+    21012,
+    21007,
+    21011,
+    21008
+   ],
+   "scene": "T_UI_AFK_Env_10",
+   "chapter_name": "Anom-Depot",
+   "chapter_name_th": "Anom-Depot"
+  },
+  {
+   "chapter": 23,
+   "unit_id_list": [
+    46121,
+    40751,
+    40721,
+    40181,
+    40456,
+    40541,
+    50201,
+    50301,
+    40391,
+    40691,
+    50061,
+    40491,
+    40781,
+    46361,
+    40361
+   ],
+   "drop1": [
+    [
+     21001,
+     670,
+     1
+    ]
+   ],
+   "drop2": [
+    21009,
+    21013,
+    21012,
+    21007,
+    21011,
+    21008
+   ],
+   "scene": "T_UI_AFK_Env_11",
+   "chapter_name": "Anom-Machina",
+   "chapter_name_th": "Anom-Machina"
+  },
+  {
+   "chapter": 24,
+   "unit_id_list": null,
+   "drop1": [
+    [
+     21001,
+     700,
+     1
+    ]
+   ],
+   "drop2": [
+    21009,
+    21013,
+    21012,
+    21007,
+    21011,
+    21008
+   ],
+   "scene": "T_UI_AFK_Env_12",
+   "chapter_name": "Anom-Alley",
+   "chapter_name_th": "Anom-Alley"
+  },
+  {
+   "chapter": 25,
+   "unit_id_list": [
+    46361,
+    40546,
+    46511,
+    50301,
+    40901,
+    46101,
+    50181,
+    46126,
+    50061,
+    50161,
+    46541,
+    46481,
+    40421,
+    50201
+   ],
+   "drop1": [
+    [
+     21001,
+     730,
+     1
+    ]
+   ],
+   "drop2": [
+    21009,
+    21013,
+    21012,
+    21007,
+    21011,
+    21008
+   ],
+   "scene": "T_UI_AFK_Env_1",
+   "chapter_name": "Grid: Surged",
+   "chapter_name_th": "Grid: Surged"
+  },
+  {
+   "chapter": 26,
+   "unit_id_list": null,
+   "drop1": [
+    [
+     21001,
+     760,
+     1
+    ]
+   ],
+   "drop2": [
+    21009,
+    21013,
+    21012,
+    21007,
+    21011,
+    21008
+   ],
+   "scene": "T_UI_AFK_Env_2",
+   "chapter_name": "Pyre: Surged",
+   "chapter_name_th": "Pyre: Surged"
+  },
+  {
+   "chapter": 27,
+   "unit_id_list": [
+    46541,
+    46241,
+    46101,
+    40601,
+    50161,
+    50301,
+    46481,
+    40661,
+    50181,
+    46306,
+    40546,
+    50201,
+    46511,
+    46361
+   ],
+   "drop1": [
+    [
+     21001,
+     790,
+     1
+    ]
+   ],
+   "drop2": [
+    21009,
+    21013,
+    21012,
+    21007,
+    21011,
+    21008
+   ],
+   "scene": "T_UI_AFK_Env_3",
+   "chapter_name": "Hyper-Aurora",
+   "chapter_name_th": "Hyper-Aurora"
+  },
+  {
+   "chapter": 28,
+   "unit_id_list": null,
+   "drop1": [
+    [
+     21001,
+     820,
+     1
+    ]
+   ],
+   "drop2": [
+    21009,
+    21013,
+    21012,
+    21007,
+    21011,
+    21008
+   ],
+   "scene": "T_UI_AFK_Env_4",
+   "chapter_name": "Cage: Surged",
+   "chapter_name_th": "Cage: Surged"
+  },
+  {
+   "chapter": 29,
+   "unit_id_list": [
+    46361,
+    46511,
+    50201,
+    50181,
+    50161,
+    46101,
+    40781,
+    50061,
+    40331,
+    40511,
+    46121,
+    40811,
+    40127,
+    40841,
+    50301
+   ],
+   "drop1": [
+    [
+     21001,
+     850,
+     1
+    ]
+   ],
+   "drop2": [
+    21009,
+    21013,
+    21012,
+    21007,
+    21011,
+    21008
+   ],
+   "scene": "T_UI_AFK_Env_5",
+   "chapter_name": "Lab: Surged",
+   "chapter_name_th": "Lab: Surged"
+  },
+  {
+   "chapter": 30,
+   "unit_id_list": null,
+   "drop1": [
+    [
+     21001,
+     880,
+     1
+    ]
+   ],
+   "drop2": [
+    21009,
+    21013,
+    21012,
+    21007,
+    21011,
+    21008
+   ],
+   "scene": "T_UI_AFK_Env_6",
+   "chapter_name": "Hyper-Mirage",
+   "chapter_name_th": "Hyper-Mirage"
+  },
+  {
+   "chapter": 31,
+   "unit_id_list": [
+    46511,
+    50061,
+    50181,
+    46161,
+    40456,
+    40721,
+    40301,
+    30201,
+    40127,
+    50201,
+    46361,
+    40781,
+    50161,
+    46481,
+    46061
+   ],
+   "drop1": [
+    [
+     21001,
+     910,
+     1
+    ]
+   ],
+   "drop2": [
+    21009,
+    21013,
+    21012,
+    21007,
+    21011,
+    21008
+   ],
+   "scene": "T_UI_AFK_Env_7",
+   "chapter_name": "Gambit Arena - Overload",
+   "chapter_name_th": "Gambit Arena - Overload"
+  },
+  {
+   "chapter": 32,
+   "unit_id_list": null,
+   "drop1": [
+    [
+     21001,
+     920,
+     0
+    ]
+   ],
+   "drop2": [
+    21009,
+    21013,
+    21012,
+    21007,
+    21011,
+    21008
+   ],
+   "scene": "T_UI_AFK_Env_8",
+   "chapter_name": "Rubric Vault - Overload",
+   "chapter_name_th": "Rubric Vault - Overload"
+  },
+  {
+   "chapter": 33,
+   "unit_id_list": [
+    40546,
+    40391,
+    50301,
+    40901,
+    40127,
+    46541,
+    40631,
+    40186,
+    40781,
+    40721,
+    50201,
+    46126,
+    50161,
+    50061,
+    50181
+   ],
+   "drop1": [
+    [
+     21001,
+     930,
+     0
+    ]
+   ],
+   "drop2": [
+    21009,
+    21013,
+    21012,
+    21007,
+    21011,
+    21008
+   ],
+   "scene": "T_UI_AFK_Env_9",
+   "chapter_name": "Astral Hall - Overload",
+   "chapter_name_th": "Astral Hall - Overload"
+  },
+  {
+   "chapter": 34,
+   "unit_id_list": null,
+   "drop1": [
+    [
+     21001,
+     940,
+     0
+    ]
+   ],
+   "drop2": [
+    21009,
+    21013,
+    21012,
+    21007,
+    21011,
+    21008
+   ],
+   "scene": "T_UI_AFK_Env_10",
+   "chapter_name": "Ruined Depot - Overload",
+   "chapter_name_th": "Ruined Depot - Overload"
+  },
+  {
+   "chapter": 35,
+   "unit_id_list": [
+    46121,
+    40751,
+    40721,
+    40181,
+    40456,
+    40541,
+    50201,
+    50301,
+    40391,
+    40691,
+    50061,
+    40491,
+    40781,
+    46361,
+    40361
+   ],
+   "drop1": [
+    [
+     21001,
+     950,
+     0
+    ]
+   ],
+   "drop2": [
+    21009,
+    21013,
+    21012,
+    21007,
+    21011,
+    21008
+   ],
+   "scene": "T_UI_AFK_Env_11",
+   "chapter_name": "Machina Core - Overload",
+   "chapter_name_th": "Machina Core - Overload"
+  },
+  {
+   "chapter": 36,
+   "unit_id_list": null,
+   "drop1": [
+    [
+     21001,
+     960,
+     0
+    ]
+   ],
+   "drop2": [
+    21009,
+    21013,
+    21012,
+    21007,
+    21011,
+    21008
+   ],
+   "scene": "T_UI_AFK_Env_12",
+   "chapter_name": "Sunken Alley - Overload",
+   "chapter_name_th": "Sunken Alley - Overload"
+  },
+  {
+   "chapter": 37,
+   "unit_id_list": [
+    46361,
+    40546,
+    46511,
+    50301,
+    40901,
+    46101,
+    50181,
+    46126,
+    50061,
+    50161,
+    46541,
+    46481,
+    40421,
+    50201
+   ],
+   "drop1": [
+    [
+     21001,
+     970,
+     0
+    ]
+   ],
+   "drop2": [
+    21009,
+    21013,
+    21012,
+    21007,
+    21011,
+    21008
+   ],
+   "scene": "T_UI_AFK_Env_1",
+   "chapter_name": "Chaos Grid · Erosion",
+   "chapter_name_th": "Chaos Grid · Erosion"
+  },
+  {
+   "chapter": 38,
+   "unit_id_list": null,
+   "drop1": [
+    [
+     21001,
+     980,
+     0
+    ]
+   ],
+   "drop2": [
+    21009,
+    21013,
+    21012,
+    21007,
+    21011,
+    21008
+   ],
+   "scene": "T_UI_AFK_Env_2",
+   "chapter_name": "Infernal Arc · Erosion",
+   "chapter_name_th": "Infernal Arc · Erosion"
+  },
+  {
+   "chapter": 39,
+   "unit_id_list": [
+    46541,
+    46241,
+    46101,
+    40601,
+    50161,
+    50301,
+    46481,
+    40661,
+    50181,
+    46306,
+    40546,
+    50201,
+    46511,
+    46361
+   ],
+   "drop1": [
+    [
+     21001,
+     990,
+     0
+    ]
+   ],
+   "drop2": [
+    21009,
+    21013,
+    21012,
+    21007,
+    21011,
+    21008
+   ],
+   "scene": "T_UI_AFK_Env_3",
+   "chapter_name": "Aurora Realm · Erosion",
+   "chapter_name_th": "Aurora Realm · Erosion"
+  },
+  {
+   "chapter": 40,
+   "unit_id_list": null,
+   "drop1": [
+    [
+     21001,
+     1000,
+     0
+    ]
+   ],
+   "drop2": [
+    21009,
+    21013,
+    21012,
+    21007,
+    21011,
+    21008
+   ],
+   "scene": "T_UI_AFK_Env_4",
+   "chapter_name": "Berserk Cage · Erosion",
+   "chapter_name_th": "Berserk Cage · Erosion"
+  },
+  {
+   "chapter": 41,
+   "unit_id_list": [
+    46361,
+    46511,
+    50201,
+    50181,
+    50161,
+    46101,
+    40781,
+    50061,
+    40331,
+    40511,
+    46121,
+    40811,
+    40127,
+    40841,
+    50301
+   ],
+   "drop1": [
+    [
+     21001,
+     1010,
+     0
+    ]
+   ],
+   "drop2": [
+    21009,
+    21013,
+    21012,
+    21007,
+    21011,
+    21008
+   ],
+   "scene": "T_UI_AFK_Env_5",
+   "chapter_name": "Antechamber · Erosion",
+   "chapter_name_th": "Antechamber · Erosion"
+  },
+  {
+   "chapter": 42,
+   "unit_id_list": null,
+   "drop1": [
+    [
+     21001,
+     1020,
+     0
+    ]
+   ],
+   "drop2": [
+    21009,
+    21013,
+    21012,
+    21007,
+    21011,
+    21008
+   ],
+   "scene": "T_UI_AFK_Env_6",
+   "chapter_name": "Mirage Zone · Erosion",
+   "chapter_name_th": "Mirage Zone · Erosion"
+  },
+  {
+   "chapter": 43,
+   "unit_id_list": [
+    46511,
+    50061,
+    50181,
+    46161,
+    40456,
+    40721,
+    40301,
+    30201,
+    40127,
+    50201,
+    46361,
+    40781,
+    50161,
+    46481,
+    46061
+   ],
+   "drop1": [
+    [
+     21001,
+     1030,
+     0
+    ]
+   ],
+   "drop2": [
+    21009,
+    21013,
+    21012,
+    21007,
+    21011,
+    21008
+   ],
+   "scene": "T_UI_AFK_Env_7",
+   "chapter_name": "Gambit Arena · Erosion",
+   "chapter_name_th": "Gambit Arena · Erosion"
+  },
+  {
+   "chapter": 44,
+   "unit_id_list": null,
+   "drop1": [
+    [
+     21001,
+     1040,
+     0
+    ]
+   ],
+   "drop2": [
+    21009,
+    21013,
+    21012,
+    21007,
+    21011,
+    21008
+   ],
+   "scene": "T_UI_AFK_Env_8",
+   "chapter_name": "Rubric Vault · Erosion",
+   "chapter_name_th": "Rubric Vault · Erosion"
+  },
+  {
+   "chapter": 45,
+   "unit_id_list": [
+    40546,
+    40391,
+    50301,
+    40901,
+    40127,
+    46541,
+    40631,
+    40186,
+    40781,
+    40721,
+    50201,
+    46126,
+    50161,
+    50061,
+    50181
+   ],
+   "drop1": [
+    [
+     21001,
+     1050,
+     0
+    ]
+   ],
+   "drop2": [
+    21009,
+    21013,
+    21012,
+    21007,
+    21011,
+    21008
+   ],
+   "scene": "T_UI_AFK_Env_9",
+   "chapter_name": "Astral Hall · Erosion",
+   "chapter_name_th": "Astral Hall · Erosion"
+  },
+  {
+   "chapter": 46,
+   "unit_id_list": null,
+   "drop1": [
+    [
+     21001,
+     1060,
+     0
+    ]
+   ],
+   "drop2": [
+    21009,
+    21013,
+    21012,
+    21007,
+    21011,
+    21008
+   ],
+   "scene": "T_UI_AFK_Env_10",
+   "chapter_name": "Ruined Depot · Erosion",
+   "chapter_name_th": "Ruined Depot · Erosion"
+  },
+  {
+   "chapter": 47,
+   "unit_id_list": [
+    46121,
+    40751,
+    40721,
+    40181,
+    40456,
+    40541,
+    50201,
+    50301,
+    40391,
+    40691,
+    50061,
+    40491,
+    40781,
+    46361,
+    40361
+   ],
+   "drop1": [
+    [
+     21001,
+     1070,
+     0
+    ]
+   ],
+   "drop2": [
+    21009,
+    21013,
+    21012,
+    21007,
+    21011,
+    21008
+   ],
+   "scene": "T_UI_AFK_Env_11",
+   "chapter_name": "Machina Core · Erosion",
+   "chapter_name_th": "Machina Core · Erosion"
+  },
+  {
+   "chapter": 48,
+   "unit_id_list": null,
+   "drop1": [
+    [
+     21001,
+     1080,
+     0
+    ]
+   ],
+   "drop2": [
+    21009,
+    21013,
+    21012,
+    21007,
+    21011,
+    21008
+   ],
+   "scene": "T_UI_AFK_Env_12",
+   "chapter_name": "Sunken Alley · Erosion",
+   "chapter_name_th": "Sunken Alley · Erosion"
+  },
+  {
+   "chapter": 49,
+   "unit_id_list": [
+    46361,
+    40546,
+    46511,
+    50301,
+    40901,
+    46101,
+    50181,
+    46126,
+    50061,
+    50161,
+    46541,
+    46481,
+    40421,
+    50201
+   ],
+   "drop1": [
+    [
+     21001,
+     1090,
+     0
+    ]
+   ],
+   "drop2": [
+    21009,
+    21013,
+    21012,
+    21007,
+    21011,
+    21008
+   ],
+   "scene": "T_UI_AFK_Env_1",
+   "chapter_name": "Chaos Grid · Rampage",
+   "chapter_name_th": "Chaos Grid · Rampage"
+  },
+  {
+   "chapter": 50,
+   "unit_id_list": null,
+   "drop1": [
+    [
+     21001,
+     1100,
+     0
+    ]
+   ],
+   "drop2": [
+    21009,
+    21013,
+    21012,
+    21007,
+    21011,
+    21008
+   ],
+   "scene": "T_UI_AFK_Env_2",
+   "chapter_name": "Infernal Arc · Rampage",
+   "chapter_name_th": "Infernal Arc · Rampage"
+  }
+ ],
+ "text_chunk": "00029_24438f369692cf03.json"
+}

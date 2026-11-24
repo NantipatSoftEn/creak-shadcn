@@ -1,0 +1,36 @@
+{
+ "config": "activity_qualifier",
+ "fields": [
+  "sub_id",
+  "register_url",
+  "social_url"
+ ],
+ "rows": {
+  "101": {
+   "sub_id": 101,
+   "register_url": "https://tap.cn/fSx9oBS8",
+   "social_url": "https://tap.cn/AZjF4Pm7"
+  },
+  "201": {
+   "sub_id": 201,
+   "register_url": "https://tap.io/QvFoeKF",
+   "social_url": "https://tap.io/WOrSaYU"
+  },
+  "301": {
+   "sub_id": 301,
+   "register_url": "https://tap.io/jM7GH75",
+   "social_url": "https://tap.io/9Hn1IqX"
+  },
+  "401": {
+   "sub_id": 401,
+   "register_url": "https://tap.io/TSEgZnN",
+   "social_url": "https://tap.io/wIVewNj"
+  },
+  "501": {
+   "sub_id": 501,
+   "register_url": "https://tap.io/1tTAyOQ",
+   "social_url": "https://tap.io/ONfAslJ"
+  }
+ },
+ "text_chunk": null
+}

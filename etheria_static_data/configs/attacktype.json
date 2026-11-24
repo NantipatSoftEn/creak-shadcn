@@ -1,0 +1,20 @@
+{
+ "config": "attacktype",
+ "fields": [
+  "change",
+  "value",
+  "side"
+ ],
+ "rows": {
+  "change": [
+   "29",
+   "",
+   0
+  ],
+  "value": [
+   "",
+   "",
+   0
+  ]
+ }
+}

@@ -1,0 +1,42 @@
+{
+ "config": "arenarealtime_report",
+ "fields": [
+  "id",
+  "rarity",
+  "type",
+  "priority",
+  "name"
+ ],
+ "rows": {
+  "id": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "rarity": [
+   2,
+   2,
+   2,
+   2
+  ],
+  "type": [
+   3,
+   2,
+   3,
+   4
+  ],
+  "priority": [
+   4,
+   4,
+   4,
+   5
+  ],
+  "name": [
+   5,
+   3,
+   1,
+   3
+  ]
+ }
+}

@@ -1,0 +1,156 @@
+{
+ "config": "ranking",
+ "fields": [
+  "page",
+  "tab",
+  "view_idx",
+  "title",
+  "widget",
+  "page_name",
+  "tab_name",
+  "tips"
+ ],
+ "rows": [
+  {
+   "page": 2,
+   "tab": 1,
+   "view_idx": 1,
+   "title": "ArenaPage",
+   "widget": "WBP_UI_Arena_Rank_Page_Info",
+   "page_name": "Arena Realm",
+   "page_name_th": "Arena Realm",
+   "tab_name": "Summit Arena",
+   "tab_name_th": "สุดยอดอารีน่า",
+   "tips": "Record the top 100 players.",
+   "tips_th": "บันทึกผู้เล่น 100 อันดับแรก"
+  },
+  {
+   "page": 2,
+   "tab": 2,
+   "view_idx": 2,
+   "title": "ArenaRTA",
+   "widget": "WBP_UI_Arena_Rank_Page_Info",
+   "page_name": "Arena Realm",
+   "page_name_th": "Arena Realm",
+   "tab_name": "Summit Arena",
+   "tab_name_th": "สุดยอดอารีน่า",
+   "tips": "Record the top 100 players.",
+   "tips_th": "บันทึกผู้เล่น 100 อันดับแรก"
+  },
+  {
+   "page": 3,
+   "tab": 1,
+   "view_idx": 3,
+   "title": "GUILD",
+   "widget": "WBP_UI_Guild_Rank_Level",
+   "page_name": "Union",
+   "page_name_th": "สหพันธ์",
+   "tab_name": "Union Level",
+   "tab_name_th": "สหพันธ์ Lv."
+  },
+  {
+   "page": 3,
+   "tab": 2,
+   "view_idx": 12,
+   "title": "GUILDGVG",
+   "widget": "WBP_UI_GVG_Rank_Page_Info",
+   "page_name": "Union",
+   "page_name_th": "สหพันธ์",
+   "tab_name": "Union Level",
+   "tab_name_th": "สหพันธ์ Lv."
+  },
+  {
+   "page": 3,
+   "tab": 3,
+   "view_idx": 4,
+   "title": "GUILDLEVEL",
+   "widget": "WBP_UI_Guild_GVE_Rank_Guild",
+   "page_name": "Union",
+   "page_name_th": "สหพันธ์",
+   "tab_name": "Union Level",
+   "tab_name_th": "สหพันธ์ Lv."
+  },
+  {
+   "page": 3,
+   "tab": 4,
+   "view_idx": 5,
+   "title": "GUILDSINGLEBOSS",
+   "widget": "WBP_UI_Guild_GVE_Rank_Member",
+   "page_name": "Union",
+   "page_name_th": "สหพันธ์",
+   "tab_name": "Union Level",
+   "tab_name_th": "สหพันธ์ Lv."
+  },
+  {
+   "page": 3,
+   "tab": 5,
+   "view_idx": 6,
+   "title": "GUILDALLBOSS",
+   "widget": "WBP_UI_Guild_GVE_Rank_Helper",
+   "page_name": "Union",
+   "page_name_th": "สหพันธ์",
+   "tab_name": "Union Level",
+   "tab_name_th": "สหพันธ์ Lv."
+  },
+  {
+   "page": 4,
+   "tab": 1,
+   "view_idx": 7,
+   "title": "TOWERHARD",
+   "widget": "WBP_UI_Tower_Ranking_Panel",
+   "page_name": "Union",
+   "page_name_th": "สหพันธ์",
+   "tab_name": "United Front",
+   "tab_name_th": "United Front"
+  },
+  {
+   "page": 4,
+   "tab": 2,
+   "view_idx": 8,
+   "title": "TOWERHARD",
+   "widget": "WBP_UI_Tower_Ranking_Panel",
+   "page_name": "Union",
+   "page_name_th": "สหพันธ์",
+   "tab_name": "United Front",
+   "tab_name_th": "United Front"
+  },
+  {
+   "page": 5,
+   "tab": 1,
+   "view_idx": 9,
+   "title": "TEAMPROGRESS",
+   "widget": "WBP_UI_Multi_Player_Rank_Page_Info",
+   "page_name": "Union",
+   "page_name_th": "สหพันธ์",
+   "tab_name": "GVE Union",
+   "tab_name_th": "สหพันธ์ GVE"
+  },
+  {
+   "page": 1,
+   "tab": 1,
+   "view_idx": 10,
+   "title": "MYTHOS",
+   "widget": "WBP_UI_MythosDungeon_Rank_Page_Info",
+   "page_name": "Arena Realm",
+   "page_name_th": "Arena Realm",
+   "tab_name": "Etherena",
+   "tab_name_th": "อีเทอรีน่า",
+   "tips": "Record the top 100 players.",
+   "tips_th": "บันทึกผู้เล่น 100 อันดับแรก"
+  },
+  {
+   "page": 2,
+   "tab": 3,
+   "view_idx": 11,
+   "title": "ArenaCup",
+   "widget": "WBP_UI_Arena_Rank_Page_Info",
+   "page_name": "Arena Realm",
+   "page_name_th": "Arena Realm",
+   "tab_name": "Summit Arena",
+   "tab_name_th": "สุดยอดอารีน่า",
+   "tips": "Record the top 100 players.",
+   "tips_th": "บันทึกผู้เล่น 100 อันดับแรก"
+  }
+ ],
+ "text_chunk": "00127_6cbaee88ddefa3ac.json"
+}

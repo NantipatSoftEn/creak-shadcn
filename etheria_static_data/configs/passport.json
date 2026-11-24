@@ -1,0 +1,2338 @@
+{
+ "config": "passport",
+ "fields": [
+  "level",
+  "exp",
+  "normal_rewards",
+  "premium_rewards",
+  "flag",
+  "spine_asset"
+ ],
+ "rows": {
+  "0": [
+   {
+    "level": 0,
+    "exp": 0,
+    "normal_rewards": null,
+    "premium_rewards": [
+     {
+      "id": 10011,
+      "count": 300
+     },
+     {
+      "id": 14252,
+      "count": 1
+     },
+     {
+      "id": 14440,
+      "count": 1
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   },
+   {
+    "level": 0,
+    "exp": 0,
+    "normal_rewards": null,
+    "premium_rewards": [
+     {
+      "id": 10011,
+      "count": 300
+     },
+     {
+      "id": 14253,
+      "count": 1
+     },
+     {
+      "id": 14444,
+      "count": 1
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   }
+  ],
+  "1": [
+   {
+    "level": 1,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10001,
+      "count": 10000
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10001,
+      "count": 20000
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   },
+   {
+    "level": 1,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10001,
+      "count": 10000
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10001,
+      "count": 20000
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   }
+  ],
+  "2": [
+   {
+    "level": 2,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10101,
+      "count": 10000
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10101,
+      "count": 20000
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   },
+   {
+    "level": 2,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10101,
+      "count": 10000
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10101,
+      "count": 20000
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   }
+  ],
+  "3": [
+   {
+    "level": 3,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 25002,
+      "count": 5
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 25003,
+      "count": 2
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   },
+   {
+    "level": 3,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 25002,
+      "count": 5
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 25003,
+      "count": 2
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   }
+  ],
+  "4": [
+   {
+    "level": 4,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10011,
+      "count": 20
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10011,
+      "count": 50
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   },
+   {
+    "level": 4,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10011,
+      "count": 20
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10011,
+      "count": 50
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   }
+  ],
+  "5": [
+   {
+    "level": 5,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10202,
+      "count": 2
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10202,
+      "count": 5
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   },
+   {
+    "level": 5,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10202,
+      "count": 2
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10202,
+      "count": 5
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   }
+  ],
+  "6": [
+   {
+    "level": 6,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10001,
+      "count": 20000
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10001,
+      "count": 30000
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   },
+   {
+    "level": 6,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10001,
+      "count": 20000
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10001,
+      "count": 30000
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   }
+  ],
+  "7": [
+   {
+    "level": 7,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10101,
+      "count": 20000
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10101,
+      "count": 30000
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   },
+   {
+    "level": 7,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10101,
+      "count": 20000
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10101,
+      "count": 30000
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   }
+  ],
+  "8": [
+   {
+    "level": 8,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10114,
+      "count": 2
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10114,
+      "count": 5
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   },
+   {
+    "level": 8,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10114,
+      "count": 2
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10114,
+      "count": 5
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   }
+  ],
+  "9": [
+   {
+    "level": 9,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10132,
+      "count": 1
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10133,
+      "count": 1
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   },
+   {
+    "level": 9,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10132,
+      "count": 1
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10133,
+      "count": 1
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   }
+  ],
+  "10": [
+   {
+    "level": 10,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 25801,
+      "count": 2
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 25604,
+      "count": 1
+     }
+    ],
+    "flag": 1,
+    "spine_asset": ""
+   },
+   {
+    "level": 10,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 25101,
+      "count": 2
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 25604,
+      "count": 1
+     }
+    ],
+    "flag": 1,
+    "spine_asset": ""
+   }
+  ],
+  "11": [
+   {
+    "level": 11,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10001,
+      "count": 30000
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10001,
+      "count": 60000
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   },
+   {
+    "level": 11,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10001,
+      "count": 30000
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10001,
+      "count": 60000
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   }
+  ],
+  "12": [
+   {
+    "level": 12,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10101,
+      "count": 30000
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10101,
+      "count": 60000
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   },
+   {
+    "level": 12,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10101,
+      "count": 30000
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10101,
+      "count": 60000
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   }
+  ],
+  "13": [
+   {
+    "level": 13,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 25002,
+      "count": 5
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 25003,
+      "count": 2
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   },
+   {
+    "level": 13,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 25002,
+      "count": 5
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 25003,
+      "count": 2
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   }
+  ],
+  "14": [
+   {
+    "level": 14,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10011,
+      "count": 20
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10011,
+      "count": 50
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   },
+   {
+    "level": 14,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10011,
+      "count": 20
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10011,
+      "count": 50
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   }
+  ],
+  "15": [
+   {
+    "level": 15,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10179,
+      "count": 2
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10179,
+      "count": 5
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   },
+   {
+    "level": 15,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10179,
+      "count": 2
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10179,
+      "count": 5
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   }
+  ],
+  "16": [
+   {
+    "level": 16,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10001,
+      "count": 35000
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10001,
+      "count": 70000
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   },
+   {
+    "level": 16,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10001,
+      "count": 35000
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10001,
+      "count": 70000
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   }
+  ],
+  "17": [
+   {
+    "level": 17,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10101,
+      "count": 35000
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10101,
+      "count": 70000
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   },
+   {
+    "level": 17,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10101,
+      "count": 35000
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10101,
+      "count": 70000
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   }
+  ],
+  "18": [
+   {
+    "level": 18,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10114,
+      "count": 2
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10114,
+      "count": 5
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   },
+   {
+    "level": 18,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10114,
+      "count": 2
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10114,
+      "count": 5
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   }
+  ],
+  "19": [
+   {
+    "level": 19,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10132,
+      "count": 1
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10133,
+      "count": 1
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   },
+   {
+    "level": 19,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10132,
+      "count": 1
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10133,
+      "count": 1
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   }
+  ],
+  "20": [
+   {
+    "level": 20,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10179,
+      "count": 1
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 30153,
+      "count": 1
+     }
+    ],
+    "flag": 1,
+    "spine_asset": "SP_PassportSkin_30153"
+   },
+   {
+    "level": 20,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10179,
+      "count": 1
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 31253,
+      "count": 1
+     }
+    ],
+    "flag": 1,
+    "spine_asset": "SP_PassportSkin_31253"
+   }
+  ],
+  "21": [
+   {
+    "level": 21,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10602,
+      "count": 800
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10602,
+      "count": 1600
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   },
+   {
+    "level": 21,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10602,
+      "count": 800
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10602,
+      "count": 1600
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   }
+  ],
+  "22": [
+   {
+    "level": 22,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10603,
+      "count": 800
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10603,
+      "count": 1600
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   },
+   {
+    "level": 22,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10603,
+      "count": 800
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10603,
+      "count": 1600
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   }
+  ],
+  "23": [
+   {
+    "level": 23,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 25002,
+      "count": 5
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 25003,
+      "count": 2
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   },
+   {
+    "level": 23,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 25002,
+      "count": 5
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 25003,
+      "count": 2
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   }
+  ],
+  "24": [
+   {
+    "level": 24,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10011,
+      "count": 20
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10011,
+      "count": 50
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   },
+   {
+    "level": 24,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10011,
+      "count": 20
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10011,
+      "count": 50
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   }
+  ],
+  "25": [
+   {
+    "level": 25,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 25101,
+      "count": 5
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 25101,
+      "count": 10
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   },
+   {
+    "level": 25,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 25101,
+      "count": 5
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 25101,
+      "count": 10
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   }
+  ],
+  "26": [
+   {
+    "level": 26,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10604,
+      "count": 800
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10604,
+      "count": 1600
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   },
+   {
+    "level": 26,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10604,
+      "count": 800
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10604,
+      "count": 1600
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   }
+  ],
+  "27": [
+   {
+    "level": 27,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10605,
+      "count": 800
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10605,
+      "count": 1600
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   },
+   {
+    "level": 27,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10605,
+      "count": 800
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10605,
+      "count": 1600
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   }
+  ],
+  "28": [
+   {
+    "level": 28,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10114,
+      "count": 2
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10114,
+      "count": 5
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   },
+   {
+    "level": 28,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10114,
+      "count": 2
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10114,
+      "count": 5
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   }
+  ],
+  "29": [
+   {
+    "level": 29,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10132,
+      "count": 1
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10133,
+      "count": 1
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   },
+   {
+    "level": 29,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10132,
+      "count": 1
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10133,
+      "count": 1
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   }
+  ],
+  "30": [
+   {
+    "level": 30,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10179,
+      "count": 1
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10180,
+      "count": 1
+     }
+    ],
+    "flag": 1,
+    "spine_asset": ""
+   },
+   {
+    "level": 30,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10179,
+      "count": 1
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10180,
+      "count": 1
+     }
+    ],
+    "flag": 1,
+    "spine_asset": ""
+   }
+  ],
+  "31": [
+   {
+    "level": 31,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10001,
+      "count": 40000
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10001,
+      "count": 80000
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   },
+   {
+    "level": 31,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10001,
+      "count": 40000
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10001,
+      "count": 80000
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   }
+  ],
+  "32": [
+   {
+    "level": 32,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10101,
+      "count": 40000
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10101,
+      "count": 80000
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   },
+   {
+    "level": 32,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10101,
+      "count": 40000
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10101,
+      "count": 80000
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   }
+  ],
+  "33": [
+   {
+    "level": 33,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 25002,
+      "count": 5
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 25003,
+      "count": 2
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   },
+   {
+    "level": 33,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 25002,
+      "count": 5
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 25003,
+      "count": 2
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   }
+  ],
+  "34": [
+   {
+    "level": 34,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10011,
+      "count": 20
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10011,
+      "count": 50
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   },
+   {
+    "level": 34,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10011,
+      "count": 20
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10011,
+      "count": 50
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   }
+  ],
+  "35": [
+   {
+    "level": 35,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10612,
+      "count": 10
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10611,
+      "count": 1
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   },
+   {
+    "level": 35,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10612,
+      "count": 10
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10611,
+      "count": 1
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   }
+  ],
+  "36": [
+   {
+    "level": 36,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10001,
+      "count": 45000
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10001,
+      "count": 90000
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   },
+   {
+    "level": 36,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10001,
+      "count": 45000
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10001,
+      "count": 90000
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   }
+  ],
+  "37": [
+   {
+    "level": 37,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10101,
+      "count": 45000
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10101,
+      "count": 90000
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   },
+   {
+    "level": 37,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10101,
+      "count": 45000
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10101,
+      "count": 90000
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   }
+  ],
+  "38": [
+   {
+    "level": 38,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10114,
+      "count": 5
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10114,
+      "count": 10
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   },
+   {
+    "level": 38,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10114,
+      "count": 5
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10114,
+      "count": 10
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   }
+  ],
+  "39": [
+   {
+    "level": 39,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10132,
+      "count": 1
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10133,
+      "count": 1
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   },
+   {
+    "level": 39,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10132,
+      "count": 1
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10133,
+      "count": 1
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   }
+  ],
+  "40": [
+   {
+    "level": 40,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10116,
+      "count": 1
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10117,
+      "count": 1
+     }
+    ],
+    "flag": 1,
+    "spine_asset": ""
+   },
+   {
+    "level": 40,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10116,
+      "count": 1
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10117,
+      "count": 1
+     }
+    ],
+    "flag": 1,
+    "spine_asset": ""
+   }
+  ],
+  "41": [
+   {
+    "level": 41,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10001,
+      "count": 50000
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10001,
+      "count": 100000
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   },
+   {
+    "level": 41,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10001,
+      "count": 50000
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10001,
+      "count": 100000
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   }
+  ],
+  "42": [
+   {
+    "level": 42,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10101,
+      "count": 50000
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10101,
+      "count": 100000
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   },
+   {
+    "level": 42,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10101,
+      "count": 50000
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10101,
+      "count": 100000
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   }
+  ],
+  "43": [
+   {
+    "level": 43,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 25002,
+      "count": 10
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 25003,
+      "count": 5
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   },
+   {
+    "level": 43,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 25002,
+      "count": 10
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 25003,
+      "count": 5
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   }
+  ],
+  "44": [
+   {
+    "level": 44,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10011,
+      "count": 20
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10011,
+      "count": 50
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   },
+   {
+    "level": 44,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10011,
+      "count": 20
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10011,
+      "count": 50
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   }
+  ],
+  "45": [
+   {
+    "level": 45,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 25101,
+      "count": 5
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 25101,
+      "count": 10
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   },
+   {
+    "level": 45,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 25101,
+      "count": 5
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 25101,
+      "count": 10
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   }
+  ],
+  "46": [
+   {
+    "level": 46,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10001,
+      "count": 60000
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10001,
+      "count": 120000
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   },
+   {
+    "level": 46,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10001,
+      "count": 60000
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10001,
+      "count": 120000
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   }
+  ],
+  "47": [
+   {
+    "level": 47,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10101,
+      "count": 60000
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10101,
+      "count": 120000
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   },
+   {
+    "level": 47,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10101,
+      "count": 60000
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10101,
+      "count": 120000
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   }
+  ],
+  "48": [
+   {
+    "level": 48,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10114,
+      "count": 5
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10114,
+      "count": 10
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   },
+   {
+    "level": 48,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10114,
+      "count": 5
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10114,
+      "count": 10
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   }
+  ],
+  "49": [
+   {
+    "level": 49,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10132,
+      "count": 1
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10133,
+      "count": 1
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   },
+   {
+    "level": 49,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10132,
+      "count": 1
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10133,
+      "count": 1
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   }
+  ],
+  "50": [
+   {
+    "level": 50,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10179,
+      "count": 2
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10179,
+      "count": 5
+     }
+    ],
+    "flag": 1,
+    "spine_asset": ""
+   },
+   {
+    "level": 50,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10179,
+      "count": 2
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10179,
+      "count": 5
+     }
+    ],
+    "flag": 1,
+    "spine_asset": ""
+   }
+  ],
+  "51": [
+   {
+    "level": 51,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10602,
+      "count": 1200
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10602,
+      "count": 2400
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   },
+   {
+    "level": 51,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10602,
+      "count": 1200
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10602,
+      "count": 2400
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   }
+  ],
+  "52": [
+   {
+    "level": 52,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10603,
+      "count": 1200
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10603,
+      "count": 2400
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   },
+   {
+    "level": 52,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10603,
+      "count": 1200
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10603,
+      "count": 2400
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   }
+  ],
+  "53": [
+   {
+    "level": 53,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 25002,
+      "count": 10
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 25003,
+      "count": 5
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   },
+   {
+    "level": 53,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 25002,
+      "count": 10
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 25003,
+      "count": 5
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   }
+  ],
+  "54": [
+   {
+    "level": 54,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10011,
+      "count": 20
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10011,
+      "count": 50
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   },
+   {
+    "level": 54,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10011,
+      "count": 20
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10011,
+      "count": 50
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   }
+  ],
+  "55": [
+   {
+    "level": 55,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10207,
+      "count": 2
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10207,
+      "count": 5
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   },
+   {
+    "level": 55,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10207,
+      "count": 2
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10207,
+      "count": 5
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   }
+  ],
+  "56": [
+   {
+    "level": 56,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10604,
+      "count": 1200
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10604,
+      "count": 2400
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   },
+   {
+    "level": 56,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10604,
+      "count": 1200
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10604,
+      "count": 2400
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   }
+  ],
+  "57": [
+   {
+    "level": 57,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10605,
+      "count": 1200
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10605,
+      "count": 2400
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   },
+   {
+    "level": 57,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10605,
+      "count": 1200
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10605,
+      "count": 2400
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   }
+  ],
+  "58": [
+   {
+    "level": 58,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10114,
+      "count": 5
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10114,
+      "count": 10
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   },
+   {
+    "level": 58,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10114,
+      "count": 5
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10114,
+      "count": 10
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   }
+  ],
+  "59": [
+   {
+    "level": 59,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10132,
+      "count": 1
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10133,
+      "count": 1
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   },
+   {
+    "level": 59,
+    "exp": 1000,
+    "normal_rewards": [
+     {
+      "id": 10132,
+      "count": 1
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 10133,
+      "count": 1
+     }
+    ],
+    "flag": 0,
+    "spine_asset": ""
+   }
+  ],
+  "60": [
+   {
+    "level": 60,
+    "exp": 0,
+    "normal_rewards": [
+     {
+      "id": 25101,
+      "count": 10
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 25102,
+      "count": 1
+     }
+    ],
+    "flag": 1,
+    "spine_asset": ""
+   },
+   {
+    "level": 60,
+    "exp": 0,
+    "normal_rewards": [
+     {
+      "id": 25101,
+      "count": 10
+     }
+    ],
+    "premium_rewards": [
+     {
+      "id": 25102,
+      "count": 1
+     }
+    ],
+    "flag": 1,
+    "spine_asset": ""
+   }
+  ]
+ },
+ "text_chunk": null
+}

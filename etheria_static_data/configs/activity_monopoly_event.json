@@ -1,0 +1,110 @@
+{
+ "config": "activity_monopoly_event",
+ "fields": [
+  "event_id",
+  "params",
+  "title",
+  "effect_info",
+  "description"
+ ],
+ "rows": [
+  {
+   "event_id": 1,
+   "params": [
+    0
+   ],
+   "title": "Adventure Road",
+   "title_th": "ถนนแห่งการผจญภัย",
+   "effect_info": "Obtain a certain amount of Chaku Medals.",
+   "effect_info_th": "ได้รับบัตรความกล้าจำนวนหนึ่ง",
+   "description": "On the journey to adventure, you can earn a certain amount of Chaku Medals.",
+   "description_th": "ในการเดินทางสู่การผจญภัย คุณจะได้รับบัตรความกล้าจำนวนหนึ่ง"
+  },
+  {
+   "event_id": 2,
+   "params": [
+    0
+   ],
+   "title": "Hacker Intrusion",
+   "title_th": "การบุกรุกจากแฮกเกอร์",
+   "effect_info": "Choose a tile within the 1-6 tiles to move to.",
+   "effect_info_th": "เลือกย้ายไปยังช่องหนึ่งจาก 1-6 ช่อง",
+   "description": "The game server has been hacked by Kloss. She has granted you the highest level of access, allowing you to move freely!",
+   "description_th": "Kloss แฮ็กเซิร์ฟเวอร์เกมและมอบสิทธิ์การเข้าถึงระดับสูงสุดแก่คุณ ทำให้คุณเคลื่อนไหวได้อย่างอิสระ!"
+  },
+  {
+   "event_id": 3,
+   "params": [
+    0
+   ],
+   "title": "Ballon Chase",
+   "title_th": "การไล่ล่าลูกโป่ง",
+   "effect_info": "Randomly move 1-6 tiles.",
+   "effect_info_th": "สุ่มย้าย 1-6 ช่อง",
+   "description": "To help Lilith retrieve her balloon whisked away by the wind, you run after it into the distance…",
+   "description_th": "เพื่อช่วย Lilith เอาลูกโป่งที่ถูกลมพัดหายไปคืนมา คุณจึงวิ่งไล่ตามลูกโป่งออกไปไกลจนลับสายตา…"
+  },
+  {
+   "event_id": 4,
+   "params": [
+    3
+   ],
+   "title": "Journey Supplies",
+   "title_th": "เสบียงการเดินทาง",
+   "effect_info": "Special Discount",
+   "effect_info_th": "ส่วนลดพิเศษ",
+   "description": "Sania has provided some discounted items for your adventure. Stock up on supplies before setting out!",
+   "description_th": "Sania เตรียมไอเทมลดราคาสำหรับการผจญภัยของคุณไว้ให้แล้ว ตุนเสบียงก่อนออกเดินทางได้เลย!"
+  },
+  {
+   "event_id": 5,
+   "params": [
+    3
+   ],
+   "title": "Card Guide",
+   "title_th": "คู่มือไพ่",
+   "effect_info": "Flip any card to get the item inside.",
+   "effect_info_th": "พลิกไพ่ใบใดก็ได้เพื่อรับไอเทมข้างใน",
+   "description": "You encounter a mysterious magician who invites you to draw a card and will give you a corresponding gift.",
+   "description_th": "คุณจะพบกับนักมายากลปริศนาที่เชิญชวนให้คุณจั่วไพ่และจะมอบของขวัญที่สอดคล้องกันแก่คุณ"
+  },
+  {
+   "event_id": 6,
+   "params": [
+    3
+   ],
+   "title": "Fortune from Heaven",
+   "title_th": "โชคลาภจากสรวงสวรรค์",
+   "effect_info": "Randomly obtain three Grand Adventure rewards.",
+   "effect_info_th": "สุ่มรับรางวัลการผจญภัยครั้งใหญ่สามรางวัล",
+   "description": "Chaku-ring has found Chiaki's lost teddy bear, and to show her gratitude, Chiaki sends a special gift.",
+   "description_th": "Chaku-ring หาตุ๊กตาหมีที่หายไปของ Chiaki เจอ Chiaki จึงส่งของขวัญพิเศษมาให้เป็นการขอบคุณ"
+  },
+  {
+   "event_id": 7,
+   "params": [
+    3,
+    10011
+   ],
+   "title": "Gift of Good Fortune",
+   "title_th": "ของขวัญนำโชค",
+   "effect_info": "Replace the next three rewards with Hydra Crystals.",
+   "effect_info_th": "แทนที่สามรางวัลถัดไปด้วย Hydra Crystal",
+   "description": "Xiada has brought you good luck that turned some Chaku Medals into Crystals.",
+   "description_th": "Xiada นำโชคดีมาให้คุณ ซึ่งจะเปลี่ยนบัตรความกล้าจำนวนหนึ่งเป็น Crystal"
+  },
+  {
+   "event_id": 8,
+   "params": [
+    3
+   ],
+   "title": "Treasure Trove Box",
+   "title_th": "กล่องสมบัติ",
+   "effect_info": "Come draw your lucky prize.",
+   "effect_info_th": "มาจับรางวัลลุ้นโชคของคุณกัน",
+   "description": "Dorothy meets you and, to assist in your adventure, she takes out three treasures from her treasure box and gives them to you.",
+   "description_th": "Dorothy พบคุณ และหยิบสมบัติสามชิ้นจากกล่องสมบัติมามอบให้กับคุณเพื่อเป็นการช่วยเหลือคุณในการผจญภัย"
+  }
+ ],
+ "text_chunk": "00009_7721796944ca0d59.json"
+}

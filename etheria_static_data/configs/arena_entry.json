@@ -1,0 +1,31 @@
+{
+ "config": "arena_entry",
+ "fields": [
+  "index",
+  "spine_atlas",
+  "spine_data_asset",
+  "title"
+ ],
+ "rows": {
+  "index": [
+   1,
+   "SpineAtlasAsset:T_UI_Arena_1_Atlas",
+   "SpineSkeletonDataAsset:T_UI_Arena_1"
+  ],
+  "spine_atlas": [
+   2,
+   "SpineAtlasAsset:T_UI_Arena_2_Atlas",
+   "SpineSkeletonDataAsset:T_UI_Arena_2"
+  ],
+  "spine_data_asset": [
+   3,
+   "SpineAtlasAsset:T_UI_Arena_3_Atlas",
+   "SpineSkeletonDataAsset:T_UI_Arena_3"
+  ],
+  "title": [
+   4,
+   "SpineAtlasAsset:T_UI_Arena_4_Atlas",
+   "SpineSkeletonDataAsset:T_UI_Arena_4"
+  ]
+ }
+}

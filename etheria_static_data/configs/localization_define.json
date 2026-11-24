@@ -1,0 +1,146 @@
+{
+ "config": "localization_define",
+ "fields": [
+  "id",
+  "unreal_key",
+  "weblate_key",
+  "wwise_l10n_key",
+  "chunk_id",
+  "english_name",
+  "backend",
+  "tap_cdkey_lang"
+ ],
+ "rows": [
+  {
+   "id": 101,
+   "unreal_key": "zh",
+   "weblate_key": "zh_Hans",
+   "wwise_l10n_key": "Chinese",
+   "chunk_id": 101,
+   "english_name": "Chinese",
+   "backend": "zh",
+   "tap_cdkey_lang": "zh_CN"
+  },
+  {
+   "id": 110,
+   "unreal_key": "zh-TW",
+   "weblate_key": "zh_Hant",
+   "wwise_l10n_key": "",
+   "chunk_id": 110,
+   "english_name": "",
+   "backend": "zh-TW",
+   "tap_cdkey_lang": "zh_TW"
+  },
+  {
+   "id": 201,
+   "unreal_key": "en",
+   "weblate_key": "en",
+   "wwise_l10n_key": "English",
+   "chunk_id": 201,
+   "english_name": "English",
+   "backend": "en",
+   "tap_cdkey_lang": "en_US"
+  },
+  {
+   "id": 301,
+   "unreal_key": "ja",
+   "weblate_key": "ja",
+   "wwise_l10n_key": "Japanese",
+   "chunk_id": 301,
+   "english_name": "Japanese",
+   "backend": "ja",
+   "tap_cdkey_lang": "ja_JP"
+  },
+  {
+   "id": 401,
+   "unreal_key": "ko",
+   "weblate_key": "ko",
+   "wwise_l10n_key": "",
+   "chunk_id": 401,
+   "english_name": "",
+   "backend": "ko",
+   "tap_cdkey_lang": "ko_KR"
+  },
+  {
+   "id": 501,
+   "unreal_key": "vi",
+   "weblate_key": "vi",
+   "wwise_l10n_key": "",
+   "chunk_id": 0,
+   "english_name": "",
+   "backend": "vi",
+   "tap_cdkey_lang": "vi_VN"
+  },
+  {
+   "id": 601,
+   "unreal_key": "id",
+   "weblate_key": "id",
+   "wwise_l10n_key": "",
+   "chunk_id": 0,
+   "english_name": "",
+   "backend": "id",
+   "tap_cdkey_lang": "id_ID"
+  },
+  {
+   "id": 701,
+   "unreal_key": "th",
+   "weblate_key": "th",
+   "wwise_l10n_key": "",
+   "chunk_id": 0,
+   "english_name": "",
+   "backend": "th",
+   "tap_cdkey_lang": "en_US"
+  },
+  {
+   "id": 801,
+   "unreal_key": "pt",
+   "weblate_key": "pt",
+   "wwise_l10n_key": "",
+   "chunk_id": 0,
+   "english_name": "",
+   "backend": "pt",
+   "tap_cdkey_lang": "pt_PT"
+  },
+  {
+   "id": 901,
+   "unreal_key": "de",
+   "weblate_key": "de",
+   "wwise_l10n_key": "",
+   "chunk_id": 0,
+   "english_name": "",
+   "backend": "de",
+   "tap_cdkey_lang": "de_DE"
+  },
+  {
+   "id": 1001,
+   "unreal_key": "fr",
+   "weblate_key": "fr",
+   "wwise_l10n_key": "",
+   "chunk_id": 0,
+   "english_name": "",
+   "backend": "fr",
+   "tap_cdkey_lang": "fr_FR"
+  },
+  {
+   "id": 1101,
+   "unreal_key": "ru",
+   "weblate_key": "ru",
+   "wwise_l10n_key": "",
+   "chunk_id": 0,
+   "english_name": "",
+   "backend": "ru",
+   "tap_cdkey_lang": "ru_RU"
+  },
+  {
+   "id": 1201,
+   "unreal_key": "es",
+   "weblate_key": "es",
+   "wwise_l10n_key": "",
+   "chunk_id": 0,
+   "english_name": "",
+   "backend": "es",
+   "tap_cdkey_lang": "es_ES"
+  }
+ ],
+ "text_chunk": null
+}

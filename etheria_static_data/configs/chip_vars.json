@@ -1,0 +1,11269 @@
+{
+ "config": "chip_vars",
+ "fields": [
+  "id",
+  "main_prop",
+  "affix",
+  "rarity",
+  "set_level"
+ ],
+ "rows": {
+  "15001": {
+   "id": 15001,
+   "main_prop": 1,
+   "affix": 1,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "15002": {
+   "id": 15002,
+   "main_prop": 1,
+   "affix": 1,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "15003": {
+   "id": 15003,
+   "main_prop": 1,
+   "affix": 1,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "15004": {
+   "id": 15004,
+   "main_prop": 1,
+   "affix": 1,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "15005": {
+   "id": 15005,
+   "main_prop": 1,
+   "affix": 1,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "15006": {
+   "id": 15006,
+   "main_prop": 1,
+   "affix": 1,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "15007": {
+   "id": 15007,
+   "main_prop": 1,
+   "affix": 1,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "15008": {
+   "id": 15008,
+   "main_prop": 1,
+   "affix": 1,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "15009": {
+   "id": 15009,
+   "main_prop": 1,
+   "affix": 1,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "15010": {
+   "id": 15010,
+   "main_prop": 1,
+   "affix": 1,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "15011": {
+   "id": 15011,
+   "main_prop": 1,
+   "affix": 1,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "15012": {
+   "id": 15012,
+   "main_prop": 1,
+   "affix": 1,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "15021": {
+   "id": 15021,
+   "main_prop": 2,
+   "affix": 1,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "15022": {
+   "id": 15022,
+   "main_prop": 2,
+   "affix": 1,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "15023": {
+   "id": 15023,
+   "main_prop": 2,
+   "affix": 1,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "15024": {
+   "id": 15024,
+   "main_prop": 2,
+   "affix": 1,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "15025": {
+   "id": 15025,
+   "main_prop": 2,
+   "affix": 1,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "15026": {
+   "id": 15026,
+   "main_prop": 2,
+   "affix": 1,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "15027": {
+   "id": 15027,
+   "main_prop": 2,
+   "affix": 1,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "15028": {
+   "id": 15028,
+   "main_prop": 2,
+   "affix": 1,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "15029": {
+   "id": 15029,
+   "main_prop": 2,
+   "affix": 1,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "15030": {
+   "id": 15030,
+   "main_prop": 2,
+   "affix": 1,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "15031": {
+   "id": 15031,
+   "main_prop": 2,
+   "affix": 1,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "15032": {
+   "id": 15032,
+   "main_prop": 2,
+   "affix": 1,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "15041": {
+   "id": 15041,
+   "main_prop": 3,
+   "affix": 1,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "15042": {
+   "id": 15042,
+   "main_prop": 3,
+   "affix": 1,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "15043": {
+   "id": 15043,
+   "main_prop": 3,
+   "affix": 1,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "15044": {
+   "id": 15044,
+   "main_prop": 3,
+   "affix": 1,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "15045": {
+   "id": 15045,
+   "main_prop": 3,
+   "affix": 1,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "15046": {
+   "id": 15046,
+   "main_prop": 3,
+   "affix": 1,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "15047": {
+   "id": 15047,
+   "main_prop": 3,
+   "affix": 1,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "15048": {
+   "id": 15048,
+   "main_prop": 3,
+   "affix": 1,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "15049": {
+   "id": 15049,
+   "main_prop": 3,
+   "affix": 1,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "15050": {
+   "id": 15050,
+   "main_prop": 3,
+   "affix": 1,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "15051": {
+   "id": 15051,
+   "main_prop": 3,
+   "affix": 1,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "15052": {
+   "id": 15052,
+   "main_prop": 3,
+   "affix": 1,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "15061": {
+   "id": 15061,
+   "main_prop": 4,
+   "affix": 1,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "15062": {
+   "id": 15062,
+   "main_prop": 4,
+   "affix": 1,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "15063": {
+   "id": 15063,
+   "main_prop": 4,
+   "affix": 1,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "15064": {
+   "id": 15064,
+   "main_prop": 4,
+   "affix": 1,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "15065": {
+   "id": 15065,
+   "main_prop": 4,
+   "affix": 1,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "15066": {
+   "id": 15066,
+   "main_prop": 4,
+   "affix": 1,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "15067": {
+   "id": 15067,
+   "main_prop": 4,
+   "affix": 1,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "15068": {
+   "id": 15068,
+   "main_prop": 4,
+   "affix": 1,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "15069": {
+   "id": 15069,
+   "main_prop": 4,
+   "affix": 1,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "15070": {
+   "id": 15070,
+   "main_prop": 4,
+   "affix": 1,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "15071": {
+   "id": 15071,
+   "main_prop": 4,
+   "affix": 1,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "15072": {
+   "id": 15072,
+   "main_prop": 4,
+   "affix": 1,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "15081": {
+   "id": 15081,
+   "main_prop": 1,
+   "affix": 2,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "15082": {
+   "id": 15082,
+   "main_prop": 1,
+   "affix": 2,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "15083": {
+   "id": 15083,
+   "main_prop": 1,
+   "affix": 2,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "15084": {
+   "id": 15084,
+   "main_prop": 1,
+   "affix": 2,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "15085": {
+   "id": 15085,
+   "main_prop": 1,
+   "affix": 2,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "15086": {
+   "id": 15086,
+   "main_prop": 1,
+   "affix": 2,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "15087": {
+   "id": 15087,
+   "main_prop": 1,
+   "affix": 2,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "15088": {
+   "id": 15088,
+   "main_prop": 1,
+   "affix": 2,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "15089": {
+   "id": 15089,
+   "main_prop": 1,
+   "affix": 2,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "15090": {
+   "id": 15090,
+   "main_prop": 1,
+   "affix": 2,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "15091": {
+   "id": 15091,
+   "main_prop": 1,
+   "affix": 2,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "15092": {
+   "id": 15092,
+   "main_prop": 1,
+   "affix": 2,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "15101": {
+   "id": 15101,
+   "main_prop": 2,
+   "affix": 2,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "15102": {
+   "id": 15102,
+   "main_prop": 2,
+   "affix": 2,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "15103": {
+   "id": 15103,
+   "main_prop": 2,
+   "affix": 2,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "15104": {
+   "id": 15104,
+   "main_prop": 2,
+   "affix": 2,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "15105": {
+   "id": 15105,
+   "main_prop": 2,
+   "affix": 2,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "15106": {
+   "id": 15106,
+   "main_prop": 2,
+   "affix": 2,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "15107": {
+   "id": 15107,
+   "main_prop": 2,
+   "affix": 2,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "15108": {
+   "id": 15108,
+   "main_prop": 2,
+   "affix": 2,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "15109": {
+   "id": 15109,
+   "main_prop": 2,
+   "affix": 2,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "15110": {
+   "id": 15110,
+   "main_prop": 2,
+   "affix": 2,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "15111": {
+   "id": 15111,
+   "main_prop": 2,
+   "affix": 2,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "15112": {
+   "id": 15112,
+   "main_prop": 2,
+   "affix": 2,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "15121": {
+   "id": 15121,
+   "main_prop": 3,
+   "affix": 2,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "15122": {
+   "id": 15122,
+   "main_prop": 3,
+   "affix": 2,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "15123": {
+   "id": 15123,
+   "main_prop": 3,
+   "affix": 2,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "15124": {
+   "id": 15124,
+   "main_prop": 3,
+   "affix": 2,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "15125": {
+   "id": 15125,
+   "main_prop": 3,
+   "affix": 2,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "15126": {
+   "id": 15126,
+   "main_prop": 3,
+   "affix": 2,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "15127": {
+   "id": 15127,
+   "main_prop": 3,
+   "affix": 2,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "15128": {
+   "id": 15128,
+   "main_prop": 3,
+   "affix": 2,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "15129": {
+   "id": 15129,
+   "main_prop": 3,
+   "affix": 2,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "15130": {
+   "id": 15130,
+   "main_prop": 3,
+   "affix": 2,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "15131": {
+   "id": 15131,
+   "main_prop": 3,
+   "affix": 2,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "15132": {
+   "id": 15132,
+   "main_prop": 3,
+   "affix": 2,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "15141": {
+   "id": 15141,
+   "main_prop": 4,
+   "affix": 2,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "15142": {
+   "id": 15142,
+   "main_prop": 4,
+   "affix": 2,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "15143": {
+   "id": 15143,
+   "main_prop": 4,
+   "affix": 2,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "15144": {
+   "id": 15144,
+   "main_prop": 4,
+   "affix": 2,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "15145": {
+   "id": 15145,
+   "main_prop": 4,
+   "affix": 2,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "15146": {
+   "id": 15146,
+   "main_prop": 4,
+   "affix": 2,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "15147": {
+   "id": 15147,
+   "main_prop": 4,
+   "affix": 2,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "15148": {
+   "id": 15148,
+   "main_prop": 4,
+   "affix": 2,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "15149": {
+   "id": 15149,
+   "main_prop": 4,
+   "affix": 2,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "15150": {
+   "id": 15150,
+   "main_prop": 4,
+   "affix": 2,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "15151": {
+   "id": 15151,
+   "main_prop": 4,
+   "affix": 2,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "15152": {
+   "id": 15152,
+   "main_prop": 4,
+   "affix": 2,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "15161": {
+   "id": 15161,
+   "main_prop": 1,
+   "affix": 3,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "15162": {
+   "id": 15162,
+   "main_prop": 1,
+   "affix": 3,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "15163": {
+   "id": 15163,
+   "main_prop": 1,
+   "affix": 3,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "15164": {
+   "id": 15164,
+   "main_prop": 1,
+   "affix": 3,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "15165": {
+   "id": 15165,
+   "main_prop": 1,
+   "affix": 3,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "15166": {
+   "id": 15166,
+   "main_prop": 1,
+   "affix": 3,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "15167": {
+   "id": 15167,
+   "main_prop": 1,
+   "affix": 3,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "15168": {
+   "id": 15168,
+   "main_prop": 1,
+   "affix": 3,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "15169": {
+   "id": 15169,
+   "main_prop": 1,
+   "affix": 3,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "15170": {
+   "id": 15170,
+   "main_prop": 1,
+   "affix": 3,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "15171": {
+   "id": 15171,
+   "main_prop": 1,
+   "affix": 3,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "15172": {
+   "id": 15172,
+   "main_prop": 1,
+   "affix": 3,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "15181": {
+   "id": 15181,
+   "main_prop": 2,
+   "affix": 3,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "15182": {
+   "id": 15182,
+   "main_prop": 2,
+   "affix": 3,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "15183": {
+   "id": 15183,
+   "main_prop": 2,
+   "affix": 3,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "15184": {
+   "id": 15184,
+   "main_prop": 2,
+   "affix": 3,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "15185": {
+   "id": 15185,
+   "main_prop": 2,
+   "affix": 3,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "15186": {
+   "id": 15186,
+   "main_prop": 2,
+   "affix": 3,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "15187": {
+   "id": 15187,
+   "main_prop": 2,
+   "affix": 3,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "15188": {
+   "id": 15188,
+   "main_prop": 2,
+   "affix": 3,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "15189": {
+   "id": 15189,
+   "main_prop": 2,
+   "affix": 3,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "15190": {
+   "id": 15190,
+   "main_prop": 2,
+   "affix": 3,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "15191": {
+   "id": 15191,
+   "main_prop": 2,
+   "affix": 3,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "15192": {
+   "id": 15192,
+   "main_prop": 2,
+   "affix": 3,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "15201": {
+   "id": 15201,
+   "main_prop": 3,
+   "affix": 3,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "15202": {
+   "id": 15202,
+   "main_prop": 3,
+   "affix": 3,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "15203": {
+   "id": 15203,
+   "main_prop": 3,
+   "affix": 3,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "15204": {
+   "id": 15204,
+   "main_prop": 3,
+   "affix": 3,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "15205": {
+   "id": 15205,
+   "main_prop": 3,
+   "affix": 3,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "15206": {
+   "id": 15206,
+   "main_prop": 3,
+   "affix": 3,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "15207": {
+   "id": 15207,
+   "main_prop": 3,
+   "affix": 3,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "15208": {
+   "id": 15208,
+   "main_prop": 3,
+   "affix": 3,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "15209": {
+   "id": 15209,
+   "main_prop": 3,
+   "affix": 3,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "15210": {
+   "id": 15210,
+   "main_prop": 3,
+   "affix": 3,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "15211": {
+   "id": 15211,
+   "main_prop": 3,
+   "affix": 3,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "15212": {
+   "id": 15212,
+   "main_prop": 3,
+   "affix": 3,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "15221": {
+   "id": 15221,
+   "main_prop": 4,
+   "affix": 3,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "15222": {
+   "id": 15222,
+   "main_prop": 4,
+   "affix": 3,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "15223": {
+   "id": 15223,
+   "main_prop": 4,
+   "affix": 3,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "15224": {
+   "id": 15224,
+   "main_prop": 4,
+   "affix": 3,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "15225": {
+   "id": 15225,
+   "main_prop": 4,
+   "affix": 3,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "15226": {
+   "id": 15226,
+   "main_prop": 4,
+   "affix": 3,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "15227": {
+   "id": 15227,
+   "main_prop": 4,
+   "affix": 3,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "15228": {
+   "id": 15228,
+   "main_prop": 4,
+   "affix": 3,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "15229": {
+   "id": 15229,
+   "main_prop": 4,
+   "affix": 3,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "15230": {
+   "id": 15230,
+   "main_prop": 4,
+   "affix": 3,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "15231": {
+   "id": 15231,
+   "main_prop": 4,
+   "affix": 3,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "15232": {
+   "id": 15232,
+   "main_prop": 4,
+   "affix": 3,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "15241": {
+   "id": 15241,
+   "main_prop": 1,
+   "affix": 4,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "15242": {
+   "id": 15242,
+   "main_prop": 1,
+   "affix": 4,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "15243": {
+   "id": 15243,
+   "main_prop": 1,
+   "affix": 4,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "15244": {
+   "id": 15244,
+   "main_prop": 1,
+   "affix": 4,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "15245": {
+   "id": 15245,
+   "main_prop": 1,
+   "affix": 4,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "15246": {
+   "id": 15246,
+   "main_prop": 1,
+   "affix": 4,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "15247": {
+   "id": 15247,
+   "main_prop": 1,
+   "affix": 4,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "15248": {
+   "id": 15248,
+   "main_prop": 1,
+   "affix": 4,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "15249": {
+   "id": 15249,
+   "main_prop": 1,
+   "affix": 4,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "15250": {
+   "id": 15250,
+   "main_prop": 1,
+   "affix": 4,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "15251": {
+   "id": 15251,
+   "main_prop": 1,
+   "affix": 4,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "15252": {
+   "id": 15252,
+   "main_prop": 1,
+   "affix": 4,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "15261": {
+   "id": 15261,
+   "main_prop": 2,
+   "affix": 4,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "15262": {
+   "id": 15262,
+   "main_prop": 2,
+   "affix": 4,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "15263": {
+   "id": 15263,
+   "main_prop": 2,
+   "affix": 4,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "15264": {
+   "id": 15264,
+   "main_prop": 2,
+   "affix": 4,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "15265": {
+   "id": 15265,
+   "main_prop": 2,
+   "affix": 4,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "15266": {
+   "id": 15266,
+   "main_prop": 2,
+   "affix": 4,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "15267": {
+   "id": 15267,
+   "main_prop": 2,
+   "affix": 4,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "15268": {
+   "id": 15268,
+   "main_prop": 2,
+   "affix": 4,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "15269": {
+   "id": 15269,
+   "main_prop": 2,
+   "affix": 4,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "15270": {
+   "id": 15270,
+   "main_prop": 2,
+   "affix": 4,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "15271": {
+   "id": 15271,
+   "main_prop": 2,
+   "affix": 4,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "15272": {
+   "id": 15272,
+   "main_prop": 2,
+   "affix": 4,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "15281": {
+   "id": 15281,
+   "main_prop": 3,
+   "affix": 4,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "15282": {
+   "id": 15282,
+   "main_prop": 3,
+   "affix": 4,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "15283": {
+   "id": 15283,
+   "main_prop": 3,
+   "affix": 4,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "15284": {
+   "id": 15284,
+   "main_prop": 3,
+   "affix": 4,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "15285": {
+   "id": 15285,
+   "main_prop": 3,
+   "affix": 4,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "15286": {
+   "id": 15286,
+   "main_prop": 3,
+   "affix": 4,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "15287": {
+   "id": 15287,
+   "main_prop": 3,
+   "affix": 4,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "15288": {
+   "id": 15288,
+   "main_prop": 3,
+   "affix": 4,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "15289": {
+   "id": 15289,
+   "main_prop": 3,
+   "affix": 4,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "15290": {
+   "id": 15290,
+   "main_prop": 3,
+   "affix": 4,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "15291": {
+   "id": 15291,
+   "main_prop": 3,
+   "affix": 4,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "15292": {
+   "id": 15292,
+   "main_prop": 3,
+   "affix": 4,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "15301": {
+   "id": 15301,
+   "main_prop": 4,
+   "affix": 4,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "15302": {
+   "id": 15302,
+   "main_prop": 4,
+   "affix": 4,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "15303": {
+   "id": 15303,
+   "main_prop": 4,
+   "affix": 4,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "15304": {
+   "id": 15304,
+   "main_prop": 4,
+   "affix": 4,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "15305": {
+   "id": 15305,
+   "main_prop": 4,
+   "affix": 4,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "15306": {
+   "id": 15306,
+   "main_prop": 4,
+   "affix": 4,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "15307": {
+   "id": 15307,
+   "main_prop": 4,
+   "affix": 4,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "15308": {
+   "id": 15308,
+   "main_prop": 4,
+   "affix": 4,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "15309": {
+   "id": 15309,
+   "main_prop": 4,
+   "affix": 4,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "15310": {
+   "id": 15310,
+   "main_prop": 4,
+   "affix": 4,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "15311": {
+   "id": 15311,
+   "main_prop": 4,
+   "affix": 4,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "15312": {
+   "id": 15312,
+   "main_prop": 4,
+   "affix": 4,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "15321": {
+   "id": 15321,
+   "main_prop": 1,
+   "affix": 5,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "15322": {
+   "id": 15322,
+   "main_prop": 1,
+   "affix": 5,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "15323": {
+   "id": 15323,
+   "main_prop": 1,
+   "affix": 5,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "15324": {
+   "id": 15324,
+   "main_prop": 1,
+   "affix": 5,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "15325": {
+   "id": 15325,
+   "main_prop": 1,
+   "affix": 5,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "15326": {
+   "id": 15326,
+   "main_prop": 1,
+   "affix": 5,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "15327": {
+   "id": 15327,
+   "main_prop": 1,
+   "affix": 5,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "15328": {
+   "id": 15328,
+   "main_prop": 1,
+   "affix": 5,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "15329": {
+   "id": 15329,
+   "main_prop": 1,
+   "affix": 5,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "15330": {
+   "id": 15330,
+   "main_prop": 1,
+   "affix": 5,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "15331": {
+   "id": 15331,
+   "main_prop": 1,
+   "affix": 5,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "15332": {
+   "id": 15332,
+   "main_prop": 1,
+   "affix": 5,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "15341": {
+   "id": 15341,
+   "main_prop": 2,
+   "affix": 5,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "15342": {
+   "id": 15342,
+   "main_prop": 2,
+   "affix": 5,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "15343": {
+   "id": 15343,
+   "main_prop": 2,
+   "affix": 5,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "15344": {
+   "id": 15344,
+   "main_prop": 2,
+   "affix": 5,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "15345": {
+   "id": 15345,
+   "main_prop": 2,
+   "affix": 5,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "15346": {
+   "id": 15346,
+   "main_prop": 2,
+   "affix": 5,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "15347": {
+   "id": 15347,
+   "main_prop": 2,
+   "affix": 5,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "15348": {
+   "id": 15348,
+   "main_prop": 2,
+   "affix": 5,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "15349": {
+   "id": 15349,
+   "main_prop": 2,
+   "affix": 5,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "15350": {
+   "id": 15350,
+   "main_prop": 2,
+   "affix": 5,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "15351": {
+   "id": 15351,
+   "main_prop": 2,
+   "affix": 5,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "15352": {
+   "id": 15352,
+   "main_prop": 2,
+   "affix": 5,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "15361": {
+   "id": 15361,
+   "main_prop": 3,
+   "affix": 5,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "15362": {
+   "id": 15362,
+   "main_prop": 3,
+   "affix": 5,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "15363": {
+   "id": 15363,
+   "main_prop": 3,
+   "affix": 5,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "15364": {
+   "id": 15364,
+   "main_prop": 3,
+   "affix": 5,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "15365": {
+   "id": 15365,
+   "main_prop": 3,
+   "affix": 5,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "15366": {
+   "id": 15366,
+   "main_prop": 3,
+   "affix": 5,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "15367": {
+   "id": 15367,
+   "main_prop": 3,
+   "affix": 5,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "15368": {
+   "id": 15368,
+   "main_prop": 3,
+   "affix": 5,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "15369": {
+   "id": 15369,
+   "main_prop": 3,
+   "affix": 5,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "15370": {
+   "id": 15370,
+   "main_prop": 3,
+   "affix": 5,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "15371": {
+   "id": 15371,
+   "main_prop": 3,
+   "affix": 5,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "15372": {
+   "id": 15372,
+   "main_prop": 3,
+   "affix": 5,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "15381": {
+   "id": 15381,
+   "main_prop": 4,
+   "affix": 5,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "15382": {
+   "id": 15382,
+   "main_prop": 4,
+   "affix": 5,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "15383": {
+   "id": 15383,
+   "main_prop": 4,
+   "affix": 5,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "15384": {
+   "id": 15384,
+   "main_prop": 4,
+   "affix": 5,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "15385": {
+   "id": 15385,
+   "main_prop": 4,
+   "affix": 5,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "15386": {
+   "id": 15386,
+   "main_prop": 4,
+   "affix": 5,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "15387": {
+   "id": 15387,
+   "main_prop": 4,
+   "affix": 5,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "15388": {
+   "id": 15388,
+   "main_prop": 4,
+   "affix": 5,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "15389": {
+   "id": 15389,
+   "main_prop": 4,
+   "affix": 5,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "15390": {
+   "id": 15390,
+   "main_prop": 4,
+   "affix": 5,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "15391": {
+   "id": 15391,
+   "main_prop": 4,
+   "affix": 5,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "15392": {
+   "id": 15392,
+   "main_prop": 4,
+   "affix": 5,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "15401": {
+   "id": 15401,
+   "main_prop": 1,
+   "affix": 6,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "15402": {
+   "id": 15402,
+   "main_prop": 1,
+   "affix": 6,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "15403": {
+   "id": 15403,
+   "main_prop": 1,
+   "affix": 6,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "15404": {
+   "id": 15404,
+   "main_prop": 1,
+   "affix": 6,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "15405": {
+   "id": 15405,
+   "main_prop": 1,
+   "affix": 6,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "15406": {
+   "id": 15406,
+   "main_prop": 1,
+   "affix": 6,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "15407": {
+   "id": 15407,
+   "main_prop": 1,
+   "affix": 6,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "15408": {
+   "id": 15408,
+   "main_prop": 1,
+   "affix": 6,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "15409": {
+   "id": 15409,
+   "main_prop": 1,
+   "affix": 6,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "15410": {
+   "id": 15410,
+   "main_prop": 1,
+   "affix": 6,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "15411": {
+   "id": 15411,
+   "main_prop": 1,
+   "affix": 6,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "15412": {
+   "id": 15412,
+   "main_prop": 1,
+   "affix": 6,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "15421": {
+   "id": 15421,
+   "main_prop": 2,
+   "affix": 6,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "15422": {
+   "id": 15422,
+   "main_prop": 2,
+   "affix": 6,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "15423": {
+   "id": 15423,
+   "main_prop": 2,
+   "affix": 6,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "15424": {
+   "id": 15424,
+   "main_prop": 2,
+   "affix": 6,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "15425": {
+   "id": 15425,
+   "main_prop": 2,
+   "affix": 6,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "15426": {
+   "id": 15426,
+   "main_prop": 2,
+   "affix": 6,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "15427": {
+   "id": 15427,
+   "main_prop": 2,
+   "affix": 6,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "15428": {
+   "id": 15428,
+   "main_prop": 2,
+   "affix": 6,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "15429": {
+   "id": 15429,
+   "main_prop": 2,
+   "affix": 6,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "15430": {
+   "id": 15430,
+   "main_prop": 2,
+   "affix": 6,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "15431": {
+   "id": 15431,
+   "main_prop": 2,
+   "affix": 6,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "15432": {
+   "id": 15432,
+   "main_prop": 2,
+   "affix": 6,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "15441": {
+   "id": 15441,
+   "main_prop": 3,
+   "affix": 6,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "15442": {
+   "id": 15442,
+   "main_prop": 3,
+   "affix": 6,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "15443": {
+   "id": 15443,
+   "main_prop": 3,
+   "affix": 6,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "15444": {
+   "id": 15444,
+   "main_prop": 3,
+   "affix": 6,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "15445": {
+   "id": 15445,
+   "main_prop": 3,
+   "affix": 6,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "15446": {
+   "id": 15446,
+   "main_prop": 3,
+   "affix": 6,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "15447": {
+   "id": 15447,
+   "main_prop": 3,
+   "affix": 6,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "15448": {
+   "id": 15448,
+   "main_prop": 3,
+   "affix": 6,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "15449": {
+   "id": 15449,
+   "main_prop": 3,
+   "affix": 6,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "15450": {
+   "id": 15450,
+   "main_prop": 3,
+   "affix": 6,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "15451": {
+   "id": 15451,
+   "main_prop": 3,
+   "affix": 6,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "15452": {
+   "id": 15452,
+   "main_prop": 3,
+   "affix": 6,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "15461": {
+   "id": 15461,
+   "main_prop": 4,
+   "affix": 6,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "15462": {
+   "id": 15462,
+   "main_prop": 4,
+   "affix": 6,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "15463": {
+   "id": 15463,
+   "main_prop": 4,
+   "affix": 6,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "15464": {
+   "id": 15464,
+   "main_prop": 4,
+   "affix": 6,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "15465": {
+   "id": 15465,
+   "main_prop": 4,
+   "affix": 6,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "15466": {
+   "id": 15466,
+   "main_prop": 4,
+   "affix": 6,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "15467": {
+   "id": 15467,
+   "main_prop": 4,
+   "affix": 6,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "15468": {
+   "id": 15468,
+   "main_prop": 4,
+   "affix": 6,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "15469": {
+   "id": 15469,
+   "main_prop": 4,
+   "affix": 6,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "15470": {
+   "id": 15470,
+   "main_prop": 4,
+   "affix": 6,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "15471": {
+   "id": 15471,
+   "main_prop": 4,
+   "affix": 6,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "15472": {
+   "id": 15472,
+   "main_prop": 4,
+   "affix": 6,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "15481": {
+   "id": 15481,
+   "main_prop": 1,
+   "affix": 7,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "15482": {
+   "id": 15482,
+   "main_prop": 1,
+   "affix": 7,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "15483": {
+   "id": 15483,
+   "main_prop": 1,
+   "affix": 7,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "15484": {
+   "id": 15484,
+   "main_prop": 1,
+   "affix": 7,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "15485": {
+   "id": 15485,
+   "main_prop": 1,
+   "affix": 7,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "15486": {
+   "id": 15486,
+   "main_prop": 1,
+   "affix": 7,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "15487": {
+   "id": 15487,
+   "main_prop": 1,
+   "affix": 7,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "15488": {
+   "id": 15488,
+   "main_prop": 1,
+   "affix": 7,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "15489": {
+   "id": 15489,
+   "main_prop": 1,
+   "affix": 7,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "15490": {
+   "id": 15490,
+   "main_prop": 1,
+   "affix": 7,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "15491": {
+   "id": 15491,
+   "main_prop": 1,
+   "affix": 7,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "15492": {
+   "id": 15492,
+   "main_prop": 1,
+   "affix": 7,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "15501": {
+   "id": 15501,
+   "main_prop": 2,
+   "affix": 7,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "15502": {
+   "id": 15502,
+   "main_prop": 2,
+   "affix": 7,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "15503": {
+   "id": 15503,
+   "main_prop": 2,
+   "affix": 7,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "15504": {
+   "id": 15504,
+   "main_prop": 2,
+   "affix": 7,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "15505": {
+   "id": 15505,
+   "main_prop": 2,
+   "affix": 7,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "15506": {
+   "id": 15506,
+   "main_prop": 2,
+   "affix": 7,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "15507": {
+   "id": 15507,
+   "main_prop": 2,
+   "affix": 7,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "15508": {
+   "id": 15508,
+   "main_prop": 2,
+   "affix": 7,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "15509": {
+   "id": 15509,
+   "main_prop": 2,
+   "affix": 7,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "15510": {
+   "id": 15510,
+   "main_prop": 2,
+   "affix": 7,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "15511": {
+   "id": 15511,
+   "main_prop": 2,
+   "affix": 7,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "15512": {
+   "id": 15512,
+   "main_prop": 2,
+   "affix": 7,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "15521": {
+   "id": 15521,
+   "main_prop": 3,
+   "affix": 7,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "15522": {
+   "id": 15522,
+   "main_prop": 3,
+   "affix": 7,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "15523": {
+   "id": 15523,
+   "main_prop": 3,
+   "affix": 7,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "15524": {
+   "id": 15524,
+   "main_prop": 3,
+   "affix": 7,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "15525": {
+   "id": 15525,
+   "main_prop": 3,
+   "affix": 7,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "15526": {
+   "id": 15526,
+   "main_prop": 3,
+   "affix": 7,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "15527": {
+   "id": 15527,
+   "main_prop": 3,
+   "affix": 7,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "15528": {
+   "id": 15528,
+   "main_prop": 3,
+   "affix": 7,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "15529": {
+   "id": 15529,
+   "main_prop": 3,
+   "affix": 7,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "15530": {
+   "id": 15530,
+   "main_prop": 3,
+   "affix": 7,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "15531": {
+   "id": 15531,
+   "main_prop": 3,
+   "affix": 7,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "15532": {
+   "id": 15532,
+   "main_prop": 3,
+   "affix": 7,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "15541": {
+   "id": 15541,
+   "main_prop": 4,
+   "affix": 7,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "15542": {
+   "id": 15542,
+   "main_prop": 4,
+   "affix": 7,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "15543": {
+   "id": 15543,
+   "main_prop": 4,
+   "affix": 7,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "15544": {
+   "id": 15544,
+   "main_prop": 4,
+   "affix": 7,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "15545": {
+   "id": 15545,
+   "main_prop": 4,
+   "affix": 7,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "15546": {
+   "id": 15546,
+   "main_prop": 4,
+   "affix": 7,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "15547": {
+   "id": 15547,
+   "main_prop": 4,
+   "affix": 7,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "15548": {
+   "id": 15548,
+   "main_prop": 4,
+   "affix": 7,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "15549": {
+   "id": 15549,
+   "main_prop": 4,
+   "affix": 7,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "15550": {
+   "id": 15550,
+   "main_prop": 4,
+   "affix": 7,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "15551": {
+   "id": 15551,
+   "main_prop": 4,
+   "affix": 7,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "15552": {
+   "id": 15552,
+   "main_prop": 4,
+   "affix": 7,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "15561": {
+   "id": 15561,
+   "main_prop": 1,
+   "affix": 8,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "15562": {
+   "id": 15562,
+   "main_prop": 1,
+   "affix": 8,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "15563": {
+   "id": 15563,
+   "main_prop": 1,
+   "affix": 8,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "15564": {
+   "id": 15564,
+   "main_prop": 1,
+   "affix": 8,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "15565": {
+   "id": 15565,
+   "main_prop": 1,
+   "affix": 8,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "15566": {
+   "id": 15566,
+   "main_prop": 1,
+   "affix": 8,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "15567": {
+   "id": 15567,
+   "main_prop": 1,
+   "affix": 8,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "15568": {
+   "id": 15568,
+   "main_prop": 1,
+   "affix": 8,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "15569": {
+   "id": 15569,
+   "main_prop": 1,
+   "affix": 8,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "15570": {
+   "id": 15570,
+   "main_prop": 1,
+   "affix": 8,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "15571": {
+   "id": 15571,
+   "main_prop": 1,
+   "affix": 8,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "15572": {
+   "id": 15572,
+   "main_prop": 1,
+   "affix": 8,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "15581": {
+   "id": 15581,
+   "main_prop": 2,
+   "affix": 8,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "15582": {
+   "id": 15582,
+   "main_prop": 2,
+   "affix": 8,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "15583": {
+   "id": 15583,
+   "main_prop": 2,
+   "affix": 8,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "15584": {
+   "id": 15584,
+   "main_prop": 2,
+   "affix": 8,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "15585": {
+   "id": 15585,
+   "main_prop": 2,
+   "affix": 8,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "15586": {
+   "id": 15586,
+   "main_prop": 2,
+   "affix": 8,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "15587": {
+   "id": 15587,
+   "main_prop": 2,
+   "affix": 8,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "15588": {
+   "id": 15588,
+   "main_prop": 2,
+   "affix": 8,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "15589": {
+   "id": 15589,
+   "main_prop": 2,
+   "affix": 8,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "15590": {
+   "id": 15590,
+   "main_prop": 2,
+   "affix": 8,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "15591": {
+   "id": 15591,
+   "main_prop": 2,
+   "affix": 8,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "15592": {
+   "id": 15592,
+   "main_prop": 2,
+   "affix": 8,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "15601": {
+   "id": 15601,
+   "main_prop": 3,
+   "affix": 8,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "15602": {
+   "id": 15602,
+   "main_prop": 3,
+   "affix": 8,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "15603": {
+   "id": 15603,
+   "main_prop": 3,
+   "affix": 8,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "15604": {
+   "id": 15604,
+   "main_prop": 3,
+   "affix": 8,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "15605": {
+   "id": 15605,
+   "main_prop": 3,
+   "affix": 8,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "15606": {
+   "id": 15606,
+   "main_prop": 3,
+   "affix": 8,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "15607": {
+   "id": 15607,
+   "main_prop": 3,
+   "affix": 8,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "15608": {
+   "id": 15608,
+   "main_prop": 3,
+   "affix": 8,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "15609": {
+   "id": 15609,
+   "main_prop": 3,
+   "affix": 8,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "15610": {
+   "id": 15610,
+   "main_prop": 3,
+   "affix": 8,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "15611": {
+   "id": 15611,
+   "main_prop": 3,
+   "affix": 8,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "15612": {
+   "id": 15612,
+   "main_prop": 3,
+   "affix": 8,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "15621": {
+   "id": 15621,
+   "main_prop": 4,
+   "affix": 8,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "15622": {
+   "id": 15622,
+   "main_prop": 4,
+   "affix": 8,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "15623": {
+   "id": 15623,
+   "main_prop": 4,
+   "affix": 8,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "15624": {
+   "id": 15624,
+   "main_prop": 4,
+   "affix": 8,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "15625": {
+   "id": 15625,
+   "main_prop": 4,
+   "affix": 8,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "15626": {
+   "id": 15626,
+   "main_prop": 4,
+   "affix": 8,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "15627": {
+   "id": 15627,
+   "main_prop": 4,
+   "affix": 8,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "15628": {
+   "id": 15628,
+   "main_prop": 4,
+   "affix": 8,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "15629": {
+   "id": 15629,
+   "main_prop": 4,
+   "affix": 8,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "15630": {
+   "id": 15630,
+   "main_prop": 4,
+   "affix": 8,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "15631": {
+   "id": 15631,
+   "main_prop": 4,
+   "affix": 8,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "15632": {
+   "id": 15632,
+   "main_prop": 4,
+   "affix": 8,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "15641": {
+   "id": 15641,
+   "main_prop": 1,
+   "affix": 9,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "15642": {
+   "id": 15642,
+   "main_prop": 1,
+   "affix": 9,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "15643": {
+   "id": 15643,
+   "main_prop": 1,
+   "affix": 9,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "15644": {
+   "id": 15644,
+   "main_prop": 1,
+   "affix": 9,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "15645": {
+   "id": 15645,
+   "main_prop": 1,
+   "affix": 9,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "15646": {
+   "id": 15646,
+   "main_prop": 1,
+   "affix": 9,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "15647": {
+   "id": 15647,
+   "main_prop": 1,
+   "affix": 9,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "15648": {
+   "id": 15648,
+   "main_prop": 1,
+   "affix": 9,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "15649": {
+   "id": 15649,
+   "main_prop": 1,
+   "affix": 9,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "15650": {
+   "id": 15650,
+   "main_prop": 1,
+   "affix": 9,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "15651": {
+   "id": 15651,
+   "main_prop": 1,
+   "affix": 9,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "15652": {
+   "id": 15652,
+   "main_prop": 1,
+   "affix": 9,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "15661": {
+   "id": 15661,
+   "main_prop": 2,
+   "affix": 9,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "15662": {
+   "id": 15662,
+   "main_prop": 2,
+   "affix": 9,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "15663": {
+   "id": 15663,
+   "main_prop": 2,
+   "affix": 9,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "15664": {
+   "id": 15664,
+   "main_prop": 2,
+   "affix": 9,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "15665": {
+   "id": 15665,
+   "main_prop": 2,
+   "affix": 9,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "15666": {
+   "id": 15666,
+   "main_prop": 2,
+   "affix": 9,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "15667": {
+   "id": 15667,
+   "main_prop": 2,
+   "affix": 9,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "15668": {
+   "id": 15668,
+   "main_prop": 2,
+   "affix": 9,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "15669": {
+   "id": 15669,
+   "main_prop": 2,
+   "affix": 9,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "15670": {
+   "id": 15670,
+   "main_prop": 2,
+   "affix": 9,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "15671": {
+   "id": 15671,
+   "main_prop": 2,
+   "affix": 9,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "15672": {
+   "id": 15672,
+   "main_prop": 2,
+   "affix": 9,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "15681": {
+   "id": 15681,
+   "main_prop": 3,
+   "affix": 9,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "15682": {
+   "id": 15682,
+   "main_prop": 3,
+   "affix": 9,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "15683": {
+   "id": 15683,
+   "main_prop": 3,
+   "affix": 9,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "15684": {
+   "id": 15684,
+   "main_prop": 3,
+   "affix": 9,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "15685": {
+   "id": 15685,
+   "main_prop": 3,
+   "affix": 9,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "15686": {
+   "id": 15686,
+   "main_prop": 3,
+   "affix": 9,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "15687": {
+   "id": 15687,
+   "main_prop": 3,
+   "affix": 9,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "15688": {
+   "id": 15688,
+   "main_prop": 3,
+   "affix": 9,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "15689": {
+   "id": 15689,
+   "main_prop": 3,
+   "affix": 9,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "15690": {
+   "id": 15690,
+   "main_prop": 3,
+   "affix": 9,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "15691": {
+   "id": 15691,
+   "main_prop": 3,
+   "affix": 9,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "15692": {
+   "id": 15692,
+   "main_prop": 3,
+   "affix": 9,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "15701": {
+   "id": 15701,
+   "main_prop": 4,
+   "affix": 9,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "15702": {
+   "id": 15702,
+   "main_prop": 4,
+   "affix": 9,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "15703": {
+   "id": 15703,
+   "main_prop": 4,
+   "affix": 9,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "15704": {
+   "id": 15704,
+   "main_prop": 4,
+   "affix": 9,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "15705": {
+   "id": 15705,
+   "main_prop": 4,
+   "affix": 9,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "15706": {
+   "id": 15706,
+   "main_prop": 4,
+   "affix": 9,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "15707": {
+   "id": 15707,
+   "main_prop": 4,
+   "affix": 9,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "15708": {
+   "id": 15708,
+   "main_prop": 4,
+   "affix": 9,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "15709": {
+   "id": 15709,
+   "main_prop": 4,
+   "affix": 9,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "15710": {
+   "id": 15710,
+   "main_prop": 4,
+   "affix": 9,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "15711": {
+   "id": 15711,
+   "main_prop": 4,
+   "affix": 9,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "15712": {
+   "id": 15712,
+   "main_prop": 4,
+   "affix": 9,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "15721": {
+   "id": 15721,
+   "main_prop": 1,
+   "affix": 10,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "15722": {
+   "id": 15722,
+   "main_prop": 1,
+   "affix": 10,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "15723": {
+   "id": 15723,
+   "main_prop": 1,
+   "affix": 10,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "15724": {
+   "id": 15724,
+   "main_prop": 1,
+   "affix": 10,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "15725": {
+   "id": 15725,
+   "main_prop": 1,
+   "affix": 10,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "15726": {
+   "id": 15726,
+   "main_prop": 1,
+   "affix": 10,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "15727": {
+   "id": 15727,
+   "main_prop": 1,
+   "affix": 10,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "15728": {
+   "id": 15728,
+   "main_prop": 1,
+   "affix": 10,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "15729": {
+   "id": 15729,
+   "main_prop": 1,
+   "affix": 10,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "15730": {
+   "id": 15730,
+   "main_prop": 1,
+   "affix": 10,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "15731": {
+   "id": 15731,
+   "main_prop": 1,
+   "affix": 10,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "15732": {
+   "id": 15732,
+   "main_prop": 1,
+   "affix": 10,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "15741": {
+   "id": 15741,
+   "main_prop": 2,
+   "affix": 10,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "15742": {
+   "id": 15742,
+   "main_prop": 2,
+   "affix": 10,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "15743": {
+   "id": 15743,
+   "main_prop": 2,
+   "affix": 10,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "15744": {
+   "id": 15744,
+   "main_prop": 2,
+   "affix": 10,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "15745": {
+   "id": 15745,
+   "main_prop": 2,
+   "affix": 10,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "15746": {
+   "id": 15746,
+   "main_prop": 2,
+   "affix": 10,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "15747": {
+   "id": 15747,
+   "main_prop": 2,
+   "affix": 10,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "15748": {
+   "id": 15748,
+   "main_prop": 2,
+   "affix": 10,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "15749": {
+   "id": 15749,
+   "main_prop": 2,
+   "affix": 10,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "15750": {
+   "id": 15750,
+   "main_prop": 2,
+   "affix": 10,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "15751": {
+   "id": 15751,
+   "main_prop": 2,
+   "affix": 10,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "15752": {
+   "id": 15752,
+   "main_prop": 2,
+   "affix": 10,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "15761": {
+   "id": 15761,
+   "main_prop": 3,
+   "affix": 10,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "15762": {
+   "id": 15762,
+   "main_prop": 3,
+   "affix": 10,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "15763": {
+   "id": 15763,
+   "main_prop": 3,
+   "affix": 10,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "15764": {
+   "id": 15764,
+   "main_prop": 3,
+   "affix": 10,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "15765": {
+   "id": 15765,
+   "main_prop": 3,
+   "affix": 10,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "15766": {
+   "id": 15766,
+   "main_prop": 3,
+   "affix": 10,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "15767": {
+   "id": 15767,
+   "main_prop": 3,
+   "affix": 10,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "15768": {
+   "id": 15768,
+   "main_prop": 3,
+   "affix": 10,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "15769": {
+   "id": 15769,
+   "main_prop": 3,
+   "affix": 10,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "15770": {
+   "id": 15770,
+   "main_prop": 3,
+   "affix": 10,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "15771": {
+   "id": 15771,
+   "main_prop": 3,
+   "affix": 10,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "15772": {
+   "id": 15772,
+   "main_prop": 3,
+   "affix": 10,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "15781": {
+   "id": 15781,
+   "main_prop": 4,
+   "affix": 10,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "15782": {
+   "id": 15782,
+   "main_prop": 4,
+   "affix": 10,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "15783": {
+   "id": 15783,
+   "main_prop": 4,
+   "affix": 10,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "15784": {
+   "id": 15784,
+   "main_prop": 4,
+   "affix": 10,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "15785": {
+   "id": 15785,
+   "main_prop": 4,
+   "affix": 10,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "15786": {
+   "id": 15786,
+   "main_prop": 4,
+   "affix": 10,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "15787": {
+   "id": 15787,
+   "main_prop": 4,
+   "affix": 10,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "15788": {
+   "id": 15788,
+   "main_prop": 4,
+   "affix": 10,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "15789": {
+   "id": 15789,
+   "main_prop": 4,
+   "affix": 10,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "15790": {
+   "id": 15790,
+   "main_prop": 4,
+   "affix": 10,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "15791": {
+   "id": 15791,
+   "main_prop": 4,
+   "affix": 10,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "15792": {
+   "id": 15792,
+   "main_prop": 4,
+   "affix": 10,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "15801": {
+   "id": 15801,
+   "main_prop": 1,
+   "affix": 11,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "15802": {
+   "id": 15802,
+   "main_prop": 1,
+   "affix": 11,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "15803": {
+   "id": 15803,
+   "main_prop": 1,
+   "affix": 11,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "15804": {
+   "id": 15804,
+   "main_prop": 1,
+   "affix": 11,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "15805": {
+   "id": 15805,
+   "main_prop": 1,
+   "affix": 11,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "15806": {
+   "id": 15806,
+   "main_prop": 1,
+   "affix": 11,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "15807": {
+   "id": 15807,
+   "main_prop": 1,
+   "affix": 11,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "15808": {
+   "id": 15808,
+   "main_prop": 1,
+   "affix": 11,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "15809": {
+   "id": 15809,
+   "main_prop": 1,
+   "affix": 11,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "15810": {
+   "id": 15810,
+   "main_prop": 1,
+   "affix": 11,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "15811": {
+   "id": 15811,
+   "main_prop": 1,
+   "affix": 11,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "15812": {
+   "id": 15812,
+   "main_prop": 1,
+   "affix": 11,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "15821": {
+   "id": 15821,
+   "main_prop": 2,
+   "affix": 11,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "15822": {
+   "id": 15822,
+   "main_prop": 2,
+   "affix": 11,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "15823": {
+   "id": 15823,
+   "main_prop": 2,
+   "affix": 11,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "15824": {
+   "id": 15824,
+   "main_prop": 2,
+   "affix": 11,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "15825": {
+   "id": 15825,
+   "main_prop": 2,
+   "affix": 11,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "15826": {
+   "id": 15826,
+   "main_prop": 2,
+   "affix": 11,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "15827": {
+   "id": 15827,
+   "main_prop": 2,
+   "affix": 11,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "15828": {
+   "id": 15828,
+   "main_prop": 2,
+   "affix": 11,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "15829": {
+   "id": 15829,
+   "main_prop": 2,
+   "affix": 11,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "15830": {
+   "id": 15830,
+   "main_prop": 2,
+   "affix": 11,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "15831": {
+   "id": 15831,
+   "main_prop": 2,
+   "affix": 11,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "15832": {
+   "id": 15832,
+   "main_prop": 2,
+   "affix": 11,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "15841": {
+   "id": 15841,
+   "main_prop": 3,
+   "affix": 11,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "15842": {
+   "id": 15842,
+   "main_prop": 3,
+   "affix": 11,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "15843": {
+   "id": 15843,
+   "main_prop": 3,
+   "affix": 11,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "15844": {
+   "id": 15844,
+   "main_prop": 3,
+   "affix": 11,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "15845": {
+   "id": 15845,
+   "main_prop": 3,
+   "affix": 11,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "15846": {
+   "id": 15846,
+   "main_prop": 3,
+   "affix": 11,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "15847": {
+   "id": 15847,
+   "main_prop": 3,
+   "affix": 11,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "15848": {
+   "id": 15848,
+   "main_prop": 3,
+   "affix": 11,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "15849": {
+   "id": 15849,
+   "main_prop": 3,
+   "affix": 11,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "15850": {
+   "id": 15850,
+   "main_prop": 3,
+   "affix": 11,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "15851": {
+   "id": 15851,
+   "main_prop": 3,
+   "affix": 11,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "15852": {
+   "id": 15852,
+   "main_prop": 3,
+   "affix": 11,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "15861": {
+   "id": 15861,
+   "main_prop": 4,
+   "affix": 11,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "15862": {
+   "id": 15862,
+   "main_prop": 4,
+   "affix": 11,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "15863": {
+   "id": 15863,
+   "main_prop": 4,
+   "affix": 11,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "15864": {
+   "id": 15864,
+   "main_prop": 4,
+   "affix": 11,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "15865": {
+   "id": 15865,
+   "main_prop": 4,
+   "affix": 11,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "15866": {
+   "id": 15866,
+   "main_prop": 4,
+   "affix": 11,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "15867": {
+   "id": 15867,
+   "main_prop": 4,
+   "affix": 11,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "15868": {
+   "id": 15868,
+   "main_prop": 4,
+   "affix": 11,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "15869": {
+   "id": 15869,
+   "main_prop": 4,
+   "affix": 11,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "15870": {
+   "id": 15870,
+   "main_prop": 4,
+   "affix": 11,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "15871": {
+   "id": 15871,
+   "main_prop": 4,
+   "affix": 11,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "15872": {
+   "id": 15872,
+   "main_prop": 4,
+   "affix": 11,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "15881": {
+   "id": 15881,
+   "main_prop": 1,
+   "affix": 12,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "15882": {
+   "id": 15882,
+   "main_prop": 1,
+   "affix": 12,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "15883": {
+   "id": 15883,
+   "main_prop": 1,
+   "affix": 12,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "15884": {
+   "id": 15884,
+   "main_prop": 1,
+   "affix": 12,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "15885": {
+   "id": 15885,
+   "main_prop": 1,
+   "affix": 12,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "15886": {
+   "id": 15886,
+   "main_prop": 1,
+   "affix": 12,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "15887": {
+   "id": 15887,
+   "main_prop": 1,
+   "affix": 12,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "15888": {
+   "id": 15888,
+   "main_prop": 1,
+   "affix": 12,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "15889": {
+   "id": 15889,
+   "main_prop": 1,
+   "affix": 12,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "15890": {
+   "id": 15890,
+   "main_prop": 1,
+   "affix": 12,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "15891": {
+   "id": 15891,
+   "main_prop": 1,
+   "affix": 12,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "15892": {
+   "id": 15892,
+   "main_prop": 1,
+   "affix": 12,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "15901": {
+   "id": 15901,
+   "main_prop": 2,
+   "affix": 12,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "15902": {
+   "id": 15902,
+   "main_prop": 2,
+   "affix": 12,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "15903": {
+   "id": 15903,
+   "main_prop": 2,
+   "affix": 12,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "15904": {
+   "id": 15904,
+   "main_prop": 2,
+   "affix": 12,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "15905": {
+   "id": 15905,
+   "main_prop": 2,
+   "affix": 12,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "15906": {
+   "id": 15906,
+   "main_prop": 2,
+   "affix": 12,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "15907": {
+   "id": 15907,
+   "main_prop": 2,
+   "affix": 12,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "15908": {
+   "id": 15908,
+   "main_prop": 2,
+   "affix": 12,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "15909": {
+   "id": 15909,
+   "main_prop": 2,
+   "affix": 12,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "15910": {
+   "id": 15910,
+   "main_prop": 2,
+   "affix": 12,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "15911": {
+   "id": 15911,
+   "main_prop": 2,
+   "affix": 12,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "15912": {
+   "id": 15912,
+   "main_prop": 2,
+   "affix": 12,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "15921": {
+   "id": 15921,
+   "main_prop": 3,
+   "affix": 12,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "15922": {
+   "id": 15922,
+   "main_prop": 3,
+   "affix": 12,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "15923": {
+   "id": 15923,
+   "main_prop": 3,
+   "affix": 12,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "15924": {
+   "id": 15924,
+   "main_prop": 3,
+   "affix": 12,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "15925": {
+   "id": 15925,
+   "main_prop": 3,
+   "affix": 12,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "15926": {
+   "id": 15926,
+   "main_prop": 3,
+   "affix": 12,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "15927": {
+   "id": 15927,
+   "main_prop": 3,
+   "affix": 12,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "15928": {
+   "id": 15928,
+   "main_prop": 3,
+   "affix": 12,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "15929": {
+   "id": 15929,
+   "main_prop": 3,
+   "affix": 12,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "15930": {
+   "id": 15930,
+   "main_prop": 3,
+   "affix": 12,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "15931": {
+   "id": 15931,
+   "main_prop": 3,
+   "affix": 12,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "15932": {
+   "id": 15932,
+   "main_prop": 3,
+   "affix": 12,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "15941": {
+   "id": 15941,
+   "main_prop": 4,
+   "affix": 12,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "15942": {
+   "id": 15942,
+   "main_prop": 4,
+   "affix": 12,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "15943": {
+   "id": 15943,
+   "main_prop": 4,
+   "affix": 12,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "15944": {
+   "id": 15944,
+   "main_prop": 4,
+   "affix": 12,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "15945": {
+   "id": 15945,
+   "main_prop": 4,
+   "affix": 12,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "15946": {
+   "id": 15946,
+   "main_prop": 4,
+   "affix": 12,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "15947": {
+   "id": 15947,
+   "main_prop": 4,
+   "affix": 12,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "15948": {
+   "id": 15948,
+   "main_prop": 4,
+   "affix": 12,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "15949": {
+   "id": 15949,
+   "main_prop": 4,
+   "affix": 12,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "15950": {
+   "id": 15950,
+   "main_prop": 4,
+   "affix": 12,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "15951": {
+   "id": 15951,
+   "main_prop": 4,
+   "affix": 12,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "15952": {
+   "id": 15952,
+   "main_prop": 4,
+   "affix": 12,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "15961": {
+   "id": 15961,
+   "main_prop": 1,
+   "affix": 13,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "15962": {
+   "id": 15962,
+   "main_prop": 1,
+   "affix": 13,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "15963": {
+   "id": 15963,
+   "main_prop": 1,
+   "affix": 13,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "15964": {
+   "id": 15964,
+   "main_prop": 1,
+   "affix": 13,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "15965": {
+   "id": 15965,
+   "main_prop": 1,
+   "affix": 13,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "15966": {
+   "id": 15966,
+   "main_prop": 1,
+   "affix": 13,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "15967": {
+   "id": 15967,
+   "main_prop": 1,
+   "affix": 13,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "15968": {
+   "id": 15968,
+   "main_prop": 1,
+   "affix": 13,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "15969": {
+   "id": 15969,
+   "main_prop": 1,
+   "affix": 13,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "15970": {
+   "id": 15970,
+   "main_prop": 1,
+   "affix": 13,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "15971": {
+   "id": 15971,
+   "main_prop": 1,
+   "affix": 13,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "15972": {
+   "id": 15972,
+   "main_prop": 1,
+   "affix": 13,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "15981": {
+   "id": 15981,
+   "main_prop": 2,
+   "affix": 13,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "15982": {
+   "id": 15982,
+   "main_prop": 2,
+   "affix": 13,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "15983": {
+   "id": 15983,
+   "main_prop": 2,
+   "affix": 13,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "15984": {
+   "id": 15984,
+   "main_prop": 2,
+   "affix": 13,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "15985": {
+   "id": 15985,
+   "main_prop": 2,
+   "affix": 13,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "15986": {
+   "id": 15986,
+   "main_prop": 2,
+   "affix": 13,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "15987": {
+   "id": 15987,
+   "main_prop": 2,
+   "affix": 13,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "15988": {
+   "id": 15988,
+   "main_prop": 2,
+   "affix": 13,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "15989": {
+   "id": 15989,
+   "main_prop": 2,
+   "affix": 13,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "15990": {
+   "id": 15990,
+   "main_prop": 2,
+   "affix": 13,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "15991": {
+   "id": 15991,
+   "main_prop": 2,
+   "affix": 13,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "15992": {
+   "id": 15992,
+   "main_prop": 2,
+   "affix": 13,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "16001": {
+   "id": 16001,
+   "main_prop": 3,
+   "affix": 13,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "16002": {
+   "id": 16002,
+   "main_prop": 3,
+   "affix": 13,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "16003": {
+   "id": 16003,
+   "main_prop": 3,
+   "affix": 13,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "16004": {
+   "id": 16004,
+   "main_prop": 3,
+   "affix": 13,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "16005": {
+   "id": 16005,
+   "main_prop": 3,
+   "affix": 13,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "16006": {
+   "id": 16006,
+   "main_prop": 3,
+   "affix": 13,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "16007": {
+   "id": 16007,
+   "main_prop": 3,
+   "affix": 13,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "16008": {
+   "id": 16008,
+   "main_prop": 3,
+   "affix": 13,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "16009": {
+   "id": 16009,
+   "main_prop": 3,
+   "affix": 13,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "16010": {
+   "id": 16010,
+   "main_prop": 3,
+   "affix": 13,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "16011": {
+   "id": 16011,
+   "main_prop": 3,
+   "affix": 13,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "16012": {
+   "id": 16012,
+   "main_prop": 3,
+   "affix": 13,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "16021": {
+   "id": 16021,
+   "main_prop": 4,
+   "affix": 13,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "16022": {
+   "id": 16022,
+   "main_prop": 4,
+   "affix": 13,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "16023": {
+   "id": 16023,
+   "main_prop": 4,
+   "affix": 13,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "16024": {
+   "id": 16024,
+   "main_prop": 4,
+   "affix": 13,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "16025": {
+   "id": 16025,
+   "main_prop": 4,
+   "affix": 13,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "16026": {
+   "id": 16026,
+   "main_prop": 4,
+   "affix": 13,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "16027": {
+   "id": 16027,
+   "main_prop": 4,
+   "affix": 13,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "16028": {
+   "id": 16028,
+   "main_prop": 4,
+   "affix": 13,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "16029": {
+   "id": 16029,
+   "main_prop": 4,
+   "affix": 13,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "16030": {
+   "id": 16030,
+   "main_prop": 4,
+   "affix": 13,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "16031": {
+   "id": 16031,
+   "main_prop": 4,
+   "affix": 13,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "16032": {
+   "id": 16032,
+   "main_prop": 4,
+   "affix": 13,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "16041": {
+   "id": 16041,
+   "main_prop": 1,
+   "affix": 14,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "16042": {
+   "id": 16042,
+   "main_prop": 1,
+   "affix": 14,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "16043": {
+   "id": 16043,
+   "main_prop": 1,
+   "affix": 14,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "16044": {
+   "id": 16044,
+   "main_prop": 1,
+   "affix": 14,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "16045": {
+   "id": 16045,
+   "main_prop": 1,
+   "affix": 14,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "16046": {
+   "id": 16046,
+   "main_prop": 1,
+   "affix": 14,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "16047": {
+   "id": 16047,
+   "main_prop": 1,
+   "affix": 14,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "16048": {
+   "id": 16048,
+   "main_prop": 1,
+   "affix": 14,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "16049": {
+   "id": 16049,
+   "main_prop": 1,
+   "affix": 14,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "16050": {
+   "id": 16050,
+   "main_prop": 1,
+   "affix": 14,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "16051": {
+   "id": 16051,
+   "main_prop": 1,
+   "affix": 14,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "16052": {
+   "id": 16052,
+   "main_prop": 1,
+   "affix": 14,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "16061": {
+   "id": 16061,
+   "main_prop": 2,
+   "affix": 14,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "16062": {
+   "id": 16062,
+   "main_prop": 2,
+   "affix": 14,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "16063": {
+   "id": 16063,
+   "main_prop": 2,
+   "affix": 14,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "16064": {
+   "id": 16064,
+   "main_prop": 2,
+   "affix": 14,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "16065": {
+   "id": 16065,
+   "main_prop": 2,
+   "affix": 14,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "16066": {
+   "id": 16066,
+   "main_prop": 2,
+   "affix": 14,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "16067": {
+   "id": 16067,
+   "main_prop": 2,
+   "affix": 14,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "16068": {
+   "id": 16068,
+   "main_prop": 2,
+   "affix": 14,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "16069": {
+   "id": 16069,
+   "main_prop": 2,
+   "affix": 14,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "16070": {
+   "id": 16070,
+   "main_prop": 2,
+   "affix": 14,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "16071": {
+   "id": 16071,
+   "main_prop": 2,
+   "affix": 14,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "16072": {
+   "id": 16072,
+   "main_prop": 2,
+   "affix": 14,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "16081": {
+   "id": 16081,
+   "main_prop": 3,
+   "affix": 14,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "16082": {
+   "id": 16082,
+   "main_prop": 3,
+   "affix": 14,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "16083": {
+   "id": 16083,
+   "main_prop": 3,
+   "affix": 14,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "16084": {
+   "id": 16084,
+   "main_prop": 3,
+   "affix": 14,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "16085": {
+   "id": 16085,
+   "main_prop": 3,
+   "affix": 14,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "16086": {
+   "id": 16086,
+   "main_prop": 3,
+   "affix": 14,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "16087": {
+   "id": 16087,
+   "main_prop": 3,
+   "affix": 14,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "16088": {
+   "id": 16088,
+   "main_prop": 3,
+   "affix": 14,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "16089": {
+   "id": 16089,
+   "main_prop": 3,
+   "affix": 14,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "16090": {
+   "id": 16090,
+   "main_prop": 3,
+   "affix": 14,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "16091": {
+   "id": 16091,
+   "main_prop": 3,
+   "affix": 14,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "16092": {
+   "id": 16092,
+   "main_prop": 3,
+   "affix": 14,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "16101": {
+   "id": 16101,
+   "main_prop": 4,
+   "affix": 14,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "16102": {
+   "id": 16102,
+   "main_prop": 4,
+   "affix": 14,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "16103": {
+   "id": 16103,
+   "main_prop": 4,
+   "affix": 14,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "16104": {
+   "id": 16104,
+   "main_prop": 4,
+   "affix": 14,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "16105": {
+   "id": 16105,
+   "main_prop": 4,
+   "affix": 14,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "16106": {
+   "id": 16106,
+   "main_prop": 4,
+   "affix": 14,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "16107": {
+   "id": 16107,
+   "main_prop": 4,
+   "affix": 14,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "16108": {
+   "id": 16108,
+   "main_prop": 4,
+   "affix": 14,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "16109": {
+   "id": 16109,
+   "main_prop": 4,
+   "affix": 14,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "16110": {
+   "id": 16110,
+   "main_prop": 4,
+   "affix": 14,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "16111": {
+   "id": 16111,
+   "main_prop": 4,
+   "affix": 14,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "16112": {
+   "id": 16112,
+   "main_prop": 4,
+   "affix": 14,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "16121": {
+   "id": 16121,
+   "main_prop": 1,
+   "affix": 15,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "16122": {
+   "id": 16122,
+   "main_prop": 1,
+   "affix": 15,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "16123": {
+   "id": 16123,
+   "main_prop": 1,
+   "affix": 15,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "16124": {
+   "id": 16124,
+   "main_prop": 1,
+   "affix": 15,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "16125": {
+   "id": 16125,
+   "main_prop": 1,
+   "affix": 15,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "16126": {
+   "id": 16126,
+   "main_prop": 1,
+   "affix": 15,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "16127": {
+   "id": 16127,
+   "main_prop": 1,
+   "affix": 15,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "16128": {
+   "id": 16128,
+   "main_prop": 1,
+   "affix": 15,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "16129": {
+   "id": 16129,
+   "main_prop": 1,
+   "affix": 15,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "16130": {
+   "id": 16130,
+   "main_prop": 1,
+   "affix": 15,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "16131": {
+   "id": 16131,
+   "main_prop": 1,
+   "affix": 15,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "16132": {
+   "id": 16132,
+   "main_prop": 1,
+   "affix": 15,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "16141": {
+   "id": 16141,
+   "main_prop": 2,
+   "affix": 15,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "16142": {
+   "id": 16142,
+   "main_prop": 2,
+   "affix": 15,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "16143": {
+   "id": 16143,
+   "main_prop": 2,
+   "affix": 15,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "16144": {
+   "id": 16144,
+   "main_prop": 2,
+   "affix": 15,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "16145": {
+   "id": 16145,
+   "main_prop": 2,
+   "affix": 15,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "16146": {
+   "id": 16146,
+   "main_prop": 2,
+   "affix": 15,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "16147": {
+   "id": 16147,
+   "main_prop": 2,
+   "affix": 15,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "16148": {
+   "id": 16148,
+   "main_prop": 2,
+   "affix": 15,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "16149": {
+   "id": 16149,
+   "main_prop": 2,
+   "affix": 15,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "16150": {
+   "id": 16150,
+   "main_prop": 2,
+   "affix": 15,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "16151": {
+   "id": 16151,
+   "main_prop": 2,
+   "affix": 15,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "16152": {
+   "id": 16152,
+   "main_prop": 2,
+   "affix": 15,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "16161": {
+   "id": 16161,
+   "main_prop": 3,
+   "affix": 15,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "16162": {
+   "id": 16162,
+   "main_prop": 3,
+   "affix": 15,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "16163": {
+   "id": 16163,
+   "main_prop": 3,
+   "affix": 15,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "16164": {
+   "id": 16164,
+   "main_prop": 3,
+   "affix": 15,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "16165": {
+   "id": 16165,
+   "main_prop": 3,
+   "affix": 15,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "16166": {
+   "id": 16166,
+   "main_prop": 3,
+   "affix": 15,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "16167": {
+   "id": 16167,
+   "main_prop": 3,
+   "affix": 15,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "16168": {
+   "id": 16168,
+   "main_prop": 3,
+   "affix": 15,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "16169": {
+   "id": 16169,
+   "main_prop": 3,
+   "affix": 15,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "16170": {
+   "id": 16170,
+   "main_prop": 3,
+   "affix": 15,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "16171": {
+   "id": 16171,
+   "main_prop": 3,
+   "affix": 15,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "16172": {
+   "id": 16172,
+   "main_prop": 3,
+   "affix": 15,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "16181": {
+   "id": 16181,
+   "main_prop": 4,
+   "affix": 15,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "16182": {
+   "id": 16182,
+   "main_prop": 4,
+   "affix": 15,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "16183": {
+   "id": 16183,
+   "main_prop": 4,
+   "affix": 15,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "16184": {
+   "id": 16184,
+   "main_prop": 4,
+   "affix": 15,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "16185": {
+   "id": 16185,
+   "main_prop": 4,
+   "affix": 15,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "16186": {
+   "id": 16186,
+   "main_prop": 4,
+   "affix": 15,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "16187": {
+   "id": 16187,
+   "main_prop": 4,
+   "affix": 15,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "16188": {
+   "id": 16188,
+   "main_prop": 4,
+   "affix": 15,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "16189": {
+   "id": 16189,
+   "main_prop": 4,
+   "affix": 15,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "16190": {
+   "id": 16190,
+   "main_prop": 4,
+   "affix": 15,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "16191": {
+   "id": 16191,
+   "main_prop": 4,
+   "affix": 15,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "16192": {
+   "id": 16192,
+   "main_prop": 4,
+   "affix": 15,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "16201": {
+   "id": 16201,
+   "main_prop": 1,
+   "affix": 16,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "16202": {
+   "id": 16202,
+   "main_prop": 1,
+   "affix": 16,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "16203": {
+   "id": 16203,
+   "main_prop": 1,
+   "affix": 16,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "16204": {
+   "id": 16204,
+   "main_prop": 1,
+   "affix": 16,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "16205": {
+   "id": 16205,
+   "main_prop": 1,
+   "affix": 16,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "16206": {
+   "id": 16206,
+   "main_prop": 1,
+   "affix": 16,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "16207": {
+   "id": 16207,
+   "main_prop": 1,
+   "affix": 16,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "16208": {
+   "id": 16208,
+   "main_prop": 1,
+   "affix": 16,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "16209": {
+   "id": 16209,
+   "main_prop": 1,
+   "affix": 16,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "16210": {
+   "id": 16210,
+   "main_prop": 1,
+   "affix": 16,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "16211": {
+   "id": 16211,
+   "main_prop": 1,
+   "affix": 16,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "16212": {
+   "id": 16212,
+   "main_prop": 1,
+   "affix": 16,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "16221": {
+   "id": 16221,
+   "main_prop": 2,
+   "affix": 16,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "16222": {
+   "id": 16222,
+   "main_prop": 2,
+   "affix": 16,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "16223": {
+   "id": 16223,
+   "main_prop": 2,
+   "affix": 16,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "16224": {
+   "id": 16224,
+   "main_prop": 2,
+   "affix": 16,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "16225": {
+   "id": 16225,
+   "main_prop": 2,
+   "affix": 16,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "16226": {
+   "id": 16226,
+   "main_prop": 2,
+   "affix": 16,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "16227": {
+   "id": 16227,
+   "main_prop": 2,
+   "affix": 16,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "16228": {
+   "id": 16228,
+   "main_prop": 2,
+   "affix": 16,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "16229": {
+   "id": 16229,
+   "main_prop": 2,
+   "affix": 16,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "16230": {
+   "id": 16230,
+   "main_prop": 2,
+   "affix": 16,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "16231": {
+   "id": 16231,
+   "main_prop": 2,
+   "affix": 16,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "16232": {
+   "id": 16232,
+   "main_prop": 2,
+   "affix": 16,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "16241": {
+   "id": 16241,
+   "main_prop": 3,
+   "affix": 16,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "16242": {
+   "id": 16242,
+   "main_prop": 3,
+   "affix": 16,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "16243": {
+   "id": 16243,
+   "main_prop": 3,
+   "affix": 16,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "16244": {
+   "id": 16244,
+   "main_prop": 3,
+   "affix": 16,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "16245": {
+   "id": 16245,
+   "main_prop": 3,
+   "affix": 16,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "16246": {
+   "id": 16246,
+   "main_prop": 3,
+   "affix": 16,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "16247": {
+   "id": 16247,
+   "main_prop": 3,
+   "affix": 16,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "16248": {
+   "id": 16248,
+   "main_prop": 3,
+   "affix": 16,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "16249": {
+   "id": 16249,
+   "main_prop": 3,
+   "affix": 16,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "16250": {
+   "id": 16250,
+   "main_prop": 3,
+   "affix": 16,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "16251": {
+   "id": 16251,
+   "main_prop": 3,
+   "affix": 16,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "16252": {
+   "id": 16252,
+   "main_prop": 3,
+   "affix": 16,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "16261": {
+   "id": 16261,
+   "main_prop": 4,
+   "affix": 16,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "16262": {
+   "id": 16262,
+   "main_prop": 4,
+   "affix": 16,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "16263": {
+   "id": 16263,
+   "main_prop": 4,
+   "affix": 16,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "16264": {
+   "id": 16264,
+   "main_prop": 4,
+   "affix": 16,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "16265": {
+   "id": 16265,
+   "main_prop": 4,
+   "affix": 16,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "16266": {
+   "id": 16266,
+   "main_prop": 4,
+   "affix": 16,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "16267": {
+   "id": 16267,
+   "main_prop": 4,
+   "affix": 16,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "16268": {
+   "id": 16268,
+   "main_prop": 4,
+   "affix": 16,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "16269": {
+   "id": 16269,
+   "main_prop": 4,
+   "affix": 16,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "16270": {
+   "id": 16270,
+   "main_prop": 4,
+   "affix": 16,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "16271": {
+   "id": 16271,
+   "main_prop": 4,
+   "affix": 16,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "16272": {
+   "id": 16272,
+   "main_prop": 4,
+   "affix": 16,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "16281": {
+   "id": 16281,
+   "main_prop": 1,
+   "affix": 17,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "16282": {
+   "id": 16282,
+   "main_prop": 1,
+   "affix": 17,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "16283": {
+   "id": 16283,
+   "main_prop": 1,
+   "affix": 17,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "16284": {
+   "id": 16284,
+   "main_prop": 1,
+   "affix": 17,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "16285": {
+   "id": 16285,
+   "main_prop": 1,
+   "affix": 17,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "16286": {
+   "id": 16286,
+   "main_prop": 1,
+   "affix": 17,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "16287": {
+   "id": 16287,
+   "main_prop": 1,
+   "affix": 17,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "16288": {
+   "id": 16288,
+   "main_prop": 1,
+   "affix": 17,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "16289": {
+   "id": 16289,
+   "main_prop": 1,
+   "affix": 17,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "16290": {
+   "id": 16290,
+   "main_prop": 1,
+   "affix": 17,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "16291": {
+   "id": 16291,
+   "main_prop": 1,
+   "affix": 17,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "16292": {
+   "id": 16292,
+   "main_prop": 1,
+   "affix": 17,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "16301": {
+   "id": 16301,
+   "main_prop": 2,
+   "affix": 17,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "16302": {
+   "id": 16302,
+   "main_prop": 2,
+   "affix": 17,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "16303": {
+   "id": 16303,
+   "main_prop": 2,
+   "affix": 17,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "16304": {
+   "id": 16304,
+   "main_prop": 2,
+   "affix": 17,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "16305": {
+   "id": 16305,
+   "main_prop": 2,
+   "affix": 17,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "16306": {
+   "id": 16306,
+   "main_prop": 2,
+   "affix": 17,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "16307": {
+   "id": 16307,
+   "main_prop": 2,
+   "affix": 17,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "16308": {
+   "id": 16308,
+   "main_prop": 2,
+   "affix": 17,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "16309": {
+   "id": 16309,
+   "main_prop": 2,
+   "affix": 17,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "16310": {
+   "id": 16310,
+   "main_prop": 2,
+   "affix": 17,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "16311": {
+   "id": 16311,
+   "main_prop": 2,
+   "affix": 17,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "16312": {
+   "id": 16312,
+   "main_prop": 2,
+   "affix": 17,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "16321": {
+   "id": 16321,
+   "main_prop": 3,
+   "affix": 17,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "16322": {
+   "id": 16322,
+   "main_prop": 3,
+   "affix": 17,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "16323": {
+   "id": 16323,
+   "main_prop": 3,
+   "affix": 17,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "16324": {
+   "id": 16324,
+   "main_prop": 3,
+   "affix": 17,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "16325": {
+   "id": 16325,
+   "main_prop": 3,
+   "affix": 17,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "16326": {
+   "id": 16326,
+   "main_prop": 3,
+   "affix": 17,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "16327": {
+   "id": 16327,
+   "main_prop": 3,
+   "affix": 17,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "16328": {
+   "id": 16328,
+   "main_prop": 3,
+   "affix": 17,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "16329": {
+   "id": 16329,
+   "main_prop": 3,
+   "affix": 17,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "16330": {
+   "id": 16330,
+   "main_prop": 3,
+   "affix": 17,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "16331": {
+   "id": 16331,
+   "main_prop": 3,
+   "affix": 17,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "16332": {
+   "id": 16332,
+   "main_prop": 3,
+   "affix": 17,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "16341": {
+   "id": 16341,
+   "main_prop": 4,
+   "affix": 17,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "16342": {
+   "id": 16342,
+   "main_prop": 4,
+   "affix": 17,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "16343": {
+   "id": 16343,
+   "main_prop": 4,
+   "affix": 17,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "16344": {
+   "id": 16344,
+   "main_prop": 4,
+   "affix": 17,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "16345": {
+   "id": 16345,
+   "main_prop": 4,
+   "affix": 17,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "16346": {
+   "id": 16346,
+   "main_prop": 4,
+   "affix": 17,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "16347": {
+   "id": 16347,
+   "main_prop": 4,
+   "affix": 17,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "16348": {
+   "id": 16348,
+   "main_prop": 4,
+   "affix": 17,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "16349": {
+   "id": 16349,
+   "main_prop": 4,
+   "affix": 17,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "16350": {
+   "id": 16350,
+   "main_prop": 4,
+   "affix": 17,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "16351": {
+   "id": 16351,
+   "main_prop": 4,
+   "affix": 17,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "16352": {
+   "id": 16352,
+   "main_prop": 4,
+   "affix": 17,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "16361": {
+   "id": 16361,
+   "main_prop": 1,
+   "affix": 18,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "16362": {
+   "id": 16362,
+   "main_prop": 1,
+   "affix": 18,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "16363": {
+   "id": 16363,
+   "main_prop": 1,
+   "affix": 18,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "16364": {
+   "id": 16364,
+   "main_prop": 1,
+   "affix": 18,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "16365": {
+   "id": 16365,
+   "main_prop": 1,
+   "affix": 18,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "16366": {
+   "id": 16366,
+   "main_prop": 1,
+   "affix": 18,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "16367": {
+   "id": 16367,
+   "main_prop": 1,
+   "affix": 18,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "16368": {
+   "id": 16368,
+   "main_prop": 1,
+   "affix": 18,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "16369": {
+   "id": 16369,
+   "main_prop": 1,
+   "affix": 18,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "16370": {
+   "id": 16370,
+   "main_prop": 1,
+   "affix": 18,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "16371": {
+   "id": 16371,
+   "main_prop": 1,
+   "affix": 18,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "16372": {
+   "id": 16372,
+   "main_prop": 1,
+   "affix": 18,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "16381": {
+   "id": 16381,
+   "main_prop": 2,
+   "affix": 18,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "16382": {
+   "id": 16382,
+   "main_prop": 2,
+   "affix": 18,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "16383": {
+   "id": 16383,
+   "main_prop": 2,
+   "affix": 18,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "16384": {
+   "id": 16384,
+   "main_prop": 2,
+   "affix": 18,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "16385": {
+   "id": 16385,
+   "main_prop": 2,
+   "affix": 18,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "16386": {
+   "id": 16386,
+   "main_prop": 2,
+   "affix": 18,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "16387": {
+   "id": 16387,
+   "main_prop": 2,
+   "affix": 18,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "16388": {
+   "id": 16388,
+   "main_prop": 2,
+   "affix": 18,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "16389": {
+   "id": 16389,
+   "main_prop": 2,
+   "affix": 18,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "16390": {
+   "id": 16390,
+   "main_prop": 2,
+   "affix": 18,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "16391": {
+   "id": 16391,
+   "main_prop": 2,
+   "affix": 18,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "16392": {
+   "id": 16392,
+   "main_prop": 2,
+   "affix": 18,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "16401": {
+   "id": 16401,
+   "main_prop": 3,
+   "affix": 18,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "16402": {
+   "id": 16402,
+   "main_prop": 3,
+   "affix": 18,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "16403": {
+   "id": 16403,
+   "main_prop": 3,
+   "affix": 18,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "16404": {
+   "id": 16404,
+   "main_prop": 3,
+   "affix": 18,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "16405": {
+   "id": 16405,
+   "main_prop": 3,
+   "affix": 18,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "16406": {
+   "id": 16406,
+   "main_prop": 3,
+   "affix": 18,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "16407": {
+   "id": 16407,
+   "main_prop": 3,
+   "affix": 18,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "16408": {
+   "id": 16408,
+   "main_prop": 3,
+   "affix": 18,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "16409": {
+   "id": 16409,
+   "main_prop": 3,
+   "affix": 18,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "16410": {
+   "id": 16410,
+   "main_prop": 3,
+   "affix": 18,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "16411": {
+   "id": 16411,
+   "main_prop": 3,
+   "affix": 18,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "16412": {
+   "id": 16412,
+   "main_prop": 3,
+   "affix": 18,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "16421": {
+   "id": 16421,
+   "main_prop": 4,
+   "affix": 18,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "16422": {
+   "id": 16422,
+   "main_prop": 4,
+   "affix": 18,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "16423": {
+   "id": 16423,
+   "main_prop": 4,
+   "affix": 18,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "16424": {
+   "id": 16424,
+   "main_prop": 4,
+   "affix": 18,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "16425": {
+   "id": 16425,
+   "main_prop": 4,
+   "affix": 18,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "16426": {
+   "id": 16426,
+   "main_prop": 4,
+   "affix": 18,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "16427": {
+   "id": 16427,
+   "main_prop": 4,
+   "affix": 18,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "16428": {
+   "id": 16428,
+   "main_prop": 4,
+   "affix": 18,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "16429": {
+   "id": 16429,
+   "main_prop": 4,
+   "affix": 18,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "16430": {
+   "id": 16430,
+   "main_prop": 4,
+   "affix": 18,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "16431": {
+   "id": 16431,
+   "main_prop": 4,
+   "affix": 18,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "16432": {
+   "id": 16432,
+   "main_prop": 4,
+   "affix": 18,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "16441": {
+   "id": 16441,
+   "main_prop": 1,
+   "affix": 19,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "16442": {
+   "id": 16442,
+   "main_prop": 1,
+   "affix": 19,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "16443": {
+   "id": 16443,
+   "main_prop": 1,
+   "affix": 19,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "16444": {
+   "id": 16444,
+   "main_prop": 1,
+   "affix": 19,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "16445": {
+   "id": 16445,
+   "main_prop": 1,
+   "affix": 19,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "16446": {
+   "id": 16446,
+   "main_prop": 1,
+   "affix": 19,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "16447": {
+   "id": 16447,
+   "main_prop": 1,
+   "affix": 19,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "16448": {
+   "id": 16448,
+   "main_prop": 1,
+   "affix": 19,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "16449": {
+   "id": 16449,
+   "main_prop": 1,
+   "affix": 19,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "16450": {
+   "id": 16450,
+   "main_prop": 1,
+   "affix": 19,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "16451": {
+   "id": 16451,
+   "main_prop": 1,
+   "affix": 19,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "16452": {
+   "id": 16452,
+   "main_prop": 1,
+   "affix": 19,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "16461": {
+   "id": 16461,
+   "main_prop": 2,
+   "affix": 19,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "16462": {
+   "id": 16462,
+   "main_prop": 2,
+   "affix": 19,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "16463": {
+   "id": 16463,
+   "main_prop": 2,
+   "affix": 19,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "16464": {
+   "id": 16464,
+   "main_prop": 2,
+   "affix": 19,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "16465": {
+   "id": 16465,
+   "main_prop": 2,
+   "affix": 19,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "16466": {
+   "id": 16466,
+   "main_prop": 2,
+   "affix": 19,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "16467": {
+   "id": 16467,
+   "main_prop": 2,
+   "affix": 19,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "16468": {
+   "id": 16468,
+   "main_prop": 2,
+   "affix": 19,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "16469": {
+   "id": 16469,
+   "main_prop": 2,
+   "affix": 19,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "16470": {
+   "id": 16470,
+   "main_prop": 2,
+   "affix": 19,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "16471": {
+   "id": 16471,
+   "main_prop": 2,
+   "affix": 19,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "16472": {
+   "id": 16472,
+   "main_prop": 2,
+   "affix": 19,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "16481": {
+   "id": 16481,
+   "main_prop": 3,
+   "affix": 19,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "16482": {
+   "id": 16482,
+   "main_prop": 3,
+   "affix": 19,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "16483": {
+   "id": 16483,
+   "main_prop": 3,
+   "affix": 19,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "16484": {
+   "id": 16484,
+   "main_prop": 3,
+   "affix": 19,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "16485": {
+   "id": 16485,
+   "main_prop": 3,
+   "affix": 19,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "16486": {
+   "id": 16486,
+   "main_prop": 3,
+   "affix": 19,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "16487": {
+   "id": 16487,
+   "main_prop": 3,
+   "affix": 19,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "16488": {
+   "id": 16488,
+   "main_prop": 3,
+   "affix": 19,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "16489": {
+   "id": 16489,
+   "main_prop": 3,
+   "affix": 19,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "16490": {
+   "id": 16490,
+   "main_prop": 3,
+   "affix": 19,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "16491": {
+   "id": 16491,
+   "main_prop": 3,
+   "affix": 19,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "16492": {
+   "id": 16492,
+   "main_prop": 3,
+   "affix": 19,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "16501": {
+   "id": 16501,
+   "main_prop": 4,
+   "affix": 19,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "16502": {
+   "id": 16502,
+   "main_prop": 4,
+   "affix": 19,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "16503": {
+   "id": 16503,
+   "main_prop": 4,
+   "affix": 19,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "16504": {
+   "id": 16504,
+   "main_prop": 4,
+   "affix": 19,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "16505": {
+   "id": 16505,
+   "main_prop": 4,
+   "affix": 19,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "16506": {
+   "id": 16506,
+   "main_prop": 4,
+   "affix": 19,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "16507": {
+   "id": 16507,
+   "main_prop": 4,
+   "affix": 19,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "16508": {
+   "id": 16508,
+   "main_prop": 4,
+   "affix": 19,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "16509": {
+   "id": 16509,
+   "main_prop": 4,
+   "affix": 19,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "16510": {
+   "id": 16510,
+   "main_prop": 4,
+   "affix": 19,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "16511": {
+   "id": 16511,
+   "main_prop": 4,
+   "affix": 19,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "16512": {
+   "id": 16512,
+   "main_prop": 4,
+   "affix": 19,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "16521": {
+   "id": 16521,
+   "main_prop": 1,
+   "affix": 20,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "16522": {
+   "id": 16522,
+   "main_prop": 1,
+   "affix": 20,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "16523": {
+   "id": 16523,
+   "main_prop": 1,
+   "affix": 20,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "16524": {
+   "id": 16524,
+   "main_prop": 1,
+   "affix": 20,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "16525": {
+   "id": 16525,
+   "main_prop": 1,
+   "affix": 20,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "16526": {
+   "id": 16526,
+   "main_prop": 1,
+   "affix": 20,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "16527": {
+   "id": 16527,
+   "main_prop": 1,
+   "affix": 20,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "16528": {
+   "id": 16528,
+   "main_prop": 1,
+   "affix": 20,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "16529": {
+   "id": 16529,
+   "main_prop": 1,
+   "affix": 20,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "16530": {
+   "id": 16530,
+   "main_prop": 1,
+   "affix": 20,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "16531": {
+   "id": 16531,
+   "main_prop": 1,
+   "affix": 20,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "16532": {
+   "id": 16532,
+   "main_prop": 1,
+   "affix": 20,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "16541": {
+   "id": 16541,
+   "main_prop": 2,
+   "affix": 20,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "16542": {
+   "id": 16542,
+   "main_prop": 2,
+   "affix": 20,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "16543": {
+   "id": 16543,
+   "main_prop": 2,
+   "affix": 20,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "16544": {
+   "id": 16544,
+   "main_prop": 2,
+   "affix": 20,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "16545": {
+   "id": 16545,
+   "main_prop": 2,
+   "affix": 20,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "16546": {
+   "id": 16546,
+   "main_prop": 2,
+   "affix": 20,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "16547": {
+   "id": 16547,
+   "main_prop": 2,
+   "affix": 20,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "16548": {
+   "id": 16548,
+   "main_prop": 2,
+   "affix": 20,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "16549": {
+   "id": 16549,
+   "main_prop": 2,
+   "affix": 20,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "16550": {
+   "id": 16550,
+   "main_prop": 2,
+   "affix": 20,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "16551": {
+   "id": 16551,
+   "main_prop": 2,
+   "affix": 20,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "16552": {
+   "id": 16552,
+   "main_prop": 2,
+   "affix": 20,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "16561": {
+   "id": 16561,
+   "main_prop": 3,
+   "affix": 20,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "16562": {
+   "id": 16562,
+   "main_prop": 3,
+   "affix": 20,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "16563": {
+   "id": 16563,
+   "main_prop": 3,
+   "affix": 20,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "16564": {
+   "id": 16564,
+   "main_prop": 3,
+   "affix": 20,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "16565": {
+   "id": 16565,
+   "main_prop": 3,
+   "affix": 20,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "16566": {
+   "id": 16566,
+   "main_prop": 3,
+   "affix": 20,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "16567": {
+   "id": 16567,
+   "main_prop": 3,
+   "affix": 20,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "16568": {
+   "id": 16568,
+   "main_prop": 3,
+   "affix": 20,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "16569": {
+   "id": 16569,
+   "main_prop": 3,
+   "affix": 20,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "16570": {
+   "id": 16570,
+   "main_prop": 3,
+   "affix": 20,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "16571": {
+   "id": 16571,
+   "main_prop": 3,
+   "affix": 20,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "16572": {
+   "id": 16572,
+   "main_prop": 3,
+   "affix": 20,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "16581": {
+   "id": 16581,
+   "main_prop": 4,
+   "affix": 20,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "16582": {
+   "id": 16582,
+   "main_prop": 4,
+   "affix": 20,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "16583": {
+   "id": 16583,
+   "main_prop": 4,
+   "affix": 20,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "16584": {
+   "id": 16584,
+   "main_prop": 4,
+   "affix": 20,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "16585": {
+   "id": 16585,
+   "main_prop": 4,
+   "affix": 20,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "16586": {
+   "id": 16586,
+   "main_prop": 4,
+   "affix": 20,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "16587": {
+   "id": 16587,
+   "main_prop": 4,
+   "affix": 20,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "16588": {
+   "id": 16588,
+   "main_prop": 4,
+   "affix": 20,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "16589": {
+   "id": 16589,
+   "main_prop": 4,
+   "affix": 20,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "16590": {
+   "id": 16590,
+   "main_prop": 4,
+   "affix": 20,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "16591": {
+   "id": 16591,
+   "main_prop": 4,
+   "affix": 20,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "16592": {
+   "id": 16592,
+   "main_prop": 4,
+   "affix": 20,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "16601": {
+   "id": 16601,
+   "main_prop": 1,
+   "affix": 21,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "16602": {
+   "id": 16602,
+   "main_prop": 1,
+   "affix": 21,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "16603": {
+   "id": 16603,
+   "main_prop": 1,
+   "affix": 21,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "16604": {
+   "id": 16604,
+   "main_prop": 1,
+   "affix": 21,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "16605": {
+   "id": 16605,
+   "main_prop": 1,
+   "affix": 21,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "16606": {
+   "id": 16606,
+   "main_prop": 1,
+   "affix": 21,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "16607": {
+   "id": 16607,
+   "main_prop": 1,
+   "affix": 21,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "16608": {
+   "id": 16608,
+   "main_prop": 1,
+   "affix": 21,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "16609": {
+   "id": 16609,
+   "main_prop": 1,
+   "affix": 21,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "16610": {
+   "id": 16610,
+   "main_prop": 1,
+   "affix": 21,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "16611": {
+   "id": 16611,
+   "main_prop": 1,
+   "affix": 21,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "16612": {
+   "id": 16612,
+   "main_prop": 1,
+   "affix": 21,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "16621": {
+   "id": 16621,
+   "main_prop": 2,
+   "affix": 21,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "16622": {
+   "id": 16622,
+   "main_prop": 2,
+   "affix": 21,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "16623": {
+   "id": 16623,
+   "main_prop": 2,
+   "affix": 21,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "16624": {
+   "id": 16624,
+   "main_prop": 2,
+   "affix": 21,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "16625": {
+   "id": 16625,
+   "main_prop": 2,
+   "affix": 21,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "16626": {
+   "id": 16626,
+   "main_prop": 2,
+   "affix": 21,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "16627": {
+   "id": 16627,
+   "main_prop": 2,
+   "affix": 21,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "16628": {
+   "id": 16628,
+   "main_prop": 2,
+   "affix": 21,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "16629": {
+   "id": 16629,
+   "main_prop": 2,
+   "affix": 21,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "16630": {
+   "id": 16630,
+   "main_prop": 2,
+   "affix": 21,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "16631": {
+   "id": 16631,
+   "main_prop": 2,
+   "affix": 21,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "16632": {
+   "id": 16632,
+   "main_prop": 2,
+   "affix": 21,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "16641": {
+   "id": 16641,
+   "main_prop": 3,
+   "affix": 21,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "16642": {
+   "id": 16642,
+   "main_prop": 3,
+   "affix": 21,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "16643": {
+   "id": 16643,
+   "main_prop": 3,
+   "affix": 21,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "16644": {
+   "id": 16644,
+   "main_prop": 3,
+   "affix": 21,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "16645": {
+   "id": 16645,
+   "main_prop": 3,
+   "affix": 21,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "16646": {
+   "id": 16646,
+   "main_prop": 3,
+   "affix": 21,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "16647": {
+   "id": 16647,
+   "main_prop": 3,
+   "affix": 21,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "16648": {
+   "id": 16648,
+   "main_prop": 3,
+   "affix": 21,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "16649": {
+   "id": 16649,
+   "main_prop": 3,
+   "affix": 21,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "16650": {
+   "id": 16650,
+   "main_prop": 3,
+   "affix": 21,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "16651": {
+   "id": 16651,
+   "main_prop": 3,
+   "affix": 21,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "16652": {
+   "id": 16652,
+   "main_prop": 3,
+   "affix": 21,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "16661": {
+   "id": 16661,
+   "main_prop": 4,
+   "affix": 21,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "16662": {
+   "id": 16662,
+   "main_prop": 4,
+   "affix": 21,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "16663": {
+   "id": 16663,
+   "main_prop": 4,
+   "affix": 21,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "16664": {
+   "id": 16664,
+   "main_prop": 4,
+   "affix": 21,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "16665": {
+   "id": 16665,
+   "main_prop": 4,
+   "affix": 21,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "16666": {
+   "id": 16666,
+   "main_prop": 4,
+   "affix": 21,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "16667": {
+   "id": 16667,
+   "main_prop": 4,
+   "affix": 21,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "16668": {
+   "id": 16668,
+   "main_prop": 4,
+   "affix": 21,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "16669": {
+   "id": 16669,
+   "main_prop": 4,
+   "affix": 21,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "16670": {
+   "id": 16670,
+   "main_prop": 4,
+   "affix": 21,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "16671": {
+   "id": 16671,
+   "main_prop": 4,
+   "affix": 21,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "16672": {
+   "id": 16672,
+   "main_prop": 4,
+   "affix": 21,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "17001": {
+   "id": 17001,
+   "main_prop": 1,
+   "affix": 30,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "17002": {
+   "id": 17002,
+   "main_prop": 1,
+   "affix": 30,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "17003": {
+   "id": 17003,
+   "main_prop": 1,
+   "affix": 30,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "17004": {
+   "id": 17004,
+   "main_prop": 1,
+   "affix": 30,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "17005": {
+   "id": 17005,
+   "main_prop": 1,
+   "affix": 30,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "17006": {
+   "id": 17006,
+   "main_prop": 1,
+   "affix": 30,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "17007": {
+   "id": 17007,
+   "main_prop": 1,
+   "affix": 30,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "17008": {
+   "id": 17008,
+   "main_prop": 1,
+   "affix": 30,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "17009": {
+   "id": 17009,
+   "main_prop": 1,
+   "affix": 30,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "17010": {
+   "id": 17010,
+   "main_prop": 1,
+   "affix": 30,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "17011": {
+   "id": 17011,
+   "main_prop": 1,
+   "affix": 30,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "17012": {
+   "id": 17012,
+   "main_prop": 1,
+   "affix": 30,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "17021": {
+   "id": 17021,
+   "main_prop": 2,
+   "affix": 30,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "17022": {
+   "id": 17022,
+   "main_prop": 2,
+   "affix": 30,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "17023": {
+   "id": 17023,
+   "main_prop": 2,
+   "affix": 30,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "17024": {
+   "id": 17024,
+   "main_prop": 2,
+   "affix": 30,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "17025": {
+   "id": 17025,
+   "main_prop": 2,
+   "affix": 30,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "17026": {
+   "id": 17026,
+   "main_prop": 2,
+   "affix": 30,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "17027": {
+   "id": 17027,
+   "main_prop": 2,
+   "affix": 30,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "17028": {
+   "id": 17028,
+   "main_prop": 2,
+   "affix": 30,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "17029": {
+   "id": 17029,
+   "main_prop": 2,
+   "affix": 30,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "17030": {
+   "id": 17030,
+   "main_prop": 2,
+   "affix": 30,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "17031": {
+   "id": 17031,
+   "main_prop": 2,
+   "affix": 30,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "17032": {
+   "id": 17032,
+   "main_prop": 2,
+   "affix": 30,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "17041": {
+   "id": 17041,
+   "main_prop": 3,
+   "affix": 30,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "17042": {
+   "id": 17042,
+   "main_prop": 3,
+   "affix": 30,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "17043": {
+   "id": 17043,
+   "main_prop": 3,
+   "affix": 30,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "17044": {
+   "id": 17044,
+   "main_prop": 3,
+   "affix": 30,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "17045": {
+   "id": 17045,
+   "main_prop": 3,
+   "affix": 30,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "17046": {
+   "id": 17046,
+   "main_prop": 3,
+   "affix": 30,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "17047": {
+   "id": 17047,
+   "main_prop": 3,
+   "affix": 30,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "17048": {
+   "id": 17048,
+   "main_prop": 3,
+   "affix": 30,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "17049": {
+   "id": 17049,
+   "main_prop": 3,
+   "affix": 30,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "17050": {
+   "id": 17050,
+   "main_prop": 3,
+   "affix": 30,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "17051": {
+   "id": 17051,
+   "main_prop": 3,
+   "affix": 30,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "17052": {
+   "id": 17052,
+   "main_prop": 3,
+   "affix": 30,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "17061": {
+   "id": 17061,
+   "main_prop": 4,
+   "affix": 30,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "17062": {
+   "id": 17062,
+   "main_prop": 4,
+   "affix": 30,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "17063": {
+   "id": 17063,
+   "main_prop": 4,
+   "affix": 30,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "17064": {
+   "id": 17064,
+   "main_prop": 4,
+   "affix": 30,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "17065": {
+   "id": 17065,
+   "main_prop": 4,
+   "affix": 30,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "17066": {
+   "id": 17066,
+   "main_prop": 4,
+   "affix": 30,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "17067": {
+   "id": 17067,
+   "main_prop": 4,
+   "affix": 30,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "17068": {
+   "id": 17068,
+   "main_prop": 4,
+   "affix": 30,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "17069": {
+   "id": 17069,
+   "main_prop": 4,
+   "affix": 30,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "17070": {
+   "id": 17070,
+   "main_prop": 4,
+   "affix": 30,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "17071": {
+   "id": 17071,
+   "main_prop": 4,
+   "affix": 30,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "17072": {
+   "id": 17072,
+   "main_prop": 4,
+   "affix": 30,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "17081": {
+   "id": 17081,
+   "main_prop": 1,
+   "affix": 31,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "17082": {
+   "id": 17082,
+   "main_prop": 1,
+   "affix": 31,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "17083": {
+   "id": 17083,
+   "main_prop": 1,
+   "affix": 31,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "17084": {
+   "id": 17084,
+   "main_prop": 1,
+   "affix": 31,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "17085": {
+   "id": 17085,
+   "main_prop": 1,
+   "affix": 31,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "17086": {
+   "id": 17086,
+   "main_prop": 1,
+   "affix": 31,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "17087": {
+   "id": 17087,
+   "main_prop": 1,
+   "affix": 31,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "17088": {
+   "id": 17088,
+   "main_prop": 1,
+   "affix": 31,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "17089": {
+   "id": 17089,
+   "main_prop": 1,
+   "affix": 31,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "17090": {
+   "id": 17090,
+   "main_prop": 1,
+   "affix": 31,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "17091": {
+   "id": 17091,
+   "main_prop": 1,
+   "affix": 31,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "17092": {
+   "id": 17092,
+   "main_prop": 1,
+   "affix": 31,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "17101": {
+   "id": 17101,
+   "main_prop": 2,
+   "affix": 31,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "17102": {
+   "id": 17102,
+   "main_prop": 2,
+   "affix": 31,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "17103": {
+   "id": 17103,
+   "main_prop": 2,
+   "affix": 31,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "17104": {
+   "id": 17104,
+   "main_prop": 2,
+   "affix": 31,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "17105": {
+   "id": 17105,
+   "main_prop": 2,
+   "affix": 31,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "17106": {
+   "id": 17106,
+   "main_prop": 2,
+   "affix": 31,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "17107": {
+   "id": 17107,
+   "main_prop": 2,
+   "affix": 31,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "17108": {
+   "id": 17108,
+   "main_prop": 2,
+   "affix": 31,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "17109": {
+   "id": 17109,
+   "main_prop": 2,
+   "affix": 31,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "17110": {
+   "id": 17110,
+   "main_prop": 2,
+   "affix": 31,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "17111": {
+   "id": 17111,
+   "main_prop": 2,
+   "affix": 31,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "17112": {
+   "id": 17112,
+   "main_prop": 2,
+   "affix": 31,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "17121": {
+   "id": 17121,
+   "main_prop": 3,
+   "affix": 31,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "17122": {
+   "id": 17122,
+   "main_prop": 3,
+   "affix": 31,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "17123": {
+   "id": 17123,
+   "main_prop": 3,
+   "affix": 31,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "17124": {
+   "id": 17124,
+   "main_prop": 3,
+   "affix": 31,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "17125": {
+   "id": 17125,
+   "main_prop": 3,
+   "affix": 31,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "17126": {
+   "id": 17126,
+   "main_prop": 3,
+   "affix": 31,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "17127": {
+   "id": 17127,
+   "main_prop": 3,
+   "affix": 31,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "17128": {
+   "id": 17128,
+   "main_prop": 3,
+   "affix": 31,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "17129": {
+   "id": 17129,
+   "main_prop": 3,
+   "affix": 31,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "17130": {
+   "id": 17130,
+   "main_prop": 3,
+   "affix": 31,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "17131": {
+   "id": 17131,
+   "main_prop": 3,
+   "affix": 31,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "17132": {
+   "id": 17132,
+   "main_prop": 3,
+   "affix": 31,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "17141": {
+   "id": 17141,
+   "main_prop": 4,
+   "affix": 31,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "17142": {
+   "id": 17142,
+   "main_prop": 4,
+   "affix": 31,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "17143": {
+   "id": 17143,
+   "main_prop": 4,
+   "affix": 31,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "17144": {
+   "id": 17144,
+   "main_prop": 4,
+   "affix": 31,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "17145": {
+   "id": 17145,
+   "main_prop": 4,
+   "affix": 31,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "17146": {
+   "id": 17146,
+   "main_prop": 4,
+   "affix": 31,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "17147": {
+   "id": 17147,
+   "main_prop": 4,
+   "affix": 31,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "17148": {
+   "id": 17148,
+   "main_prop": 4,
+   "affix": 31,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "17149": {
+   "id": 17149,
+   "main_prop": 4,
+   "affix": 31,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "17150": {
+   "id": 17150,
+   "main_prop": 4,
+   "affix": 31,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "17151": {
+   "id": 17151,
+   "main_prop": 4,
+   "affix": 31,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "17152": {
+   "id": 17152,
+   "main_prop": 4,
+   "affix": 31,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "17161": {
+   "id": 17161,
+   "main_prop": 1,
+   "affix": 32,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "17162": {
+   "id": 17162,
+   "main_prop": 1,
+   "affix": 32,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "17163": {
+   "id": 17163,
+   "main_prop": 1,
+   "affix": 32,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "17164": {
+   "id": 17164,
+   "main_prop": 1,
+   "affix": 32,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "17165": {
+   "id": 17165,
+   "main_prop": 1,
+   "affix": 32,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "17166": {
+   "id": 17166,
+   "main_prop": 1,
+   "affix": 32,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "17167": {
+   "id": 17167,
+   "main_prop": 1,
+   "affix": 32,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "17168": {
+   "id": 17168,
+   "main_prop": 1,
+   "affix": 32,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "17169": {
+   "id": 17169,
+   "main_prop": 1,
+   "affix": 32,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "17170": {
+   "id": 17170,
+   "main_prop": 1,
+   "affix": 32,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "17171": {
+   "id": 17171,
+   "main_prop": 1,
+   "affix": 32,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "17172": {
+   "id": 17172,
+   "main_prop": 1,
+   "affix": 32,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "17181": {
+   "id": 17181,
+   "main_prop": 2,
+   "affix": 32,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "17182": {
+   "id": 17182,
+   "main_prop": 2,
+   "affix": 32,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "17183": {
+   "id": 17183,
+   "main_prop": 2,
+   "affix": 32,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "17184": {
+   "id": 17184,
+   "main_prop": 2,
+   "affix": 32,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "17185": {
+   "id": 17185,
+   "main_prop": 2,
+   "affix": 32,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "17186": {
+   "id": 17186,
+   "main_prop": 2,
+   "affix": 32,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "17187": {
+   "id": 17187,
+   "main_prop": 2,
+   "affix": 32,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "17188": {
+   "id": 17188,
+   "main_prop": 2,
+   "affix": 32,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "17189": {
+   "id": 17189,
+   "main_prop": 2,
+   "affix": 32,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "17190": {
+   "id": 17190,
+   "main_prop": 2,
+   "affix": 32,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "17191": {
+   "id": 17191,
+   "main_prop": 2,
+   "affix": 32,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "17192": {
+   "id": 17192,
+   "main_prop": 2,
+   "affix": 32,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "17201": {
+   "id": 17201,
+   "main_prop": 3,
+   "affix": 32,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "17202": {
+   "id": 17202,
+   "main_prop": 3,
+   "affix": 32,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "17203": {
+   "id": 17203,
+   "main_prop": 3,
+   "affix": 32,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "17204": {
+   "id": 17204,
+   "main_prop": 3,
+   "affix": 32,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "17205": {
+   "id": 17205,
+   "main_prop": 3,
+   "affix": 32,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "17206": {
+   "id": 17206,
+   "main_prop": 3,
+   "affix": 32,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "17207": {
+   "id": 17207,
+   "main_prop": 3,
+   "affix": 32,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "17208": {
+   "id": 17208,
+   "main_prop": 3,
+   "affix": 32,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "17209": {
+   "id": 17209,
+   "main_prop": 3,
+   "affix": 32,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "17210": {
+   "id": 17210,
+   "main_prop": 3,
+   "affix": 32,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "17211": {
+   "id": 17211,
+   "main_prop": 3,
+   "affix": 32,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "17212": {
+   "id": 17212,
+   "main_prop": 3,
+   "affix": 32,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "17221": {
+   "id": 17221,
+   "main_prop": 4,
+   "affix": 32,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "17222": {
+   "id": 17222,
+   "main_prop": 4,
+   "affix": 32,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "17223": {
+   "id": 17223,
+   "main_prop": 4,
+   "affix": 32,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "17224": {
+   "id": 17224,
+   "main_prop": 4,
+   "affix": 32,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "17225": {
+   "id": 17225,
+   "main_prop": 4,
+   "affix": 32,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "17226": {
+   "id": 17226,
+   "main_prop": 4,
+   "affix": 32,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "17227": {
+   "id": 17227,
+   "main_prop": 4,
+   "affix": 32,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "17228": {
+   "id": 17228,
+   "main_prop": 4,
+   "affix": 32,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "17229": {
+   "id": 17229,
+   "main_prop": 4,
+   "affix": 32,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "17230": {
+   "id": 17230,
+   "main_prop": 4,
+   "affix": 32,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "17231": {
+   "id": 17231,
+   "main_prop": 4,
+   "affix": 32,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "17232": {
+   "id": 17232,
+   "main_prop": 4,
+   "affix": 32,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "17241": {
+   "id": 17241,
+   "main_prop": 1,
+   "affix": 33,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "17242": {
+   "id": 17242,
+   "main_prop": 1,
+   "affix": 33,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "17243": {
+   "id": 17243,
+   "main_prop": 1,
+   "affix": 33,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "17244": {
+   "id": 17244,
+   "main_prop": 1,
+   "affix": 33,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "17245": {
+   "id": 17245,
+   "main_prop": 1,
+   "affix": 33,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "17246": {
+   "id": 17246,
+   "main_prop": 1,
+   "affix": 33,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "17247": {
+   "id": 17247,
+   "main_prop": 1,
+   "affix": 33,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "17248": {
+   "id": 17248,
+   "main_prop": 1,
+   "affix": 33,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "17249": {
+   "id": 17249,
+   "main_prop": 1,
+   "affix": 33,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "17250": {
+   "id": 17250,
+   "main_prop": 1,
+   "affix": 33,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "17251": {
+   "id": 17251,
+   "main_prop": 1,
+   "affix": 33,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "17252": {
+   "id": 17252,
+   "main_prop": 1,
+   "affix": 33,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "17261": {
+   "id": 17261,
+   "main_prop": 2,
+   "affix": 33,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "17262": {
+   "id": 17262,
+   "main_prop": 2,
+   "affix": 33,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "17263": {
+   "id": 17263,
+   "main_prop": 2,
+   "affix": 33,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "17264": {
+   "id": 17264,
+   "main_prop": 2,
+   "affix": 33,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "17265": {
+   "id": 17265,
+   "main_prop": 2,
+   "affix": 33,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "17266": {
+   "id": 17266,
+   "main_prop": 2,
+   "affix": 33,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "17267": {
+   "id": 17267,
+   "main_prop": 2,
+   "affix": 33,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "17268": {
+   "id": 17268,
+   "main_prop": 2,
+   "affix": 33,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "17269": {
+   "id": 17269,
+   "main_prop": 2,
+   "affix": 33,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "17270": {
+   "id": 17270,
+   "main_prop": 2,
+   "affix": 33,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "17271": {
+   "id": 17271,
+   "main_prop": 2,
+   "affix": 33,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "17272": {
+   "id": 17272,
+   "main_prop": 2,
+   "affix": 33,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "17281": {
+   "id": 17281,
+   "main_prop": 3,
+   "affix": 33,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "17282": {
+   "id": 17282,
+   "main_prop": 3,
+   "affix": 33,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "17283": {
+   "id": 17283,
+   "main_prop": 3,
+   "affix": 33,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "17284": {
+   "id": 17284,
+   "main_prop": 3,
+   "affix": 33,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "17285": {
+   "id": 17285,
+   "main_prop": 3,
+   "affix": 33,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "17286": {
+   "id": 17286,
+   "main_prop": 3,
+   "affix": 33,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "17287": {
+   "id": 17287,
+   "main_prop": 3,
+   "affix": 33,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "17288": {
+   "id": 17288,
+   "main_prop": 3,
+   "affix": 33,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "17289": {
+   "id": 17289,
+   "main_prop": 3,
+   "affix": 33,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "17290": {
+   "id": 17290,
+   "main_prop": 3,
+   "affix": 33,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "17291": {
+   "id": 17291,
+   "main_prop": 3,
+   "affix": 33,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "17292": {
+   "id": 17292,
+   "main_prop": 3,
+   "affix": 33,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "17301": {
+   "id": 17301,
+   "main_prop": 4,
+   "affix": 33,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "17302": {
+   "id": 17302,
+   "main_prop": 4,
+   "affix": 33,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "17303": {
+   "id": 17303,
+   "main_prop": 4,
+   "affix": 33,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "17304": {
+   "id": 17304,
+   "main_prop": 4,
+   "affix": 33,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "17305": {
+   "id": 17305,
+   "main_prop": 4,
+   "affix": 33,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "17306": {
+   "id": 17306,
+   "main_prop": 4,
+   "affix": 33,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "17307": {
+   "id": 17307,
+   "main_prop": 4,
+   "affix": 33,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "17308": {
+   "id": 17308,
+   "main_prop": 4,
+   "affix": 33,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "17309": {
+   "id": 17309,
+   "main_prop": 4,
+   "affix": 33,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "17310": {
+   "id": 17310,
+   "main_prop": 4,
+   "affix": 33,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "17311": {
+   "id": 17311,
+   "main_prop": 4,
+   "affix": 33,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "17312": {
+   "id": 17312,
+   "main_prop": 4,
+   "affix": 33,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "17321": {
+   "id": 17321,
+   "main_prop": 1,
+   "affix": 34,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "17322": {
+   "id": 17322,
+   "main_prop": 1,
+   "affix": 34,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "17323": {
+   "id": 17323,
+   "main_prop": 1,
+   "affix": 34,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "17324": {
+   "id": 17324,
+   "main_prop": 1,
+   "affix": 34,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "17325": {
+   "id": 17325,
+   "main_prop": 1,
+   "affix": 34,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "17326": {
+   "id": 17326,
+   "main_prop": 1,
+   "affix": 34,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "17327": {
+   "id": 17327,
+   "main_prop": 1,
+   "affix": 34,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "17328": {
+   "id": 17328,
+   "main_prop": 1,
+   "affix": 34,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "17329": {
+   "id": 17329,
+   "main_prop": 1,
+   "affix": 34,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "17330": {
+   "id": 17330,
+   "main_prop": 1,
+   "affix": 34,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "17331": {
+   "id": 17331,
+   "main_prop": 1,
+   "affix": 34,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "17332": {
+   "id": 17332,
+   "main_prop": 1,
+   "affix": 34,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "17341": {
+   "id": 17341,
+   "main_prop": 2,
+   "affix": 34,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "17342": {
+   "id": 17342,
+   "main_prop": 2,
+   "affix": 34,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "17343": {
+   "id": 17343,
+   "main_prop": 2,
+   "affix": 34,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "17344": {
+   "id": 17344,
+   "main_prop": 2,
+   "affix": 34,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "17345": {
+   "id": 17345,
+   "main_prop": 2,
+   "affix": 34,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "17346": {
+   "id": 17346,
+   "main_prop": 2,
+   "affix": 34,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "17347": {
+   "id": 17347,
+   "main_prop": 2,
+   "affix": 34,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "17348": {
+   "id": 17348,
+   "main_prop": 2,
+   "affix": 34,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "17349": {
+   "id": 17349,
+   "main_prop": 2,
+   "affix": 34,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "17350": {
+   "id": 17350,
+   "main_prop": 2,
+   "affix": 34,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "17351": {
+   "id": 17351,
+   "main_prop": 2,
+   "affix": 34,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "17352": {
+   "id": 17352,
+   "main_prop": 2,
+   "affix": 34,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "17361": {
+   "id": 17361,
+   "main_prop": 3,
+   "affix": 34,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "17362": {
+   "id": 17362,
+   "main_prop": 3,
+   "affix": 34,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "17363": {
+   "id": 17363,
+   "main_prop": 3,
+   "affix": 34,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "17364": {
+   "id": 17364,
+   "main_prop": 3,
+   "affix": 34,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "17365": {
+   "id": 17365,
+   "main_prop": 3,
+   "affix": 34,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "17366": {
+   "id": 17366,
+   "main_prop": 3,
+   "affix": 34,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "17367": {
+   "id": 17367,
+   "main_prop": 3,
+   "affix": 34,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "17368": {
+   "id": 17368,
+   "main_prop": 3,
+   "affix": 34,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "17369": {
+   "id": 17369,
+   "main_prop": 3,
+   "affix": 34,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "17370": {
+   "id": 17370,
+   "main_prop": 3,
+   "affix": 34,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "17371": {
+   "id": 17371,
+   "main_prop": 3,
+   "affix": 34,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "17372": {
+   "id": 17372,
+   "main_prop": 3,
+   "affix": 34,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "17381": {
+   "id": 17381,
+   "main_prop": 4,
+   "affix": 34,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "17382": {
+   "id": 17382,
+   "main_prop": 4,
+   "affix": 34,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "17383": {
+   "id": 17383,
+   "main_prop": 4,
+   "affix": 34,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "17384": {
+   "id": 17384,
+   "main_prop": 4,
+   "affix": 34,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "17385": {
+   "id": 17385,
+   "main_prop": 4,
+   "affix": 34,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "17386": {
+   "id": 17386,
+   "main_prop": 4,
+   "affix": 34,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "17387": {
+   "id": 17387,
+   "main_prop": 4,
+   "affix": 34,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "17388": {
+   "id": 17388,
+   "main_prop": 4,
+   "affix": 34,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "17389": {
+   "id": 17389,
+   "main_prop": 4,
+   "affix": 34,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "17390": {
+   "id": 17390,
+   "main_prop": 4,
+   "affix": 34,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "17391": {
+   "id": 17391,
+   "main_prop": 4,
+   "affix": 34,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "17392": {
+   "id": 17392,
+   "main_prop": 4,
+   "affix": 34,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "17401": {
+   "id": 17401,
+   "main_prop": 1,
+   "affix": 35,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "17402": {
+   "id": 17402,
+   "main_prop": 1,
+   "affix": 35,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "17403": {
+   "id": 17403,
+   "main_prop": 1,
+   "affix": 35,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "17404": {
+   "id": 17404,
+   "main_prop": 1,
+   "affix": 35,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "17405": {
+   "id": 17405,
+   "main_prop": 1,
+   "affix": 35,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "17406": {
+   "id": 17406,
+   "main_prop": 1,
+   "affix": 35,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "17407": {
+   "id": 17407,
+   "main_prop": 1,
+   "affix": 35,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "17408": {
+   "id": 17408,
+   "main_prop": 1,
+   "affix": 35,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "17409": {
+   "id": 17409,
+   "main_prop": 1,
+   "affix": 35,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "17410": {
+   "id": 17410,
+   "main_prop": 1,
+   "affix": 35,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "17411": {
+   "id": 17411,
+   "main_prop": 1,
+   "affix": 35,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "17412": {
+   "id": 17412,
+   "main_prop": 1,
+   "affix": 35,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "17421": {
+   "id": 17421,
+   "main_prop": 2,
+   "affix": 35,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "17422": {
+   "id": 17422,
+   "main_prop": 2,
+   "affix": 35,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "17423": {
+   "id": 17423,
+   "main_prop": 2,
+   "affix": 35,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "17424": {
+   "id": 17424,
+   "main_prop": 2,
+   "affix": 35,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "17425": {
+   "id": 17425,
+   "main_prop": 2,
+   "affix": 35,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "17426": {
+   "id": 17426,
+   "main_prop": 2,
+   "affix": 35,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "17427": {
+   "id": 17427,
+   "main_prop": 2,
+   "affix": 35,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "17428": {
+   "id": 17428,
+   "main_prop": 2,
+   "affix": 35,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "17429": {
+   "id": 17429,
+   "main_prop": 2,
+   "affix": 35,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "17430": {
+   "id": 17430,
+   "main_prop": 2,
+   "affix": 35,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "17431": {
+   "id": 17431,
+   "main_prop": 2,
+   "affix": 35,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "17432": {
+   "id": 17432,
+   "main_prop": 2,
+   "affix": 35,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "17441": {
+   "id": 17441,
+   "main_prop": 3,
+   "affix": 35,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "17442": {
+   "id": 17442,
+   "main_prop": 3,
+   "affix": 35,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "17443": {
+   "id": 17443,
+   "main_prop": 3,
+   "affix": 35,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "17444": {
+   "id": 17444,
+   "main_prop": 3,
+   "affix": 35,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "17445": {
+   "id": 17445,
+   "main_prop": 3,
+   "affix": 35,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "17446": {
+   "id": 17446,
+   "main_prop": 3,
+   "affix": 35,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "17447": {
+   "id": 17447,
+   "main_prop": 3,
+   "affix": 35,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "17448": {
+   "id": 17448,
+   "main_prop": 3,
+   "affix": 35,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "17449": {
+   "id": 17449,
+   "main_prop": 3,
+   "affix": 35,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "17450": {
+   "id": 17450,
+   "main_prop": 3,
+   "affix": 35,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "17451": {
+   "id": 17451,
+   "main_prop": 3,
+   "affix": 35,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "17452": {
+   "id": 17452,
+   "main_prop": 3,
+   "affix": 35,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "17461": {
+   "id": 17461,
+   "main_prop": 4,
+   "affix": 35,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "17462": {
+   "id": 17462,
+   "main_prop": 4,
+   "affix": 35,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "17463": {
+   "id": 17463,
+   "main_prop": 4,
+   "affix": 35,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "17464": {
+   "id": 17464,
+   "main_prop": 4,
+   "affix": 35,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "17465": {
+   "id": 17465,
+   "main_prop": 4,
+   "affix": 35,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "17466": {
+   "id": 17466,
+   "main_prop": 4,
+   "affix": 35,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "17467": {
+   "id": 17467,
+   "main_prop": 4,
+   "affix": 35,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "17468": {
+   "id": 17468,
+   "main_prop": 4,
+   "affix": 35,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "17469": {
+   "id": 17469,
+   "main_prop": 4,
+   "affix": 35,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "17470": {
+   "id": 17470,
+   "main_prop": 4,
+   "affix": 35,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "17471": {
+   "id": 17471,
+   "main_prop": 4,
+   "affix": 35,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "17472": {
+   "id": 17472,
+   "main_prop": 4,
+   "affix": 35,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "17481": {
+   "id": 17481,
+   "main_prop": 1,
+   "affix": 36,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "17482": {
+   "id": 17482,
+   "main_prop": 1,
+   "affix": 36,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "17483": {
+   "id": 17483,
+   "main_prop": 1,
+   "affix": 36,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "17484": {
+   "id": 17484,
+   "main_prop": 1,
+   "affix": 36,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "17485": {
+   "id": 17485,
+   "main_prop": 1,
+   "affix": 36,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "17486": {
+   "id": 17486,
+   "main_prop": 1,
+   "affix": 36,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "17487": {
+   "id": 17487,
+   "main_prop": 1,
+   "affix": 36,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "17488": {
+   "id": 17488,
+   "main_prop": 1,
+   "affix": 36,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "17489": {
+   "id": 17489,
+   "main_prop": 1,
+   "affix": 36,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "17490": {
+   "id": 17490,
+   "main_prop": 1,
+   "affix": 36,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "17491": {
+   "id": 17491,
+   "main_prop": 1,
+   "affix": 36,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "17492": {
+   "id": 17492,
+   "main_prop": 1,
+   "affix": 36,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "17501": {
+   "id": 17501,
+   "main_prop": 2,
+   "affix": 36,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "17502": {
+   "id": 17502,
+   "main_prop": 2,
+   "affix": 36,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "17503": {
+   "id": 17503,
+   "main_prop": 2,
+   "affix": 36,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "17504": {
+   "id": 17504,
+   "main_prop": 2,
+   "affix": 36,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "17505": {
+   "id": 17505,
+   "main_prop": 2,
+   "affix": 36,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "17506": {
+   "id": 17506,
+   "main_prop": 2,
+   "affix": 36,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "17507": {
+   "id": 17507,
+   "main_prop": 2,
+   "affix": 36,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "17508": {
+   "id": 17508,
+   "main_prop": 2,
+   "affix": 36,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "17509": {
+   "id": 17509,
+   "main_prop": 2,
+   "affix": 36,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "17510": {
+   "id": 17510,
+   "main_prop": 2,
+   "affix": 36,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "17511": {
+   "id": 17511,
+   "main_prop": 2,
+   "affix": 36,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "17512": {
+   "id": 17512,
+   "main_prop": 2,
+   "affix": 36,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "17521": {
+   "id": 17521,
+   "main_prop": 3,
+   "affix": 36,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "17522": {
+   "id": 17522,
+   "main_prop": 3,
+   "affix": 36,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "17523": {
+   "id": 17523,
+   "main_prop": 3,
+   "affix": 36,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "17524": {
+   "id": 17524,
+   "main_prop": 3,
+   "affix": 36,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "17525": {
+   "id": 17525,
+   "main_prop": 3,
+   "affix": 36,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "17526": {
+   "id": 17526,
+   "main_prop": 3,
+   "affix": 36,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "17527": {
+   "id": 17527,
+   "main_prop": 3,
+   "affix": 36,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "17528": {
+   "id": 17528,
+   "main_prop": 3,
+   "affix": 36,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "17529": {
+   "id": 17529,
+   "main_prop": 3,
+   "affix": 36,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "17530": {
+   "id": 17530,
+   "main_prop": 3,
+   "affix": 36,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "17531": {
+   "id": 17531,
+   "main_prop": 3,
+   "affix": 36,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "17532": {
+   "id": 17532,
+   "main_prop": 3,
+   "affix": 36,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "17541": {
+   "id": 17541,
+   "main_prop": 4,
+   "affix": 36,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "17542": {
+   "id": 17542,
+   "main_prop": 4,
+   "affix": 36,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "17543": {
+   "id": 17543,
+   "main_prop": 4,
+   "affix": 36,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "17544": {
+   "id": 17544,
+   "main_prop": 4,
+   "affix": 36,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "17545": {
+   "id": 17545,
+   "main_prop": 4,
+   "affix": 36,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "17546": {
+   "id": 17546,
+   "main_prop": 4,
+   "affix": 36,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "17547": {
+   "id": 17547,
+   "main_prop": 4,
+   "affix": 36,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "17548": {
+   "id": 17548,
+   "main_prop": 4,
+   "affix": 36,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "17549": {
+   "id": 17549,
+   "main_prop": 4,
+   "affix": 36,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "17550": {
+   "id": 17550,
+   "main_prop": 4,
+   "affix": 36,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "17551": {
+   "id": 17551,
+   "main_prop": 4,
+   "affix": 36,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "17552": {
+   "id": 17552,
+   "main_prop": 4,
+   "affix": 36,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "17561": {
+   "id": 17561,
+   "main_prop": 1,
+   "affix": 37,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "17562": {
+   "id": 17562,
+   "main_prop": 1,
+   "affix": 37,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "17563": {
+   "id": 17563,
+   "main_prop": 1,
+   "affix": 37,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "17564": {
+   "id": 17564,
+   "main_prop": 1,
+   "affix": 37,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "17565": {
+   "id": 17565,
+   "main_prop": 1,
+   "affix": 37,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "17566": {
+   "id": 17566,
+   "main_prop": 1,
+   "affix": 37,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "17567": {
+   "id": 17567,
+   "main_prop": 1,
+   "affix": 37,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "17568": {
+   "id": 17568,
+   "main_prop": 1,
+   "affix": 37,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "17569": {
+   "id": 17569,
+   "main_prop": 1,
+   "affix": 37,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "17570": {
+   "id": 17570,
+   "main_prop": 1,
+   "affix": 37,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "17571": {
+   "id": 17571,
+   "main_prop": 1,
+   "affix": 37,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "17572": {
+   "id": 17572,
+   "main_prop": 1,
+   "affix": 37,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "17581": {
+   "id": 17581,
+   "main_prop": 2,
+   "affix": 37,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "17582": {
+   "id": 17582,
+   "main_prop": 2,
+   "affix": 37,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "17583": {
+   "id": 17583,
+   "main_prop": 2,
+   "affix": 37,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "17584": {
+   "id": 17584,
+   "main_prop": 2,
+   "affix": 37,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "17585": {
+   "id": 17585,
+   "main_prop": 2,
+   "affix": 37,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "17586": {
+   "id": 17586,
+   "main_prop": 2,
+   "affix": 37,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "17587": {
+   "id": 17587,
+   "main_prop": 2,
+   "affix": 37,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "17588": {
+   "id": 17588,
+   "main_prop": 2,
+   "affix": 37,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "17589": {
+   "id": 17589,
+   "main_prop": 2,
+   "affix": 37,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "17590": {
+   "id": 17590,
+   "main_prop": 2,
+   "affix": 37,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "17591": {
+   "id": 17591,
+   "main_prop": 2,
+   "affix": 37,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "17592": {
+   "id": 17592,
+   "main_prop": 2,
+   "affix": 37,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "17601": {
+   "id": 17601,
+   "main_prop": 3,
+   "affix": 37,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "17602": {
+   "id": 17602,
+   "main_prop": 3,
+   "affix": 37,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "17603": {
+   "id": 17603,
+   "main_prop": 3,
+   "affix": 37,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "17604": {
+   "id": 17604,
+   "main_prop": 3,
+   "affix": 37,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "17605": {
+   "id": 17605,
+   "main_prop": 3,
+   "affix": 37,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "17606": {
+   "id": 17606,
+   "main_prop": 3,
+   "affix": 37,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "17607": {
+   "id": 17607,
+   "main_prop": 3,
+   "affix": 37,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "17608": {
+   "id": 17608,
+   "main_prop": 3,
+   "affix": 37,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "17609": {
+   "id": 17609,
+   "main_prop": 3,
+   "affix": 37,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "17610": {
+   "id": 17610,
+   "main_prop": 3,
+   "affix": 37,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "17611": {
+   "id": 17611,
+   "main_prop": 3,
+   "affix": 37,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "17612": {
+   "id": 17612,
+   "main_prop": 3,
+   "affix": 37,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "17621": {
+   "id": 17621,
+   "main_prop": 4,
+   "affix": 37,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "17622": {
+   "id": 17622,
+   "main_prop": 4,
+   "affix": 37,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "17623": {
+   "id": 17623,
+   "main_prop": 4,
+   "affix": 37,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "17624": {
+   "id": 17624,
+   "main_prop": 4,
+   "affix": 37,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "17625": {
+   "id": 17625,
+   "main_prop": 4,
+   "affix": 37,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "17626": {
+   "id": 17626,
+   "main_prop": 4,
+   "affix": 37,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "17627": {
+   "id": 17627,
+   "main_prop": 4,
+   "affix": 37,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "17628": {
+   "id": 17628,
+   "main_prop": 4,
+   "affix": 37,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "17629": {
+   "id": 17629,
+   "main_prop": 4,
+   "affix": 37,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "17630": {
+   "id": 17630,
+   "main_prop": 4,
+   "affix": 37,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "17631": {
+   "id": 17631,
+   "main_prop": 4,
+   "affix": 37,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "17632": {
+   "id": 17632,
+   "main_prop": 4,
+   "affix": 37,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "17641": {
+   "id": 17641,
+   "main_prop": 1,
+   "affix": 38,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "17642": {
+   "id": 17642,
+   "main_prop": 1,
+   "affix": 38,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "17643": {
+   "id": 17643,
+   "main_prop": 1,
+   "affix": 38,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "17644": {
+   "id": 17644,
+   "main_prop": 1,
+   "affix": 38,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "17645": {
+   "id": 17645,
+   "main_prop": 1,
+   "affix": 38,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "17646": {
+   "id": 17646,
+   "main_prop": 1,
+   "affix": 38,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "17647": {
+   "id": 17647,
+   "main_prop": 1,
+   "affix": 38,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "17648": {
+   "id": 17648,
+   "main_prop": 1,
+   "affix": 38,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "17649": {
+   "id": 17649,
+   "main_prop": 1,
+   "affix": 38,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "17650": {
+   "id": 17650,
+   "main_prop": 1,
+   "affix": 38,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "17651": {
+   "id": 17651,
+   "main_prop": 1,
+   "affix": 38,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "17652": {
+   "id": 17652,
+   "main_prop": 1,
+   "affix": 38,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "17661": {
+   "id": 17661,
+   "main_prop": 2,
+   "affix": 38,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "17662": {
+   "id": 17662,
+   "main_prop": 2,
+   "affix": 38,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "17663": {
+   "id": 17663,
+   "main_prop": 2,
+   "affix": 38,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "17664": {
+   "id": 17664,
+   "main_prop": 2,
+   "affix": 38,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "17665": {
+   "id": 17665,
+   "main_prop": 2,
+   "affix": 38,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "17666": {
+   "id": 17666,
+   "main_prop": 2,
+   "affix": 38,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "17667": {
+   "id": 17667,
+   "main_prop": 2,
+   "affix": 38,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "17668": {
+   "id": 17668,
+   "main_prop": 2,
+   "affix": 38,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "17669": {
+   "id": 17669,
+   "main_prop": 2,
+   "affix": 38,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "17670": {
+   "id": 17670,
+   "main_prop": 2,
+   "affix": 38,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "17671": {
+   "id": 17671,
+   "main_prop": 2,
+   "affix": 38,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "17672": {
+   "id": 17672,
+   "main_prop": 2,
+   "affix": 38,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "17681": {
+   "id": 17681,
+   "main_prop": 3,
+   "affix": 38,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "17682": {
+   "id": 17682,
+   "main_prop": 3,
+   "affix": 38,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "17683": {
+   "id": 17683,
+   "main_prop": 3,
+   "affix": 38,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "17684": {
+   "id": 17684,
+   "main_prop": 3,
+   "affix": 38,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "17685": {
+   "id": 17685,
+   "main_prop": 3,
+   "affix": 38,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "17686": {
+   "id": 17686,
+   "main_prop": 3,
+   "affix": 38,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "17687": {
+   "id": 17687,
+   "main_prop": 3,
+   "affix": 38,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "17688": {
+   "id": 17688,
+   "main_prop": 3,
+   "affix": 38,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "17689": {
+   "id": 17689,
+   "main_prop": 3,
+   "affix": 38,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "17690": {
+   "id": 17690,
+   "main_prop": 3,
+   "affix": 38,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "17691": {
+   "id": 17691,
+   "main_prop": 3,
+   "affix": 38,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "17692": {
+   "id": 17692,
+   "main_prop": 3,
+   "affix": 38,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "17701": {
+   "id": 17701,
+   "main_prop": 4,
+   "affix": 38,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "17702": {
+   "id": 17702,
+   "main_prop": 4,
+   "affix": 38,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "17703": {
+   "id": 17703,
+   "main_prop": 4,
+   "affix": 38,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "17704": {
+   "id": 17704,
+   "main_prop": 4,
+   "affix": 38,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "17705": {
+   "id": 17705,
+   "main_prop": 4,
+   "affix": 38,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "17706": {
+   "id": 17706,
+   "main_prop": 4,
+   "affix": 38,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "17707": {
+   "id": 17707,
+   "main_prop": 4,
+   "affix": 38,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "17708": {
+   "id": 17708,
+   "main_prop": 4,
+   "affix": 38,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "17709": {
+   "id": 17709,
+   "main_prop": 4,
+   "affix": 38,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "17710": {
+   "id": 17710,
+   "main_prop": 4,
+   "affix": 38,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "17711": {
+   "id": 17711,
+   "main_prop": 4,
+   "affix": 38,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "17712": {
+   "id": 17712,
+   "main_prop": 4,
+   "affix": 38,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "17841": {
+   "id": 17841,
+   "main_prop": 1,
+   "affix": 39,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "17842": {
+   "id": 17842,
+   "main_prop": 1,
+   "affix": 39,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "17843": {
+   "id": 17843,
+   "main_prop": 1,
+   "affix": 39,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "17844": {
+   "id": 17844,
+   "main_prop": 1,
+   "affix": 39,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "17845": {
+   "id": 17845,
+   "main_prop": 1,
+   "affix": 39,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "17846": {
+   "id": 17846,
+   "main_prop": 1,
+   "affix": 39,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "17847": {
+   "id": 17847,
+   "main_prop": 1,
+   "affix": 39,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "17848": {
+   "id": 17848,
+   "main_prop": 1,
+   "affix": 39,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "17849": {
+   "id": 17849,
+   "main_prop": 1,
+   "affix": 39,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "17850": {
+   "id": 17850,
+   "main_prop": 1,
+   "affix": 39,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "17851": {
+   "id": 17851,
+   "main_prop": 1,
+   "affix": 39,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "17852": {
+   "id": 17852,
+   "main_prop": 1,
+   "affix": 39,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "17861": {
+   "id": 17861,
+   "main_prop": 2,
+   "affix": 39,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "17862": {
+   "id": 17862,
+   "main_prop": 2,
+   "affix": 39,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "17863": {
+   "id": 17863,
+   "main_prop": 2,
+   "affix": 39,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "17864": {
+   "id": 17864,
+   "main_prop": 2,
+   "affix": 39,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "17865": {
+   "id": 17865,
+   "main_prop": 2,
+   "affix": 39,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "17866": {
+   "id": 17866,
+   "main_prop": 2,
+   "affix": 39,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "17867": {
+   "id": 17867,
+   "main_prop": 2,
+   "affix": 39,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "17868": {
+   "id": 17868,
+   "main_prop": 2,
+   "affix": 39,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "17869": {
+   "id": 17869,
+   "main_prop": 2,
+   "affix": 39,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "17870": {
+   "id": 17870,
+   "main_prop": 2,
+   "affix": 39,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "17871": {
+   "id": 17871,
+   "main_prop": 2,
+   "affix": 39,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "17872": {
+   "id": 17872,
+   "main_prop": 2,
+   "affix": 39,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "17881": {
+   "id": 17881,
+   "main_prop": 3,
+   "affix": 39,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "17882": {
+   "id": 17882,
+   "main_prop": 3,
+   "affix": 39,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "17883": {
+   "id": 17883,
+   "main_prop": 3,
+   "affix": 39,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "17884": {
+   "id": 17884,
+   "main_prop": 3,
+   "affix": 39,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "17885": {
+   "id": 17885,
+   "main_prop": 3,
+   "affix": 39,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "17886": {
+   "id": 17886,
+   "main_prop": 3,
+   "affix": 39,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "17887": {
+   "id": 17887,
+   "main_prop": 3,
+   "affix": 39,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "17888": {
+   "id": 17888,
+   "main_prop": 3,
+   "affix": 39,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "17889": {
+   "id": 17889,
+   "main_prop": 3,
+   "affix": 39,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "17890": {
+   "id": 17890,
+   "main_prop": 3,
+   "affix": 39,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "17891": {
+   "id": 17891,
+   "main_prop": 3,
+   "affix": 39,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "17892": {
+   "id": 17892,
+   "main_prop": 3,
+   "affix": 39,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "17901": {
+   "id": 17901,
+   "main_prop": 4,
+   "affix": 39,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "17902": {
+   "id": 17902,
+   "main_prop": 4,
+   "affix": 39,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "17903": {
+   "id": 17903,
+   "main_prop": 4,
+   "affix": 39,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "17904": {
+   "id": 17904,
+   "main_prop": 4,
+   "affix": 39,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "17905": {
+   "id": 17905,
+   "main_prop": 4,
+   "affix": 39,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "17906": {
+   "id": 17906,
+   "main_prop": 4,
+   "affix": 39,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "17907": {
+   "id": 17907,
+   "main_prop": 4,
+   "affix": 39,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "17908": {
+   "id": 17908,
+   "main_prop": 4,
+   "affix": 39,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "17909": {
+   "id": 17909,
+   "main_prop": 4,
+   "affix": 39,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "17910": {
+   "id": 17910,
+   "main_prop": 4,
+   "affix": 39,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "17911": {
+   "id": 17911,
+   "main_prop": 4,
+   "affix": 39,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "17912": {
+   "id": 17912,
+   "main_prop": 4,
+   "affix": 39,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "17921": {
+   "id": 17921,
+   "main_prop": 1,
+   "affix": 40,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "17922": {
+   "id": 17922,
+   "main_prop": 1,
+   "affix": 40,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "17923": {
+   "id": 17923,
+   "main_prop": 1,
+   "affix": 40,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "17924": {
+   "id": 17924,
+   "main_prop": 1,
+   "affix": 40,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "17925": {
+   "id": 17925,
+   "main_prop": 1,
+   "affix": 40,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "17926": {
+   "id": 17926,
+   "main_prop": 1,
+   "affix": 40,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "17927": {
+   "id": 17927,
+   "main_prop": 1,
+   "affix": 40,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "17928": {
+   "id": 17928,
+   "main_prop": 1,
+   "affix": 40,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "17929": {
+   "id": 17929,
+   "main_prop": 1,
+   "affix": 40,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "17930": {
+   "id": 17930,
+   "main_prop": 1,
+   "affix": 40,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "17931": {
+   "id": 17931,
+   "main_prop": 1,
+   "affix": 40,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "17932": {
+   "id": 17932,
+   "main_prop": 1,
+   "affix": 40,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "17941": {
+   "id": 17941,
+   "main_prop": 2,
+   "affix": 40,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "17942": {
+   "id": 17942,
+   "main_prop": 2,
+   "affix": 40,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "17943": {
+   "id": 17943,
+   "main_prop": 2,
+   "affix": 40,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "17944": {
+   "id": 17944,
+   "main_prop": 2,
+   "affix": 40,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "17945": {
+   "id": 17945,
+   "main_prop": 2,
+   "affix": 40,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "17946": {
+   "id": 17946,
+   "main_prop": 2,
+   "affix": 40,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "17947": {
+   "id": 17947,
+   "main_prop": 2,
+   "affix": 40,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "17948": {
+   "id": 17948,
+   "main_prop": 2,
+   "affix": 40,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "17949": {
+   "id": 17949,
+   "main_prop": 2,
+   "affix": 40,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "17950": {
+   "id": 17950,
+   "main_prop": 2,
+   "affix": 40,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "17951": {
+   "id": 17951,
+   "main_prop": 2,
+   "affix": 40,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "17952": {
+   "id": 17952,
+   "main_prop": 2,
+   "affix": 40,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "17961": {
+   "id": 17961,
+   "main_prop": 3,
+   "affix": 40,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "17962": {
+   "id": 17962,
+   "main_prop": 3,
+   "affix": 40,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "17963": {
+   "id": 17963,
+   "main_prop": 3,
+   "affix": 40,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "17964": {
+   "id": 17964,
+   "main_prop": 3,
+   "affix": 40,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "17965": {
+   "id": 17965,
+   "main_prop": 3,
+   "affix": 40,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "17966": {
+   "id": 17966,
+   "main_prop": 3,
+   "affix": 40,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "17967": {
+   "id": 17967,
+   "main_prop": 3,
+   "affix": 40,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "17968": {
+   "id": 17968,
+   "main_prop": 3,
+   "affix": 40,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "17969": {
+   "id": 17969,
+   "main_prop": 3,
+   "affix": 40,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "17970": {
+   "id": 17970,
+   "main_prop": 3,
+   "affix": 40,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "17971": {
+   "id": 17971,
+   "main_prop": 3,
+   "affix": 40,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "17972": {
+   "id": 17972,
+   "main_prop": 3,
+   "affix": 40,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "17981": {
+   "id": 17981,
+   "main_prop": 4,
+   "affix": 40,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "17982": {
+   "id": 17982,
+   "main_prop": 4,
+   "affix": 40,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "17983": {
+   "id": 17983,
+   "main_prop": 4,
+   "affix": 40,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "17984": {
+   "id": 17984,
+   "main_prop": 4,
+   "affix": 40,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "17985": {
+   "id": 17985,
+   "main_prop": 4,
+   "affix": 40,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "17986": {
+   "id": 17986,
+   "main_prop": 4,
+   "affix": 40,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "17987": {
+   "id": 17987,
+   "main_prop": 4,
+   "affix": 40,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "17988": {
+   "id": 17988,
+   "main_prop": 4,
+   "affix": 40,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "17989": {
+   "id": 17989,
+   "main_prop": 4,
+   "affix": 40,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "17990": {
+   "id": 17990,
+   "main_prop": 4,
+   "affix": 40,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "17991": {
+   "id": 17991,
+   "main_prop": 4,
+   "affix": 40,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "17992": {
+   "id": 17992,
+   "main_prop": 4,
+   "affix": 40,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "17721": {
+   "id": 17721,
+   "main_prop": 4,
+   "affix": 61,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "17722": {
+   "id": 17722,
+   "main_prop": 4,
+   "affix": 61,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "17723": {
+   "id": 17723,
+   "main_prop": 4,
+   "affix": 61,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "17724": {
+   "id": 17724,
+   "main_prop": 4,
+   "affix": 61,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "17725": {
+   "id": 17725,
+   "main_prop": 4,
+   "affix": 61,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "17726": {
+   "id": 17726,
+   "main_prop": 4,
+   "affix": 61,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "17727": {
+   "id": 17727,
+   "main_prop": 4,
+   "affix": 61,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "17728": {
+   "id": 17728,
+   "main_prop": 4,
+   "affix": 61,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "17729": {
+   "id": 17729,
+   "main_prop": 4,
+   "affix": 61,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "17730": {
+   "id": 17730,
+   "main_prop": 4,
+   "affix": 61,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "17731": {
+   "id": 17731,
+   "main_prop": 4,
+   "affix": 61,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "17732": {
+   "id": 17732,
+   "main_prop": 4,
+   "affix": 61,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "17741": {
+   "id": 17741,
+   "main_prop": 4,
+   "affix": 62,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "17742": {
+   "id": 17742,
+   "main_prop": 4,
+   "affix": 62,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "17743": {
+   "id": 17743,
+   "main_prop": 4,
+   "affix": 62,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "17744": {
+   "id": 17744,
+   "main_prop": 4,
+   "affix": 62,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "17745": {
+   "id": 17745,
+   "main_prop": 4,
+   "affix": 62,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "17746": {
+   "id": 17746,
+   "main_prop": 4,
+   "affix": 62,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "17747": {
+   "id": 17747,
+   "main_prop": 4,
+   "affix": 62,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "17748": {
+   "id": 17748,
+   "main_prop": 4,
+   "affix": 62,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "17749": {
+   "id": 17749,
+   "main_prop": 4,
+   "affix": 62,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "17750": {
+   "id": 17750,
+   "main_prop": 4,
+   "affix": 62,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "17751": {
+   "id": 17751,
+   "main_prop": 4,
+   "affix": 62,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "17752": {
+   "id": 17752,
+   "main_prop": 4,
+   "affix": 62,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "17761": {
+   "id": 17761,
+   "main_prop": 4,
+   "affix": 63,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "17762": {
+   "id": 17762,
+   "main_prop": 4,
+   "affix": 63,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "17763": {
+   "id": 17763,
+   "main_prop": 4,
+   "affix": 63,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "17764": {
+   "id": 17764,
+   "main_prop": 4,
+   "affix": 63,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "17765": {
+   "id": 17765,
+   "main_prop": 4,
+   "affix": 63,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "17766": {
+   "id": 17766,
+   "main_prop": 4,
+   "affix": 63,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "17767": {
+   "id": 17767,
+   "main_prop": 4,
+   "affix": 63,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "17768": {
+   "id": 17768,
+   "main_prop": 4,
+   "affix": 63,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "17769": {
+   "id": 17769,
+   "main_prop": 4,
+   "affix": 63,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "17770": {
+   "id": 17770,
+   "main_prop": 4,
+   "affix": 63,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "17771": {
+   "id": 17771,
+   "main_prop": 4,
+   "affix": 63,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "17772": {
+   "id": 17772,
+   "main_prop": 4,
+   "affix": 63,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "17781": {
+   "id": 17781,
+   "main_prop": 4,
+   "affix": 64,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "17782": {
+   "id": 17782,
+   "main_prop": 4,
+   "affix": 64,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "17783": {
+   "id": 17783,
+   "main_prop": 4,
+   "affix": 64,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "17784": {
+   "id": 17784,
+   "main_prop": 4,
+   "affix": 64,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "17785": {
+   "id": 17785,
+   "main_prop": 4,
+   "affix": 64,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "17786": {
+   "id": 17786,
+   "main_prop": 4,
+   "affix": 64,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "17787": {
+   "id": 17787,
+   "main_prop": 4,
+   "affix": 64,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "17788": {
+   "id": 17788,
+   "main_prop": 4,
+   "affix": 64,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "17789": {
+   "id": 17789,
+   "main_prop": 4,
+   "affix": 64,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "17790": {
+   "id": 17790,
+   "main_prop": 4,
+   "affix": 64,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "17791": {
+   "id": 17791,
+   "main_prop": 4,
+   "affix": 64,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "17792": {
+   "id": 17792,
+   "main_prop": 4,
+   "affix": 64,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "17801": {
+   "id": 17801,
+   "main_prop": 4,
+   "affix": 65,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "17802": {
+   "id": 17802,
+   "main_prop": 4,
+   "affix": 65,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "17803": {
+   "id": 17803,
+   "main_prop": 4,
+   "affix": 65,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "17804": {
+   "id": 17804,
+   "main_prop": 4,
+   "affix": 65,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "17805": {
+   "id": 17805,
+   "main_prop": 4,
+   "affix": 65,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "17806": {
+   "id": 17806,
+   "main_prop": 4,
+   "affix": 65,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "17807": {
+   "id": 17807,
+   "main_prop": 4,
+   "affix": 65,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "17808": {
+   "id": 17808,
+   "main_prop": 4,
+   "affix": 65,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "17809": {
+   "id": 17809,
+   "main_prop": 4,
+   "affix": 65,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "17810": {
+   "id": 17810,
+   "main_prop": 4,
+   "affix": 65,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "17811": {
+   "id": 17811,
+   "main_prop": 4,
+   "affix": 65,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "17812": {
+   "id": 17812,
+   "main_prop": 4,
+   "affix": 65,
+   "rarity": 7,
+   "set_level": 3
+  },
+  "17821": {
+   "id": 17821,
+   "main_prop": 4,
+   "affix": 66,
+   "rarity": 1,
+   "set_level": 1
+  },
+  "17822": {
+   "id": 17822,
+   "main_prop": 4,
+   "affix": 66,
+   "rarity": 2,
+   "set_level": 1
+  },
+  "17823": {
+   "id": 17823,
+   "main_prop": 4,
+   "affix": 66,
+   "rarity": 3,
+   "set_level": 1
+  },
+  "17824": {
+   "id": 17824,
+   "main_prop": 4,
+   "affix": 66,
+   "rarity": 3,
+   "set_level": 2
+  },
+  "17825": {
+   "id": 17825,
+   "main_prop": 4,
+   "affix": 66,
+   "rarity": 4,
+   "set_level": 1
+  },
+  "17826": {
+   "id": 17826,
+   "main_prop": 4,
+   "affix": 66,
+   "rarity": 4,
+   "set_level": 2
+  },
+  "17827": {
+   "id": 17827,
+   "main_prop": 4,
+   "affix": 66,
+   "rarity": 5,
+   "set_level": 1
+  },
+  "17828": {
+   "id": 17828,
+   "main_prop": 4,
+   "affix": 66,
+   "rarity": 5,
+   "set_level": 2
+  },
+  "17829": {
+   "id": 17829,
+   "main_prop": 4,
+   "affix": 66,
+   "rarity": 6,
+   "set_level": 2
+  },
+  "17830": {
+   "id": 17830,
+   "main_prop": 4,
+   "affix": 66,
+   "rarity": 6,
+   "set_level": 3
+  },
+  "17831": {
+   "id": 17831,
+   "main_prop": 4,
+   "affix": 66,
+   "rarity": 7,
+   "set_level": 2
+  },
+  "17832": {
+   "id": 17832,
+   "main_prop": 4,
+   "affix": 66,
+   "rarity": 7,
+   "set_level": 3
+  }
+ },
+ "text_chunk": null
+}

@@ -1,0 +1,1940 @@
+{
+ "config": "infrastructure_quest",
+ "fields": [
+  "id",
+  "type",
+  "area_id",
+  "quest_id",
+  "quest_quality",
+  "time_length",
+  "quest_require_affix",
+  "quest_require_camp",
+  "extra_score",
+  "basic_reward",
+  "extra_reward_1",
+  "extra_reward_2",
+  "extra_reward_3",
+  "quest_limits",
+  "title",
+  "desc",
+  "tag"
+ ],
+ "rows": [
+  {
+   "id": 1,
+   "type": 1,
+   "area_id": 1,
+   "quest_id": 1,
+   "quest_quality": 4,
+   "time_length": 43200,
+   "quest_require_affix": null,
+   "quest_require_camp": [
+    4
+   ],
+   "extra_score": "30451,50",
+   "basic_reward": [
+    {
+     "id": 10505,
+     "count": 10
+    }
+   ],
+   "extra_reward_1": "26101,1&150",
+   "extra_reward_2": "26102,1&300",
+   "extra_reward_3": "26103,1&450",
+   "quest_limits": null,
+   "title": "Cyber Lockdown",
+   "title_th": "Cyber Lockdown",
+   "desc": "A cybersecurity breach has hit the 13th High School. They need someone who knows their way around a network.",
+   "desc_th": "เกิดเหตุการณ์ด้านความปลอดภัยทางไซเบอร์ที่โรงเรียนมัธยมปลายเขต 13 และพวกเขาต้องการความช่วยเหลือจากผู้เชี่ยวชาญด้านเครือข่ายที่มีประสบการณ์",
+   "tag": "Crystal Blueprint Fragment",
+   "tag_th": "ชิ้นส่วนพิมพ์เขียวพิเศษ"
+  },
+  {
+   "id": 2,
+   "type": 1,
+   "area_id": 1,
+   "quest_id": 2,
+   "quest_quality": 4,
+   "time_length": 43200,
+   "quest_require_affix": [
+    4
+   ],
+   "quest_require_camp": null,
+   "extra_score": "31851,50",
+   "basic_reward": [
+    {
+     "id": 10612,
+     "count": 25
+    }
+   ],
+   "extra_reward_1": "26101,1&150",
+   "extra_reward_2": "26102,1&300",
+   "extra_reward_3": "26103,1&450",
+   "quest_limits": null,
+   "title": "Grand Manhunt",
+   "title_th": "Grand Manhunt",
+   "desc": "The Defense & Security Bureau is holding a drill. The secret security forces are standing by for your orders.",
+   "desc_th": "สำนักงานความปลอดภัยกำลังจัดซ้อมแผนค้นหา และกองกำลังความปลอดภัยลับรอคำสั่งจากผู้บัญชาการอยู่",
+   "tag": "Shaping Hypercube Fragment",
+   "tag_th": "ชิ้นส่วน Shaping Hypercube"
+  },
+  {
+   "id": 3,
+   "type": 1,
+   "area_id": 1,
+   "quest_id": 3,
+   "quest_quality": 4,
+   "time_length": 43200,
+   "quest_require_affix": [
+    1
+   ],
+   "quest_require_camp": null,
+   "extra_score": "31901,50",
+   "basic_reward": [
+    {
+     "id": 10601,
+     "count": 25000
+    }
+   ],
+   "extra_reward_1": "26101,1&150",
+   "extra_reward_2": "26102,1&300",
+   "extra_reward_3": "26103,1&450",
+   "quest_limits": null,
+   "title": "Heavy Resonance",
+   "title_th": "Heavy Resonance",
+   "desc": "Passion! Bass drop! Power chord! The stage is waiting for a bassist to bring the house down!",
+   "desc_th": "มีไฟ! มีบีต! มีคอร์ด! ที่นี่ต้องการมือเบสมาระเบิดคลื่นเสียงสุดมันส์ไปด้วยกัน!",
+   "tag": "Material Collection",
+   "tag_th": "รวบรวมวัสดุ"
+  },
+  {
+   "id": 4,
+   "type": 1,
+   "area_id": 1,
+   "quest_id": 4,
+   "quest_quality": 4,
+   "time_length": 43200,
+   "quest_require_affix": [
+    2
+   ],
+   "quest_require_camp": null,
+   "extra_score": "32201,50",
+   "basic_reward": [
+    {
+     "id": 25101,
+     "count": 5
+    }
+   ],
+   "extra_reward_1": "26101,1&150",
+   "extra_reward_2": "26102,1&300",
+   "extra_reward_3": "26103,1&450",
+   "quest_limits": null,
+   "title": "Starbound Conquest",
+   "title_th": "Starbound Conquest",
+   "desc": "Treasure calls from distant shores. A ship stands ready, waiting for its captain to take the helm.",
+   "desc_th": "สมบัติที่ห่างไกลกำลังเรียกหา เรือที่พร้อมออกเดินทางต้องการกัปตันมาคุมหางเสือ",
+   "tag": "Material Collection",
+   "tag_th": "รวบรวมวัสดุ"
+  },
+  {
+   "id": 5,
+   "type": 1,
+   "area_id": 1,
+   "quest_id": 5,
+   "quest_quality": 4,
+   "time_length": 43200,
+   "quest_require_affix": null,
+   "quest_require_camp": [
+    5
+   ],
+   "extra_score": "30901,50",
+   "basic_reward": [
+    {
+     "id": 10011,
+     "count": 300
+    }
+   ],
+   "extra_reward_1": "26101,1&150",
+   "extra_reward_2": "26102,1&300",
+   "extra_reward_3": "26103,1&450",
+   "quest_limits": null,
+   "title": "Crimson Gala",
+   "title_th": "Crimson Gala",
+   "desc": "The banquet at the Rose Castle is about to begin. The roses stand in bloom, awaiting the arrival of their host.",
+   "desc_th": "งานเลี้ยงของปราสาทกุหลาบกำลังจะเริ่มขึ้น ดอกกุหลาบที่รอวันผลิบานต่างเฝ้ารอเจ้าของปราสาทปรากฏตัวอย่างเงียบงัน",
+   "tag": "Resource Acquisition",
+   "tag_th": "การจัดหาทรัพยากร"
+  },
+  {
+   "id": 6,
+   "type": 1,
+   "area_id": 1,
+   "quest_id": 6,
+   "quest_quality": 4,
+   "time_length": 43200,
+   "quest_require_affix": [
+    5
+   ],
+   "quest_require_camp": null,
+   "extra_score": "31801,50",
+   "basic_reward": [
+    {
+     "id": 10207,
+     "count": 2
+    }
+   ],
+   "extra_reward_1": "26101,1&150",
+   "extra_reward_2": "26102,1&300",
+   "extra_reward_3": "26103,1&450",
+   "quest_limits": null,
+   "title": "Wayward Beacon",
+   "title_th": "Wayward Beacon",
+   "desc": "The Astral Union's confession rite is about to begin. The lost souls are waiting for their guide.",
+   "desc_th": "พิธีสารภาพบาปของสหพันธ์ Astral กำลังจะเริ่มขึ้น เหล่าผู้หลงทางรอการชี้นำจากผู้สารภาพอยู่",
+   "tag": "Resource Acquisition",
+   "tag_th": "การจัดหาทรัพยากร"
+  },
+  {
+   "id": 7,
+   "type": 1,
+   "area_id": 1,
+   "quest_id": 7,
+   "quest_quality": 4,
+   "time_length": 43200,
+   "quest_require_affix": null,
+   "quest_require_camp": [
+    10
+   ],
+   "extra_score": "31151,50",
+   "basic_reward": [
+    {
+     "id": 10502,
+     "count": 10
+    }
+   ],
+   "extra_reward_1": "26101,1&150",
+   "extra_reward_2": "26102,1&300",
+   "extra_reward_3": "26103,1&450",
+   "quest_limits": null,
+   "title": "Heiress Soiree",
+   "title_th": "Heiress Soiree",
+   "desc": "The tea table is laden with sweet confections, all prepared for the arrival of the most adorable young lady.",
+   "desc_th": "โต๊ะน้ำชาเต็มไปด้วยขนมหวาน เพื่อต้อนรับคุณหนูแสนสวยและสุดน่ารัก",
+   "tag": "Resource Acquisition",
+   "tag_th": "การจัดหาทรัพยากร"
+  },
+  {
+   "id": 8,
+   "type": 1,
+   "area_id": 1,
+   "quest_id": 8,
+   "quest_quality": 4,
+   "time_length": 43200,
+   "quest_require_affix": [
+    3
+   ],
+   "quest_require_camp": null,
+   "extra_score": "31501,50",
+   "basic_reward": [
+    {
+     "id": 10179,
+     "count": 1
+    }
+   ],
+   "extra_reward_1": "26101,1&150",
+   "extra_reward_2": "26102,1&300",
+   "extra_reward_3": "26103,1&450",
+   "quest_limits": null,
+   "title": "Cryptic Auction",
+   "title_th": "Cryptic Auction",
+   "desc": "Twilight falls and rare treasures gleam. The guests are gathered, waiting for the host to unveil tonight's grand auction.",
+   "desc_th": "สมบัติเปล่งประกายเมื่อค่ำคืนมาเยือน แขกทั้งหลายกำลังรอเจ้าของสมบัติปรากฏตัว และเริ่มการแข่งขันของคืนนี้",
+   "tag": "Resource Acquisition",
+   "tag_th": "การจัดหาทรัพยากร"
+  },
+  {
+   "id": 9,
+   "type": 2,
+   "area_id": 1,
+   "quest_id": 1,
+   "quest_quality": 4,
+   "time_length": 43200,
+   "quest_require_affix": null,
+   "quest_require_camp": null,
+   "extra_score": "",
+   "basic_reward": [
+    {
+     "id": 10711,
+     "count": 1
+    },
+    {
+     "id": 10712,
+     "count": 1
+    },
+    {
+     "id": 10713,
+     "count": 1
+    },
+    {
+     "id": 10714,
+     "count": 1
+    },
+    {
+     "id": 10715,
+     "count": 1
+    },
+    {
+     "id": 10716,
+     "count": 1
+    },
+    {
+     "id": 10717,
+     "count": 1
+    },
+    {
+     "id": 10718,
+     "count": 1
+    },
+    {
+     "id": 10719,
+     "count": 1
+    },
+    {
+     "id": 10720,
+     "count": 1
+    }
+   ],
+   "extra_reward_1": "26101,1&150",
+   "extra_reward_2": "26102,1&300",
+   "extra_reward_3": "26103,1&450",
+   "quest_limits": null,
+   "title": "Luminous Echo",
+   "title_th": "Luminous Echo",
+   "desc": "Along the grand avenues of Eltrise, rare collectibles are waiting to be discovered.",
+   "desc_th": "ท่ามกลางถนนที่คึกคักของ Eltrise ของสะสมหายากและล้ำค่ารอให้คุณค้นพบอยู่",
+   "tag": "Collection",
+   "tag_th": "รวบรวมของสะสม"
+  },
+  {
+   "id": 10,
+   "type": 2,
+   "area_id": 2,
+   "quest_id": 2,
+   "quest_quality": 4,
+   "time_length": 43200,
+   "quest_require_affix": null,
+   "quest_require_camp": null,
+   "extra_score": "",
+   "basic_reward": [
+    {
+     "id": 10731,
+     "count": 1
+    },
+    {
+     "id": 10732,
+     "count": 1
+    },
+    {
+     "id": 10733,
+     "count": 1
+    },
+    {
+     "id": 10734,
+     "count": 1
+    },
+    {
+     "id": 10735,
+     "count": 1
+    },
+    {
+     "id": 10736,
+     "count": 1
+    },
+    {
+     "id": 10737,
+     "count": 1
+    },
+    {
+     "id": 10738,
+     "count": 1
+    },
+    {
+     "id": 10739,
+     "count": 1
+    },
+    {
+     "id": 10740,
+     "count": 1
+    }
+   ],
+   "extra_reward_1": "26101,1&150",
+   "extra_reward_2": "26102,1&300",
+   "extra_reward_3": "26103,1&450",
+   "quest_limits": null,
+   "title": "Aesthetic Quest",
+   "title_th": "Aesthetic Quest",
+   "desc": "Somewhere in Shen Metropolis, a private parlor has been set with rare gifts. It awaits only the right guest.",
+   "desc_th": "เตรียมของขวัญล้ำค่าไว้ที่ห้องหรูหราภายใน Shen Metropolis รอคอยแขกผู้มาเยือนและผู้รู้ใจ",
+   "tag": "Collection",
+   "tag_th": "รวบรวมของสะสม"
+  },
+  {
+   "id": 11,
+   "type": 2,
+   "area_id": 3,
+   "quest_id": 3,
+   "quest_quality": 4,
+   "time_length": 43200,
+   "quest_require_affix": null,
+   "quest_require_camp": null,
+   "extra_score": "",
+   "basic_reward": [
+    {
+     "id": 10751,
+     "count": 1
+    },
+    {
+     "id": 10752,
+     "count": 1
+    },
+    {
+     "id": 10753,
+     "count": 1
+    },
+    {
+     "id": 10754,
+     "count": 1
+    },
+    {
+     "id": 10755,
+     "count": 1
+    },
+    {
+     "id": 10756,
+     "count": 1
+    },
+    {
+     "id": 10757,
+     "count": 1
+    },
+    {
+     "id": 10758,
+     "count": 1
+    },
+    {
+     "id": 10759,
+     "count": 1
+    },
+    {
+     "id": 10760,
+     "count": 1
+    }
+   ],
+   "extra_reward_1": "26101,1&150",
+   "extra_reward_2": "26102,1&300",
+   "extra_reward_3": "26103,1&450",
+   "quest_limits": null,
+   "title": "Crisis Meltdown",
+   "title_th": "Crisis Meltdown",
+   "desc": "Deep in the ruins of high-risk Meltdown Zones, one-of-a-kind relics lie waiting to be found.",
+   "desc_th": "ลึกเข้าไปในซากปรักหักพังของพื้นที่ตัดวงจรความเสี่ยงสูง มักจะมีของที่ระลึกพิเศษซ่อนอยู่",
+   "tag": "Collection",
+   "tag_th": "รวบรวมของสะสม"
+  },
+  {
+   "id": 12,
+   "type": 2,
+   "area_id": 1,
+   "quest_id": 4,
+   "quest_quality": 4,
+   "time_length": 43200,
+   "quest_require_affix": null,
+   "quest_require_camp": null,
+   "extra_score": "",
+   "basic_reward": [
+    {
+     "id": 10505,
+     "count": 2
+    }
+   ],
+   "extra_reward_1": "26101,1&150",
+   "extra_reward_2": "26102,1&300",
+   "extra_reward_3": "26103,1&450",
+   "quest_limits": null,
+   "title": "Blueprint Expert",
+   "title_th": "Cartography Expert",
+   "desc": "The draftsmen at the Fabrication Hub are buried in work. They could use an extra pair of hands.",
+   "desc_th": "นักออกแบบที่ Fabrication Hub งานล้นมือ ไปช่วยพวกเขาหน่อยสิ!",
+   "tag": "Crystal Blueprint Fragment",
+   "tag_th": "ชิ้นส่วนพิมพ์เขียวพิเศษ"
+  },
+  {
+   "id": 13,
+   "type": 2,
+   "area_id": 1,
+   "quest_id": 5,
+   "quest_quality": 4,
+   "time_length": 43200,
+   "quest_require_affix": null,
+   "quest_require_camp": null,
+   "extra_score": "",
+   "basic_reward": [
+    {
+     "id": 10612,
+     "count": 5
+    }
+   ],
+   "extra_reward_1": "26101,1&150",
+   "extra_reward_2": "26102,1&300",
+   "extra_reward_3": "26103,1&450",
+   "quest_limits": null,
+   "title": "Career Aptitude Test",
+   "title_th": "Class Aptitude Test",
+   "desc": "Union researchers are looking for more career aptitude data. They've put out a call for help.",
+   "desc_th": "เพื่อเก็บรวบรวมข้อมูลการทดสอบคลาสให้ได้มากที่สุด นักวิจัยของสหพันธ์จึงประกาศภารกิจจ้างวาน",
+   "tag": "Shaping Hypercube Fragment",
+   "tag_th": "ชิ้นส่วน Shaping Hypercube"
+  },
+  {
+   "id": 14,
+   "type": 2,
+   "area_id": 1,
+   "quest_id": 6,
+   "quest_quality": 4,
+   "time_length": 43200,
+   "quest_require_affix": null,
+   "quest_require_camp": null,
+   "extra_score": "",
+   "basic_reward": [
+    {
+     "id": 10602,
+     "count": 2000
+    }
+   ],
+   "extra_reward_1": "26101,1&150",
+   "extra_reward_2": "26102,1&300",
+   "extra_reward_3": "26103,1&450",
+   "quest_limits": [
+    4,
+    1
+   ],
+   "title": "Routine Smelting",
+   "title_th": "Routine Smelting",
+   "desc": "The Alloy Workshop is ramping up reserves. They need someone to keep an eye on the smelting.",
+   "desc_th": "Alloy Workshop ต้องการเพิ่มกำลังสำรอง และขอให้คุณช่วยดูแลความคืบหน้าการหลอม",
+   "tag": "Material Collection",
+   "tag_th": "รวบรวมวัสดุ"
+  },
+  {
+   "id": 15,
+   "type": 2,
+   "area_id": 1,
+   "quest_id": 7,
+   "quest_quality": 4,
+   "time_length": 43200,
+   "quest_require_affix": null,
+   "quest_require_camp": null,
+   "extra_score": "",
+   "basic_reward": [
+    {
+     "id": 10603,
+     "count": 2000
+    }
+   ],
+   "extra_reward_1": "26101,1&150",
+   "extra_reward_2": "26102,1&300",
+   "extra_reward_3": "26103,1&450",
+   "quest_limits": [
+    5,
+    1
+   ],
+   "title": "Routine Charging",
+   "title_th": "Routine Charging",
+   "desc": "The Conduit Workshop is building up its energy stockpile and could use your help.",
+   "desc_th": "Conduit Workshop กำลังสำรองพลังงาน และต้องการความช่วยเหลือจากคุณ",
+   "tag": "Material Collection",
+   "tag_th": "รวบรวมวัสดุ"
+  },
+  {
+   "id": 16,
+   "type": 2,
+   "area_id": 1,
+   "quest_id": 8,
+   "quest_quality": 4,
+   "time_length": 43200,
+   "quest_require_affix": null,
+   "quest_require_camp": null,
+   "extra_score": "",
+   "basic_reward": [
+    {
+     "id": 10604,
+     "count": 2000
+    }
+   ],
+   "extra_reward_1": "26101,1&150",
+   "extra_reward_2": "26102,1&300",
+   "extra_reward_3": "26103,1&450",
+   "quest_limits": [
+    6,
+    1
+   ],
+   "title": "Routine Refining",
+   "title_th": "Routine Refining",
+   "desc": "The Phlogiston Workshop is pushing the limits of high-speed Anima Reaction. Lend a hand with the refining.",
+   "desc_th": "Phlogiston Workshop กำลังพัฒนาโปรเจกต์ปฏิกิริยา Anima ความเร็วสูง คุณช่วยเพิ่มประสิทธิภาพการสกัดได้",
+   "tag": "Material Collection",
+   "tag_th": "รวบรวมวัสดุ"
+  },
+  {
+   "id": 17,
+   "type": 2,
+   "area_id": 1,
+   "quest_id": 9,
+   "quest_quality": 4,
+   "time_length": 43200,
+   "quest_require_affix": null,
+   "quest_require_camp": null,
+   "extra_score": "",
+   "basic_reward": [
+    {
+     "id": 10605,
+     "count": 2000
+    }
+   ],
+   "extra_reward_1": "26101,1&150",
+   "extra_reward_2": "26102,1&300",
+   "extra_reward_3": "26103,1&450",
+   "quest_limits": [
+    7,
+    1
+   ],
+   "title": "Routine Fabrication",
+   "title_th": "Routine Fabrication",
+   "desc": "The Fiber Workshop is upgrading its defense systems. Your support would be welcome.",
+   "desc_th": "Fiber Workshop กำลังสร้างระบบป้องกันที่ครอบคลุมมากขึ้น และรอคอยการสนับสนุนจากคุณอยู่",
+   "tag": "Material Collection",
+   "tag_th": "รวบรวมวัสดุ"
+  },
+  {
+   "id": 18,
+   "type": 2,
+   "area_id": 1,
+   "quest_id": 10,
+   "quest_quality": 4,
+   "time_length": 43200,
+   "quest_require_affix": null,
+   "quest_require_camp": null,
+   "extra_score": "",
+   "basic_reward": [
+    {
+     "id": 10601,
+     "count": 20000
+    }
+   ],
+   "extra_reward_1": "26101,1&150",
+   "extra_reward_2": "26102,1&300",
+   "extra_reward_3": "26103,1&450",
+   "quest_limits": null,
+   "title": "Routine Mining",
+   "title_th": "Routine Mining",
+   "desc": "Facilities across the Hyper Kernel are stocking up. They need you to oversee the energy extraction.",
+   "desc_th": "สิ่งปลูกสร้าง Hyper Kernel กำลังสร้างแหล่งสำรอง และขอให้คุณช่วยดูแลการสกัดพลังงาน",
+   "tag": "Material Collection",
+   "tag_th": "รวบรวมวัสดุ"
+  },
+  {
+   "id": 19,
+   "type": 2,
+   "area_id": 1,
+   "quest_id": 11,
+   "quest_quality": 4,
+   "time_length": 43200,
+   "quest_require_affix": null,
+   "quest_require_camp": null,
+   "extra_score": "",
+   "basic_reward": [
+    {
+     "id": 10011,
+     "count": 100
+    }
+   ],
+   "extra_reward_1": "26101,1&150",
+   "extra_reward_2": "26102,1&300",
+   "extra_reward_3": "26103,1&450",
+   "quest_limits": null,
+   "title": "Wealth Audit",
+   "title_th": "Wealth Audit",
+   "desc": "Hydra Bank is running its periodic wealth audit. Help them clear out the high-risk assets.",
+   "desc_th": "ธนาคาร Hydra กำลังตรวจสอบทรัพย์สินตามรอบ โปรดช่วยพวกเขาจัดการสินทรัพย์เสี่ยงด้วย",
+   "tag": "Resource Acquisition",
+   "tag_th": "การจัดหาทรัพยากร"
+  },
+  {
+   "id": 20,
+   "type": 2,
+   "area_id": 1,
+   "quest_id": 12,
+   "quest_quality": 4,
+   "time_length": 43200,
+   "quest_require_affix": null,
+   "quest_require_camp": null,
+   "extra_score": "",
+   "basic_reward": [
+    {
+     "id": 10001,
+     "count": 250000
+    }
+   ],
+   "extra_reward_1": "26101,1&150",
+   "extra_reward_2": "26102,1&300",
+   "extra_reward_3": "26103,1&450",
+   "quest_limits": null,
+   "title": "Debt Recovery",
+   "title_th": "Debt Recovery",
+   "desc": "The Collectors of Hydra Bank are known for paying well. Might be worth taking the job.",
+   "desc_th": "นักสะสมของธนาคาร Hydra เป็นคนใจกว้าง ลองร่วมมือกับพวกเขาเพื่อรับรางวัลภารกิจจ้างวานสิ",
+   "tag": "Resource Acquisition",
+   "tag_th": "การจัดหาทรัพยากร"
+  },
+  {
+   "id": 21,
+   "type": 2,
+   "area_id": 1,
+   "quest_id": 13,
+   "quest_quality": 4,
+   "time_length": 43200,
+   "quest_require_affix": null,
+   "quest_require_camp": null,
+   "extra_score": "",
+   "basic_reward": [
+    {
+     "id": 10202,
+     "count": 2
+    }
+   ],
+   "extra_reward_1": "26101,1&150",
+   "extra_reward_2": "26102,1&300",
+   "extra_reward_3": "26103,1&450",
+   "quest_limits": null,
+   "title": "Talent Scout",
+   "title_th": "Talent Scout",
+   "desc": "The Union's talent fair is buzzing with fresh recruits. Don't miss the chance to scout some new faces.",
+   "desc_th": "งานรับสมัครของสหพันธ์ไฮเปอร์ลิงเกอร์เต็มไปด้วยคนเก่ง อย่าพลาดโอกาสเก็บเรซูเม่ใหม่ ๆ ล่ะ",
+   "tag": "Resource Acquisition",
+   "tag_th": "การจัดหาทรัพยากร"
+  },
+  {
+   "id": 22,
+   "type": 2,
+   "area_id": 1,
+   "quest_id": 14,
+   "quest_quality": 3,
+   "time_length": 28800,
+   "quest_require_affix": null,
+   "quest_require_camp": null,
+   "extra_score": "",
+   "basic_reward": [
+    {
+     "id": 10706,
+     "count": 1
+    },
+    {
+     "id": 10707,
+     "count": 1
+    },
+    {
+     "id": 10708,
+     "count": 1
+    },
+    {
+     "id": 10709,
+     "count": 1
+    },
+    {
+     "id": 10710,
+     "count": 1
+    }
+   ],
+   "extra_reward_1": "26101,1&150",
+   "extra_reward_2": "26102,1&300",
+   "extra_reward_3": "",
+   "quest_limits": null,
+   "title": "Mnemic Imprint",
+   "title_th": "Mnemic Imprint",
+   "desc": "In the winding alleys of Eltrise, fragments of memory wait to be gathered by those who wander deep enough.",
+   "desc_th": "ลึกเข้าไปในตรอกซอกซอยของ Eltrise มีเศษเสี้ยวของความทรงจำรอให้คุณเก็บรวบรวมอยู่",
+   "tag": "Collection",
+   "tag_th": "รวบรวมของสะสม"
+  },
+  {
+   "id": 23,
+   "type": 2,
+   "area_id": 2,
+   "quest_id": 15,
+   "quest_quality": 3,
+   "time_length": 28800,
+   "quest_require_affix": null,
+   "quest_require_camp": null,
+   "extra_score": "",
+   "basic_reward": [
+    {
+     "id": 10726,
+     "count": 1
+    },
+    {
+     "id": 10727,
+     "count": 1
+    },
+    {
+     "id": 10728,
+     "count": 1
+    },
+    {
+     "id": 10729,
+     "count": 1
+    },
+    {
+     "id": 10730,
+     "count": 1
+    }
+   ],
+   "extra_reward_1": "26101,1&150",
+   "extra_reward_2": "26102,1&300",
+   "extra_reward_3": "",
+   "quest_limits": null,
+   "title": "Chimeric Annals",
+   "title_th": "Chimeric Annals",
+   "desc": "Hidden stories linger in the streets of Shen Metropolis, waiting for a curious passerby to uncover them.",
+   "desc_th": "เรื่องราวที่ซ่อนอยู่ตามตรอกซอกซอยของ Shen Metropolis กำลังรอให้ผู้คนที่เดินผ่านไปมาได้ค้นพบ",
+   "tag": "Collection",
+   "tag_th": "รวบรวมของสะสม"
+  },
+  {
+   "id": 24,
+   "type": 2,
+   "area_id": 3,
+   "quest_id": 16,
+   "quest_quality": 3,
+   "time_length": 28800,
+   "quest_require_affix": null,
+   "quest_require_camp": null,
+   "extra_score": "",
+   "basic_reward": [
+    {
+     "id": 10746,
+     "count": 1
+    },
+    {
+     "id": 10747,
+     "count": 1
+    },
+    {
+     "id": 10748,
+     "count": 1
+    },
+    {
+     "id": 10749,
+     "count": 1
+    },
+    {
+     "id": 10750,
+     "count": 1
+    }
+   ],
+   "extra_reward_1": "26101,1&150",
+   "extra_reward_2": "26102,1&300",
+   "extra_reward_3": "",
+   "quest_limits": null,
+   "title": "Thermal Monitoring",
+   "title_th": "Thermal Monitoring",
+   "desc": "Routine patrols in the Meltdown Zones always turn up something precious that someone left behind.",
+   "desc_th": "ระหว่างการตรวจสอบพื้นที่ตัดวงจรตามปกติ คุณมักจะเจอของมีค่าที่ใครบางคนทำหายเสมอ",
+   "tag": "Collection",
+   "tag_th": "รวบรวมของสะสม"
+  },
+  {
+   "id": 25,
+   "type": 2,
+   "area_id": 1,
+   "quest_id": 17,
+   "quest_quality": 3,
+   "time_length": 28800,
+   "quest_require_affix": null,
+   "quest_require_camp": null,
+   "extra_score": "",
+   "basic_reward": [
+    {
+     "id": 10602,
+     "count": 1000
+    }
+   ],
+   "extra_reward_1": "26101,1&150",
+   "extra_reward_2": "26102,1&300",
+   "extra_reward_3": "",
+   "quest_limits": [
+    4,
+    1
+   ],
+   "title": "Routine Smelting",
+   "title_th": "Routine Smelting",
+   "desc": "The Alloy Workshop is ramping up reserves. They need someone to keep an eye on the smelting.",
+   "desc_th": "Alloy Workshop ต้องการเพิ่มกำลังสำรอง และขอให้คุณช่วยดูแลความคืบหน้าการหลอม",
+   "tag": "Material Collection",
+   "tag_th": "รวบรวมวัสดุ"
+  },
+  {
+   "id": 26,
+   "type": 2,
+   "area_id": 1,
+   "quest_id": 18,
+   "quest_quality": 3,
+   "time_length": 28800,
+   "quest_require_affix": null,
+   "quest_require_camp": null,
+   "extra_score": "",
+   "basic_reward": [
+    {
+     "id": 10603,
+     "count": 1000
+    }
+   ],
+   "extra_reward_1": "26101,1&150",
+   "extra_reward_2": "26102,1&300",
+   "extra_reward_3": "",
+   "quest_limits": [
+    5,
+    1
+   ],
+   "title": "Routine Charging",
+   "title_th": "Routine Charging",
+   "desc": "The Conduit Workshop is building up its energy stockpile and could use your help.",
+   "desc_th": "Conduit Workshop กำลังสำรองพลังงาน และต้องการความช่วยเหลือจากคุณ",
+   "tag": "Material Collection",
+   "tag_th": "รวบรวมวัสดุ"
+  },
+  {
+   "id": 27,
+   "type": 2,
+   "area_id": 1,
+   "quest_id": 19,
+   "quest_quality": 3,
+   "time_length": 28800,
+   "quest_require_affix": null,
+   "quest_require_camp": null,
+   "extra_score": "",
+   "basic_reward": [
+    {
+     "id": 10604,
+     "count": 1000
+    }
+   ],
+   "extra_reward_1": "26101,1&150",
+   "extra_reward_2": "26102,1&300",
+   "extra_reward_3": "",
+   "quest_limits": [
+    6,
+    1
+   ],
+   "title": "Routine Refining",
+   "title_th": "Routine Refining",
+   "desc": "The Phlogiston Workshop is pushing the limits of high-speed Anima Reaction. Lend a hand with the refining.",
+   "desc_th": "Phlogiston Workshop กำลังพัฒนาโปรเจกต์ปฏิกิริยา Anima ความเร็วสูง คุณช่วยเพิ่มประสิทธิภาพการสกัดได้",
+   "tag": "Material Collection",
+   "tag_th": "รวบรวมวัสดุ"
+  },
+  {
+   "id": 28,
+   "type": 2,
+   "area_id": 1,
+   "quest_id": 20,
+   "quest_quality": 3,
+   "time_length": 28800,
+   "quest_require_affix": null,
+   "quest_require_camp": null,
+   "extra_score": "",
+   "basic_reward": [
+    {
+     "id": 10605,
+     "count": 1000
+    }
+   ],
+   "extra_reward_1": "26101,1&150",
+   "extra_reward_2": "26102,1&300",
+   "extra_reward_3": "",
+   "quest_limits": [
+    7,
+    1
+   ],
+   "title": "Routine Fabrication",
+   "title_th": "Routine Fabrication",
+   "desc": "The Fiber Workshop is upgrading its defense systems. Your support would be welcome.",
+   "desc_th": "Fiber Workshop กำลังสร้างระบบป้องกันที่ครอบคลุมมากขึ้น และรอคอยการสนับสนุนจากคุณอยู่",
+   "tag": "Material Collection",
+   "tag_th": "รวบรวมวัสดุ"
+  },
+  {
+   "id": 29,
+   "type": 2,
+   "area_id": 1,
+   "quest_id": 21,
+   "quest_quality": 3,
+   "time_length": 28800,
+   "quest_require_affix": null,
+   "quest_require_camp": null,
+   "extra_score": "",
+   "basic_reward": [
+    {
+     "id": 10601,
+     "count": 10000
+    }
+   ],
+   "extra_reward_1": "26101,1&150",
+   "extra_reward_2": "26102,1&300",
+   "extra_reward_3": "",
+   "quest_limits": null,
+   "title": "Routine Mining",
+   "title_th": "Routine Mining",
+   "desc": "Facilities across the Hyper Kernel are stocking up. They need you to oversee the energy extraction.",
+   "desc_th": "สิ่งปลูกสร้าง Hyper Kernel กำลังสร้างแหล่งสำรอง และขอให้คุณช่วยดูแลการสกัดพลังงาน",
+   "tag": "Material Collection",
+   "tag_th": "รวบรวมวัสดุ"
+  },
+  {
+   "id": 30,
+   "type": 2,
+   "area_id": 1,
+   "quest_id": 22,
+   "quest_quality": 3,
+   "time_length": 28800,
+   "quest_require_affix": null,
+   "quest_require_camp": null,
+   "extra_score": "",
+   "basic_reward": [
+    {
+     "id": 10011,
+     "count": 50
+    }
+   ],
+   "extra_reward_1": "26101,1&150",
+   "extra_reward_2": "26102,1&300",
+   "extra_reward_3": "",
+   "quest_limits": null,
+   "title": "Wealth Audit",
+   "title_th": "Wealth Audit",
+   "desc": "Hydra Bank is running its periodic wealth audit. Help them clear out the high-risk assets.",
+   "desc_th": "ธนาคาร Hydra กำลังตรวจสอบทรัพย์สินตามรอบ โปรดช่วยพวกเขาจัดการสินทรัพย์เสี่ยงด้วย",
+   "tag": "Resource Acquisition",
+   "tag_th": "การจัดหาทรัพยากร"
+  },
+  {
+   "id": 31,
+   "type": 2,
+   "area_id": 1,
+   "quest_id": 23,
+   "quest_quality": 3,
+   "time_length": 28800,
+   "quest_require_affix": null,
+   "quest_require_camp": null,
+   "extra_score": "",
+   "basic_reward": [
+    {
+     "id": 10202,
+     "count": 1
+    }
+   ],
+   "extra_reward_1": "26101,1&150",
+   "extra_reward_2": "26102,1&300",
+   "extra_reward_3": "",
+   "quest_limits": null,
+   "title": "Talent Scout",
+   "title_th": "Talent Scout",
+   "desc": "The Union's talent fair is buzzing with fresh recruits. Don't miss the chance to scout some new faces.",
+   "desc_th": "งานรับสมัครของสหพันธ์ไฮเปอร์ลิงเกอร์เต็มไปด้วยคนเก่ง อย่าพลาดโอกาสเก็บเรซูเม่ใหม่ ๆ ล่ะ",
+   "tag": "Resource Acquisition",
+   "tag_th": "การจัดหาทรัพยากร"
+  },
+  {
+   "id": 32,
+   "type": 2,
+   "area_id": 1,
+   "quest_id": 24,
+   "quest_quality": 3,
+   "time_length": 28800,
+   "quest_require_affix": null,
+   "quest_require_camp": null,
+   "extra_score": "",
+   "basic_reward": [
+    {
+     "id": 10161,
+     "count": 50
+    }
+   ],
+   "extra_reward_1": "26101,1&150",
+   "extra_reward_2": "26102,1&300",
+   "extra_reward_3": "",
+   "quest_limits": null,
+   "title": "Signal Pulse",
+   "title_th": "Signal Pulse",
+   "desc": "Your Animuses need better training supplies. Time to reach out and open up new channels.",
+   "desc_th": "Animus ต้องการแหล่งจัดหาทรัพยากรฝึกฝนที่มีประสิทธิภาพ และขอให้คุณช่วยประสานงานผ่านหลายช่องทาง",
+   "tag": "Resource Acquisition",
+   "tag_th": "การจัดหาทรัพยากร"
+  },
+  {
+   "id": 33,
+   "type": 2,
+   "area_id": 1,
+   "quest_id": 25,
+   "quest_quality": 3,
+   "time_length": 28800,
+   "quest_require_affix": null,
+   "quest_require_camp": null,
+   "extra_score": "",
+   "basic_reward": [
+    {
+     "id": 10133,
+     "count": 1
+    }
+   ],
+   "extra_reward_1": "26101,1&150",
+   "extra_reward_2": "26102,1&300",
+   "extra_reward_3": "",
+   "quest_limits": null,
+   "title": "Phantom Shard",
+   "title_th": "Phantom Shard",
+   "desc": "Memory fragments holding combat data are scattered across old battlefields. Go collect them.",
+   "desc_th": "สนามรบเก่าของ Animus มีชิ้นส่วนความทรงจำที่เก็บข้อมูลการต่อสู้รอคุณอยู่",
+   "tag": "Resource Acquisition",
+   "tag_th": "การจัดหาทรัพยากร"
+  },
+  {
+   "id": 34,
+   "type": 2,
+   "area_id": 1,
+   "quest_id": 26,
+   "quest_quality": 3,
+   "time_length": 28800,
+   "quest_require_affix": null,
+   "quest_require_camp": null,
+   "extra_score": "",
+   "basic_reward": [
+    {
+     "id": 10103,
+     "count": 50
+    }
+   ],
+   "extra_reward_1": "26101,1&150",
+   "extra_reward_2": "26102,1&300",
+   "extra_reward_3": "",
+   "quest_limits": null,
+   "title": "Tactical Simulation",
+   "title_th": "Tactical Simulation",
+   "desc": "Your Shells need more varied combat experience. Set up a tactical simulation for them.",
+   "desc_th": "เหล่า Shell อยากจะสัมผัสเทคนิคการต่อสู้ที่หลากหลาย คุณสามารถช่วยพวกเขาจำลองการต่อสู้ได้",
+   "tag": "Resource Acquisition",
+   "tag_th": "การจัดหาทรัพยากร"
+  },
+  {
+   "id": 35,
+   "type": 2,
+   "area_id": 1,
+   "quest_id": 27,
+   "quest_quality": 3,
+   "time_length": 28800,
+   "quest_require_affix": null,
+   "quest_require_camp": null,
+   "extra_score": "",
+   "basic_reward": [
+    {
+     "id": 10111,
+     "count": 1
+    }
+   ],
+   "extra_reward_1": "26101,1&150",
+   "extra_reward_2": "26102,1&300",
+   "extra_reward_3": "",
+   "quest_limits": null,
+   "title": "Classified Archive",
+   "title_th": "Classified Archive",
+   "desc": "Union personnel files have gotten unwieldy. They need you to help weed out data irregularities.",
+   "desc_th": "แฟ้มบุคลากรของสหพันธ์ซับซ้อนเกินไป ระหว่างการจัดระเบียบ พวกเขาต้องการให้คุณช่วยดูช่องโหว่ของข้อมูลให้",
+   "tag": "Resource Acquisition",
+   "tag_th": "การจัดหาทรัพยากร"
+  },
+  {
+   "id": 36,
+   "type": 2,
+   "area_id": 1,
+   "quest_id": 28,
+   "quest_quality": 3,
+   "time_length": 28800,
+   "quest_require_affix": null,
+   "quest_require_camp": null,
+   "extra_score": "",
+   "basic_reward": [
+    {
+     "id": 25003,
+     "count": 2
+    }
+   ],
+   "extra_reward_1": "26101,1&150",
+   "extra_reward_2": "26102,1&300",
+   "extra_reward_3": "",
+   "quest_limits": null,
+   "title": "Peak Rally",
+   "title_th": "Peak Rally",
+   "desc": "The Union is hosting a training rally. Your Animuses are fired up and ready to push their limits with you.",
+   "desc_th": "สหพันธ์จัดกิจกรรมฝึกฝน และ Animus ต่างรอที่จะท้าทายขีดจำกัดของตัวเองกับคุณ",
+   "tag": "Resource Acquisition",
+   "tag_th": "การจัดหาทรัพยากร"
+  },
+  {
+   "id": 37,
+   "type": 2,
+   "area_id": 1,
+   "quest_id": 29,
+   "quest_quality": 3,
+   "time_length": 28800,
+   "quest_require_affix": null,
+   "quest_require_camp": null,
+   "extra_score": "",
+   "basic_reward": [
+    {
+     "id": 10001,
+     "count": 100000
+    }
+   ],
+   "extra_reward_1": "26101,1&150",
+   "extra_reward_2": "26102,1&300",
+   "extra_reward_3": "",
+   "quest_limits": null,
+   "title": "Debt Recovery",
+   "title_th": "Debt Recovery",
+   "desc": "The Collectors of Hydra Bank are known for paying well. Might be worth taking the job.",
+   "desc_th": "นักสะสมของธนาคาร Hydra เป็นคนใจกว้าง ลองร่วมมือกับพวกเขาเพื่อรับรางวัลภารกิจจ้างวานสิ",
+   "tag": "Resource Acquisition",
+   "tag_th": "การจัดหาทรัพยากร"
+  },
+  {
+   "id": 38,
+   "type": 2,
+   "area_id": 1,
+   "quest_id": 30,
+   "quest_quality": 3,
+   "time_length": 28800,
+   "quest_require_affix": null,
+   "quest_require_camp": null,
+   "extra_score": "",
+   "basic_reward": [
+    {
+     "id": 10101,
+     "count": 100000
+    }
+   ],
+   "extra_reward_1": "26101,1&150",
+   "extra_reward_2": "26102,1&300",
+   "extra_reward_3": "",
+   "quest_limits": null,
+   "title": "Shell Training",
+   "title_th": "Shell Training",
+   "desc": "Shells have a habit of slacking off on training days. Keep them in line.",
+   "desc_th": "เหล่า Shell ชอบแอบขี้เกียจในวันฝึก พวกเขาต้องการให้คุณช่วยควบคุม",
+   "tag": "Resource Acquisition",
+   "tag_th": "การจัดหาทรัพยากร"
+  },
+  {
+   "id": 39,
+   "type": 2,
+   "area_id": 1,
+   "quest_id": 31,
+   "quest_quality": 2,
+   "time_length": 21600,
+   "quest_require_affix": null,
+   "quest_require_camp": null,
+   "extra_score": "",
+   "basic_reward": [
+    {
+     "id": 10701,
+     "count": 1
+    },
+    {
+     "id": 10702,
+     "count": 1
+    },
+    {
+     "id": 10703,
+     "count": 1
+    },
+    {
+     "id": 10704,
+     "count": 1
+    },
+    {
+     "id": 10705,
+     "count": 1
+    }
+   ],
+   "extra_reward_1": "26101,1&150",
+   "extra_reward_2": "",
+   "extra_reward_3": "",
+   "quest_limits": null,
+   "title": "Mnemic Imprint",
+   "title_th": "Mnemic Imprint",
+   "desc": "In the winding alleys of Eltrise, fragments of memory wait to be gathered by those who wander deep enough.",
+   "desc_th": "ลึกเข้าไปในตรอกซอกซอยของ Eltrise มีเศษเสี้ยวของความทรงจำรอให้คุณเก็บรวบรวมอยู่",
+   "tag": "Collection",
+   "tag_th": "รวบรวมของสะสม"
+  },
+  {
+   "id": 40,
+   "type": 2,
+   "area_id": 2,
+   "quest_id": 32,
+   "quest_quality": 2,
+   "time_length": 21600,
+   "quest_require_affix": null,
+   "quest_require_camp": null,
+   "extra_score": "",
+   "basic_reward": [
+    {
+     "id": 10721,
+     "count": 1
+    },
+    {
+     "id": 10722,
+     "count": 1
+    },
+    {
+     "id": 10723,
+     "count": 1
+    },
+    {
+     "id": 10724,
+     "count": 1
+    },
+    {
+     "id": 10725,
+     "count": 1
+    }
+   ],
+   "extra_reward_1": "26101,1&150",
+   "extra_reward_2": "",
+   "extra_reward_3": "",
+   "quest_limits": null,
+   "title": "Chimeric Annals",
+   "title_th": "Chimeric Annals",
+   "desc": "Hidden stories linger in the streets of Shen Metropolis, waiting for a curious passerby to uncover them.",
+   "desc_th": "เรื่องราวที่ซ่อนอยู่ตามตรอกซอกซอยของ Shen Metropolis กำลังรอให้ผู้คนที่เดินผ่านไปมาได้ค้นพบ",
+   "tag": "Collection",
+   "tag_th": "รวบรวมของสะสม"
+  },
+  {
+   "id": 41,
+   "type": 2,
+   "area_id": 3,
+   "quest_id": 33,
+   "quest_quality": 2,
+   "time_length": 21600,
+   "quest_require_affix": null,
+   "quest_require_camp": null,
+   "extra_score": "",
+   "basic_reward": [
+    {
+     "id": 10741,
+     "count": 1
+    },
+    {
+     "id": 10742,
+     "count": 1
+    },
+    {
+     "id": 10743,
+     "count": 1
+    },
+    {
+     "id": 10744,
+     "count": 1
+    },
+    {
+     "id": 10745,
+     "count": 1
+    }
+   ],
+   "extra_reward_1": "26101,1&150",
+   "extra_reward_2": "",
+   "extra_reward_3": "",
+   "quest_limits": null,
+   "title": "Thermal Monitoring",
+   "title_th": "Thermal Monitoring",
+   "desc": "Routine patrols in the Meltdown Zones always turn up something precious that someone left behind.",
+   "desc_th": "ระหว่างการตรวจสอบพื้นที่ตัดวงจรตามปกติ คุณมักจะเจอของมีค่าที่ใครบางคนทำหายเสมอ",
+   "tag": "Collection",
+   "tag_th": "รวบรวมของสะสม"
+  },
+  {
+   "id": 42,
+   "type": 2,
+   "area_id": 1,
+   "quest_id": 34,
+   "quest_quality": 2,
+   "time_length": 21600,
+   "quest_require_affix": null,
+   "quest_require_camp": null,
+   "extra_score": "",
+   "basic_reward": [
+    {
+     "id": 10602,
+     "count": 500
+    }
+   ],
+   "extra_reward_1": "26101,1&150",
+   "extra_reward_2": "",
+   "extra_reward_3": "",
+   "quest_limits": [
+    4,
+    1
+   ],
+   "title": "Routine Smelting",
+   "title_th": "Routine Smelting",
+   "desc": "The Alloy Workshop is ramping up reserves. They need someone to keep an eye on the smelting.",
+   "desc_th": "Alloy Workshop ต้องการเพิ่มกำลังสำรอง และขอให้คุณช่วยดูแลความคืบหน้าการหลอม",
+   "tag": "Material Collection",
+   "tag_th": "รวบรวมวัสดุ"
+  },
+  {
+   "id": 43,
+   "type": 2,
+   "area_id": 1,
+   "quest_id": 35,
+   "quest_quality": 2,
+   "time_length": 21600,
+   "quest_require_affix": null,
+   "quest_require_camp": null,
+   "extra_score": "",
+   "basic_reward": [
+    {
+     "id": 10603,
+     "count": 500
+    }
+   ],
+   "extra_reward_1": "26101,1&150",
+   "extra_reward_2": "",
+   "extra_reward_3": "",
+   "quest_limits": [
+    5,
+    1
+   ],
+   "title": "Routine Charging",
+   "title_th": "Routine Charging",
+   "desc": "The Conduit Workshop is building up its energy stockpile and could use your help.",
+   "desc_th": "Conduit Workshop กำลังสำรองพลังงาน และต้องการความช่วยเหลือจากคุณ",
+   "tag": "Material Collection",
+   "tag_th": "รวบรวมวัสดุ"
+  },
+  {
+   "id": 44,
+   "type": 2,
+   "area_id": 1,
+   "quest_id": 36,
+   "quest_quality": 2,
+   "time_length": 21600,
+   "quest_require_affix": null,
+   "quest_require_camp": null,
+   "extra_score": "",
+   "basic_reward": [
+    {
+     "id": 10604,
+     "count": 500
+    }
+   ],
+   "extra_reward_1": "26101,1&150",
+   "extra_reward_2": "",
+   "extra_reward_3": "",
+   "quest_limits": [
+    6,
+    1
+   ],
+   "title": "Routine Refining",
+   "title_th": "Routine Refining",
+   "desc": "The Phlogiston Workshop is pushing the limits of high-speed Anima Reaction. Lend a hand with the refining.",
+   "desc_th": "Phlogiston Workshop กำลังพัฒนาโปรเจกต์ปฏิกิริยา Anima ความเร็วสูง คุณช่วยเพิ่มประสิทธิภาพการสกัดได้",
+   "tag": "Material Collection",
+   "tag_th": "รวบรวมวัสดุ"
+  },
+  {
+   "id": 45,
+   "type": 2,
+   "area_id": 1,
+   "quest_id": 37,
+   "quest_quality": 2,
+   "time_length": 21600,
+   "quest_require_affix": null,
+   "quest_require_camp": null,
+   "extra_score": "",
+   "basic_reward": [
+    {
+     "id": 10605,
+     "count": 500
+    }
+   ],
+   "extra_reward_1": "26101,1&150",
+   "extra_reward_2": "",
+   "extra_reward_3": "",
+   "quest_limits": [
+    7,
+    1
+   ],
+   "title": "Routine Fabrication",
+   "title_th": "Routine Fabrication",
+   "desc": "The Fiber Workshop is upgrading its defense systems. Your support would be welcome.",
+   "desc_th": "Fiber Workshop กำลังสร้างระบบป้องกันที่ครอบคลุมมากขึ้น และรอคอยการสนับสนุนจากคุณอยู่",
+   "tag": "Material Collection",
+   "tag_th": "รวบรวมวัสดุ"
+  },
+  {
+   "id": 46,
+   "type": 2,
+   "area_id": 1,
+   "quest_id": 38,
+   "quest_quality": 2,
+   "time_length": 21600,
+   "quest_require_affix": null,
+   "quest_require_camp": null,
+   "extra_score": "",
+   "basic_reward": [
+    {
+     "id": 10601,
+     "count": 5000
+    }
+   ],
+   "extra_reward_1": "26101,1&150",
+   "extra_reward_2": "",
+   "extra_reward_3": "",
+   "quest_limits": null,
+   "title": "Routine Mining",
+   "title_th": "Routine Mining",
+   "desc": "Facilities across the Hyper Kernel are stocking up. They need you to oversee the energy extraction.",
+   "desc_th": "สิ่งปลูกสร้าง Hyper Kernel กำลังสร้างแหล่งสำรอง และขอให้คุณช่วยดูแลการสกัดพลังงาน",
+   "tag": "Material Collection",
+   "tag_th": "รวบรวมวัสดุ"
+  },
+  {
+   "id": 47,
+   "type": 2,
+   "area_id": 1,
+   "quest_id": 39,
+   "quest_quality": 2,
+   "time_length": 21600,
+   "quest_require_affix": null,
+   "quest_require_camp": null,
+   "extra_score": "",
+   "basic_reward": [
+    {
+     "id": 10113,
+     "count": 10
+    }
+   ],
+   "extra_reward_1": "26101,1&150",
+   "extra_reward_2": "",
+   "extra_reward_3": "",
+   "quest_limits": null,
+   "title": "Sector Scan",
+   "title_th": "Sector Scan",
+   "desc": "The Union has posted a new round of Meltdown threat assessments. A perfect chance to show what you and your Animuses can do.",
+   "desc_th": "สหพันธ์ประกาศภารกิจตรวจสอบอันตรายในเขต Meltdown รอบใหม่ คว้าโอกาสนี้โชว์ฝีมือไปพร้อมกับ Animus ของคุณสิ",
+   "tag": "Resource Acquisition",
+   "tag_th": "การจัดหาทรัพยากร"
+  },
+  {
+   "id": 48,
+   "type": 2,
+   "area_id": 1,
+   "quest_id": 40,
+   "quest_quality": 2,
+   "time_length": 21600,
+   "quest_require_affix": null,
+   "quest_require_camp": null,
+   "extra_score": "",
+   "basic_reward": [
+    {
+     "id": 25002,
+     "count": 5
+    }
+   ],
+   "extra_reward_1": "26101,1&150",
+   "extra_reward_2": "",
+   "extra_reward_3": "",
+   "quest_limits": null,
+   "title": "Peak Rally",
+   "title_th": "Peak Rally",
+   "desc": "The Union is hosting a training rally. Your Animuses are fired up and ready to push their limits with you.",
+   "desc_th": "สหพันธ์จัดกิจกรรมฝึกฝน และ Animus ต่างรอที่จะท้าทายขีดจำกัดของตัวเองกับคุณ",
+   "tag": "Resource Acquisition",
+   "tag_th": "การจัดหาทรัพยากร"
+  },
+  {
+   "id": 49,
+   "type": 2,
+   "area_id": 1,
+   "quest_id": 41,
+   "quest_quality": 2,
+   "time_length": 21600,
+   "quest_require_affix": null,
+   "quest_require_camp": null,
+   "extra_score": "",
+   "basic_reward": [
+    {
+     "id": 10132,
+     "count": 1
+    }
+   ],
+   "extra_reward_1": "26101,1&150",
+   "extra_reward_2": "",
+   "extra_reward_3": "",
+   "quest_limits": null,
+   "title": "Phantom Shard",
+   "title_th": "Phantom Shard",
+   "desc": "Memory fragments holding combat data are scattered across old battlefields. Go collect them.",
+   "desc_th": "สนามรบเก่าของ Animus มีชิ้นส่วนความทรงจำที่เก็บข้อมูลการต่อสู้รอคุณอยู่",
+   "tag": "Resource Acquisition",
+   "tag_th": "การจัดหาทรัพยากร"
+  },
+  {
+   "id": 50,
+   "type": 2,
+   "area_id": 1,
+   "quest_id": 42,
+   "quest_quality": 2,
+   "time_length": 21600,
+   "quest_require_affix": null,
+   "quest_require_camp": null,
+   "extra_score": "",
+   "basic_reward": [
+    {
+     "id": 10001,
+     "count": 50000
+    }
+   ],
+   "extra_reward_1": "26101,1&150",
+   "extra_reward_2": "",
+   "extra_reward_3": "",
+   "quest_limits": null,
+   "title": "Shell Training",
+   "title_th": "Shell Training",
+   "desc": "Shells have a habit of slacking off on training days. Keep them in line.",
+   "desc_th": "เหล่า Shell ชอบแอบขี้เกียจในวันฝึก พวกเขาต้องการให้คุณช่วยควบคุม",
+   "tag": "Resource Acquisition",
+   "tag_th": "การจัดหาทรัพยากร"
+  },
+  {
+   "id": 51,
+   "type": 2,
+   "area_id": 1,
+   "quest_id": 43,
+   "quest_quality": 2,
+   "time_length": 21600,
+   "quest_require_affix": null,
+   "quest_require_camp": null,
+   "extra_score": "",
+   "basic_reward": [
+    {
+     "id": 10101,
+     "count": 50000
+    }
+   ],
+   "extra_reward_1": "26101,1&150",
+   "extra_reward_2": "",
+   "extra_reward_3": "",
+   "quest_limits": null,
+   "title": "Mnemic Imprint",
+   "title_th": "Mnemic Imprint",
+   "desc": "In the winding alleys of Eltrise, fragments of memory wait to be gathered by those who wander deep enough.",
+   "desc_th": "ลึกเข้าไปในตรอกซอกซอยของ Eltrise มีเศษเสี้ยวของความทรงจำรอให้คุณเก็บรวบรวมอยู่",
+   "tag": "Resource Acquisition",
+   "tag_th": "การจัดหาทรัพยากร"
+  },
+  {
+   "id": 52,
+   "type": 2,
+   "area_id": 1,
+   "quest_id": 44,
+   "quest_quality": 2,
+   "time_length": 21600,
+   "quest_require_affix": null,
+   "quest_require_camp": null,
+   "extra_score": "",
+   "basic_reward": [
+    {
+     "id": 10102,
+     "count": 30
+    }
+   ],
+   "extra_reward_1": "26101,1&150",
+   "extra_reward_2": "",
+   "extra_reward_3": "",
+   "quest_limits": null,
+   "title": "Peace Enforcer",
+   "title_th": "Peace Enforcer",
+   "desc": "The Defense & Security Bureau has issued a Peace Enforcer assistance request. They could use your support.",
+   "desc_th": "สำนักงานความปลอดภัยประกาศภารกิจจ้างวานช่วยรักษาความสงบ คุณสามารถไปช่วยพวกเขาได้",
+   "tag": "Resource Acquisition",
+   "tag_th": "การจัดหาทรัพยากร"
+  },
+  {
+   "id": 53,
+   "type": 2,
+   "area_id": 1,
+   "quest_id": 45,
+   "quest_quality": 1,
+   "time_length": 14400,
+   "quest_require_affix": null,
+   "quest_require_camp": null,
+   "extra_score": "",
+   "basic_reward": [
+    {
+     "id": 10602,
+     "count": 300
+    }
+   ],
+   "extra_reward_1": "",
+   "extra_reward_2": "",
+   "extra_reward_3": "",
+   "quest_limits": [
+    4,
+    1
+   ],
+   "title": "Routine Smelting",
+   "title_th": "Routine Smelting",
+   "desc": "The Alloy Workshop is ramping up reserves. They need someone to keep an eye on the smelting.",
+   "desc_th": "Alloy Workshop ต้องการเพิ่มกำลังสำรอง และขอให้คุณช่วยดูแลความคืบหน้าการหลอม",
+   "tag": "Material Collection",
+   "tag_th": "รวบรวมวัสดุ"
+  },
+  {
+   "id": 54,
+   "type": 2,
+   "area_id": 1,
+   "quest_id": 46,
+   "quest_quality": 1,
+   "time_length": 14400,
+   "quest_require_affix": null,
+   "quest_require_camp": null,
+   "extra_score": "",
+   "basic_reward": [
+    {
+     "id": 10603,
+     "count": 300
+    }
+   ],
+   "extra_reward_1": "",
+   "extra_reward_2": "",
+   "extra_reward_3": "",
+   "quest_limits": [
+    5,
+    1
+   ],
+   "title": "Routine Charging",
+   "title_th": "Routine Charging",
+   "desc": "The Conduit Workshop is building up its energy stockpile and could use your help.",
+   "desc_th": "Conduit Workshop กำลังสำรองพลังงาน และต้องการความช่วยเหลือจากคุณ",
+   "tag": "Material Collection",
+   "tag_th": "รวบรวมวัสดุ"
+  },
+  {
+   "id": 55,
+   "type": 2,
+   "area_id": 1,
+   "quest_id": 47,
+   "quest_quality": 1,
+   "time_length": 14400,
+   "quest_require_affix": null,
+   "quest_require_camp": null,
+   "extra_score": "",
+   "basic_reward": [
+    {
+     "id": 10604,
+     "count": 300
+    }
+   ],
+   "extra_reward_1": "",
+   "extra_reward_2": "",
+   "extra_reward_3": "",
+   "quest_limits": [
+    6,
+    1
+   ],
+   "title": "Routine Refining",
+   "title_th": "Routine Refining",
+   "desc": "The Phlogiston Workshop is pushing the limits of high-speed Anima Reaction. Lend a hand with the refining.",
+   "desc_th": "Phlogiston Workshop กำลังพัฒนาโปรเจกต์ปฏิกิริยา Anima ความเร็วสูง คุณช่วยเพิ่มประสิทธิภาพการสกัดได้",
+   "tag": "Material Collection",
+   "tag_th": "รวบรวมวัสดุ"
+  },
+  {
+   "id": 56,
+   "type": 2,
+   "area_id": 1,
+   "quest_id": 48,
+   "quest_quality": 1,
+   "time_length": 14400,
+   "quest_require_affix": null,
+   "quest_require_camp": null,
+   "extra_score": "",
+   "basic_reward": [
+    {
+     "id": 10605,
+     "count": 300
+    }
+   ],
+   "extra_reward_1": "",
+   "extra_reward_2": "",
+   "extra_reward_3": "",
+   "quest_limits": [
+    7,
+    1
+   ],
+   "title": "Routine Fabrication",
+   "title_th": "Routine Fabrication",
+   "desc": "The Fiber Workshop is upgrading its defense systems. Your support would be welcome.",
+   "desc_th": "Fiber Workshop กำลังสร้างระบบป้องกันที่ครอบคลุมมากขึ้น และรอคอยการสนับสนุนจากคุณอยู่",
+   "tag": "Material Collection",
+   "tag_th": "รวบรวมวัสดุ"
+  },
+  {
+   "id": 57,
+   "type": 2,
+   "area_id": 1,
+   "quest_id": 49,
+   "quest_quality": 1,
+   "time_length": 14400,
+   "quest_require_affix": null,
+   "quest_require_camp": null,
+   "extra_score": "",
+   "basic_reward": [
+    {
+     "id": 10112,
+     "count": 20
+    }
+   ],
+   "extra_reward_1": "",
+   "extra_reward_2": "",
+   "extra_reward_3": "",
+   "quest_limits": null,
+   "title": "Sector Scan",
+   "title_th": "Sector Scan",
+   "desc": "The Union has posted a new round of Meltdown threat assessments. A perfect chance to show what you and your Animuses can do.",
+   "desc_th": "สหพันธ์ประกาศภารกิจตรวจสอบอันตรายในเขต Meltdown รอบใหม่ คว้าโอกาสนี้โชว์ฝีมือไปพร้อมกับ Animus ของคุณสิ",
+   "tag": "Resource Acquisition",
+   "tag_th": "การจัดหาทรัพยากร"
+  },
+  {
+   "id": 58,
+   "type": 2,
+   "area_id": 1,
+   "quest_id": 50,
+   "quest_quality": 1,
+   "time_length": 14400,
+   "quest_require_affix": null,
+   "quest_require_camp": null,
+   "extra_score": "",
+   "basic_reward": [
+    {
+     "id": 25001,
+     "count": 10
+    }
+   ],
+   "extra_reward_1": "",
+   "extra_reward_2": "",
+   "extra_reward_3": "",
+   "quest_limits": null,
+   "title": "Peak Rally",
+   "title_th": "Peak Rally",
+   "desc": "The Union is hosting a training rally. Your Animuses are fired up and ready to push their limits with you.",
+   "desc_th": "สหพันธ์จัดกิจกรรมฝึกฝน และ Animus ต่างรอที่จะท้าทายขีดจำกัดของตัวเองกับคุณ",
+   "tag": "Resource Acquisition",
+   "tag_th": "การจัดหาทรัพยากร"
+  },
+  {
+   "id": 59,
+   "type": 2,
+   "area_id": 1,
+   "quest_id": 51,
+   "quest_quality": 1,
+   "time_length": 14400,
+   "quest_require_affix": null,
+   "quest_require_camp": null,
+   "extra_score": "",
+   "basic_reward": [
+    {
+     "id": 10001,
+     "count": 20000
+    }
+   ],
+   "extra_reward_1": "",
+   "extra_reward_2": "",
+   "extra_reward_3": "",
+   "quest_limits": null,
+   "title": "Debt Recovery",
+   "title_th": "Debt Recovery",
+   "desc": "The Collectors of Hydra Bank are known for paying well. Might be worth taking the job.",
+   "desc_th": "นักสะสมของธนาคาร Hydra เป็นคนใจกว้าง ลองร่วมมือกับพวกเขาเพื่อรับรางวัลภารกิจจ้างวานสิ",
+   "tag": "Resource Acquisition",
+   "tag_th": "การจัดหาทรัพยากร"
+  },
+  {
+   "id": 60,
+   "type": 2,
+   "area_id": 1,
+   "quest_id": 52,
+   "quest_quality": 1,
+   "time_length": 14400,
+   "quest_require_affix": null,
+   "quest_require_camp": null,
+   "extra_score": "",
+   "basic_reward": [
+    {
+     "id": 10101,
+     "count": 20000
+    }
+   ],
+   "extra_reward_1": "",
+   "extra_reward_2": "",
+   "extra_reward_3": "",
+   "quest_limits": null,
+   "title": "Shell Training",
+   "title_th": "Shell Training",
+   "desc": "Shells have a habit of slacking off on training days. Keep them in line.",
+   "desc_th": "เหล่า Shell ชอบแอบขี้เกียจในวันฝึก พวกเขาต้องการให้คุณช่วยควบคุม",
+   "tag": "Resource Acquisition",
+   "tag_th": "การจัดหาทรัพยากร"
+  },
+  {
+   "id": 61,
+   "type": 3,
+   "area_id": 1,
+   "quest_id": 53,
+   "quest_quality": 4,
+   "time_length": 3,
+   "quest_require_affix": null,
+   "quest_require_camp": null,
+   "extra_score": "",
+   "basic_reward": [
+    {
+     "id": 10601,
+     "count": 20000
+    }
+   ],
+   "extra_reward_1": "",
+   "extra_reward_2": "",
+   "extra_reward_3": "",
+   "quest_limits": null,
+   "title": "Routine Mining",
+   "title_th": "Routine Mining",
+   "desc": "Facilities across the Hyper Kernel are stocking up. They need you to oversee the energy extraction.",
+   "desc_th": "สิ่งปลูกสร้าง Hyper Kernel กำลังสร้างแหล่งสำรอง และขอให้คุณช่วยดูแลการสกัดพลังงาน",
+   "tag": "Resource Acquisition",
+   "tag_th": "การจัดหาทรัพยากร"
+  }
+ ],
+ "text_chunk": "00099_42838a08eaf93b21.json"
+}

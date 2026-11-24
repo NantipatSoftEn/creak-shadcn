@@ -1,0 +1,377 @@
+{
+ "config": "scenario_initial",
+ "fields": [
+  "section_id",
+  "savepoint",
+  "quest_id",
+  "start_fx",
+  "start_story_id"
+ ],
+ "rows": {
+  "110001": {
+   "section_id": 110001,
+   "savepoint": 1100010,
+   "quest_id": 0,
+   "start_fx": "",
+   "start_story_id": 0
+  },
+  "100101": {
+   "section_id": 100101,
+   "savepoint": 1001010,
+   "quest_id": 1001011,
+   "start_fx": "",
+   "start_story_id": 0
+  },
+  "100201": {
+   "section_id": 100201,
+   "savepoint": 1002010,
+   "quest_id": 1002011,
+   "start_fx": "",
+   "start_story_id": 2010100
+  },
+  "100202": {
+   "section_id": 100202,
+   "savepoint": 1002020,
+   "quest_id": 1002019,
+   "start_fx": "BP_Player_Spawn",
+   "start_story_id": 0
+  },
+  "100203": {
+   "section_id": 100203,
+   "savepoint": 1002030,
+   "quest_id": 1002031,
+   "start_fx": "BP_Player_Spawn",
+   "start_story_id": 0
+  },
+  "100301": {
+   "section_id": 100301,
+   "savepoint": 1003010,
+   "quest_id": 1002042,
+   "start_fx": "",
+   "start_story_id": 2040301
+  },
+  "100302": {
+   "section_id": 100302,
+   "savepoint": 1003020,
+   "quest_id": 1002051,
+   "start_fx": "BP_Player_Spawn",
+   "start_story_id": 0
+  },
+  "100303": {
+   "section_id": 100303,
+   "savepoint": 1003030,
+   "quest_id": 1002061,
+   "start_fx": "BP_Player_Spawn",
+   "start_story_id": 0
+  },
+  "100401": {
+   "section_id": 100401,
+   "savepoint": 1004010,
+   "quest_id": 1003011,
+   "start_fx": "",
+   "start_story_id": 3010101
+  },
+  "100402": {
+   "section_id": 100402,
+   "savepoint": 1004020,
+   "quest_id": 1003013,
+   "start_fx": "BP_Player_Spawn",
+   "start_story_id": 0
+  },
+  "100403": {
+   "section_id": 100403,
+   "savepoint": 1004030,
+   "quest_id": 1003020,
+   "start_fx": "BP_Player_Spawn",
+   "start_story_id": 0
+  },
+  "100501": {
+   "section_id": 100501,
+   "savepoint": 1005010,
+   "quest_id": 1003024,
+   "start_fx": "",
+   "start_story_id": 3040101
+  },
+  "100502": {
+   "section_id": 100502,
+   "savepoint": 1005020,
+   "quest_id": 1003031,
+   "start_fx": "BP_Player_Spawn",
+   "start_story_id": 0
+  },
+  "100503": {
+   "section_id": 100503,
+   "savepoint": 1005030,
+   "quest_id": 1003043,
+   "start_fx": "BP_Player_Spawn",
+   "start_story_id": 0
+  },
+  "100601": {
+   "section_id": 100601,
+   "savepoint": 1006010,
+   "quest_id": 1004011,
+   "start_fx": "BP_Player_Spawn",
+   "start_story_id": 0
+  },
+  "100602": {
+   "section_id": 100602,
+   "savepoint": 1006020,
+   "quest_id": 1004021,
+   "start_fx": "BP_Player_Spawn",
+   "start_story_id": 0
+  },
+  "100603": {
+   "section_id": 100603,
+   "savepoint": 1006030,
+   "quest_id": 1004025,
+   "start_fx": "BP_Player_Spawn",
+   "start_story_id": 0
+  },
+  "100701": {
+   "section_id": 100701,
+   "savepoint": 1007010,
+   "quest_id": 1004032,
+   "start_fx": "BP_Player_Spawn",
+   "start_story_id": 0
+  },
+  "100702": {
+   "section_id": 100702,
+   "savepoint": 1007020,
+   "quest_id": 1004061,
+   "start_fx": "BP_Player_Spawn",
+   "start_story_id": 0
+  },
+  "100703": {
+   "section_id": 100703,
+   "savepoint": 1007030,
+   "quest_id": 1004071,
+   "start_fx": "BP_Player_Spawn",
+   "start_story_id": 0
+  },
+  "100801": {
+   "section_id": 100801,
+   "savepoint": 1008010,
+   "quest_id": 1007011,
+   "start_fx": "BP_Player_Spawn",
+   "start_story_id": 0
+  },
+  "100802": {
+   "section_id": 100802,
+   "savepoint": 1008020,
+   "quest_id": 1007021,
+   "start_fx": "BP_Player_Spawn",
+   "start_story_id": 0
+  },
+  "100803": {
+   "section_id": 100803,
+   "savepoint": 1008030,
+   "quest_id": 1007024,
+   "start_fx": "BP_Player_Spawn",
+   "start_story_id": 0
+  },
+  "100901": {
+   "section_id": 100901,
+   "savepoint": 1009010,
+   "quest_id": 1007071,
+   "start_fx": "BP_Player_Spawn",
+   "start_story_id": 0
+  },
+  "100902": {
+   "section_id": 100902,
+   "savepoint": 1009020,
+   "quest_id": 1007092,
+   "start_fx": "BP_Player_Spawn",
+   "start_story_id": 0
+  },
+  "100903": {
+   "section_id": 100903,
+   "savepoint": 1009030,
+   "quest_id": 1007096,
+   "start_fx": "BP_Player_Spawn",
+   "start_story_id": 0
+  },
+  "101001": {
+   "section_id": 101001,
+   "savepoint": 1010010,
+   "quest_id": 1010011,
+   "start_fx": "BP_Player_Spawn",
+   "start_story_id": 0
+  },
+  "101002": {
+   "section_id": 101002,
+   "savepoint": 1010020,
+   "quest_id": 1010021,
+   "start_fx": "BP_Player_Spawn",
+   "start_story_id": 0
+  },
+  "101003": {
+   "section_id": 101003,
+   "savepoint": 1010030,
+   "quest_id": 1010031,
+   "start_fx": "BP_Player_Spawn",
+   "start_story_id": 0
+  },
+  "101101": {
+   "section_id": 101101,
+   "savepoint": 1011010,
+   "quest_id": 1011011,
+   "start_fx": "BP_Player_Spawn",
+   "start_story_id": 0
+  },
+  "101102": {
+   "section_id": 101102,
+   "savepoint": 1011020,
+   "quest_id": 1011021,
+   "start_fx": "BP_Player_Spawn",
+   "start_story_id": 0
+  },
+  "101103": {
+   "section_id": 101103,
+   "savepoint": 1011030,
+   "quest_id": 1011033,
+   "start_fx": "BP_Player_Spawn",
+   "start_story_id": 0
+  },
+  "101104": {
+   "section_id": 101104,
+   "savepoint": 1011040,
+   "quest_id": 1011041,
+   "start_fx": "BP_Player_Spawn",
+   "start_story_id": 0
+  },
+  "101201": {
+   "section_id": 101201,
+   "savepoint": 1012010,
+   "quest_id": 1012011,
+   "start_fx": "BP_Player_Spawn",
+   "start_story_id": 0
+  },
+  "101202": {
+   "section_id": 101202,
+   "savepoint": 1012020,
+   "quest_id": 1012021,
+   "start_fx": "BP_Player_Spawn",
+   "start_story_id": 0
+  },
+  "101301": {
+   "section_id": 101301,
+   "savepoint": 1013010,
+   "quest_id": 0,
+   "start_fx": "BP_Player_Spawn",
+   "start_story_id": 0
+  },
+  "101302": {
+   "section_id": 101302,
+   "savepoint": 1013020,
+   "quest_id": 0,
+   "start_fx": "BP_Player_Spawn",
+   "start_story_id": 0
+  },
+  "101303": {
+   "section_id": 101303,
+   "savepoint": 1013030,
+   "quest_id": 0,
+   "start_fx": "BP_Player_Spawn",
+   "start_story_id": 0
+  },
+  "101304": {
+   "section_id": 101304,
+   "savepoint": 1013040,
+   "quest_id": 0,
+   "start_fx": "BP_Player_Spawn",
+   "start_story_id": 0
+  },
+  "101305": {
+   "section_id": 101305,
+   "savepoint": 1013050,
+   "quest_id": 0,
+   "start_fx": "BP_Player_Spawn",
+   "start_story_id": 0
+  },
+  "101306": {
+   "section_id": 101306,
+   "savepoint": 1013060,
+   "quest_id": 0,
+   "start_fx": "BP_Player_Spawn",
+   "start_story_id": 0
+  },
+  "101307": {
+   "section_id": 101307,
+   "savepoint": 1013070,
+   "quest_id": 0,
+   "start_fx": "BP_Player_Spawn",
+   "start_story_id": 0
+  },
+  "101308": {
+   "section_id": 101308,
+   "savepoint": 1013080,
+   "quest_id": 0,
+   "start_fx": "BP_Player_Spawn",
+   "start_story_id": 0
+  },
+  "101309": {
+   "section_id": 101309,
+   "savepoint": 1013090,
+   "quest_id": 0,
+   "start_fx": "BP_Player_Spawn",
+   "start_story_id": 0
+  },
+  "101310": {
+   "section_id": 101310,
+   "savepoint": 1013100,
+   "quest_id": 0,
+   "start_fx": "BP_Player_Spawn",
+   "start_story_id": 0
+  },
+  "101401": {
+   "section_id": 101401,
+   "savepoint": 1014010,
+   "quest_id": 0,
+   "start_fx": "BP_Player_Spawn",
+   "start_story_id": 0
+  },
+  "101501": {
+   "section_id": 101501,
+   "savepoint": 1015010,
+   "quest_id": 0,
+   "start_fx": "BP_Player_Spawn",
+   "start_story_id": 0
+  },
+  "101601": {
+   "section_id": 101601,
+   "savepoint": 1016010,
+   "quest_id": 0,
+   "start_fx": "BP_Player_Spawn",
+   "start_story_id": 0
+  },
+  "109901": {
+   "section_id": 109901,
+   "savepoint": 109901,
+   "quest_id": 0,
+   "start_fx": "BP_Player_Spawn",
+   "start_story_id": 0
+  },
+  "105201": {
+   "section_id": 105201,
+   "savepoint": 105201,
+   "quest_id": 1002011,
+   "start_fx": "BP_Player_Spawn",
+   "start_story_id": 0
+  },
+  "105301": {
+   "section_id": 105301,
+   "savepoint": 105301,
+   "quest_id": 1003011,
+   "start_fx": "BP_Player_Spawn",
+   "start_story_id": 0
+  },
+  "105401": {
+   "section_id": 105401,
+   "savepoint": 105401,
+   "quest_id": 1004011,
+   "start_fx": "BP_Player_Spawn",
+   "start_story_id": 0
+  }
+ },
+ "text_chunk": null
+}

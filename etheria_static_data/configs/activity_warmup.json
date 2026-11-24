@@ -1,0 +1,23 @@
+{
+ "config": "activity_warmup",
+ "fields": [
+  "id",
+  "bg",
+  "title",
+  "desc"
+ ],
+ "rows": {
+  "id": [
+   1,
+   "T_UI_Activity_Preview_Banner_01"
+  ],
+  "bg": [
+   2,
+   "T_UI_Activity_Preview_Banner_02"
+  ],
+  "title": [
+   3,
+   "T_UI_Activity_Preview_Banner_03"
+  ]
+ }
+}

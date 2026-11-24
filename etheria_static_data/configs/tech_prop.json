@@ -1,0 +1,1934 @@
+{
+ "config": "tech_prop",
+ "fields": [
+  "id",
+  "prop",
+  "asset_name",
+  "pre_id",
+  "cost",
+  "name"
+ ],
+ "rows": {
+  "1001": {
+   "id": 1001,
+   "prop": {
+    "type": 7,
+    "value": 0.05
+   },
+   "asset_name": "T_UI_Tech_Icon_3",
+   "pre_id": "",
+   "cost": "10301,100",
+   "name": "Ring 1--1",
+   "name_th": "Ring 1--1"
+  },
+  "1002": {
+   "id": 1002,
+   "prop": {
+    "type": 7,
+    "value": 0.08
+   },
+   "asset_name": "T_UI_Tech_Icon_1",
+   "pre_id": "1001",
+   "cost": "10301,101",
+   "name": "Ring 1--2",
+   "name_th": "Ring 1--2"
+  },
+  "1003": {
+   "id": 1003,
+   "prop": {
+    "type": 7,
+    "value": 0.1
+   },
+   "asset_name": "T_UI_Tech_Icon_1",
+   "pre_id": "1002",
+   "cost": "10301,102",
+   "name": "Ring 1--3",
+   "name_th": "Ring 1--3"
+  },
+  "1004": {
+   "id": 1004,
+   "prop": {
+    "type": 7,
+    "value": 0.15
+   },
+   "asset_name": "T_UI_Tech_Icon_1",
+   "pre_id": "1003,1002",
+   "cost": "10301,103",
+   "name": "Ring 1--4",
+   "name_th": "Ring 1--4"
+  },
+  "1005": {
+   "id": 1005,
+   "prop": {
+    "type": 3,
+    "value": 0.05
+   },
+   "asset_name": "T_UI_Tech_Icon_1",
+   "pre_id": "1004|1003",
+   "cost": "10301,104",
+   "name": "Ring 1--5",
+   "name_th": "Ring 1--5"
+  },
+  "1006": {
+   "id": 1006,
+   "prop": {
+    "type": 3,
+    "value": 0.08
+   },
+   "asset_name": "T_UI_Tech_Icon_1",
+   "pre_id": "1005",
+   "cost": "10301,105",
+   "name": "Ring 1--6",
+   "name_th": "Ring 1--6"
+  },
+  "1007": {
+   "id": 1007,
+   "prop": {
+    "type": 3,
+    "value": 0.1
+   },
+   "asset_name": "T_UI_Tech_Icon_1",
+   "pre_id": "1006",
+   "cost": "10301,106",
+   "name": "Ring 1--7",
+   "name_th": "Ring 1--7"
+  },
+  "1008": {
+   "id": 1008,
+   "prop": {
+    "type": 3,
+    "value": 0.15
+   },
+   "asset_name": "T_UI_Tech_Icon_1",
+   "pre_id": "1007",
+   "cost": "10301,107",
+   "name": "Ring 1--8",
+   "name_th": "Ring 1--8"
+  },
+  "1009": {
+   "id": 1009,
+   "prop": {
+    "type": 3,
+    "value": 0.23
+   },
+   "asset_name": "T_UI_Tech_Icon_1",
+   "pre_id": "1008",
+   "cost": "10301,108",
+   "name": "Ring 1--9",
+   "name_th": "Ring 1--9"
+  },
+  "1010": {
+   "id": 1010,
+   "prop": {
+    "type": 3,
+    "value": 0.08
+   },
+   "asset_name": "T_UI_Tech_Icon_2",
+   "pre_id": "1009",
+   "cost": "10301,109",
+   "name": "Ring 1--10",
+   "name_th": "Ring 1--10"
+  },
+  "1011": {
+   "id": 1011,
+   "prop": {
+    "type": 3,
+    "value": 0.1
+   },
+   "asset_name": "T_UI_Tech_Icon_1",
+   "pre_id": "1010",
+   "cost": "10301,110",
+   "name": "Ring 1--11",
+   "name_th": "Ring 1--11"
+  },
+  "1012": {
+   "id": 1012,
+   "prop": {
+    "type": 3,
+    "value": 0.15
+   },
+   "asset_name": "T_UI_Tech_Icon_1",
+   "pre_id": "1011",
+   "cost": "10301,111",
+   "name": "Ring 1--12",
+   "name_th": "Ring 1--12"
+  },
+  "1013": {
+   "id": 1013,
+   "prop": {
+    "type": 3,
+    "value": 0.2
+   },
+   "asset_name": "T_UI_Tech_Icon_1",
+   "pre_id": "1012",
+   "cost": "10301,112",
+   "name": "Ring 1--13",
+   "name_th": "Ring 1--13"
+  },
+  "1014": {
+   "id": 1014,
+   "prop": {
+    "type": 3,
+    "value": 0.28
+   },
+   "asset_name": "T_UI_Tech_Icon_1",
+   "pre_id": "1013",
+   "cost": "10301,113",
+   "name": "Ring 1--14",
+   "name_th": "Ring 1--14"
+  },
+  "1015": {
+   "id": 1015,
+   "prop": {
+    "type": 16,
+    "value": 11.0
+   },
+   "asset_name": "T_UI_Tech_Icon_1",
+   "pre_id": "1014",
+   "cost": "10301,114",
+   "name": "Ring 1--15",
+   "name_th": "Ring 1--15"
+  },
+  "1016": {
+   "id": 1016,
+   "prop": {
+    "type": 16,
+    "value": 15.0
+   },
+   "asset_name": "T_UI_Tech_Icon_1",
+   "pre_id": "1015",
+   "cost": "10301,115",
+   "name": "Ring 1--16",
+   "name_th": "Ring 1--16"
+  },
+  "1017": {
+   "id": 1017,
+   "prop": {
+    "type": 16,
+    "value": 23.0
+   },
+   "asset_name": "T_UI_Tech_Icon_1",
+   "pre_id": "1016",
+   "cost": "10301,116",
+   "name": "Ring 1--17",
+   "name_th": "Ring 1--17"
+  },
+  "1018": {
+   "id": 1018,
+   "prop": {
+    "type": 16,
+    "value": 30.0
+   },
+   "asset_name": "T_UI_Tech_Icon_1",
+   "pre_id": "1017",
+   "cost": "10301,117",
+   "name": "Ring 1--18",
+   "name_th": "Ring 1--18"
+  },
+  "1019": {
+   "id": 1019,
+   "prop": {
+    "type": 16,
+    "value": 41.0
+   },
+   "asset_name": "T_UI_Tech_Icon_3",
+   "pre_id": "1018",
+   "cost": "10301,118",
+   "name": "Ring 1--19",
+   "name_th": "Ring 1--19"
+  },
+  "1020": {
+   "id": 1020,
+   "prop": {
+    "type": 16,
+    "value": 15.0
+   },
+   "asset_name": "T_UI_Tech_Icon_1",
+   "pre_id": "1019",
+   "cost": "10301,119",
+   "name": "Ring 1--20",
+   "name_th": "Ring 1--20"
+  },
+  "1021": {
+   "id": 1021,
+   "prop": {
+    "type": 16,
+    "value": 23.0
+   },
+   "asset_name": "T_UI_Tech_Icon_1",
+   "pre_id": "1020",
+   "cost": "10301,120",
+   "name": "Ring 1--21",
+   "name_th": "Ring 1--21"
+  },
+  "1022": {
+   "id": 1022,
+   "prop": {
+    "type": 16,
+    "value": 30.0
+   },
+   "asset_name": "T_UI_Tech_Icon_1",
+   "pre_id": "1021",
+   "cost": "10301,121",
+   "name": "Ring 1--22",
+   "name_th": "Ring 1--22"
+  },
+  "1023": {
+   "id": 1023,
+   "prop": {
+    "type": 16,
+    "value": 38.0
+   },
+   "asset_name": "T_UI_Tech_Icon_1",
+   "pre_id": "1022",
+   "cost": "10301,122",
+   "name": "Ring 1--23",
+   "name_th": "Ring 1--23"
+  },
+  "1024": {
+   "id": 1024,
+   "prop": {
+    "type": 8,
+    "value": 40.0
+   },
+   "asset_name": "T_UI_Tech_Icon_1",
+   "pre_id": "1023",
+   "cost": "10301,123",
+   "name": "Ring 1--24",
+   "name_th": "Ring 1--24"
+  },
+  "1025": {
+   "id": 1025,
+   "prop": {
+    "type": 8,
+    "value": 60.0
+   },
+   "asset_name": "T_UI_Tech_Icon_1",
+   "pre_id": "1024",
+   "cost": "10301,124",
+   "name": "Ring 1--25",
+   "name_th": "Ring 1--25"
+  },
+  "1026": {
+   "id": 1026,
+   "prop": {
+    "type": 8,
+    "value": 80.0
+   },
+   "asset_name": "T_UI_Tech_Icon_1",
+   "pre_id": "1025",
+   "cost": "10301,125",
+   "name": "Ring 1--26",
+   "name_th": "Ring 1--26"
+  },
+  "1027": {
+   "id": 1027,
+   "prop": {
+    "type": 8,
+    "value": 120.0
+   },
+   "asset_name": "T_UI_Tech_Icon_2",
+   "pre_id": "1026",
+   "cost": "10301,126",
+   "name": "Ring 1--27",
+   "name_th": "Ring 1--27"
+  },
+  "1028": {
+   "id": 1028,
+   "prop": {
+    "type": 8,
+    "value": 180.0
+   },
+   "asset_name": "T_UI_Tech_Icon_1",
+   "pre_id": "1027",
+   "cost": "10301,127",
+   "name": "Ring 1--28",
+   "name_th": "Ring 1--28"
+  },
+  "1029": {
+   "id": 1029,
+   "prop": {
+    "type": 8,
+    "value": 60.0
+   },
+   "asset_name": "T_UI_Tech_Icon_1",
+   "pre_id": "1028",
+   "cost": "10301,128",
+   "name": "Ring 1--29",
+   "name_th": "Ring 1--29"
+  },
+  "1030": {
+   "id": 1030,
+   "prop": {
+    "type": 8,
+    "value": 80.0
+   },
+   "asset_name": "T_UI_Tech_Icon_1",
+   "pre_id": "1029",
+   "cost": "10301,129",
+   "name": "Ring 1--30",
+   "name_th": "Ring 1--30"
+  },
+  "1031": {
+   "id": 1031,
+   "prop": {
+    "type": 8,
+    "value": 120.0
+   },
+   "asset_name": "T_UI_Tech_Icon_1",
+   "pre_id": "1030",
+   "cost": "10301,130",
+   "name": "Ring 1--31",
+   "name_th": "Ring 1--31"
+  },
+  "1032": {
+   "id": 1032,
+   "prop": {
+    "type": 8,
+    "value": 60.0
+   },
+   "asset_name": "T_UI_Tech_Icon_1",
+   "pre_id": "1031",
+   "cost": "10301,131",
+   "name": "Ring 1--32",
+   "name_th": "Ring 1--32"
+  },
+  "1033": {
+   "id": 1033,
+   "prop": {
+    "type": 8,
+    "value": 80.0
+   },
+   "asset_name": "T_UI_Tech_Icon_1",
+   "pre_id": "1032",
+   "cost": "10301,132",
+   "name": "Ring 1--33",
+   "name_th": "Ring 1--33"
+  },
+  "1034": {
+   "id": 1034,
+   "prop": {
+    "type": 8,
+    "value": 120.0
+   },
+   "asset_name": "T_UI_Tech_Icon_1",
+   "pre_id": "1033",
+   "cost": "10301,133",
+   "name": "Ring 1--34",
+   "name_th": "Ring 1--34"
+  },
+  "1035": {
+   "id": 1035,
+   "prop": {
+    "type": 8,
+    "value": 60.0
+   },
+   "asset_name": "T_UI_Tech_Icon_1",
+   "pre_id": "1034",
+   "cost": "10301,134",
+   "name": "Ring 1--35",
+   "name_th": "Ring 1--35"
+  },
+  "1036": {
+   "id": 1036,
+   "prop": {
+    "type": 8,
+    "value": 80.0
+   },
+   "asset_name": "T_UI_Tech_Icon_1",
+   "pre_id": "1035",
+   "cost": "10301,135",
+   "name": "Ring 1--36",
+   "name_th": "Ring 1--36"
+  },
+  "1037": {
+   "id": 1037,
+   "prop": {
+    "type": 8,
+    "value": 120.0
+   },
+   "asset_name": "T_UI_Tech_Icon_3",
+   "pre_id": "1036",
+   "cost": "10301,136",
+   "name": "Ring 1--37",
+   "name_th": "Ring 1--37"
+  },
+  "1038": {
+   "id": 1038,
+   "prop": {
+    "type": 8,
+    "value": 60.0
+   },
+   "asset_name": "T_UI_Tech_Icon_1",
+   "pre_id": "1037",
+   "cost": "10301,137",
+   "name": "Ring 1--38",
+   "name_th": "Ring 1--38"
+  },
+  "1039": {
+   "id": 1039,
+   "prop": {
+    "type": 8,
+    "value": 80.0
+   },
+   "asset_name": "T_UI_Tech_Icon_1",
+   "pre_id": "1038",
+   "cost": "10301,138",
+   "name": "Ring 1--39",
+   "name_th": "Ring 1--39"
+  },
+  "1040": {
+   "id": 1040,
+   "prop": {
+    "type": 8,
+    "value": 120.0
+   },
+   "asset_name": "T_UI_Tech_Icon_1",
+   "pre_id": "1039",
+   "cost": "10301,139",
+   "name": "Ring 1--40",
+   "name_th": "Ring 1--40"
+  },
+  "1041": {
+   "id": 1041,
+   "prop": {
+    "type": 8,
+    "value": 60.0
+   },
+   "asset_name": "T_UI_Tech_Icon_1",
+   "pre_id": "1040",
+   "cost": "10301,140",
+   "name": "Ring 1--41",
+   "name_th": "Ring 1--41"
+  },
+  "1042": {
+   "id": 1042,
+   "prop": {
+    "type": 8,
+    "value": 80.0
+   },
+   "asset_name": "T_UI_Tech_Icon_1",
+   "pre_id": "1041",
+   "cost": "10301,141",
+   "name": "Ring 1--42",
+   "name_th": "Ring 1--42"
+  },
+  "1043": {
+   "id": 1043,
+   "prop": {
+    "type": 8,
+    "value": 120.0
+   },
+   "asset_name": "T_UI_Tech_Icon_1",
+   "pre_id": "1042",
+   "cost": "10301,142",
+   "name": "Ring 1--43",
+   "name_th": "Ring 1--43"
+  },
+  "1044": {
+   "id": 1044,
+   "prop": {
+    "type": 8,
+    "value": 60.0
+   },
+   "asset_name": "T_UI_Tech_Icon_1",
+   "pre_id": "1043",
+   "cost": "10301,143",
+   "name": "Ring 1--44",
+   "name_th": "Ring 1--44"
+  },
+  "1045": {
+   "id": 1045,
+   "prop": {
+    "type": 8,
+    "value": 80.0
+   },
+   "asset_name": "T_UI_Tech_Icon_1",
+   "pre_id": "1044",
+   "cost": "10301,144",
+   "name": "Ring 1--45",
+   "name_th": "Ring 1--45"
+  },
+  "1046": {
+   "id": 1046,
+   "prop": {
+    "type": 8,
+    "value": 120.0
+   },
+   "asset_name": "T_UI_Tech_Icon_2",
+   "pre_id": "1045",
+   "cost": "10301,145",
+   "name": "Ring 1--46",
+   "name_th": "Ring 1--46"
+  },
+  "1047": {
+   "id": 1047,
+   "prop": {
+    "type": 8,
+    "value": 60.0
+   },
+   "asset_name": "T_UI_Tech_Icon_1",
+   "pre_id": "1046",
+   "cost": "10301,146",
+   "name": "Ring 1--47",
+   "name_th": "Ring 1--47"
+  },
+  "1048": {
+   "id": 1048,
+   "prop": {
+    "type": 8,
+    "value": 80.0
+   },
+   "asset_name": "T_UI_Tech_Icon_1",
+   "pre_id": "1047",
+   "cost": "10301,147",
+   "name": "Ring 1--48",
+   "name_th": "Ring 1--48"
+  },
+  "1049": {
+   "id": 1049,
+   "prop": {
+    "type": 8,
+    "value": 120.0
+   },
+   "asset_name": "T_UI_Tech_Icon_1",
+   "pre_id": "1048",
+   "cost": "10301,148",
+   "name": "Ring 1--49",
+   "name_th": "Ring 1--49"
+  },
+  "1050": {
+   "id": 1050,
+   "prop": {
+    "type": 8,
+    "value": 60.0
+   },
+   "asset_name": "T_UI_Tech_Icon_1",
+   "pre_id": "1049",
+   "cost": "10301,149",
+   "name": "Ring 1--50",
+   "name_th": "Ring 1--50"
+  },
+  "1051": {
+   "id": 1051,
+   "prop": {
+    "type": 8,
+    "value": 80.0
+   },
+   "asset_name": "T_UI_Tech_Icon_1",
+   "pre_id": "1050",
+   "cost": "10301,150",
+   "name": "Ring 1--51",
+   "name_th": "Ring 1--51"
+  },
+  "1052": {
+   "id": 1052,
+   "prop": {
+    "type": 8,
+    "value": 100.0
+   },
+   "asset_name": "T_UI_Tech_Icon_1",
+   "pre_id": "1051",
+   "cost": "10301,151",
+   "name": "Ring 1--52",
+   "name_th": "Ring 1--52"
+  },
+  "1053": {
+   "id": 1053,
+   "prop": {
+    "type": 8,
+    "value": 120.0
+   },
+   "asset_name": "T_UI_Tech_Icon_1",
+   "pre_id": "1052",
+   "cost": "10301,152",
+   "name": "Ring 1--53",
+   "name_th": "Ring 1--53"
+  },
+  "1054": {
+   "id": 1054,
+   "prop": {
+    "type": 8,
+    "value": 120.0
+   },
+   "asset_name": "T_UI_Tech_Icon_1",
+   "pre_id": "1053",
+   "cost": "10301,152",
+   "name": "Ring 1--54",
+   "name_th": "Ring 1--54"
+  },
+  "2001": {
+   "id": 2001,
+   "prop": {
+    "type": 7,
+    "value": 0.05
+   },
+   "asset_name": "Gift_15001",
+   "pre_id": "",
+   "cost": "10301,100",
+   "name": "Ring 2--1",
+   "name_th": "Ring 2--1"
+  },
+  "2002": {
+   "id": 2002,
+   "prop": {
+    "type": 7,
+    "value": 0.08
+   },
+   "asset_name": "Gift_15002",
+   "pre_id": "2001",
+   "cost": "10301,101",
+   "name": "Ring 2--2",
+   "name_th": "Ring 2--2"
+  },
+  "2003": {
+   "id": 2003,
+   "prop": {
+    "type": 7,
+    "value": 0.1
+   },
+   "asset_name": "Gift_15003",
+   "pre_id": "2002",
+   "cost": "10301,102",
+   "name": "Ring 2--3",
+   "name_th": "Ring 2--3"
+  },
+  "2004": {
+   "id": 2004,
+   "prop": {
+    "type": 7,
+    "value": 0.15
+   },
+   "asset_name": "Gift_15004",
+   "pre_id": "2003,2002",
+   "cost": "10301,103",
+   "name": "Ring 2--4",
+   "name_th": "Ring 2--4"
+  },
+  "2005": {
+   "id": 2005,
+   "prop": {
+    "type": 3,
+    "value": 0.05
+   },
+   "asset_name": "Gift_15001",
+   "pre_id": "2004|2003",
+   "cost": "10301,104",
+   "name": "Ring 2--5",
+   "name_th": "Ring 2--5"
+  },
+  "2006": {
+   "id": 2006,
+   "prop": {
+    "type": 3,
+    "value": 0.08
+   },
+   "asset_name": "Gift_15002",
+   "pre_id": "2005",
+   "cost": "10301,105",
+   "name": "Ring 2--6",
+   "name_th": "Ring 2--6"
+  },
+  "2007": {
+   "id": 2007,
+   "prop": {
+    "type": 3,
+    "value": 0.1
+   },
+   "asset_name": "Gift_15003",
+   "pre_id": "2006",
+   "cost": "10301,106",
+   "name": "Ring 2--7",
+   "name_th": "Ring 2--7"
+  },
+  "2008": {
+   "id": 2008,
+   "prop": {
+    "type": 3,
+    "value": 0.15
+   },
+   "asset_name": "Gift_15004",
+   "pre_id": "2007",
+   "cost": "10301,107",
+   "name": "Ring 2--8",
+   "name_th": "Ring 2--8"
+  },
+  "2009": {
+   "id": 2009,
+   "prop": {
+    "type": 3,
+    "value": 0.23
+   },
+   "asset_name": "Gift_15001",
+   "pre_id": "2008",
+   "cost": "10301,108",
+   "name": "Ring 2--9",
+   "name_th": "Ring 2--9"
+  },
+  "2010": {
+   "id": 2010,
+   "prop": {
+    "type": 3,
+    "value": 0.08
+   },
+   "asset_name": "Gift_15002",
+   "pre_id": "2009",
+   "cost": "10301,109",
+   "name": "Ring 2--10",
+   "name_th": "Ring 2--10"
+  },
+  "2011": {
+   "id": 2011,
+   "prop": {
+    "type": 3,
+    "value": 0.1
+   },
+   "asset_name": "Gift_15003",
+   "pre_id": "2010",
+   "cost": "10301,110",
+   "name": "Ring 2--11",
+   "name_th": "Ring 2--11"
+  },
+  "2012": {
+   "id": 2012,
+   "prop": {
+    "type": 3,
+    "value": 0.15
+   },
+   "asset_name": "Gift_15004",
+   "pre_id": "2011",
+   "cost": "10301,111",
+   "name": "Ring 2--12",
+   "name_th": "Ring 2--12"
+  },
+  "2013": {
+   "id": 2013,
+   "prop": {
+    "type": 3,
+    "value": 0.2
+   },
+   "asset_name": "Gift_15001",
+   "pre_id": "2012",
+   "cost": "10301,112",
+   "name": "Ring 2--13",
+   "name_th": "Ring 2--13"
+  },
+  "2014": {
+   "id": 2014,
+   "prop": {
+    "type": 3,
+    "value": 0.28
+   },
+   "asset_name": "Gift_15002",
+   "pre_id": "2013",
+   "cost": "10301,113",
+   "name": "Ring 2--14",
+   "name_th": "Ring 2--14"
+  },
+  "2015": {
+   "id": 2015,
+   "prop": {
+    "type": 16,
+    "value": 11.0
+   },
+   "asset_name": "Gift_15003",
+   "pre_id": "2014",
+   "cost": "10301,114",
+   "name": "Ring 2--15",
+   "name_th": "Ring 2--15"
+  },
+  "2016": {
+   "id": 2016,
+   "prop": {
+    "type": 16,
+    "value": 15.0
+   },
+   "asset_name": "Gift_15004",
+   "pre_id": "2015",
+   "cost": "10301,115",
+   "name": "Ring 2--16",
+   "name_th": "Ring 2--16"
+  },
+  "2017": {
+   "id": 2017,
+   "prop": {
+    "type": 16,
+    "value": 23.0
+   },
+   "asset_name": "Gift_15001",
+   "pre_id": "2016",
+   "cost": "10301,116",
+   "name": "Ring 2--17",
+   "name_th": "Ring 2--17"
+  },
+  "2018": {
+   "id": 2018,
+   "prop": {
+    "type": 16,
+    "value": 30.0
+   },
+   "asset_name": "Gift_15002",
+   "pre_id": "2017",
+   "cost": "10301,117",
+   "name": "Ring 2--18",
+   "name_th": "Ring 2--18"
+  },
+  "2019": {
+   "id": 2019,
+   "prop": {
+    "type": 16,
+    "value": 41.0
+   },
+   "asset_name": "Gift_15003",
+   "pre_id": "2018",
+   "cost": "10301,118",
+   "name": "Ring 2--19",
+   "name_th": "Ring 2--19"
+  },
+  "2020": {
+   "id": 2020,
+   "prop": {
+    "type": 16,
+    "value": 15.0
+   },
+   "asset_name": "Gift_15004",
+   "pre_id": "2019",
+   "cost": "10301,119",
+   "name": "Ring 2--20",
+   "name_th": "Ring 2--20"
+  },
+  "2021": {
+   "id": 2021,
+   "prop": {
+    "type": 16,
+    "value": 23.0
+   },
+   "asset_name": "Gift_15001",
+   "pre_id": "2020",
+   "cost": "10301,120",
+   "name": "Ring 2--21",
+   "name_th": "Ring 2--21"
+  },
+  "2022": {
+   "id": 2022,
+   "prop": {
+    "type": 16,
+    "value": 30.0
+   },
+   "asset_name": "Gift_15002",
+   "pre_id": "2021",
+   "cost": "10301,121",
+   "name": "Ring 2--22",
+   "name_th": "Ring 2--22"
+  },
+  "2023": {
+   "id": 2023,
+   "prop": {
+    "type": 16,
+    "value": 38.0
+   },
+   "asset_name": "Gift_15003",
+   "pre_id": "2022",
+   "cost": "10301,122",
+   "name": "Ring 2--23",
+   "name_th": "Ring 2--23"
+  },
+  "2024": {
+   "id": 2024,
+   "prop": {
+    "type": 8,
+    "value": 40.0
+   },
+   "asset_name": "Gift_15004",
+   "pre_id": "2023",
+   "cost": "10301,123",
+   "name": "Ring 2--24",
+   "name_th": "Ring 2--24"
+  },
+  "2025": {
+   "id": 2025,
+   "prop": {
+    "type": 8,
+    "value": 60.0
+   },
+   "asset_name": "Gift_15001",
+   "pre_id": "2024",
+   "cost": "10301,124",
+   "name": "Ring 2--25",
+   "name_th": "Ring 2--25"
+  },
+  "2026": {
+   "id": 2026,
+   "prop": {
+    "type": 8,
+    "value": 80.0
+   },
+   "asset_name": "Gift_15002",
+   "pre_id": "2025",
+   "cost": "10301,125",
+   "name": "Ring 2--26",
+   "name_th": "Ring 2--26"
+  },
+  "2027": {
+   "id": 2027,
+   "prop": {
+    "type": 8,
+    "value": 120.0
+   },
+   "asset_name": "Gift_15003",
+   "pre_id": "2026",
+   "cost": "10301,126",
+   "name": "Ring 2--27",
+   "name_th": "Ring 2--27"
+  },
+  "2028": {
+   "id": 2028,
+   "prop": {
+    "type": 8,
+    "value": 180.0
+   },
+   "asset_name": "Gift_15004",
+   "pre_id": "2027",
+   "cost": "10301,127",
+   "name": "Ring 2--28",
+   "name_th": "Ring 2--28"
+  },
+  "2029": {
+   "id": 2029,
+   "prop": {
+    "type": 8,
+    "value": 60.0
+   },
+   "asset_name": "Gift_15001",
+   "pre_id": "2028",
+   "cost": "10301,128",
+   "name": "Ring 2--29",
+   "name_th": "Ring 2--29"
+  },
+  "2030": {
+   "id": 2030,
+   "prop": {
+    "type": 8,
+    "value": 80.0
+   },
+   "asset_name": "Gift_15002",
+   "pre_id": "2029",
+   "cost": "10301,129",
+   "name": "Ring 2--30",
+   "name_th": "Ring 2--30"
+  },
+  "2031": {
+   "id": 2031,
+   "prop": {
+    "type": 8,
+    "value": 120.0
+   },
+   "asset_name": "Gift_15003",
+   "pre_id": "2030",
+   "cost": "10301,130",
+   "name": "Ring 2--31",
+   "name_th": "Ring 2--31"
+  },
+  "2032": {
+   "id": 2032,
+   "prop": {
+    "type": 8,
+    "value": 160.0
+   },
+   "asset_name": "Gift_15004",
+   "pre_id": "2031",
+   "cost": "10301,131",
+   "name": "Ring 2--32",
+   "name_th": "Ring 2--32"
+  },
+  "2033": {
+   "id": 2033,
+   "prop": {
+    "type": 8,
+    "value": 200.0
+   },
+   "asset_name": "Gift_15005",
+   "pre_id": "2032",
+   "cost": "10301,132",
+   "name": "Ring 2--33",
+   "name_th": "Ring 2--33"
+  },
+  "2034": {
+   "id": 2034,
+   "prop": {
+    "type": 8,
+    "value": 240.0
+   },
+   "asset_name": "Gift_15006",
+   "pre_id": "2033",
+   "cost": "10301,133",
+   "name": "Ring 2--34",
+   "name_th": "Ring 2--34"
+  },
+  "2035": {
+   "id": 2035,
+   "prop": {
+    "type": 8,
+    "value": 280.0
+   },
+   "asset_name": "Gift_15007",
+   "pre_id": "2034",
+   "cost": "10301,134",
+   "name": "Ring 2--35",
+   "name_th": "Ring 2--35"
+  },
+  "2036": {
+   "id": 2036,
+   "prop": {
+    "type": 8,
+    "value": 320.0
+   },
+   "asset_name": "Gift_15008",
+   "pre_id": "2035",
+   "cost": "10301,135",
+   "name": "Ring 2--36",
+   "name_th": "Ring 2--36"
+  },
+  "2037": {
+   "id": 2037,
+   "prop": {
+    "type": 8,
+    "value": 360.0
+   },
+   "asset_name": "Gift_15009",
+   "pre_id": "2036",
+   "cost": "10301,136",
+   "name": "Ring 2--37",
+   "name_th": "Ring 2--37"
+  },
+  "2038": {
+   "id": 2038,
+   "prop": {
+    "type": 8,
+    "value": 400.0
+   },
+   "asset_name": "Gift_15010",
+   "pre_id": "2037",
+   "cost": "10301,137",
+   "name": "Ring 2--38",
+   "name_th": "Ring 2--38"
+  },
+  "2039": {
+   "id": 2039,
+   "prop": {
+    "type": 8,
+    "value": 440.0
+   },
+   "asset_name": "Gift_15011",
+   "pre_id": "2038",
+   "cost": "10301,138",
+   "name": "Ring 2--39",
+   "name_th": "Ring 2--39"
+  },
+  "2040": {
+   "id": 2040,
+   "prop": {
+    "type": 8,
+    "value": 480.0
+   },
+   "asset_name": "Gift_15012",
+   "pre_id": "2039",
+   "cost": "10301,139",
+   "name": "Ring 2--40",
+   "name_th": "Ring 2--40"
+  },
+  "2041": {
+   "id": 2041,
+   "prop": {
+    "type": 8,
+    "value": 520.0
+   },
+   "asset_name": "Gift_15013",
+   "pre_id": "2040",
+   "cost": "10301,140",
+   "name": "Ring 2--41",
+   "name_th": "Ring 2--41"
+  },
+  "2042": {
+   "id": 2042,
+   "prop": {
+    "type": 8,
+    "value": 560.0
+   },
+   "asset_name": "Gift_15014",
+   "pre_id": "2041",
+   "cost": "10301,141",
+   "name": "Ring 2--42",
+   "name_th": "Ring 2--42"
+  },
+  "2043": {
+   "id": 2043,
+   "prop": {
+    "type": 8,
+    "value": 600.0
+   },
+   "asset_name": "Gift_15015",
+   "pre_id": "2042",
+   "cost": "10301,142",
+   "name": "Ring 2--43",
+   "name_th": "Ring 2--43"
+  },
+  "2044": {
+   "id": 2044,
+   "prop": {
+    "type": 8,
+    "value": 640.0
+   },
+   "asset_name": "Gift_15016",
+   "pre_id": "2043",
+   "cost": "10301,143",
+   "name": "Ring 2--44",
+   "name_th": "Ring 2--44"
+  },
+  "2045": {
+   "id": 2045,
+   "prop": {
+    "type": 8,
+    "value": 680.0
+   },
+   "asset_name": "Gift_15017",
+   "pre_id": "2044",
+   "cost": "10301,144",
+   "name": "Ring 2--45",
+   "name_th": "Ring 2--45"
+  },
+  "2046": {
+   "id": 2046,
+   "prop": {
+    "type": 8,
+    "value": 720.0
+   },
+   "asset_name": "Gift_15018",
+   "pre_id": "2045",
+   "cost": "10301,145",
+   "name": "Ring 2--46",
+   "name_th": "Ring 2--46"
+  },
+  "2047": {
+   "id": 2047,
+   "prop": {
+    "type": 8,
+    "value": 760.0
+   },
+   "asset_name": "Gift_15019",
+   "pre_id": "2046",
+   "cost": "10301,146",
+   "name": "Ring 2--47",
+   "name_th": "Ring 2--47"
+  },
+  "2048": {
+   "id": 2048,
+   "prop": {
+    "type": 8,
+    "value": 800.0
+   },
+   "asset_name": "Gift_15020",
+   "pre_id": "2047",
+   "cost": "10301,147",
+   "name": "Ring 2--48",
+   "name_th": "Ring 2--48"
+  },
+  "2049": {
+   "id": 2049,
+   "prop": {
+    "type": 8,
+    "value": 840.0
+   },
+   "asset_name": "Gift_15021",
+   "pre_id": "2048",
+   "cost": "10301,148",
+   "name": "Ring 2--49",
+   "name_th": "Ring 2--49"
+  },
+  "2050": {
+   "id": 2050,
+   "prop": {
+    "type": 8,
+    "value": 880.0
+   },
+   "asset_name": "Gift_15022",
+   "pre_id": "2049",
+   "cost": "10301,149",
+   "name": "Ring 2--50",
+   "name_th": "Ring 2--50"
+  },
+  "2051": {
+   "id": 2051,
+   "prop": {
+    "type": 8,
+    "value": 920.0
+   },
+   "asset_name": "Gift_15023",
+   "pre_id": "2050",
+   "cost": "10301,150",
+   "name": "Ring 2--51",
+   "name_th": "Ring 2--51"
+  },
+  "2052": {
+   "id": 2052,
+   "prop": {
+    "type": 8,
+    "value": 960.0
+   },
+   "asset_name": "Gift_15024",
+   "pre_id": "2051",
+   "cost": "10301,151",
+   "name": "Ring 2--52",
+   "name_th": "Ring 2--52"
+  },
+  "2053": {
+   "id": 2053,
+   "prop": {
+    "type": 8,
+    "value": 1000.0
+   },
+   "asset_name": "Gift_15025",
+   "pre_id": "2052",
+   "cost": "10301,152",
+   "name": "Ring 2--53",
+   "name_th": "Ring 2--53"
+  },
+  "3001": {
+   "id": 3001,
+   "prop": {
+    "type": 7,
+    "value": 0.05
+   },
+   "asset_name": "Gift_15001",
+   "pre_id": "",
+   "cost": "10301,100",
+   "name": "Ring 3--1",
+   "name_th": "Ring 3--1"
+  },
+  "3002": {
+   "id": 3002,
+   "prop": {
+    "type": 7,
+    "value": 0.08
+   },
+   "asset_name": "Gift_15002",
+   "pre_id": "3001",
+   "cost": "10301,101",
+   "name": "Ring 3--2",
+   "name_th": "Ring 3--2"
+  },
+  "3003": {
+   "id": 3003,
+   "prop": {
+    "type": 7,
+    "value": 0.1
+   },
+   "asset_name": "Gift_15003",
+   "pre_id": "3002",
+   "cost": "10301,102",
+   "name": "Ring 3--3",
+   "name_th": "Ring 3--3"
+  },
+  "3004": {
+   "id": 3004,
+   "prop": {
+    "type": 7,
+    "value": 0.15
+   },
+   "asset_name": "Gift_15004",
+   "pre_id": "3003,3002",
+   "cost": "10301,103",
+   "name": "Ring 3--4",
+   "name_th": "Ring 3--4"
+  },
+  "3005": {
+   "id": 3005,
+   "prop": {
+    "type": 3,
+    "value": 0.05
+   },
+   "asset_name": "Gift_15001",
+   "pre_id": "3004|3003",
+   "cost": "10301,104",
+   "name": "Ring 3--5",
+   "name_th": "Ring 3--5"
+  },
+  "3006": {
+   "id": 3006,
+   "prop": {
+    "type": 3,
+    "value": 0.08
+   },
+   "asset_name": "Gift_15002",
+   "pre_id": "3005",
+   "cost": "10301,105",
+   "name": "Ring 3--6",
+   "name_th": "Ring 3--6"
+  },
+  "3007": {
+   "id": 3007,
+   "prop": {
+    "type": 3,
+    "value": 0.1
+   },
+   "asset_name": "Gift_15003",
+   "pre_id": "3006",
+   "cost": "10301,106",
+   "name": "Ring 3--7",
+   "name_th": "Ring 3--7"
+  },
+  "3008": {
+   "id": 3008,
+   "prop": {
+    "type": 3,
+    "value": 0.15
+   },
+   "asset_name": "Gift_15004",
+   "pre_id": "3007",
+   "cost": "10301,107",
+   "name": "Ring 3--8",
+   "name_th": "Ring 3--8"
+  },
+  "3009": {
+   "id": 3009,
+   "prop": {
+    "type": 3,
+    "value": 0.23
+   },
+   "asset_name": "Gift_15001",
+   "pre_id": "3008",
+   "cost": "10301,108",
+   "name": "Ring 3--9",
+   "name_th": "Ring 3--9"
+  },
+  "3010": {
+   "id": 3010,
+   "prop": {
+    "type": 3,
+    "value": 0.08
+   },
+   "asset_name": "Gift_15002",
+   "pre_id": "3009",
+   "cost": "10301,109",
+   "name": "Ring 3--10",
+   "name_th": "Ring 3--10"
+  },
+  "3011": {
+   "id": 3011,
+   "prop": {
+    "type": 3,
+    "value": 0.1
+   },
+   "asset_name": "Gift_15003",
+   "pre_id": "3010",
+   "cost": "10301,110",
+   "name": "Ring 3--11",
+   "name_th": "Ring 3--11"
+  },
+  "3012": {
+   "id": 3012,
+   "prop": {
+    "type": 3,
+    "value": 0.15
+   },
+   "asset_name": "Gift_15004",
+   "pre_id": "3011",
+   "cost": "10301,111",
+   "name": "Ring 3--12",
+   "name_th": "Ring 3--12"
+  },
+  "3013": {
+   "id": 3013,
+   "prop": {
+    "type": 3,
+    "value": 0.2
+   },
+   "asset_name": "Gift_15001",
+   "pre_id": "3012",
+   "cost": "10301,112",
+   "name": "Ring 3--13",
+   "name_th": "Ring 3--13"
+  },
+  "3014": {
+   "id": 3014,
+   "prop": {
+    "type": 3,
+    "value": 0.28
+   },
+   "asset_name": "Gift_15002",
+   "pre_id": "3013",
+   "cost": "10301,113",
+   "name": "Ring 3--14",
+   "name_th": "Ring 3--14"
+  },
+  "3015": {
+   "id": 3015,
+   "prop": {
+    "type": 16,
+    "value": 11.0
+   },
+   "asset_name": "Gift_15003",
+   "pre_id": "3014",
+   "cost": "10301,114",
+   "name": "Ring 3--15",
+   "name_th": "Ring 3--15"
+  },
+  "3016": {
+   "id": 3016,
+   "prop": {
+    "type": 16,
+    "value": 15.0
+   },
+   "asset_name": "Gift_15004",
+   "pre_id": "3015",
+   "cost": "10301,115",
+   "name": "Ring 3--16",
+   "name_th": "Ring 3--16"
+  },
+  "3017": {
+   "id": 3017,
+   "prop": {
+    "type": 16,
+    "value": 23.0
+   },
+   "asset_name": "Gift_15001",
+   "pre_id": "3016",
+   "cost": "10301,116",
+   "name": "Ring 3--17",
+   "name_th": "Ring 3--17"
+  },
+  "3018": {
+   "id": 3018,
+   "prop": {
+    "type": 16,
+    "value": 30.0
+   },
+   "asset_name": "Gift_15002",
+   "pre_id": "3017",
+   "cost": "10301,117",
+   "name": "Ring 3--18",
+   "name_th": "Ring 3--18"
+  },
+  "3019": {
+   "id": 3019,
+   "prop": {
+    "type": 16,
+    "value": 41.0
+   },
+   "asset_name": "Gift_15003",
+   "pre_id": "3018",
+   "cost": "10301,118",
+   "name": "Ring 3--19",
+   "name_th": "Ring 3--19"
+  },
+  "3020": {
+   "id": 3020,
+   "prop": {
+    "type": 16,
+    "value": 15.0
+   },
+   "asset_name": "Gift_15004",
+   "pre_id": "3019",
+   "cost": "10301,119",
+   "name": "Ring 3--20",
+   "name_th": "Ring 3--20"
+  },
+  "3021": {
+   "id": 3021,
+   "prop": {
+    "type": 16,
+    "value": 23.0
+   },
+   "asset_name": "Gift_15001",
+   "pre_id": "3020",
+   "cost": "10301,120",
+   "name": "Ring 3--21",
+   "name_th": "Ring 3--21"
+  },
+  "3022": {
+   "id": 3022,
+   "prop": {
+    "type": 16,
+    "value": 30.0
+   },
+   "asset_name": "Gift_15002",
+   "pre_id": "3021",
+   "cost": "10301,121",
+   "name": "Ring 3--22",
+   "name_th": "Ring 3--22"
+  },
+  "3023": {
+   "id": 3023,
+   "prop": {
+    "type": 16,
+    "value": 38.0
+   },
+   "asset_name": "Gift_15003",
+   "pre_id": "3022",
+   "cost": "10301,122",
+   "name": "Ring 3--23",
+   "name_th": "Ring 3--23"
+  },
+  "3024": {
+   "id": 3024,
+   "prop": {
+    "type": 8,
+    "value": 40.0
+   },
+   "asset_name": "Gift_15004",
+   "pre_id": "3023",
+   "cost": "10301,123",
+   "name": "Ring 3--24",
+   "name_th": "Ring 3--24"
+  },
+  "3025": {
+   "id": 3025,
+   "prop": {
+    "type": 8,
+    "value": 60.0
+   },
+   "asset_name": "Gift_15001",
+   "pre_id": "3024",
+   "cost": "10301,124",
+   "name": "Ring 3--25",
+   "name_th": "Ring 3--25"
+  },
+  "3026": {
+   "id": 3026,
+   "prop": {
+    "type": 8,
+    "value": 80.0
+   },
+   "asset_name": "Gift_15002",
+   "pre_id": "3025",
+   "cost": "10301,125",
+   "name": "Ring 3--26",
+   "name_th": "Ring 3--26"
+  },
+  "3027": {
+   "id": 3027,
+   "prop": {
+    "type": 8,
+    "value": 120.0
+   },
+   "asset_name": "Gift_15003",
+   "pre_id": "3026",
+   "cost": "10301,126",
+   "name": "Ring 3--27",
+   "name_th": "Ring 3--27"
+  },
+  "3028": {
+   "id": 3028,
+   "prop": {
+    "type": 8,
+    "value": 180.0
+   },
+   "asset_name": "Gift_15004",
+   "pre_id": "3027",
+   "cost": "10301,127",
+   "name": "Ring 3--28",
+   "name_th": "Ring 3--28"
+  },
+  "3029": {
+   "id": 3029,
+   "prop": {
+    "type": 8,
+    "value": 60.0
+   },
+   "asset_name": "Gift_15001",
+   "pre_id": "3028",
+   "cost": "10301,128",
+   "name": "Ring 3--29",
+   "name_th": "Ring 3--29"
+  },
+  "3030": {
+   "id": 3030,
+   "prop": {
+    "type": 8,
+    "value": 80.0
+   },
+   "asset_name": "Gift_15002",
+   "pre_id": "3029",
+   "cost": "10301,129",
+   "name": "Ring 3--30",
+   "name_th": "Ring 3--30"
+  },
+  "3031": {
+   "id": 3031,
+   "prop": {
+    "type": 8,
+    "value": 120.0
+   },
+   "asset_name": "Gift_15003",
+   "pre_id": "3030",
+   "cost": "10301,130",
+   "name": "Ring 3--31",
+   "name_th": "Ring 3--31"
+  },
+  "3032": {
+   "id": 3032,
+   "prop": {
+    "type": 8,
+    "value": 60.0
+   },
+   "asset_name": "Gift_15004",
+   "pre_id": "3031",
+   "cost": "10301,131",
+   "name": "Ring 3--32",
+   "name_th": "Ring 3--32"
+  },
+  "3033": {
+   "id": 3033,
+   "prop": {
+    "type": 8,
+    "value": 80.0
+   },
+   "asset_name": "Gift_15005",
+   "pre_id": "3032",
+   "cost": "10301,132",
+   "name": "Ring 3--33",
+   "name_th": "Ring 3--33"
+  },
+  "3034": {
+   "id": 3034,
+   "prop": {
+    "type": 8,
+    "value": 120.0
+   },
+   "asset_name": "Gift_15006",
+   "pre_id": "3033",
+   "cost": "10301,133",
+   "name": "Ring 3--34",
+   "name_th": "Ring 3--34"
+  },
+  "3035": {
+   "id": 3035,
+   "prop": {
+    "type": 8,
+    "value": 60.0
+   },
+   "asset_name": "Gift_15007",
+   "pre_id": "3034",
+   "cost": "10301,134",
+   "name": "Ring 3--35",
+   "name_th": "Ring 3--35"
+  },
+  "3036": {
+   "id": 3036,
+   "prop": {
+    "type": 8,
+    "value": 80.0
+   },
+   "asset_name": "Gift_15008",
+   "pre_id": "3035",
+   "cost": "10301,135",
+   "name": "Ring 3--36",
+   "name_th": "Ring 3--36"
+  },
+  "3037": {
+   "id": 3037,
+   "prop": {
+    "type": 8,
+    "value": 120.0
+   },
+   "asset_name": "Gift_15009",
+   "pre_id": "3036",
+   "cost": "10301,136",
+   "name": "Ring 3--37",
+   "name_th": "Ring 3--37"
+  },
+  "3038": {
+   "id": 3038,
+   "prop": {
+    "type": 8,
+    "value": 60.0
+   },
+   "asset_name": "Gift_15010",
+   "pre_id": "3037",
+   "cost": "10301,137",
+   "name": "Ring 3--38",
+   "name_th": "Ring 3--38"
+  },
+  "3039": {
+   "id": 3039,
+   "prop": {
+    "type": 8,
+    "value": 80.0
+   },
+   "asset_name": "Gift_15011",
+   "pre_id": "3038",
+   "cost": "10301,138",
+   "name": "Ring 3--39",
+   "name_th": "Ring 3--39"
+  },
+  "3040": {
+   "id": 3040,
+   "prop": {
+    "type": 8,
+    "value": 120.0
+   },
+   "asset_name": "Gift_15012",
+   "pre_id": "3039",
+   "cost": "10301,139",
+   "name": "Ring 3--40",
+   "name_th": "Ring 3--40"
+  },
+  "3041": {
+   "id": 3041,
+   "prop": {
+    "type": 8,
+    "value": 60.0
+   },
+   "asset_name": "Gift_15013",
+   "pre_id": "3040",
+   "cost": "10301,140",
+   "name": "Ring 3--41",
+   "name_th": "Ring 3--41"
+  },
+  "3042": {
+   "id": 3042,
+   "prop": {
+    "type": 8,
+    "value": 80.0
+   },
+   "asset_name": "Gift_15014",
+   "pre_id": "3041",
+   "cost": "10301,141",
+   "name": "Ring 3--42",
+   "name_th": "Ring 3--42"
+  },
+  "3043": {
+   "id": 3043,
+   "prop": {
+    "type": 8,
+    "value": 120.0
+   },
+   "asset_name": "Gift_15015",
+   "pre_id": "3042",
+   "cost": "10301,142",
+   "name": "Ring 3--43",
+   "name_th": "Ring 3--43"
+  },
+  "3044": {
+   "id": 3044,
+   "prop": {
+    "type": 8,
+    "value": 60.0
+   },
+   "asset_name": "Gift_15016",
+   "pre_id": "3043",
+   "cost": "10301,143",
+   "name": "Ring 3--44",
+   "name_th": "Ring 3--44"
+  },
+  "3045": {
+   "id": 3045,
+   "prop": {
+    "type": 8,
+    "value": 80.0
+   },
+   "asset_name": "Gift_15017",
+   "pre_id": "3044",
+   "cost": "10301,144",
+   "name": "Ring 3--45",
+   "name_th": "Ring 3--45"
+  },
+  "3046": {
+   "id": 3046,
+   "prop": {
+    "type": 8,
+    "value": 120.0
+   },
+   "asset_name": "Gift_15018",
+   "pre_id": "3045",
+   "cost": "10301,145",
+   "name": "Ring 3--46",
+   "name_th": "Ring 3--46"
+  },
+  "3047": {
+   "id": 3047,
+   "prop": {
+    "type": 8,
+    "value": 60.0
+   },
+   "asset_name": "Gift_15019",
+   "pre_id": "3046",
+   "cost": "10301,146",
+   "name": "Ring 3--47",
+   "name_th": "Ring 3--47"
+  },
+  "3048": {
+   "id": 3048,
+   "prop": {
+    "type": 8,
+    "value": 80.0
+   },
+   "asset_name": "Gift_15020",
+   "pre_id": "3047",
+   "cost": "10301,147",
+   "name": "Ring 3--48",
+   "name_th": "Ring 3--48"
+  },
+  "3049": {
+   "id": 3049,
+   "prop": {
+    "type": 8,
+    "value": 120.0
+   },
+   "asset_name": "Gift_15021",
+   "pre_id": "3048",
+   "cost": "10301,148",
+   "name": "Ring 3--49",
+   "name_th": "Ring 3--49"
+  },
+  "3050": {
+   "id": 3050,
+   "prop": {
+    "type": 8,
+    "value": 60.0
+   },
+   "asset_name": "Gift_15022",
+   "pre_id": "3049",
+   "cost": "10301,149",
+   "name": "Ring 3--50",
+   "name_th": "Ring 3--50"
+  },
+  "3051": {
+   "id": 3051,
+   "prop": {
+    "type": 8,
+    "value": 80.0
+   },
+   "asset_name": "Gift_15023",
+   "pre_id": "3050",
+   "cost": "10301,150",
+   "name": "Ring 3--51",
+   "name_th": "Ring 3--51"
+  },
+  "3052": {
+   "id": 3052,
+   "prop": {
+    "type": 8,
+    "value": 120.0
+   },
+   "asset_name": "Gift_15024",
+   "pre_id": "3051",
+   "cost": "10301,151",
+   "name": "Ring 3--52",
+   "name_th": "Ring 3--52"
+  },
+  "3053": {
+   "id": 3053,
+   "prop": {
+    "type": 8,
+    "value": 60.0
+   },
+   "asset_name": "Gift_15025",
+   "pre_id": "3052",
+   "cost": "10301,152",
+   "name": "Ring 3--53",
+   "name_th": "Ring 3--53"
+  }
+ },
+ "text_chunk": "00163_875fcc8bb63df794.json"
+}

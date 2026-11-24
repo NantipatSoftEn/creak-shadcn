@@ -1,0 +1,59 @@
+{
+ "config": "arena_bet_team_name",
+ "fields": [
+  "id",
+  "ornament_id",
+  "name"
+ ],
+ "rows": [
+  {
+   "id": 1,
+   "ornament_id": 14010,
+   "name": "Oneiric Box",
+   "name_th": "กล่องดั่งความฝัน"
+  },
+  {
+   "id": 2,
+   "ornament_id": 14011,
+   "name": "Heroic Box",
+   "name_th": "กล่อง Hero"
+  },
+  {
+   "id": 3,
+   "ornament_id": 14012,
+   "name": "Clouded Dreams",
+   "name_th": "ความฝันเลือนราง"
+  },
+  {
+   "id": 4,
+   "ornament_id": 14013,
+   "name": "Gilded Radiance",
+   "name_th": "Gilded Radiance"
+  },
+  {
+   "id": 5,
+   "ornament_id": 14014,
+   "name": "Phantom Parade",
+   "name_th": "พาเหรดมายา"
+  },
+  {
+   "id": 6,
+   "ornament_id": 14015,
+   "name": "Wishweaver",
+   "name_th": "Belldream"
+  },
+  {
+   "id": 7,
+   "ornament_id": 14016,
+   "name": "Vintage Mystery I",
+   "name_th": "Vintage Mystery I"
+  },
+  {
+   "id": 8,
+   "ornament_id": 14017,
+   "name": "Vintage Mystery II",
+   "name_th": "Vintage Mystery II"
+  }
+ ],
+ "text_chunk": "00003_deefdaa0c97517f3.json"
+}

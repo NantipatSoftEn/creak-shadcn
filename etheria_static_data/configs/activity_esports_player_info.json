@@ -1,0 +1,60 @@
+{
+ "config": "activity_esports_player_info",
+ "fields": [
+  "id",
+  "name",
+  "country",
+  "image"
+ ],
+ "rows": [
+  {
+   "id": 1,
+   "name": "PLAYER1",
+   "country": "CHINA",
+   "image": "T_UI_Activity_Esports_Player_01"
+  },
+  {
+   "id": 2,
+   "name": "PLAYER2",
+   "country": "CHINA",
+   "image": "T_UI_Activity_Esports_Player_02"
+  },
+  {
+   "id": 3,
+   "name": "PLAYER3",
+   "country": "CHINA",
+   "image": "T_UI_Activity_Esports_Player_03"
+  },
+  {
+   "id": 4,
+   "name": "PLAYER4",
+   "country": "CHINA",
+   "image": "T_UI_Activity_Esports_Player_04"
+  },
+  {
+   "id": 5,
+   "name": "PLAYER5",
+   "country": "USA",
+   "image": "T_UI_Activity_Esports_Player_05"
+  },
+  {
+   "id": 6,
+   "name": "PLAYER6",
+   "country": "JP",
+   "image": "T_UI_Activity_Esports_Player_06"
+  },
+  {
+   "id": 7,
+   "name": "PLAYER7",
+   "country": "KR",
+   "image": "T_UI_Activity_Esports_Player_07"
+  },
+  {
+   "id": 8,
+   "name": "PLAYER8",
+   "country": "CHINA",
+   "image": "T_UI_Activity_Esports_Player_08"
+  }
+ ],
+ "text_chunk": null
+}

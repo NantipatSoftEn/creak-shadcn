@@ -1,0 +1,2014 @@
+{
+ "config": "afk_chest",
+ "fields": [
+  "id",
+  "level",
+  "quality",
+  "loot",
+  "exchange_points",
+  "group"
+ ],
+ "rows": {
+  "52101": {
+   "id": 52101,
+   "level": 1,
+   "quality": 4,
+   "loot": 80501,
+   "exchange_points": 10000,
+   "group": 1
+  },
+  "52102": {
+   "id": 52102,
+   "level": 2,
+   "quality": 4,
+   "loot": 80502,
+   "exchange_points": 10000,
+   "group": 1
+  },
+  "52103": {
+   "id": 52103,
+   "level": 3,
+   "quality": 4,
+   "loot": 80503,
+   "exchange_points": 10000,
+   "group": 1
+  },
+  "52104": {
+   "id": 52104,
+   "level": 4,
+   "quality": 4,
+   "loot": 80504,
+   "exchange_points": 10000,
+   "group": 1
+  },
+  "52105": {
+   "id": 52105,
+   "level": 5,
+   "quality": 4,
+   "loot": 80505,
+   "exchange_points": 10000,
+   "group": 1
+  },
+  "52106": {
+   "id": 52106,
+   "level": 6,
+   "quality": 4,
+   "loot": 80506,
+   "exchange_points": 10000,
+   "group": 1
+  },
+  "52107": {
+   "id": 52107,
+   "level": 7,
+   "quality": 4,
+   "loot": 80507,
+   "exchange_points": 10000,
+   "group": 1
+  },
+  "52108": {
+   "id": 52108,
+   "level": 8,
+   "quality": 4,
+   "loot": 80508,
+   "exchange_points": 10000,
+   "group": 1
+  },
+  "52109": {
+   "id": 52109,
+   "level": 9,
+   "quality": 4,
+   "loot": 80509,
+   "exchange_points": 10000,
+   "group": 1
+  },
+  "52110": {
+   "id": 52110,
+   "level": 10,
+   "quality": 4,
+   "loot": 80510,
+   "exchange_points": 10000,
+   "group": 1
+  },
+  "52111": {
+   "id": 52111,
+   "level": 11,
+   "quality": 4,
+   "loot": 80511,
+   "exchange_points": 10000,
+   "group": 1
+  },
+  "52112": {
+   "id": 52112,
+   "level": 12,
+   "quality": 4,
+   "loot": 80512,
+   "exchange_points": 10000,
+   "group": 1
+  },
+  "52113": {
+   "id": 52113,
+   "level": 13,
+   "quality": 4,
+   "loot": 80513,
+   "exchange_points": 10000,
+   "group": 1
+  },
+  "52114": {
+   "id": 52114,
+   "level": 14,
+   "quality": 4,
+   "loot": 80514,
+   "exchange_points": 10000,
+   "group": 1
+  },
+  "52115": {
+   "id": 52115,
+   "level": 15,
+   "quality": 4,
+   "loot": 80515,
+   "exchange_points": 10000,
+   "group": 1
+  },
+  "52116": {
+   "id": 52116,
+   "level": 16,
+   "quality": 4,
+   "loot": 80516,
+   "exchange_points": 10000,
+   "group": 1
+  },
+  "52117": {
+   "id": 52117,
+   "level": 17,
+   "quality": 4,
+   "loot": 80517,
+   "exchange_points": 10000,
+   "group": 1
+  },
+  "52118": {
+   "id": 52118,
+   "level": 18,
+   "quality": 4,
+   "loot": 80518,
+   "exchange_points": 10000,
+   "group": 1
+  },
+  "52119": {
+   "id": 52119,
+   "level": 19,
+   "quality": 4,
+   "loot": 80519,
+   "exchange_points": 10000,
+   "group": 1
+  },
+  "52120": {
+   "id": 52120,
+   "level": 20,
+   "quality": 4,
+   "loot": 80520,
+   "exchange_points": 10000,
+   "group": 1
+  },
+  "52121": {
+   "id": 52121,
+   "level": 21,
+   "quality": 4,
+   "loot": 80521,
+   "exchange_points": 10000,
+   "group": 1
+  },
+  "52122": {
+   "id": 52122,
+   "level": 22,
+   "quality": 4,
+   "loot": 80522,
+   "exchange_points": 10000,
+   "group": 1
+  },
+  "52123": {
+   "id": 52123,
+   "level": 23,
+   "quality": 4,
+   "loot": 80523,
+   "exchange_points": 10000,
+   "group": 1
+  },
+  "52124": {
+   "id": 52124,
+   "level": 24,
+   "quality": 4,
+   "loot": 80524,
+   "exchange_points": 10000,
+   "group": 1
+  },
+  "52125": {
+   "id": 52125,
+   "level": 25,
+   "quality": 4,
+   "loot": 80525,
+   "exchange_points": 10000,
+   "group": 1
+  },
+  "52126": {
+   "id": 52126,
+   "level": 26,
+   "quality": 4,
+   "loot": 80526,
+   "exchange_points": 10000,
+   "group": 1
+  },
+  "52127": {
+   "id": 52127,
+   "level": 27,
+   "quality": 4,
+   "loot": 80527,
+   "exchange_points": 10000,
+   "group": 1
+  },
+  "52128": {
+   "id": 52128,
+   "level": 28,
+   "quality": 4,
+   "loot": 80528,
+   "exchange_points": 10000,
+   "group": 1
+  },
+  "52129": {
+   "id": 52129,
+   "level": 29,
+   "quality": 4,
+   "loot": 80529,
+   "exchange_points": 10000,
+   "group": 1
+  },
+  "52130": {
+   "id": 52130,
+   "level": 30,
+   "quality": 4,
+   "loot": 80530,
+   "exchange_points": 10000,
+   "group": 1
+  },
+  "52131": {
+   "id": 52131,
+   "level": 31,
+   "quality": 4,
+   "loot": 80531,
+   "exchange_points": 10000,
+   "group": 1
+  },
+  "52132": {
+   "id": 52132,
+   "level": 32,
+   "quality": 4,
+   "loot": 80532,
+   "exchange_points": 10000,
+   "group": 1
+  },
+  "52133": {
+   "id": 52133,
+   "level": 33,
+   "quality": 4,
+   "loot": 80533,
+   "exchange_points": 10000,
+   "group": 1
+  },
+  "52134": {
+   "id": 52134,
+   "level": 34,
+   "quality": 4,
+   "loot": 80534,
+   "exchange_points": 10000,
+   "group": 1
+  },
+  "52135": {
+   "id": 52135,
+   "level": 35,
+   "quality": 4,
+   "loot": 80535,
+   "exchange_points": 10000,
+   "group": 1
+  },
+  "52136": {
+   "id": 52136,
+   "level": 36,
+   "quality": 4,
+   "loot": 80536,
+   "exchange_points": 10000,
+   "group": 1
+  },
+  "52137": {
+   "id": 52137,
+   "level": 37,
+   "quality": 4,
+   "loot": 80537,
+   "exchange_points": 10000,
+   "group": 1
+  },
+  "52138": {
+   "id": 52138,
+   "level": 38,
+   "quality": 4,
+   "loot": 80538,
+   "exchange_points": 10000,
+   "group": 1
+  },
+  "52139": {
+   "id": 52139,
+   "level": 39,
+   "quality": 4,
+   "loot": 80539,
+   "exchange_points": 10000,
+   "group": 1
+  },
+  "52140": {
+   "id": 52140,
+   "level": 40,
+   "quality": 4,
+   "loot": 80540,
+   "exchange_points": 10000,
+   "group": 1
+  },
+  "52141": {
+   "id": 52141,
+   "level": 41,
+   "quality": 4,
+   "loot": 80541,
+   "exchange_points": 10000,
+   "group": 1
+  },
+  "52142": {
+   "id": 52142,
+   "level": 42,
+   "quality": 4,
+   "loot": 80542,
+   "exchange_points": 10000,
+   "group": 1
+  },
+  "52143": {
+   "id": 52143,
+   "level": 43,
+   "quality": 4,
+   "loot": 80543,
+   "exchange_points": 10000,
+   "group": 1
+  },
+  "52144": {
+   "id": 52144,
+   "level": 44,
+   "quality": 4,
+   "loot": 80544,
+   "exchange_points": 10000,
+   "group": 1
+  },
+  "52145": {
+   "id": 52145,
+   "level": 45,
+   "quality": 4,
+   "loot": 80545,
+   "exchange_points": 10000,
+   "group": 1
+  },
+  "52146": {
+   "id": 52146,
+   "level": 46,
+   "quality": 4,
+   "loot": 80546,
+   "exchange_points": 10000,
+   "group": 1
+  },
+  "52147": {
+   "id": 52147,
+   "level": 47,
+   "quality": 4,
+   "loot": 80547,
+   "exchange_points": 10000,
+   "group": 1
+  },
+  "52148": {
+   "id": 52148,
+   "level": 48,
+   "quality": 4,
+   "loot": 80548,
+   "exchange_points": 10000,
+   "group": 1
+  },
+  "52149": {
+   "id": 52149,
+   "level": 49,
+   "quality": 4,
+   "loot": 80549,
+   "exchange_points": 10000,
+   "group": 1
+  },
+  "52150": {
+   "id": 52150,
+   "level": 50,
+   "quality": 4,
+   "loot": 80550,
+   "exchange_points": 10000,
+   "group": 1
+  },
+  "53101": {
+   "id": 53101,
+   "level": 1,
+   "quality": 2,
+   "loot": 81011,
+   "exchange_points": 100,
+   "group": 1
+  },
+  "53102": {
+   "id": 53102,
+   "level": 1,
+   "quality": 3,
+   "loot": 81012,
+   "exchange_points": 200,
+   "group": 1
+  },
+  "53103": {
+   "id": 53103,
+   "level": 1,
+   "quality": 4,
+   "loot": 81013,
+   "exchange_points": 300,
+   "group": 1
+  },
+  "53104": {
+   "id": 53104,
+   "level": 1,
+   "quality": 6,
+   "loot": 81014,
+   "exchange_points": 400,
+   "group": 1
+  },
+  "53105": {
+   "id": 53105,
+   "level": 2,
+   "quality": 2,
+   "loot": 81021,
+   "exchange_points": 200,
+   "group": 2
+  },
+  "53106": {
+   "id": 53106,
+   "level": 2,
+   "quality": 3,
+   "loot": 81022,
+   "exchange_points": 400,
+   "group": 2
+  },
+  "53107": {
+   "id": 53107,
+   "level": 2,
+   "quality": 4,
+   "loot": 81023,
+   "exchange_points": 600,
+   "group": 2
+  },
+  "53108": {
+   "id": 53108,
+   "level": 2,
+   "quality": 6,
+   "loot": 81024,
+   "exchange_points": 800,
+   "group": 2
+  },
+  "53109": {
+   "id": 53109,
+   "level": 3,
+   "quality": 2,
+   "loot": 81031,
+   "exchange_points": 300,
+   "group": 3
+  },
+  "53110": {
+   "id": 53110,
+   "level": 3,
+   "quality": 3,
+   "loot": 81032,
+   "exchange_points": 600,
+   "group": 3
+  },
+  "53111": {
+   "id": 53111,
+   "level": 3,
+   "quality": 4,
+   "loot": 81033,
+   "exchange_points": 900,
+   "group": 3
+  },
+  "53112": {
+   "id": 53112,
+   "level": 3,
+   "quality": 6,
+   "loot": 81034,
+   "exchange_points": 1200,
+   "group": 3
+  },
+  "53113": {
+   "id": 53113,
+   "level": 4,
+   "quality": 2,
+   "loot": 81041,
+   "exchange_points": 1500,
+   "group": 4
+  },
+  "53114": {
+   "id": 53114,
+   "level": 4,
+   "quality": 3,
+   "loot": 81042,
+   "exchange_points": 1800,
+   "group": 4
+  },
+  "53115": {
+   "id": 53115,
+   "level": 4,
+   "quality": 4,
+   "loot": 81043,
+   "exchange_points": 2100,
+   "group": 4
+  },
+  "53116": {
+   "id": 53116,
+   "level": 4,
+   "quality": 6,
+   "loot": 81044,
+   "exchange_points": 2400,
+   "group": 4
+  },
+  "53117": {
+   "id": 53117,
+   "level": 5,
+   "quality": 2,
+   "loot": 81051,
+   "exchange_points": 2700,
+   "group": 5
+  },
+  "53118": {
+   "id": 53118,
+   "level": 5,
+   "quality": 3,
+   "loot": 81052,
+   "exchange_points": 3000,
+   "group": 5
+  },
+  "53119": {
+   "id": 53119,
+   "level": 5,
+   "quality": 4,
+   "loot": 81053,
+   "exchange_points": 3300,
+   "group": 5
+  },
+  "53120": {
+   "id": 53120,
+   "level": 5,
+   "quality": 6,
+   "loot": 81054,
+   "exchange_points": 3600,
+   "group": 5
+  },
+  "53121": {
+   "id": 53121,
+   "level": 6,
+   "quality": 2,
+   "loot": 81061,
+   "exchange_points": 3900,
+   "group": 6
+  },
+  "53122": {
+   "id": 53122,
+   "level": 6,
+   "quality": 3,
+   "loot": 81062,
+   "exchange_points": 4200,
+   "group": 6
+  },
+  "53123": {
+   "id": 53123,
+   "level": 6,
+   "quality": 4,
+   "loot": 81063,
+   "exchange_points": 4500,
+   "group": 6
+  },
+  "53124": {
+   "id": 53124,
+   "level": 6,
+   "quality": 6,
+   "loot": 81064,
+   "exchange_points": 4800,
+   "group": 6
+  },
+  "53125": {
+   "id": 53125,
+   "level": 7,
+   "quality": 2,
+   "loot": 81071,
+   "exchange_points": 5100,
+   "group": 7
+  },
+  "53126": {
+   "id": 53126,
+   "level": 7,
+   "quality": 3,
+   "loot": 81072,
+   "exchange_points": 5400,
+   "group": 7
+  },
+  "53127": {
+   "id": 53127,
+   "level": 7,
+   "quality": 4,
+   "loot": 81073,
+   "exchange_points": 5700,
+   "group": 7
+  },
+  "53128": {
+   "id": 53128,
+   "level": 7,
+   "quality": 6,
+   "loot": 81074,
+   "exchange_points": 6000,
+   "group": 7
+  },
+  "53129": {
+   "id": 53129,
+   "level": 8,
+   "quality": 2,
+   "loot": 81081,
+   "exchange_points": 6300,
+   "group": 8
+  },
+  "53130": {
+   "id": 53130,
+   "level": 8,
+   "quality": 3,
+   "loot": 81082,
+   "exchange_points": 6600,
+   "group": 8
+  },
+  "53131": {
+   "id": 53131,
+   "level": 8,
+   "quality": 4,
+   "loot": 81083,
+   "exchange_points": 6900,
+   "group": 8
+  },
+  "53132": {
+   "id": 53132,
+   "level": 8,
+   "quality": 6,
+   "loot": 81084,
+   "exchange_points": 7200,
+   "group": 8
+  },
+  "53133": {
+   "id": 53133,
+   "level": 9,
+   "quality": 2,
+   "loot": 81091,
+   "exchange_points": 7500,
+   "group": 9
+  },
+  "53134": {
+   "id": 53134,
+   "level": 9,
+   "quality": 3,
+   "loot": 81092,
+   "exchange_points": 7800,
+   "group": 9
+  },
+  "53135": {
+   "id": 53135,
+   "level": 9,
+   "quality": 4,
+   "loot": 81093,
+   "exchange_points": 8100,
+   "group": 9
+  },
+  "53136": {
+   "id": 53136,
+   "level": 9,
+   "quality": 6,
+   "loot": 81094,
+   "exchange_points": 8400,
+   "group": 9
+  },
+  "53137": {
+   "id": 53137,
+   "level": 10,
+   "quality": 2,
+   "loot": 81101,
+   "exchange_points": 8700,
+   "group": 10
+  },
+  "53138": {
+   "id": 53138,
+   "level": 10,
+   "quality": 3,
+   "loot": 81102,
+   "exchange_points": 9000,
+   "group": 10
+  },
+  "53139": {
+   "id": 53139,
+   "level": 10,
+   "quality": 4,
+   "loot": 81103,
+   "exchange_points": 9300,
+   "group": 10
+  },
+  "53140": {
+   "id": 53140,
+   "level": 10,
+   "quality": 6,
+   "loot": 81104,
+   "exchange_points": 9600,
+   "group": 10
+  },
+  "53141": {
+   "id": 53141,
+   "level": 11,
+   "quality": 2,
+   "loot": 81111,
+   "exchange_points": 9900,
+   "group": 11
+  },
+  "53142": {
+   "id": 53142,
+   "level": 11,
+   "quality": 3,
+   "loot": 81112,
+   "exchange_points": 10200,
+   "group": 11
+  },
+  "53143": {
+   "id": 53143,
+   "level": 11,
+   "quality": 4,
+   "loot": 81113,
+   "exchange_points": 10500,
+   "group": 11
+  },
+  "53144": {
+   "id": 53144,
+   "level": 11,
+   "quality": 6,
+   "loot": 81114,
+   "exchange_points": 10800,
+   "group": 11
+  },
+  "53145": {
+   "id": 53145,
+   "level": 12,
+   "quality": 2,
+   "loot": 81121,
+   "exchange_points": 11100,
+   "group": 12
+  },
+  "53146": {
+   "id": 53146,
+   "level": 12,
+   "quality": 3,
+   "loot": 81122,
+   "exchange_points": 11400,
+   "group": 12
+  },
+  "53147": {
+   "id": 53147,
+   "level": 12,
+   "quality": 4,
+   "loot": 81123,
+   "exchange_points": 11700,
+   "group": 12
+  },
+  "53148": {
+   "id": 53148,
+   "level": 12,
+   "quality": 6,
+   "loot": 81124,
+   "exchange_points": 12000,
+   "group": 12
+  },
+  "53149": {
+   "id": 53149,
+   "level": 13,
+   "quality": 2,
+   "loot": 81131,
+   "exchange_points": 12300,
+   "group": 13
+  },
+  "53150": {
+   "id": 53150,
+   "level": 13,
+   "quality": 3,
+   "loot": 81132,
+   "exchange_points": 12600,
+   "group": 13
+  },
+  "53151": {
+   "id": 53151,
+   "level": 13,
+   "quality": 4,
+   "loot": 81133,
+   "exchange_points": 12900,
+   "group": 13
+  },
+  "53152": {
+   "id": 53152,
+   "level": 13,
+   "quality": 6,
+   "loot": 81134,
+   "exchange_points": 13200,
+   "group": 13
+  },
+  "53153": {
+   "id": 53153,
+   "level": 14,
+   "quality": 2,
+   "loot": 81141,
+   "exchange_points": 13500,
+   "group": 14
+  },
+  "53154": {
+   "id": 53154,
+   "level": 14,
+   "quality": 3,
+   "loot": 81142,
+   "exchange_points": 13800,
+   "group": 14
+  },
+  "53155": {
+   "id": 53155,
+   "level": 14,
+   "quality": 4,
+   "loot": 81143,
+   "exchange_points": 14100,
+   "group": 14
+  },
+  "53156": {
+   "id": 53156,
+   "level": 14,
+   "quality": 6,
+   "loot": 81144,
+   "exchange_points": 14400,
+   "group": 14
+  },
+  "53157": {
+   "id": 53157,
+   "level": 15,
+   "quality": 2,
+   "loot": 81151,
+   "exchange_points": 14700,
+   "group": 15
+  },
+  "53158": {
+   "id": 53158,
+   "level": 15,
+   "quality": 3,
+   "loot": 81152,
+   "exchange_points": 15000,
+   "group": 15
+  },
+  "53159": {
+   "id": 53159,
+   "level": 15,
+   "quality": 4,
+   "loot": 81153,
+   "exchange_points": 15300,
+   "group": 15
+  },
+  "53160": {
+   "id": 53160,
+   "level": 15,
+   "quality": 6,
+   "loot": 81154,
+   "exchange_points": 15600,
+   "group": 15
+  },
+  "53161": {
+   "id": 53161,
+   "level": 16,
+   "quality": 2,
+   "loot": 81161,
+   "exchange_points": 15900,
+   "group": 16
+  },
+  "53162": {
+   "id": 53162,
+   "level": 16,
+   "quality": 3,
+   "loot": 81162,
+   "exchange_points": 16200,
+   "group": 16
+  },
+  "53163": {
+   "id": 53163,
+   "level": 16,
+   "quality": 4,
+   "loot": 81163,
+   "exchange_points": 16500,
+   "group": 16
+  },
+  "53164": {
+   "id": 53164,
+   "level": 16,
+   "quality": 6,
+   "loot": 81164,
+   "exchange_points": 16800,
+   "group": 16
+  },
+  "53165": {
+   "id": 53165,
+   "level": 17,
+   "quality": 2,
+   "loot": 81171,
+   "exchange_points": 17100,
+   "group": 17
+  },
+  "53166": {
+   "id": 53166,
+   "level": 17,
+   "quality": 3,
+   "loot": 81172,
+   "exchange_points": 17400,
+   "group": 17
+  },
+  "53167": {
+   "id": 53167,
+   "level": 17,
+   "quality": 4,
+   "loot": 81173,
+   "exchange_points": 17700,
+   "group": 17
+  },
+  "53168": {
+   "id": 53168,
+   "level": 17,
+   "quality": 6,
+   "loot": 81174,
+   "exchange_points": 18000,
+   "group": 17
+  },
+  "53169": {
+   "id": 53169,
+   "level": 18,
+   "quality": 2,
+   "loot": 81181,
+   "exchange_points": 18300,
+   "group": 18
+  },
+  "53170": {
+   "id": 53170,
+   "level": 18,
+   "quality": 3,
+   "loot": 81182,
+   "exchange_points": 18600,
+   "group": 18
+  },
+  "53171": {
+   "id": 53171,
+   "level": 18,
+   "quality": 4,
+   "loot": 81183,
+   "exchange_points": 18900,
+   "group": 18
+  },
+  "53172": {
+   "id": 53172,
+   "level": 18,
+   "quality": 6,
+   "loot": 81184,
+   "exchange_points": 19200,
+   "group": 18
+  },
+  "53173": {
+   "id": 53173,
+   "level": 19,
+   "quality": 2,
+   "loot": 81191,
+   "exchange_points": 19500,
+   "group": 19
+  },
+  "53174": {
+   "id": 53174,
+   "level": 19,
+   "quality": 3,
+   "loot": 81192,
+   "exchange_points": 19800,
+   "group": 19
+  },
+  "53175": {
+   "id": 53175,
+   "level": 19,
+   "quality": 4,
+   "loot": 81193,
+   "exchange_points": 20100,
+   "group": 19
+  },
+  "53176": {
+   "id": 53176,
+   "level": 19,
+   "quality": 6,
+   "loot": 81194,
+   "exchange_points": 20400,
+   "group": 19
+  },
+  "53177": {
+   "id": 53177,
+   "level": 20,
+   "quality": 2,
+   "loot": 81201,
+   "exchange_points": 20700,
+   "group": 20
+  },
+  "53178": {
+   "id": 53178,
+   "level": 20,
+   "quality": 3,
+   "loot": 81202,
+   "exchange_points": 21000,
+   "group": 20
+  },
+  "53179": {
+   "id": 53179,
+   "level": 20,
+   "quality": 4,
+   "loot": 81203,
+   "exchange_points": 21300,
+   "group": 20
+  },
+  "53180": {
+   "id": 53180,
+   "level": 20,
+   "quality": 6,
+   "loot": 81204,
+   "exchange_points": 21600,
+   "group": 20
+  },
+  "53181": {
+   "id": 53181,
+   "level": 21,
+   "quality": 2,
+   "loot": 81211,
+   "exchange_points": 21900,
+   "group": 21
+  },
+  "53182": {
+   "id": 53182,
+   "level": 21,
+   "quality": 3,
+   "loot": 81212,
+   "exchange_points": 22200,
+   "group": 21
+  },
+  "53183": {
+   "id": 53183,
+   "level": 21,
+   "quality": 4,
+   "loot": 81213,
+   "exchange_points": 22500,
+   "group": 21
+  },
+  "53184": {
+   "id": 53184,
+   "level": 21,
+   "quality": 6,
+   "loot": 81214,
+   "exchange_points": 22800,
+   "group": 21
+  },
+  "53185": {
+   "id": 53185,
+   "level": 22,
+   "quality": 2,
+   "loot": 81221,
+   "exchange_points": 23100,
+   "group": 22
+  },
+  "53186": {
+   "id": 53186,
+   "level": 22,
+   "quality": 3,
+   "loot": 81222,
+   "exchange_points": 23400,
+   "group": 22
+  },
+  "53187": {
+   "id": 53187,
+   "level": 22,
+   "quality": 4,
+   "loot": 81223,
+   "exchange_points": 23700,
+   "group": 22
+  },
+  "53188": {
+   "id": 53188,
+   "level": 22,
+   "quality": 6,
+   "loot": 81224,
+   "exchange_points": 24000,
+   "group": 22
+  },
+  "53189": {
+   "id": 53189,
+   "level": 23,
+   "quality": 2,
+   "loot": 81231,
+   "exchange_points": 24300,
+   "group": 23
+  },
+  "53190": {
+   "id": 53190,
+   "level": 23,
+   "quality": 3,
+   "loot": 81232,
+   "exchange_points": 24600,
+   "group": 23
+  },
+  "53191": {
+   "id": 53191,
+   "level": 23,
+   "quality": 4,
+   "loot": 81233,
+   "exchange_points": 24900,
+   "group": 23
+  },
+  "53192": {
+   "id": 53192,
+   "level": 23,
+   "quality": 6,
+   "loot": 81234,
+   "exchange_points": 25200,
+   "group": 23
+  },
+  "53193": {
+   "id": 53193,
+   "level": 24,
+   "quality": 2,
+   "loot": 81241,
+   "exchange_points": 25500,
+   "group": 24
+  },
+  "53194": {
+   "id": 53194,
+   "level": 24,
+   "quality": 3,
+   "loot": 81242,
+   "exchange_points": 25800,
+   "group": 24
+  },
+  "53195": {
+   "id": 53195,
+   "level": 24,
+   "quality": 4,
+   "loot": 81243,
+   "exchange_points": 26100,
+   "group": 24
+  },
+  "53196": {
+   "id": 53196,
+   "level": 24,
+   "quality": 6,
+   "loot": 81244,
+   "exchange_points": 26400,
+   "group": 24
+  },
+  "53197": {
+   "id": 53197,
+   "level": 25,
+   "quality": 2,
+   "loot": 81251,
+   "exchange_points": 26700,
+   "group": 25
+  },
+  "53198": {
+   "id": 53198,
+   "level": 25,
+   "quality": 3,
+   "loot": 81252,
+   "exchange_points": 27000,
+   "group": 25
+  },
+  "53199": {
+   "id": 53199,
+   "level": 25,
+   "quality": 4,
+   "loot": 81253,
+   "exchange_points": 27300,
+   "group": 25
+  },
+  "53200": {
+   "id": 53200,
+   "level": 25,
+   "quality": 6,
+   "loot": 81254,
+   "exchange_points": 27600,
+   "group": 25
+  },
+  "53201": {
+   "id": 53201,
+   "level": 26,
+   "quality": 2,
+   "loot": 81261,
+   "exchange_points": 27900,
+   "group": 26
+  },
+  "53202": {
+   "id": 53202,
+   "level": 26,
+   "quality": 3,
+   "loot": 81262,
+   "exchange_points": 28200,
+   "group": 26
+  },
+  "53203": {
+   "id": 53203,
+   "level": 26,
+   "quality": 4,
+   "loot": 81263,
+   "exchange_points": 28500,
+   "group": 26
+  },
+  "53204": {
+   "id": 53204,
+   "level": 26,
+   "quality": 6,
+   "loot": 81264,
+   "exchange_points": 28800,
+   "group": 26
+  },
+  "53205": {
+   "id": 53205,
+   "level": 27,
+   "quality": 2,
+   "loot": 81271,
+   "exchange_points": 29100,
+   "group": 27
+  },
+  "53206": {
+   "id": 53206,
+   "level": 27,
+   "quality": 3,
+   "loot": 81272,
+   "exchange_points": 29400,
+   "group": 27
+  },
+  "53207": {
+   "id": 53207,
+   "level": 27,
+   "quality": 4,
+   "loot": 81273,
+   "exchange_points": 29700,
+   "group": 27
+  },
+  "53208": {
+   "id": 53208,
+   "level": 27,
+   "quality": 6,
+   "loot": 81274,
+   "exchange_points": 30000,
+   "group": 27
+  },
+  "53209": {
+   "id": 53209,
+   "level": 28,
+   "quality": 2,
+   "loot": 81281,
+   "exchange_points": 30300,
+   "group": 28
+  },
+  "53210": {
+   "id": 53210,
+   "level": 28,
+   "quality": 3,
+   "loot": 81282,
+   "exchange_points": 30600,
+   "group": 28
+  },
+  "53211": {
+   "id": 53211,
+   "level": 28,
+   "quality": 4,
+   "loot": 81283,
+   "exchange_points": 30900,
+   "group": 28
+  },
+  "53212": {
+   "id": 53212,
+   "level": 28,
+   "quality": 6,
+   "loot": 81284,
+   "exchange_points": 31200,
+   "group": 28
+  },
+  "53213": {
+   "id": 53213,
+   "level": 29,
+   "quality": 2,
+   "loot": 81291,
+   "exchange_points": 31500,
+   "group": 29
+  },
+  "53214": {
+   "id": 53214,
+   "level": 29,
+   "quality": 3,
+   "loot": 81292,
+   "exchange_points": 31800,
+   "group": 29
+  },
+  "53215": {
+   "id": 53215,
+   "level": 29,
+   "quality": 4,
+   "loot": 81293,
+   "exchange_points": 32100,
+   "group": 29
+  },
+  "53216": {
+   "id": 53216,
+   "level": 29,
+   "quality": 6,
+   "loot": 81294,
+   "exchange_points": 32400,
+   "group": 29
+  },
+  "53217": {
+   "id": 53217,
+   "level": 30,
+   "quality": 2,
+   "loot": 81301,
+   "exchange_points": 32700,
+   "group": 30
+  },
+  "53218": {
+   "id": 53218,
+   "level": 30,
+   "quality": 3,
+   "loot": 81302,
+   "exchange_points": 33000,
+   "group": 30
+  },
+  "53219": {
+   "id": 53219,
+   "level": 30,
+   "quality": 4,
+   "loot": 81303,
+   "exchange_points": 33300,
+   "group": 30
+  },
+  "53220": {
+   "id": 53220,
+   "level": 30,
+   "quality": 6,
+   "loot": 81304,
+   "exchange_points": 33600,
+   "group": 30
+  },
+  "53221": {
+   "id": 53221,
+   "level": 31,
+   "quality": 2,
+   "loot": 81311,
+   "exchange_points": 33900,
+   "group": 31
+  },
+  "53222": {
+   "id": 53222,
+   "level": 31,
+   "quality": 3,
+   "loot": 81312,
+   "exchange_points": 34200,
+   "group": 31
+  },
+  "53223": {
+   "id": 53223,
+   "level": 31,
+   "quality": 4,
+   "loot": 81313,
+   "exchange_points": 34500,
+   "group": 31
+  },
+  "53224": {
+   "id": 53224,
+   "level": 31,
+   "quality": 6,
+   "loot": 81314,
+   "exchange_points": 34800,
+   "group": 31
+  },
+  "53225": {
+   "id": 53225,
+   "level": 32,
+   "quality": 2,
+   "loot": 81321,
+   "exchange_points": 35100,
+   "group": 32
+  },
+  "53226": {
+   "id": 53226,
+   "level": 32,
+   "quality": 3,
+   "loot": 81322,
+   "exchange_points": 35400,
+   "group": 32
+  },
+  "53227": {
+   "id": 53227,
+   "level": 32,
+   "quality": 4,
+   "loot": 81323,
+   "exchange_points": 35700,
+   "group": 32
+  },
+  "53228": {
+   "id": 53228,
+   "level": 32,
+   "quality": 6,
+   "loot": 81324,
+   "exchange_points": 36000,
+   "group": 32
+  },
+  "53229": {
+   "id": 53229,
+   "level": 33,
+   "quality": 2,
+   "loot": 81331,
+   "exchange_points": 36300,
+   "group": 33
+  },
+  "53230": {
+   "id": 53230,
+   "level": 33,
+   "quality": 3,
+   "loot": 81332,
+   "exchange_points": 36600,
+   "group": 33
+  },
+  "53231": {
+   "id": 53231,
+   "level": 33,
+   "quality": 4,
+   "loot": 81333,
+   "exchange_points": 36900,
+   "group": 33
+  },
+  "53232": {
+   "id": 53232,
+   "level": 33,
+   "quality": 6,
+   "loot": 81334,
+   "exchange_points": 37200,
+   "group": 33
+  },
+  "53233": {
+   "id": 53233,
+   "level": 34,
+   "quality": 2,
+   "loot": 81341,
+   "exchange_points": 37500,
+   "group": 34
+  },
+  "53234": {
+   "id": 53234,
+   "level": 34,
+   "quality": 3,
+   "loot": 81342,
+   "exchange_points": 37800,
+   "group": 34
+  },
+  "53235": {
+   "id": 53235,
+   "level": 34,
+   "quality": 4,
+   "loot": 81343,
+   "exchange_points": 38100,
+   "group": 34
+  },
+  "53236": {
+   "id": 53236,
+   "level": 34,
+   "quality": 6,
+   "loot": 81344,
+   "exchange_points": 38400,
+   "group": 34
+  },
+  "53237": {
+   "id": 53237,
+   "level": 35,
+   "quality": 2,
+   "loot": 81351,
+   "exchange_points": 38700,
+   "group": 35
+  },
+  "53238": {
+   "id": 53238,
+   "level": 35,
+   "quality": 3,
+   "loot": 81352,
+   "exchange_points": 39000,
+   "group": 35
+  },
+  "53239": {
+   "id": 53239,
+   "level": 35,
+   "quality": 4,
+   "loot": 81353,
+   "exchange_points": 39300,
+   "group": 35
+  },
+  "53240": {
+   "id": 53240,
+   "level": 35,
+   "quality": 6,
+   "loot": 81354,
+   "exchange_points": 39600,
+   "group": 35
+  },
+  "53241": {
+   "id": 53241,
+   "level": 36,
+   "quality": 2,
+   "loot": 81361,
+   "exchange_points": 39900,
+   "group": 36
+  },
+  "53242": {
+   "id": 53242,
+   "level": 36,
+   "quality": 3,
+   "loot": 81362,
+   "exchange_points": 40200,
+   "group": 36
+  },
+  "53243": {
+   "id": 53243,
+   "level": 36,
+   "quality": 4,
+   "loot": 81363,
+   "exchange_points": 40500,
+   "group": 36
+  },
+  "53244": {
+   "id": 53244,
+   "level": 36,
+   "quality": 6,
+   "loot": 81364,
+   "exchange_points": 40800,
+   "group": 36
+  },
+  "53245": {
+   "id": 53245,
+   "level": 37,
+   "quality": 2,
+   "loot": 81371,
+   "exchange_points": 41100,
+   "group": 37
+  },
+  "53246": {
+   "id": 53246,
+   "level": 37,
+   "quality": 3,
+   "loot": 81372,
+   "exchange_points": 41400,
+   "group": 37
+  },
+  "53247": {
+   "id": 53247,
+   "level": 37,
+   "quality": 4,
+   "loot": 81373,
+   "exchange_points": 41700,
+   "group": 37
+  },
+  "53248": {
+   "id": 53248,
+   "level": 37,
+   "quality": 6,
+   "loot": 81374,
+   "exchange_points": 42000,
+   "group": 37
+  },
+  "53249": {
+   "id": 53249,
+   "level": 38,
+   "quality": 2,
+   "loot": 81381,
+   "exchange_points": 42300,
+   "group": 38
+  },
+  "53250": {
+   "id": 53250,
+   "level": 38,
+   "quality": 3,
+   "loot": 81382,
+   "exchange_points": 42600,
+   "group": 38
+  },
+  "53251": {
+   "id": 53251,
+   "level": 38,
+   "quality": 4,
+   "loot": 81383,
+   "exchange_points": 42900,
+   "group": 38
+  },
+  "53252": {
+   "id": 53252,
+   "level": 38,
+   "quality": 6,
+   "loot": 81384,
+   "exchange_points": 43200,
+   "group": 38
+  },
+  "53253": {
+   "id": 53253,
+   "level": 39,
+   "quality": 2,
+   "loot": 81391,
+   "exchange_points": 43500,
+   "group": 39
+  },
+  "53254": {
+   "id": 53254,
+   "level": 39,
+   "quality": 3,
+   "loot": 81392,
+   "exchange_points": 43800,
+   "group": 39
+  },
+  "53255": {
+   "id": 53255,
+   "level": 39,
+   "quality": 4,
+   "loot": 81393,
+   "exchange_points": 44100,
+   "group": 39
+  },
+  "53256": {
+   "id": 53256,
+   "level": 39,
+   "quality": 6,
+   "loot": 81394,
+   "exchange_points": 44400,
+   "group": 39
+  },
+  "53257": {
+   "id": 53257,
+   "level": 40,
+   "quality": 2,
+   "loot": 81401,
+   "exchange_points": 44700,
+   "group": 40
+  },
+  "53258": {
+   "id": 53258,
+   "level": 40,
+   "quality": 3,
+   "loot": 81402,
+   "exchange_points": 45000,
+   "group": 40
+  },
+  "53259": {
+   "id": 53259,
+   "level": 40,
+   "quality": 4,
+   "loot": 81403,
+   "exchange_points": 45300,
+   "group": 40
+  },
+  "53260": {
+   "id": 53260,
+   "level": 40,
+   "quality": 6,
+   "loot": 81404,
+   "exchange_points": 45600,
+   "group": 40
+  },
+  "53261": {
+   "id": 53261,
+   "level": 41,
+   "quality": 2,
+   "loot": 81411,
+   "exchange_points": 45900,
+   "group": 41
+  },
+  "53262": {
+   "id": 53262,
+   "level": 41,
+   "quality": 3,
+   "loot": 81412,
+   "exchange_points": 46200,
+   "group": 41
+  },
+  "53263": {
+   "id": 53263,
+   "level": 41,
+   "quality": 4,
+   "loot": 81413,
+   "exchange_points": 46500,
+   "group": 41
+  },
+  "53264": {
+   "id": 53264,
+   "level": 41,
+   "quality": 6,
+   "loot": 81414,
+   "exchange_points": 46800,
+   "group": 41
+  },
+  "53265": {
+   "id": 53265,
+   "level": 42,
+   "quality": 2,
+   "loot": 81421,
+   "exchange_points": 47100,
+   "group": 42
+  },
+  "53266": {
+   "id": 53266,
+   "level": 42,
+   "quality": 3,
+   "loot": 81422,
+   "exchange_points": 47400,
+   "group": 42
+  },
+  "53267": {
+   "id": 53267,
+   "level": 42,
+   "quality": 4,
+   "loot": 81423,
+   "exchange_points": 47700,
+   "group": 42
+  },
+  "53268": {
+   "id": 53268,
+   "level": 42,
+   "quality": 6,
+   "loot": 81424,
+   "exchange_points": 48000,
+   "group": 42
+  },
+  "53269": {
+   "id": 53269,
+   "level": 43,
+   "quality": 2,
+   "loot": 81431,
+   "exchange_points": 48300,
+   "group": 43
+  },
+  "53270": {
+   "id": 53270,
+   "level": 43,
+   "quality": 3,
+   "loot": 81432,
+   "exchange_points": 48600,
+   "group": 43
+  },
+  "53271": {
+   "id": 53271,
+   "level": 43,
+   "quality": 4,
+   "loot": 81433,
+   "exchange_points": 48900,
+   "group": 43
+  },
+  "53272": {
+   "id": 53272,
+   "level": 43,
+   "quality": 6,
+   "loot": 81434,
+   "exchange_points": 49200,
+   "group": 43
+  },
+  "53273": {
+   "id": 53273,
+   "level": 44,
+   "quality": 2,
+   "loot": 81441,
+   "exchange_points": 49500,
+   "group": 44
+  },
+  "53274": {
+   "id": 53274,
+   "level": 44,
+   "quality": 3,
+   "loot": 81442,
+   "exchange_points": 49800,
+   "group": 44
+  },
+  "53275": {
+   "id": 53275,
+   "level": 44,
+   "quality": 4,
+   "loot": 81443,
+   "exchange_points": 50100,
+   "group": 44
+  },
+  "53276": {
+   "id": 53276,
+   "level": 44,
+   "quality": 6,
+   "loot": 81444,
+   "exchange_points": 50400,
+   "group": 44
+  },
+  "53277": {
+   "id": 53277,
+   "level": 45,
+   "quality": 2,
+   "loot": 81451,
+   "exchange_points": 50700,
+   "group": 45
+  },
+  "53278": {
+   "id": 53278,
+   "level": 45,
+   "quality": 3,
+   "loot": 81452,
+   "exchange_points": 51000,
+   "group": 45
+  },
+  "53279": {
+   "id": 53279,
+   "level": 45,
+   "quality": 4,
+   "loot": 81453,
+   "exchange_points": 51300,
+   "group": 45
+  },
+  "53280": {
+   "id": 53280,
+   "level": 45,
+   "quality": 6,
+   "loot": 81454,
+   "exchange_points": 51600,
+   "group": 45
+  },
+  "53281": {
+   "id": 53281,
+   "level": 46,
+   "quality": 2,
+   "loot": 81461,
+   "exchange_points": 51900,
+   "group": 46
+  },
+  "53282": {
+   "id": 53282,
+   "level": 46,
+   "quality": 3,
+   "loot": 81462,
+   "exchange_points": 52200,
+   "group": 46
+  },
+  "53283": {
+   "id": 53283,
+   "level": 46,
+   "quality": 4,
+   "loot": 81463,
+   "exchange_points": 52500,
+   "group": 46
+  },
+  "53284": {
+   "id": 53284,
+   "level": 46,
+   "quality": 6,
+   "loot": 81464,
+   "exchange_points": 52800,
+   "group": 46
+  },
+  "53285": {
+   "id": 53285,
+   "level": 47,
+   "quality": 2,
+   "loot": 81471,
+   "exchange_points": 53100,
+   "group": 47
+  },
+  "53286": {
+   "id": 53286,
+   "level": 47,
+   "quality": 3,
+   "loot": 81472,
+   "exchange_points": 53400,
+   "group": 47
+  },
+  "53287": {
+   "id": 53287,
+   "level": 47,
+   "quality": 4,
+   "loot": 81473,
+   "exchange_points": 53700,
+   "group": 47
+  },
+  "53288": {
+   "id": 53288,
+   "level": 47,
+   "quality": 6,
+   "loot": 81474,
+   "exchange_points": 54000,
+   "group": 47
+  },
+  "53289": {
+   "id": 53289,
+   "level": 48,
+   "quality": 2,
+   "loot": 81481,
+   "exchange_points": 54300,
+   "group": 48
+  },
+  "53290": {
+   "id": 53290,
+   "level": 48,
+   "quality": 3,
+   "loot": 81482,
+   "exchange_points": 54600,
+   "group": 48
+  },
+  "53291": {
+   "id": 53291,
+   "level": 48,
+   "quality": 4,
+   "loot": 81483,
+   "exchange_points": 54900,
+   "group": 48
+  },
+  "53292": {
+   "id": 53292,
+   "level": 48,
+   "quality": 6,
+   "loot": 81484,
+   "exchange_points": 55200,
+   "group": 48
+  },
+  "53293": {
+   "id": 53293,
+   "level": 49,
+   "quality": 2,
+   "loot": 81491,
+   "exchange_points": 55500,
+   "group": 49
+  },
+  "53294": {
+   "id": 53294,
+   "level": 49,
+   "quality": 3,
+   "loot": 81492,
+   "exchange_points": 55800,
+   "group": 49
+  },
+  "53295": {
+   "id": 53295,
+   "level": 49,
+   "quality": 4,
+   "loot": 81493,
+   "exchange_points": 56100,
+   "group": 49
+  },
+  "53296": {
+   "id": 53296,
+   "level": 49,
+   "quality": 6,
+   "loot": 81494,
+   "exchange_points": 56400,
+   "group": 49
+  },
+  "53297": {
+   "id": 53297,
+   "level": 50,
+   "quality": 2,
+   "loot": 81501,
+   "exchange_points": 56700,
+   "group": 50
+  },
+  "53298": {
+   "id": 53298,
+   "level": 50,
+   "quality": 3,
+   "loot": 81502,
+   "exchange_points": 57000,
+   "group": 50
+  },
+  "53299": {
+   "id": 53299,
+   "level": 50,
+   "quality": 4,
+   "loot": 81503,
+   "exchange_points": 57300,
+   "group": 50
+  },
+  "53300": {
+   "id": 53300,
+   "level": 50,
+   "quality": 6,
+   "loot": 81504,
+   "exchange_points": 57600,
+   "group": 50
+  }
+ },
+ "text_chunk": null
+}

@@ -1,0 +1,681 @@
+{
+ "config": "carnival",
+ "fields": [
+  "activity_id",
+  "id",
+  "type",
+  "missions",
+  "data",
+  "banner_index",
+  "banner_asset",
+  "order",
+  "banner_badge",
+  "extra_str",
+  "title",
+  "banner_title",
+  "banner_desc"
+ ],
+ "rows": {
+  "19": [
+   {
+    "activity_id": 19,
+    "id": 1,
+    "type": 1,
+    "missions": null,
+    "data": "15026|15024,15022",
+    "banner_index": 1,
+    "banner_asset": "01",
+    "order": 1,
+    "banner_badge": 1403,
+    "extra_str": ""
+   },
+   {
+    "activity_id": 19,
+    "id": 2,
+    "type": 4,
+    "missions": null,
+    "data": "",
+    "banner_index": 1,
+    "banner_asset": "02",
+    "order": 2,
+    "banner_badge": 1404,
+    "extra_str": ""
+   },
+   {
+    "activity_id": 19,
+    "id": 3,
+    "type": 2,
+    "missions": null,
+    "data": "26021,26006,26005|20111,20110,20106",
+    "banner_index": 2,
+    "banner_asset": "04",
+    "order": 3,
+    "banner_badge": 1405,
+    "extra_str": ""
+   },
+   {
+    "activity_id": 19,
+    "id": 4,
+    "type": 3,
+    "missions": null,
+    "data": "",
+    "banner_index": 2,
+    "banner_asset": "03",
+    "order": 4,
+    "banner_badge": 1406,
+    "extra_str": ""
+   }
+  ],
+  "29": [
+   {
+    "activity_id": 29,
+    "id": 5,
+    "type": 1,
+    "missions": null,
+    "data": "15050|15051,15052",
+    "banner_index": 1,
+    "banner_asset": "05",
+    "order": 1,
+    "banner_badge": 1408,
+    "extra_str": ""
+   },
+   {
+    "activity_id": 29,
+    "id": 6,
+    "type": 2,
+    "missions": null,
+    "data": "26020,26021,26022|20109",
+    "banner_index": 2,
+    "banner_asset": "06",
+    "order": 2,
+    "banner_badge": 1409,
+    "extra_str": ""
+   },
+   {
+    "activity_id": 29,
+    "id": 7,
+    "type": 3,
+    "missions": null,
+    "data": "",
+    "banner_index": 2,
+    "banner_asset": "03",
+    "order": 3,
+    "banner_badge": 1410,
+    "extra_str": ""
+   }
+  ],
+  "33": [
+   {
+    "activity_id": 33,
+    "id": 8,
+    "type": 1,
+    "missions": null,
+    "data": "15058|15059,15060",
+    "banner_index": 1,
+    "banner_asset": "08",
+    "order": 1,
+    "banner_badge": 1412,
+    "extra_str": ""
+   },
+   {
+    "activity_id": 33,
+    "id": 9,
+    "type": 5,
+    "missions": [
+     240,
+     241,
+     242,
+     243,
+     244
+    ],
+    "data": "",
+    "banner_index": 2,
+    "banner_asset": "09",
+    "order": 2,
+    "banner_badge": 1413,
+    "extra_str": ""
+   },
+   {
+    "activity_id": 33,
+    "id": 10,
+    "type": 6,
+    "missions": null,
+    "data": "20112",
+    "banner_index": 2,
+    "banner_asset": "10",
+    "order": 3,
+    "banner_badge": 1414,
+    "extra_str": ""
+   },
+   {
+    "activity_id": 33,
+    "id": 11,
+    "type": 7,
+    "missions": null,
+    "data": "",
+    "banner_index": 1,
+    "banner_asset": "11",
+    "order": 4,
+    "banner_badge": 1415,
+    "extra_str": ""
+   }
+  ],
+  "35": [
+   {
+    "activity_id": 35,
+    "id": 12,
+    "type": 9,
+    "missions": [
+     250,
+     251,
+     252,
+     253,
+     254,
+     255,
+     256
+    ],
+    "data": "",
+    "banner_index": 1,
+    "banner_asset": "13",
+    "order": 1,
+    "banner_badge": 1418,
+    "extra_str": ""
+   },
+   {
+    "activity_id": 35,
+    "id": 13,
+    "type": 10,
+    "missions": [
+     257
+    ],
+    "data": "",
+    "banner_index": 2,
+    "banner_asset": "15",
+    "order": 2,
+    "banner_badge": 1420,
+    "extra_str": ""
+   },
+   {
+    "activity_id": 35,
+    "id": 14,
+    "type": 10,
+    "missions": [
+     258
+    ],
+    "data": "",
+    "banner_index": 2,
+    "banner_asset": "16",
+    "order": 3,
+    "banner_badge": 1421,
+    "extra_str": ""
+   },
+   {
+    "activity_id": 35,
+    "id": 15,
+    "type": 1,
+    "missions": null,
+    "data": "15061|15062,15063",
+    "banner_index": 2,
+    "banner_asset": "12",
+    "order": 4,
+    "banner_badge": 1417,
+    "extra_str": ""
+   },
+   {
+    "activity_id": 35,
+    "id": 16,
+    "type": 4,
+    "missions": null,
+    "data": "",
+    "banner_index": 1,
+    "banner_asset": "02",
+    "order": 5,
+    "banner_badge": 1404,
+    "extra_str": ""
+   }
+  ],
+  "40": [
+   {
+    "activity_id": 40,
+    "id": 17,
+    "type": 11,
+    "missions": [
+     340,
+     341,
+     342,
+     343,
+     344,
+     345,
+     346
+    ],
+    "data": "",
+    "banner_index": 1,
+    "banner_asset": "19",
+    "order": 1,
+    "banner_badge": 1426,
+    "extra_str": ""
+   },
+   {
+    "activity_id": 40,
+    "id": 18,
+    "type": 12,
+    "missions": [
+     347
+    ],
+    "data": "",
+    "banner_index": 2,
+    "banner_asset": "18",
+    "order": 2,
+    "banner_badge": 1427,
+    "extra_str": ""
+   },
+   {
+    "activity_id": 40,
+    "id": 19,
+    "type": 1,
+    "missions": null,
+    "data": "15201|15202,15203",
+    "banner_index": 2,
+    "banner_asset": "17",
+    "order": 3,
+    "banner_badge": 1428,
+    "extra_str": ""
+   },
+   {
+    "activity_id": 40,
+    "id": 20,
+    "type": 7,
+    "missions": null,
+    "data": "",
+    "banner_index": 1,
+    "banner_asset": "13",
+    "order": 4,
+    "banner_badge": 1429,
+    "extra_str": ""
+   },
+   {
+    "activity_id": 40,
+    "id": 21,
+    "type": 8,
+    "missions": null,
+    "data": "",
+    "banner_index": 1,
+    "banner_asset": "20",
+    "order": 5,
+    "banner_badge": 1430,
+    "extra_str": "ETHERIASS2"
+   }
+  ],
+  "44": [
+   {
+    "activity_id": 44,
+    "id": 22,
+    "type": 14,
+    "missions": [
+     420,
+     421,
+     422,
+     423,
+     424,
+     425,
+     426
+    ],
+    "data": "",
+    "banner_index": 1,
+    "banner_asset": "21",
+    "order": 1,
+    "banner_badge": 1435,
+    "extra_str": ""
+   },
+   {
+    "activity_id": 44,
+    "id": 23,
+    "type": 10,
+    "missions": [
+     427
+    ],
+    "data": "",
+    "banner_index": 2,
+    "banner_asset": "22",
+    "order": 2,
+    "banner_badge": 1436,
+    "extra_str": ""
+   },
+   {
+    "activity_id": 44,
+    "id": 24,
+    "type": 1,
+    "missions": null,
+    "data": "15211|15212,15213",
+    "banner_index": 2,
+    "banner_asset": "23",
+    "order": 3,
+    "banner_badge": 1437,
+    "extra_str": ""
+   },
+   {
+    "activity_id": 44,
+    "id": 25,
+    "type": 13,
+    "missions": null,
+    "data": "",
+    "banner_index": 2,
+    "banner_asset": "16",
+    "order": 4,
+    "banner_badge": 1438,
+    "extra_str": "516,517,518,519,520"
+   },
+   {
+    "activity_id": 44,
+    "id": 26,
+    "type": 7,
+    "missions": null,
+    "data": "",
+    "banner_index": 1,
+    "banner_asset": "13",
+    "order": 5,
+    "banner_badge": 1439,
+    "extra_str": ""
+   },
+   {
+    "activity_id": 44,
+    "id": 27,
+    "type": 8,
+    "missions": null,
+    "data": "",
+    "banner_index": 1,
+    "banner_asset": "14",
+    "order": 6,
+    "banner_badge": 1440,
+    "extra_str": "ETHERIASS3"
+   }
+  ],
+  "48": [
+   {
+    "activity_id": 48,
+    "id": 28,
+    "type": 15,
+    "missions": [
+     440,
+     441,
+     442,
+     443,
+     444,
+     445,
+     446
+    ],
+    "data": "",
+    "banner_index": 1,
+    "banner_asset": "24",
+    "order": 1,
+    "banner_badge": 1444,
+    "extra_str": ""
+   },
+   {
+    "activity_id": 48,
+    "id": 29,
+    "type": 16,
+    "missions": null,
+    "data": "15227,15228,15229",
+    "banner_index": 2,
+    "banner_asset": "25",
+    "order": 2,
+    "banner_badge": 1445,
+    "extra_str": ""
+   }
+  ],
+  "605": [
+   {
+    "activity_id": 605,
+    "id": 30,
+    "type": 5,
+    "missions": [
+     560,
+     561,
+     562,
+     563,
+     564,
+     565,
+     566
+    ],
+    "data": "",
+    "banner_index": 1,
+    "banner_asset": "",
+    "order": 1,
+    "banner_badge": 1484,
+    "extra_str": ""
+   },
+   {
+    "activity_id": 605,
+    "id": 31,
+    "type": 10,
+    "missions": [
+     567
+    ],
+    "data": "",
+    "banner_index": 1,
+    "banner_asset": "",
+    "order": 2,
+    "banner_badge": 1485,
+    "extra_str": ""
+   },
+   {
+    "activity_id": 605,
+    "id": 32,
+    "type": 16,
+    "missions": null,
+    "data": "15231,15232,15233",
+    "banner_index": 1,
+    "banner_asset": "",
+    "order": 3,
+    "banner_badge": 1486,
+    "extra_str": ""
+   },
+   {
+    "activity_id": 605,
+    "id": 33,
+    "type": 17,
+    "missions": null,
+    "data": "",
+    "banner_index": 1,
+    "banner_asset": "",
+    "order": 4,
+    "banner_badge": 1487,
+    "extra_str": ""
+   },
+   {
+    "activity_id": 605,
+    "id": 34,
+    "type": 7,
+    "missions": null,
+    "data": "",
+    "banner_index": 1,
+    "banner_asset": "",
+    "order": 5,
+    "banner_badge": 1488,
+    "extra_str": ""
+   },
+   {
+    "activity_id": 605,
+    "id": 35,
+    "type": 8,
+    "missions": null,
+    "data": "",
+    "banner_index": 1,
+    "banner_asset": "",
+    "order": 6,
+    "banner_badge": 1489,
+    "extra_str": "ETHERIASS4"
+   }
+  ],
+  "608": [
+   {
+    "activity_id": 608,
+    "id": 36,
+    "type": 5,
+    "missions": [
+     630,
+     631,
+     632,
+     633,
+     634,
+     635,
+     636
+    ],
+    "data": "",
+    "banner_index": 1,
+    "banner_asset": "",
+    "order": 1,
+    "banner_badge": 1494,
+    "extra_str": ""
+   },
+   {
+    "activity_id": 608,
+    "id": 37,
+    "type": 10,
+    "missions": [
+     637
+    ],
+    "data": "",
+    "banner_index": 1,
+    "banner_asset": "",
+    "order": 2,
+    "banner_badge": 1495,
+    "extra_str": ""
+   },
+   {
+    "activity_id": 608,
+    "id": 38,
+    "type": 16,
+    "missions": null,
+    "data": "15238,15239,15240",
+    "banner_index": 1,
+    "banner_asset": "",
+    "order": 3,
+    "banner_badge": 1496,
+    "extra_str": ""
+   },
+   {
+    "activity_id": 608,
+    "id": 39,
+    "type": 17,
+    "missions": null,
+    "data": "",
+    "banner_index": 1,
+    "banner_asset": "",
+    "order": 4,
+    "banner_badge": 1497,
+    "extra_str": ""
+   },
+   {
+    "activity_id": 608,
+    "id": 40,
+    "type": 7,
+    "missions": null,
+    "data": "",
+    "banner_index": 1,
+    "banner_asset": "",
+    "order": 5,
+    "banner_badge": 1498,
+    "extra_str": ""
+   },
+   {
+    "activity_id": 608,
+    "id": 41,
+    "type": 8,
+    "missions": null,
+    "data": "",
+    "banner_index": 1,
+    "banner_asset": "",
+    "order": 6,
+    "banner_badge": 1499,
+    "extra_str": "ETHERIASS5"
+   }
+  ],
+  "623": [
+   {
+    "activity_id": 623,
+    "id": 42,
+    "type": 5,
+    "missions": [
+     1200,
+     1201,
+     1202,
+     1203,
+     1204,
+     1205,
+     1206
+    ],
+    "data": "",
+    "banner_index": 1,
+    "banner_asset": "",
+    "order": 1,
+    "banner_badge": 10121,
+    "extra_str": ""
+   },
+   {
+    "activity_id": 623,
+    "id": 43,
+    "type": 10,
+    "missions": [
+     1207
+    ],
+    "data": "",
+    "banner_index": 1,
+    "banner_asset": "",
+    "order": 2,
+    "banner_badge": 10122,
+    "extra_str": ""
+   },
+   {
+    "activity_id": 623,
+    "id": 44,
+    "type": 16,
+    "missions": null,
+    "data": "15254,15255,15256",
+    "banner_index": 1,
+    "banner_asset": "",
+    "order": 3,
+    "banner_badge": 10123,
+    "extra_str": ""
+   },
+   {
+    "activity_id": 623,
+    "id": 45,
+    "type": 17,
+    "missions": null,
+    "data": "",
+    "banner_index": 1,
+    "banner_asset": "",
+    "order": 4,
+    "banner_badge": 10124,
+    "extra_str": ""
+   },
+   {
+    "activity_id": 623,
+    "id": 46,
+    "type": 7,
+    "missions": null,
+    "data": "",
+    "banner_index": 1,
+    "banner_asset": "",
+    "order": 5,
+    "banner_badge": 10125,
+    "extra_str": ""
+   },
+   {
+    "activity_id": 623,
+    "id": 47,
+    "type": 8,
+    "missions": null,
+    "data": "",
+    "banner_index": 1,
+    "banner_asset": "",
+    "order": 6,
+    "banner_badge": 10126,
+    "extra_str": "ETHERIASS6"
+   }
+  ]
+ },
+ "text_chunk": null
+}

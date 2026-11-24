@@ -1,0 +1,74 @@
+{
+ "config": "define_zone_server",
+ "fields": [
+  "zone_id",
+  "zone_name",
+  "zone_glb_gvg_name"
+ ],
+ "rows": {
+  "1": {
+   "zone_id": 1,
+   "zone_name": "Global Server",
+   "zone_name_th": "เซิร์ฟเวอร์ทั่วโลก",
+   "zone_glb_gvg_name": "Global Union",
+   "zone_glb_gvg_name_th": "สหพันธ์ทั่วโลก"
+  },
+  "2": {
+   "zone_id": 2,
+   "zone_name": "East Asia Server",
+   "zone_name_th": "เอเชียตะวันออก",
+   "zone_glb_gvg_name": "East Asia Union",
+   "zone_glb_gvg_name_th": "สหพันธ์เอเชียตะวันออก"
+  },
+  "3": {
+   "zone_id": 3,
+   "zone_name": "CN Server",
+   "zone_name_th": "เซิร์ฟเวอร์จีน",
+   "zone_glb_gvg_name": "China Union",
+   "zone_glb_gvg_name_th": "สหพันธ์จีน"
+  },
+  "11": {
+   "zone_id": 11,
+   "zone_name": "Global Server itest",
+   "zone_name_th": "Itest เซิร์ฟเวอร์ทั่วโลก",
+   "zone_glb_gvg_name": "Global itest Union",
+   "zone_glb_gvg_name_th": "สหพันธ์ itest ทั่วโลก"
+  },
+  "12": {
+   "zone_id": 12,
+   "zone_name": "East Asia Server itest",
+   "zone_name_th": "Itest เอเชียตะวันออก",
+   "zone_glb_gvg_name": "East Asia itest Union",
+   "zone_glb_gvg_name_th": "สหพันธ์ itest เอเชียตะวันออก"
+  },
+  "13": {
+   "zone_id": 13,
+   "zone_name": "CN Server itest",
+   "zone_name_th": "Itest จีน",
+   "zone_glb_gvg_name": "China itest Union",
+   "zone_glb_gvg_name_th": "สหพันธ์ itest จีน"
+  },
+  "14": {
+   "zone_id": 14,
+   "zone_name": "KOL",
+   "zone_name_th": "KOL",
+   "zone_glb_gvg_name": "KOL Union",
+   "zone_glb_gvg_name_th": "สหพันธ์ KOL"
+  },
+  "31": {
+   "zone_id": 31,
+   "zone_name": "Tournament Server",
+   "zone_name_th": "เซิร์ฟเวอร์ทัวร์นาเมนต์",
+   "zone_glb_gvg_name": "Tournament Union",
+   "zone_glb_gvg_name_th": "สหพันธ์ทัวร์นาเมนต์"
+  },
+  "42": {
+   "zone_id": 42,
+   "zone_name": "Dev Server",
+   "zone_name_th": "เซิร์ฟเวอร์นักพัฒนา",
+   "zone_glb_gvg_name": "Dev Union",
+   "zone_glb_gvg_name_th": "สหพันธ์นักพัฒนา"
+  }
+ },
+ "text_chunk": "00072_8be39b22293acfb8.json"
+}

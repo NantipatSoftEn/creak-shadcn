@@ -1,0 +1,1999 @@
+{
+ "config": "clothing",
+ "fields": [
+  "id",
+  "tag",
+  "type",
+  "scene",
+  "goods",
+  "is_hidden",
+  "b_show_only_get",
+  "show_activitys",
+  "can_show_in_level",
+  "title",
+  "desc"
+ ],
+ "rows": {
+  "13101": {
+   "id": 13101,
+   "tag": 0,
+   "type": 2,
+   "scene": 1,
+   "goods": 20101,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Timeless Classic",
+   "title_th": "เหนือกาลเวลา",
+   "desc": "A practical and functional common ensemble, featuring warm tones that evoke the comfort and tranquility of home.",
+   "desc_th": "การจับคู่ที่ใช้งานได้จริงและตอบโจทย์ มาในโทนสีอันอบอุ่นที่ชวนให้นึกถึงความสบายและความเงียบสงบเหมือนอยู่บ้าน"
+  },
+  "13102": {
+   "id": 13102,
+   "tag": 0,
+   "type": 2,
+   "scene": 10,
+   "goods": 20102,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": false,
+   "title": "Timeless Classic",
+   "title_th": "เหนือกาลเวลา",
+   "desc": "A battle suit in classic black, meticulously designed to balance functionality and aesthetics, exuding the enigmatic presence and unique aura of a Hyperlinker.",
+   "desc_th": "ชุดต่อสู้สีดำสุดคลาสสิก ซึ่งออกแบบมาอย่างพิถีพิถันเพื่อผสมผสานการใช้งานและความสวยงามอย่างลงตัว เผยให้เห็นเสน่ห์อันลึกลับและออร่าเฉพาะตัวของไฮเปอร์ลิงเกอร์"
+  },
+  "13105": {
+   "id": 13105,
+   "tag": 0,
+   "type": 2,
+   "scene": 1,
+   "goods": 20105,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Under the Night Sky",
+   "title_th": "ใต้ท้องฟ้ายามราตรี",
+   "desc": "The morning star falls into the night sky, leaving behind radiant splendor. Birds soar across the heavens, carrying pure white hopes. A half-hidden butterfly mask veils a deep and mysterious abyss.",
+   "desc_th": "ดาวประกายพรึกลาลับไปในท้องฟ้ายามค่ำคืน ฝากประกายอันเจิดจ้าไว้เบื้องหลัง หมู่นกโผบินข้ามผ่านท้องฟ้าพร้อมกับแบกความหวังอันบริสุทธิ์ไปด้วย เบื้องหลังหน้ากากผีเสื้อที่ซ่อนอยู่ครึ่งหนึ่งคือหุบเหวลึกสุดเร้นลับ"
+  },
+  "13106": {
+   "id": 13106,
+   "tag": 0,
+   "type": 2,
+   "scene": 1,
+   "goods": 20106,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Modern Gentleman",
+   "title_th": "สุภาพบุรุษยุคใหม่",
+   "desc": "A romantic fusion of classical and modern aesthetics, with layered ruffles flowing like threads of time—every movement is a quiet reflection of history.",
+   "desc_th": "การผสมผสานอันโรแมนติกระหว่างความสวยงามแบบคลาสสิกและทันสมัย มาพร้อมกับระบายเป็นชั้น ๆ ที่พลิ้วไหวไปมาราวกับเส้นด้ายแห่งกาลเวลา การเคลื่อนไหวในแต่ละครั้งช่วยสะท้อนถึงประวัติศาสตร์ได้อย่างแนบเนียน"
+  },
+  "13107": {
+   "id": 13107,
+   "tag": 0,
+   "type": 2,
+   "scene": 10,
+   "goods": 20107,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Hot-Blooded Youth",
+   "title_th": "วัยรุ่นเลือดร้อน",
+   "desc": "A meticulously crafted battle suit with exceptional durability. Its bold color scheme blazes like fire in the night, burning away all injustice.",
+   "desc_th": "ชุดต่อสู้ที่ออกแบบมาอย่างพิถีพิถันพร้อมความทนทานอันเหนือชั้น สีสันอันโดดเด่นของชุดนั้นลุกโชนราวกับเปลวไฟยามค่ำคืน เผาผลาญทุกความอยุติธรรมให้วอดวายไป"
+  },
+  "13108": {
+   "id": 13108,
+   "tag": 0,
+   "type": 2,
+   "scene": 10,
+   "goods": 20108,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Energetic Youth",
+   "title_th": "วัยรุ่นแรงเหลือ",
+   "desc": "A meticulously crafted battle suit with exceptional durability. Its vibrant orange hue shines like a brilliant beacon, illuminating all darkness.",
+   "desc_th": "ชุดต่อสู้ที่ออกแบบมาอย่างพิถีพิถันพร้อมความทนทานอันเหนือชั้น โทนสีส้มอันสดใสของชุดนั้นเจิดจ้าราวกับประภาคารที่ส่องประกายสว่างไสวในความมืดมิด"
+  },
+  "13110": {
+   "id": 13110,
+   "tag": 0,
+   "type": 2,
+   "scene": 1,
+   "goods": 20110,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Stormy Teen",
+   "title_th": "วัยรุ่นพายุคลั่ง",
+   "desc": "A chic, dynamic look that seamlessly blends youthful energy with a combat vibe, brimming with vitality.",
+   "desc_th": "ลุคที่เก๋ไก๋และมีชีวิตชีวาผสมผสานความเป็นวัยรุ่นเข้ากับบรรยากาศการต่อสู้ได้อย่างลงตัว จนเปี่ยมไปด้วยความมีชีวิตชีวา"
+  },
+  "13109": {
+   "id": 13109,
+   "tag": 0,
+   "type": 2,
+   "scene": 1,
+   "goods": 20109,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Leisurely Summer",
+   "title_th": "ฤดูร้อนหย่อนใจ",
+   "desc": "Bright and playful patterns bring the energy of summer. Swimsuits, sandy beaches, and refreshing watermelon. What are you waiting for?",
+   "desc_th": "ลวดลายที่สดใสขี้เล่นช่วยมอบพลังแห่งฤดูร้อน มีทั้งชุดว่ายน้ำ ชายหาดทราย และแตงโมเย็นฉ่ำขนาดนี้แล้ว จะรออะไรอยู่อีกล่ะ?"
+  },
+  "13111": {
+   "id": 13111,
+   "tag": 0,
+   "type": 2,
+   "scene": 1,
+   "goods": 20111,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Archaic Youth",
+   "title_th": "วัยรุ่นโบราณ",
+   "desc": "The loose cuffs are adorned with patterned borders, simple yet elegant, perfectly reflecting the charm of the ancient Far East.",
+   "desc_th": "ข้อมือหลวม ๆ ที่ประดับด้วยขอบลาย เรียบง่ายแต่สง่างาม สะท้อนถึงเสน่ห์ของตะวันออกไกลในสมัยโบราณได้อย่างสมบูรณ์แบบ"
+  },
+  "13112": {
+   "id": 13112,
+   "tag": 0,
+   "type": 2,
+   "scene": 1,
+   "goods": 20112,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": [
+    [
+     6,
+     24
+    ]
+   ],
+   "can_show_in_level": true,
+   "title": "Roaming Cloud",
+   "title_th": "Roaming Cloud",
+   "desc": "Light as drifting clouds, this outfit offers relaxed ease with a classic cut that never sacrifices comfort. Rooted in traditional aesthetics, it exudes a gentle and refined elegance.",
+   "desc_th": "แฟชั่นนี้เบาสบายดุจปุยเมฆที่ล่องลอยและมอบความผ่อนคลายด้วยการตัดเย็บสุดคลาสสิกที่ยังคงความสวมใส่สบายเอาไว้ด้วย โดยมีรากฐานมาจากความงดงามแบบดั้งเดิม จึงมีความสง่างามที่ทั้งละเอียดอ่อนและสุดแสนประณีต"
+  },
+  "13113": {
+   "id": 13113,
+   "tag": 1,
+   "type": 2,
+   "scene": 1,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Star Wayfarer",
+   "title_th": "นักเดินทางข้ามดวงดาว",
+   "desc": "A heart burns bright as any star. Adventure calls from the cosmic depths, and the call will be answered.",
+   "desc_th": "หัวใจที่ลุกโชติช่วงดุจดวงดาว เสียงเรียกแห่งการผจญภัยจากห้วงลึกแห่งจักรวาลดังขึ้น และย่อมมีผู้ตอบรับเสียงนั้นอย่างแน่นอน"
+  },
+  "13114": {
+   "id": 13114,
+   "tag": 1,
+   "type": 2,
+   "scene": 1,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": [
+    [
+     40,
+     1
+    ]
+   ],
+   "can_show_in_level": true,
+   "title": "Pumpkin Squire",
+   "title_th": "Pumpkin Squire",
+   "desc": "The most courteous Pumpkin Squire at the costume party—remember to stay elegant, anytime, anywhere.",
+   "desc_th": "Pumpkin Squire ที่สุภาพที่สุดในงานเลี้ยงชุดแฟนซี — อย่าลืมรักษาความสง่างามเอาไว้ในทุกที่และทุกเวลา"
+  },
+  "13115": {
+   "id": 13115,
+   "tag": 1,
+   "type": 2,
+   "scene": 1,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Chillblade Poise",
+   "title_th": "เพลงดาบเยียบเย็น",
+   "desc": "The victor's blade cuts sharp and cold. Each of its strikes builds into a storm that buries all opposition.",
+   "desc_th": "ดาบของ Victor ตัดเฉือนอย่างเฉียบคมและเยียบเย็น การโจมตีทุกครั้งก่อตัวขึ้นเป็นพายุที่กลบฝังทุกคู่อริ"
+  },
+  "13116": {
+   "id": 13116,
+   "tag": 1,
+   "type": 2,
+   "scene": 1,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": [
+    [
+     50,
+     1
+    ]
+   ],
+   "can_show_in_level": true,
+   "title": "Ginger Herald",
+   "title_th": "Ginger Herald",
+   "desc": "Cold winds blow, but the streets are thick with the scent of cinnamon and honey. Follow the Ginger Herald and join the adventure!",
+   "desc_th": "ลมหนาวพัดพา แต่บนถนนยังกรุ่นไปด้วยกลิ่นอบเชยและน้ำผึ้ง ตาม Ginger Herald ไปและเข้าร่วมการผจญภัย"
+  },
+  "13117": {
+   "id": 13117,
+   "tag": 1,
+   "type": 2,
+   "scene": 1,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Gilded Praise",
+   "title_th": "Gilded Praise",
+   "desc": "Every clash hits like the fiercest beat in the song. The roar of the crowd belongs to the victor alone.",
+   "desc_th": "ทุกการปะทะล้วนดุดันราวจังหวะแสนดุเดือดในเพลง เสียงกู่ร้องของฝูงชนนั้นเป็นของผู้ชนะเพียงลำพัง"
+  },
+  "13118": {
+   "id": 13118,
+   "tag": 1,
+   "type": 2,
+   "scene": 1,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": [
+    [
+     57,
+     1
+    ]
+   ],
+   "can_show_in_level": true,
+   "title": "Dawn of the Year",
+   "title_th": "Dawn of the Year",
+   "desc": "A new year has dawned. Cloud patterns drift along fine robes, and with them, new hopes begin to take shape.",
+   "desc_th": "ปีใหม่มาเยือน รุ่งอรุณเบิกฟ้า ลวดลายเมฆบนเสื้อคลุม Brocade พลิ้วไหว นำพาความคาดหมายและความหวังใหม่ ๆ ให้เข้ามา"
+  },
+  "13119": {
+   "id": 13119,
+   "tag": 1,
+   "type": 2,
+   "scene": 1,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Abyssal Dragon Phantom",
+   "title_th": "เงาสงครามอเวจี",
+   "desc": "War's shadow lingers, and the chase for victory never rests. All that relentless fight will forge itself into thunder that splits the long night wide open and becomes the lightning at the break of dawn.",
+   "desc_th": "เงาแห่งการต่อสู้ยังคงอยู่ การไล่ล่าชัยชนะไม่มีวันหยุด Battlewill ที่พลุ่งพล่านจะกลั่นตัวเป็น Resounding Thunder ผ่าราตรีอันไม่สิ้นสุดและกลายเป็น Thunderclap ยามอรุณรุ่ง"
+  },
+  "13120": {
+   "id": 13120,
+   "tag": 1,
+   "type": 2,
+   "scene": 1,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Sunlit Ease",
+   "title_th": "Tranquil Summer",
+   "desc": "Sandy shores, parasols, and the shade of palms. A figure returned from the waves pauses here to rest and takes in the quiet ease of a sea breeze.",
+   "desc_th": "หาดทราย ร่มชายหาด ต้นปาล์ม— เงาร่างหนึ่งที่เพิ่งกลับขึ้นจากเกลียวคลื่นหยุดพักลงตรงนี้ ลิ้มรสสายลมฤดูร้อนสดชื่นจากทะเล"
+  },
+  "13121": {
+   "id": 13121,
+   "tag": 1,
+   "type": 2,
+   "scene": 1,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": false,
+   "title": "Aureate Radiance",
+   "title_th": "Gilded Radiance",
+   "desc": "A dark gown that falls like the evening sky, dusted with scattered starlight. The first notes of the waltz have sounded. A dazzling soirée awaits.",
+   "desc_th": "ชุดราตรีสีเข้มลงมาราวกับราตรี ประดับประดาด้วยแสงดาวที่กระจัดกระจาย—บทนำวอลทซ์เริ่มต้นแล้ว รอคอยงานเลี้ยงที่พราวพราย"
+  },
+  "13122": {
+   "id": 13122,
+   "tag": 1,
+   "type": 2,
+   "scene": 1,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": false,
+   "title": "Aureate Paragon",
+   "title_th": "Aureate Paragon",
+   "desc": "Follow the wind-worn road and hunt down traces of long-lost treasure. To a true hunter, the greatest prize is uncovering the truth behind stories buried by time.",
+   "desc_th": "ก้าวเดินบนเส้นทางโบราณที่ลมพัดผ่าน ตามล่าหาร่องรอยของสมบัติที่สูญหาย—สำหรับนักล่าตัวจริง รางวัลที่ยิ่งใหญ่ที่สุดคือคำตอบของเรื่องราวที่ถูกฝังกลบโดยกาลเวลา"
+  },
+  "13123": {
+   "id": 13123,
+   "tag": 1,
+   "type": 2,
+   "scene": 1,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": [
+    [
+     97,
+     1
+    ]
+   ],
+   "can_show_in_level": false,
+   "title": "Obscura Orison",
+   "title_th": "Obscura Orison",
+   "desc": "The night glows with moonlight as heartfelt words are whispered. Wishes are entrusted to the moon, in hopes that the night will keep them safe and its gentle light will watch over every dream.",
+   "desc_th": "แสงจันทร์อาบไปทั่วราตรี และคำพูดจากใจก็เงียบลง ผู้คนได้ฝากความปรารถนาไว้กับคืนแสงจันทร์นี้ หวังว่าราตรีอันลึกลับนี้จะปกป้องดูแลความหวังอันงดงามทุกประการ และแสงอันสงบนิ่งของมันจะเคียงคู่ไปกับฝันหวานทุกฝัน"
+  },
+  "13124": {
+   "id": 13124,
+   "tag": 1,
+   "type": 2,
+   "scene": 1,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": true,
+   "show_activitys": null,
+   "can_show_in_level": false,
+   "title": "Frostbound Elegance",
+   "title_th": "Frost Kingdom Style",
+   "desc": "Follow the wind-worn road and hunt down traces of long-lost treasure. To a true hunter, the greatest prize is uncovering the truth behind stories buried by time.",
+   "desc_th": "ก้าวเดินบนเส้นทางโบราณที่ลมพัดผ่าน ตามล่าหาร่องรอยของสมบัติที่สูญหาย—สำหรับนักล่าตัวจริง รางวัลที่ยิ่งใหญ่ที่สุดคือคำตอบของเรื่องราวที่ถูกฝังกลบโดยกาลเวลา"
+  },
+  "13301": {
+   "id": 13301,
+   "tag": 0,
+   "type": 1,
+   "scene": 1,
+   "goods": 20101,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Timeless Classic",
+   "title_th": "เหนือกาลเวลา",
+   "desc": "A cozy homewear set with soft, comfortable fabric and warm tones that embrace the tranquility and warmth of home.",
+   "desc_th": "ชุดอยู่บ้านแสนสบายด้วยเนื้อผ้าที่นุ่มสบายและโทนสีอันอบอุ่นช่วยให้รู้สึกเงียบสงบและอบอุ่นเหมือนอยู่บ้าน"
+  },
+  "13302": {
+   "id": 13302,
+   "tag": 0,
+   "type": 1,
+   "scene": 10,
+   "goods": 20102,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": false,
+   "title": "Timeless Classic",
+   "title_th": "เหนือกาลเวลา",
+   "desc": "A battle suit in classic black, meticulously designed to balance functionality and aesthetics, exuding the enigmatic presence and unique aura of a Hyperlinker.",
+   "desc_th": "ชุดต่อสู้สีดำสุดคลาสสิก ซึ่งออกแบบมาอย่างพิถีพิถันเพื่อผสมผสานการใช้งานและความสวยงามอย่างลงตัว เผยให้เห็นเสน่ห์อันลึกลับและออร่าเฉพาะตัวของไฮเปอร์ลิงเกอร์"
+  },
+  "13305": {
+   "id": 13305,
+   "tag": 0,
+   "type": 1,
+   "scene": 1,
+   "goods": 20105,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Under the Night Sky",
+   "title_th": "ใต้ท้องฟ้ายามราตรี",
+   "desc": "The morning star falls into the night sky, leaving behind radiant splendor. Birds soar across the heavens, carrying pure white hopes. Graceful and light, they return home with dreams in their wake.",
+   "desc_th": "ดาวประกายพรึกลาลับไปในท้องฟ้ายามค่ำคืน ฝากประกายอันเจิดจ้าไว้เบื้องหลัง หมู่นกโผบินข้ามผ่านท้องฟ้าพร้อมกับแบกความหวังอันบริสุทธิ์ไปด้วย พวกมันกลับสู่รังอย่างสง่างามและนุ่มนวลพร้อมกับความฝันที่ติดตามมา"
+  },
+  "13306": {
+   "id": 13306,
+   "tag": 0,
+   "type": 1,
+   "scene": 1,
+   "goods": 20106,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Modern Lady",
+   "title_th": "หญิงยุคใหม่",
+   "desc": "A romantic fusion of classical and modern aesthetics, with layered ruffles flowing like threads of time—every turn is a glance back through history's vast river.",
+   "desc_th": "การผสมผสานอันโรแมนติกระหว่างความสวยงามแบบคลาสสิกและทันสมัย มาพร้อมกับระบายเป็นชั้น ๆ ที่พลิ้วไหวไปมาราวกับเส้นด้ายแห่งกาลเวลา ทุกครั้งที่หมุนตัวเปรียบเสมือนได้มองย้อนกลับไปยังแม่น้ำอันกว้างใหญ่ไพศาลแห่งประวัติศาสตร์"
+  },
+  "13307": {
+   "id": 13307,
+   "tag": 0,
+   "type": 1,
+   "scene": 10,
+   "goods": 20107,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Pink Girl",
+   "title_th": "เด็กสาวสีชมพู",
+   "desc": "A meticulously crafted battle suit with exceptional durability. The pink-dominated design breaks away from convention, blending softness with undeniable strength.",
+   "desc_th": "ชุดต่อสู้ที่ออกแบบมาอย่างพิถีพิถันพร้อมความทนทานอันเหนือชั้น ดีไซน์ที่โดดเด่นด้วยสีชมพูนั้นก้าวข้ามธรรมเนียมเก่า ๆ โดยผสมผสานความนุ่มนวลเข้ากับความแข็งแกร่งที่ไม่อาจปฏิเสธได้"
+  },
+  "13308": {
+   "id": 13308,
+   "tag": 0,
+   "type": 1,
+   "scene": 10,
+   "goods": 20108,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Spring Girl",
+   "title_th": "เด็กสาวฤดูใบไม้ผลิ",
+   "desc": "A meticulously crafted battle suit with exceptional durability, accented with bright green to radiate boundless energy.",
+   "desc_th": "ชุดต่อสู้ที่ออกแบบมาอย่างพิถีพิถันพร้อมความทนทานอันเหนือชั้น ขับเน้นด้วยสีเขียวสดใสเพื่อมอบพลังงานอันไร้ขีดจำกัด"
+  },
+  "13310": {
+   "id": 13310,
+   "tag": 0,
+   "type": 1,
+   "scene": 1,
+   "goods": 20111,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Celestial Charm",
+   "title_th": "ขวัญใจฟากฟ้า",
+   "desc": "Sweet pink blends with classic black through exquisite tailoring, topped off with a pair of cute cat ears—a look that's whimsical and adorable.",
+   "desc_th": "สีชมพูหวานแหวนผสานกับสีดำคลาสสิกผ่านการตัดเย็บสุดประณีต เสริมด้วยหูแมวน่ารักคู่หนึ่ง เป็นลุคที่ดูแปลกตาและน่ารักน่าดู"
+  },
+  "13311": {
+   "id": 13311,
+   "tag": 0,
+   "type": 1,
+   "scene": 1,
+   "goods": 20110,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Azure Mist",
+   "title_th": "หมอกสีคราม",
+   "desc": "With elegant light blue as the main tone, mysterious navy intertwines with clean white—like rolling waves that soothe the soul.",
+   "desc_th": "ใช้สีฟ้าอ่อนอันสง่าเป็นโทนหลัก แล้วนำสีน้ำเงินกรมท่าสุดลึกลับกับสีขาวอ่อนอันสะอาดผสมเข้าด้วยกันราวกับคลื่นที่ซัดสาด ช่วยปลอบประโลมจิตใจได้ดียิ่ง"
+  },
+  "13309": {
+   "id": 13309,
+   "tag": 0,
+   "type": 1,
+   "scene": 1,
+   "goods": 20109,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Hot Summer",
+   "title_th": "ฤดูร้อนระอุ",
+   "desc": "A classic checkered pattern infused with bright colors, bringing the energy of summer. Swimsuits, sandy beaches, and refreshing watermelon. What are you waiting for?",
+   "desc_th": "ลวดลายตารางหมากรุกสุดคลาสสิกที่ผสมผสานเข้ากับสีสันสดใส ช่วยมอบพลังแห่งฤดูร้อน มีทั้งชุดว่ายน้ำ ชายหาดทราย และแตงโมเย็นฉ่ำขนาดนี้แล้ว จะรออะไรอยู่อีกล่ะ?"
+  },
+  "13312": {
+   "id": 13312,
+   "tag": 0,
+   "type": 1,
+   "scene": 1,
+   "goods": 20112,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": [
+    [
+     6,
+     24
+    ]
+   ],
+   "can_show_in_level": true,
+   "title": "Starcrossed Bonds",
+   "title_th": "Starcrossed Bonds",
+   "desc": "Like a radiant dream for the evening, it's crafted from soft fabrics in shades of pink, seamlessly merging classical beauty with modern trends, perfectly poised for a dazzling occasion.",
+   "desc_th": "ดุจความฝันอันเรืองรองในยามพลบค่ำ แฟชั่นนี้ตัดเย็บขึ้นมาจากผ้าเนื้อนุ่มในเฉดสีชมพู โดยผสมผสานความงดงามแบบคลาสสิกเข้ากับเทรนด์ยุคใหม่ได้อย่างลงตัว เหมาะอย่างยิ่งสำหรับโอกาสพิเศษที่น่าประทับใจ"
+  },
+  "13313": {
+   "id": 13313,
+   "tag": 1,
+   "type": 1,
+   "scene": 1,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Star Voyager",
+   "title_th": "นักท่องดวงดาว",
+   "desc": "The universe beckons. Nebulae swirl with untold secrets. Time to chart a course into the magnificent unknown.",
+   "desc_th": "จักรวาลเพรียกหา เนบิวลาหมุนวนเก็บงำความลับที่ไม่มีผู้ใดล่วงรู้ ถึงเวลาออกเดินทางสู่ห้วงลึกสุดลี้ลับอันงดงามตระการตาแล้ว"
+  },
+  "13314": {
+   "id": 13314,
+   "tag": 1,
+   "type": 1,
+   "scene": 1,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": [
+    [
+     40,
+     1
+    ]
+   ],
+   "can_show_in_level": true,
+   "title": "Pumpkin Dame",
+   "title_th": "Pumpkin Dame",
+   "desc": "The cutest Pumpkin Dame at the costume party—listen, the bell has tolled. Step into this wonderful celebration with your companion.",
+   "desc_th": "Pumpkin Dame ที่น่ารักที่สุดในงานเลี้ยงชุดแฟนซี — ฟังสิ เสียงระฆังดังขึ้นแล้ว ก้าวเข้าสู่งานฉลองแสนวิเศษนี้พร้อมคู่หูของคุณเลย"
+  },
+  "13315": {
+   "id": 13315,
+   "tag": 1,
+   "type": 1,
+   "scene": 1,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Snowfall Blossom",
+   "title_th": "บุปผาหิมะโปรย",
+   "desc": "Triumph after triumph, forged into radiance that never fades. This frozen crown holds them all.",
+   "desc_th": "ชัยชนะครั้งแล้วครั้งเล่า หลอมรวมเป็นรัศมีที่ไม่เคยจางหาย มงกุฏเยือกแข็งนี้ยึดครองทุกสิ่งไว้ด้วยกัน"
+  },
+  "13316": {
+   "id": 13316,
+   "tag": 1,
+   "type": 1,
+   "scene": 1,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": [
+    [
+     50,
+     1
+    ]
+   ],
+   "can_show_in_level": true,
+   "title": "Snowbloom Herald",
+   "title_th": "Snowbloom Herald",
+   "desc": "On this quiet winter night, moonlight gathers, and whispers of sleep fill the air. Follow the Snowbloom Herald and weave sweet dreams together.",
+   "desc_th": "ในคืนฤดูหนาวอันเงียบเหงา แสงจันทร์ต่างรวมตัว และเสียงกระซิบจากภวังค์นิทราอัดแน่นอยู่ในอากาศ ติดตาม Snowbloom Herald แล้วถักทอฝันหวานไปด้วยกัน"
+  },
+  "13317": {
+   "id": 13317,
+   "tag": 1,
+   "type": 1,
+   "scene": 1,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Auric Hymn",
+   "title_th": "Auric Hymm",
+   "desc": "Every stand you make echoes like a verse hammered into stone. The endless applause is reserved for those who prevail.",
+   "desc_th": "ทุกการยืนหยัดจะสะท้อนก้องดังบทกวีที่ถูกจารึกลงบนศิลา เสียงปรบมือไร้สิ้นสุดนั้นสงวนไว้ให้เฉพาะผู้ชนะ"
+  },
+  "13318": {
+   "id": 13318,
+   "tag": 1,
+   "type": 1,
+   "scene": 1,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": [
+    [
+     57,
+     1
+    ]
+   ],
+   "can_show_in_level": true,
+   "title": "Glow of the Year",
+   "title_th": "Glow of the Year",
+   "desc": "Brilliant colors shimmer in the night as lantern light dances through the evening air, ushering in new wishes and the promise of what lies ahead.",
+   "desc_th": "รุ่งโรจน์เจิดจรัสส่องประกายสว่างไสว เงาจากโคมไฟในค่ำคืนนี้ไหวระริก ชี้นำความปรารถนาและอนาคตใหม่ ๆ"
+  },
+  "13319": {
+   "id": 13319,
+   "tag": 1,
+   "type": 1,
+   "scene": 1,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Ink-Born Dragon Chant",
+   "title_th": "ฝีแปรงมังกร",
+   "desc": "Each stroke commands the wind, each drop of ink reshapes the clouds. That vision gathers into rolling spring hills that stretch beyond sight, alive with color.",
+   "desc_th": "ฝีแปรงกวัดแกว่งลม หมึกย้อม Drifting Cloud ศิลปะแห่งม้วนภาพจะบรรจบกันเป็นภูเขาฤดูใบไม้ผลิที่ทอดยาวสุดลูกตา คลี่คลายความงดงามและกลายเป็นทิวทัศน์อันงดงามของใบไม้ผลิที่เบ่งบาน"
+  },
+  "13320": {
+   "id": 13320,
+   "tag": 1,
+   "type": 1,
+   "scene": 1,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Radiant Splash",
+   "title_th": "Cool Summer",
+   "desc": "Blazing sun, salt air, and crashing surf. A radiant figure dances among them all, alive with an energy that outshines even the summer itself.",
+   "desc_th": "แสงอาทิตย์สดใส สายลมทะเล คลื่นซัดฝั่ง— เงาร่างหนึ่งอันสง่างามเต้นรำอย่างอิสระกับสิ่งเหล่านั้น เปล่งประกายชีวิตชีวาอันไร้ขีดจำกัด"
+  },
+  "13321": {
+   "id": 13321,
+   "tag": 1,
+   "type": 1,
+   "scene": 1,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": false,
+   "title": "Stellar Eulogy",
+   "title_th": "Stellar Eulogy",
+   "desc": "A silver-white gown that trails like liquid light, its soft radiance spilling and weaving beneath the quiet night, spreading ripples of brilliance wherever it falls.",
+   "desc_th": "ชุดสีเงิน-ขาวพลิ้วไหวราวแสงระยิบระยับ รัศมีเงินอ่อนนุ่มไหลลงมาและเกี่ยวพันกัน กระจายระลอกคลื่นที่เจิดจ้าภายใต้ราตรีอันเงียบสงบ"
+  },
+  "13322": {
+   "id": 13322,
+   "tag": 1,
+   "type": 1,
+   "scene": 1,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": false,
+   "title": "Stellar Overseer",
+   "title_th": "Stellar Overseer",
+   "desc": "Follow the map, track down scattered relics. Every venture amid ruins and hidden realms is a romantic adventure for the treasure hunter.",
+   "desc_th": "ตามคำแนะนำของแผนที่ แสวงหาโบราณวัตถุที่กระจัดกระจาย—การสำรวจทุกครั้งระหว่างซากปรักหักพังและอาณาจักรลับเป็นการผจญภัยที่โรแมนติกของนักล่าสมบัติ"
+  },
+  "13323": {
+   "id": 13323,
+   "tag": 1,
+   "type": 1,
+   "scene": 1,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": [
+    [
+     97,
+     1
+    ]
+   ],
+   "can_show_in_level": false,
+   "title": "Effulgent Paean",
+   "title_th": "Effulgent Paean",
+   "desc": "Moonlight pours down to meet a rising chorus. Songs of praise echo across the night sky, and each clear note bears a blessing beneath the moon.",
+   "desc_th": "แสงจันทร์หลั่งลงมาพร้อมกับเสียงสวดอันแผ่วเบาที่ได้ยิน คำสรรเสริญที่มอบให้แก่จันทร์อันบริสุทธิ์ก้องกังวานไปทั่วท้องนภาราตรี บทเพลงอันบริสุทธิ์และงดงามลอยขึ้นอย่างอ่อนโยนไปพร้อมกับแสงจันทร์ และพรอันบริสุทธิ์เชื้อเชิญจันทร์สว่างให้ร่วมเดินทางไปด้วยกัน"
+  },
+  "13324": {
+   "id": 13324,
+   "tag": 1,
+   "type": 1,
+   "scene": 1,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": true,
+   "show_activitys": null,
+   "can_show_in_level": false,
+   "title": "Frostbound Elegance",
+   "title_th": "Frost Kingdom Style",
+   "desc": "Follow the map, track down scattered relics. Every venture amid ruins and hidden realms is a romantic adventure for the treasure hunter.",
+   "desc_th": "ตามคำแนะนำของแผนที่ แสวงหาโบราณวัตถุที่กระจัดกระจาย—การสำรวจทุกครั้งระหว่างซากปรักหักพังและอาณาจักรลับเป็นการผจญภัยที่โรแมนติกของนักล่าสมบัติ"
+  },
+  "13501": {
+   "id": 13501,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 20501,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Timeless Classic",
+   "title_th": "เหนือกาลเวลา",
+   "desc": "Chaku-ring's default design features a sleek mechanical aesthetic, with silver and bright yellow creating a timelessly simple look.",
+   "desc_th": "ดีไซน์เริ่มต้นของ Chaku-ring มาพร้อมกับความสวยงามสไตล์จักรกลที่โฉบเฉี่ยวด้วยสีเงินและสีเหลืองสดใส ช่วยสร้างลุคที่เรียบง่ายเหนือกาลเวลา"
+  },
+  "13503": {
+   "id": 13503,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Solemn Dark",
+   "title_th": "สีเข้มมาดขรึม",
+   "desc": "Chaku-ring's casual outfit combines deep black with vibrant orange, showcasing a bold personal style with a refreshing modern edge.",
+   "desc_th": "ชุดลำลองของ Chaku-ring ผสมผสานสีดำสนิทเข้ากับสีส้มอันสดใส แสดงให้เห็นถึงสไตล์ส่วนตัวอันโดดเด่นและกลิ่นของความทันสมัยและแปลกใหม่"
+  },
+  "13504": {
+   "id": 13504,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Quiet Gray",
+   "title_th": "สีเทานิ่งสงบ",
+   "desc": "Chaku-ring's casual outfit blends gray with purple, embodying a cyberpunk aesthetic that echoes the ever-evolving, futuristic world.",
+   "desc_th": "ชุดลำลองของ Chaku-ring ผสมผสานสีเทาเข้ากับสีม่วง แสดงให้เห็นถึงความสวยงามสไตล์ไซเบอร์พังก์ที่สะท้อนถึงโลกอนาคตที่พัฒนาอยู่ตลอดเวลา"
+  },
+  "13505": {
+   "id": 13505,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Vibrant Bright",
+   "title_th": "สีสันเจิดจ้า",
+   "desc": "Chaku-ring's casual outfit pairs white with bright orange, effortlessly creating an energetic and lively vibe.",
+   "desc_th": "ชุดลำลองของ Chaku-ring จับคู่สีขาวเข้ากับสีส้มอันสดใส ช่วยสร้างบรรยากาศที่ดูสดใสมีชีวิตชีวาได้อย่างง่ายดาย"
+  },
+  "13506": {
+   "id": 13506,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Fresh Blue",
+   "title_th": "สีฟ้าสดชื่น",
+   "desc": "Chaku-ring's casual outfit, featuring a blue and white color scheme, evokes a refreshing, serene, and naturally crisp feel.",
+   "desc_th": "ชุดลำลองของ Chaku-ring ที่มาในโทนสีฟ้าและสีขาว ชวนให้รู้สึกเย็นสบาย เงียบสงบ และสดชื่นไปโดยปริยาย"
+  },
+  "13507": {
+   "id": 13507,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Charming Pink",
+   "title_th": "สีชมพูทรงเสน่ห์",
+   "desc": "Chaku-ring's casual outfit, primarily white with pink accents, offers a fresh new look—this is a different side of Chaku-ring.",
+   "desc_th": "ชุดลำลองของ Chaku-ring ซึ่งขับเน้นด้วยสีขาวและมีสีชมพูเป็นหลัก ช่วยสร้าง ลุคที่ดูสดใหม่ และเผยให้เห็นด้านที่แตกต่างออกไปของ Chaku-ring"
+  },
+  "13508": {
+   "id": 13508,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Bright Orange",
+   "title_th": "สีส้มจี๊ดจ๊าด",
+   "desc": "Chaku-ring's casual outfit combines bright yellow with blue, creating a striking contrast between liveliness and composure, highlighting a balance of stability and playfulness.",
+   "desc_th": "ชุดลำลองของ Chaku-ring ผสมผสานสีเหลืองสดใสเข้ากับสีน้ำเงิน เกิดเป็นความมีชีวิตชีวาและความสุขุมที่ตัดกันอย่างชัดเจน ช่วยเน้นบุคลิกที่มั่นคงแต่ยังคงแฝงไปด้วยความสนุกสนานได้อย่างลงตัว"
+  },
+  "13509": {
+   "id": 13509,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Performance: Hero",
+   "title_th": "การแสดง: ผู้กล้า",
+   "desc": "A chilling light cutting through the darkness—Hero Chaku-ring moves through crime scenes, harvesting the sins of the city.",
+   "desc_th": "แสงที่เยือกเย็นตัดผ่านความมืดมิด Hero Chaku-ring เคลื่อนตัวผ่านสถานที่เกิดเหตุ พลางเก็บเกี่ยวบาปของเมืองไปด้วย"
+  },
+  "13510": {
+   "id": 13510,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": [
+    [
+     20,
+     5
+    ]
+   ],
+   "can_show_in_level": true,
+   "title": "Performance: Demon King",
+   "title_th": "การแสดง: ราชาปีศาจ",
+   "desc": "As an adorable yet dangerous and captivating Demon King, Chaku-ring exudes a mischievous confidence with every gesture, as if everything is part of a carefully orchestrated performance.",
+   "desc_th": "Chaku-ring ในฐานะราชาปีศาจผู้น่ารักทว่ามีเสน่ห์อันร้ายกาจ จะแสดงให้เห็นถึงความมั่นใจที่แสนซุกซนในทุกท่วงท่า ราวกับว่าทุกอย่างเป็นส่วนหนึ่งของการแสดงที่วางแผนไว้มาเป็นอย่างดี"
+  },
+  "13511": {
+   "id": 13511,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Game Village: Knight",
+   "title_th": "หมู่บ้านในเกม: อัศวิน",
+   "desc": "Forged with the power of glory and light, Knight Chaku-ring stands unwavering, devoted to protecting the Hyperlinkers.",
+   "desc_th": "Hero Chaku-ring ที่เกิดจากพลังแห่งเกียรติยศและแสงสว่าง ยืนหยัดอย่างแน่วแน่และพร้อมอุทิศตนเพื่อปกป้อง เหล่าไฮเปอร์ลิงเกอร์"
+  },
+  "13512": {
+   "id": 13512,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": [
+    [
+     20,
+     5
+    ]
+   ],
+   "can_show_in_level": true,
+   "title": "Game Village: Undead",
+   "title_th": "หมู่บ้านในเกม: ผีดิบ",
+   "desc": "The undead Chaku-ring, once slumbering in the shadows, has opened its eyes. Its gaze pierces through time, its figure drifting like a ghostly apparition.",
+   "desc_th": "Chaku-ring ผู้ฆ่าไม่ตาย ซึ่งเคยหลับใหลอยู่ในเงามืดได้ลืมตาตื่นขึ้น มองทะลุผ่านกาลเวลาด้วยร่างกายที่ลอยไปมาราวกับภูติผี"
+  },
+  "13513": {
+   "id": 13513,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Modern: Navigator",
+   "title_th": "ยุคใหม่: ผู้นำทาง",
+   "desc": "The roar of an engine echoes along the open highway, the wind rushing past like a taut string—this is an endless journey, Chaku-ring's relentless pursuit of freedom.",
+   "desc_th": "เสียงคำรามของเครื่องยนต์ดังกึกก้องไปตามทางหลวงที่เปิดโล่ง สายลมกรรโชกแรงราวกับเส้นลวดที่ขึงแน่น เพราะการเดินทางอันไร้สิ้นสุดคือการแสวงหาอิสรภาพอย่างไม่ย่อท้อของ Chaku-ring"
+  },
+  "13514": {
+   "id": 13514,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Performance: Shark",
+   "title_th": "การแสดง: ฉลาม",
+   "desc": "Rows of razor-sharp teeth gleam under the sunlight—Shark Chaku-ring is prepped and ready, awaiting orders at any moment!",
+   "desc_th": "ฟันอันแหลมคมที่เรียงแถวเป็นประกายรับแสงแดดทำให้ Shark Chaku-ring พร้อมรอรับคำสั่งทุกเมื่อ!"
+  },
+  "13515": {
+   "id": 13515,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Performance: Crane Operator",
+   "title_th": "การแสดง: ผู้ควบคุมเครน",
+   "desc": "\"Strength to move mountains, a heart of iron\"—don't even think about talking to Chaku-ring right now. In those eyes, there is only the vast ocean of stars.",
+   "desc_th": "\"มีทั้งพละกำลังที่จะเคลื่อนขุนเขา และจิตใจที่กล้าแกร่งดั่งเหล็ก\" อย่าได้คิดที่จะคุยกับ Chaku-ring ในตอนนี้เชียว เพราะดวงตาคู่นั้นมองเห็นเพียงภาพมหาสมุทรแห่งดวงดาวอันกว้างใหญ่ไพศาลเท่านั้น"
+  },
+  "13516": {
+   "id": 13516,
+   "tag": 1,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Game Village: Red Devil",
+   "title_th": "หมู่บ้านในเกม: ปีศาจแดง",
+   "desc": "Black horns, red hat—the Red Demon Chaku-ring is up to no good. Don't make eye contact—run fast, run far, and keep misfortune at bay!",
+   "desc_th": "Red Demon Chaku-ring ผู้มีเขาสีดำและใส่หมวกสีแดง กำลังวางแผนร้ายอยู่ อย่าสบตา แล้วรีบหนีไปให้ไกล ๆ และอยู่ให้ห่างจากความโชคร้ายซะ!"
+  },
+  "13517": {
+   "id": 13517,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Game Village: Lurker",
+   "title_th": "หมู่บ้านในเกม: จอมซุ่ม",
+   "desc": "Within an unremarkable, overlooked cardboard box lies the most ingenious disguise of Stealth Chaku-ring, crafted to complete the task undetected.",
+   "desc_th": "ภายในกล่องกระดาษแข็งธรรมดา ๆ ที่ไม่มีใครสนใจนั้นมี Stealth Chaku-ring ที่ปลอมตัวอย่างชาญฉลาดซ่อนอยู่ เพื่อทำภารกิจโดยไม่ให้ถูกจับได้"
+  },
+  "13518": {
+   "id": 13518,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": [
+    [
+     20,
+     5
+    ]
+   ],
+   "can_show_in_level": true,
+   "title": "Modern: Gaming Partner",
+   "title_th": "ยุคใหม่: คู่หูเล่นเกม",
+   "desc": "A mark of its era, a symbol of countless youthful memories—Gaming Buddy Chaku-ring waits in quiet anticipation, ready to reignite the reckless passion of the past.",
+   "desc_th": "สัญลักษณ์แห่งยุคสมัย ตัวแทนแห่งความทรงจำมากมายในวัยเยาว์ Gaming Buddy Chaku-ring รอคอยอย่างเงียบงัน และพร้อมที่จะจุดไฟจิตวิญญาณแห่งความบ้าบิ่นในอดีตให้ลุกโชนขึ้นมาอีกครั้ง"
+  },
+  "13519": {
+   "id": 13519,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Ninja Crab",
+   "title_th": "ปูนินจา",
+   "desc": "It glides silently across the battlefield, with its solid armor resembling a crab's shell, moving with the stealth of a ninja as it carries out impossible quests only it can accomplish.",
+   "desc_th": "ล่องลอยอย่างเงียบเชียบผ่านสนามรบ ด้วยเกราะที่แข็งแกร่งคล้ายกระดองปู และเคลื่อนไหวคล่องแคล่วดั่งนินจาขณะทำภารกิจที่เป็นไปไม่ได้ ซึ่งมีเพียงมันเท่านั้นที่ทำได้"
+  },
+  "13520": {
+   "id": 13520,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Wicked Bear",
+   "title_th": "แฟนตาซี: หมีใจร้าย",
+   "desc": "With its adorable looks and hidden weapons, Bizarre Bear Chaku-ring is the most unexpected ally you could ask for. Don't be fooled by the cuteness—it's seriously dangerous!",
+   "desc_th": "ด้วยรูปลักษณ์อันน่ารักและอาวุธที่ซ่อนเร้น หมีประหลาด Chaku-ring จึงกลายมาเป็นพันธมิตรที่คาดไม่ถึงที่สุดของคุณ แต่อย่าหลงกลกับความน่ารักของมันเชียว อันตรายมากจริง ๆ!"
+  },
+  "13521": {
+   "id": 13521,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": true,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Money Kitty",
+   "title_th": "เหมียวทองคำ",
+   "desc": "With a copper coin on its head and a bell around its neck, this is the Money Kitty everyone adores! See the gold raining down from the sky? Time to let your imagination run wild!",
+   "desc_th": "ด้วยเหรียญทองแดงบนหัวและกระดิ่งรอบคอนั่น บ่งบอกว่านี่คือเหมียวทองคำที่ทุกคนชื่นชอบ! เห็นฝนเหรียญทองที่ตกลงมาจากท้องฟ้านั่นไหม? ได้เวลาปลดปล่อยจินตนาการของคุณแล้ว!"
+  },
+  "13522": {
+   "id": 13522,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Frontier Cowboy",
+   "title_th": "Frontier Cowboy",
+   "desc": "Clad in retro-futuristic denim, Chaku-ring roams the endless data frontier, becoming the very essence of freedom.",
+   "desc_th": "Chaku-ring สวมชุดเดนิมสไตล์ย้อนยุค เดินทางข้ามพรมแดนข้อมูลอันไร้สิ้นสุด กลายเป็นสัญลักษณ์แห่งอิสรภาพ"
+  },
+  "13523": {
+   "id": 13523,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Pastry Chef",
+   "title_th": "Pastry Chef",
+   "desc": "It's time for a delicious dessert. Every bite is a treat for your taste buds. Follow pastry chef Chaku-ring and experience sweetness and charm together.",
+   "desc_th": "ถึงเวลาสำหรับของหวานแสนอร่อยแล้ว ทุกคำที่กัดจะมอบความอร่อยให้กับต่อมรับรสของคุณ สัมผัสความหวานและเสน่ห์ไปพร้อม ๆ กันกับเชฟทำขนม Chaku-ring"
+  },
+  "13524": {
+   "id": 13524,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Flame Warrior",
+   "title_th": "Flame Warrior",
+   "desc": "Wearing a fierce mask and crimson armor, Flame Warrior Chaku-ring makes a dazzling entrance. No matter what challenges arise, it will forge ahead fearlessly.",
+   "desc_th": "Flame Warrior Chaku-ring สวมหน้ากากดุดันและชุดเกราะสีแดงเข้ม ปรากฏตัวอย่างงดงาม ไม่ว่าจะเผชิญอุปสรรคใด ก็จะก้าวเดินต่อไปอย่างไม่หวั่นเกรง"
+  },
+  "13525": {
+   "id": 13525,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": true,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Sheriff",
+   "title_th": "Sheriff",
+   "desc": "Deep blue attire like the night sky, with star emblems like constellations. Sheriff Chaku-ring arrives, and all villains scatter!",
+   "desc_th": "ชุดสีน้ำเงินเข้มดุจท้องฟ้ายามค่ำคืน ประดับตราสัญลักษณ์ดวงดาวดั่งหมู่ดาว Sheriff Chaku-ring มาแล้ว และเหล่าวายร้ายต่างแตกกระเจิง!"
+  },
+  "13526": {
+   "id": 13526,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Mystic Violet",
+   "title_th": "มิสติกไวโอเล็ต",
+   "desc": "Chaku-ring's everyday outfit. A deep violet base accented with radiant green. Stylish and dazzling, it's sure to leave a lasting impression.",
+   "desc_th": "ชุดประจำวันของ Chaku-ring โทนสีม่วงเข้มที่ขับเน้นด้วยสีเขียวอันสดใส ทำให้ดูเก๋ไก๋สะดุดตา และช่วยสร้างความประทับใจไม่รู้ลืมได้อย่างแน่นอน"
+  },
+  "13527": {
+   "id": 13527,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Tranquil Blue",
+   "title_th": "สีฟ้าเงียบสงบ",
+   "desc": "Chaku-ring's everyday outfit. A sea-blue base accented with dusky yellow offers a unique charm, evoking a sense of peace and tranquility.",
+   "desc_th": "ชุดประจำวันของ Chaku-ring โทนสีฟ้าน้ำทะเลที่ขับเน้นด้วยสีเหลืองหม่นจะมอบเสน่ห์เฉพาะตัว ชวนให้รู้สึกสงบและผ่อนคลาย"
+  },
+  "13528": {
+   "id": 13528,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Energetic Pink",
+   "title_th": "สีชมพูเปี่ยมพลัง",
+   "desc": "Chaku-ring's everyday outfit. Pink always brings a burst of energy. This vibrant shade gives Chaku-ring a fresh new look, which is also a good omen for the upcoming Quest.",
+   "desc_th": "ชุดประจำวันของ Chaku-ring สีชมพูย่อมมาพร้อมกับความมีชีวิตชีวา เฉดสีที่สดใสนี้ช่วยสร้างลุคที่ดูสดใหม่ให้กับ Chaku-ring ซึ่งถือเป็นสัญญาณที่ดีสำหรับเควสที่กำลังจะมาถึง"
+  },
+  "13529": {
+   "id": 13529,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": [
+    [
+     20,
+     4
+    ]
+   ],
+   "can_show_in_level": true,
+   "title": "Forest Green",
+   "title_th": "ฟอเรสซ์กรีน",
+   "desc": "Chaku-ring's everyday outfit. A deep forest green, reminiscent of a quiet, mystical woodland, evoking a sense of peace and harmony.",
+   "desc_th": "ชุดประจำวันของ Chaku-ring สีเขียวเข้มของผืนป่าชวนให้นึกถึงป่าไม้อันลึกลับและเงียบสงัด ชวนให้รู้สึกถึงความสงบสุขและความกลมกลืน"
+  },
+  "13530": {
+   "id": 13530,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": [
+    [
+     20,
+     4
+    ]
+   ],
+   "can_show_in_level": true,
+   "title": "Dazzling Crimson",
+   "title_th": "แดสลิงสการ์เล็ต",
+   "desc": "Chaku-ring's everyday outfit. A combination of fiery red and vibrant yellow, an energetic fusion of vitality and firepower, and a striking sight on any Quest.",
+   "desc_th": "ชุดประจำวันของ Chaku-ring สีแดงเพลิงตัดกับสีเหลืองอันสดใส เป็นการผสานรวมพลังแห่งความมีชีวิตชีวาและความร้อนแรง และทำให้ดูสะดุดตาในทุกเควสต์"
+  },
+  "13531": {
+   "id": 13531,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": [
+    [
+     20,
+     4
+    ]
+   ],
+   "can_show_in_level": true,
+   "title": "Retro Orange",
+   "title_th": "เรโทรออเรนจ์",
+   "desc": "Chaku-ring's everyday outfit. Retro burnt orange clashes with avant-garde bright blue, adding a flash of style to an understated design.",
+   "desc_th": "ชุดประจำวันของ Chaku-ring สีส้มไหม้สไตล์เรโทรตัดกับสีฟ้าสดใสแบบล้ำยุคจะช่วยเพิ่มความโดดเด่นมีสไตล์ให้กับดีไซน์อันเรียบหรู"
+  },
+  "13532": {
+   "id": 13532,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Little Chef",
+   "title_th": "เชฟตัวน้อย",
+   "desc": "Transforming into Chef Chaku-ring, a lover of fine food and cooking, dedicated to bringing deliciousness and flavor to all – care for a taste?",
+   "desc_th": "แปลงโฉมเป็นเชฟ Chaku-ring ผู้หลงรักอาหารชั้นเลิศและการทำอาหาร แถมยังทุ่มเทกับการมอบความอร่อยให้ทุกคน อยากลองชิมสักหน่อยไหมล่ะ?"
+  },
+  "13533": {
+   "id": 13533,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Joy Drum",
+   "title_th": "กลองเริงร่า",
+   "desc": "Boom, boom, crash! Joy Drum Chaku-ring brandishes the drumsticks, ready to play a joyful beat. Keep up with the rhythm and dance along!",
+   "desc_th": "ตึง ตึง โป๊ะ! กลองเริงร่า Chaku-ring ผู้นี้จะควงไม้กลองสร้างจังหวะสนุก ๆ จับจังหวะให้ทันและโยกย้ายส่ายสะโพกไปพร้อมกันเลย!"
+  },
+  "13534": {
+   "id": 13534,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Lucky Carp",
+   "title_th": "ปลาคาร์ปมงคล",
+   "desc": "\"Trust me! Good luck is coming!\" – The Legendary Lucky Carp Chaku-ring wiggles its little fin and swishes its tail, eager to bestow good fortune throughout the day.",
+   "desc_th": "\"เชื่อฉันสิ! โชคดีกำลังมาเยือน!\" – ปลาคาร์ปมงคลในตำนาน Chaku-ring ผู้นี้ขยับครีบเล็ก ๆ และสะบัดหางด้วยความตื่นเต้นที่จะได้มอบโชคลาภให้ตลอดทั้งวัน"
+  },
+  "13535": {
+   "id": 13535,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Dice Colors",
+   "title_th": "ลูกเต๋าหลากสี",
+   "desc": "Shh! Don't let its small size fool you. The Dice Colors Chaku-ring is a king of the arcade! No one can snatch a single chip from its grasp.",
+   "desc_th": "ชู่ว! อย่าให้รูปร่างเล็ก ๆ ของมันหลอกคุณได้ ลูกเต๋าหลากสี Chaku-ring ผู้นี้คือราชาแห่งตู้เกม! ไม่มีใครแย่งชิปจากมันไปได้แม้แต่ชิปเดียว"
+  },
+  "13536": {
+   "id": 13536,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Super Fortune",
+   "title_th": "ลาภก้อนโต",
+   "desc": "Clear your mind and find your peace – the Super Fortune Chaku-ring never disappoints. Each draw brings a lucky charm to fulfill your wishes.",
+   "desc_th": "ทำจิตใจให้ปลอดโปร่งและสงบนิ่ง เพราะ Chaku-ring ผู้มาพร้อมกับลาภก้อนโตนี้จะไม่ทำให้คุณต้องผิดหวัง การสุ่มแต่ละครั้งจะมอบเครื่องรางนำโชคเพื่อทำให้ความปรารถนาของคุณเป็นจริง"
+  },
+  "13537": {
+   "id": 13537,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": true,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Blue Gourd",
+   "title_th": "น้ำเต้าสีฟ้า",
+   "desc": "The Chaku-ring transforms into an adorable blue Panda Gourd. Its cuddly form makes you want to give it a squeeze. But be warned. This soft and huggable little fellow might just steal your heart!",
+   "desc_th": "Chaku-ring จะแปลงร่างเป็นน้ำเต้าแพนด้าสีฟ้าสุดน่ารัก รูปร่างอันน่ากอดของมันจะทำให้คุณอดใจไม่ไหว แต่ระวังให้ดี เพราะเจ้าตัวน้อยที่นุ่มนิ่มน่ากอดนี้อาจทำให้คุณตกหลุมรักได้ง่าย ๆ!"
+  },
+  "13538": {
+   "id": 13538,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": [
+    [
+     20,
+     4
+    ]
+   ],
+   "can_show_in_level": true,
+   "title": "Celadon",
+   "title_th": "Celadon",
+   "desc": "This delicate blue-and-white porcelain has become Chaku-ring's favorite getup. The creed of the strong? Always charge ahead!",
+   "desc_th": "เครื่องลายครามสีน้ำเงินขาวอันประณีตชิ้นนี้กลายเป็นเครื่องประดับชิ้นโปรดของ Chaku-ring หลักความเชื่อของผู้แข็งแกร่งงั้นเหรอ? ก้าวไปข้างหน้าเสมอไงล่ะ!"
+  },
+  "13539": {
+   "id": 13539,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": [
+    [
+     20,
+     4
+    ]
+   ],
+   "can_show_in_level": true,
+   "title": "Bronze",
+   "title_th": "Bronze",
+   "desc": "Tempered bronze, gleaming faintly. Echoes of antiquity resonate in this perfectly forged new attire. Rest assured, Chaku-ring is ready for the next quest.",
+   "desc_th": "บรอนซ์ชุบแข็ง แวววาวเล็กน้อย กลิ่นอายของความเก่าแก่สะท้อนก้องอยู่ในชุดใหม่ที่ตีขึ้นอย่างสมบูรณ์แบบนี้ มั่นใจได้เลยว่า Chaku-ring พร้อมสำหรับเควสต่อไปแล้ว"
+  },
+  "13540": {
+   "id": 13540,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": [
+    [
+     20,
+     4
+    ]
+   ],
+   "can_show_in_level": true,
+   "title": "Blazing Ember",
+   "title_th": "Blazing Ember",
+   "desc": "\"Bang!\" ——Unstoppable blazing flames! Clad in flames, Chaku-ring stands ready for orders.",
+   "desc_th": "\"ปัง!\"-- เปลวเพลิงลุกโชนอย่างไม่หยุดยั้ง! Chaku-ring ที่สวมชุดเปลวเพลิงพร้อมรับคำสั่ง"
+  },
+  "13541": {
+   "id": 13541,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": [
+    [
+     20,
+     4
+    ]
+   ],
+   "can_show_in_level": true,
+   "title": "Cooking",
+   "title_th": "Cooking",
+   "desc": "Chaku-ring makes a dazzling debut as artisanal cookware! But don't get the wrong idea—this look is just for show. No seasoning allowed!",
+   "desc_th": "Chaku-ring เปิดตัวอย่างงดงามในฐานะเครื่องครัวงานฝีมือ! แต่อย่าเข้าใจผิด เพราะลุคนี้แค่ไว้โชว์เท่านั้น ไม่ได้ให้ใช้!"
+  },
+  "13542": {
+   "id": 13542,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": [
+    [
+     20,
+     4
+    ]
+   ],
+   "can_show_in_level": true,
+   "title": "Gracefold Fan",
+   "title_th": "Gracefold Fan",
+   "desc": "The elegant, antique frame unfolds gracefully, its surface adorned with exquisite, flowing patterns. It reveals a rarely seen side of Chaku-ring, one that blends artistic charm with mechanical precision.",
+   "desc_th": "กรอบรูปโบราณอันสง่างามเผยโฉมอย่างตระการตา พื้นผิวประดับประดาด้วยลวดลายพลิ้วไหวอันวิจิตรบรรจง เผยให้เห็นด้านที่หาได้ยากของ Chaku-ring ซึ่งผสมผสานเสน่ห์ทางศิลปะเข้ากับความแม่นยำเชิงกลไก"
+  },
+  "13543": {
+   "id": 13543,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": true,
+   "b_show_only_get": false,
+   "show_activitys": [
+    [
+     20,
+     4
+    ]
+   ],
+   "can_show_in_level": true,
+   "title": "Violet Iron",
+   "title_th": "Violet Iron",
+   "desc": "An intricate violet-iron shell engraved with precise patterns. With a cool and efficient style, Chaku-ring is ready for the next quest directive.",
+   "desc_th": "เปลือกหอยสลับซับซ้อนสีม่วงบรรจงสลักลวดลายอย่างประณีต ด้วยสไตล์ที่เท่และทรงประสิทธิภาพ Chaku-ring พร้อมสำหรับคำสั่งเควสต่อไปแล้ว"
+  },
+  "13544": {
+   "id": 13544,
+   "tag": 1,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Astral Voyager",
+   "title_th": "Astral Voyager",
+   "desc": "Every sensor calibrated. Every weapon primed. When danger strikes the starways, Chaku-ring will be there to meet it head-on!",
+   "desc_th": "ปรับเทียบเซ็นเซอร์ทั้งหมดแล้ว อาวุธทุกชิ้นพร้อมรบ เมื่อภัยอันตรายมาเยือนเส้นทางแห่งดวงดาว Chaku-ring จะเผชิญหน้าอย่างไม่หวาดหวั่น!"
+  },
+  "13545": {
+   "id": 13545,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": [
+    [
+     20,
+     5
+    ]
+   ],
+   "can_show_in_level": true,
+   "title": "Dynamic Tangerine",
+   "title_th": "ส้มสีสัน",
+   "desc": "Chaku-ring's daily outfit, featuring bright orange and white with a coffee-colored base. Pure energetic sporty style.",
+   "desc_th": "ชุดประจำวันของ Chaku-ring แต้มสีขาวและส้มสดใสบนพื้นสีกาแฟที่ฉายพลังงานสไตล์สปอร์ตบริสุทธิ์อย่างเต็มเปี่ยม"
+  },
+  "13546": {
+   "id": 13546,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": [
+    [
+     20,
+     5
+    ]
+   ],
+   "can_show_in_level": true,
+   "title": "Nocturnal Violet",
+   "title_th": "ม่วงราตรี",
+   "desc": "Chaku-ring's daily outfit, mainly in mysterious purple, accented with high-contrast yellow. Mysterious yet vibrant, it tends to leave a lasting impression.",
+   "desc_th": "ชุดประจำวันของ Chaku-ring ที่เน้นสีม่วงแสนเร้นลับ ขับเน้นด้วยสีเหลืองแสนจัดจ้าน ทั้งลึกลับและฉูดฉาดในคราวเดียวกันจนมักฝากความประทับใจอย่างตราตรึง"
+  },
+  "13547": {
+   "id": 13547,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": [
+    [
+     20,
+     5
+    ]
+   ],
+   "can_show_in_level": true,
+   "title": "Cyber Blue",
+   "title_th": "ไซเบอร์บลู",
+   "desc": "Chaku-ring's daily outfit, primarily blue-toned with red and white color blocks, radiating a strong tech vibe. It is one of the most reassuring color.",
+   "desc_th": "ชุดประจำวันของ Chaku-ring ที่เน้นโทนสีน้ำเงินเป็นหลักพร้อมบล็อกสีแดงและขาว ให้บรรยากาศความล้ำยุคที่แผ่ซ่าน ถือได้ว่าเป็นหนึ่งในสีที่ให้ความมั่นใจมากที่สุด"
+  },
+  "13548": {
+   "id": 13548,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": [
+    [
+     20,
+     6
+    ]
+   ],
+   "can_show_in_level": true,
+   "title": "Polar Ice",
+   "title_th": "น้ำแข็งขั้วโลก",
+   "desc": "Chaku-ring's casual outfit. Snow white paired with glacier blue, the most iconic winter color. This is Chaku-ring's favorite winter wear.",
+   "desc_th": "แฟชั่นชุดลำลองของ Chaku-ring สีขาวราวหิมะที่จับคู่กับสีฟ้ายะเยือกของน้ำแข็ง ถือเป็นการจับคู่สีสันแห่งฤดูหนาวที่โดดเด่นอย่างที่สุด นี่แหละคือแฟชั่นฤดูหนาวสุดโปรดของ Chaku-ring"
+  },
+  "13549": {
+   "id": 13549,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": [
+    [
+     20,
+     6
+    ]
+   ],
+   "can_show_in_level": true,
+   "title": "Winterberry Red",
+   "title_th": "แดงเบอร์รี่เหมันต์",
+   "desc": "Chaku-ring's casual outfit, eye-catching, with a strong contrast between red and green. It showcases a rich festive atmosphere.",
+   "desc_th": "แฟชั่นชุดลำลองของ Chaku-ring ที่เตะตาด้วยสีสันตัดกันอย่างจัดจ้านระหว่างแดงและเขียว เป็นชุดที่สื่อถึงบรรยากาศการเฉลิมฉลองอย่างเต็มเปี่ยม"
+  },
+  "13550": {
+   "id": 13550,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": [
+    [
+     20,
+     6
+    ]
+   ],
+   "can_show_in_level": true,
+   "title": "Pine Needle",
+   "title_th": "ใบสน",
+   "desc": "Chaku-ring's casual outfit, based on green tones with touches of yellow accents, like fresh buds on pine branches. It displays a natural, fresh, and vivid vibe.",
+   "desc_th": "แฟชั่นชุดลำลองของ Chaku-ring สีพื้นโทนเขียวแต่งแต้มรายละเอียดเหลืองราวกับยอดตูมสดใหม่ของต้นสน ให้กลิ่นอายความเป็นธรรมชาติ สดใหม่ และสดใส"
+  },
+  "13551": {
+   "id": 13551,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": [
+    [
+     20,
+     5
+    ]
+   ],
+   "can_show_in_level": true,
+   "title": "Red Patroller",
+   "title_th": "Red Patroller",
+   "desc": "Draped in a crimson cloak, Chaku-ring transforms into a powerful yet low-key wanderer. Dedicated to fulfilling the mission in their heart, it never misses a single clue.",
+   "desc_th": "Chaku-ring ห่อกายในผ้าคลุมสีแดงสด แปลงร่างเป็นนักเดินทางผู้กลมกลืนแต่แฝงไว้ด้วยพลัง ไม่เคยพลาดทุกเบาะแสด้วยความมุ่งมั่นที่จะทำภารกิจให้สำเร็จภายในใจ"
+  },
+  "13552": {
+   "id": 13552,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": [
+    [
+     20,
+     5
+    ]
+   ],
+   "can_show_in_level": true,
+   "title": "Eerie Candle",
+   "title_th": "Eerie Candle",
+   "desc": "On dark nights, Chaku-ring dresses as a candlelit ghost and knocks on your door—trick or treat!",
+   "desc_th": "ในรัตติกาลอันมืดมิด Chaku-ring แต่งตัวเป็นวิญญาณใต้แสงเทียนมาเพื่อเวียนเคาะประตูบ้านท่าน ได้เวลทริกออร์ทรีต!"
+  },
+  "13553": {
+   "id": 13553,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": true,
+   "b_show_only_get": false,
+   "show_activitys": [
+    [
+     20,
+     5
+    ]
+   ],
+   "can_show_in_level": true,
+   "title": "Witch's Hat",
+   "title_th": "หมวกแม่มด",
+   "desc": "As night falls, Chaku-ring dons a wizard hat and flies to the streets—it's mischief time now!",
+   "desc_th": "เมื่อราตรีโรยม่าน Chaku-ring ก็สวมหมวกแม่มดก่อนออกบินสู่ท้องถนน ได้เวลาซุกซนแล้ว!"
+  },
+  "13554": {
+   "id": 13554,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Frostnight Justiciar",
+   "title_th": "Frostnight Justiciar",
+   "desc": "The winter showdown begins now. Chaku-ring takes its place at the head of the tribunal, ready to pass judgment without bias.",
+   "desc_th": "ศึกชี้ชะตาฤดูหนาวเริ่มแล้ว Chaku-ring ขึ้นประจำตำแหน่งหัวหน้าตุลาการ พร้อมพิพากษาอย่างไร้อคติ"
+  },
+  "13555": {
+   "id": 13555,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Crown of Goldthorn",
+   "title_th": "มงกุฏหนามทองคำ",
+   "desc": "The Auric Warcry has sounded. Forged in fierce resolve and unyielding spirit, it heralds one truth alone: the victor shall be crowned in glory.",
+   "desc_th": "Auric Warcry ดังกึกก้องแล้ว ขอเจตจำนงการต่อสู้อันดุดันและจิตวิญญาณนักสู้ที่พุ่งผงาดเป็นพยาน ผู้ชนะจักได้รับมงกุฎแห่งเกียรติยศ"
+  },
+  "13556": {
+   "id": 13556,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": [
+    [
+     20,
+     6
+    ]
+   ],
+   "can_show_in_level": true,
+   "title": "Candy Gentleman",
+   "title_th": "Candy Gentleman",
+   "desc": "As the evening lights come on, Chaku-ring puts on its Candy Gentleman top hat and slips into view. Sweet surprises for tonight are already taking shape in its workshop.",
+   "desc_th": "เมื่อแสงไฟยามเย็นสว่างขึ้น Chaku-ring ก็สวมหมวกทรงสูงของ \"Candy Gentleman\" แล้วปรากฏตัวอย่างเงียบ ๆ เวิร์กช็อปมหัศจรรย์ของมันกำลังเตรียมเซอร์ไพรส์หวาน ๆ ในคืนนี้"
+  },
+  "13557": {
+   "id": 13557,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": [
+    [
+     20,
+     6
+    ]
+   ],
+   "can_show_in_level": true,
+   "title": "Pastry Master",
+   "title_th": "Pastry Master",
+   "desc": "The bright chime of bells rings through the air. Chaku-ring greets every weary traveler with something sweet to say.",
+   "desc_th": "Jingle bells, jingle bells—เสียงกริ่งใสกังวานดังก้องไปในอากาศ Chaku-ring นำมาซึ่งคำทักทายอันแสนหวาน ต้อนรับนักเดินทางผู้อ่อนล้าทุกคน"
+  },
+  "13558": {
+   "id": 13558,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": [
+    [
+     20,
+     6
+    ]
+   ],
+   "can_show_in_level": true,
+   "title": "Nutcracker Guard",
+   "title_th": "Nutcracker Guard",
+   "desc": "On the most peaceful night of the year, Chaku-ring puts on its ceremonial cap and becomes a nutcracker soldier. The call to guard this tranquil hour has come.",
+   "desc_th": "ในคืนที่สงบและเงียบสงบที่สุดของทั้งปี Chaku-ring สวมหมวกพิธีการและแปลงร่างเป็นทหารของเล่น ภารกิจปกป้องสันติภาพกำลังเรียกหา"
+  },
+  "13559": {
+   "id": 13559,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": [
+    [
+     20,
+     6
+    ]
+   ],
+   "can_show_in_level": true,
+   "title": "Snow Elf",
+   "title_th": "Snow Elf",
+   "desc": "The morning after snowfall is perfectly still. Chaku-ring bundles up in its fuzzy winter coat and steps into a world of silver. A warm and curious adventure is about to begin.",
+   "desc_th": "หลังหิมะตก ยามเช้าเงียบสงบสนิท Chaku-ring เปลี่ยนมาสวมชุดฤดูหนาวนุ่มฟูและก้าวเข้าสู่โลกสีเงิน การผจญภัยอันอบอุ่นและมหัศจรรย์กำลังจะเริ่มต้น"
+  },
+  "13560": {
+   "id": 13560,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": [
+    [
+     20,
+     6
+    ]
+   ],
+   "can_show_in_level": true,
+   "title": "Wishweaver",
+   "title_th": "Wishweaver",
+   "desc": "Chaku-ring balances a wishing star on its head and plays the part of the cheeky Wishweaver. Make a wish, will you? It will blink at you with a knowing look, then quietly write it down.",
+   "desc_th": "Chaku-ring สวมดาวแห่งความปรารถนาบนหัว รับบทเป็น \"พ่อบ้านแห่งความปรารถนา\" ผู้ขี้เล่น ขอพรกับมันสิ—มันจะขยิบตาอย่างซุกซนแล้วจดบันทึกไว้ให้คุณอย่างเงียบ ๆ"
+  },
+  "13561": {
+   "id": 13561,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": true,
+   "b_show_only_get": false,
+   "show_activitys": [
+    [
+     20,
+     6
+    ]
+   ],
+   "can_show_in_level": true,
+   "title": "Reindeer Envoy",
+   "title_th": "Reindeer Envoy",
+   "desc": "Late at night, when everyone is asleep, Chaku-ring changes into its reindeer suit and squeezes through narrow chimneys to leave gifts beside pillows. How does it manage? Shh—that's a secret. But Chaku-ring always arrives on time.",
+   "desc_th": "ในราตรีที่มืดมิด Chaku-ring เปลี่ยนมาสวมชุดกวางเรนเดียร์ แอบลอดผ่านปล่องไฟแคบ ๆ และวางของขวัญไว้ข้างหมอนของผู้คนอย่างอ่อนโยน ถ้าคุณถามว่ามันทำได้อย่างไร? ชู่—นั่นเป็นความลับ แต่ Chaku-ring มาถึงตรงเวลาเสมอ"
+  },
+  "13562": {
+   "id": 13562,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": true,
+   "show_activitys": null,
+   "can_show_in_level": false,
+   "title": "Amorous Whisper",
+   "title_th": "Amorous Whisper",
+   "desc": "A flutter of pink signals carries sweet confessions straight to the heart. As a messenger of love, Chaku-ring is here to bless every bond that fate has written.",
+   "desc_th": "สัญญาณสีชมพูที่เปี่ยมล้นด้วยความรู้สึกจากใจจริง ถ่ายทอดคำสารภาพอันแสนหวานแทงตรงเข้ากลางใจ Chaku-ring แปลงกายเป็นผู้นำสารรัก อำนวยพรให้ทุกพันธะชะตาลิขิต"
+  },
+  "13563": {
+   "id": 13563,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": [
+    [
+     57,
+     1
+    ]
+   ],
+   "can_show_in_level": true,
+   "title": "Mystic Violet",
+   "title_th": "Mystic Violet",
+   "desc": "Dressed in a purple coat made for the New Year festivities, follow Chaku-ring under the dazzling fireworks and welcome the new chapter together!",
+   "desc_th": "สารเคลือบสีม่วงสั่งทำพิเศษสำหรับการเฉลิมฉลองเทศกาลวันตรุษจีน ภายใต้แสงเรืองรองของดอกไม้ไฟที่เปล่งประกายทั่วท้องฟ้า มาร่วมต้อนรับบทใหม่ของปีไปกับ Chaku-ring!"
+  },
+  "13564": {
+   "id": 13564,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": [
+    [
+     61,
+     1
+    ]
+   ],
+   "can_show_in_level": true,
+   "title": "Versatile Puppet",
+   "title_th": "Versatile Puppet",
+   "desc": "When invisible data currents coalesce into puppet strings, the real show begins—don't let Chaku-ring's little tricks fool you!",
+   "desc_th": "เมื่อกระแสข้อมูลที่มองไม่เห็นหลอมรวมกันเป็นเชือกหุ่นเชิด การแสดงที่แท้จริงก็เริ่มต้นขึ้น—อย่าหลงกลกับเล่ห์เหลี่ยมเล็ก ๆ ของ Chaku-ring!"
+  },
+  "13565": {
+   "id": 13565,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Cornucopia",
+   "title_th": "Cornucopia",
+   "desc": "Silks cut from clouds, spring well-wishes for the year ahead. With a treasure chest balanced on its head, Chaku-ring stands watch over every heartfelt wish.",
+   "desc_th": "เมฆ Brocade ที่ตัดเย็บอย่างประณีต คำทักทายฤดูใบไม้ผลิสำหรับปีใหม่ Chaku-ring ที่เทิน Cornucopia ไว้บนหัวจะปกป้องทุกคำอธิษฐานอันสูงค่า"
+  },
+  "13566": {
+   "id": 13566,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": [
+    [
+     66,
+     1
+    ]
+   ],
+   "can_show_in_level": true,
+   "title": "Diligent Maid",
+   "title_th": "Diligent Maid",
+   "desc": "A bright and sunny morning. The ever-diligent Chaku-ring ties on an apron, grabs the vacuum, and gets to work. Time to clean up!",
+   "desc_th": "เช้าที่สดใส Chaku-ring ผู้ขยันขันแข็งสวมผ้ากันเปื้อนและถือเครื่องดูดฝุ่นขึ้นมา—ได้เวลาทำความสะอาดแล้ว!"
+  },
+  "13567": {
+   "id": 13567,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": true,
+   "show_activitys": null,
+   "can_show_in_level": false,
+   "title": "Stellar Scout",
+   "title_th": "Stellar Scout",
+   "desc": "Yellow cap on, backpack secured. Chaku-ring is all geared up and ready to go. How about a grand adventure?",
+   "desc_th": "สวมหมวกสีเหลืองใบเล็กและสะพายเป้ Chaku-ring พร้อมลุย— คุณพร้อมสำหรับการผจญภัยสุดมหัศจรรย์หรือยัง?"
+  },
+  "13568": {
+   "id": 13568,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": [
+    [
+     83,
+     1
+    ]
+   ],
+   "can_show_in_level": true,
+   "title": "Summer Beach Star",
+   "title_th": "ฤดูร้อนระอุ: ดาวเด่นแห่งชายหาด",
+   "desc": "Sun, sand, and summer vibes. Chaku-ring rolls up in full beach gear, starfish shades catching every ray of sunshine. Say hello to the only beach star of the season!",
+   "desc_th": "บรรยากาศวันหยุดสุดสดใส! Chaku-ring สวมชุดฤดูร้อน แสงแดดสะท้อนอยู่ในแว่นกันแดดรูปปลาดาว เธอทักทายเพื่อน ๆ บนชายหาด— ดูสิ นี่แหละดาวเด่นแห่งชายหาดของซัมเมอร์นี้!"
+  },
+  "13569": {
+   "id": 13569,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": true,
+   "title": "Idol Chaku",
+   "title_th": "Idol Chaku",
+   "desc": "Neon pulses to the beat as Chaku-ring takes the stage. Spotlights and holographic sound rigs erupt all around, blasting searing waves of sound across the venue. Tonight's star has arrived, and the place is about to ignite.",
+   "desc_th": "แสงนีออนเต้นไปตามจังหวะขณะที่นักร้อง Chaku-ring ขึ้นเวทีพร้อมสปอตไลท์และระบบเสียงโฮโลแกรมที่ระเบิดรอบตัวอย่างตระการตา ปล่อยคลื่นเสียงที่แสนร้อนแรงไปทั่วสถานที่—นี่คือไอดอลปีศาจที่จุดประกายคืนนี้!"
+  },
+  "13570": {
+   "id": 13570,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": false,
+   "title": "Labyrinth Voyager",
+   "title_th": "นักสำรวจเขาวงกต",
+   "desc": "The scanners are upgraded and the survey gear is ready. Chaku-ring darts through the ever-shifting labyrinth to track down and record every buried clue and curious discovery!",
+   "desc_th": "อัปเกรดอุปกรณ์ตรวจจับแล้ว เครื่องมือสำรวจพร้อม—Chaku-ring สำรวจเขาวงกตที่เปลี่ยนแปลงตลอดเวลา ค้นหาและบันทึกทุกเบาแสที่ถูกฝังกลบและ Anomaly!"
+  },
+  "13571": {
+   "id": 13571,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": null,
+   "can_show_in_level": false,
+   "title": "Jubilee Star Envoy",
+   "title_th": "การเฉลิมฉลอง: Stellar Herald",
+   "desc": "As night descends, a festive melody begins to play amid the shimmering starlight. The light tune comes courtesy of Chaku-ring — an impromptu piece prepared just for the celebration.",
+   "desc_th": "ราตรีโรยม่าน ท่ามกลางแสงดาวระยิบระยับ ทำนองเพลงแห่งการเฉลิมฉลองเริ่มบรรเลง โน้ตเบา ๆ ลอยล่องในอากาศ—ทำนองด้นสดที่ Chaku-ring เตรียมไว้สำหรับงานเฉลิมฉลอง"
+  },
+  "13572": {
+   "id": 13572,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": true,
+   "show_activitys": null,
+   "can_show_in_level": false,
+   "title": "Chang'e's Envoy",
+   "title_th": "Chang'e's Envoy",
+   "desc": "Moonlight turns into a joyful festival signal, spreading the fragrant sweetness of autumn blessings—the freshly dressed, adorable Chaku-ring quietly delivers wishes of togetherness to every companion.",
+   "desc_th": "Moonlight กลายเป็นสัญญาณแห่งเทศกาลอันชื่นมื่น กระจายความหวานหอมแห่งพรฤดูใบไม้ร่วง—Chaku-ring แต่งตัวใหม่สุดน่ารักได้แอบส่งคำอวยพรแห่งการอยู่ร่วมกันไปให้เพื่อนทุกคน"
+  },
+  "13573": {
+   "id": 13573,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": true,
+   "show_activitys": null,
+   "can_show_in_level": false,
+   "title": "Heartleaf Sprite",
+   "title_th": "Heartleaf Sprite",
+   "desc": "Draped in emerald leaves and petals, wearing a heart-shaped floral crown, the little sprite cradles a wish scroll tied with red silk, bringing heartfelt and sweet blessings for the festival.",
+   "desc_th": "สวมใบและกลีบดอกสีมรกต พร้อมมงกุฎดอกไม้รูปหัวใจ นางฟ้าน้อยกอดม้วนคำอธิษฐานที่ผูกด้วยไหมสีแดง นำพรอันอบอุ่นและหวานชื่นมาสู่เทศกาล"
+  },
+  "13574": {
+   "id": 13574,
+   "tag": 0,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": false,
+   "show_activitys": [
+    [
+     99,
+     1
+    ]
+   ],
+   "can_show_in_level": false,
+   "title": "Candyland Monarch",
+   "title_th": "Candyland Monarch",
+   "desc": "A sweet mist hangs in the night air. Chaku-ring dons his purple-winged cape, balances a candy basket on his head, and goes knocking on his friends' doors. Trick or treat!",
+   "desc_th": "ในคืนที่มีหมอกหนาคลุ้งไปด้วยกลิ่นหอมหวาน Chaku-ring สวมเสื้อคลุมปีกสีม่วง วางตะกร้าขนมไว้บนหัว แล้วเคาะประตูบ้านเพื่อน ๆ ทีละบ้าน ได้เวลาทริกออร์ทรีต!"
+  },
+  "13575": {
+   "id": 13575,
+   "tag": 1,
+   "type": 3,
+   "scene": 11,
+   "goods": 0,
+   "is_hidden": false,
+   "b_show_only_get": true,
+   "show_activitys": null,
+   "can_show_in_level": false,
+   "title": "Frostbound Elegance",
+   "title_th": "Frost Kingdom Style",
+   "desc": "Moonlight turns into a joyful festival signal, spreading the fragrant sweetness of autumn blessings—the freshly dressed, adorable Chaku-ring quietly delivers wishes of togetherness to every companion.",
+   "desc_th": "Moonlight กลายเป็นสัญญาณแห่งเทศกาลอันชื่นมื่น กระจายความหวานหอมแห่งพรฤดูใบไม้ร่วง—Chaku-ring แต่งตัวใหม่สุดน่ารักได้แอบส่งคำอวยพรแห่งการอยู่ร่วมกันไปให้เพื่อนทุกคน"
+  }
+ },
+ "text_chunk": "00058_f652ed906a32ff84.json"
+}

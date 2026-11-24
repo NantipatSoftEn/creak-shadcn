@@ -1,0 +1,300 @@
+{
+ "config": "newbie_title",
+ "fields": [
+  "slot",
+  "page",
+  "subtitle",
+  "background",
+  "icon",
+  "open_level",
+  "open_section",
+  "quest_type",
+  "quest_sub_type_range",
+  "badge_id",
+  "legacy_open_section",
+  "title"
+ ],
+ "rows": [
+  [
+   {
+    "slot": 1,
+    "page": 1,
+    "subtitle": "ETHERIA",
+    "background": "Texture:T_UI_Brave_Img_Etheria",
+    "icon": "Texture:T_UI_Share_Icon_MainThread",
+    "open_level": 4,
+    "open_section": 2600101,
+    "quest_type": 21,
+    "quest_sub_type_range": [
+     1,
+     20
+    ],
+    "badge_id": 650,
+    "legacy_open_section": 100203,
+    "title": "Return Path",
+    "title_th": "เส้นทางหวนกลับ"
+   },
+   {
+    "slot": 1,
+    "page": 2,
+    "subtitle": "ETHERIA",
+    "background": "Texture:T_UI_Brave_Img_Etheria",
+    "icon": "Texture:T_UI_Share_Icon_MainThread",
+    "open_level": 4,
+    "open_section": 2600101,
+    "quest_type": 21,
+    "quest_sub_type_range": [
+     21,
+     40
+    ],
+    "badge_id": 650,
+    "legacy_open_section": 100203,
+    "title": "Return Path",
+    "title_th": "เส้นทางหวนกลับ"
+   },
+   {
+    "slot": 1,
+    "page": 3,
+    "subtitle": "ETHERIA",
+    "background": "Texture:T_UI_Brave_Img_Etheria",
+    "icon": "Texture:T_UI_Share_Icon_MainThread",
+    "open_level": 4,
+    "open_section": 2600101,
+    "quest_type": 21,
+    "quest_sub_type_range": [
+     41,
+     60
+    ],
+    "badge_id": 650,
+    "legacy_open_section": 100203,
+    "title": "Return Path",
+    "title_th": "เส้นทางหวนกลับ"
+   }
+  ],
+  [
+   {
+    "slot": 2,
+    "page": 1,
+    "subtitle": "ANIMUS",
+    "background": "Texture:T_UI_Brave_Img_Animus",
+    "icon": "Texture:T_UI_Brave_Icon_Animus",
+    "open_level": 4,
+    "open_section": 2600101,
+    "quest_type": 22,
+    "quest_sub_type_range": [
+     1,
+     20
+    ],
+    "badge_id": 651,
+    "legacy_open_section": 100203,
+    "title": "Link Again",
+    "title_th": "ลิงก์อีกครั้ง"
+   },
+   {
+    "slot": 2,
+    "page": 2,
+    "subtitle": "ANIMUS",
+    "background": "Texture:T_UI_Brave_Img_Animus",
+    "icon": "Texture:T_UI_Brave_Icon_Animus",
+    "open_level": 4,
+    "open_section": 2600101,
+    "quest_type": 22,
+    "quest_sub_type_range": [
+     21,
+     40
+    ],
+    "badge_id": 651,
+    "legacy_open_section": 100203,
+    "title": "Link Again",
+    "title_th": "ลิงก์อีกครั้ง"
+   },
+   {
+    "slot": 2,
+    "page": 3,
+    "subtitle": "ANIMUS",
+    "background": "Texture:T_UI_Brave_Img_Animus",
+    "icon": "Texture:T_UI_Brave_Icon_Animus",
+    "open_level": 4,
+    "open_section": 2600101,
+    "quest_type": 22,
+    "quest_sub_type_range": [
+     41,
+     60
+    ],
+    "badge_id": 651,
+    "legacy_open_section": 100203,
+    "title": "Link Again",
+    "title_th": "ลิงก์อีกครั้ง"
+   }
+  ],
+  [
+   {
+    "slot": 3,
+    "page": 1,
+    "subtitle": "SHELL",
+    "background": "Texture:T_UI_Brave_Img_Shell",
+    "icon": "Texture:T_UI_Brave_Icon_Shell",
+    "open_level": 4,
+    "open_section": 2600101,
+    "quest_type": 23,
+    "quest_sub_type_range": [
+     1,
+     20
+    ],
+    "badge_id": 652,
+    "legacy_open_section": 100203,
+    "title": "Reunion Grace",
+    "title_th": "พรหวนคืน"
+   },
+   {
+    "slot": 3,
+    "page": 2,
+    "subtitle": "SHELL",
+    "background": "Texture:T_UI_Brave_Img_Shell",
+    "icon": "Texture:T_UI_Brave_Icon_Shell",
+    "open_level": 4,
+    "open_section": 2600101,
+    "quest_type": 23,
+    "quest_sub_type_range": [
+     21,
+     40
+    ],
+    "badge_id": 652,
+    "legacy_open_section": 100203,
+    "title": "Reunion Grace",
+    "title_th": "พรหวนคืน"
+   },
+   {
+    "slot": 3,
+    "page": 3,
+    "subtitle": "SHELL",
+    "background": "Texture:T_UI_Brave_Img_Shell",
+    "icon": "Texture:T_UI_Brave_Icon_Shell",
+    "open_level": 4,
+    "open_section": 2600101,
+    "quest_type": 23,
+    "quest_sub_type_range": [
+     41,
+     60
+    ],
+    "badge_id": 652,
+    "legacy_open_section": 100203,
+    "title": "Reunion Grace",
+    "title_th": "พรหวนคืน"
+   }
+  ],
+  [
+   {
+    "slot": 4,
+    "page": 1,
+    "subtitle": "MYSTWARE",
+    "background": "Texture:T_UI_Brave_Img_Mystware",
+    "icon": "Texture:T_UI_Brave_Icon_Mysware",
+    "open_level": 4,
+    "open_section": 2600101,
+    "quest_type": 24,
+    "quest_sub_type_range": [
+     1,
+     20
+    ],
+    "badge_id": 653,
+    "legacy_open_section": 100203,
+    "title": "Covenant Consonance",
+    "title_th": "คำเชิญนำโชค"
+   },
+   {
+    "slot": 4,
+    "page": 2,
+    "subtitle": "MYSTWARE",
+    "background": "Texture:T_UI_Brave_Img_Mystware",
+    "icon": "Texture:T_UI_Brave_Icon_Mysware",
+    "open_level": 4,
+    "open_section": 2600101,
+    "quest_type": 24,
+    "quest_sub_type_range": [
+     21,
+     40
+    ],
+    "badge_id": 653,
+    "legacy_open_section": 100203,
+    "title": "Covenant Consonance",
+    "title_th": "คำเชิญนำโชค"
+   },
+   {
+    "slot": 4,
+    "page": 3,
+    "subtitle": "MYSTWARE",
+    "background": "Texture:T_UI_Brave_Img_Mystware",
+    "icon": "Texture:T_UI_Brave_Icon_Mysware",
+    "open_level": 4,
+    "open_section": 2600101,
+    "quest_type": 24,
+    "quest_sub_type_range": [
+     41,
+     60
+    ],
+    "badge_id": 653,
+    "legacy_open_section": 100203,
+    "title": "Covenant Consonance",
+    "title_th": "คำเชิญนำโชค"
+   },
+   {
+    "slot": 4,
+    "page": 4,
+    "subtitle": "MYSTWARE",
+    "background": "Texture:T_UI_Brave_Img_Mystware",
+    "icon": "Texture:T_UI_Brave_Icon_Mysware",
+    "open_level": 4,
+    "open_section": 2600101,
+    "quest_type": 24,
+    "quest_sub_type_range": [
+     61,
+     80
+    ],
+    "badge_id": 653,
+    "legacy_open_section": 100203,
+    "title": "Covenant Consonance",
+    "title_th": "คำเชิญนำโชค"
+   }
+  ],
+  [
+   {
+    "slot": 5,
+    "page": 1,
+    "subtitle": "ARENA",
+    "background": "Texture:T_UI_Brave_Img_Arena",
+    "icon": "Texture:T_UI_Share_Icon_Arena",
+    "open_level": 25,
+    "open_section": 2600101,
+    "quest_type": 25,
+    "quest_sub_type_range": [
+     1,
+     20
+    ],
+    "badge_id": 654,
+    "legacy_open_section": 100203,
+    "title": "Reunion Letter",
+    "title_th": "จดหมายหวนคืน"
+   },
+   {
+    "slot": 5,
+    "page": 2,
+    "subtitle": "ARENA",
+    "background": "Texture:T_UI_Brave_Img_Arena",
+    "icon": "Texture:T_UI_Share_Icon_Arena",
+    "open_level": 25,
+    "open_section": 2600101,
+    "quest_type": 25,
+    "quest_sub_type_range": [
+     21,
+     40
+    ],
+    "badge_id": 654,
+    "legacy_open_section": 100203,
+    "title": "Reunion Letter",
+    "title_th": "จดหมายหวนคืน"
+   }
+  ]
+ ],
+ "text_chunk": "00063_01806875e048c03b.json"
+}

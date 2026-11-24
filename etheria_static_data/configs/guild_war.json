@@ -1,0 +1,30 @@
+{
+ "config": "guild_war",
+ "fields": [
+  "segment_id",
+  "segment_name"
+ ],
+ "rows": [
+  {
+   "segment_id": 1,
+   "segment_name": "Registration Period",
+   "segment_name_th": "ช่วงลงทะเบียน"
+  },
+  {
+   "segment_id": 2,
+   "segment_name": "Layout Period",
+   "segment_name_th": "ช่วงวางแผน"
+  },
+  {
+   "segment_id": 3,
+   "segment_name": "Battle Period",
+   "segment_name_th": "ช่วงต่อสู้"
+  },
+  {
+   "segment_id": 4,
+   "segment_name": "Truce Period",
+   "segment_name_th": "ช่วงสงบศึก"
+  }
+ ],
+ "text_chunk": "00089_5befe94eccb70e49.json"
+}

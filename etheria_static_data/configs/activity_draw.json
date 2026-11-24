@@ -1,0 +1,623 @@
+{
+ "config": "activity_draw",
+ "fields": [
+  "id",
+  "animus_ids",
+  "pool_id",
+  "skin_ids",
+  "goods_ids",
+  "img_bg",
+  "desc"
+ ],
+ "rows": {
+  "61": {
+   "id": 61,
+   "animus_ids": [
+    30151
+   ],
+   "pool_id": 201,
+   "skin_ids": [
+    26001
+   ],
+   "goods_ids": [
+    15027,
+    15017,
+    15029,
+    15106
+   ],
+   "img_bg": 61,
+   "desc": "Light Judgement",
+   "desc_th": "แสงพิพากษา"
+  },
+  "62": {
+   "id": 62,
+   "animus_ids": [
+    31101,
+    30801
+   ],
+   "pool_id": 304,
+   "skin_ids": [
+    26011,
+    26012
+   ],
+   "goods_ids": [
+    15031,
+    15032,
+    15033,
+    15034
+   ],
+   "img_bg": 62,
+   "desc": "Evil Twin",
+   "desc_th": "แฝดปีศาจ"
+  },
+  "63": {
+   "id": 63,
+   "animus_ids": [
+    31151
+   ],
+   "pool_id": 204,
+   "skin_ids": [
+    26013
+   ],
+   "goods_ids": [
+    15027,
+    15028,
+    15029,
+    15030
+   ],
+   "img_bg": 63,
+   "desc": "Butterfly Waltz",
+   "desc_th": "ผีเสื้อวอลทซ์"
+  },
+  "64": {
+   "id": 64,
+   "animus_ids": [
+    31401,
+    31501
+   ],
+   "pool_id": 306,
+   "skin_ids": [
+    26016,
+    26017
+   ],
+   "goods_ids": [
+    15031,
+    15032,
+    15033,
+    15034
+   ],
+   "img_bg": 64,
+   "desc": "Lightwielder",
+   "desc_th": "Lightwielder"
+  },
+  "65": {
+   "id": 65,
+   "animus_ids": [
+    30951
+   ],
+   "pool_id": 205,
+   "skin_ids": [
+    26015
+   ],
+   "goods_ids": [
+    15027,
+    15017,
+    15029,
+    15030
+   ],
+   "img_bg": 65,
+   "desc": "Tempest Nocturne",
+   "desc_th": "พายุโนคเทิร์น"
+  },
+  "66": {
+   "id": 66,
+   "animus_ids": [
+    31751,
+    30851
+   ],
+   "pool_id": 308,
+   "skin_ids": [
+    26018,
+    26014
+   ],
+   "goods_ids": [
+    15031,
+    15032,
+    15033,
+    15034
+   ],
+   "img_bg": 66,
+   "desc": "Frostsink",
+   "desc_th": "กระแสน้ำแข็ง"
+  },
+  "67": {
+   "id": 67,
+   "animus_ids": [
+    31601
+   ],
+   "pool_id": 206,
+   "skin_ids": [
+    26019
+   ],
+   "goods_ids": [
+    15027,
+    15017,
+    15029,
+    15030
+   ],
+   "img_bg": 67,
+   "desc": "Aurora Plumes",
+   "desc_th": "Aurora Plumes"
+  },
+  "68": {
+   "id": 68,
+   "animus_ids": [
+    40871,
+    31651
+   ],
+   "pool_id": 310,
+   "skin_ids": [
+    26026,
+    26023
+   ],
+   "goods_ids": [
+    15031,
+    15032,
+    15033,
+    15034,
+    15014,
+    15016,
+    15101,
+    15102
+   ],
+   "img_bg": 68,
+   "desc": "Echoes of Cinder",
+   "desc_th": "เสียงสะท้อนแห่งเถ้าถ่าน"
+  },
+  "69": {
+   "id": 69,
+   "animus_ids": [
+    31801
+   ],
+   "pool_id": 207,
+   "skin_ids": [
+    26024
+   ],
+   "goods_ids": [
+    15027,
+    15017,
+    15029,
+    15106
+   ],
+   "img_bg": 69,
+   "desc": "Abyssal Rite",
+   "desc_th": "Abyssal Rite"
+  },
+  "70": {
+   "id": 70,
+   "animus_ids": [
+    31701,
+    40516
+   ],
+   "pool_id": 312,
+   "skin_ids": [
+    26027,
+    26028
+   ],
+   "goods_ids": [
+    15031,
+    15032,
+    15033,
+    15034,
+    15014,
+    15016,
+    15101,
+    15102
+   ],
+   "img_bg": 70,
+   "desc": "Elegy Words",
+   "desc_th": "ถ้อยคำอาลัย"
+  },
+  "71": {
+   "id": 71,
+   "animus_ids": [
+    31851
+   ],
+   "pool_id": 208,
+   "skin_ids": [
+    26029
+   ],
+   "goods_ids": [
+    15027,
+    15017,
+    15029,
+    15106
+   ],
+   "img_bg": 71,
+   "desc": "Fatewoven Trap",
+   "desc_th": "กับดักแห่งโชคชะตา"
+  },
+  "72": {
+   "id": 72,
+   "animus_ids": [
+    40901,
+    32001
+   ],
+   "pool_id": 315,
+   "skin_ids": [
+    26031,
+    26032
+   ],
+   "goods_ids": [
+    15031,
+    15032,
+    15033,
+    15034,
+    15014,
+    15016,
+    15101,
+    15102
+   ],
+   "img_bg": 72,
+   "desc": "Illusive Illusion",
+   "desc_th": "มายาลวงตา"
+  },
+  "73": {
+   "id": 73,
+   "animus_ids": [
+    32101
+   ],
+   "pool_id": 209,
+   "skin_ids": [
+    26034
+   ],
+   "goods_ids": [
+    15027,
+    15017,
+    15029,
+    15106,
+    15015,
+    15103
+   ],
+   "img_bg": 73,
+   "desc": "Drowse Sanctum",
+   "desc_th": "วิหารหาวนอน"
+  },
+  "74": {
+   "id": 74,
+   "animus_ids": [
+    32051
+   ],
+   "pool_id": 501,
+   "skin_ids": [
+    26033
+   ],
+   "goods_ids": [
+    15222,
+    15223,
+    15224
+   ],
+   "img_bg": 74,
+   "desc": "Ruin Blossom",
+   "desc_th": "บุปผาแห่งเศษซาก"
+  },
+  "75": {
+   "id": 75,
+   "animus_ids": [
+    32201,
+    32251
+   ],
+   "pool_id": 210,
+   "skin_ids": [
+    26037,
+    26036
+   ],
+   "goods_ids": [
+    15027,
+    15017,
+    15029,
+    15106,
+    15120,
+    15016,
+    15107,
+    15102
+   ],
+   "img_bg": 75,
+   "desc": "The Ancient Vow",
+   "desc_th": "The Ancient Vow"
+  },
+  "76": {
+   "id": 76,
+   "animus_ids": [
+    31951,
+    32351
+   ],
+   "pool_id": 319,
+   "skin_ids": [
+    26038,
+    26039
+   ],
+   "goods_ids": [
+    15031,
+    15032,
+    15033,
+    15034,
+    15014,
+    15105,
+    15101,
+    15104
+   ],
+   "img_bg": 76,
+   "desc": "Karmic Inferno",
+   "desc_th": "Karmic Inferno"
+  },
+  "77": {
+   "id": 77,
+   "animus_ids": [
+    32451
+   ],
+   "pool_id": 211,
+   "skin_ids": [
+    26040
+   ],
+   "goods_ids": [
+    15027,
+    15017,
+    15029,
+    15106,
+    15015,
+    15103
+   ],
+   "img_bg": 77,
+   "desc": "The Echoing Loong",
+   "desc_th": "The Echoing Loong"
+  },
+  "78": {
+   "id": 78,
+   "animus_ids": [
+    32051,
+    32151
+   ],
+   "pool_id": 404,
+   "skin_ids": [
+    26033,
+    26041
+   ],
+   "goods_ids": [
+    15222,
+    15223,
+    15224
+   ],
+   "img_bg": 78,
+   "desc": "Ashen Dirge",
+   "desc_th": "Ashen Dirge"
+  },
+  "79": {
+   "id": 79,
+   "animus_ids": [
+    32651
+   ],
+   "pool_id": 212,
+   "skin_ids": [
+    26043
+   ],
+   "goods_ids": [
+    15027,
+    15017,
+    15029,
+    15106,
+    15015,
+    15103
+   ],
+   "img_bg": 79,
+   "desc": "Languid Rapture",
+   "desc_th": "Languid Rapture"
+  },
+  "80": {
+   "id": 80,
+   "animus_ids": [
+    32551,
+    32501
+   ],
+   "pool_id": 503,
+   "skin_ids": [
+    26045,
+    26044
+   ],
+   "goods_ids": [
+    15222,
+    15223,
+    15224,
+    15225,
+    15226,
+    15014,
+    15221,
+    15101
+   ],
+   "img_bg": 80,
+   "desc": "Celestial Light",
+   "desc_th": "Celestial Light"
+  },
+  "81": {
+   "id": 81,
+   "animus_ids": [
+    32601
+   ],
+   "pool_id": 213,
+   "skin_ids": [
+    26047
+   ],
+   "goods_ids": [
+    15027,
+    15017,
+    15029,
+    15106,
+    15015,
+    15103
+   ],
+   "img_bg": 81,
+   "desc": "Pristine Awakening",
+   "desc_th": "Pristine Awakening"
+  },
+  "82": {
+   "id": 82,
+   "animus_ids": [
+    32751,
+    32701
+   ],
+   "pool_id": 214,
+   "skin_ids": [
+    26049,
+    26048
+   ],
+   "goods_ids": [
+    15027,
+    15017,
+    15029,
+    15106,
+    15120,
+    15016,
+    15107,
+    15102
+   ],
+   "img_bg": 82,
+   "desc": "Phantasm Shadow",
+   "desc_th": "Phantasm Shadow"
+  },
+  "83": {
+   "id": 83,
+   "animus_ids": [
+    32801
+   ],
+   "pool_id": 324,
+   "skin_ids": [
+    26050
+   ],
+   "goods_ids": [
+    15031,
+    15032,
+    15033,
+    15034,
+    15014,
+    15101
+   ],
+   "img_bg": 83,
+   "desc": "Sinister Charade",
+   "desc_th": "Sinister Charade"
+  },
+  "84": {
+   "id": 84,
+   "animus_ids": [
+    33051
+   ],
+   "pool_id": 504,
+   "skin_ids": [
+    26051
+   ],
+   "goods_ids": [
+    15222,
+    15223,
+    15224,
+    15225,
+    15226,
+    15221
+   ],
+   "img_bg": 84,
+   "desc": "Sparking Stellar",
+   "desc_th": "Sparking Stellar"
+  },
+  "85": {
+   "id": 85,
+   "animus_ids": [
+    32901,
+    32851
+   ],
+   "pool_id": 505,
+   "skin_ids": [
+    26054,
+    26053
+   ],
+   "goods_ids": [
+    15222,
+    15223,
+    15224,
+    15225,
+    15027,
+    15017,
+    15029,
+    15106,
+    15226,
+    15120,
+    15221,
+    15107
+   ],
+   "img_bg": 85,
+   "desc": "G.U.E.S.T.s",
+   "desc_th": "G.U.E.S.T.s"
+  },
+  "86": {
+   "id": 86,
+   "animus_ids": [
+    33101
+   ],
+   "pool_id": 216,
+   "skin_ids": [
+    26055
+   ],
+   "goods_ids": [
+    15027,
+    15017,
+    15029,
+    15106,
+    15015,
+    15103
+   ],
+   "img_bg": 86,
+   "desc": "Omni Cognizance",
+   "desc_th": "Omni Cognizance"
+  },
+  "87": {
+   "id": 87,
+   "animus_ids": [
+    33151
+   ],
+   "pool_id": 325,
+   "skin_ids": [
+    26056
+   ],
+   "goods_ids": [
+    15031,
+    15032,
+    15033,
+    15034,
+    15014,
+    15101
+   ],
+   "img_bg": 87,
+   "desc": "Vermilion Kirin",
+   "desc_th": "Vermilion Kirin"
+  },
+  "88": {
+   "id": 88,
+   "animus_ids": [
+    33001
+   ],
+   "pool_id": 217,
+   "skin_ids": [
+    26057
+   ],
+   "goods_ids": [
+    15027,
+    15017,
+    15029,
+    15106,
+    15015,
+    15103
+   ],
+   "img_bg": 88,
+   "desc": "Eidolon Scourge",
+   "desc_th": "Eidolon Scourge"
+  }
+ },
+ "text_chunk": "00006_8c014c59dacf8bbd.json"
+}

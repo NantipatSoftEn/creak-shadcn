@@ -1,0 +1,431 @@
+{
+ "config": "agentstory",
+ "fields": [
+  "id",
+  "cross",
+  "event",
+  "award"
+ ],
+ "rows": {
+  "1": {
+   "id": 1,
+   "cross": 0,
+   "event": 201,
+   "award": [
+    {
+     "id": 27302,
+     "count": 200
+    },
+    {
+     "id": 27303,
+     "count": 1
+    }
+   ]
+  },
+  "2": {
+   "id": 2,
+   "cross": 0,
+   "event": 0,
+   "award": null
+  },
+  "3": {
+   "id": 3,
+   "cross": 0,
+   "event": 0,
+   "award": null
+  },
+  "4": {
+   "id": 4,
+   "cross": 0,
+   "event": 208,
+   "award": [
+    {
+     "id": 27301,
+     "count": 1
+    }
+   ]
+  },
+  "5": {
+   "id": 5,
+   "cross": 0,
+   "event": 0,
+   "award": null
+  },
+  "6": {
+   "id": 6,
+   "cross": 0,
+   "event": 0,
+   "award": null
+  },
+  "7": {
+   "id": 7,
+   "cross": 0,
+   "event": 207,
+   "award": null
+  },
+  "8": {
+   "id": 8,
+   "cross": 0,
+   "event": 0,
+   "award": null
+  },
+  "9": {
+   "id": 9,
+   "cross": 0,
+   "event": 0,
+   "award": null
+  },
+  "10": {
+   "id": 10,
+   "cross": 0,
+   "event": 202,
+   "award": [
+    {
+     "id": 165011,
+     "count": 0
+    },
+    {
+     "id": 165012,
+     "count": 10
+    },
+    {
+     "id": 165013,
+     "count": 30
+    },
+    {
+     "id": 165014,
+     "count": 40
+    },
+    {
+     "id": 165015,
+     "count": 20
+    }
+   ]
+  },
+  "11": {
+   "id": 11,
+   "cross": 0,
+   "event": 0,
+   "award": null
+  },
+  "12": {
+   "id": 12,
+   "cross": 0,
+   "event": 0,
+   "award": null
+  },
+  "13": {
+   "id": 13,
+   "cross": 0,
+   "event": 0,
+   "award": null
+  },
+  "14": {
+   "id": 14,
+   "cross": 0,
+   "event": 0,
+   "award": null
+  },
+  "15": {
+   "id": 15,
+   "cross": 1,
+   "event": 205,
+   "award": null
+  },
+  "16": {
+   "id": 16,
+   "cross": 0,
+   "event": 210,
+   "award": [
+    {
+     "id": 10011,
+     "count": 50
+    }
+   ]
+  },
+  "17": {
+   "id": 17,
+   "cross": 0,
+   "event": 0,
+   "award": null
+  },
+  "18": {
+   "id": 18,
+   "cross": 0,
+   "event": 0,
+   "award": null
+  },
+  "19": {
+   "id": 19,
+   "cross": 0,
+   "event": 204,
+   "award": null
+  },
+  "20": {
+   "id": 20,
+   "cross": 0,
+   "event": 0,
+   "award": null
+  },
+  "21": {
+   "id": 21,
+   "cross": 0,
+   "event": 0,
+   "award": null
+  },
+  "22": {
+   "id": 22,
+   "cross": 0,
+   "event": 0,
+   "award": null
+  },
+  "23": {
+   "id": 23,
+   "cross": 0,
+   "event": 209,
+   "award": null
+  },
+  "24": {
+   "id": 24,
+   "cross": 0,
+   "event": 0,
+   "award": null
+  },
+  "25": {
+   "id": 25,
+   "cross": 0,
+   "event": 0,
+   "award": null
+  },
+  "26": {
+   "id": 26,
+   "cross": 0,
+   "event": 0,
+   "award": null
+  },
+  "27": {
+   "id": 27,
+   "cross": 0,
+   "event": 0,
+   "award": null
+  },
+  "28": {
+   "id": 28,
+   "cross": 0,
+   "event": 203,
+   "award": null
+  },
+  "29": {
+   "id": 29,
+   "cross": 0,
+   "event": 0,
+   "award": null
+  },
+  "30": {
+   "id": 30,
+   "cross": 2,
+   "event": 202,
+   "award": [
+    {
+     "id": 165011,
+     "count": 0
+    },
+    {
+     "id": 165012,
+     "count": 10
+    },
+    {
+     "id": 165013,
+     "count": 30
+    },
+    {
+     "id": 165014,
+     "count": 40
+    },
+    {
+     "id": 165015,
+     "count": 20
+    }
+   ]
+  },
+  "31": {
+   "id": 31,
+   "cross": 0,
+   "event": 0,
+   "award": null
+  },
+  "32": {
+   "id": 32,
+   "cross": 0,
+   "event": 0,
+   "award": null
+  },
+  "33": {
+   "id": 33,
+   "cross": 0,
+   "event": 210,
+   "award": [
+    {
+     "id": 27302,
+     "count": 50
+    }
+   ]
+  },
+  "34": {
+   "id": 34,
+   "cross": 0,
+   "event": 0,
+   "award": null
+  },
+  "35": {
+   "id": 35,
+   "cross": 0,
+   "event": 213,
+   "award": null
+  },
+  "36": {
+   "id": 36,
+   "cross": 0,
+   "event": 0,
+   "award": null
+  },
+  "101": {
+   "id": 101,
+   "cross": 3,
+   "event": 0,
+   "award": null
+  },
+  "102": {
+   "id": 102,
+   "cross": 0,
+   "event": 0,
+   "award": null
+  },
+  "103": {
+   "id": 103,
+   "cross": 0,
+   "event": 0,
+   "award": null
+  },
+  "104": {
+   "id": 104,
+   "cross": 0,
+   "event": 0,
+   "award": null
+  },
+  "105": {
+   "id": 105,
+   "cross": 0,
+   "event": 0,
+   "award": null
+  },
+  "106": {
+   "id": 106,
+   "cross": 0,
+   "event": 0,
+   "award": null
+  },
+  "107": {
+   "id": 107,
+   "cross": 0,
+   "event": 0,
+   "award": null
+  },
+  "108": {
+   "id": 108,
+   "cross": 0,
+   "event": 0,
+   "award": null
+  },
+  "109": {
+   "id": 109,
+   "cross": 0,
+   "event": 0,
+   "award": null
+  },
+  "110": {
+   "id": 110,
+   "cross": 0,
+   "event": 0,
+   "award": null
+  },
+  "111": {
+   "id": 111,
+   "cross": 0,
+   "event": 0,
+   "award": null
+  },
+  "112": {
+   "id": 112,
+   "cross": 0,
+   "event": 206,
+   "award": [
+    {
+     "id": 27303,
+     "count": 1
+    }
+   ]
+  },
+  "113": {
+   "id": 113,
+   "cross": 0,
+   "event": 0,
+   "award": null
+  },
+  "114": {
+   "id": 114,
+   "cross": 0,
+   "event": 212,
+   "award": null
+  },
+  "115": {
+   "id": 115,
+   "cross": 0,
+   "event": 0,
+   "award": null
+  },
+  "116": {
+   "id": 116,
+   "cross": 0,
+   "event": 0,
+   "award": null
+  },
+  "117": {
+   "id": 117,
+   "cross": 0,
+   "event": 0,
+   "award": null
+  },
+  "118": {
+   "id": 118,
+   "cross": 0,
+   "event": 0,
+   "award": null
+  },
+  "119": {
+   "id": 119,
+   "cross": 0,
+   "event": 0,
+   "award": null
+  },
+  "120": {
+   "id": 120,
+   "cross": 0,
+   "event": 0,
+   "award": null
+  },
+  "121": {
+   "id": 121,
+   "cross": 0,
+   "event": 0,
+   "award": null
+  },
+  "122": {
+   "id": 122,
+   "cross": 4,
+   "event": 0,
+   "award": null
+  }
+ },
+ "text_chunk": null
+}

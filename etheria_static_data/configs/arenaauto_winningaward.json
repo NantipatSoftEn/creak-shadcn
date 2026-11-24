@@ -1,0 +1,161 @@
+{
+ "config": "arenaauto_winningaward",
+ "fields": [
+  "id",
+  "wins",
+  "reward"
+ ],
+ "rows": [
+  {
+   "id": 1,
+   "wins": 5,
+   "reward": [
+    {
+     "id": 10011,
+     "count": 100
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "wins": 10,
+   "reward": [
+    {
+     "id": 25003,
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "wins": 15,
+   "reward": [
+    {
+     "id": 10111,
+     "count": 1
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "wins": 20,
+   "reward": [
+    {
+     "id": 25101,
+     "count": 5
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "wins": 25,
+   "reward": [
+    {
+     "id": 10505,
+     "count": 5
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "wins": 30,
+   "reward": [
+    {
+     "id": 10114,
+     "count": 10
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "wins": 40,
+   "reward": [
+    {
+     "id": 10179,
+     "count": 1
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "wins": 50,
+   "reward": [
+    {
+     "id": 10202,
+     "count": 1
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "wins": 60,
+   "reward": [
+    {
+     "id": 25101,
+     "count": 5
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "wins": 70,
+   "reward": [
+    {
+     "id": 10505,
+     "count": 10
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "wins": 80,
+   "reward": [
+    {
+     "id": 10202,
+     "count": 1
+    }
+   ]
+  },
+  {
+   "id": 12,
+   "wins": 90,
+   "reward": [
+    {
+     "id": 10111,
+     "count": 1
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "wins": 100,
+   "reward": [
+    {
+     "id": 10203,
+     "count": 1
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "wins": 110,
+   "reward": [
+    {
+     "id": 25101,
+     "count": 5
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "wins": 120,
+   "reward": [
+    {
+     "id": 10505,
+     "count": 10
+    }
+   ]
+  }
+ ],
+ "text_chunk": null
+}

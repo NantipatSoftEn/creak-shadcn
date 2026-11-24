@@ -1,0 +1,166 @@
+{
+ "config": "tarotaffect",
+ "fields": [
+  "id",
+  "type",
+  "boss",
+  "treasure",
+  "card",
+  "unlock",
+  "debuff"
+ ],
+ "rows": [
+  {
+   "id": 1,
+   "type": 1,
+   "boss": 1,
+   "treasure": 1,
+   "card": 0,
+   "unlock": null,
+   "debuff": 0
+  },
+  {
+   "id": 2,
+   "type": 1,
+   "boss": 2,
+   "treasure": 2,
+   "card": 0,
+   "unlock": null,
+   "debuff": 1
+  },
+  {
+   "id": 3,
+   "type": 1,
+   "boss": 2,
+   "treasure": 2,
+   "card": 0,
+   "unlock": null,
+   "debuff": 2
+  },
+  {
+   "id": 4,
+   "type": 1,
+   "boss": 2,
+   "treasure": 2,
+   "card": 0,
+   "unlock": null,
+   "debuff": 0
+  },
+  {
+   "id": 5,
+   "type": 1,
+   "boss": 3,
+   "treasure": 3,
+   "card": 0,
+   "unlock": null,
+   "debuff": 0
+  },
+  {
+   "id": 6,
+   "type": 1,
+   "boss": -3,
+   "treasure": -3,
+   "card": 0,
+   "unlock": [
+    35
+   ],
+   "debuff": 0
+  },
+  {
+   "id": 7,
+   "type": 1,
+   "boss": 0,
+   "treasure": 0,
+   "card": 1,
+   "unlock": null,
+   "debuff": 0
+  },
+  {
+   "id": 8,
+   "type": 2,
+   "boss": 0,
+   "treasure": 0,
+   "card": 0,
+   "unlock": null,
+   "debuff": 0
+  },
+  {
+   "id": 9,
+   "type": 3,
+   "boss": 0,
+   "treasure": 0,
+   "card": 0,
+   "unlock": null,
+   "debuff": 0
+  },
+  {
+   "id": 10,
+   "type": 4,
+   "boss": 0,
+   "treasure": 0,
+   "card": 0,
+   "unlock": null,
+   "debuff": 0
+  },
+  {
+   "id": 11,
+   "type": 5,
+   "boss": 0,
+   "treasure": 0,
+   "card": 0,
+   "unlock": null,
+   "debuff": 0
+  },
+  {
+   "id": 12,
+   "type": 6,
+   "boss": 0,
+   "treasure": 0,
+   "card": 0,
+   "unlock": null,
+   "debuff": 0
+  },
+  {
+   "id": 13,
+   "type": 7,
+   "boss": 0,
+   "treasure": 0,
+   "card": 0,
+   "unlock": null,
+   "debuff": 0
+  },
+  {
+   "id": 14,
+   "type": 8,
+   "boss": 0,
+   "treasure": 0,
+   "card": 0,
+   "unlock": null,
+   "debuff": 0
+  },
+  {
+   "id": 15,
+   "type": 9,
+   "boss": 0,
+   "treasure": 0,
+   "card": 0,
+   "unlock": [
+    48
+   ],
+   "debuff": 0
+  },
+  {
+   "id": 16,
+   "type": 10,
+   "boss": 0,
+   "treasure": 0,
+   "card": 0,
+   "unlock": [
+    33,
+    34
+   ],
+   "debuff": 0
+  }
+ ],
+ "text_chunk": null
+}

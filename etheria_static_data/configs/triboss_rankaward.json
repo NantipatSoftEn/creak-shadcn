@@ -1,0 +1,159 @@
+{
+ "config": "triboss_rankaward",
+ "fields": [
+  "rank_id",
+  "rank_pct",
+  "award"
+ ],
+ "rows": [
+  {
+   "rank_id": [
+    1,
+    10
+   ],
+   "rank_pct": 0,
+   "award": [
+    {
+     "id": 10612,
+     "count": 50
+    },
+    {
+     "id": 25101,
+     "count": 50
+    },
+    {
+     "id": 10505,
+     "count": 25
+    }
+   ]
+  },
+  {
+   "rank_id": [
+    11,
+    20
+   ],
+   "rank_pct": 0,
+   "award": [
+    {
+     "id": 10612,
+     "count": 40
+    },
+    {
+     "id": 25101,
+     "count": 40
+    },
+    {
+     "id": 10505,
+     "count": 20
+    }
+   ]
+  },
+  {
+   "rank_id": [
+    21,
+    50
+   ],
+   "rank_pct": 0,
+   "award": [
+    {
+     "id": 10612,
+     "count": 30
+    },
+    {
+     "id": 25101,
+     "count": 30
+    },
+    {
+     "id": 10505,
+     "count": 15
+    }
+   ]
+  },
+  {
+   "rank_id": [
+    51,
+    200
+   ],
+   "rank_pct": 0,
+   "award": [
+    {
+     "id": 10612,
+     "count": 25
+    },
+    {
+     "id": 25101,
+     "count": 25
+    },
+    {
+     "id": 10505,
+     "count": 10
+    }
+   ]
+  },
+  {
+   "rank_id": [
+    0
+   ],
+   "rank_pct": 10,
+   "award": [
+    {
+     "id": 10612,
+     "count": 20
+    },
+    {
+     "id": 25101,
+     "count": 20
+    }
+   ]
+  },
+  {
+   "rank_id": [
+    0
+   ],
+   "rank_pct": 30,
+   "award": [
+    {
+     "id": 10612,
+     "count": 15
+    },
+    {
+     "id": 25101,
+     "count": 15
+    }
+   ]
+  },
+  {
+   "rank_id": [
+    0
+   ],
+   "rank_pct": 60,
+   "award": [
+    {
+     "id": 10612,
+     "count": 10
+    },
+    {
+     "id": 25101,
+     "count": 10
+    }
+   ]
+  },
+  {
+   "rank_id": [
+    0
+   ],
+   "rank_pct": 100,
+   "award": [
+    {
+     "id": 10612,
+     "count": 5
+    },
+    {
+     "id": 25101,
+     "count": 5
+    }
+   ]
+  }
+ ],
+ "text_chunk": null
+}

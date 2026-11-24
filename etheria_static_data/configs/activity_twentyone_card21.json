@@ -1,0 +1,532 @@
+{
+ "config": "activity_twentyone_card21",
+ "fields": [
+  "id",
+  "type",
+  "effect",
+  "weight",
+  "icon",
+  "name",
+  "desc"
+ ],
+ "rows": {
+  "102": {
+   "id": 102,
+   "type": 1,
+   "effect": [
+    1.0,
+    2.0
+   ],
+   "weight": 4,
+   "icon": "Storm",
+   "name": "2",
+   "name_th": "2",
+   "desc": "Points +2",
+   "desc_th": "คะแนน +2"
+  },
+  "103": {
+   "id": 103,
+   "type": 1,
+   "effect": [
+    1.0,
+    3.0
+   ],
+   "weight": 4,
+   "icon": "BlackFlag",
+   "name": "3",
+   "name_th": "3",
+   "desc": "Points +3",
+   "desc_th": "คะแนน +3"
+  },
+  "104": {
+   "id": 104,
+   "type": 1,
+   "effect": [
+    1.0,
+    4.0
+   ],
+   "weight": 4,
+   "icon": "ShanHaiJing",
+   "name": "4",
+   "name_th": "4",
+   "desc": "Points +4",
+   "desc_th": "คะแนน +4"
+  },
+  "105": {
+   "id": 105,
+   "type": 1,
+   "effect": [
+    1.0,
+    5.0
+   ],
+   "weight": 4,
+   "icon": "WaspKnight",
+   "name": "5",
+   "name_th": "5",
+   "desc": "Points +5",
+   "desc_th": "คะแนน +5"
+  },
+  "106": {
+   "id": 106,
+   "type": 1,
+   "effect": [
+    1.0,
+    6.0
+   ],
+   "weight": 4,
+   "icon": "WrongRoad",
+   "name": "6",
+   "name_th": "6",
+   "desc": "Points +6",
+   "desc_th": "คะแนน +6"
+  },
+  "107": {
+   "id": 107,
+   "type": 1,
+   "effect": [
+    1.0,
+    7.0
+   ],
+   "weight": 4,
+   "icon": "DiamondHeart",
+   "name": "7",
+   "name_th": "7",
+   "desc": "Points +7",
+   "desc_th": "คะแนน +7"
+  },
+  "108": {
+   "id": 108,
+   "type": 1,
+   "effect": [
+    1.0,
+    8.0
+   ],
+   "weight": 4,
+   "icon": "EMSquid",
+   "name": "8",
+   "name_th": "8",
+   "desc": "Points +8",
+   "desc_th": "คะแนน +8"
+  },
+  "109": {
+   "id": 109,
+   "type": 1,
+   "effect": [
+    1.0,
+    9.0
+   ],
+   "weight": 4,
+   "icon": "HypnotizedSheep",
+   "name": "9",
+   "name_th": "9",
+   "desc": "Points +9",
+   "desc_th": "คะแนน +9"
+  },
+  "110": {
+   "id": 110,
+   "type": 1,
+   "effect": [
+    1.0,
+    10.0
+   ],
+   "weight": 4,
+   "icon": "Gigabyte_1",
+   "name": "10",
+   "name_th": "10",
+   "desc": "Points +10",
+   "desc_th": "คะแนน +10"
+  },
+  "111": {
+   "id": 111,
+   "type": 1,
+   "effect": [
+    1.0,
+    10.0
+   ],
+   "weight": 4,
+   "icon": "FangsWarrior_1",
+   "name": "J",
+   "name_th": "J",
+   "desc": "Points +10",
+   "desc_th": "คะแนน +10"
+  },
+  "112": {
+   "id": 112,
+   "type": 1,
+   "effect": [
+    1.0,
+    10.0
+   ],
+   "weight": 4,
+   "icon": "Supernova_1",
+   "name": "Q",
+   "name_th": "Q",
+   "desc": "Points +10",
+   "desc_th": "คะแนน +10"
+  },
+  "113": {
+   "id": 113,
+   "type": 1,
+   "effect": [
+    1.0,
+    10.0
+   ],
+   "weight": 4,
+   "icon": "TigerYin_1",
+   "name": "K",
+   "name_th": "K",
+   "desc": "Points +10",
+   "desc_th": "คะแนน +10"
+  },
+  "201": {
+   "id": 201,
+   "type": 2,
+   "effect": [
+    2.0,
+    1.0,
+    11.0
+   ],
+   "weight": 4,
+   "icon": "SwordVII",
+   "name": "A",
+   "name_th": "A",
+   "desc": "Points +1/+11",
+   "desc_th": "คะแนน +1/+11"
+  },
+  "301": {
+   "id": 301,
+   "type": 3,
+   "effect": [
+    3.0,
+    3.0
+   ],
+   "weight": 1,
+   "icon": "3001",
+   "name": "Reconfigure",
+   "name_th": "กำหนดค่าใหม่",
+   "desc": "Redraw a card. This card's B Points: +3",
+   "desc_th": "จั่วเครื่องหมายใหม่ด้วย +3 B Point"
+  },
+  "302": {
+   "id": 302,
+   "type": 3,
+   "effect": [
+    4.0,
+    2.0
+   ],
+   "weight": 1,
+   "icon": "3002",
+   "name": "B Overload",
+   "name_th": "B Overload",
+   "desc": "Next turn B Points ×2",
+   "desc_th": "B Point เทิร์นถัดไป ×2"
+  },
+  "303": {
+   "id": 303,
+   "type": 3,
+   "effect": [
+    5.0,
+    2.0
+   ],
+   "weight": 1,
+   "icon": "3003",
+   "name": "B Wind Fall",
+   "name_th": "B Wind Fall",
+   "desc": "End of Match B Points: +2",
+   "desc_th": "B Point เมื่อสิ้นสุดแมตช์: +2"
+  },
+  "304": {
+   "id": 304,
+   "type": 3,
+   "effect": [
+    6.0,
+    1.0
+   ],
+   "weight": 1,
+   "icon": "3004",
+   "name": "B Contain",
+   "name_th": "B Contain",
+   "desc": "Cannot end the match this turn",
+   "desc_th": "ไม่สามารถสิ้นสุดแมตช์ได้ในเทิร์นนี้"
+  },
+  "305": {
+   "id": 305,
+   "type": 3,
+   "effect": [
+    7.0,
+    2.0
+   ],
+   "weight": 1,
+   "icon": "3005",
+   "name": "Mutation",
+   "name_th": "Mutation",
+   "desc": "All players' B Points +2",
+   "desc_th": "B Point ของผู้เล่นทั้งหมด: +2"
+  },
+  "306": {
+   "id": 306,
+   "type": 3,
+   "effect": [
+    8.0
+   ],
+   "weight": 1,
+   "icon": "3006",
+   "name": "B Meltdown",
+   "name_th": "B Meltdown",
+   "desc": "Forced settlement: All players still in the match must end immediately.",
+   "desc_th": "บังคับสรุปผล: ผู้เล่นที่ยังเหลืออยู่ทั้งหมดต้องสิ้นสุดแมตช์"
+  },
+  "307": {
+   "id": 307,
+   "type": 3,
+   "effect": [
+    18.0,
+    0.5
+   ],
+   "weight": 1,
+   "icon": "3007",
+   "name": "B Oddity",
+   "name_th": "B Oddity",
+   "desc": "When an odd number of players end this turn, those players receive a ++0.5 multiplier.",
+   "desc_th": "หากผู้เล่นที่สิ้นสุดเทิร์นนี้เป็นจำนวนคี่ ผู้เล่นเหล่านั้นจะได้รับโบนัส +0.5"
+  },
+  "308": {
+   "id": 308,
+   "type": 3,
+   "effect": [
+    19.0,
+    2.0
+   ],
+   "weight": 1,
+   "icon": "3008",
+   "name": "B Juiced",
+   "name_th": "B Juiced",
+   "desc": "Next turn, B Points drawn by all players = remaining players × 2.",
+   "desc_th": "เทิร์นถัดไป B Point ที่ผู้เล่นทั้งหมดจะได้รับ = จำนวนผู้เล่นที่เหลืออยู่ × 2"
+  },
+  "401": {
+   "id": 401,
+   "type": 4,
+   "effect": [
+    9.0,
+    0.5
+   ],
+   "weight": 1,
+   "icon": "GoldenLion",
+   "name": "Hyper Evac",
+   "name_th": "Hyper Evac",
+   "desc": "Interest multiplier for all players who ended: +0.5",
+   "desc_th": "ตัวคูณรางวัล +0.5 สำหรับผู้เล่นทั้งหมดที่สิ้นสุดแมตช์ในรอบนี้"
+  },
+  "402": {
+   "id": 402,
+   "type": 4,
+   "effect": [
+    10.0,
+    0.1
+   ],
+   "weight": 1,
+   "icon": "SilenceLaw",
+   "name": "B Invasion",
+   "name_th": "B Invasion",
+   "desc": "Chance to draw Anomalous Card: +10%",
+   "desc_th": "มีโอกาส +10% ครั้งที่จะจั่ว Anomalous Card"
+  },
+  "403": {
+   "id": 403,
+   "type": 4,
+   "effect": [
+    11.0,
+    1.0
+   ],
+   "weight": 1,
+   "icon": "BlackMoon_1",
+   "name": "B Add One",
+   "name_th": "B Add One",
+   "desc": "B Points drawn per player: +1",
+   "desc_th": "ผู้เล่นแต่ละคนจะได้รับ +1 B Point"
+  },
+  "404": {
+   "id": 404,
+   "type": 4,
+   "effect": [
+    12.0,
+    2.0,
+    1.0
+   ],
+   "weight": 1,
+   "icon": "ReaperSteps_1",
+   "name": "Hit or Quit",
+   "name_th": "Hit or Quit",
+   "desc": "At least 1 Anomalous Card(s) appear every 2 turn(s)",
+   "desc_th": "มี Anomalous Card ปรากฏอย่างน้อย 1 ใบทุก 2 เทิร์น"
+  },
+  "405": {
+   "id": 405,
+   "type": 4,
+   "effect": [
+    13.0,
+    0.1
+   ],
+   "weight": 1,
+   "icon": "Amber",
+   "name": "B Luck +",
+   "name_th": "B Luck +",
+   "desc": "Chance to draw Blessing Card: +10%",
+   "desc_th": "โอกาสจั่ว Blessing Card: +10%"
+  },
+  "406": {
+   "id": 406,
+   "type": 4,
+   "effect": [
+    14.0
+   ],
+   "weight": 1,
+   "icon": "MagicBook_1",
+   "name": "B Evac",
+   "name_th": "B Evac",
+   "desc": "When B Points reach 1 or 11 this round, forced to 21 point(s)",
+   "desc_th": "เมื่อ B Point ถึง 1 หรือ 11 ในรอบนี้ จะถูกบังคับเปลี่ยนเป็น 21 คะแนน"
+  },
+  "407": {
+   "id": 407,
+   "type": 4,
+   "effect": [
+    11.0,
+    -1.0
+   ],
+   "weight": 1,
+   "icon": "Ouroboros",
+   "name": "B Purge",
+   "name_th": "B Purge",
+   "desc": "B Points drawn per player: -1",
+   "desc_th": "ผู้เล่นแต่ละคนจะได้รับ -1 B Point"
+  },
+  "408": {
+   "id": 408,
+   "type": 4,
+   "effect": [
+    15.0,
+    1.0
+   ],
+   "weight": 1,
+   "icon": "JackalGuard_1",
+   "name": "B Enhance",
+   "name_th": "B Enhance",
+   "desc": "Anomalous Card increases Hyper Warnings by +1",
+   "desc_th": "Anomalous Card จะเพิ่มแต้ม Warning +1 แต้ม"
+  },
+  "409": {
+   "id": 409,
+   "type": 4,
+   "effect": [
+    9.0,
+    -0.5
+   ],
+   "weight": 1,
+   "icon": "Earl",
+   "name": "B Extract",
+   "name_th": "B Extract",
+   "desc": "Interest multiplier for all players who ended: -0.5",
+   "desc_th": "ตัวคูณรางวัล -0.5 สำหรับผู้เล่นทั้งหมดที่สิ้นสุดแมตช์ในรอบนี้"
+  },
+  "410": {
+   "id": 410,
+   "type": 4,
+   "effect": [
+    11.0
+   ],
+   "weight": 1,
+   "icon": "Halloween",
+   "name": "B Parity",
+   "name_th": "B Parity",
+   "desc": "This round's point adjustment: Odd +1, Even -1",
+   "desc_th": "การปรับคะแนนรอบนี้: คะแนนคี่ ++1 คะแนนคู่ -1"
+  },
+  "411": {
+   "id": 411,
+   "type": 4,
+   "effect": [
+    16.0,
+    10.0
+   ],
+   "weight": 1,
+   "icon": "LightHouse",
+   "name": "B Fortune",
+   "name_th": "B Fortune",
+   "desc": "When drawing 21 point(s) this round, Interest reward +10",
+   "desc_th": "เมื่อจั่วได้ 21 คะแนนในรอบนี้ จะได้รับโบนัสรางวัล +10 แต้มในรอบนี้"
+  },
+  "412": {
+   "id": 412,
+   "type": 4,
+   "effect": [
+    17.0,
+    3.0
+   ],
+   "weight": 1,
+   "icon": "Revelation_1",
+   "name": "Foresight",
+   "name_th": "Foresight Vision",
+   "desc": "This round has only 3 turn(s). All players end after 3 turn(s)",
+   "desc_th": "รอบนี้มีเพียง 3 เทิร์น ผู้เล่นทั้งหมดจะสิ้นสุดการสำรวจหลังจาก 3 เทิร์น"
+  },
+  "413": {
+   "id": 413,
+   "type": 4,
+   "effect": [
+    10.0,
+    -1.0
+   ],
+   "weight": 1,
+   "icon": "MoonBunny",
+   "name": "B Safe Zone",
+   "name_th": "B Safe Zone",
+   "desc": "No Anomalous Cards will appear this round.",
+   "desc_th": "จะไม่มี Anomalous Card ปรากฏในรอบนี้"
+  },
+  "414": {
+   "id": 414,
+   "type": 4,
+   "effect": [
+    21.0,
+    1.0
+   ],
+   "weight": 1,
+   "icon": "ChampCroc",
+   "name": "B Jumped Ship",
+   "name_th": "B Jumped Ship",
+   "desc": "This round's first-place reward multiplier: +1",
+   "desc_th": "ตัวคูณดอกเบี้ยสำหรับผู้เล่นอันดับ 1 ในรอบนี้: +1"
+  },
+  "415": {
+   "id": 415,
+   "type": 4,
+   "effect": [
+    20.0,
+    1.0
+   ],
+   "weight": 1,
+   "icon": "ProdigyPlayer",
+   "name": "B Dodged",
+   "name_th": "B Dodged",
+   "desc": "Players who bust may withdraw their last card and keep playing.",
+   "desc_th": "ผู้เล่นที่คะแนนเกินสามารถถอนการ์ดใบสุดท้ายและเล่นเกมต่อได้"
+  },
+  "416": {
+   "id": 416,
+   "type": 4,
+   "effect": [
+    15.0,
+    -1.0
+   ],
+   "weight": 1,
+   "icon": "Doomcrow",
+   "name": "B Close Call",
+   "name_th": "B Close Call",
+   "desc": "Drawing Anomalous Cards does not increase Hyper Warnings this round.",
+   "desc_th": "Anomalous Card จะไม่เพิ่มแต้ม Warning ในรอบนี้"
+  }
+ },
+ "text_chunk": "00016_7b8e9a8f9675451b.json"
+}

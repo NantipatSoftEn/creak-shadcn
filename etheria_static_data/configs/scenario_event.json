@@ -1,0 +1,357 @@
+{
+ "config": "scenario_event",
+ "fields": [
+  "id",
+  "type",
+  "battle_id",
+  "battle_param",
+  "story_name",
+  "story_type",
+  "story_param"
+ ],
+ "rows": {
+  "10010101": {
+   "id": 10010101,
+   "type": 1,
+   "battle_id": 1001015,
+   "battle_param": "",
+   "story_name": "",
+   "story_type": 0,
+   "story_param": ""
+  },
+  "10020101": {
+   "id": 10020101,
+   "type": 1,
+   "battle_id": 1002011,
+   "battle_param": "",
+   "story_name": "",
+   "story_type": 0,
+   "story_param": ""
+  },
+  "10020201": {
+   "id": 10020201,
+   "type": 1,
+   "battle_id": 1002021,
+   "battle_param": "",
+   "story_name": "",
+   "story_type": 0,
+   "story_param": ""
+  },
+  "10020301": {
+   "id": 10020301,
+   "type": 1,
+   "battle_id": 1002031,
+   "battle_param": "",
+   "story_name": "",
+   "story_type": 0,
+   "story_param": ""
+  },
+  "10030101": {
+   "id": 10030101,
+   "type": 1,
+   "battle_id": 1003011,
+   "battle_param": "",
+   "story_name": "",
+   "story_type": 0,
+   "story_param": ""
+  },
+  "10030201": {
+   "id": 10030201,
+   "type": 1,
+   "battle_id": 1003021,
+   "battle_param": "",
+   "story_name": "",
+   "story_type": 0,
+   "story_param": ""
+  },
+  "10030301": {
+   "id": 10030301,
+   "type": 1,
+   "battle_id": 1003031,
+   "battle_param": "",
+   "story_name": "",
+   "story_type": 0,
+   "story_param": ""
+  },
+  "10040101": {
+   "id": 10040101,
+   "type": 1,
+   "battle_id": 1004011,
+   "battle_param": "",
+   "story_name": "",
+   "story_type": 0,
+   "story_param": ""
+  },
+  "10040201": {
+   "id": 10040201,
+   "type": 1,
+   "battle_id": 1004021,
+   "battle_param": "",
+   "story_name": "",
+   "story_type": 0,
+   "story_param": ""
+  },
+  "10040301": {
+   "id": 10040301,
+   "type": 1,
+   "battle_id": 1004031,
+   "battle_param": "",
+   "story_name": "",
+   "story_type": 0,
+   "story_param": ""
+  },
+  "10050101": {
+   "id": 10050101,
+   "type": 1,
+   "battle_id": 1005011,
+   "battle_param": "",
+   "story_name": "",
+   "story_type": 0,
+   "story_param": ""
+  },
+  "10050201": {
+   "id": 10050201,
+   "type": 1,
+   "battle_id": 1005021,
+   "battle_param": "",
+   "story_name": "",
+   "story_type": 0,
+   "story_param": ""
+  },
+  "10050301": {
+   "id": 10050301,
+   "type": 1,
+   "battle_id": 1005031,
+   "battle_param": "",
+   "story_name": "",
+   "story_type": 0,
+   "story_param": ""
+  },
+  "10060101": {
+   "id": 10060101,
+   "type": 1,
+   "battle_id": 1006011,
+   "battle_param": "",
+   "story_name": "",
+   "story_type": 0,
+   "story_param": ""
+  },
+  "10060201": {
+   "id": 10060201,
+   "type": 1,
+   "battle_id": 1006021,
+   "battle_param": "",
+   "story_name": "",
+   "story_type": 0,
+   "story_param": ""
+  },
+  "10060301": {
+   "id": 10060301,
+   "type": 1,
+   "battle_id": 1006031,
+   "battle_param": "",
+   "story_name": "",
+   "story_type": 0,
+   "story_param": ""
+  },
+  "10070101": {
+   "id": 10070101,
+   "type": 1,
+   "battle_id": 1007011,
+   "battle_param": "",
+   "story_name": "",
+   "story_type": 0,
+   "story_param": ""
+  },
+  "10070201": {
+   "id": 10070201,
+   "type": 1,
+   "battle_id": 1007021,
+   "battle_param": "",
+   "story_name": "",
+   "story_type": 0,
+   "story_param": ""
+  },
+  "10070301": {
+   "id": 10070301,
+   "type": 1,
+   "battle_id": 1007031,
+   "battle_param": "",
+   "story_name": "",
+   "story_type": 0,
+   "story_param": ""
+  },
+  "10080101": {
+   "id": 10080101,
+   "type": 1,
+   "battle_id": 1008011,
+   "battle_param": "",
+   "story_name": "",
+   "story_type": 0,
+   "story_param": ""
+  },
+  "10080201": {
+   "id": 10080201,
+   "type": 1,
+   "battle_id": 1008021,
+   "battle_param": "",
+   "story_name": "",
+   "story_type": 0,
+   "story_param": ""
+  },
+  "10080301": {
+   "id": 10080301,
+   "type": 1,
+   "battle_id": 1008031,
+   "battle_param": "",
+   "story_name": "",
+   "story_type": 0,
+   "story_param": ""
+  },
+  "10090101": {
+   "id": 10090101,
+   "type": 1,
+   "battle_id": 1009011,
+   "battle_param": "",
+   "story_name": "",
+   "story_type": 0,
+   "story_param": ""
+  },
+  "10090201": {
+   "id": 10090201,
+   "type": 1,
+   "battle_id": 1009021,
+   "battle_param": "",
+   "story_name": "",
+   "story_type": 0,
+   "story_param": ""
+  },
+  "10090301": {
+   "id": 10090301,
+   "type": 1,
+   "battle_id": 1009031,
+   "battle_param": "",
+   "story_name": "",
+   "story_type": 0,
+   "story_param": ""
+  },
+  "10100101": {
+   "id": 10100101,
+   "type": 1,
+   "battle_id": 1010011,
+   "battle_param": "",
+   "story_name": "",
+   "story_type": 0,
+   "story_param": ""
+  },
+  "10100201": {
+   "id": 10100201,
+   "type": 1,
+   "battle_id": 1010021,
+   "battle_param": "",
+   "story_name": "",
+   "story_type": 0,
+   "story_param": ""
+  },
+  "10100301": {
+   "id": 10100301,
+   "type": 1,
+   "battle_id": 1010031,
+   "battle_param": "",
+   "story_name": "",
+   "story_type": 0,
+   "story_param": ""
+  },
+  "10110101": {
+   "id": 10110101,
+   "type": 1,
+   "battle_id": 1011011,
+   "battle_param": "",
+   "story_name": "",
+   "story_type": 0,
+   "story_param": ""
+  },
+  "10110201": {
+   "id": 10110201,
+   "type": 1,
+   "battle_id": 1011021,
+   "battle_param": "",
+   "story_name": "",
+   "story_type": 0,
+   "story_param": ""
+  },
+  "10110301": {
+   "id": 10110301,
+   "type": 1,
+   "battle_id": 1011031,
+   "battle_param": "",
+   "story_name": "",
+   "story_type": 0,
+   "story_param": ""
+  },
+  "10110401": {
+   "id": 10110401,
+   "type": 1,
+   "battle_id": 1011041,
+   "battle_param": "",
+   "story_name": "",
+   "story_type": 0,
+   "story_param": ""
+  },
+  "10120101": {
+   "id": 10120101,
+   "type": 1,
+   "battle_id": 1012011,
+   "battle_param": "",
+   "story_name": "",
+   "story_type": 0,
+   "story_param": ""
+  },
+  "10120201": {
+   "id": 10120201,
+   "type": 1,
+   "battle_id": 1012021,
+   "battle_param": "",
+   "story_name": "",
+   "story_type": 0,
+   "story_param": ""
+  },
+  "10120301": {
+   "id": 10120301,
+   "type": 1,
+   "battle_id": 1012031,
+   "battle_param": "",
+   "story_name": "",
+   "story_type": 0,
+   "story_param": ""
+  },
+  "10130101": {
+   "id": 10130101,
+   "type": 1,
+   "battle_id": 1013011,
+   "battle_param": "",
+   "story_name": "",
+   "story_type": 0,
+   "story_param": ""
+  },
+  "10130201": {
+   "id": 10130201,
+   "type": 1,
+   "battle_id": 1013021,
+   "battle_param": "",
+   "story_name": "",
+   "story_type": 0,
+   "story_param": ""
+  },
+  "10130301": {
+   "id": 10130301,
+   "type": 1,
+   "battle_id": 1013031,
+   "battle_param": "",
+   "story_name": "",
+   "story_type": 0,
+   "story_param": ""
+  }
+ },
+ "text_chunk": null
+}

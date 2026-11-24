@@ -1,0 +1,316 @@
+{
+ "config": "scenario_props",
+ "fields": [
+  "id",
+  "image",
+  "name",
+  "desc"
+ ],
+ "rows": [
+  {
+   "id": 1,
+   "image": "T_UI_Item_Card_Icon_15020",
+   "name": "CRIT DMG Boost",
+   "name_th": "เพิ่ม CRIT DMG",
+   "desc": "Increases the Animus's CRIT DMG by <key>{1}</>.",
+   "desc_th": "เพิ่ม CRIT DMG ของ Animus <key>{1}</>"
+  },
+  {
+   "id": 2,
+   "image": "T_UI_Item_Gold_Icon_15021",
+   "name": "Healing Boost",
+   "name_th": "เพิ่มการรักษา",
+   "desc": "Increases final healing granted by the Animus by <key>{1}</>.",
+   "desc_th": "เพิ่มปริมาณการรักษาที่ Animus สร้างขึ้น <key>{1}</>"
+  },
+  {
+   "id": 3,
+   "image": "T_UI_Item_Card_Icon_15022",
+   "name": "Shield Boost",
+   "name_th": "เพิ่มโล่",
+   "desc": "Increases Shield provided by the Animus by <key>{1}</>.",
+   "desc_th": "เพิ่มโล่ที่ Animus มอบให้ <key>{1}</>"
+  },
+  {
+   "id": 4,
+   "image": "T_UI_SceneProp_C2_5",
+   "name": "Effect ACC Boost",
+   "name_th": "เพิ่ม ACC",
+   "desc": "Increases the Animus's Effect ACC by <key>{1}</>.",
+   "desc_th": "เพิ่ม Effect ACC ของ Animus <key>{1}</>"
+  },
+  {
+   "id": 5,
+   "image": "T_UI_SceneProp_C2_1",
+   "name": "Effect RES Boost",
+   "name_th": "เพิ่ม RES",
+   "desc": "Increases the Animus's Effect RES by <key>{1}</>.",
+   "desc_th": "เพิ่ม Effect RES ของ Animus <key>{1}</>"
+  },
+  {
+   "id": 6,
+   "image": "T_UI_SceneProp_C2_3",
+   "name": "DMG Boost",
+   "name_th": "เพิ่ม DMG",
+   "desc": "Increases final damage dealt by the Animus by <key>{1}</>.",
+   "desc_th": "เพิ่ม DMG สุดท้ายที่ Animus สร้างขึ้น <key>{1}</>"
+  },
+  {
+   "id": 7,
+   "image": "T_UI_SceneProp_GirlPhotoFrame",
+   "name": "Resonance",
+   "name_th": "Resonance",
+   "desc": "In battle, when the Animus has 3 or more types of buffs, their final damage dealt increases by <key>{1}</>.",
+   "desc_th": "เมื่อ Animus มีบัฟ 3 อันหรือมากกว่าในการต่อสู้ จะเพิ่ม DMG สุดท้ายที่สร้างขึ้น <key>{1}</>"
+  },
+  {
+   "id": 8,
+   "image": "T_UI_SceneProp_C2_6",
+   "name": "Shadow Strike",
+   "name_th": "Shadow Strike",
+   "desc": "At the end of each turn in battle, the Animus's final damage dealt increases by <key>{1}</>. Stacks up to <key>5</> times.",
+   "desc_th": "เมื่อสิ้นสุดแต่ละเทิร์นในการต่อสู้ เพิ่ม DMG สุดท้ายที่ Animus สร้างขึ้น <key>{1}</> สูงสุด <key>5</> สแตก"
+  },
+  {
+   "id": 9,
+   "image": "T_UI_SceneProp_MedicalRecord",
+   "name": "Energy Burst",
+   "name_th": "Energy Burst",
+   "desc": "In battle, when the Animus's HP is above <key>85%</>, their final damage dealt increases by <key>{1}</>.",
+   "desc_th": "เมื่อ Animus มี HP มากกว่า <key>85%</> ในการต่อสู้ จะเพิ่ม DMG สุดท้ายที่สร้างขึ้น <key>{1}</>"
+  },
+  {
+   "id": 10,
+   "image": "T_UI_SceneProp_MedicalRecord",
+   "name": "DMG Reduction",
+   "name_th": "ลด DMG",
+   "desc": "Reduces final damage taken by the Animus by <key>{1}</>.",
+   "desc_th": "ลด DMG สุดท้ายที่ Animus ได้รับ <key>{1}</>"
+  },
+  {
+   "id": 11,
+   "image": "T_UI_SceneProp_C3_07",
+   "name": "Defensive Stance",
+   "name_th": "Defensive Stance",
+   "desc": "In battle, if the Animus has not dealt damage this turn, their final damage taken is reduced by <key>{1}</>. Stacks up to <key>3</> times.",
+   "desc_th": "หาก Animus ไม่ได้สร้าง DMG ในเทิร์นนั้น จะลด DMG สุดท้ายที่ได้รับ <key>{1}</> สูงสุด <key>3</> สแตก"
+  },
+  {
+   "id": 12,
+   "image": "T_UI_SceneProp_MedicalRecord",
+   "name": "Synergy",
+   "name_th": "Synergy",
+   "desc": "In battle, when the Animus heals a target or applies a Shield, the target's final damage dealt increases by <key>{1}</>. Stacks up to <key>5</> times.",
+   "desc_th": "เมื่อ Animus ให้การรักษาหรือโล่ในการต่อสู้ จะเพิ่ม DMG สุดท้ายที่เป้าหมายสร้างขึ้น <key>{1}</> สูงสุด <key>5</> สแตก"
+  },
+  {
+   "id": 13,
+   "image": "T_UI_SceneProp_MedicalRecord",
+   "name": "Insight",
+   "name_th": "Insight",
+   "desc": "At the start of battle, the Animus's Effect RES and Effect ACC increase by <key>{1}</>. At the end of each of their turns, this bonus is reduced by <key>20%</>.",
+   "desc_th": "เมื่อเริ่มการต่อสู้ เพิ่ม Effect RES และ Effect ACC ของ Animus <key>{1}</> เอฟเฟกต์นี้จะลดลง <key>20%</> เมื่อสิ้นสุดแต่ละเทิร์น"
+  },
+  {
+   "id": 14,
+   "image": "T_UI_Item_Card_Icon_15022",
+   "name": "Gaze",
+   "name_th": "Gaze",
+   "desc": "At the end of each turn, the Animus's Effect ACC increases by <key>{1}</>. Stacks up to <key>5</> times.",
+   "desc_th": "เมื่อสิ้นสุดแต่ละเทิร์น เพิ่ม Effect ACC ของ Animus <key>{1}</> สูงสุด <key>5</> สแตก"
+  },
+  {
+   "id": 15,
+   "image": "T_UI_Item_Card_Icon_15020",
+   "name": "Reason Amp",
+   "name_th": "Reason Amp",
+   "desc": "Increases final damage dealt by <Attr_1>Reason</> Animuses by <key>{1}</>.",
+   "desc_th": "เพิ่ม DMG สุดท้ายที่ Animus ประเภท <Attr_1>Reason</> สร้างขึ้น <key>{1}</>"
+  },
+  {
+   "id": 16,
+   "image": "T_UI_SceneProp_InformationBoard",
+   "name": "Odd Amp",
+   "name_th": "Odd Amp",
+   "desc": "Increases final damage dealt by <Attr_2>Odd</> Animuses by <key>{1}</>.",
+   "desc_th": "เพิ่ม DMG สุดท้ายที่ Animus ประเภท <Attr_2>Odd</> สร้างขึ้น <key>{1}</>"
+  },
+  {
+   "id": 17,
+   "image": "T_UI_SceneProp_Report",
+   "name": "Hollow Amp",
+   "name_th": "Hollow Amp",
+   "desc": "Increases final damage dealt by <Attr_3>Hollow</> Animuses by <key>{1}</>.",
+   "desc_th": "เพิ่ม DMG สุดท้ายที่ Animus ประเภท <Attr_3>Hollow</> สร้างขึ้น <key>{1}</>"
+  },
+  {
+   "id": 18,
+   "image": "T_UI_SceneProp_Report",
+   "name": "Constant Amp",
+   "name_th": "Constant Amp",
+   "desc": "Increases final damage dealt by <Attr_5>Constant</> Animuses by <key>{1}</>.",
+   "desc_th": "เพิ่ม DMG สุดท้ายที่ Animus ประเภท <Attr_5>Constant</> สร้างขึ้น <key>{1}</>"
+  },
+  {
+   "id": 19,
+   "image": "T_UI_SceneProp_C2_4",
+   "name": "Disorder Amp",
+   "name_th": "Disorder Amp",
+   "desc": "Increases final damage dealt by <Attr_4>Disorder</> Animuses by <key>{1}</>.",
+   "desc_th": "เพิ่ม DMG สุดท้ายที่ Animus ประเภท <Attr_4>Disorder</> สร้างขึ้น <key>{1}</>"
+  },
+  {
+   "id": 20,
+   "image": "T_UI_SceneProp_C3_01",
+   "name": "ATK Boost",
+   "name_th": "ATK เพิ่มขึ้น",
+   "desc": "Increases the Animus's Base ATK by <key>{1}</>.",
+   "desc_th": "เพิ่ม ATK พื้นฐานของ Animus <key>{1}</>"
+  },
+  {
+   "id": 21,
+   "image": "T_UI_SceneProp_C3_02",
+   "name": "HP Boost",
+   "name_th": "HP เพิ่มขึ้น",
+   "desc": "Increases the Animus's Base HP by <key>{1}</>.",
+   "desc_th": "เพิ่ม HP พื้นฐานของ Animus <key>{1}</>"
+  },
+  {
+   "id": 22,
+   "image": "T_UI_SceneProp_C3_03",
+   "name": "DEF Boost",
+   "name_th": "DEF เพิ่มขึ้น",
+   "desc": "Increases the Animus's Base DEF by <key>{1}</>.",
+   "desc_th": "เพิ่ม DEF พื้นฐานของ Animus <key>{1}</>"
+  },
+  {
+   "id": 23,
+   "image": "T_UI_SceneProp_C3_01",
+   "name": "SPD Boost",
+   "name_th": "SPD เพิ่มขึ้น",
+   "desc": "Increases the Animus's Base SPD by <key>{1}</>.",
+   "desc_th": "เพิ่ม SPD พื้นฐานของ Animus <key>{1}</>"
+  },
+  {
+   "id": 24,
+   "image": "T_UI_SceneProp_C3_02",
+   "name": "CRIT Rate Boost",
+   "name_th": "CRIT Rate↑",
+   "desc": "Increases the Animus's CRIT Rate by <key>{1}</>.",
+   "desc_th": "เพิ่ม CRIT Rate ของ Animus <key>{1}</>"
+  },
+  {
+   "id": 25,
+   "image": "T_UI_SceneProp_C3_03",
+   "name": "Follow-up Attack Rate Boost",
+   "name_th": "เพิ่มอัตราโจมตีตามซ้ำ",
+   "desc": "Increases the Animus's Follow-up Attack Rate by <key>{1}</>.",
+   "desc_th": "เพิ่มอัตราโจมตีตามซ้ำของ Animus <key>{1}</>"
+  },
+  {
+   "id": 26,
+   "image": "T_UI_SceneProp_C3_06",
+   "name": "Counterattack Rate Boost",
+   "name_th": "เพิ่มอัตราโจมตีสวนกลับ",
+   "desc": "Increases the Animus's Counterattack Rate by <key>{1}</>.",
+   "desc_th": "เพิ่มอัตราโจมตีสวนกลับของ Animus <key>{1}</>"
+  },
+  {
+   "id": 27,
+   "image": "T_UI_SceneProp_USB",
+   "name": "Time Rate Boost",
+   "name_th": "เพิ่ม Time Rate",
+   "desc": "Increases the Animus's Time Rate by <key>{1}</>.",
+   "desc_th": "เพิ่ม Time Rate ของ Animus <key>{1}</>"
+  },
+  {
+   "id": 28,
+   "image": "T_UI_SceneProp_C4_01",
+   "name": "Shield Boost",
+   "name_th": "เพิ่มโล่",
+   "desc": "Increases Shield received by the Animus by <key>{1}</>.",
+   "desc_th": "เพิ่มโล่ที่ Animus ได้รับ <key>{1}</>"
+  },
+  {
+   "id": 29,
+   "image": "T_UI_SceneProp_Medicament",
+   "name": "Healing Boost",
+   "name_th": "เพิ่มการรักษา",
+   "desc": "Increases healing received by the Animus by <key>{1}</>.",
+   "desc_th": "เพิ่มปริมาณการรักษาที่ Animus ได้รับ <key>{1}</>"
+  },
+  {
+   "id": 30,
+   "image": "T_UI_SceneProp_MedicalRecord",
+   "name": "DEF Breach",
+   "name_th": "เจาะ DEF",
+   "desc": "When the Animus attacks, ignores <key>{1}</> of the target's DEF.",
+   "desc_th": "เมื่อ Animus โจมตี จะเพิกเฉยต่อ DEF ของเป้าหมาย <key>{1}</>"
+  },
+  {
+   "id": 31,
+   "image": "T_UI_SceneProp_C4_04",
+   "name": "Basic DMG Boost",
+   "name_th": "Basic DMG Boost",
+   "desc": "Increases Basic Attack damage dealt by the Animus by <key>{1}</>.",
+   "desc_th": "เพิ่ม DMG จากโจมตีธรรมดาที่ Animus สร้างขึ้น <key>{1}</>"
+  },
+  {
+   "id": 32,
+   "image": "",
+   "name": "Basic DMG Reduction",
+   "name_th": "ลด DMG โจมตีธรรมดา",
+   "desc": "Reduces Basic Attack damage taken by the Animus by <key>{1}</>.",
+   "desc_th": "ลด DMG ที่ได้รับจากโจมตีธรรมดาของ Animus <key>{1}</>"
+  },
+  {
+   "id": 33,
+   "image": "",
+   "name": "Ult DMG Boost",
+   "name_th": "Ult DMG Boost",
+   "desc": "Increases Ultimate Skill damage dealt by the Animus by <key>{1}</>.",
+   "desc_th": "เพิ่ม DMG จากอัลติเมทที่ Animus สร้างขึ้น <key>{1}</>"
+  },
+  {
+   "id": 34,
+   "image": "",
+   "name": "Ult DMG Reduction",
+   "name_th": "ลด DMG อัลติเมท",
+   "desc": "Reduces Ultimate Skill damage taken by the Animus by <key>{1}</>.",
+   "desc_th": "ลด DMG ที่ได้รับจากอัลติเมทของ Animus <key>{1}</>"
+  },
+  {
+   "id": 35,
+   "image": "T_UI_SceneProp_Paper",
+   "name": "Reason Mit",
+   "name_th": "Reason Mit",
+   "desc": "Reduces damage taken by Reason Animuses by <key>{1}</>.",
+   "desc_th": "ลด DMG ที่ได้รับของ Animus ประเภท Reason ลง <key>{1}</>"
+  },
+  {
+   "id": 36,
+   "image": "T_UI_SceneProp_C4_03",
+   "name": "Odd Mit",
+   "name_th": "Odd Mit",
+   "desc": "Reduces damage taken by Odd Animuses by <key>{1}</>.",
+   "desc_th": "ลด DMG ที่ได้รับของ Animus ประเภท Odd ลง <key>{1}</>"
+  },
+  {
+   "id": 37,
+   "image": "T_UI_SceneProp_C3_04",
+   "name": "Hollow Mit",
+   "name_th": "Hollow Mit",
+   "desc": "Reduces damage taken by Hollow Animuses by <key>{1}</>.",
+   "desc_th": "ลด DMG ที่ได้รับของ Animus ประเภท Hollow ลง <key>{1}</>"
+  },
+  {
+   "id": 11,
+   "image": "T_UI_SceneProp_C3_07",
+   "name": "Defensive Stance",
+   "name_th": "Defensive Stance",
+   "desc": "In battle, if the Animus has not dealt damage this turn, their final damage taken is reduced by <key>{1}</>. Stacks up to <key>3</> times.",
+   "desc_th": "หาก Animus ไม่ได้สร้าง DMG ในเทิร์นนั้น จะลด DMG สุดท้ายที่ได้รับ <key>{1}</> สูงสุด <key>3</> สแตก"
+  }
+ ],
+ "text_chunk": "00023_38ba8908d1253eb7.json"
+}

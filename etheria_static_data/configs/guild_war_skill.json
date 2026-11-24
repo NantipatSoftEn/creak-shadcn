@@ -1,0 +1,374 @@
+{
+ "config": "guild_war_skill",
+ "fields": [
+  "id",
+  "type",
+  "param_list",
+  "battle_tips",
+  "icon",
+  "name",
+  "desc"
+ ],
+ "rows": {
+  "1001": {
+   "id": 1001,
+   "type": 1,
+   "param_list": [
+    1002001,
+    1002006
+   ],
+   "battle_tips": [
+    [
+     760
+    ],
+    [
+     765
+    ]
+   ],
+   "icon": ""
+  },
+  "1002": {
+   "id": 1002,
+   "type": 1,
+   "param_list": [
+    1002002,
+    1002007
+   ],
+   "battle_tips": [
+    [
+     761
+    ],
+    [
+     766
+    ]
+   ],
+   "icon": ""
+  },
+  "1003": {
+   "id": 1003,
+   "type": 1,
+   "param_list": [
+    1002003,
+    1002008
+   ],
+   "battle_tips": [
+    [
+     762
+    ],
+    [
+     767
+    ]
+   ],
+   "icon": ""
+  },
+  "1004": {
+   "id": 1004,
+   "type": 1,
+   "param_list": [
+    1002004,
+    1002009
+   ],
+   "battle_tips": [
+    [
+     764
+    ],
+    [
+     769
+    ]
+   ],
+   "icon": ""
+  },
+  "1005": {
+   "id": 1005,
+   "type": 1,
+   "param_list": [
+    1002005,
+    1002010
+   ],
+   "battle_tips": [
+    [
+     763
+    ],
+    [
+     768
+    ]
+   ],
+   "icon": ""
+  },
+  "2001": {
+   "id": 2001,
+   "type": 2,
+   "param_list": [
+    0,
+    613
+   ],
+   "battle_tips": [
+    [
+     802
+    ]
+   ],
+   "icon": ""
+  },
+  "2002": {
+   "id": 2002,
+   "type": 2,
+   "param_list": [
+    0,
+    614
+   ],
+   "battle_tips": [
+    [
+     803
+    ]
+   ],
+   "icon": ""
+  },
+  "2003": {
+   "id": 2003,
+   "type": 2,
+   "param_list": [
+    0,
+    615
+   ],
+   "battle_tips": [
+    [
+     804
+    ]
+   ],
+   "icon": ""
+  },
+  "2004": {
+   "id": 2004,
+   "type": 2,
+   "param_list": [
+    0,
+    616
+   ],
+   "battle_tips": [
+    [
+     805
+    ]
+   ],
+   "icon": ""
+  },
+  "2005": {
+   "id": 2005,
+   "type": 2,
+   "param_list": [
+    0,
+    617
+   ],
+   "battle_tips": [
+    [
+     806
+    ]
+   ],
+   "icon": ""
+  },
+  "2006": {
+   "id": 2006,
+   "type": 2,
+   "param_list": [
+    0,
+    618
+   ],
+   "battle_tips": [
+    [
+     807
+    ]
+   ],
+   "icon": ""
+  },
+  "2007": {
+   "id": 2007,
+   "type": 2,
+   "param_list": [
+    0,
+    619
+   ],
+   "battle_tips": [
+    [
+     808
+    ]
+   ],
+   "icon": ""
+  },
+  "2008": {
+   "id": 2008,
+   "type": 2,
+   "param_list": [
+    0,
+    620
+   ],
+   "battle_tips": [
+    [
+     809
+    ]
+   ],
+   "icon": ""
+  },
+  "2009": {
+   "id": 2009,
+   "type": 2,
+   "param_list": [
+    0,
+    621
+   ],
+   "battle_tips": [
+    [
+     810
+    ]
+   ],
+   "icon": ""
+  },
+  "2010": {
+   "id": 2010,
+   "type": 2,
+   "param_list": [
+    0,
+    622
+   ],
+   "battle_tips": [
+    [
+     811
+    ]
+   ],
+   "icon": ""
+  },
+  "2011": {
+   "id": 2011,
+   "type": 2,
+   "param_list": [
+    0,
+    623
+   ],
+   "battle_tips": [
+    [
+     812
+    ]
+   ],
+   "icon": ""
+  },
+  "2012": {
+   "id": 2012,
+   "type": 2,
+   "param_list": [
+    0,
+    624
+   ],
+   "battle_tips": [
+    [
+     813
+    ]
+   ],
+   "icon": ""
+  },
+  "2013": {
+   "id": 2013,
+   "type": 2,
+   "param_list": [
+    0,
+    625
+   ],
+   "battle_tips": [
+    [
+     814
+    ]
+   ],
+   "icon": ""
+  },
+  "2014": {
+   "id": 2014,
+   "type": 2,
+   "param_list": [
+    0,
+    626
+   ],
+   "battle_tips": [
+    [
+     815
+    ]
+   ],
+   "icon": ""
+  },
+  "2015": {
+   "id": 2015,
+   "type": 2,
+   "param_list": [
+    0,
+    627
+   ],
+   "battle_tips": [
+    [
+     816
+    ]
+   ],
+   "icon": ""
+  },
+  "2016": {
+   "id": 2016,
+   "type": 2,
+   "param_list": [
+    0,
+    628
+   ],
+   "battle_tips": [
+    [
+     817
+    ]
+   ],
+   "icon": ""
+  },
+  "3001": {
+   "id": 3001,
+   "type": 3,
+   "param_list": [
+    0,
+    612
+   ],
+   "battle_tips": [
+    [
+     801
+    ]
+   ],
+   "icon": ""
+  },
+  "4001": {
+   "id": 4001,
+   "type": 4,
+   "param_list": [
+    100
+   ],
+   "battle_tips": null,
+   "icon": "T_SkillIcon_Groupie_Light_Skill2"
+  },
+  "4002": {
+   "id": 4002,
+   "type": 4,
+   "param_list": [
+    200
+   ],
+   "battle_tips": null,
+   "icon": "T_SkillIcon_Groupie_Light_Skill2"
+  },
+  "4003": {
+   "id": 4003,
+   "type": 4,
+   "param_list": [
+    300
+   ],
+   "battle_tips": null,
+   "icon": "T_SkillIcon_Groupie_Light_Skill2"
+  },
+  "4004": {
+   "id": 4004,
+   "type": 4,
+   "param_list": [
+    400
+   ],
+   "battle_tips": null,
+   "icon": "T_SkillIcon_Groupie_Light_Skill2"
+  }
+ },
+ "text_chunk": null
+}

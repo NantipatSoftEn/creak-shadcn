@@ -1,0 +1,332 @@
+{
+ "config": "triboss",
+ "fields": [
+  "id",
+  "dungeon_level",
+  "mark_list",
+  "score_list",
+  "unlock_score_list",
+  "reward_list",
+  "battle_tips",
+  "title"
+ ],
+ "rows": [
+  {
+   "id": 1,
+   "dungeon_level": [
+    13001001,
+    13001002,
+    13001003
+   ],
+   "mark_list": [
+    "E",
+    "D",
+    "C",
+    "B",
+    "A",
+    "S",
+    "SS",
+    "SSS"
+   ],
+   "score_list": [
+    1,
+    100,
+    400,
+    800,
+    1200,
+    2000,
+    2500,
+    3000
+   ],
+   "unlock_score_list": [
+    400,
+    400
+   ],
+   "reward_list": [
+    {
+     "id": 28141,
+     "count": 1
+    },
+    {
+     "id": 28142,
+     "count": 1
+    },
+    {
+     "id": 28143,
+     "count": 1
+    },
+    {
+     "id": 28144,
+     "count": 1
+    },
+    {
+     "id": 28145,
+     "count": 1
+    },
+    {
+     "id": 28146,
+     "count": 1
+    },
+    {
+     "id": 28147,
+     "count": 1
+    },
+    {
+     "id": 28148,
+     "count": 1
+    }
+   ],
+   "battle_tips": [
+    [
+     412
+    ],
+    [
+     413
+    ],
+    [
+     414
+    ]
+   ],
+   "title": "Etherena",
+   "title_th": "อีเทอรีน่า"
+  },
+  {
+   "id": 2,
+   "dungeon_level": [
+    13001101,
+    13001102,
+    13001103
+   ],
+   "mark_list": [
+    "E",
+    "D",
+    "C",
+    "B",
+    "A",
+    "S",
+    "SS",
+    "SSS"
+   ],
+   "score_list": [
+    1,
+    100,
+    400,
+    800,
+    1200,
+    2000,
+    2500,
+    3000
+   ],
+   "unlock_score_list": [
+    400,
+    400
+   ],
+   "reward_list": [
+    {
+     "id": 28141,
+     "count": 1
+    },
+    {
+     "id": 28142,
+     "count": 1
+    },
+    {
+     "id": 28143,
+     "count": 1
+    },
+    {
+     "id": 28144,
+     "count": 1
+    },
+    {
+     "id": 28145,
+     "count": 1
+    },
+    {
+     "id": 28146,
+     "count": 1
+    },
+    {
+     "id": 28147,
+     "count": 1
+    },
+    {
+     "id": 28148,
+     "count": 1
+    }
+   ],
+   "battle_tips": [
+    [
+     433
+    ],
+    [
+     434
+    ],
+    [
+     435
+    ]
+   ],
+   "title": "Summit Arena",
+   "title_th": "สุดยอดอารีน่า"
+  },
+  {
+   "id": 3,
+   "dungeon_level": [
+    13001201,
+    13001202,
+    13001203
+   ],
+   "mark_list": [
+    "E",
+    "D",
+    "C",
+    "B",
+    "A",
+    "S",
+    "SS",
+    "SSS"
+   ],
+   "score_list": [
+    1,
+    100,
+    400,
+    800,
+    1200,
+    2000,
+    2500,
+    3000
+   ],
+   "unlock_score_list": [
+    400,
+    400
+   ],
+   "reward_list": [
+    {
+     "id": 28141,
+     "count": 1
+    },
+    {
+     "id": 28142,
+     "count": 1
+    },
+    {
+     "id": 28143,
+     "count": 1
+    },
+    {
+     "id": 28144,
+     "count": 1
+    },
+    {
+     "id": 28145,
+     "count": 1
+    },
+    {
+     "id": 28146,
+     "count": 1
+    },
+    {
+     "id": 28147,
+     "count": 1
+    },
+    {
+     "id": 28148,
+     "count": 1
+    }
+   ],
+   "battle_tips": [
+    [
+     423
+    ],
+    [
+     413
+    ],
+    [
+     422
+    ]
+   ],
+   "title": "Fearless Arena",
+   "title_th": "อารีน่าห้าวหาญ"
+  },
+  {
+   "id": 4,
+   "dungeon_level": [
+    13001301,
+    13001302,
+    13001303
+   ],
+   "mark_list": [
+    "E",
+    "D",
+    "C",
+    "B",
+    "A",
+    "S",
+    "SS",
+    "SSS"
+   ],
+   "score_list": [
+    1,
+    100,
+    400,
+    800,
+    1200,
+    2000,
+    2500,
+    3000
+   ],
+   "unlock_score_list": [
+    400,
+    400
+   ],
+   "reward_list": [
+    {
+     "id": 28141,
+     "count": 1
+    },
+    {
+     "id": 28142,
+     "count": 1
+    },
+    {
+     "id": 28143,
+     "count": 1
+    },
+    {
+     "id": 28144,
+     "count": 1
+    },
+    {
+     "id": 28145,
+     "count": 1
+    },
+    {
+     "id": 28146,
+     "count": 1
+    },
+    {
+     "id": 28147,
+     "count": 1
+    },
+    {
+     "id": 28148,
+     "count": 1
+    }
+   ],
+   "battle_tips": [
+    [
+     412
+    ],
+    [
+     424
+    ],
+    [
+     414
+    ]
+   ],
+   "title": "HYPA Season",
+   "title_th": "HYPA Season"
+  }
+ ],
+ "text_chunk": "00041_edf54ea09ede35a9.json"
+}

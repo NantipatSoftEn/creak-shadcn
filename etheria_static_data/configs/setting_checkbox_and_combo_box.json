@@ -1,0 +1,2123 @@
+{
+ "config": "setting_checkbox_and_combo_box",
+ "fields": [
+  "id",
+  "platform",
+  "setting_group",
+  "setting_type",
+  "bool_show_in_loginview",
+  "type",
+  "type_list",
+  "type_list_str",
+  "name_list_default",
+  "default_value",
+  "bool_reload_type_list",
+  "name",
+  "name_list"
+ ],
+ "rows": {
+  "1010201": {
+   "id": 1010201,
+   "platform": 1,
+   "setting_group": 1,
+   "setting_type": 2,
+   "bool_show_in_loginview": 0,
+   "type": "graphics_resolution",
+   "type_list": [
+    [
+     1,
+     1
+    ],
+    [
+     2,
+     2
+    ],
+    [
+     3,
+     3
+    ]
+   ],
+   "type_list_str": null,
+   "name_list_default": [
+    "低",
+    "中",
+    "高"
+   ],
+   "default_value": 1,
+   "bool_reload_type_list": 0,
+   "name": "Display Resolution",
+   "name_th": "ความละเอียดจอภาพ",
+   "name_list": [
+    "Low",
+    "Middle",
+    "High"
+   ],
+   "name_list_th": [
+    "ต่ำ",
+    "ปานกลาง",
+    "สูง"
+   ]
+  },
+  "1010202": {
+   "id": 1010202,
+   "platform": 1,
+   "setting_group": 1,
+   "setting_type": 2,
+   "bool_show_in_loginview": 0,
+   "type": "graphics_fps",
+   "type_list": [
+    [
+     1,
+     30
+    ],
+    [
+     2,
+     60
+    ]
+   ],
+   "type_list_str": null,
+   "name_list_default": [
+    "30",
+    "60"
+   ],
+   "default_value": 1,
+   "bool_reload_type_list": 0,
+   "name": "Max FPS",
+   "name_th": "FPS สูงสุด"
+  },
+  "1010203": {
+   "id": 1010203,
+   "platform": 1,
+   "setting_group": 1,
+   "setting_type": 2,
+   "bool_show_in_loginview": 0,
+   "type": "graphics_material",
+   "type_list": [
+    [
+     1,
+     0
+    ],
+    [
+     2,
+     1
+    ],
+    [
+     3,
+     2
+    ]
+   ],
+   "type_list_str": null,
+   "name_list_default": [
+    "低",
+    "中",
+    "高"
+   ],
+   "default_value": 0,
+   "bool_reload_type_list": 0,
+   "name": "Material Quality",
+   "name_th": "คุณภาพวัสดุ",
+   "name_list": [
+    "Low",
+    "Middle",
+    "High"
+   ],
+   "name_list_th": [
+    "ต่ำ",
+    "ปานกลาง",
+    "สูง"
+   ]
+  },
+  "1010204": {
+   "id": 1010204,
+   "platform": 1,
+   "setting_group": 1,
+   "setting_type": 2,
+   "bool_show_in_loginview": 0,
+   "type": "graphics_shadow_quality",
+   "type_list": [
+    [
+     1,
+     0
+    ],
+    [
+     2,
+     1
+    ],
+    [
+     3,
+     2
+    ],
+    [
+     4,
+     3
+    ]
+   ],
+   "type_list_str": null,
+   "name_list_default": [
+    "无",
+    "低",
+    "中",
+    "高"
+   ],
+   "default_value": 0,
+   "bool_reload_type_list": 0,
+   "name": "Shadow Quality",
+   "name_th": "คุณภาพเงา",
+   "name_list": [
+    "None",
+    "Low",
+    "Middle",
+    "High"
+   ],
+   "name_list_th": [
+    "ไม่มี",
+    "ต่ำ",
+    "ปานกลาง",
+    "สูง"
+   ]
+  },
+  "1010205": {
+   "id": 1010205,
+   "platform": 1,
+   "setting_group": 1,
+   "setting_type": 2,
+   "bool_show_in_loginview": 0,
+   "type": "graphics_post_processing_quality",
+   "type_list": [
+    [
+     1,
+     0
+    ],
+    [
+     2,
+     1
+    ],
+    [
+     3,
+     2
+    ]
+   ],
+   "type_list_str": null,
+   "name_list_default": [
+    "低",
+    "中",
+    "高"
+   ],
+   "default_value": 0,
+   "bool_reload_type_list": 0,
+   "name": "Post-Processing Quality",
+   "name_th": "คุณภาพหลังการประมวลผล",
+   "name_list": [
+    "Low",
+    "Middle",
+    "High"
+   ],
+   "name_list_th": [
+    "ต่ำ",
+    "ปานกลาง",
+    "สูง"
+   ]
+  },
+  "1010206": {
+   "id": 1010206,
+   "platform": 1,
+   "setting_group": 1,
+   "setting_type": 2,
+   "bool_show_in_loginview": 0,
+   "type": "graphics_aa",
+   "type_list": [
+    [
+     1,
+     3
+    ],
+    [
+     2,
+     2
+    ],
+    [
+     3,
+     1
+    ]
+   ],
+   "type_list_str": null,
+   "name_list_default": [
+    "FXAA",
+    "TAA",
+    "MSAA"
+   ],
+   "default_value": 0,
+   "bool_reload_type_list": 1,
+   "name": "Antialiasing",
+   "name_th": "การลดรอยหยัก"
+  },
+  "1010207": {
+   "id": 1010207,
+   "platform": 1,
+   "setting_group": 1,
+   "setting_type": 2,
+   "bool_show_in_loginview": 0,
+   "type": "graphics_aa_quality",
+   "type_list": [
+    [
+     1,
+     0
+    ],
+    [
+     2,
+     1
+    ]
+   ],
+   "type_list_str": null,
+   "name_list_default": [
+    "低",
+    "高"
+   ],
+   "default_value": 0,
+   "bool_reload_type_list": 0,
+   "name": "Antialiasing Quality",
+   "name_th": "คุณภาพการลดรอยหยัก",
+   "name_list": [
+    "Low",
+    "High"
+   ],
+   "name_list_th": [
+    "ต่ำ",
+    "สูง"
+   ]
+  },
+  "1010208": {
+   "id": 1010208,
+   "platform": 1,
+   "setting_group": 1,
+   "setting_type": 2,
+   "bool_show_in_loginview": 0,
+   "type": "graphics_upsampling",
+   "type_list": [
+    [
+     1,
+     0
+    ],
+    [
+     2,
+     1
+    ]
+   ],
+   "type_list_str": null,
+   "name_list_default": [
+    "简单",
+    "FSR1"
+   ],
+   "default_value": 0,
+   "bool_reload_type_list": 0,
+   "name": "Scaling",
+   "name_th": "การปรับขนาด",
+   "name_list": [
+    "Easy",
+    "FSR1"
+   ],
+   "name_list_th": [
+    "ง่าย",
+    "FSR1"
+   ]
+  },
+  "1010209": {
+   "id": 1010209,
+   "platform": 1,
+   "setting_group": 1,
+   "setting_type": 2,
+   "bool_show_in_loginview": 0,
+   "type": "graphics_model_quality",
+   "type_list": [
+    [
+     1,
+     0
+    ],
+    [
+     2,
+     1
+    ],
+    [
+     3,
+     2
+    ]
+   ],
+   "type_list_str": null,
+   "name_list_default": [
+    "低",
+    "中",
+    "高"
+   ],
+   "default_value": 2,
+   "bool_reload_type_list": 0,
+   "name": "Model Quality",
+   "name_th": "คุณภาพโมเดล",
+   "name_list": [
+    "Low",
+    "Middle",
+    "High"
+   ],
+   "name_list_th": [
+    "ต่ำ",
+    "ปานกลาง",
+    "สูง"
+   ]
+  },
+  "1010210": {
+   "id": 1010210,
+   "platform": 1,
+   "setting_group": 1,
+   "setting_type": 2,
+   "bool_show_in_loginview": 0,
+   "type": "graphics_effect_quality",
+   "type_list": [
+    [
+     1,
+     0
+    ],
+    [
+     2,
+     1
+    ],
+    [
+     3,
+     2
+    ]
+   ],
+   "type_list_str": null,
+   "name_list_default": [
+    "低",
+    "中",
+    "高"
+   ],
+   "default_value": 0,
+   "bool_reload_type_list": 0,
+   "name": "Effects Quality",
+   "name_th": "คุณภาพเอฟเฟ็กต์",
+   "name_list": [
+    "Low",
+    "Middle",
+    "High"
+   ],
+   "name_list_th": [
+    "ต่ำ",
+    "ปานกลาง",
+    "สูง"
+   ]
+  },
+  "1020301": {
+   "id": 1020301,
+   "platform": 1,
+   "setting_group": 2,
+   "setting_type": 3,
+   "bool_show_in_loginview": 0,
+   "type": "sound_battle_voice_scale",
+   "type_list": [
+    [
+     1,
+     1
+    ],
+    [
+     2,
+     2
+    ],
+    [
+     3,
+     3
+    ]
+   ],
+   "type_list_str": null,
+   "name_list_default": [
+    "正常播放",
+    "减少播放",
+    "不播放"
+   ],
+   "default_value": 1,
+   "bool_reload_type_list": 0,
+   "name": "Voice speed-up during battle",
+   "name_th": "เพิ่มเสียงพูดระหว่างต่อสู้",
+   "name_list": [
+    "Play normally",
+    "Reduce Playbacks",
+    "Do not play"
+   ],
+   "name_list_th": [
+    "เล่นปกติ",
+    "ลดการเล่นซ้ำ",
+    "ไม่ต้องเล่น"
+   ]
+  },
+  "1030301": {
+   "id": 1030301,
+   "platform": 1,
+   "setting_group": 3,
+   "setting_type": 3,
+   "bool_show_in_loginview": 0,
+   "type": "language_language",
+   "type_list": [
+    [
+     1,
+     1
+    ],
+    [
+     2,
+     2
+    ],
+    [
+     3,
+     3
+    ],
+    [
+     4,
+     4
+    ],
+    [
+     5,
+     5
+    ],
+    [
+     6,
+     6
+    ],
+    [
+     7,
+     7
+    ],
+    [
+     8,
+     8
+    ],
+    [
+     9,
+     9
+    ],
+    [
+     10,
+     10
+    ],
+    [
+     11,
+     11
+    ],
+    [
+     12,
+     12
+    ],
+    [
+     13,
+     13
+    ]
+   ],
+   "type_list_str": [
+    "zh",
+    "zh-TW",
+    "en",
+    "ja",
+    "ko",
+    "vi",
+    "id",
+    "th",
+    "pt",
+    "de",
+    "fr",
+    "ru",
+    "es"
+   ],
+   "name_list_default": [
+    "简体中文",
+    "繁體中文",
+    "English",
+    "日本語",
+    "한국어",
+    "Tiếng Việt",
+    "Bahasa Indonesia",
+    "ภาษาไทย",
+    "Português (Brasil)",
+    "Deutsch",
+    "Français",
+    "Русский",
+    "Español"
+   ],
+   "default_value": 1,
+   "bool_reload_type_list": 1,
+   "name": "Language",
+   "name_th": "ภาษา"
+  },
+  "1030302": {
+   "id": 1030302,
+   "platform": 1,
+   "setting_group": 3,
+   "setting_type": 3,
+   "bool_show_in_loginview": 0,
+   "type": "language_voice_language",
+   "type_list": [
+    [
+     1,
+     1
+    ],
+    [
+     2,
+     2
+    ],
+    [
+     3,
+     3
+    ]
+   ],
+   "type_list_str": null,
+   "name_list_default": [
+    "汉语",
+    "日语",
+    "英语"
+   ],
+   "default_value": 1,
+   "bool_reload_type_list": 0,
+   "name": "Voice Language",
+   "name_th": "ภาษาเสียงพูด",
+   "name_list": [
+    "Chinese",
+    "Japanese",
+    "English"
+   ],
+   "name_list_th": [
+    "ภาษาจีน",
+    "ภาษาญี่ปุ่น",
+    "ภาษาอังกฤษ"
+   ]
+  },
+  "1010601": {
+   "id": 1010601,
+   "platform": 1,
+   "setting_group": 1,
+   "setting_type": 6,
+   "bool_show_in_loginview": 0,
+   "type": "graphics_image_quality",
+   "type_list": [
+    [
+     1,
+     0
+    ],
+    [
+     2,
+     1
+    ],
+    [
+     3,
+     2
+    ],
+    [
+     4,
+     3
+    ]
+   ],
+   "type_list_str": null,
+   "name_list_default": [
+    "低",
+    "中",
+    "高",
+    "自定义"
+   ],
+   "default_value": 1,
+   "bool_reload_type_list": 0,
+   "name": "Game Graphics",
+   "name_th": "กราฟิกเกม",
+   "name_list": [
+    "Low",
+    "Middle",
+    "High",
+    "Custom"
+   ],
+   "name_list_th": [
+    "ต่ำ",
+    "ปานกลาง",
+    "สูง",
+    "ปรับแต่ง"
+   ]
+  },
+  "1050301": {
+   "id": 1050301,
+   "platform": 1,
+   "setting_group": 5,
+   "setting_type": 3,
+   "bool_show_in_loginview": 0,
+   "type": "other_language",
+   "type_list": [
+    [
+     1,
+     1
+    ],
+    [
+     2,
+     2
+    ],
+    [
+     3,
+     3
+    ],
+    [
+     4,
+     4
+    ]
+   ],
+   "type_list_str": null,
+   "name_list_default": [
+    "简体中文",
+    "繁體中文",
+    "English",
+    "日本語"
+   ],
+   "default_value": 1,
+   "bool_reload_type_list": 0,
+   "name": "Language",
+   "name_th": "ภาษา"
+  },
+  "2010201": {
+   "id": 2010201,
+   "platform": 2,
+   "setting_group": 1,
+   "setting_type": 2,
+   "bool_show_in_loginview": 0,
+   "type": "graphics_resolution",
+   "type_list": [
+    [
+     1,
+     1
+    ],
+    [
+     2,
+     2
+    ],
+    [
+     3,
+     3
+    ]
+   ],
+   "type_list_str": null,
+   "name_list_default": [
+    "低",
+    "中",
+    "高"
+   ],
+   "default_value": 1,
+   "bool_reload_type_list": 0,
+   "name": "Display Resolution",
+   "name_th": "ความละเอียดจอภาพ",
+   "name_list": [
+    "Low",
+    "Middle",
+    "High"
+   ],
+   "name_list_th": [
+    "ต่ำ",
+    "ปานกลาง",
+    "สูง"
+   ]
+  },
+  "2010202": {
+   "id": 2010202,
+   "platform": 2,
+   "setting_group": 1,
+   "setting_type": 2,
+   "bool_show_in_loginview": 0,
+   "type": "graphics_fps",
+   "type_list": [
+    [
+     1,
+     30
+    ],
+    [
+     2,
+     60
+    ]
+   ],
+   "type_list_str": null,
+   "name_list_default": [
+    "30",
+    "60"
+   ],
+   "default_value": 1,
+   "bool_reload_type_list": 0,
+   "name": "Max FPS",
+   "name_th": "FPS สูงสุด"
+  },
+  "2010203": {
+   "id": 2010203,
+   "platform": 2,
+   "setting_group": 1,
+   "setting_type": 2,
+   "bool_show_in_loginview": 0,
+   "type": "graphics_material",
+   "type_list": [
+    [
+     1,
+     0
+    ],
+    [
+     2,
+     1
+    ],
+    [
+     3,
+     2
+    ],
+    null
+   ],
+   "type_list_str": null,
+   "name_list_default": [
+    "低",
+    "中",
+    "高"
+   ],
+   "default_value": 0,
+   "bool_reload_type_list": 0,
+   "name": "Material Quality",
+   "name_th": "คุณภาพวัสดุ",
+   "name_list": [
+    "Low",
+    "Middle",
+    "High"
+   ],
+   "name_list_th": [
+    "ต่ำ",
+    "ปานกลาง",
+    "สูง"
+   ]
+  },
+  "2010204": {
+   "id": 2010204,
+   "platform": 2,
+   "setting_group": 1,
+   "setting_type": 2,
+   "bool_show_in_loginview": 0,
+   "type": "graphics_shadow_quality",
+   "type_list": [
+    [
+     1,
+     0
+    ],
+    [
+     2,
+     1
+    ],
+    [
+     3,
+     2
+    ],
+    [
+     4,
+     3
+    ]
+   ],
+   "type_list_str": null,
+   "name_list_default": [
+    "无",
+    "低",
+    "中",
+    "高"
+   ],
+   "default_value": 0,
+   "bool_reload_type_list": 0,
+   "name": "Shadow Quality",
+   "name_th": "คุณภาพเงา",
+   "name_list": [
+    "None",
+    "Low",
+    "Middle",
+    "High"
+   ],
+   "name_list_th": [
+    "ไม่มี",
+    "ต่ำ",
+    "ปานกลาง",
+    "สูง"
+   ]
+  },
+  "2010205": {
+   "id": 2010205,
+   "platform": 2,
+   "setting_group": 1,
+   "setting_type": 2,
+   "bool_show_in_loginview": 0,
+   "type": "graphics_post_processing_quality",
+   "type_list": [
+    [
+     1,
+     0
+    ],
+    [
+     2,
+     1
+    ],
+    [
+     3,
+     2
+    ]
+   ],
+   "type_list_str": null,
+   "name_list_default": [
+    "低",
+    "中",
+    "高"
+   ],
+   "default_value": 0,
+   "bool_reload_type_list": 0,
+   "name": "Post-Processing Quality",
+   "name_th": "คุณภาพหลังการประมวลผล",
+   "name_list": [
+    "Low",
+    "Middle",
+    "High"
+   ],
+   "name_list_th": [
+    "ต่ำ",
+    "ปานกลาง",
+    "สูง"
+   ]
+  },
+  "2010206": {
+   "id": 2010206,
+   "platform": 2,
+   "setting_group": 1,
+   "setting_type": 2,
+   "bool_show_in_loginview": 0,
+   "type": "graphics_aa",
+   "type_list": [
+    [
+     1,
+     3
+    ],
+    [
+     2,
+     2
+    ],
+    [
+     3,
+     1
+    ]
+   ],
+   "type_list_str": null,
+   "name_list_default": [
+    "FXAA",
+    "TAA",
+    "MSAA"
+   ],
+   "default_value": 0,
+   "bool_reload_type_list": 1,
+   "name": "Antialiasing",
+   "name_th": "การลดรอยหยัก"
+  },
+  "2010207": {
+   "id": 2010207,
+   "platform": 2,
+   "setting_group": 1,
+   "setting_type": 2,
+   "bool_show_in_loginview": 0,
+   "type": "graphics_aa_quality",
+   "type_list": [
+    [
+     1,
+     0
+    ],
+    [
+     2,
+     1
+    ]
+   ],
+   "type_list_str": null,
+   "name_list_default": [
+    "低",
+    "高"
+   ],
+   "default_value": 0,
+   "bool_reload_type_list": 0,
+   "name": "Antialiasing Quality",
+   "name_th": "คุณภาพการลดรอยหยัก",
+   "name_list": [
+    "Low",
+    "High"
+   ],
+   "name_list_th": [
+    "ต่ำ",
+    "สูง"
+   ]
+  },
+  "2010208": {
+   "id": 2010208,
+   "platform": 2,
+   "setting_group": 1,
+   "setting_type": 2,
+   "bool_show_in_loginview": 0,
+   "type": "graphics_upsampling",
+   "type_list": [
+    [
+     1,
+     0
+    ],
+    [
+     2,
+     1
+    ]
+   ],
+   "type_list_str": null,
+   "name_list_default": [
+    "简单",
+    "FSR1"
+   ],
+   "default_value": 0,
+   "bool_reload_type_list": 0,
+   "name": "Scaling",
+   "name_th": "การปรับขนาด",
+   "name_list": [
+    "Easy",
+    "FSR1"
+   ],
+   "name_list_th": [
+    "ง่าย",
+    "FSR1"
+   ]
+  },
+  "2010209": {
+   "id": 2010209,
+   "platform": 2,
+   "setting_group": 1,
+   "setting_type": 2,
+   "bool_show_in_loginview": 0,
+   "type": "graphics_model_quality",
+   "type_list": [
+    [
+     1,
+     0
+    ],
+    [
+     2,
+     1
+    ],
+    [
+     3,
+     2
+    ]
+   ],
+   "type_list_str": null,
+   "name_list_default": [
+    "低",
+    "中",
+    "高"
+   ],
+   "default_value": 2,
+   "bool_reload_type_list": 0,
+   "name": "Model Quality",
+   "name_th": "คุณภาพโมเดล",
+   "name_list": [
+    "Low",
+    "Middle",
+    "High"
+   ],
+   "name_list_th": [
+    "ต่ำ",
+    "ปานกลาง",
+    "สูง"
+   ]
+  },
+  "2010210": {
+   "id": 2010210,
+   "platform": 2,
+   "setting_group": 1,
+   "setting_type": 2,
+   "bool_show_in_loginview": 0,
+   "type": "graphics_effect_quality",
+   "type_list": [
+    [
+     1,
+     0
+    ],
+    [
+     2,
+     1
+    ],
+    [
+     3,
+     2
+    ]
+   ],
+   "type_list_str": null,
+   "name_list_default": [
+    "低",
+    "中",
+    "高"
+   ],
+   "default_value": 0,
+   "bool_reload_type_list": 0,
+   "name": "Effects Quality",
+   "name_th": "คุณภาพเอฟเฟ็กต์",
+   "name_list": [
+    "Low",
+    "Middle",
+    "High"
+   ],
+   "name_list_th": [
+    "ต่ำ",
+    "ปานกลาง",
+    "สูง"
+   ]
+  },
+  "2020301": {
+   "id": 2020301,
+   "platform": 2,
+   "setting_group": 2,
+   "setting_type": 3,
+   "bool_show_in_loginview": 0,
+   "type": "sound_battle_voice_scale",
+   "type_list": [
+    [
+     1,
+     1
+    ],
+    [
+     2,
+     2
+    ],
+    [
+     3,
+     3
+    ]
+   ],
+   "type_list_str": null,
+   "name_list_default": [
+    "正常播放",
+    "减少播放",
+    "不播放"
+   ],
+   "default_value": 1,
+   "bool_reload_type_list": 0,
+   "name": "Voice speed-up during battle",
+   "name_th": "เพิ่มเสียงพูดระหว่างต่อสู้",
+   "name_list": [
+    "Play normally",
+    "Reduce Playbacks",
+    "Do not play"
+   ],
+   "name_list_th": [
+    "เล่นปกติ",
+    "ลดการเล่นซ้ำ",
+    "ไม่ต้องเล่น"
+   ]
+  },
+  "2010601": {
+   "id": 2010601,
+   "platform": 2,
+   "setting_group": 1,
+   "setting_type": 6,
+   "bool_show_in_loginview": 0,
+   "type": "graphics_image_quality",
+   "type_list": [
+    [
+     1,
+     0
+    ],
+    [
+     2,
+     1
+    ],
+    [
+     3,
+     2
+    ],
+    [
+     4,
+     3
+    ]
+   ],
+   "type_list_str": null,
+   "name_list_default": [
+    "低",
+    "中",
+    "高",
+    "自定义"
+   ],
+   "default_value": 1,
+   "bool_reload_type_list": 0,
+   "name": "Game Graphics",
+   "name_th": "กราฟิกเกม",
+   "name_list": [
+    "Low",
+    "Middle",
+    "High",
+    "Custom"
+   ],
+   "name_list_th": [
+    "ต่ำ",
+    "ปานกลาง",
+    "สูง",
+    "ปรับแต่ง"
+   ]
+  },
+  "2030301": {
+   "id": 2030301,
+   "platform": 2,
+   "setting_group": 3,
+   "setting_type": 3,
+   "bool_show_in_loginview": 0,
+   "type": "language_language",
+   "type_list": [
+    [
+     1,
+     1
+    ],
+    [
+     2,
+     2
+    ],
+    [
+     3,
+     3
+    ],
+    [
+     4,
+     4
+    ],
+    [
+     5,
+     5
+    ],
+    [
+     6,
+     6
+    ],
+    [
+     7,
+     7
+    ],
+    [
+     8,
+     8
+    ],
+    [
+     9,
+     9
+    ],
+    [
+     10,
+     10
+    ],
+    [
+     11,
+     11
+    ],
+    [
+     12,
+     12
+    ],
+    [
+     13,
+     13
+    ]
+   ],
+   "type_list_str": [
+    "zh",
+    "zh-TW",
+    "en",
+    "ja",
+    "ko",
+    "vi",
+    "id",
+    "th",
+    "pt",
+    "de",
+    "fr",
+    "ru",
+    "es"
+   ],
+   "name_list_default": [
+    "简体中文",
+    "繁體中文",
+    "English",
+    "日本語",
+    "한국어",
+    "Tiếng Việt",
+    "Bahasa Indonesia",
+    "ภาษาไทย",
+    "Português (Brasil)",
+    "Deutsch",
+    "Français",
+    "Русский",
+    "Español"
+   ],
+   "default_value": 1,
+   "bool_reload_type_list": 1,
+   "name": "Language",
+   "name_th": "ภาษา"
+  },
+  "2030302": {
+   "id": 2030302,
+   "platform": 2,
+   "setting_group": 3,
+   "setting_type": 3,
+   "bool_show_in_loginview": 0,
+   "type": "language_voice_language",
+   "type_list": [
+    [
+     1,
+     1
+    ],
+    [
+     2,
+     2
+    ],
+    [
+     3,
+     3
+    ]
+   ],
+   "type_list_str": null,
+   "name_list_default": [
+    "汉语",
+    "日语",
+    "英语"
+   ],
+   "default_value": 1,
+   "bool_reload_type_list": 0,
+   "name": "Voice Language",
+   "name_th": "ภาษาเสียงพูด",
+   "name_list": [
+    "Chinese",
+    "Japanese",
+    "English"
+   ],
+   "name_list_th": [
+    "ภาษาจีน",
+    "ภาษาญี่ปุ่น",
+    "ภาษาอังกฤษ"
+   ]
+  },
+  "2050301": {
+   "id": 2050301,
+   "platform": 2,
+   "setting_group": 5,
+   "setting_type": 3,
+   "bool_show_in_loginview": 0,
+   "type": "other_language",
+   "type_list": [
+    [
+     1,
+     1
+    ],
+    [
+     2,
+     2
+    ],
+    [
+     3,
+     3
+    ],
+    [
+     4,
+     4
+    ]
+   ],
+   "type_list_str": null,
+   "name_list_default": [
+    "简体中文",
+    "繁體中文",
+    "English",
+    "日本語"
+   ],
+   "default_value": 1,
+   "bool_reload_type_list": 0,
+   "name": "Language",
+   "name_th": "ภาษา"
+  },
+  "3010202": {
+   "id": 3010202,
+   "platform": 3,
+   "setting_group": 1,
+   "setting_type": 2,
+   "bool_show_in_loginview": 0,
+   "type": "graphics_fps",
+   "type_list": [
+    [
+     1,
+     30
+    ],
+    [
+     2,
+     60
+    ],
+    [
+     3,
+     120
+    ]
+   ],
+   "type_list_str": null,
+   "name_list_default": [
+    "30",
+    "60",
+    "120"
+   ],
+   "default_value": 1,
+   "bool_reload_type_list": 0,
+   "name": "Max FPS",
+   "name_th": "FPS สูงสุด"
+  },
+  "3010203": {
+   "id": 3010203,
+   "platform": 3,
+   "setting_group": 1,
+   "setting_type": 2,
+   "bool_show_in_loginview": 0,
+   "type": "graphics_material",
+   "type_list": [
+    [
+     1,
+     0
+    ],
+    [
+     2,
+     1
+    ],
+    [
+     3,
+     2
+    ]
+   ],
+   "type_list_str": null,
+   "name_list_default": [
+    "低",
+    "中",
+    "高"
+   ],
+   "default_value": 0,
+   "bool_reload_type_list": 0,
+   "name": "Material Quality",
+   "name_th": "คุณภาพวัสดุ",
+   "name_list": [
+    "Low",
+    "Middle",
+    "High"
+   ],
+   "name_list_th": [
+    "ต่ำ",
+    "ปานกลาง",
+    "สูง"
+   ]
+  },
+  "3010204": {
+   "id": 3010204,
+   "platform": 3,
+   "setting_group": 1,
+   "setting_type": 2,
+   "bool_show_in_loginview": 0,
+   "type": "graphics_shadow_quality",
+   "type_list": [
+    [
+     1,
+     0
+    ],
+    [
+     2,
+     1
+    ],
+    [
+     3,
+     2
+    ],
+    [
+     4,
+     3
+    ]
+   ],
+   "type_list_str": null,
+   "name_list_default": [
+    "无",
+    "低",
+    "中",
+    "高"
+   ],
+   "default_value": 0,
+   "bool_reload_type_list": 0,
+   "name": "Shadow Quality",
+   "name_th": "คุณภาพเงา",
+   "name_list": [
+    "None",
+    "Low",
+    "Middle",
+    "High"
+   ],
+   "name_list_th": [
+    "ไม่มี",
+    "ต่ำ",
+    "ปานกลาง",
+    "สูง"
+   ]
+  },
+  "3010205": {
+   "id": 3010205,
+   "platform": 3,
+   "setting_group": 1,
+   "setting_type": 2,
+   "bool_show_in_loginview": 0,
+   "type": "graphics_post_processing_quality",
+   "type_list": [
+    [
+     1,
+     0
+    ],
+    [
+     2,
+     1
+    ],
+    [
+     3,
+     2
+    ]
+   ],
+   "type_list_str": null,
+   "name_list_default": [
+    "低",
+    "中",
+    "高"
+   ],
+   "default_value": 0,
+   "bool_reload_type_list": 0,
+   "name": "Post-Processing Quality",
+   "name_th": "คุณภาพหลังการประมวลผล",
+   "name_list": [
+    "Low",
+    "Middle",
+    "High"
+   ],
+   "name_list_th": [
+    "ต่ำ",
+    "ปานกลาง",
+    "สูง"
+   ]
+  },
+  "3010206": {
+   "id": 3010206,
+   "platform": 3,
+   "setting_group": 1,
+   "setting_type": 2,
+   "bool_show_in_loginview": 0,
+   "type": "graphics_aa",
+   "type_list": [
+    [
+     1,
+     3
+    ],
+    [
+     2,
+     2
+    ],
+    [
+     3,
+     1
+    ]
+   ],
+   "type_list_str": null,
+   "name_list_default": [
+    "FXAA",
+    "TAA",
+    "MSAA"
+   ],
+   "default_value": 0,
+   "bool_reload_type_list": 1,
+   "name": "Antialiasing",
+   "name_th": "การลดรอยหยัก"
+  },
+  "3010207": {
+   "id": 3010207,
+   "platform": 3,
+   "setting_group": 1,
+   "setting_type": 2,
+   "bool_show_in_loginview": 0,
+   "type": "graphics_aa_quality",
+   "type_list": [
+    [
+     1,
+     0
+    ],
+    [
+     2,
+     1
+    ]
+   ],
+   "type_list_str": null,
+   "name_list_default": [
+    "低",
+    "高"
+   ],
+   "default_value": 0,
+   "bool_reload_type_list": 0,
+   "name": "Antialiasing Quality",
+   "name_th": "คุณภาพการลดรอยหยัก",
+   "name_list": [
+    "Low",
+    "High"
+   ],
+   "name_list_th": [
+    "ต่ำ",
+    "สูง"
+   ]
+  },
+  "3010208": {
+   "id": 3010208,
+   "platform": 3,
+   "setting_group": 1,
+   "setting_type": 2,
+   "bool_show_in_loginview": 0,
+   "type": "graphics_upsampling",
+   "type_list": [
+    [
+     1,
+     0
+    ],
+    [
+     2,
+     1
+    ]
+   ],
+   "type_list_str": null,
+   "name_list_default": [
+    "简单",
+    "FSR1"
+   ],
+   "default_value": 0,
+   "bool_reload_type_list": 0,
+   "name": "Scaling",
+   "name_th": "การปรับขนาด",
+   "name_list": [
+    "Easy",
+    "FSR1"
+   ],
+   "name_list_th": [
+    "ง่าย",
+    "FSR1"
+   ]
+  },
+  "3010209": {
+   "id": 3010209,
+   "platform": 3,
+   "setting_group": 1,
+   "setting_type": 2,
+   "bool_show_in_loginview": 0,
+   "type": "graphics_model_quality",
+   "type_list": [
+    [
+     1,
+     0
+    ],
+    [
+     2,
+     1
+    ],
+    [
+     3,
+     2
+    ]
+   ],
+   "type_list_str": null,
+   "name_list_default": [
+    "低",
+    "中",
+    "高"
+   ],
+   "default_value": 2,
+   "bool_reload_type_list": 0,
+   "name": "Model Quality",
+   "name_th": "คุณภาพโมเดล",
+   "name_list": [
+    "Low",
+    "Middle",
+    "High"
+   ],
+   "name_list_th": [
+    "ต่ำ",
+    "ปานกลาง",
+    "สูง"
+   ]
+  },
+  "3010210": {
+   "id": 3010210,
+   "platform": 3,
+   "setting_group": 1,
+   "setting_type": 2,
+   "bool_show_in_loginview": 0,
+   "type": "graphics_effect_quality",
+   "type_list": [
+    [
+     1,
+     0
+    ],
+    [
+     2,
+     1
+    ],
+    [
+     3,
+     2
+    ]
+   ],
+   "type_list_str": null,
+   "name_list_default": [
+    "低",
+    "中",
+    "高"
+   ],
+   "default_value": 0,
+   "bool_reload_type_list": 0,
+   "name": "Effects Quality",
+   "name_th": "คุณภาพเอฟเฟ็กต์",
+   "name_list": [
+    "Low",
+    "Middle",
+    "High"
+   ],
+   "name_list_th": [
+    "ต่ำ",
+    "ปานกลาง",
+    "สูง"
+   ]
+  },
+  "3010301": {
+   "id": 3010301,
+   "platform": 3,
+   "setting_group": 1,
+   "setting_type": 3,
+   "bool_show_in_loginview": 0,
+   "type": "graphics_pc_screen_scale",
+   "type_list": [
+    [
+     1,
+     1
+    ],
+    [
+     2,
+     2
+    ],
+    [
+     3,
+     3
+    ]
+   ],
+   "type_list_str": null,
+   "name_list_default": [
+    "4:3",
+    "16:9",
+    "16:10"
+   ],
+   "default_value": 2,
+   "bool_reload_type_list": 0,
+   "name": "Screen Ratio",
+   "name_th": "อัตราส่วนหน้าจอ"
+  },
+  "3010302": {
+   "id": 3010302,
+   "platform": 3,
+   "setting_group": 1,
+   "setting_type": 3,
+   "bool_show_in_loginview": 0,
+   "type": "graphics_pc_resolution",
+   "type_list": [
+    [
+     1,
+     1
+    ],
+    [
+     2,
+     2
+    ],
+    [
+     3,
+     3
+    ]
+   ],
+   "type_list_str": null,
+   "name_list_default": [
+    "1080*720",
+    "2560*1440",
+    "666*666"
+   ],
+   "default_value": 2,
+   "bool_reload_type_list": 1,
+   "name": "Resolution",
+   "name_th": "ความละเอียด"
+  },
+  "3010303": {
+   "id": 3010303,
+   "platform": 3,
+   "setting_group": 1,
+   "setting_type": 3,
+   "bool_show_in_loginview": 0,
+   "type": "graphics_pc_screen_type",
+   "type_list": [
+    [
+     1,
+     0
+    ],
+    [
+     2,
+     1
+    ],
+    [
+     3,
+     2
+    ]
+   ],
+   "type_list_str": null,
+   "name_list_default": [
+    "全屏",
+    "无边框",
+    "窗口模式"
+   ],
+   "default_value": 2,
+   "bool_reload_type_list": 0,
+   "name": "Window Mode",
+   "name_th": "โหมดหน้าต่าง",
+   "name_list": [
+    "Fullscreen",
+    "Borderless",
+    "Window Mode"
+   ],
+   "name_list_th": [
+    "เต็มจอ",
+    "ไร้ขอบ",
+    "โหมดหน้าต่าง"
+   ]
+  },
+  "3020301": {
+   "id": 3020301,
+   "platform": 3,
+   "setting_group": 2,
+   "setting_type": 3,
+   "bool_show_in_loginview": 0,
+   "type": "sound_battle_voice_scale",
+   "type_list": [
+    [
+     1,
+     1
+    ],
+    [
+     2,
+     2
+    ],
+    [
+     3,
+     3
+    ]
+   ],
+   "type_list_str": null,
+   "name_list_default": [
+    "正常播放",
+    "减少播放",
+    "不播放"
+   ],
+   "default_value": 1,
+   "bool_reload_type_list": 0,
+   "name": "Voice speed-up during battle",
+   "name_th": "เพิ่มเสียงพูดระหว่างต่อสู้",
+   "name_list": [
+    "Play normally",
+    "Reduce Playbacks",
+    "Do not play"
+   ],
+   "name_list_th": [
+    "เล่นปกติ",
+    "ลดการเล่นซ้ำ",
+    "ไม่ต้องเล่น"
+   ]
+  },
+  "3030301": {
+   "id": 3030301,
+   "platform": 3,
+   "setting_group": 3,
+   "setting_type": 3,
+   "bool_show_in_loginview": 0,
+   "type": "language_language",
+   "type_list": [
+    [
+     1,
+     1
+    ],
+    [
+     2,
+     2
+    ],
+    [
+     3,
+     3
+    ],
+    [
+     4,
+     4
+    ],
+    [
+     5,
+     5
+    ],
+    [
+     6,
+     6
+    ],
+    [
+     7,
+     7
+    ],
+    [
+     8,
+     8
+    ],
+    [
+     9,
+     9
+    ],
+    [
+     10,
+     10
+    ],
+    [
+     11,
+     11
+    ],
+    [
+     12,
+     12
+    ],
+    [
+     13,
+     13
+    ]
+   ],
+   "type_list_str": [
+    "zh",
+    "zh-TW",
+    "en",
+    "ja",
+    "ko",
+    "vi",
+    "id",
+    "th",
+    "pt",
+    "de",
+    "fr",
+    "ru",
+    "es"
+   ],
+   "name_list_default": [
+    "简体中文",
+    "繁體中文",
+    "English",
+    "日本語",
+    "한국어",
+    "Tiếng Việt",
+    "Bahasa Indonesia",
+    "ภาษาไทย",
+    "Português (Brasil)",
+    "Deutsch",
+    "Français",
+    "Русский",
+    "Español"
+   ],
+   "default_value": 1,
+   "bool_reload_type_list": 1,
+   "name": "Language",
+   "name_th": "ภาษา"
+  },
+  "3030302": {
+   "id": 3030302,
+   "platform": 3,
+   "setting_group": 3,
+   "setting_type": 3,
+   "bool_show_in_loginview": 0,
+   "type": "language_voice_language",
+   "type_list": [
+    [
+     1,
+     1
+    ],
+    [
+     2,
+     2
+    ],
+    [
+     3,
+     3
+    ]
+   ],
+   "type_list_str": null,
+   "name_list_default": [
+    "汉语",
+    "日语",
+    "英语"
+   ],
+   "default_value": 1,
+   "bool_reload_type_list": 0,
+   "name": "Voice Language",
+   "name_th": "ภาษาเสียงพูด",
+   "name_list": [
+    "Chinese",
+    "Japanese",
+    "English"
+   ],
+   "name_list_th": [
+    "ภาษาจีน",
+    "ภาษาญี่ปุ่น",
+    "ภาษาอังกฤษ"
+   ]
+  },
+  "3010601": {
+   "id": 3010601,
+   "platform": 3,
+   "setting_group": 1,
+   "setting_type": 6,
+   "bool_show_in_loginview": 0,
+   "type": "graphics_image_quality",
+   "type_list": [
+    [
+     1,
+     0
+    ],
+    [
+     2,
+     1
+    ],
+    [
+     3,
+     2
+    ],
+    [
+     4,
+     3
+    ]
+   ],
+   "type_list_str": null,
+   "name_list_default": [
+    "低",
+    "中",
+    "高",
+    "自定义"
+   ],
+   "default_value": 1,
+   "bool_reload_type_list": 0,
+   "name": "Game Graphics",
+   "name_th": "กราฟิกเกม",
+   "name_list": [
+    "Low",
+    "Middle",
+    "High",
+    "Custom"
+   ],
+   "name_list_th": [
+    "ต่ำ",
+    "ปานกลาง",
+    "สูง",
+    "ปรับแต่ง"
+   ]
+  },
+  "3040301": {
+   "id": 3040301,
+   "platform": 3,
+   "setting_group": 4,
+   "setting_type": 3,
+   "bool_show_in_loginview": 0,
+   "type": "operation_input_model",
+   "type_list": [
+    [
+     1,
+     1
+    ],
+    [
+     2,
+     2
+    ]
+   ],
+   "type_list_str": null,
+   "name_list_default": [
+    "手柄",
+    "键鼠"
+   ],
+   "default_value": 1,
+   "bool_reload_type_list": 0,
+   "name": "Control Device",
+   "name_th": "อุปกรณ์ควบคุม",
+   "name_list": [
+    "Controller",
+    "Keyboard and Mouse"
+   ],
+   "name_list_th": [
+    "คอนโทรลเลอร์",
+    "คีย์บอร์ดและเมาส์"
+   ]
+  },
+  "3040302": {
+   "id": 3040302,
+   "platform": 3,
+   "setting_group": 4,
+   "setting_type": 7,
+   "bool_show_in_loginview": 0,
+   "type": "operation_input_preset_keyboard",
+   "type_list": [
+    [
+     1,
+     0
+    ],
+    [
+     2,
+     1
+    ]
+   ],
+   "type_list_str": null,
+   "name_list_default": [
+    "方案一（默认）",
+    "方案二（法语）"
+   ],
+   "default_value": 1,
+   "bool_reload_type_list": 0,
+   "name": "Keyboard Layout",
+   "name_th": "ผังคีย์บอร์ด",
+   "name_list": [
+    "Default",
+    "French"
+   ],
+   "name_list_th": [
+    "ค่าเริ่มต้น",
+    "ฝรั่งเศส"
+   ]
+  },
+  "3050301": {
+   "id": 3050301,
+   "platform": 3,
+   "setting_group": 5,
+   "setting_type": 3,
+   "bool_show_in_loginview": 0,
+   "type": "other_language",
+   "type_list": [
+    [
+     1,
+     1
+    ],
+    [
+     2,
+     2
+    ],
+    [
+     3,
+     3
+    ],
+    [
+     4,
+     4
+    ]
+   ],
+   "type_list_str": null,
+   "name_list_default": [
+    "简体中文",
+    "繁體中文",
+    "English",
+    "日本語"
+   ],
+   "default_value": 1,
+   "bool_reload_type_list": 0,
+   "name": "Language",
+   "name_th": "ภาษา"
+  }
+ },
+ "text_chunk": "00139_8d468e6312b5847a.json"
+}

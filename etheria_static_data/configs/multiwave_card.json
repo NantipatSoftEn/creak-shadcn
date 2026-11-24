@@ -1,0 +1,413 @@
+{
+ "config": "multiwave_card",
+ "fields": [
+  "id",
+  "icon",
+  "is_level_up",
+  "effect",
+  "round",
+  "view_round",
+  "no_first_round",
+  "version",
+  "is_cur_mechanism",
+  "name",
+  "desc"
+ ],
+ "rows": [
+  {
+   "id": 1,
+   "icon": "0019",
+   "is_level_up": 0,
+   "effect": [
+    [
+     1,
+     3400
+    ]
+   ],
+   "round": null,
+   "view_round": -1,
+   "no_first_round": 0,
+   "version": 0,
+   "is_cur_mechanism": 0,
+   "name": "Vital Flow",
+   "name_th": "Vital Flow",
+   "desc": "Revive all dead allies and restore <MultiWaveBuff>100%</> HP to each.",
+   "desc_th": "คืนชีพพันธมิตรที่ตายทั้งหมดและฟื้นคืน HP <MultiWaveBuff>100%</> ให้กับพวกเขา"
+  },
+  {
+   "id": 2,
+   "icon": "0001",
+   "is_level_up": 1,
+   "effect": [
+    [
+     1,
+     3401
+    ]
+   ],
+   "round": null,
+   "view_round": 0,
+   "no_first_round": 0,
+   "version": 0,
+   "is_cur_mechanism": 0,
+   "name": "Speed Boost",
+   "name_th": "Speed Boost",
+   "desc": "ATK increases by [10%/25%/50%].",
+   "desc_th": "ATK เพิ่มขึ้น [10%/25%/50%]"
+  },
+  {
+   "id": 3,
+   "icon": "0002",
+   "is_level_up": 1,
+   "effect": [
+    [
+     1,
+     3402
+    ]
+   ],
+   "round": null,
+   "view_round": 0,
+   "no_first_round": 0,
+   "version": 0,
+   "is_cur_mechanism": 0,
+   "name": "Shield Boost",
+   "name_th": "Shield Boost",
+   "desc": "DEF increases by [10%/25%/50%].",
+   "desc_th": "DEF เพิ่มขึ้น [10%/25%/50%]"
+  },
+  {
+   "id": 4,
+   "icon": "0003",
+   "is_level_up": 1,
+   "effect": [
+    [
+     1,
+     3403
+    ]
+   ],
+   "round": null,
+   "view_round": 0,
+   "no_first_round": 0,
+   "version": 0,
+   "is_cur_mechanism": 0,
+   "name": "HP Boost",
+   "name_th": "HP Boost",
+   "desc": "Max HP increases by [10%/25%/50%].",
+   "desc_th": "Max HP เพิ่มขึ้น [10%/25%/50%]"
+  },
+  {
+   "id": 5,
+   "icon": "0004",
+   "is_level_up": 1,
+   "effect": [
+    [
+     1,
+     3404
+    ],
+    [
+     0,
+     3405
+    ]
+   ],
+   "round": [
+    [
+     3405,
+     3
+    ]
+   ],
+   "view_round": 0,
+   "no_first_round": 0,
+   "version": 0,
+   "is_cur_mechanism": 0,
+   "name": "Explosive Dimension",
+   "name_th": "Explosive Dimension",
+   "desc": "CRIT Rate and CRIT DMG increase by [6%/15%/30%], Effect RES of all enemies decrease by [6%/15%/30%].",
+   "desc_th": "CRIT Rate และ CRIT DMG เพิ่มขึ้น [6%/15%/30%] และ Effect RES ของศัตรูทั้งหมดลดลง [6%/15%/30%]"
+  },
+  {
+   "id": 6,
+   "icon": "0005",
+   "is_level_up": 1,
+   "effect": [
+    [
+     1,
+     3406
+    ]
+   ],
+   "round": null,
+   "view_round": 0,
+   "no_first_round": 0,
+   "version": 0,
+   "is_cur_mechanism": 0,
+   "name": "Power Drive",
+   "name_th": "Power Drive",
+   "desc": "After the turn, increase the Turn Meter of the ally with the highest Turn Meter by [6%/15%/30%].",
+   "desc_th": "หลังจากเทิร์น จะเพิ่มเกจเทิร์นของพันธมิตรที่มีเกจเทิร์นสูงที่สุดขึ้น [6%/15%/30%]"
+  },
+  {
+   "id": 7,
+   "icon": "0006",
+   "is_level_up": 1,
+   "effect": [
+    [
+     1,
+     3407
+    ]
+   ],
+   "round": null,
+   "view_round": 0,
+   "no_first_round": 0,
+   "version": 0,
+   "is_cur_mechanism": 0,
+   "name": "Scaled Counter",
+   "name_th": "Scaled Counter",
+   "desc": "Counterattack Rate increases by [10%/25%/50%].",
+   "desc_th": "โอกาสโจมตีสวนกลับเพิ่มขึ้น [10%/25%/50%]"
+  },
+  {
+   "id": 8,
+   "icon": "0007",
+   "is_level_up": 1,
+   "effect": [
+    [
+     1,
+     3408
+    ]
+   ],
+   "round": null,
+   "view_round": 0,
+   "no_first_round": 0,
+   "version": 0,
+   "is_cur_mechanism": 0,
+   "name": "Order Chase",
+   "name_th": "Order Chase",
+   "desc": "Follow-up Attack Rate increases by [8%/20%/40%].",
+   "desc_th": "โอกาสโจมตีตามซ้ำเพิ่มขึ้น [8%/20%/40%]"
+  },
+  {
+   "id": 9,
+   "icon": "0008",
+   "is_level_up": 1,
+   "effect": [
+    [
+     1,
+     3409
+    ]
+   ],
+   "round": null,
+   "view_round": 0,
+   "no_first_round": 0,
+   "version": 0,
+   "is_cur_mechanism": 0,
+   "name": "Hyper Synergy",
+   "name_th": "Hyper Synergy",
+   "desc": "Assist Rate increases by [5%/12%/25%].",
+   "desc_th": "Assist Rate เพิ่มขึ้น [5%/12%/25%]"
+  },
+  {
+   "id": 10,
+   "icon": "0009",
+   "is_level_up": 1,
+   "effect": [
+    [
+     1,
+     3410
+    ]
+   ],
+   "round": null,
+   "view_round": 0,
+   "no_first_round": 0,
+   "version": 0,
+   "is_cur_mechanism": 0,
+   "name": "Phrase Reset",
+   "name_th": "Phrase Reset",
+   "desc": "At the end of the turn, has a [10%/25%/50%] chance to reduce the CD of all own skills by <MultiWaveBuff>1</> turn(s)",
+   "desc_th": "เมื่อจบเทิร์น จะมีโอกาส [10%/25%/50%] ที่จะลด CD ของสกิลทั้งหมดของตัวเองลง <MultiWaveBuff>1</> เทิร์น"
+  },
+  {
+   "id": 11,
+   "icon": "0010",
+   "is_level_up": 1,
+   "effect": [
+    [
+     1,
+     3411
+    ]
+   ],
+   "round": null,
+   "view_round": 0,
+   "no_first_round": 0,
+   "version": 0,
+   "is_cur_mechanism": 0,
+   "name": "Power Rush",
+   "name_th": "Power Rush",
+   "desc": "After the turn, there is a [6%/15%/30%] chance to gain <MultiWaveBuff>100%</> Turn Meter.",
+   "desc_th": "หลังจากเทิร์น จะมีโอกาส [6%/15%/30%] ที่จะได้รับเกจเทิร์น <MultiWaveBuff>100%</>"
+  },
+  {
+   "id": 12,
+   "icon": "0011",
+   "is_level_up": 1,
+   "effect": [
+    [
+     1,
+     3412
+    ]
+   ],
+   "round": null,
+   "view_round": 0,
+   "no_first_round": 0,
+   "version": 0,
+   "is_cur_mechanism": 0,
+   "name": "Cooldown Catalyst",
+   "name_th": "Cooldown Catalyst",
+   "desc": "At the start of each wave, reduce skill CD by [1/1/2] turns and increase Turn Meter by [5%/20%/30%].",
+   "desc_th": "เมื่อเริ่มต้นแต่ละเวฟของการต่อสู้ จะลด CD สกิลลง [1/1/2] เทิร์นและเพิ่มเกจเทิร์นขึ้น [5%/20%/30%]"
+  },
+  {
+   "id": 13,
+   "icon": "0012",
+   "is_level_up": 1,
+   "effect": [
+    [
+     1,
+     3413
+    ]
+   ],
+   "round": null,
+   "view_round": 0,
+   "no_first_round": 0,
+   "version": 0,
+   "is_cur_mechanism": 0,
+   "name": "Multivariate Affinity",
+   "name_th": "Multivariate Affinity",
+   "desc": "For each different affinity character in the lineup, DMG results increase by [2%/5%/10%].",
+   "desc_th": "สำหรับตัวละครที่มีรูปแบบต่างกันในแต่ละทีม ผลลัพธ์ DMG จะเพิ่มขึ้น [2%/5%/10%]"
+  },
+  {
+   "id": 14,
+   "icon": "0013",
+   "is_level_up": 1,
+   "effect": [
+    [
+     1,
+     3414
+    ]
+   ],
+   "round": null,
+   "view_round": 0,
+   "no_first_round": 0,
+   "version": 0,
+   "is_cur_mechanism": 0,
+   "name": "Affinity Resonance",
+   "name_th": "Affinity Resonance",
+   "desc": "For each same affinity character in the lineup, DMG results increase by [2%/5%/10%]. Only the highest value is taken.",
+   "desc_th": "สำหรับตัวละครที่มีรูปแบบเหมือนกันในแต่ละทีม ผลลัพธ์ DMG จะเพิ่มขึ้น [2%/5%/10%] จะใช้เฉพาะค่าที่สูงที่สุดเท่านั้น"
+  },
+  {
+   "id": 15,
+   "icon": "0014",
+   "is_level_up": 1,
+   "effect": [
+    [
+     1,
+     3416
+    ]
+   ],
+   "round": null,
+   "view_round": 0,
+   "no_first_round": 0,
+   "version": 0,
+   "is_cur_mechanism": 0,
+   "name": "Blood Surge",
+   "name_th": "Blood Surge",
+   "desc": "Final damage dealt increases by [10%/25%/50%], but HP loses at the end of each turn, equal to [5%/7%/10%] of max HP.",
+   "desc_th": "DMG ขั้นสุดท้ายที่ทำได้เพิ่มขึ้น [10%/25%/50%] แต่จะเสีย HP เท่ากับ [5%/7%/10%] ของ Max HP เมื่อสิ้นสุดแต่ละเทิร์น"
+  },
+  {
+   "id": 16,
+   "icon": "0015",
+   "is_level_up": 1,
+   "effect": [
+    [
+     1,
+     3417
+    ]
+   ],
+   "round": null,
+   "view_round": 0,
+   "no_first_round": 0,
+   "version": 0,
+   "is_cur_mechanism": 0,
+   "name": "Over Defense",
+   "name_th": "Over Defense",
+   "desc": "Final damage dealt increases by [10%/25%/50%], but healing and Shield effects are reduced by [25%/35%/50%].",
+   "desc_th": "DMG ขั้นสุดท้ายที่ทำได้จะเพิ่มขึ้น [10%/25%/50%] แต่เอฟเฟ็กต์การฮีลและโล่จะลดลง [25%/35%/50%]"
+  },
+  {
+   "id": 17,
+   "icon": "0016",
+   "is_level_up": 0,
+   "effect": [
+    [
+     0,
+     3418
+    ]
+   ],
+   "round": [
+    [
+     3418,
+     3
+    ]
+   ],
+   "view_round": 3,
+   "no_first_round": 0,
+   "version": 0,
+   "is_cur_mechanism": 0,
+   "name": "Corrosion Field",
+   "name_th": "Corrosion Field",
+   "desc": "All enemies lose <MultiWaveBuff>80%</> HP at the start of each battle for <MultiWaveBuff>3</> battles. This will not be triggered in boss fights.",
+   "desc_th": "ศัตรูทั้งหมดจะสูญเสีย HP <MultiWaveBuff>80%</> เมื่อเริ่มต้นแต่ละการต่อสู้ คงอยู่เป็นเวลา <MultiWaveBuff>3</> การต่อสู้ ซึ่งจะไม่เกิดขึ้นในการต่อสู้กับบอส"
+  },
+  {
+   "id": 18,
+   "icon": "0017",
+   "is_level_up": 0,
+   "effect": [
+    [
+     1,
+     3419
+    ]
+   ],
+   "round": null,
+   "view_round": 3,
+   "no_first_round": 0,
+   "version": 0,
+   "is_cur_mechanism": 0,
+   "name": "Mirror Refraction",
+   "name_th": "Mirror Refraction",
+   "desc": "Gain [Reflective Coating] at the start of every battle, reflecting all damage and Debuffs for <MultiWaveBuff>2</> turns, lasting for <MultiWaveBuff>3</> battles.",
+   "desc_th": "ได้รับ [Reflective Coating] เมื่อเริ่มต้นแต่ละการต่อสู้ โดยจะสะท้อน DMG และดีบัฟทั้งหมดเป็นเวลา <MultiWaveBuff>2</> เทิร์นและคงอยู่เป็นเวลา <MultiWaveBuff>3</> การต่อสู้"
+  },
+  {
+   "id": 19,
+   "icon": "0018",
+   "is_level_up": 0,
+   "effect": [
+    [
+     1,
+     3420
+    ]
+   ],
+   "round": null,
+   "view_round": -1,
+   "no_first_round": 1,
+   "version": 0,
+   "is_cur_mechanism": 0,
+   "name": "Resupply",
+   "name_th": "Resupply",
+   "desc": "Restores <MultiWaveBuff>100%</> HP to all allies, purifies all negative effects, and resets all skill CDs.",
+   "desc_th": "ฟื้นฟู HP <MultiWaveBuff>100%</> ให้กับพันธมิตรทั้งหมด ชะล้างเอฟเฟ็กต์เชิงลบทั้งหมด และรีเซ็ต CD สกิลทั้งหมด"
+  }
+ ],
+ "text_chunk": "00110_65422c6230a89a5a.json"
+}

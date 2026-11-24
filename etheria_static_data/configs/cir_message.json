@@ -1,0 +1,117 @@
+{
+ "config": "cir_message",
+ "fields": [
+  "message_id",
+  "npc_id",
+  "title",
+  "message_picture",
+  "message_text",
+  "like_num",
+  "like_des",
+  "reply_id_list",
+  "player_reply_id_list",
+  "npc_reply_player_id_list"
+ ],
+ "rows": [
+  {
+   "message_id": 1,
+   "npc_id": 1,
+   "title": "工作时间（Mon-Fri 9AM-6PM）外同事勿扰",
+   "message_picture": "",
+   "message_text": "<Gray>转发本条信息在你的朋友圈收集10个赞可获得Happy Pet宠物店8折优惠券，快来赞我吧！</>\n<Gray>帮个忙，宠物食品又涨价了）</>",
+   "like_num": 666,
+   "like_des": "黛纳、克拉肯、赫尔基德、M、Friday",
+   "reply_id_list": [
+    101,
+    102,
+    103,
+    104
+   ],
+   "player_reply_id_list": null,
+   "npc_reply_player_id_list": null
+  },
+  {
+   "message_id": 2,
+   "npc_id": 40331,
+   "title": "计划顺利推进中！",
+   "message_picture": "",
+   "message_text": "<Gray>超豪华的实验室，还亲眼看见了传说中的库鲁卢大人！酷！</>",
+   "like_num": 666,
+   "like_des": "41号、方格斯、赫尔基德、弗洛拉",
+   "reply_id_list": [
+    201,
+    202
+   ],
+   "player_reply_id_list": [
+    203,
+    205
+   ],
+   "npc_reply_player_id_list": [
+    204,
+    206
+   ]
+  },
+  {
+   "message_id": 3,
+   "npc_id": 101,
+   "title": "小信鸽来喽~",
+   "message_picture": "",
+   "message_text": "<Gray>伊瑟夏日运动会火热报名中！</>\n<Gray>希望各位同学秉承着自愿原则，积极参与进来~十三区的荣誉由你我共同守护~！</>\n<Gray>*如报名人数不足会长将进行随机抽选</>",
+   "like_num": 666,
+   "like_des": "月夜见、风间一宵",
+   "reply_id_list": [
+    301,
+    302,
+    303
+   ],
+   "player_reply_id_list": [
+    304,
+    306
+   ],
+   "npc_reply_player_id_list": [
+    305,
+    307
+   ]
+  },
+  {
+   "message_id": 4,
+   "npc_id": 102,
+   "title": "伊瑟E.O.S. 直属新闻社",
+   "message_picture": "",
+   "message_text": "<Black>E-01轨道交通线路已恢复，伊瑟E.O.S. 官方已发布检测报告。报告显示线路内能量值正常，符合出行标准。停运属于季度例行检查，前往伊瑟E.O.S. 官方站了解更多：</><Blue>EOSoffice. Net</>\n<Gray>安全伊瑟，安居伊瑟。</>",
+   "like_num": 666,
+   "like_des": "莱托斯、伊拉、赫尔基德、莉莉斯",
+   "reply_id_list": [
+    401,
+    402,
+    403,
+    404,
+    405
+   ],
+   "player_reply_id_list": null,
+   "npc_reply_player_id_list": null
+  },
+  {
+   "message_id": 5,
+   "npc_id": 103,
+   "title": "劲爆大料，随时吃瓜！",
+   "message_picture": "",
+   "message_text": "<Gray>消失的列车？疑为G病毒感染扩大！</>\n<Gray>根据匿名爆料，轨道交通大规模停运与曾经“消失列车”都市传闻有关，其根源竟是因为源病毒感染！现场还拍到了疑似超链者身影！</>",
+   "like_num": 666,
+   "like_des": "莉莉斯、洋苏",
+   "reply_id_list": [
+    501,
+    502
+   ],
+   "player_reply_id_list": [
+    503,
+    505
+   ],
+   "npc_reply_player_id_list": [
+    504,
+    506
+   ]
+  }
+ ],
+ "text_chunk": null
+}

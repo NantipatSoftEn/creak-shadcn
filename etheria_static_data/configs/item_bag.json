@@ -1,0 +1,78 @@
+{
+ "config": "item_bag",
+ "fields": [
+  "tab_id",
+  "type_list",
+  "badge",
+  "show_name"
+ ],
+ "rows": [
+  {
+   "tab_id": 1,
+   "type_list": [
+    5
+   ],
+   "badge": 0,
+   "show_name": "Module",
+   "show_name_th": "โมดูล"
+  },
+  {
+   "tab_id": 2,
+   "type_list": [
+    4
+   ],
+   "badge": 0,
+   "show_name": "Shell",
+   "show_name_th": "Shell"
+  },
+  {
+   "tab_id": 3,
+   "type_list": [
+    66
+   ],
+   "badge": 0,
+   "show_name": "Component",
+   "show_name_th": "Component"
+  },
+  {
+   "tab_id": 4,
+   "type_list": [
+    2,
+    73,
+    24,
+    54,
+    69
+   ],
+   "badge": 903,
+   "show_name": "Materials",
+   "show_name_th": "วัสดุ"
+  },
+  {
+   "tab_id": 5,
+   "type_list": [
+    16,
+    19,
+    20,
+    21,
+    37,
+    55,
+    56,
+    59
+   ],
+   "badge": 0,
+   "show_name": "Consumables",
+   "show_name_th": "ของใช้"
+  },
+  {
+   "tab_id": 6,
+   "type_list": [
+    31,
+    32
+   ],
+   "badge": 900,
+   "show_name": "Fragments",
+   "show_name_th": "ชิ้นส่วน"
+  }
+ ],
+ "text_chunk": "00102_d5d5c83e5a32aee7.json"
+}

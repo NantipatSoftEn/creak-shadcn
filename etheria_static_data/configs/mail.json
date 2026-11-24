@@ -1,0 +1,1273 @@
+{
+ "config": "mail",
+ "fields": [
+  "id",
+  "icon",
+  "sender",
+  "title",
+  "content"
+ ],
+ "rows": {
+  "1": {
+   "id": 1,
+   "icon": "0001",
+   "sender": "Union",
+   "sender_th": "สหพันธ์",
+   "title": "Animus Distribution",
+   "title_th": "การแจกจ่าย Animus",
+   "content": "Dear Hyperlinker:\nBelow are all the Animus materials",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์:\nต่อไปนี้เป็นวัสดุ Animus ทั้งหมด"
+  },
+  "2": {
+   "id": 2,
+   "icon": "0002",
+   "sender": "Union",
+   "sender_th": "สหพันธ์",
+   "title": "Guild War Rewards",
+   "title_th": "รางวัลสงครามสหพันธ์",
+   "content": "Dear Hyperlinker:\nAs of today at 21:00, you have earned the position of {1} in this Royal City Battle. We have issued you rich settlement rewards. This email will be automatically deleted in 7 days. Don't forget to claim the rewards in time. Email length test lasts until December 15. It is expected that almost all Apple products made in China will be subject to an additional 15% tariff, including main products such as iPhones. Dan Ives of Wedbush Securities, an American securities firm analyzing Apple stock, believes that Apple cannot pass the tax increase cost onto retail prices and \"will likely absorb it themselves,\" predicting that tariffs will become a factor in reducing final profits after 2020. (Nikkei Chinese Network) As of today at 21:00, you have earned the position of in this Royal City Battle. We have issued you rich settlement rewards. This email will be automatically deleted in 7 days. Don't forget to claim the rewards in time. Email length test lasts until December 15. It is expected that almost all Apple products made in China will be subject to an additional 15% tariff, including main products such as iPhones. Dan Ives of Wedbush Securities, an American securities firm analyzing Apple stock, believes that Apple cannot pass the tax increase cost onto retail prices and \"will likely absorb it themselves,\" predicting that tariffs will become a factor in reducing final profits after 2020. (Nikkei Chinese Network) As of today at 21:00, you have earned the position of in this Royal City Battle. We have issued you rich settlement rewards. This email will be automatically deleted in 7 days. Don't forget to claim the rewards in time. Email length test lasts until December 15. It is expected that almost all Apple products made in China will be subject to an additional 15% tariff, including main products such as iPhones. Dan Ives of Wedbush Securities, an American securities firm analyzing Apple stock, believes that Apple cannot pass the tax increase cost onto retail prices and \"will likely absorb it themselves,\" predicting that tariffs will become a factor in reducing final profits after 2020. (Nikkei Chinese Network) As of today at 21:00, you have earned the position of in this Royal City Battle. We have issued you rich settlement rewards. This email will be automatically deleted in 7 days. Don't forget to claim the rewards in time. Email length test lasts until December 15. It is expected that almost all Apple products made in China will be subject to an additional 15% tariff, including main products such as iPhones. Dan Ives of Wedbush Securities, an American securities firm analyzing Apple stock, believes that Apple cannot pass the tax increase cost onto retail prices and \"will likely absorb it themselves,\" predicting that tariffs will become a factor in reducing final profits after 2020. (Nikkei Chinese Network)",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์:\nณ เวลา 21:00 น. ของวันนี้ คุณได้รับตำแหน่ง {1} ใน Royal City Battle นี้แล้ว เราได้มอบรางวัลตอบแทนมากมายให้กับคุณแล้ว จดหมายฉบับนี้จะถูกลบโดยอัตโนมัติภายใน 7 วัน อย่าลืมรับรางวัลภายในเวลาที่กำหนด การทดสอบความยาวของจดหมายจะคงอยู่จนถึงวันที่ 15 ธันวาคม โดยคาดว่าผลิตภัณฑ์ Apple เกือบทั้งหมดที่ผลิตในจีนจะมีค่าภาษีเพิ่มเติม 15% รวมถึงผลิตภัณฑ์หลัก เช่น iPhone ด้วย Dan Ives จาก Wedbush Securities ซึ่งเป็นบริษัทหลักทรัพย์ของอเมริกาที่วิเคราะห์หุ้นของ Apple เชื่อว่า Apple จะขึ้นราคาสินค้าขายปลีกเพื่อชดเชยต้นทุนที่เพิ่มขึ้นจากภาษีไม่ได้ และ \"น่าจะแบกรับภาระในส่วนนั้นเอาไว้เอง\" และคาดการณ์ว่าภาษีจะกลายเป็นปัจจัยที่ลดผลกำไรสุทธิหลังจากปี 2020 (Nikkei Chinese Network)"
+  },
+  "3": {
+   "id": 3,
+   "icon": "0001",
+   "sender": "Union",
+   "sender_th": "สหพันธ์",
+   "title": "Stamina Return",
+   "title_th": "การคืนพลังงาน",
+   "content": "Dear Hyperlinker,\nThe Stamina that exceeds the limit has been sent to you via this email. Please check and collect it. (This email will be automatically deleted in 7d. Make sure to collect it in time.)",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์\nเราได้ส่งพลังงานที่เกินขีดจำกัดให้คุณทางจดหมายฉบับนี้แล้ว โปรดตรวจสอบและรับไว้ได้เลย (จดหมายฉบับนี้จะถูกลบโดยอัตโนมัติภายใน 7 วัน โปรดรับภายในเวลาที่กำหนด)"
+  },
+  "4": {
+   "id": 4,
+   "icon": "0001",
+   "sender": "Union",
+   "sender_th": "สหพันธ์",
+   "title": "Test benefits, log in to receive",
+   "title_th": "สิทธิประโยชน์ในช่วงทดสอบ ล็อกอินเพื่อรับได้เลย",
+   "content": "Dear Hyperlinker:\nTest big benefits, receive a reward for the first login each day. Here is today's military pay: 3000 ingots, and your VIP level has also increased. Have fun!",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์:\nสิทธิประโยชน์มากมายในช่วงทดสอบ ล็อกอินทุกวันเพื่อรับรางวัลประจำวันได้เลย นี่คือเบี้ยเลี้ยงทหารประจำวันนี้: 3000 ตำลึง และระดับ VIP ของคุณเองก็เพิ่มขึ้นด้วย ขอให้สนุกนะ!"
+  },
+  "9": {
+   "id": 9,
+   "icon": "0001",
+   "sender": "E.O.S",
+   "sender_th": "E.O.S",
+   "title": "System Notification",
+   "title_th": "แจ้งเตือนระบบ",
+   "content": "Dear Hyperlinker:\n{1}",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์:\n{1}"
+  },
+  "6": {
+   "id": 6,
+   "icon": "0001",
+   "sender": "Union",
+   "sender_th": "สหพันธ์",
+   "title": "Battle Victory rewards",
+   "title_th": "รางวัลชนะการต่อสู้",
+   "content": "Dear Hyperlinker:\nThe following rewards are obtained from the battle victory.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์:\nรางวัลต่อไปนี้จะได้รับจากการชนะการต่อสู้"
+  },
+  "7": {
+   "id": 7,
+   "icon": "0001",
+   "sender": "Union",
+   "sender_th": "สหพันธ์",
+   "title": "Overflow Item Return",
+   "title_th": "การคืนไอเทมที่เกิน",
+   "content": "Dear Hyperlinker:\nHere's the items that exceed the limit.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์:\nนี่คือไอเทมที่เกินขีดจำกัด"
+  },
+  "8": {
+   "id": 8,
+   "icon": "0001",
+   "sender": "Union",
+   "sender_th": "สหพันธ์",
+   "title": "Test Rewards",
+   "title_th": "รางวัลช่วงทดสอบ",
+   "content": "Dear Hyperlinker:\nHere's your test rewards.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์:\nนี่คือรางวัลช่วงทดสอบของคุณ"
+  },
+  "10": {
+   "id": 10,
+   "icon": "0001",
+   "sender": "Yang",
+   "sender_th": "Yang",
+   "title": "A Letter from Yang",
+   "title_th": "จดหมายจาก Yang",
+   "content": "The job at Decaninth Street was well done. Although it's a pity about Obol, I'm still quite satisfied. This is a thank-you gift from Kazami Kazuyo, who asked me to give it to you. That miser, I told her I spent a lot of money, though I forgot the exact amount, but it was a lot. She actually said that's a different matter! This virus... could it have left some aftereffects on her brain?",
+   "content_th": "งานที่ถนนสายที่ 90 เรียบร้อยดี ถึง Obol จะน่าสงสาร แต่ฉันก็ยังพอใจอยู่ดี นี่เป็นของขวัญขอบคุณจาก Kazami Kazuyo ที่ขอให้ฉันเอามาให้คุณ ยัยคนขี้เหนียวนั่น ฉันบอกเธอว่าใช้เงินไปเยอะมาก ถึงจะจำจำนวนเป๊ะ ๆ ไม่ได้ก็เถอะ แต่ว่ามันเยอะมากจริง ๆ นะ เธอดันบอกว่าไม่เห็นจะเกี่ยวกันเลย! ไวรัสนี้... หรือว่ามันจะทิ้งผลข้างเคียงไว้ในสมองของเธอกันนะ?"
+  },
+  "11": {
+   "id": 11,
+   "icon": "0001",
+   "sender": "E-01 Financial Regulatory Association",
+   "sender_th": "E-01 สหพันธ์การกำกับดูแลทางการเงิน",
+   "title": "Correspondence from the Union of Financial Supervision",
+   "title_th": "จดหมายโต้ตอบจากสหพันธ์การกำกับดูแลทางการเงิน",
+   "content": "Dear Client,\nAfter my on-site verification, the problem Mr. Shadow Hunter was concerned about did not occur after Block E-01 was cleared. Therefore, the agreement conditions have been met. As agreed, our Union will issue the commission payment on your behalf (attached to this letter). Please check it carefully, and feel free to contact me if you have any questions.",
+   "content_th": "เรียนลูกค้า\nหลังจากที่ตรวจสอบหน้างานแล้ว พบว่าไม่มีปัญหาที่คุณ Shadow Hunter กังวลใจเกิดขึ้นหลังจากที่จัดการ Block E-01 เสร็จสิ้น จึงถือว่าตรงตามเงื่อนไขของข้อตกลง สหพันธ์ของเราจะจ่ายค่าตอบแทนในนามของคุณ (แนบมาพร้อมจดหมายฉบับนี้) ตามที่ตกลงกันไว้ โปรดตรวจสอบอย่างละเอียด และอย่าลังเลที่จะติดต่อเราหากมีคำถามใด ๆ"
+  },
+  "12": {
+   "id": 12,
+   "icon": "0001",
+   "sender": "Lightning",
+   "sender_th": "Lightning",
+   "title": "A Letter from Lightning",
+   "title_th": "จดหมายจาก Lightning",
+   "content": "Hey, what kind of storm did you stir up in the Etherena? My informant says they won't be able to gather intel for a while! I need the full story, start to finish! Oh, and by the way, some guy with an unusual eye left these for you. Make sure you pick them up.",
+   "content_th": "เฮ้ คุณไปก่อเรื่องอะไรในอีเทอรีน่าเนี่ย? สายข่าวของฉันบอกว่าเขาคงไม่สามารถหาข่าวอะไรให้ได้สักระยะ! เล่าเรื่องทั้งหมดมาเลยนะ ตั้งแต่ต้นจนจบเลย! อ้อ แล้วก็ มีคนที่มีดวงตาประหลาด ๆ ฝากของนี่ไว้ให้คุณ อย่าลืมมารับไปด้วยล่ะ"
+  },
+  "13": {
+   "id": 13,
+   "icon": "0001",
+   "sender": "Roger",
+   "sender_th": "Roger",
+   "title": "A Letter from Roger",
+   "title_th": "จดหมายจาก Roger",
+   "content": "After leaving that damned sewer, my mutation speed was finally under control! Luckily, the first stop was Loralisk, where I met the \"Madman\"... He said the sewer environment would worsen the odd mutation, and then somehow froze my virus spread. Ronan also fully recovered!\nIt feels great to be reborn, and of course, it's all thanks to your secret investigation. This is my gift to you as a token of gratitude.\nP.S. Make sure to visit me when you have time.",
+   "content_th": "หลังออกจากท่อระบายน้ำนรกนั่นแล้ว ฉันก็ควบคุมความเร็วในการกลายพันธุ์ได้สักที! โชคดีที่จุดหมายแรกคือ Loralisk ซึ่งฉันได้พบกับ \"Madman\"... เขาบอกว่าสภาพแวดล้อมของท่อระบายน้ำจะทำให้การกลายพันธุ์ที่แปลกประหลาดนี้รุนแรงขึ้น จากนั้นก็ทำให้การแพร่กระจายไวรัสของฉันหยุดนิ่งไปในที่สุด Ronan เองก็ฟื้นตัวเต็มที่แล้ว!\nฉันรู้สึกดีมากเลยที่ได้เกิดใหม่ และแน่นอนว่าทั้งหมดนี้ก็ต้องขอบคุณการสืบสวนแบบลับ ๆ ของคุณด้วย นี่คือของขวัญแทนคำขอบคุณจากฉัน\nปล. มีเวลาก็แวะมาเยี่ยมฉันบ้างนะ"
+  },
+  "14": {
+   "id": 14,
+   "icon": "0001",
+   "sender": "Etheria Operations Team",
+   "sender_th": "ทีมปฏิบัติการ Etheria",
+   "title": "Etheria: Restart Launch Gift",
+   "title_th": "ของขวัญต้อนรับการเปิดตัวเกม Etheria: Restart",
+   "content": "Dear Hyperlinkers,\nEtheria: Restart is now officially live! In Etheria, you can encounter various Animus, formidable boss battles, and unique gameplay features.\nPlease refer to in-game announcements and official community updates for more details on version updates and events. We hope you enjoy your adventure in Etheria!",
+   "content_th": "เรียน Hyperlinkers ทุกท่าน\nEtheria: Restart เปิดให้บริการอย่างเป็นทางการแล้ว! ในโลก Etheria คุณจะได้พบกับเหล่า Animus หลากหลายรูปแบบ การต่อสู้กับBOSSสุดท้าทาย และระบบการเล่นที่เป็นเอกลักษณ์\nสำหรับข้อมูลเพิ่มเติมเกี่ยวกับเวอร์ชันและกิจกรรมต่างๆ กรุณาติดตามประกาศภายในเกมและแพลทฟอร์มโซเชียลมีเดีย ขอให้ทุกท่านสนุกกับการผจญภัยใน Etheria!"
+  },
+  "15": {
+   "id": 15,
+   "icon": "0001",
+   "sender": "Union",
+   "sender_th": "สหพันธ์",
+   "title": "Level Up Rewards",
+   "title_th": "รางวัล Lv.อัป",
+   "content": "Dear Hyperlinker:\nCongratulations on reaching level {1}. The relevant permissions have been unlocked. Thank you for your epic contributions to our Union.\nAttached is a gift from the Union. May it aid you in your adventure.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์:\nยินดีด้วยที่ถึง Lv. {1} แล้ว เราได้ปลดล็อกสิทธิ์ที่เกี่ยวข้องให้แล้ว ขอขอบคุณสำหรับการสนับสนุนอันยิ่งใหญ่ที่คุณมีต่อสหพันธ์ของเรา\nนี่คือของขวัญจากสหพันธ์ ขอให้ของขวัญชิ้นนี้เป็นประโยชน์ต่อการผจญภัยของคุณ"
+  },
+  "16": {
+   "id": 16,
+   "icon": "0001",
+   "sender": "E.O.S",
+   "sender_th": "E.O.S",
+   "title": "Maintenance Compensation",
+   "title_th": "การชดเชยการปรับปรุง",
+   "content": "Dear [Etheria] residents:\nWe've finished updating and maintaining the world server. Apologies for any inconvenience caused during this period. Please check the attached compensation gift.\nEnjoy your game!",
+   "content_th": "เรียนผู้อยู่อาศัย [Etheria]:\nเราได้อัปเดตและปรับปรุงเซิร์ฟเวอร์โลกเรียบร้อยแล้ว ขออภัยในความไม่สะดวกในช่วงเวลาดังกล่าว โปรดตรวจสอบของขวัญชดเชยที่แนบมา\nเล่นเกมให้สนุกนะ!"
+  },
+  "17": {
+   "id": 17,
+   "icon": "0001",
+   "sender": "Union",
+   "sender_th": "สหพันธ์",
+   "title": "Unclaimed Ember Rewards",
+   "title_th": "รางวัลเอมเบอร์ที่ยังไม่ได้รับ",
+   "content": "Ember Trek exploration cycle has been reset. The following are the rewards from the previous cycle that were not claimed.",
+   "content_th": "รีเซ็ตรอบการสำรวจเอมเบอร์แล้ว ต่อไปนี้เป็นรางวัลที่ยังไม่ได้รับจากรอบก่อนหน้านี้"
+  },
+  "18": {
+   "id": 18,
+   "icon": "0001",
+   "sender": "Cyber Shadows",
+   "sender_th": "เงามืดโลกไซเบอร์",
+   "title": "Unclaimed Rewards from Cyber Shadows",
+   "title_th": "รางวัลที่ยังไม่ได้รับจากเงามืดโลกไซเบอร์",
+   "content": "Dear Hyperlinker:\nThe following are unclaimed rewards from Cyber Shadows. Enjoy!",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์:\nต่อไปนี้เป็นรางวัลที่ยังไม่ได้รับจากเงามืดโลกไซเบอร์ เชิญรับได้เลย!"
+  },
+  "19": {
+   "id": 19,
+   "icon": "0001",
+   "sender": "Etheria Operations Team",
+   "sender_th": "ทีมปฏิบัติการ Etheria",
+   "title": "Exclusive Global Launch Gift",
+   "title_th": "ของขวัญเปิดตัวทั่วโลกสุดพิเศษ",
+   "content": "Dear Hyperlinker,\nHere are the exclusive gifts for you to celebrate our global launch. \nFor more updates and events, keep an eye on the in-game announcements and follow our official community channels. Have a great time in Etheria!",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์\nเราจะมอบของขวัญสุดพิเศษเพื่อเป็นการฉลองการเปิดตัวทั่วโลกของเรา\nโปรดติดตามประกาศในเกมและช่องทางคอมมูนิตี้ทางการของเราเพื่อดูอัปเดตและอีเวนต์เพิ่มเติม ขอให้มีช่วงเวลาที่ดีใน Etheria นะ!"
+  },
+  "20": {
+   "id": 20,
+   "icon": "0001",
+   "sender": "Etheria Operations Team",
+   "sender_th": "ทีมปฏิบัติการ Etheria",
+   "title": "Etheria: Restart Launch Gift",
+   "title_th": "ของขวัญต้อนรับการเปิดตัวเกม Etheria: Restart",
+   "content": "Dear Hyperlinkers,\nEtheria: Restart is now officially live! In Etheria, you can encounter diverse Animus, formidable boss battles, and unique gameplay features.\nAll pre-registration milestone rewards have been unlocked. We are now distributing them to our valued Hyperlinkers. Thank you for your continued support and enthusiasm!\nPlease refer to in-game announcements and official community updates for more details on version updates and events. We hope you enjoy your adventure in Etheria!",
+   "content_th": "เรียน Hyperlinkers ทุกท่าน\nEtheria: Restart เปิดให้บริการอย่างเป็นทางการแล้ว! ในโลก Etheria คุณจะได้พบกับเหล่า Animus หลากหลายรูปแบบ การต่อสู้กับBOSSสุดท้าทาย และระบบการเล่นที่เป็นเอกลักษณ์\nของรางวัลจากกิจกรรมลงทะเบียนล่วงหน้าทุกขั้นได้ปลดล็อคทั้งหมดแล้ว เรากำลังทยอยมอบของรางวัลนี้ให้ Hyperlinkers ทุกท่านที่ให้การสนับสนุนเรามาโดยตลอด ขอบคุณสำหรับความร่วมมือและให้การติดตามเราเสมอมา!\nสำหรับข้อมูลเพิ่มเติมเกี่ยวกับเวอร์ชันและกิจกรรมต่างๆ กรุณาติดตามประกาศภายในเกมและแพลทฟอร์มโซเชียลมีเดีย ขอให้ทุกท่านสนุกกับการผจญภัยใน Etheria!"
+  },
+  "21": {
+   "id": 21,
+   "icon": "0001",
+   "sender": "Etheria Operations Team",
+   "sender_th": "ทีมปฏิบัติการ Etheria",
+   "title": "Test Payment Rebate",
+   "title_th": "โบนัสเติมเงินในช่วงทดสอบ",
+   "content": "Dear Hyperlinker,\nThank you for taking part in our test! Please check your in-game mail for top-up rebates and exclusive rewards from the beta period. If you have any questions, please contact our support team through the in-game Customer Service.\nThank you for your continued support, and have a great time in Etheria!",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์\nขอบคุณที่เข้าร่วมการทดสอบของเรา! โปรดตรวจสอบจดหมายภายในเกมเพื่อรับโบนัสการเติมเงินและรางวัลสุดพิเศษจากช่วงเบต้า หากมีข้อสงสัย โปรดติดต่อทีมสนับสนุนของเราผ่านฝ่ายบริการลูกค้าในเกม\nขอบคุณที่ให้การสนับสนุนเรามาโดยตลอด และขอให้มีช่วงเวลาที่ดีใน Etheria นะ!"
+  },
+  "22": {
+   "id": 22,
+   "icon": "0001",
+   "sender": "Union",
+   "sender_th": "สหพันธ์",
+   "title": "Purchase Complete",
+   "title_th": "ซื้อเสร็จสิ้น",
+   "content": "Dear Hyperlinker,\nYou just purchased {2:goods} ×{1}. They have been added to your account. Please check your inventory. Thank you for your continued support, and we hope you enjoy the game!",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์\nคุณเพิ่งทำการซื้อ {2:goods} ×{1} ไอเทมนี้ถูกเพิ่มไปยังบัญชีของคุณแล้ว โปรดตรวจสอบคลังของคุณ ขอบคุณสำหรับการสนับสนุนอย่างต่อเนื่อง และหวังว่าคุณจะสนุกกับเกมนี้!"
+  },
+  "23": {
+   "id": 23,
+   "icon": "0001",
+   "sender": "Etheria Operations Team",
+   "sender_th": "ทีมปฏิบัติการ Etheria",
+   "title": "Get your rewards from CBT4",
+   "title_th": "รางวัล [การทดสอบ]",
+   "content": "Thank you for participating in the CBT4 of Etheria: Restart. Please claim the exclusive rewards during the test period. Enjoy the official launch!",
+   "content_th": "ขอบคุณทุกคนที่เข้าร่วมการทดสอบของ Etheria กรุณารับรางวัล พิเศษสำหรับการทดสอบ ขอบคุณที่สนับสนุนเกม Etheria:Restart ขอให้สนุกกับการเล่นเกม!"
+  },
+  "24": {
+   "id": 24,
+   "icon": "0001",
+   "sender": "Etheria Operations Team",
+   "sender_th": "ทีมปฏิบัติการ Etheria",
+   "title": "Etheria: Restart Launch Gift",
+   "title_th": "ของขวัญต้อนรับการเปิดตัวเกม Etheria: Restart",
+   "content": "Dear Hyperlinkers,\nEtheria: Restart is now officially live! In Etheria, you can encounter various Animus, formidable boss battles, and unique gameplay features.\nPlease refer to in-game announcements and official community updates for more details on version updates and events. We hope you enjoy your adventure in Etheria!",
+   "content_th": "เรียน Hyperlinkers ทุกท่าน\nEtheria: Restart เปิดให้บริการอย่างเป็นทางการแล้ว! ในโลก Etheria คุณจะได้พบกับเหล่า Animus หลากหลายรูปแบบ การต่อสู้กับBOSSสุดท้าทาย และระบบการเล่นที่เป็นเอกลักษณ์\nสำหรับข้อมูลเพิ่มเติมเกี่ยวกับเวอร์ชันและกิจกรรมต่างๆ กรุณาติดตามประกาศภายในเกมและแพลทฟอร์มโซเชียลมีเดีย ขอให้ทุกท่านสนุกกับการผจญภัยใน Etheria!"
+  },
+  "25": {
+   "id": 25,
+   "icon": "0001",
+   "sender": "Etheria Operations Team",
+   "sender_th": "ทีมปฏิบัติการ Etheria",
+   "title": "Cheating Warning",
+   "title_th": "คำเตือนการโกง",
+   "content": "We have detected cheating behavior associated with your character. This is an official warning. Repeated violations will result in a permanent ban. Etheria: Restart is committed to maintaining a fair and secure gaming environment. Any attempt to modify game data is strictly prohibited. Please play fair. If you have any questions, contact us through the in-game Customer Service.",
+   "content_th": "เราตรวจพบพฤติกรรมการโกงที่เกี่ยวข้องกับตัวละครของคุณ นี่เป็นคำเตือนอย่างเป็นทางการ หากมีการละเมิดซ้ำจะถูกแบนอย่างถาวร Etheria: Restart มุ่งมั่นที่จะรักษาสภาพแวดล้อมการเล่นเกมที่ยุติธรรมและปลอดภัย ห้ามพยายามแก้ไขข้อมูลเกมโดยเด็ดขาด โปรดเล่นเกมอย่างยุติธรรม หากมีข้อสงสัย โปรดติดต่อเราฝ่ายบริการลูกค้าในเกม"
+  },
+  "26": {
+   "id": 26,
+   "icon": "0001",
+   "sender": "Etheria Operations Team",
+   "sender_th": "ทีมปฏิบัติการ Etheria",
+   "title": "Anniversary Server Pre-Registration Milestone Rewards!",
+   "title_th": "รางวัลไมล์สโตนลงทะเบียนล่วงหน้าเซิร์ฟเวอร์ใหม่ครบรอบปี!",
+   "content": "Thank you for participating in the Anniversary Server Pre-Registration event. Here are your rewards. Enjoy the game!",
+   "content_th": "ขอบคุณที่เข้าร่วมอีเวนต์ลงทะเบียนล่วงหน้าเซิร์ฟเวอร์ใหม่ครบรอบปี นี่คือรางวัลของคุณ ขอให้สนุกกับเกม!"
+  },
+  "30": {
+   "id": 30,
+   "icon": "0001",
+   "sender": "Union",
+   "sender_th": "สหพันธ์",
+   "title": "Union Rewards Not Claimed",
+   "title_th": "รางวัลสหพันธ์ที่ยังไม่ได้รับ",
+   "content": "Dear Hyperlinker:\nThe following are unclaimed rewards from the Anchor Recon. Enjoy!",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์:\nต่อไปนี้เป็นรางวัลที่ยังไม่ได้รับจากสำรวจจุดยุทธศาสตร์ เชิญรับได้เลย!"
+  },
+  "31": {
+   "id": 31,
+   "icon": "0001",
+   "sender": "Union",
+   "sender_th": "สหพันธ์",
+   "title": "Union Rewards Not Claimed",
+   "title_th": "รางวัลสหพันธ์ที่ยังไม่ได้รับ",
+   "content": "Dear Hyperlinker:\nThe following are unclaimed rewards from the Commission. Enjoy!",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์:\nต่อไปนี้เป็นรางวัลที่ยังไม่ได้รับจากภารกิจที่ได้รับมอบ เชิญรับได้เลย!"
+  },
+  "32": {
+   "id": 32,
+   "icon": "0001",
+   "sender": "Arena Realm",
+   "sender_th": "Arena Realm",
+   "title": "Unclaimed Etherena Rewards",
+   "title_th": "รางวัลอีเทอรีน่าที่ยังไม่ได้รับ",
+   "content": "Dear Hyperlinker:\nHere's your unclaimed rewards from last week's Arena Realm.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์:\nนี่คือรางวัล Arena Realm จากสัปดาห์ก่อนที่คุณยังไม่ได้รับไป"
+  },
+  "33": {
+   "id": 33,
+   "icon": "0001",
+   "sender": "Arena Realm",
+   "sender_th": "Arena Realm",
+   "title": "Unclaimed Etherena Rewards",
+   "title_th": "รางวัลอีเทอรีน่าที่ยังไม่ได้รับ",
+   "content": "Dear Hyperlinker:\nThe new season has begun. Here's your unclaimed rank rewards from the last season. Enjoy!",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์:\nฤดูกาลใหม่เริ่มขึ้นแล้ว นี่คือรางวัลอันดับที่คุณยังไม่ได้รับจากฤดูกาลที่แล้ว เชิญรับได้เลย!"
+  },
+  "34": {
+   "id": 34,
+   "icon": "0001",
+   "sender": "Union",
+   "sender_th": "สหพันธ์",
+   "title": "Union Rewards Not Claimed",
+   "title_th": "รางวัลสหพันธ์ที่ยังไม่ได้รับ",
+   "content": "Dear Hyperlinker:\nThe following are unclaimed rewards in the Union Companion Panel. Enjoy!",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์:\nต่อไปนี้เป็นรางวัลที่ยังไม่ได้รับในแผงคู่หูของสหพันธ์ เชิญรับได้เลย!"
+  },
+  "35": {
+   "id": 35,
+   "icon": "0001",
+   "sender": "Arena Realm",
+   "sender_th": "Arena Realm",
+   "title": "Summit Arena rewards not claimed",
+   "title_th": "รางวัลสุดยอดอารีน่าที่ยังไม่ได้รับ",
+   "content": "Dear Hyperlinker:\nHere's your unclaimed rewards from last week's Summit Arena.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์:\nนี่คือรางวัลสุดยอดอารีน่าจากสัปดาห์ก่อนที่คุณยังไม่ได้รับไป"
+  },
+  "36": {
+   "id": 36,
+   "icon": "0001",
+   "sender": "Arena Realm",
+   "sender_th": "Arena Realm",
+   "title": "Summit Arena rewards not claimed",
+   "title_th": "รางวัลสุดยอดอารีน่าที่ยังไม่ได้รับ",
+   "content": "Dear Hyperlinker:\nThe new season has begun. Here's your unclaimed rank rewards from the last season. Enjoy!",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์:\nฤดูกาลใหม่เริ่มขึ้นแล้ว นี่คือรางวัลอันดับที่คุณยังไม่ได้รับจากฤดูกาลที่แล้ว เชิญรับได้เลย!"
+  },
+  "37": {
+   "id": 37,
+   "icon": "0001",
+   "sender": "Union",
+   "sender_th": "สหพันธ์",
+   "title": "Unclaimed Dazzler Pulse Rewards",
+   "title_th": "รางวัลจังหวะวิบวับที่ยังไม่ได้รับ",
+   "content": "Dear Hyperlinker,\nHere are your unclaimed rewards from Dazzler Pulse.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์\nนี่คือรางวัลกล่องที่คุณยังไม่ได้รับจากจังหวะวิบวับ"
+  },
+  "38": {
+   "id": 38,
+   "icon": "0001",
+   "sender": "Etherena Betting",
+   "sender_th": "การเดิมพันอีเทอรีน่า",
+   "title": "Unclaimed rewards from Etherena Betting",
+   "title_th": "รางวัลที่ยังไม่ได้รับจากการเดิมพันอีเทอรีน่า",
+   "content": "Dear Hyperlinker: \nBelow are the unclaimed rewards from the Etherena Betting event. Enjoy!",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์:\nต่อไปนี้เป็นรางวัลที่ยังไม่ได้รับจากอีเวนต์การเดิมพันอีเทอรีน่า เชิญรับได้เลย!"
+  },
+  "39": {
+   "id": 39,
+   "icon": "0001",
+   "sender": "Union",
+   "sender_th": "สหพันธ์",
+   "title": "Union Rewards Not Claimed",
+   "title_th": "รางวัลสหพันธ์ที่ยังไม่ได้รับ",
+   "content": "Dear Hyperlinker: \nBelow are the unclaimed rewards from the Union War. Please check Enjoy!",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์:\nต่อไปนี้เป็นรางวัลที่ยังไม่ได้รับจากสหพันธ์ เชิญรับได้เลย!"
+  },
+  "40": {
+   "id": 40,
+   "icon": "0001",
+   "sender": "Chaku-ring's Adventure",
+   "sender_th": "การผจญภัยของ Chaku-ring",
+   "title": "Unclaimed rewards for Chaku-ring's Adventure Quest",
+   "title_th": "รางวัลที่ยังไม่ได้รับสำหรับเควสการผจญภัยของ Chaku-ring",
+   "content": "Dear Hyperlinker:\nThe following are unclaimed rewards from Chaku-ring's Adventure. Enjoy!",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์:\nต่อไปนี้เป็นรางวัลที่ยังไม่ได้รับจากการผจญภัยของ Chaku-ring เชิญรับได้เลย!"
+  },
+  "41": {
+   "id": 41,
+   "icon": "0001",
+   "sender": "Chaku-ring's Adventure",
+   "sender_th": "การผจญภัยของ Chaku-ring",
+   "title": "Chaku-ring's Adventure: Expired Items Conversion",
+   "title_th": "การผจญภัยของ Chaku-ring: การแปลงไอเทมที่หมดอายุ",
+   "content": "Dear Hyperlinker,\nYour unused Chaku Medals from Chaku-ring's Adventure have been converted to Etheria Coins.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์\nเหรียญ Chaku ที่คุณไม่ได้ใช้จากการผจญภัยของ Chaku-ring ถูกแปลงเป็น Etheria Coin แล้ว"
+  },
+  "42": {
+   "id": 42,
+   "icon": "0001",
+   "sender": "Dazzler Pulse",
+   "sender_th": "จังหวะวิบวับ",
+   "title": "Dazzler Pulse: Expired Items Conversion",
+   "title_th": "จังหวะวิบวับ: การแปลงไอเทมที่หมดอายุ",
+   "content": "Dear Hyperlinker,\nYour unused Concerto Badges from Dazzler Pulse have been converted to Etheria Coins.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์\nConcerto Badge ที่คุณไม่ได้ใช้จากจังหวะวิบวับถูกแปลงเป็น Etheria Coin แล้ว"
+  },
+  "43": {
+   "id": 43,
+   "icon": "0001",
+   "sender": "Contender Realm",
+   "sender_th": "อาณาจักรผู้ท้าชิง",
+   "title": "Unclaimed Contender RealmTask Rewards",
+   "title_th": "รางวัลภารกิจอาณาจักรผู้ท้าชิงที่ยังไม่ได้รับ",
+   "content": "Dear Hyperlinker:\nThe following are unclaimed rewards from the Contender Realm tasks. Please check them.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์:\nต่อไปนี้เป็นรางวัลที่ยังไม่ได้รับจากภารกิจอาณาจักรผู้ท้าชิง โปรดตรวจสอบ"
+  },
+  "45": {
+   "id": 45,
+   "icon": "0001",
+   "sender": "Chaku Treasure Hunt",
+   "sender_th": "ล่าสมบัติ Chaku",
+   "title": "Expired Items Conversion",
+   "title_th": "การแปลงไอเทมที่หมดอายุ",
+   "content": "Dear Hyperlinker,\nYou had Chaku Token ×{1} and Energy Cookies ×{2} unused in Chaku Treasure Hunt. They have been converted to Etheria Coins for you.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์\nคุณมีโทเคน Chaku ×{1} เหรียญและคุกกี้พลังงาน ×{2} ชิ้นที่ยังไม่ได้ใช้ในล่าสมบัติ Chaku โทเคนและคุกกี้เหล่านั้นถูกแปลงเป็น Etheria Coin สำหรับคุณแล้ว"
+  },
+  "46": {
+   "id": 46,
+   "icon": "0001",
+   "sender": "Chaku Treasure Hunt",
+   "sender_th": "ล่าสมบัติ Chaku",
+   "title": "Unclaimed Quest Rewards",
+   "title_th": "รางวัลเควสที่ยังไม่ได้รับ",
+   "content": "Dear Hyperlinker,\nYou had unclaimed items in Chaku Treasure Hunt. Among them, the Energy Cookies have been converted to Etheria Coins for you.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์\nคุณมีไอเทมที่ยังไม่ได้รับในล่าสมบัติ Chaku ในจำนวนไอเทมเหล่านั้น คุกกี้พลังงานได้ถูกแปลงเป็น Etheria Coin สำหรับคุณแล้ว"
+  },
+  "50": {
+   "id": 50,
+   "icon": "0001",
+   "sender": "Union",
+   "sender_th": "สหพันธ์",
+   "title": "Unclaimed Rewards from Phantom Theater",
+   "title_th": "รางวัลที่ยังไม่ได้รับจากโรงละครมายา",
+   "content": "Dear Hyperlinker:\nThe following are unclaimed rewards from the Phantom Theater. Enjoy!",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์:\nต่อไปนี้เป็นรางวัลที่ยังไม่ได้รับจากโรงละครมายา เชิญรับได้เลย!"
+  },
+  "55": {
+   "id": 55,
+   "icon": "0001",
+   "sender": "Dreamscape",
+   "sender_th": "แดนฝัน",
+   "title": "Dreamscape: Expired Items Conversion",
+   "title_th": "แดนฝัน: การแปลงไอเทมที่หมดอายุ",
+   "content": "Dear Hyperlinker, \nHere are your unused Dream Dust and Dream Data from the Dream Maze, converted into Etheria Coins.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์\nนี่คือ Dream Dust และ Dream Data ที่คุณยังไม่ได้ใช้จาก Dream Maze ซึ่งแปลงเป็น Etheria Coin แล้ว"
+  },
+  "56": {
+   "id": 56,
+   "icon": "0001",
+   "sender": "Dreamscape",
+   "sender_th": "แดนฝัน",
+   "title": "Dreamweaver Guide: Unclaimed Quest Rewards",
+   "title_th": "คู่มือ Dreamweaver: รางวัลเควสที่ยังไม่ได้รับ",
+   "content": "Dear Hyperlinker, \nHere are your unclaimed Dream Dust and Dream Data from the Dreamweaver Guide of Dream Maze, converted into Etheria Coins.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์\nนี่คือ Dream Dust และ Dream Data ที่คุณยังไม่ได้รับจากคู่มือ Dreamweaver ใน Dream Maze ซึ่งแปลงเป็น Etheria Coin แล้ว"
+  },
+  "57": {
+   "id": 57,
+   "icon": "0001",
+   "sender": "Dreamscape",
+   "sender_th": "แดนฝัน",
+   "title": "Unclaimed Rewards for Total Damage",
+   "title_th": "รางวัลที่ยังไม่ได้รับสำหรับ DMG รวม",
+   "content": "Dear Hyperlinker, \nHere are your unclaimed rewards for total damage in Dreamscape. Any Dream Dust and Dream Data have been converted into Etheria Coins.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์\nนี่คือ Dream Dust และ Dream Data ที่คุณยังไม่ได้รับจากคู่มือ Dreamweaver ใน Dream Maze ซึ่งแปลงเป็น Etheria Coin แล้ว"
+  },
+  "60": {
+   "id": 60,
+   "icon": "0001",
+   "sender": "Hyperlink Pass",
+   "sender_th": "Hyperlink Pass",
+   "title": "Unclaimed Pass Rewards",
+   "title_th": "รางวัล Pass ที่ยังไม่ได้รับ",
+   "content": "Dear Hyperlinker:\nThe following are the unclaimed rewards from the Hyperlink Pass. Enjoy!",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์:\nต่อไปนี้เป็นรางวัลที่ยังไม่ได้รับจาก Hyperlink Pass เชิญรับได้เลย!"
+  },
+  "61": {
+   "id": 61,
+   "icon": "0001",
+   "sender": "Monthly Card",
+   "sender_th": "การ์ดรายเดือน",
+   "title": "Monthly Card Daily Reward",
+   "title_th": "รางวัลประจำวันจากการ์ดรายเดือน",
+   "content": "Dear Hyperlinker:\nThe following are unclaimed Monthly Card rewards. Enjoy!",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์:\nต่อไปนี้เป็นรางวัลการ์ดรายเดือนที่ยังไม่ได้รับ เชิญรับได้เลย!"
+  },
+  "62": {
+   "id": 62,
+   "icon": "0001",
+   "sender": "Circa Stream",
+   "sender_th": "ติดตามแพ็กพิเศษ",
+   "title": "Circa Stream Rewards",
+   "title_th": "รางวัลติดตามแพ็กพิเศษ",
+   "content": "Dear Hyperlinker,\nHere are your unclaimed Circa Stream rewards.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์:\nต่อไปนี้เป็นรางวัลติดตามแพ็กพิเศษที่ยังไม่ได้รับ โปรดตรวจสอบและรับไป"
+  },
+  "63": {
+   "id": 63,
+   "icon": "0001",
+   "sender": "Hyperlink Reboot Protocol",
+   "sender_th": "Hyperlink Reboot Protocol",
+   "title": "Unclaimed Hyperlink Reboot Protocol Rewards",
+   "title_th": "รางวัล Hyperlink Reboot Protocol ที่ยังไม่ได้รับ",
+   "content": "Dear Hyperlinker,\nHere are your unclaimed rewards from Hyperlink Reboot Protocol.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์\nต่อไปนี้เป็นรางวัลที่คุณยังไม่ได้รับจาก Hyperlink Reboot Protocol โปรดตรวจสอบรางวัลของคุณ"
+  },
+  "65": {
+   "id": 65,
+   "icon": "0001",
+   "sender": "Etheria Operations Team",
+   "sender_th": "ทีมปฏิบัติการ Etheria",
+   "title": "Hyperlinker Show Match: Team Support Rewards",
+   "title_th": "การแข่งของแขกรับเชิญ: รางวัลการสนับสนุนทีม",
+   "content": "Dear Hyperlinker,\nCongratulations! Your supported team won the championship in Hyperlinker Show Match. Please claim your rewards!",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์\nยินดีด้วย! ทีมที่คุณสนับสนุนชนะในการแข่งของแขกรับเชิญ โปรดรับรางวัลของคุณ!"
+  },
+  "66": {
+   "id": 66,
+   "icon": "0001",
+   "sender": "Etheria Operations Team",
+   "sender_th": "ทีมปฏิบัติการ Etheria",
+   "title": "Esports Carnival: Champion Support Rewards",
+   "title_th": "เทศกาลอีสปอร์ต: รางวัลการสนับสนุนแชมป์",
+   "content": "Dear Hyperlinker,\nCongratulations! Your supported contestant won the championship in Hyperlinker Show Match. Please claim your rewards!",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์\nยินดีด้วย! ผู้เข้าแข่งขันที่คุณสนับสนุนชนะในการแข่งของแขกรับเชิญ โปรดรับรางวัลของคุณ!"
+  },
+  "70": {
+   "id": 70,
+   "icon": "0001",
+   "sender": "Union",
+   "sender_th": "สหพันธ์",
+   "title": "Unclaimed Daily Quest rewards",
+   "title_th": "รางวัลเควสประจำวันที่ยังไม่ได้รับ",
+   "content": "Dear Hyperlinker:\nHere's your unclaimed rewards from the daily quests.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์:\nนี่คือรางวัลเควสประจำวันที่คุณยังไม่ได้รับไป"
+  },
+  "71": {
+   "id": 71,
+   "icon": "0001",
+   "sender": "Union",
+   "sender_th": "สหพันธ์",
+   "title": "Weekly Quest rewards not claimed",
+   "title_th": "รางวัลเควสประจำสัปดาห์ที่ยังไม่ได้รับ",
+   "content": "Dear Hyperlinker:\nHere's your unclaimed rewards from the weekly quests.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์:\nนี่คือรางวัลเควสประจำสัปดาห์ที่คุณยังไม่ได้รับไป"
+  },
+  "80": {
+   "id": 80,
+   "icon": "0001",
+   "sender": "Cubic Game",
+   "sender_th": "เกมคิวบิก",
+   "title": "Unclaimed Cubic Game Rewards",
+   "title_th": "รางวัลเกมคิวบิกที่ยังไม่ได้รับ",
+   "content": "Dear Hyperlinker,\nHere are your unclaimed rewards from Cubic Game.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์\nนี่คือรางวัลกล่องที่คุณยังไม่ได้รับจากเกมคิวบิก"
+  },
+  "81": {
+   "id": 81,
+   "icon": "0001",
+   "sender": "Shell Story",
+   "sender_th": "เรื่องราว Shell",
+   "title": "Unclaimed Wish Prize",
+   "title_th": "รางวัลคำปรารถนาที่ยังไม่ได้รับ",
+   "content": "Dear Hyperlinker,\nHere are your unclaimed Wish Prize from Shell Story, randomly opened for you.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์\nนี่คือรางวัลคำปรารถนาที่คุณยังไม่ได้รับจากเรื่องราว Shell ซึ่งจะสุ่มเปิดให้คุณ"
+  },
+  "82": {
+   "id": 82,
+   "icon": "0001",
+   "sender": "Shell Story",
+   "sender_th": "เรื่องราว Shell",
+   "title": "Shell Story: Expired Items Conversion",
+   "title_th": "เรื่องราว Shell: การแปลงไอเทมที่หมดอายุ",
+   "content": "Dear Hyperlinker,\nYour unused Shell Medals from Shell Story have been converted to Etheria Coins.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์\nเหรียญ Shell ที่คุณไม่ได้ใช้จากเรื่องราว Shell ถูกแปลงเป็น Etheria Coin แล้ว"
+  },
+  "85": {
+   "id": 85,
+   "icon": "0001",
+   "sender": "Candy Party",
+   "sender_th": "Candy Party",
+   "title": "Unclaimed Candy Party Rewards",
+   "title_th": "รางวัล Candy Party ที่ยังไม่ได้รับ",
+   "content": "Dear Hyperlinker,\nHere are your unclaimed rewards from Candy Party.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์\nนี่คือรางวัลที่คุณยังไม่ได้รับจาก Candy Party"
+  },
+  "86": {
+   "id": 86,
+   "icon": "0001",
+   "sender": "Wishbinder Gift",
+   "sender_th": "ของขวัญพรอธิษฐาน",
+   "title": "Unclaimed Rewards from Wishbinder Gift",
+   "title_th": "รางวัลที่ยังไม่ได้รับจากของขวัญพรอธิษฐาน",
+   "content": "Dear Hyperlinker: \nHere are your unclaimed rewards from the Wishbinder Gift.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์: \nนี่คือรางวัลกล่องที่คุณยังไม่ได้รับจากของขวัญพรอธิษฐาน"
+  },
+  "87": {
+   "id": 87,
+   "icon": "0001",
+   "sender": "Spirit Gathering",
+   "sender_th": "ชุมนุมวิญญาณ",
+   "title": "Unclaimed Rewards from Spirit Gathering",
+   "title_th": "รางวัลที่ยังไม่ได้รับจากชุมนุมวิญญาณ",
+   "content": "Dear Hyperlinker, \nThe following are unclaimed rewards from Spirit Gathering. The Spectral Points in the rewards have been converted to Etheria Coins for you.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์:\nต่อไปนี้เป็นรางวัลที่ยังไม่ได้รับจากชุมนุมวิญญาณ แต้มวิญญาณในรางวัลถูกแปลงเป็น Etheria Coin ให้คุณแล้ว"
+  },
+  "88": {
+   "id": 88,
+   "icon": "0001",
+   "sender": "Spirit Gathering",
+   "sender_th": "ชุมนุมวิญญาณ",
+   "title": "Spirit Gathering: Expired Items Conversion",
+   "title_th": "ชุมนุมวิญญาณ: การแปลงไอเทมที่หมดอายุ",
+   "content": "Dear Hyperlinker, \nThe following are unused Spectral Points from Spirit Gathering. They have been converted to Etheria Coins for you.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์:\nต่อไปนี้เป็นแต้มวิญญาณที่ยังไม่ได้ใช้จากชุมนุมวิญญาณ แต้มเหล่านี้ถูกแปลงเป็น Etheria Coin ให้คุณแล้ว"
+  },
+  "89": {
+   "id": 89,
+   "icon": "0001",
+   "sender": "Auric Battle Soul",
+   "sender_th": "Auric Battle Soul",
+   "title": "Auric Battle Soul: Expired Items Conversion",
+   "title_th": "Auric Battle Soul: การแปลงไอเทมที่หมดอายุ",
+   "content": "Dear Hyperlinker,\nHere are your unclaimed rewards from Auric Battle Soul.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์ \n นี่คือรางวัลที่คุณยังไม่ได้รับจาก Auric Battle Soul เชิญรับได้เลย!"
+  },
+  "90": {
+   "id": 90,
+   "icon": "0001",
+   "sender": "Union",
+   "sender_th": "สหพันธ์",
+   "title": "Fearless Arena Rewards Not Claimed",
+   "title_th": "รางวัลที่ยังไม่ได้รับจากอารีน่าห้าวหาญ",
+   "content": "Dear Hyperlinker: \nBelow are the unclaimed rewards from the Fearless Arena. Enjoy!",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์:\nต่อไปนี้เป็นรางวัลที่ยังไม่ได้รับจากอารีน่าห้าวหาญ เชิญรับได้เลย!"
+  },
+  "95": {
+   "id": 95,
+   "icon": "0001",
+   "sender": "Union",
+   "sender_th": "สหพันธ์",
+   "title": "Unclaimed New Days Carnival Rewards",
+   "title_th": "รางวัล New Days Carnival ที่ยังไม่ได้รับ",
+   "content": "Dear Hyperlinker, \nHere are your unclaimed rewards from New Days Carnival.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์:\nนี่คือรางวัลที่คุณยังไม่ได้รับจาก New Days Carnival"
+  },
+  "96": {
+   "id": 96,
+   "icon": "0001",
+   "sender": "Union",
+   "sender_th": "สหพันธ์",
+   "title": "Unclaimed Neon Blaze Rewards",
+   "title_th": "รางวัล Neon Blaze ที่ยังไม่ได้รับ",
+   "content": "Dear Hyperlinker,\nHere are your unclaimed rewards from Neon Blaze.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์\nต่อไปนี้เป็นรางวัลที่คุณยังไม่ได้รับจาก Neon Blaze โปรดตรวจสอบรางวัลของคุณ"
+  },
+  "100": {
+   "id": 100,
+   "icon": "0001",
+   "sender": "Union",
+   "sender_th": "สหพันธ์",
+   "title": "Unclaimed United Front Rewards",
+   "title_th": "รางวัล United Front ที่ยังไม่ได้รับ",
+   "content": "Dear Hyperlinker: \nBelow are the unclaimed victory rewards from last week's United Front. Enjoy!",
+   "content_th": "เรียน Hyperlinker: \nนี่เป็นรางวัลชัยชนะที่ยังไม่ได้รับจาก United Front ของสัปดาห์ที่แล้ว เชิญรับได้เลย!"
+  },
+  "101": {
+   "id": 101,
+   "icon": "0001",
+   "sender": "Union",
+   "sender_th": "สหพันธ์",
+   "title": "Unclaimed United Front Rewards",
+   "title_th": "รางวัล United Front ที่ยังไม่ได้รับ",
+   "content": "Dear Hyperlinker: \nBelow are the unclaimed failure rewards from last week's United Front. Enjoy!",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์:\nนี่เป็นรางวัลพ่ายแพ้ที่ยังไม่ได้รับจาก United Front ของสัปดาห์ที่แล้ว เชิญรับได้เลย!"
+  },
+  "102": {
+   "id": 102,
+   "icon": "0001",
+   "sender": "Union",
+   "sender_th": "สหพันธ์",
+   "title": "Monthly United Front Settlement Rewards",
+   "title_th": "รางวัลหลังสรุปผล United Front ประจำเดือน",
+   "content": "Dear Hyperlinker: \nBelow are the rewards for this month's United Front. Enjoy!",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์:\nนี่เป็นรางวัลสำหรับ United Front ของเดือนนี้ เชิญรับได้เลย!"
+  },
+  "103": {
+   "id": 103,
+   "icon": "0001",
+   "sender": "Union",
+   "sender_th": "สหพันธ์",
+   "title": "United Front Season Result Rewards",
+   "title_th": "รางวัลหลังสรุปผลฤดูกาลแนวร่วม",
+   "content": "Dear Hyperlinker,\nWelcome to the new season! Your Union ranked {1:guild_rank} in the last season, and here are your settlement rewards.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์:\nฤดูกาลใหม่เริ่มขึ้นแล้ว! อันดับสุดท้ายของสหพันธ์ของคุณในฤดูกาลที่แล้วคือ {1:guild_rank} นี่คือรางวัลสรุปผลฤดูกาลของคุณ เชิญรับได้เลย!"
+  },
+  "110": {
+   "id": 110,
+   "icon": "0001",
+   "sender": "Union",
+   "sender_th": "สหพันธ์",
+   "title": "Unclaimed EtherNet Rally Rewards",
+   "title_th": "รางวัลระดมพล EtherNet ที่ยังไม่ได้รับ",
+   "content": "Dear Hyperlinker,\nHere are your unclaimed Cargo Box rewards from last season's EtherNet Rally.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์\nนี่คือรางวัลกล่องสินค้าที่คุณยังไม่ได้รับจากระดมพล EtherNet ในฤดูกาลที่แล้ว"
+  },
+  "120": {
+   "id": 120,
+   "icon": "0001",
+   "sender": "Cage Rumble",
+   "sender_th": "การต่อสู้ในกรง",
+   "title": "Unclaimed Cage Rumble Rewards",
+   "title_th": "รางวัลการต่อสู้ในกรงที่ยังไม่ได้รับ",
+   "content": "Dear Hyperlinker,\nHere are your unclaimed rewards from Cage Rumble.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์\nนี่คือรางวัลกล่องที่คุณยังไม่ได้รับจากการต่อสู้ในกรง"
+  },
+  "121": {
+   "id": 121,
+   "icon": "0001",
+   "sender": "Cage Rumble",
+   "sender_th": "การต่อสู้ในกรง",
+   "title": "Unclaimed Cage Rumble Rewards",
+   "title_th": "รางวัลการต่อสู้ในกรงที่ยังไม่ได้รับ",
+   "content": "Dear Hyperlinker,\nHere are your unclaimed quest rewards from Cage Rumble.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์\nนี่คือรางวัลเควสที่คุณยังไม่ได้รับจากการต่อสู้ในกรง"
+  },
+  "122": {
+   "id": 122,
+   "icon": "0001",
+   "sender": "Cage Rumble",
+   "sender_th": "การต่อสู้ในกรง",
+   "title": "Cage Rumble Ranking Settlement Rewards",
+   "title_th": "รางวัลหลังสรุปผลอันดับการต่อสู้ในกรง",
+   "content": "Dear Hyperlinker,\nYou fought bravely in Cage Rumble and placed {1} in the final rankings. Please claim your settlement rewards.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์\nคุณต่อสู้ได้อย่างกล้าหาญในการต่อสู้ในกรงและได้อันดับ {1} ในอันดับสุดท้าย โปรดรับรางวัลการสรุปผลของคุณ"
+  },
+  "123": {
+   "id": 123,
+   "icon": "0001",
+   "sender": "Cage Rumble",
+   "sender_th": "การต่อสู้ในกรง",
+   "title": "Cage Rumble Ranking Settlement Rewards",
+   "title_th": "รางวัลหลังสรุปผลอันดับการต่อสู้ในกรง",
+   "content": "Dear Hyperlinker,\nYou fought bravely in Cage Rumble and reached the top {1}% in the final rankings. Please claim your settlement rewards.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์\nคุณต่อสู้ได้อย่างกล้าหาญในการต่อสู้ในกรงและได้อันดับ {1}% สูงสุดในอันดับสุดท้าย โปรดรับรางวัลการสรุปผลของคุณ"
+  },
+  "130": {
+   "id": 130,
+   "icon": "0001",
+   "sender": "Union",
+   "sender_th": "สหพันธ์",
+   "title": "Unclaimed Modules in Module Forge",
+   "title_th": "โมดูลใน Module Forge ที่ยังไม่ได้รับ",
+   "content": "Dear Hyperlinker:\nUnclaimed Modules from the Module Forge have been added to your Inventory. Please check your Inventory.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์:\nเพิ่มโมดูลที่ยังไม่ได้รับจาก Module Forge ไปยังที่เก็บของแล้ว โปรดตรวจสอบที่เก็บของของคุณ"
+  },
+  "131": {
+   "id": 131,
+   "icon": "0002",
+   "sender": "Union",
+   "sender_th": "สหพันธ์",
+   "title": "Unclaimed Shells from Shell Lab",
+   "title_th": "Shell ที่ยังไม่ได้รับจากห้องทดลอง Shell",
+   "content": "Dear Hyperlinker,\nUnclaimed Shell(s) from the Shell Lab have been added to your Inventory. Please check them.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์\nเพิ่ม Shell ที่ยังไม่ได้รับจากห้องทดลอง Shell ไปยังที่เก็บของแล้ว โปรดตรวจสอบ"
+  },
+  "135": {
+   "id": 135,
+   "icon": "0001",
+   "sender": "Union",
+   "sender_th": "สหพันธ์",
+   "title": "Unclaimed Rewards from Link Again",
+   "title_th": "รางวัลที่ยังไม่ได้รับจากลิงก์อีกครั้ง",
+   "content": "Dear Hyperlinker, \nHere are your unclaimed rewards from Link Again.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์\nนี่คือรางวัลที่คุณยังไม่ได้รับจากลิงก์อีกครั้ง"
+  },
+  "136": {
+   "id": 136,
+   "icon": "0001",
+   "sender": "Union",
+   "sender_th": "สหพันธ์",
+   "title": "Covenant Configuration: Item Conversion",
+   "title_th": "การแปลงไอเทมรูปแบบพันธสัญญาใหม่",
+   "content": "Dear Hyperlinker, \nLink Again - Covenant Consonance has ended. Your unused Covenant Configuration has been converted to Anima Prototype.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์\nลิงก์อีกครั้ง - รูปแบบพันธสัญญาใหม่สิ้นสุดลงแล้ว รูปแบบพันธสัญญาใหม่ที่ยังไม่ได้ใช้ถูกแปลงเป็นต้นแบบ Anima แล้ว"
+  },
+  "140": {
+   "id": 140,
+   "icon": "0001",
+   "sender": "Union",
+   "sender_th": "สหพันธ์",
+   "title": "Unclaimed Rewards from Prowess Up",
+   "title_th": "รางวัลที่ยังไม่ได้รับจากเพิ่มศักยภาพ",
+   "content": "Dear Hyperlinker, \nHere are your unclaimed rewards from Prowess Up.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์\nนี่คือรางวัลที่คุณยังไม่ได้รับจากเพิ่มศักยภาพ"
+  },
+  "145": {
+   "id": 145,
+   "icon": "0001",
+   "sender": "Union",
+   "sender_th": "สหพันธ์",
+   "title": "Unclaimed Rewards from Summit Pass",
+   "title_th": "รางวัลที่ยังไม่ได้รับจากบัตรผ่านเหนือนภา",
+   "content": "Dear Hyperlinker, \nHere are your unclaimed rewards from Summit Pass.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์\nนี่คือรางวัลที่คุณยังไม่ได้รับจากบัตรผ่านเหนือนภา"
+  },
+  "150": {
+   "id": 150,
+   "icon": "0001",
+   "sender": "Nether Quarry",
+   "sender_th": "Nether Quarry",
+   "title": "Nether Quarry Rank Rewards",
+   "title_th": "รางวัลอันดับ Nether Quarry",
+   "content": "Dear Hyperlinker,\nYou fought bravely in the Nether Quarry and achieved a final rank of {1:bossrush_tier}. Please claim your settlement rewards.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์\nคุณต่อสู้ได้อย่างกล้าหาญใน Nether Quarry และได้อันดับสุดท้ายคือ {1:bossrush_tier} โปรดรับรางวัลการสรุปผลของคุณ"
+  },
+  "151": {
+   "id": 151,
+   "icon": "0001",
+   "sender": "Nether Quarry",
+   "sender_th": "Nether Quarry",
+   "title": "Nether Quarry Merit Ranking Rewards",
+   "title_th": "รางวัลอันดับ Merit Nether Quarry",
+   "content": "Dear Hyperlinker,\nYou fought bravely in the Nether Quarry and placed {1} in the final merit rankings. Please claim your settlement rewards.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์\nคุณต่อสู้ได้อย่างกล้าหาญใน Nether Quarry และได้อันดับ {1} ในอันดับ Merit สุดท้าย โปรดรับรางวัลการสรุปผลของคุณ"
+  },
+  "152": {
+   "id": 152,
+   "icon": "0001",
+   "sender": "Nether Quarry",
+   "sender_th": "Nether Quarry",
+   "title": "Nether Quarry Merit Ranking Rewards",
+   "title_th": "รางวัลอันดับ Merit Nether Quarry",
+   "content": "Dear Hyperlinker,\nYou fought bravely in the Nether Quarry and reached the top {1}% in the final merit rankings. Please claim your settlement rewards.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์\nคุณต่อสู้ได้อย่างกล้าหาญใน Nether Quarry และได้อันดับ {1}% สูงสุดในอันดับ Merit สุดท้าย โปรดรับรางวัลการสรุปผลของคุณ"
+  },
+  "155": {
+   "id": 155,
+   "icon": "0001",
+   "sender": "Union",
+   "sender_th": "สหพันธ์",
+   "title": "Summit Brawl: Unclaimed Rewards",
+   "title_th": "รางวัลศึกตะลุมบอนซัมมิตที่ยังไม่ได้รับ",
+   "content": "Dear Hyperlinker,\nHere are your unclaimed rewards from Summit Brawl.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์:\nนี่คือรางวัลที่คุณยังไม่ได้รับจากศึกตะลุมบอนซัมมิต"
+  },
+  "160": {
+   "id": 160,
+   "icon": "0001",
+   "sender": "Year-End Carnival",
+   "sender_th": "คาร์นิวัลส่งท้ายปี",
+   "title": "Year-End Carnival: Unclaimed Rewards",
+   "title_th": "รางวัลคาร์นิวัลส่งท้ายปีที่ยังไม่ได้รับ",
+   "content": "Dear Hyperlinker,\nHere are your unclaimed rewards from the Year-End Carnival.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์:\nนี่คือรางวัลที่คุณยังไม่ได้รับจากคาร์นิวัลส่งท้ายปี"
+  },
+  "161": {
+   "id": 161,
+   "icon": "0001",
+   "sender": "Year-End Carnival",
+   "sender_th": "คาร์นิวัลส่งท้ายปี",
+   "title": "Year-End Carnival: Expired Items Conversion",
+   "title_th": "คาร์นิวัลส่งท้ายปี: การแปลงไอเทมที่หมดอายุ",
+   "content": "Dear Hyperlinker,\nYour unused Ginger Bread from the Year-End Carnival has been converted to Etheria Coins.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์:\nGingerbread ที่ไม่ได้ใช้จากคาร์นิวัลส่งท้ายปีได้ถูกแปลงเป็น Etheria Coin สำหรับคุณแล้ว"
+  },
+  "162": {
+   "id": 162,
+   "icon": "0001",
+   "sender": "New Genesis",
+   "sender_th": "เทศกาลเริ่มต้นปีใหม่",
+   "title": "New Genesis: Expired Items Conversion",
+   "title_th": "เทศกาลเริ่มต้นปีใหม่: การแปลงไอเทมที่หมดอายุ",
+   "content": "Dear Hyperlinker, \nYour unused Genesis Coupons and Chaku Badges from New Genesis have been converted to Etheria Coins.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์\nคูปองปีใหม่และ Chaku Badge ที่คุณไม่ได้ใช้จากเทศกาลเริ่มต้นปีใหม่ถูกแปลงเป็น Etheria Coin แล้ว"
+  },
+  "163": {
+   "id": 163,
+   "icon": "0001",
+   "sender": "Candy Party",
+   "sender_th": "Candy Party",
+   "title": "Unclaimed Candy Party Rewards",
+   "title_th": "รางวัล Candy Party ที่ยังไม่ได้รับ",
+   "content": "Dear Hyperlinker,\nHere are your unclaimed rewards from Candy Party.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์\nนี่คือรางวัลที่คุณยังไม่ได้รับจาก Candy Party"
+  },
+  "164": {
+   "id": 164,
+   "icon": "0001",
+   "sender": "Candy Party",
+   "sender_th": "Candy Party",
+   "title": "Candy Party: Expired Items Conversion",
+   "title_th": "Candy Party: การแปลงไอเทมที่หมดอายุ",
+   "content": "Dear Hyperlinker,\nYour unused Cool Scoops from Candy Party have been converted to Etheria Coins.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์\nCool Scoop ที่คุณไม่ได้ใช้จาก Candy Party ถูกแปลงเป็น Etheria Coin แล้ว"
+  },
+  "166": {
+   "id": 166,
+   "icon": "0001",
+   "sender": "Pyro Gala",
+   "sender_th": "Pyro Gala",
+   "title": "Pyro Gala: Expired Items Conversion",
+   "title_th": "Pyro Gala: การแปลงไอเทมที่หมดอายุ",
+   "content": "Dear Hyperlinker,\nYour unused Gala Notes from Pyro Gala have been converted to Etheria Coins. Please check your rewards.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์\nGala Notes ที่คุณไม่ได้ใช้จาก Pyro Gala ถูกแปลงเป็น Etheria Coin แล้ว"
+  },
+  "167": {
+   "id": 167,
+   "icon": "0001",
+   "sender": "Aurorean Convocation",
+   "sender_th": "Aurorean Convocation",
+   "title": "Unclaimed Aurorean Convocation Rewards",
+   "title_th": "รางวัล Aurorean Convocation ที่ยังไม่ได้รับ",
+   "content": "Dear Hyperlinker,\nHere are your unclaimed quest rewards from Aurorean Convocation.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์:\nนี่คือรางวัลเควสที่คุณยังไม่ได้รับจาก Aurorean Convocation"
+  },
+  "168": {
+   "id": 168,
+   "icon": "0001",
+   "sender": "Aurorean Convocation",
+   "sender_th": "Aurorean Convocation",
+   "title": "Aurorean Convocation: Expired Items Conversion",
+   "title_th": "Aurorean Convocation: การแปลงไอเทมที่หมดอายุ",
+   "content": "Dear Hyperlinker,\nAny unused Fulgent Tesserae from Aurorean Convocation have been converted into Etheria Coins.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์:\nต่อไปนี้เป็น Fulgent Tesserae ที่ยังไม่ได้ใช้จาก Aurorean Convocation สิ่งเหล่านี้ถูกแปลงเป็น Etheria Coin ให้คุณแล้ว"
+  },
+  "169": {
+   "id": 169,
+   "icon": "0001",
+   "sender": "Sirius Ascendant",
+   "sender_th": "Sirius Ascendant",
+   "title": "Sirius Ascendant: Expired Items Conversion",
+   "title_th": "Sirius Ascendant: การแปลงไอเทมที่หมดอายุ",
+   "content": "Dear Hyperlinker,\nYour unused Lunar Insignias and Chaku Badges from Sirius Ascendant have been converted into Etheria Coins.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์\nLunar Insignia และ Chaku Badge ที่คุณไม่ได้ใช้จาก Sirius Ascendant ถูกแปลงเป็น Etheria Coin แล้ว"
+  },
+  "170": {
+   "id": 170,
+   "icon": "0001",
+   "sender": "Union",
+   "sender_th": "สหพันธ์",
+   "title": "Etheria Union Championship: Unclaimed Rewards",
+   "title_th": "รางวัลการแข่งชิงแชมป์ Etheria Union ที่ยังไม่ได้รับ",
+   "content": "Dear Hyperlinker,\nHere are your unclaimed ranking rewards from the Etheria Union Championship.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์:\nต่อไปนี้เป็นรางวัลอันดับที่ยังไม่ได้รับจากการแข่งชิงแชมป์ Etheria Union เชิญรับได้เลย!"
+  },
+  "171": {
+   "id": 171,
+   "icon": "0001",
+   "sender": "Union",
+   "sender_th": "สหพันธ์",
+   "title": "Etheria Union Championship: Unclaimed Rewards",
+   "title_th": "รางวัลการแข่งชิงแชมป์ Etheria Union ที่ยังไม่ได้รับ",
+   "content": "Dear Hyperlinker,\nHere are your unclaimed prediction rewards from the Etheria Union Championship.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์:\nต่อไปนี้เป็นรางวัลทายผลที่ยังไม่ได้รับจากการแข่งชิงแชมป์ Etheria Union เชิญรับได้เลย!"
+  },
+  "172": {
+   "id": 172,
+   "icon": "0001",
+   "sender": "Union",
+   "sender_th": "สหพันธ์",
+   "title": "Unclaimed Hideout Capture Rewards",
+   "title_th": "รางวัลการโจมตีฐานที่มั่นที่ยังไม่ได้รับ",
+   "content": "Dear Hyperlinker,\nBelow are unclaimed Hideout Capture rewards from the Union Battle. Please check your rewards.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์:\nต่อไปนี้เป็นรางวัลจากการโจมตีฐานที่มั่นในสงครามสหพันธ์ที่ยังไม่ได้รับ เชิญรับได้เลย!"
+  },
+  "180": {
+   "id": 180,
+   "icon": "0001",
+   "sender": "Hyper Blackjack",
+   "sender_th": "Hyper Blackjack",
+   "title": "Hyper Blackjack: Expired Items Conversion",
+   "title_th": "Hyper Blackjack: การแปลงไอเทมที่หมดอายุ",
+   "content": "Dear Hyperlinker, \nYour unused B Tokens from Hyper Blackjack have been converted to Etheria Coins.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์\nB Tokens ที่คุณไม่ได้ใช้จาก Hyper Blackjack ถูกแปลงเป็น Etheria Coin แล้ว"
+  },
+  "184": {
+   "id": 184,
+   "icon": "0001",
+   "sender": "HYPA Season",
+   "sender_th": "HYPA Season",
+   "title": "HYPA Season Unclaimed Rewards",
+   "title_th": "รางวัล HYPA Season ที่ยังไม่ได้รับ",
+   "content": "Dear Hyperlinker,\nHere are your unclaimed rank rewards from HYPA Season.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์\nต่อไปนี้เป็นรางวัลอันดับที่คุณยังไม่ได้รับจาก HYPA Season โปรดตรวจสอบรางวัลของคุณ"
+  },
+  "185": {
+   "id": 185,
+   "icon": "0001",
+   "sender": "Hyper Colosseum",
+   "sender_th": "Hyper Colosseum",
+   "title": "Unclaimed Hyper Colosseum Rewards",
+   "title_th": "Hyper Colosseum: รางวัลที่ยังไม่ได้รับ",
+   "content": "Dear Hyperlinker,\nHere are your unclaimed cumulative win rewards from Hyper Colosseum.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์\nนี่คือรางวัลชนะสะสมที่คุณยังไม่ได้รับจาก Hyper Colosseum"
+  },
+  "186": {
+   "id": 186,
+   "icon": "0001",
+   "sender": "HYPA Season",
+   "sender_th": "HYPA Season",
+   "title": "HYPA Season Ranking Rewards",
+   "title_th": "รางวัลสรุปผลอันดับ HYPA Season",
+   "content": "Dear Hyperlinker,\nYour final Mythic ranking in the HYPA Season was {1}. Below are your settlement rewards. Please check your rewards.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์:\nอันดับ Mythic สุดท้ายของคุณสำหรับ HYPA Season คือ {1} นี่คือรางวัลสรุปผลของคุณ เชิญรับได้เลย!"
+  },
+  "187": {
+   "id": 187,
+   "icon": "0001",
+   "sender": "HYPA Season",
+   "sender_th": "HYPA Season",
+   "title": "HYPA Season Ranking Rewards",
+   "title_th": "รางวัลสรุปผลอันดับ HYPA Season",
+   "content": "Dear Hyperlinker,\nYour final Mythic ranking in the HYPA Season was top {1}%. Below are your settlement rewards. Please check your rewards.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์\nคุณได้อันดับ {1}% สูงสุดในอันดับ Mythic สุดท้ายของ HYPA Season โปรดรับรางวัลสรุปผลของคุณ"
+  },
+  "188": {
+   "id": 188,
+   "icon": "0001",
+   "sender": "HYPA Season",
+   "sender_th": "HYPA Season",
+   "title": "HYPA Season Unclaimed Rewards",
+   "title_th": "รางวัล HYPA Season ที่ยังไม่ได้รับ",
+   "content": "Dear Hyperlinker,\nBelow are unclaimed rewards from the HYPA Season. Please check your rewards.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์:\nต่อไปนี้เป็นรางวัลที่ยังไม่ได้รับจากอีเวนต์ HYPA Season โปรดตรวจสอบ"
+  },
+  "189": {
+   "id": 189,
+   "icon": "0001",
+   "sender": "The Heuristic Pit",
+   "sender_th": "The Heuristic Pit",
+   "title": "The Heuristic Pit Unclaimed Rewards",
+   "title_th": "รางวัล The Heuristic Pit ที่ยังไม่ได้รับ",
+   "content": "Dear Hyperlinker,\nBelow are unclaimed rewards from The Heuristic Pit. Please check your rewards.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์:\nต่อไปนี้เป็นรางวัลที่ยังไม่ได้รับจากอีเวนต์ The Heuristic Pit โปรดตรวจสอบ"
+  },
+  "190": {
+   "id": 190,
+   "icon": "0001",
+   "sender": "Union",
+   "sender_th": "สหพันธ์",
+   "title": "Hyper Camp Ranking Settlement Rewards",
+   "title_th": "รางวัลสรุปผลอันดับ Hyper Camp",
+   "content": "Dear Hyperlinker, \nHere are your ranking settlement rewards from Hyper Camp.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์\nนี่คือรางวัลสรุปผลอันดับของคุณจาก Hyper Camp โปรดรับรางวัล"
+  },
+  "195": {
+   "id": 195,
+   "icon": "0001",
+   "sender": "Union",
+   "sender_th": "สหพันธ์",
+   "title": "Unclaimed Lunar Wish Tree Rewards",
+   "title_th": "รางวัลที่ยังไม่ได้รับจากต้นไม้ขอพรปีใหม่",
+   "content": "Dear Hyperlinker, \nHere are your unclaimed Wisher's List rewards from Lunar Wish Tree.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์\nนี่คือรางวัลลิสต์ขอพรที่คุณยังไม่ได้รับจากต้นไม้ขอพรปีใหม่"
+  },
+  "196": {
+   "id": 196,
+   "icon": "0001",
+   "sender": "Union",
+   "sender_th": "สหพันธ์",
+   "title": "Unclaimed Lunar Wish Tree Rewards",
+   "title_th": "รางวัลที่ยังไม่ได้รับจากต้นไม้ขอพรปีใหม่",
+   "content": "Dear Hyperlinker, \nHere are your unclaimed Wish rewards from Lunar Wish Tree.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์\nนี่คือรางวัลขอพรที่คุณยังไม่ได้รับจากต้นไม้ขอพรปีใหม่"
+  },
+  "200": {
+   "id": 200,
+   "icon": "0001",
+   "sender": "Gratitude Tribute",
+   "sender_th": "ของขวัญขอบคุณ",
+   "title": "Unclaimed Gratitude Tribute Rewards",
+   "title_th": "รางวัลที่ยังไม่ได้รับจากของขวัญขอบคุณ",
+   "content": "Dear Hyperlinker,\nHere are your unclaimed Hydra Vouchers from the Gratitude Tribute.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์:\nต่อไปนี้คือ Hydra Voucher ที่ยังไม่ได้รับจากของขวัญขอบคุณ เชิญรับได้เลย!"
+  },
+  "210": {
+   "id": 210,
+   "icon": "0001",
+   "sender": "Main Quest Rewards",
+   "sender_th": "รางวัลเควสหลัก",
+   "title": "Main Quest Rewards Issued",
+   "title_th": "มอบรางวัลเควสหลักแล้ว",
+   "content": "Dear Hyperlinker,\nBased on your previous Main Quest progress, the corresponding progress in the new Main Quest has been unlocked. Main Quest chests and completion rewards have been issued.",
+   "content_th": "ไฮเปอร์ลิงเกอร์ที่รัก\nเนื่องจากคุณเคยผ่านท้าทายเควสหลักมาก่อน จากความคืบหน้าเควสหลักก่อนหน้าของคุณ ความคืบหน้าที่สอดคล้องกันสำหรับเควสหลักใหม่ได้ถูกปลดล็อกแล้ว และหีบเควสหลักพร้อมรางวัลตอนจบได้ถูกมอบให้แล้ว"
+  },
+  "220": {
+   "id": 220,
+   "icon": "0001",
+   "sender": "Ruin Hegemony",
+   "sender_th": "Ruin Hegemony",
+   "title": "Unclaimed Ruin Hegemony Rewards",
+   "title_th": "รางวัล Ruin Hegemony ที่ยังไม่ได้รับ",
+   "content": "Dear Hyperlinker,\nHere are your unclaimed rewards from Ruin Hegemony",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์:\nนี่คือรางวัลที่คุณยังไม่ได้รับจาก Ruin Hegemony โปรดตรวจสอบ"
+  },
+  "221": {
+   "id": 221,
+   "icon": "0001",
+   "sender": "Ruin Hegemony",
+   "sender_th": "Ruin Hegemony",
+   "title": "Ruin Hegemony Ranking Rewards",
+   "title_th": "รางวัลอันดับ Ruin Hegemony",
+   "content": "Dear Hyperlinker,\nYour Union performed exceptionally in this Ruin Hegemony and placed {1} in the final rankings. Please claim your ranking settlement rewards.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์:\nสหพันธ์ของคุณแสดงผลงานได้ยอดเยี่ยมใน Ruin Hegemony ครั้งนี้ โดยได้อันดับสุดท้ายที่ {1} โปรดรับรางวัลการสรุปผลอันดับของคุณ"
+  },
+  "222": {
+   "id": 222,
+   "icon": "0001",
+   "sender": "Ruin Hegemony",
+   "sender_th": "Ruin Hegemony",
+   "title": "Ruin Hegemony Ranking Rewards",
+   "title_th": "รางวัลอันดับ Ruin Hegemony",
+   "content": "Dear Hyperlinker,\nYour Union performed exceptionally in this Ruin Hegemony and reached the top {1}% in the final rankings. Please claim your ranking settlement rewards.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์:\nสหพันธ์ของคุณแสดงผลงานได้ยอดเยี่ยมใน Ruin Hegemony ครั้งนี้ โดยได้อันดับสุดท้ายใน {1}% สูงสุด โปรดรับรางวัลการสรุปผลอันดับของคุณ"
+  },
+  "230": {
+   "id": 230,
+   "icon": "0001",
+   "sender": "Ultimate Crystal Protocol",
+   "sender_th": "Ultimate Crystal Protocol",
+   "title": "Ultimate Crystal Protocol Unclaimed Rewards",
+   "title_th": "รางวัล Ultimate Crystal Protocol ที่ยังไม่ได้รับ",
+   "content": "Dear Hyperlinker,\nBelow are unclaimed rewards from the Ultimate Crystal Protocol. Please check your rewards.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์:\nต่อไปนี้เป็นรางวัลที่ยังไม่ได้รับจาก Ultimate Crystal Protocol เชิญรับได้เลย!"
+  },
+  "240": {
+   "id": 240,
+   "icon": "0001",
+   "sender": "Desynced Recursion",
+   "sender_th": "Desynced Recursion",
+   "title": "Desynced Recursion Ranking Rewards",
+   "title_th": "รางวัลอันดับ Desynced Recursion",
+   "content": "Dear Hyperlinker,\nYour final rank in Desynced Recursion was {1}. Please claim your settlement rewards.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์:\nคุณได้อันดับ {1} ในอันดับไฟนอลของ Desynced Recursion โปรดรับรางวัลการสรุปผลของคุณ"
+  },
+  "241": {
+   "id": 241,
+   "icon": "0001",
+   "sender": "Desynced Recursion",
+   "sender_th": "Desynced Recursion",
+   "title": "Desynced Recursion Ranking Rewards",
+   "title_th": "รางวัลอันดับ Desynced Recursion",
+   "content": "Dear Hyperlinker,\nYou placed in the top {1}% of the final Desynced Recursion rankings. Please claim your settlement rewards.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์:\nคุณได้อันดับ {1}% สูงสุดในอันดับไฟนอลของ Desynced Recursion โปรดรับรางวัลการสรุปผลของคุณ"
+  },
+  "242": {
+   "id": 242,
+   "icon": "0001",
+   "sender": "Desynced Recursion",
+   "sender_th": "Desynced Recursion",
+   "title": "Desynced Recursion Pass Rewards",
+   "title_th": "รางวัล Desynced Recursion Pass",
+   "content": "Dear Hyperlinker,\nHere are your unclaimed Classic rewards from the Desynced Recursion Pass.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์\nต่อไปนี้เป็นรางวัลคลาสสิกที่คุณยังไม่ได้รับจาก Desynced Recursion Pass โปรดตรวจสอบรางวัลของคุณ"
+  },
+  "250": {
+   "id": 250,
+   "icon": "0001",
+   "sender": "Pyrite Plunder",
+   "sender_th": "Pyrite Plunder",
+   "title": "Unclaimed Pyrite Plunder Rewards",
+   "title_th": "รางวัล Pyrite Plunder ที่ยังไม่ได้รับ",
+   "content": "Dear Hyperlinker,\nHere are your unclaimed rewards from Pyrite Plunder.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์:\nนี่คือรางวัลที่คุณยังไม่ได้รับจาก Pyrite Plunder"
+  },
+  "251": {
+   "id": 251,
+   "icon": "0001",
+   "sender": "Pyrite Plunder",
+   "sender_th": "Pyrite Plunder",
+   "title": "Pyrite Plunder Consortium Victory Rewards",
+   "title_th": "Pyrite Plunder: รางวัลชนะของ Consortium",
+   "content": "Dear Hyperlinker,\nYour Consortium won in Pyrite Plunder. Please claim your rewards.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์:\nConsortium ของคุณได้รับชัยชนะใน Pyrite Plunder โปรดรับรางวัลของคุณ"
+  },
+  "252": {
+   "id": 252,
+   "icon": "0001",
+   "sender": "Pyrite Plunder",
+   "sender_th": "Pyrite Plunder",
+   "title": "Pyrite Plunder Consortium Defeat Rewards",
+   "title_th": "Pyrite Plunder: รางวัลแพ้ของ Consortium",
+   "content": "Dear Hyperlinker,\nYour Consortium lost in Pyrite Plunder. Please claim your rewards.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์:\nConsortium ของคุณพ่ายแพ้ใน Pyrite Plunder โปรดรับรางวัลของคุณ"
+  },
+  "253": {
+   "id": 253,
+   "icon": "0001",
+   "sender": "Chrysus Codex",
+   "sender_th": "Chrysus Codex",
+   "title": "Chrysus Codex: Expired Items Conversion",
+   "title_th": "Chrysus Codex: การแปลงไอเทมที่หมดอายุ",
+   "content": "Dear Hyperlinker,\nYour unused Sleight Scrip from Chrysus Codex has been used to complete searches. Here are your rewards.",
+   "content_th": "เรียน ไฮเปอร์ลิงเกอร์: \nต่อไปนี้คือ Sleight Scrip ที่ไม่ได้ใช้จาก Chrysus Codex เราได้ทำการค้นหาแทนคุณเสร็จสิ้นแล้ว และได้มอบรางวัลให้เรียบร้อยแล้ว กรุณาตรวจสอบ"
+  },
+  "254": {
+   "id": 254,
+   "icon": "0001",
+   "sender": "Chrysus Codex",
+   "sender_th": "Chrysus Codex",
+   "title": "Chrysus Codex: Expired Items Conversion",
+   "title_th": "Chrysus Codex: การแปลงไอเทมที่หมดอายุ",
+   "content": "Dear Hyperlinker,\nYour unused Pyrite Tallies from Chrysus Codex have been converted into Hydra Crystals.",
+   "content_th": "เรียน ไฮเปอร์ลิงเกอร์ที่รัก: \nต่อไปนี้คือ Pyrite Tally ที่ยังไม่ได้ใช้จาก Chrysus Codex ซึ่งได้แลกเป็น Hydra Crystals ให้คุณแล้ว กรุณาตรวจสอบ"
+  },
+  "255": {
+   "id": 255,
+   "icon": "0001",
+   "sender": "Spooktheria",
+   "sender_th": "Spooktheria",
+   "title": "Spooktheria: Expired Items Conversion",
+   "title_th": "Spooktheria: การแปลงไอเทมที่หมดอายุ",
+   "content": "Dear Hyperlinker,\nYour unused Spooktheria Points from Spooktheria have been converted into Etheria Coin.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์\nคะแนน Spooktheria ที่คุณไม่ได้ใช้จาก Spooktheria ถูกแปลงเป็น Etheria Coin แล้ว"
+  },
+  "260": {
+   "id": 260,
+   "icon": "0001",
+   "sender": "Pluto's Frenzy",
+   "sender_th": "Pluto's Frenzy",
+   "title": "Pluto's Gifts Rewards",
+   "title_th": "รางวัล Pluto's Gifts",
+   "content": "Dear Hyperlinker,\nHere are your unclaimed rewards from the Pluto's Frenzy Pluto's Gifts.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์:\nนี่คือรางวัลที่คุณยังไม่ได้รับจาก Pluto's Gifts ของ Pluto's Frenzy"
+  },
+  "261": {
+   "id": 261,
+   "icon": "0001",
+   "sender": "Pluto's Frenzy",
+   "sender_th": "Pluto's Frenzy",
+   "title": "Pluto's Frenzy Ranking Rewards",
+   "title_th": "รางวัลอันดับ Pluto's Frenzy",
+   "content": "Dear Hyperlinker,\nYour final rank in Pluto's Frenzy was {1}. Please claim your settlement rewards.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์:\nคุณได้อันดับ {1} ในอันดับไฟนอลของ Pluto's Frenzy โปรดรับรางวัลการสรุปผลของคุณ"
+  },
+  "262": {
+   "id": 262,
+   "icon": "0001",
+   "sender": "Pluto's Frenzy",
+   "sender_th": "Pluto's Frenzy",
+   "title": "Pluto's Frenzy Ranking Rewards",
+   "title_th": "รางวัลอันดับ Pluto's Frenzy",
+   "content": "Dear Hyperlinker,\nYou placed in the top {1}% of the final Pluto's Frenzy rankings. Please claim your settlement rewards.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์:\nคุณได้อันดับ {1}% สูงสุดในอันดับไฟนอลของ Pluto's Frenzy โปรดรับรางวัลการสรุปผลของคุณ"
+  },
+  "270": {
+   "id": 270,
+   "icon": "0001",
+   "sender": "Beginner Cumulative Draws",
+   "sender_th": "สุ่มสะสมผู้เล่นใหม่",
+   "title": "Unclaimed Rewards from Beginner Cumulative Draws",
+   "title_th": "รางวัลที่ยังไม่ได้รับจากสุ่มสะสมผู้เล่นใหม่",
+   "content": "Dear Hyperlinker, \nHere are your unclaimed rewards from Beginner Cumulative Draws.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์\nนี่คือรางวัลที่คุณยังไม่ได้รับจากสุ่มสะสมผู้เล่นใหม่"
+  },
+  "271": {
+   "id": 271,
+   "icon": "0001",
+   "sender": "Beginner Cumulative Top-Up",
+   "sender_th": "เติมเงินสะสมผู้เล่นใหม่",
+   "title": "Beginner Cumulative Top-Up Unclaimed Rewards",
+   "title_th": "รางวัลที่ยังไม่ได้รับจากเติมเงินสะสมผู้เล่นใหม่",
+   "content": "Dear Hyperlinker, \nHere are your unclaimed rewards from Beginner Cumulative Top-Up.",
+   "content_th": "เรียนไฮเปอร์ลิงเกอร์\nนี่คือรางวัลที่คุณยังไม่ได้รับจากเติมเงินสะสมผู้เล่นใหม่"
+  },
+  "280": {
+   "id": 280,
+   "icon": "0001",
+   "sender": "Etheria Operations Team",
+   "sender_th": "ทีมปฏิบัติการ Etheria",
+   "title": "EWS 2026 Global Finals Event Reward Reissue",
+   "title_th": "ส่งรางวัลอีเวนต์ EWS 2026 Global Finals อีกครั้ง",
+   "content": "Due to technical issues, some progress rewards for the \"EWS 2026 Global Finals\" regional support event could not be claimed properly.\nWe sincerely apologize for the inconvenience and are sending the rewards to all affected players. Please claim them.",
+   "content_th": "เนื่องจากปัญหาทางเทคนิค รางวัลความคืบหน้าบางส่วนของอีเวนต์ Support ประจำภูมิภาค \"EWS 2026 Global Finals\" ไม่สามารถรับได้อย่างถูกต้อง\nเราขออภัยในความไม่สะดวกเป็นอย่างยิ่ง และกำลังส่งรางวัลให้ผู้เล่นทุกคนที่ได้รับผลกระทบ โปรดรับรางวัลของคุณ"
+  }
+ },
+ "text_chunk": "00107_45610aafa7b5cf22.json"
+}

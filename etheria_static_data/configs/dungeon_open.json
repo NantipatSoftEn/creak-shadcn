@@ -1,0 +1,34 @@
+{
+ "config": "dungeon_open",
+ "fields": [
+  "id",
+  "start_time"
+ ],
+ "rows": [
+  {
+   "id": 800100,
+   "start_time": 0
+  },
+  {
+   "id": 800200,
+   "start_time": 0
+  },
+  {
+   "id": 800300,
+   "start_time": 0
+  },
+  {
+   "id": 800400,
+   "start_time": 0
+  },
+  {
+   "id": 800500,
+   "start_time": 0
+  },
+  {
+   "id": 800600,
+   "start_time": 0
+  }
+ ],
+ "text_chunk": null
+}

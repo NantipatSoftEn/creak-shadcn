@@ -1,0 +1,612 @@
+{
+ "config": "tower_bossskill",
+ "fields": [
+  "id",
+  "slot",
+  "branch",
+  "exclude_branchs",
+  "icon",
+  "buff_id",
+  "desc"
+ ],
+ "rows": {
+  "1001": {
+   "id": 1001,
+   "slot": 3,
+   "branch": 1,
+   "exclude_branchs": [
+    0
+   ],
+   "icon": "T_SkillIcon_Nicolette_Const_Skill1",
+   "buff_id": [
+    [
+     387,
+     1
+    ],
+    [
+     389,
+     1
+    ]
+   ],
+   "desc": "After each Boss' action, <Buff>[Day Aura]</> and <Buff>[Night Aura]</> will upgrade <Key>2</> time(s).",
+   "desc_th": "หลังแต่ละแอ็กชันของบอส <Buff>[Day Aura]</> และ <Buff>[Night Aura]</> จะอัปเกรด <Key>2</> ครั้ง"
+  },
+  "1002": {
+   "id": 1002,
+   "slot": 5,
+   "branch": 1,
+   "exclude_branchs": [
+    0
+   ],
+   "icon": "",
+   "buff_id": null
+  },
+  "1003": {
+   "id": 1003,
+   "slot": 4,
+   "branch": 2,
+   "exclude_branchs": [
+    0
+   ],
+   "icon": "T_SkillIcon_Tiamat_Hollow_Skill4",
+   "buff_id": [
+    [
+     2,
+     1
+    ]
+   ],
+   "desc": "When using <Key>Castling</>, has a <Key>30%</> chance to inflict a 1-turn <Debuff>[Freeze]</>.",
+   "desc_th": "เมื่อใช้ <Key>Castling</> จะมีโอกาส <Key>30%</> มอบ <Debuff>[Frozen]</> เป็นเวลา 1 เทิร์น"
+  },
+  "1004": {
+   "id": 1004,
+   "slot": 6,
+   "branch": 3,
+   "exclude_branchs": [
+    0
+   ],
+   "icon": "T_SkillIcon_Yeli_Const_Skill2",
+   "buff_id": null,
+   "desc": "After each form change of Phoebe and Febian, allied Animus must act <Key>15</> times cumulatively before another form change is possible.",
+   "desc_th": "หลัง Phoebe และ Febian เปลี่ยนร่างแต่ละครั้ง Animus ฝ่ายพันธมิตรจะต้องทำแอ็กชันสะสม <Key>15</> ครั้งจึงจะเกิดการเปลี่ยนร่างครั้งต่อไปได้"
+  },
+  "1005": {
+   "id": 1005,
+   "slot": 4,
+   "branch": 1,
+   "exclude_branchs": [
+    0
+   ],
+   "icon": "",
+   "buff_id": null
+  },
+  "1011": {
+   "id": 1011,
+   "slot": 9,
+   "branch": 1,
+   "exclude_branchs": [
+    0
+   ],
+   "icon": "T_SkillIcon_Experimenter_Disor_Skill2",
+   "buff_id": [
+    [
+     141,
+     1
+    ]
+   ],
+   "desc": "Summoned Puppets gain a <Buff>shield</> equal to <Key>50%</> of their Max HP.",
+   "desc_th": "หุ่นเชิดที่อัญเชิญมาได้รับ<Buff>โล่</>เท่ากับ <Key>50%</> ของ Max HP ของพวกเขา"
+  },
+  "1012": {
+   "id": 1012,
+   "slot": 1,
+   "branch": 2,
+   "exclude_branchs": [
+    0
+   ],
+   "icon": "T_SkillIcon_GhostMagic_Light_Skill2",
+   "buff_id": [
+    [
+     10,
+     1
+    ],
+    [
+     12,
+     1
+    ],
+    [
+     121,
+     1
+    ],
+    [
+     219,
+     1
+    ]
+   ],
+   "desc": "Upgrades the effects of Apate's <Key>Card Trick</> and <Key>Mirage Magic</>. \n<Key>Card Trick: </>Guaranteed to set the target's Turn Meter back by <Key>100%</>. \n<Key>Mirage Magic: </>Will inflict 2 turn(s) of <Debuff>[ATK ↓]</>, <Debuff>[DEF ↓]</>, <Debuff>[SPD ↓]</>, and <Debuff>[Block]</>, choosing 2 of these effects.",
+   "desc_th": "อัปเกรดเอฟเฟ็กต์ <Key>Card Trick</> และ <Key>Mirage Magic</> ของ Apate\n<Key>Card Trick: </>การันตีลดเกจเทิร์นของเป้าหมายลง <Key>100%</>\n<Key>Mirage Magic: </>จะมอบ <Debuff>[ATK ↓]</>, <Debuff>[DEF ↓]</>, <Debuff>[SPD ↓]</>, และ <Debuff>[ปิดกั้น]</> โดยจะเลือก 2 อย่างจากเอฟเฟ็กต์เหล่านี้ เป็นเวลา2 เทิร์น"
+  },
+  "1013": {
+   "id": 1013,
+   "slot": 2,
+   "branch": 2,
+   "exclude_branchs": [
+    0
+   ],
+   "icon": "",
+   "buff_id": null
+  },
+  "1014": {
+   "id": 1014,
+   "slot": 9,
+   "branch": 3,
+   "exclude_branchs": [
+    0
+   ],
+   "icon": "T_SkillIcon_GhostMagic_Light_Skill1",
+   "buff_id": null,
+   "desc": "Puppets summoned by Fate's Hand no longer follow <Key>a specific order</>, instead <Key>randomly</> summoning a different Puppet from the previous one each time.",
+   "desc_th": "หุ่นเชิดที่ถูกอัญเชิญโดย Fate's Hand จะไม่เป็นไปตาม<Key>ลำดับที่กำหนด</> แต่ละครั้งจะ<Key>สุ่ม</>อัญเชิญหุ่นเชิดที่ต่างจากครั้งก่อนหน้าแทน"
+  },
+  "1021": {
+   "id": 1021,
+   "slot": 6,
+   "branch": 1,
+   "exclude_branchs": [
+    0
+   ],
+   "icon": "T_SkillIcon_GhostMagic_Disor_Skill1",
+   "buff_id": null,
+   "desc": "Clock Monster's normal Follow-up Attack Rate increases by <Key>10%</>, and Whitney's Follow-up Attack Rate increases by <Key>15%</> after she uses a damage skill.",
+   "desc_th": "โอกาสการโจมตีตามซ้ำตามปกติของ Clock Monster จะเพิ่มขึ้น <Key>10%</> และโอกาสการโจมตีตามซ้ำของ Whitney จะเพิ่มขึ้น <Key>15%</> หลังจากที่เธอใช้สกิลสร้าง DMG"
+  },
+  "1022": {
+   "id": 1022,
+   "slot": 4,
+   "branch": 1,
+   "exclude_branchs": [
+    0
+   ],
+   "icon": "T_SkillIcon_Honest_Hollow_Skill2",
+   "buff_id": null,
+   "desc": "Reduces the required cumulative Clock Monster actions for Whitney to immediately start a turn to <Key>3</>.",
+   "desc_th": "ลดแอ็กชันสะสมที่กำหนดของ Clock Monster ที่จะทำให้ Whitney เริ่มเทิร์น เป็น <Key>3</> ครั้ง"
+  },
+  "1023": {
+   "id": 1023,
+   "slot": 5,
+   "branch": 1,
+   "exclude_branchs": [
+    0
+   ],
+   "icon": "",
+   "buff_id": null
+  },
+  "1031": {
+   "id": 1031,
+   "slot": 3,
+   "branch": 1,
+   "exclude_branchs": [
+    0
+   ],
+   "icon": "T_SkillIcon_Holden_Light_Skill1",
+   "buff_id": null,
+   "desc": "Increases DEF Ignore ratio to <Key>45%</> when Astarte and the minions attack a countered target.",
+   "desc_th": "เพิ่มอัตราเพิกเฉย DEF เป็น <Key>45%</> เมื่อ Astarte และ Minion โจมตีศัตรูที่มีรูปแบบเสียเปรียบ"
+  },
+  "1032": {
+   "id": 1032,
+   "slot": 6,
+   "branch": 2,
+   "exclude_branchs": [
+    0
+   ],
+   "icon": "T_SkillIcon_HardShield_Odd_Skill3",
+   "buff_id": null,
+   "desc": "Astarte's minions take an additional <Key>30%</> less damage but reduce all allied units' Skill CD by <Key>1</> turn(s) when they die.",
+   "desc_th": "Minion ของ Astarte รับ DMG ลดลงเพิ่มเติม <Key>30%</> แต่ลดจะ CD สกิลของยูนิตพันธมิตร <Key>1</> เทิร์นเมื่อตาย"
+  },
+  "1033": {
+   "id": 1033,
+   "slot": 5,
+   "branch": 3,
+   "exclude_branchs": [
+    0
+   ],
+   "icon": "T_SkillIcon_FocusedUpgrade_Hollow_Skill2",
+   "buff_id": null,
+   "desc": "In the final form, Astarte's skills have no CD when the HP percentage falls below <Key>25%</>.",
+   "desc_th": "ในร่างสุดท้าย สกิลของ Astarte จะไม่มี CD เมื่อเปอร์เซ็นต์ HP ลดลงต่ำกว่า <Key>25%</>"
+  },
+  "1041": {
+   "id": 1041,
+   "slot": 2,
+   "branch": 1,
+   "exclude_branchs": [
+    0
+   ],
+   "icon": "T_SkillIcon_Aurola_Hollow_Skill3",
+   "buff_id": [
+    [
+     378,
+     1
+    ]
+   ],
+   "desc": "Tailspin no longer grants <Buff>[Resistant]</> when controlled, but its basic RES increases by <Key>80%</>.",
+   "desc_th": "Tailspin จะไม่มอบ <Buff>[Resistant]</> ขณะควบคุมอีกต่อไป แต่ RES พื้นฐานจะเพิ่มขึ้น <Key>80%</>"
+  },
+  "1042": {
+   "id": 1042,
+   "slot": 3,
+   "branch": 1,
+   "exclude_branchs": [
+    0
+   ],
+   "icon": "",
+   "buff_id": null
+  },
+  "1043": {
+   "id": 1043,
+   "slot": 5,
+   "branch": 2,
+   "exclude_branchs": [
+    0
+   ],
+   "icon": "T_SkillIcon_NicoNana_Light_Skill2",
+   "buff_id": [
+    [
+     17,
+     1
+    ]
+   ],
+   "desc": "Rengokutsu has a <Key>30%</> Counterattack chance, and all enemies deal <Key>20%</> more damage to units afflicted with <Debuff>[Silence]</>.",
+   "desc_th": "Rengokutsu มีอัตราการโจมตีสวนกลับ <Key>30%</> และศัตรูทั้งหมดสร้าง DMG เพิ่มขึ้น <Key>20%</> ให้กับยูนิตที่ได้รับผลจาก <Debuff>[Silence]</>"
+  },
+  "1044": {
+   "id": 1044,
+   "slot": 2,
+   "branch": 3,
+   "exclude_branchs": [
+    0
+   ],
+   "icon": "T_SkillIcon_GhostMagic_Disor_Skill3",
+   "buff_id": [
+    [
+     444,
+     1
+    ]
+   ],
+   "desc": "The dispelling effect of Ascending Flame increases to <Key>2</>. When inflicting <Debuff>[basic debuffs]</> fails, increases damage dealt by <Key>20%</>.",
+   "desc_th": "เอฟเฟ็กต์ลบล้างของ Ascending Flame จะเพิ่มขึ้นเป็น <Key>2</> เมื่อการมอบ <Debuff>[Basic Debuffs]</> ล้มเหลว DMG ที่ทำได้จะเพิ่มขึ้นเป็น <Key>20%</>"
+  },
+  "1051": {
+   "id": 1051,
+   "slot": 1,
+   "branch": 1,
+   "exclude_branchs": [
+    0
+   ],
+   "icon": "T_SkillIcon_Diligent_Const_Skill2",
+   "buff_id": null,
+   "desc": "Changes the effect of Agonizing Hit to steal <Key>all</> buffs.",
+   "desc_th": "เปลี่ยนเอฟเฟ็กต์ของ Agonizing Hit เพื่อขโมยบัฟ<Key>ทั้งหมด</>"
+  },
+  "1052": {
+   "id": 1052,
+   "slot": 2,
+   "branch": 1,
+   "exclude_branchs": [
+    0
+   ],
+   "icon": "T_SkillIcon_Thug_Const_Skill2",
+   "buff_id": null,
+   "desc": "Durand's AoE DMG Reduction has been increased to <Key>70%</>.",
+   "desc_th": "การลด DMG แบบ AoE ของ Durand เพิ่มขึ้นเป็น <Key>70%</>"
+  },
+  "1053": {
+   "id": 1053,
+   "slot": 5,
+   "branch": 1,
+   "exclude_branchs": [
+    0
+   ],
+   "icon": "T_SkillIcon_ClockDoll_Light_Skill1",
+   "buff_id": null,
+   "desc": "After each Durand dies, the aura effect of CRIT hit Boost inflicted to allies is reduced to <Key>20%</>.",
+   "desc_th": "หลังจากที่ Durand ตาย เอฟเฟ็กต์ออร่าที่เพิ่มการโจมตี CRIT ให้กับพันธมิตรจะลดลง <Key>20%</>"
+  },
+  "1061": {
+   "id": 1061,
+   "slot": 1,
+   "branch": 1,
+   "exclude_branchs": [
+    0
+   ],
+   "icon": "T_SkillIcon_Diligent_Const_Skill2",
+   "buff_id": null,
+   "desc": "If the target is already inflicted with <Debuff>[Parasitize Seed]</>, Dahlia's Graceful Predation will immediately trigger <Debuff>[Parasitize Seed]</> 1 time(s).",
+   "desc_th": "หากเป้าหมายได้รับเอฟเฟ็กต์จาก <Debuff>[Parasitize Seed]</> อยู่แล้ว Graceful Predation ของ Dahlia จะเปิดใช้งาน <Debuff>[Parasitize Seed]</> 1 ครั้งในทันที"
+  },
+  "1062": {
+   "id": 1062,
+   "slot": 4,
+   "branch": 1,
+   "exclude_branchs": [
+    0
+   ],
+   "icon": "T_SkillIcon_Thug_Const_Skill2",
+   "buff_id": null,
+   "desc": "Reduces the CD of Dahlia's Thorn Seed to 2 turn(s).",
+   "desc_th": "ลด CD ของ Thorn Seed ของ Dahlia ลง 2 เทิร์น"
+  },
+  "1063": {
+   "id": 1063,
+   "slot": 1,
+   "branch": 1,
+   "exclude_branchs": [
+    0
+   ],
+   "icon": "T_SkillIcon_ClockDoll_Light_Skill1",
+   "buff_id": null,
+   "desc": "Increases the chance for Gluttony Thorn to inflict <Debuff>[Block]</> to 100%",
+   "desc_th": "เพิ่มโอกาสที่ Gluttony Thorn จะมอบ <Debuff>[Block]</> เป็น 100%"
+  },
+  "1071": {
+   "id": 1071,
+   "slot": 3,
+   "branch": 1,
+   "exclude_branchs": [
+    0
+   ],
+   "icon": "T_SkillIcon_Nicolette_Const_Skill1",
+   "buff_id": [
+    [
+     387,
+     1
+    ],
+    [
+     389,
+     1
+    ]
+   ],
+   "desc": "Increases damage dealt by Phoebe and Febian by 20%. And after each action, <Buff>[Day Aura]</> and <Buff>[Night Aura]</> will upgrade <Key>2</> time(s).",
+   "desc_th": "เพิ่ม DMG ที่ทำได้ของ Phoebe และ Febian ขึ้น 20% และหลังแต่ละแอ็กชัน <Buff>[Day Aura]</> และ <Buff>[Night Aura]</> จะอัปเกรด <Key>2</> ครั้ง"
+  },
+  "1072": {
+   "id": 1072,
+   "slot": 4,
+   "branch": 1,
+   "exclude_branchs": [
+    0
+   ],
+   "icon": "",
+   "buff_id": null
+  },
+  "1073": {
+   "id": 1073,
+   "slot": 5,
+   "branch": 1,
+   "exclude_branchs": [
+    0
+   ],
+   "icon": "",
+   "buff_id": null
+  },
+  "1074": {
+   "id": 1074,
+   "slot": 8,
+   "branch": 4,
+   "exclude_branchs": [
+    0
+   ],
+   "icon": "",
+   "buff_id": null
+  },
+  "1075": {
+   "id": 1075,
+   "slot": 4,
+   "branch": 5,
+   "exclude_branchs": [
+    0
+   ],
+   "icon": "T_SkillIcon_Tiamat_Hollow_Skill4",
+   "buff_id": [
+    [
+     2,
+     1
+    ]
+   ],
+   "desc": "When using <Key>Castling</>, has a <Key>45%</> chance to inflict a 1-turn <Debuff>[Freeze]</>.",
+   "desc_th": "เมื่อใช้ <Key>Castling</> จะมีโอกาส <Key>45%</> มอบ <Debuff>[Frozen]</> เป็นเวลา 1 เทิร์น"
+  },
+  "1076": {
+   "id": 1076,
+   "slot": 4,
+   "branch": 6,
+   "exclude_branchs": [
+    0
+   ],
+   "icon": "T_SkillIcon_Yeli_Const_Skill2",
+   "buff_id": [
+    [
+     8,
+     1
+    ],
+    [
+     11,
+     1
+    ]
+   ],
+   "desc": "Whenever Phoebe and Febian switch forms, they gain <Buff>[DEF ↑]</> and <Buff>[SPD ↑]</> for 2 turn(s).",
+   "desc_th": "ทุกครั้งที่ Phoebe และ Febian เปลี่ยนร่าง ทั้งคู่จะได้รับ <Buff>[DEF ↑]</> และ <Buff>[SPD ↑]</> เป็นเวลา 2 เทิร์น"
+  },
+  "1077": {
+   "id": 1077,
+   "slot": 8,
+   "branch": 7,
+   "exclude_branchs": [
+    0
+   ],
+   "icon": "T_SkillIcon_Thug_Const_Skill2",
+   "buff_id": [
+    [
+     3,
+     1
+    ]
+   ],
+   "desc": "Phoebe and Febian are immune to <Debuff>[Taunt]</> and Turn Meter- effects.",
+   "desc_th": "Phoebe และ Febian มีภูมิคุ้มกันต่อ <Debuff>[Taunt]</> และเอฟเฟ็กต์เกจเทิร์น-"
+  },
+  "1081": {
+   "id": 1081,
+   "slot": 2,
+   "branch": 1,
+   "exclude_branchs": [
+    0
+   ],
+   "icon": "T_SkillIcon_Aurola_Hollow_Skill3",
+   "buff_id": [
+    [
+     378,
+     1
+    ]
+   ],
+   "desc": "Tailspin no longer grants <Buff>[Resistant]</> when controlled, but its basic RES increases by <Key>100%</>.",
+   "desc_th": "Tailspin จะไม่มอบ <Buff>[Resistant]</> ขณะควบคุมอีกต่อไป แต่ RES พื้นฐานจะเพิ่มขึ้น <Key>100%</>"
+  },
+  "1082": {
+   "id": 1082,
+   "slot": 3,
+   "branch": 4,
+   "exclude_branchs": [
+    0
+   ],
+   "icon": "",
+   "buff_id": null
+  },
+  "1083": {
+   "id": 1083,
+   "slot": 5,
+   "branch": 5,
+   "exclude_branchs": [
+    0
+   ],
+   "icon": "T_SkillIcon_NicoNana_Light_Skill2",
+   "buff_id": [
+    [
+     17,
+     1
+    ]
+   ],
+   "desc": "Rengokutsu has a <Key>50%</> Counterattack chance, and all enemies deal <Key>50%</> more damage to units afflicted with <Debuff>[Silence]</>.",
+   "desc_th": "Rengokutsu มีอัตราการโจมตีสวนกลับ <Key>50%</> และศัตรูทั้งหมดสร้าง DMG เพิ่มขึ้น <Key>50%</> ให้กับยูนิตที่ได้รับผลจาก <Debuff>[Silence]</>"
+  },
+  "1084": {
+   "id": 1084,
+   "slot": 2,
+   "branch": 6,
+   "exclude_branchs": [
+    0
+   ],
+   "icon": "T_SkillIcon_GhostMagic_Disor_Skill3",
+   "buff_id": [
+    [
+     444,
+     1
+    ]
+   ],
+   "desc": "The dispelling effect of Ascending Flame increases to <Key>2</>. When inflicting <Debuff>[basic debuffs]</> fails, increases damage dealt by <Key>50%</>.",
+   "desc_th": "เอฟเฟ็กต์ลบล้างของ Ascending Flame จะเพิ่มขึ้นเป็น <Key>2</> เมื่อการมอบ <Debuff>[Basic Debuffs]</> ล้มเหลว DMG ที่ทำได้จะเพิ่มขึ้นเป็น <Key>50%</>"
+  },
+  "1085": {
+   "id": 1085,
+   "slot": 6,
+   "branch": 7,
+   "exclude_branchs": [
+    0
+   ],
+   "icon": "T_SkillIcon_Thug_Const_Skill2",
+   "buff_id": [
+    [
+     3,
+     1
+    ]
+   ],
+   "desc": "Rengokutsu is immune to <Debuff>[Taunt]</> and [Turn Meter-].",
+   "desc_th": "Rengokutsu มีภูมิคุ้มกันต่อ <Debuff>[Taunt]</> และ [Turn Meter-]"
+  },
+  "1091": {
+   "id": 1091,
+   "slot": 3,
+   "branch": 1,
+   "exclude_branchs": [
+    0
+   ],
+   "icon": "T_SkillIcon_Diligent_Const_Skill2",
+   "buff_id": null,
+   "desc": "Targets inflicted with <Effect>[Soul Binder]</> receive 50% less healing.",
+   "desc_th": "เป้าหมายที่ได้รับผลจาก <Effect>[Soul Binder]</> จะได้รับการฮีลลดลง 50%"
+  },
+  "1092": {
+   "id": 1092,
+   "slot": 2,
+   "branch": 2,
+   "exclude_branchs": [
+    0
+   ],
+   "icon": "T_SkillIcon_Thug_Const_Skill2",
+   "buff_id": null,
+   "desc": "Upgrades Khloros's <Key>Shadow Rift</>.\n<Key>Shadow Rift: </>Inflicts a 2-turn <Debuff>[ATK ↓]</> on all targets, and a 2-turn <Debuff>[Block]</> on a single target.",
+   "desc_th": "อัปเกรด <Key>Shadow Rift</>ของ Khloros\n<Key>Shadow Rift: </>มอบ<Debuff>[ATK ↓]</> 2 เทิร์นให้กับเป้าหมายทั้งหมด <Debuff>[Block]</> 2 เทิร์นให้กับเป้าหมายเดี่ยว"
+  },
+  "1093": {
+   "id": 1093,
+   "slot": 1,
+   "branch": 3,
+   "exclude_branchs": [
+    0
+   ],
+   "icon": "T_SkillIcon_ClockDoll_Light_Skill1",
+   "buff_id": null,
+   "desc": "Upgrades Khloros's <Key>Scythe</>.\n<Key>Scythe: </>After attacking, increases all allies' Turn Meter by <Key>20%</>.",
+   "desc_th": "อัปเกรด <Key>Scythe</> ของ Khloros\n<Key>Scythe: </>หลังจากโจมตี เพิ่มเกจเทิร์นของพันธมิตรทั้งหมด <Key>20%</>"
+  },
+  "1101": {
+   "id": 1101,
+   "slot": 4,
+   "branch": 1,
+   "exclude_branchs": [
+    0
+   ],
+   "icon": "T_SkillIcon_Diligent_Const_Skill2",
+   "buff_id": null,
+   "desc": "For each 1 stack(s) of <Buff>[Giant Shroud]</> Helkid possesses, all enemies gain <Key>4%</> SPD",
+   "desc_th": "สำหรับ <Buff>[Giant Shroud]</> ทุก 1 ชั้นที่ Helkid มี ศัตรูทั้งหมดจะได้รับ <Key>4%</> SPD"
+  },
+  "1102": {
+   "id": 1102,
+   "slot": 3,
+   "branch": 1,
+   "exclude_branchs": [
+    0
+   ],
+   "icon": "T_SkillIcon_Thug_Const_Skill2",
+   "buff_id": null,
+   "desc": "Blood Wraith's post-attack <Buff>[Giant Shroud]</> stacks increased to <Key>2</>",
+   "desc_th": "จำนวนชั้น <Buff>[Giant Shroud]</> หลังการโจมตีของ Blood Wraith จะเพิ่มเป็น <Key>2</>"
+  },
+  "1103": {
+   "id": 1103,
+   "slot": 3,
+   "branch": 1,
+   "exclude_branchs": [
+    0
+   ],
+   "icon": "T_SkillIcon_ClockDoll_Light_Skill1",
+   "buff_id": null,
+   "desc": "Helkid's <Key>Bramble</> effect is upgraded. \n<Key>Bramble</>: Has a <Key>100%</> chance to reduce the target's Turn Meter by <Key>6%</>.",
+   "desc_th": "เอฟเฟ็กต์ <Key>Bramble</> ของ Helkid จะอัปเกรดขึ้น\n<Key>Bramble</>: มีโอกาส <Key>100%</> ที่จะลดเกจเทิร์นของเป้าหมายลง <Key>6%</>"
+  }
+ },
+ "text_chunk": "00165_a80c015e83258217.json"
+}

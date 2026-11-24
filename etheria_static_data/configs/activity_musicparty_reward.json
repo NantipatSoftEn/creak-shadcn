@@ -1,0 +1,71 @@
+{
+ "config": "activity_musicparty_reward",
+ "fields": [
+  "id",
+  "stage_id",
+  "rewards"
+ ],
+ "rows": [
+  {
+   "id": 1,
+   "stage_id": 1,
+   "rewards": [
+    {
+     "id": 10011,
+     "count": 100
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "stage_id": 2,
+   "rewards": [
+    {
+     "id": 10111,
+     "count": 2
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "stage_id": 3,
+   "rewards": [
+    {
+     "id": 10011,
+     "count": 200
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "stage_id": 4,
+   "rewards": [
+    {
+     "id": 10133,
+     "count": 1
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "stage_id": 5,
+   "rewards": [
+    {
+     "id": 10202,
+     "count": 3
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "stage_id": 6,
+   "rewards": [
+    {
+     "id": 10117,
+     "count": 1
+    }
+   ]
+  }
+ ],
+ "text_chunk": null
+}

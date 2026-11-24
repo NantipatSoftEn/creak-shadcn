@@ -1,0 +1,446 @@
+{
+ "config": "dreammaze_buff",
+ "fields": [
+  "buff_id",
+  "type",
+  "weight",
+  "score_change",
+  "continuous_score_change",
+  "prob",
+  "icon",
+  "name",
+  "desc"
+ ],
+ "rows": {
+  "1": {
+   "buff_id": 1,
+   "type": 1,
+   "weight": 0,
+   "score_change": [
+    [
+     0,
+     500
+    ]
+   ],
+   "continuous_score_change": [
+    [
+     0,
+     500
+    ]
+   ],
+   "prob": null,
+   "icon": "",
+   "name": "Base Benefits",
+   "name_th": "สิทธิประโยชน์พื้นฐาน",
+   "desc": "Gains room count × 500 Dream Dust for each room passed",
+   "desc_th": "ได้รับ Dream Dust × 500 ของจำนวนแต่ละห้องที่ผ่านมา"
+  },
+  "2": {
+   "buff_id": 2,
+   "type": 2,
+   "weight": 10,
+   "score_change": null,
+   "continuous_score_change": [
+    [
+     1,
+     100
+    ]
+   ],
+   "prob": null,
+   "icon": "",
+   "name": "100% Power",
+   "name_th": "พลัง 100%",
+   "desc": "<a color=\"#CACFD6FF\">The Dream Dust reward from the next room is doubled</>",
+   "desc_th": "<a color=\"#CACFD6FF\">รางวัล Dream Dust จากห้องถัดไปจะเพิ่มเป็นสองเท่า</>"
+  },
+  "3": {
+   "buff_id": 3,
+   "type": 3,
+   "weight": 15,
+   "score_change": [
+    [
+     1,
+     50
+    ],
+    [
+     0,
+     1000
+    ]
+   ],
+   "continuous_score_change": null,
+   "prob": null,
+   "icon": "",
+   "name": "Profit Dividend",
+   "name_th": "Profit Dividend",
+   "desc": "<a color=\"#CACFD6FF\">Instantly gain Dream Dust equal to 1.5× Interest 1 time, or 1000 Interest if you don't have any (Current </><a color=\"#55fdff\" tip=\"1\" underline=\"1\">Interest</><a color=\"#CACFD6FF\">: {1})</>",
+   "desc_th": "<a color=\"#CACFD6FF\">ได้รับ Dream Dust ทันทีเท่ากับดอกเบี้ย 1.5× จำนวน 1 ครั้งหรือ 1000 ดอกเบี้ยหากคุณไม่มี (</><a color=\"#55fdff\" tip=\"1\" underline=\"1\">ดอกเบี้ย</><a color=\"#CACFD6FF\">ปัจจุบัน: {1})</>"
+  },
+  "4": {
+   "buff_id": 4,
+   "type": 4,
+   "weight": 20,
+   "score_change": [
+    [
+     0,
+     1500
+    ],
+    [
+     0,
+     1500
+    ]
+   ],
+   "continuous_score_change": null,
+   "prob": null,
+   "icon": "",
+   "name": "Fixed Returns",
+   "name_th": "ผลตอบแทนคงที่",
+   "desc": "<a color=\"#CACFD6FF\">Instantly gain 1500 Dream Dust and </><a color=\"#55fdff\" tip=\"1\" underline=\"1\">1500 Interest</>",
+   "desc_th": "<a color=\"#CACFD6FF\">รับ 1500 Dream Dust และ<a color=\"#55fdff\" tip=\"1\" underline=\"1\">ดอกเบี้ย 1500 ทันที</></>"
+  },
+  "5": {
+   "buff_id": 5,
+   "type": 5,
+   "weight": 0,
+   "score_change": null,
+   "continuous_score_change": null,
+   "prob": null,
+   "icon": "",
+   "name": "Make It Big",
+   "name_th": "สำเร็จแบบยิ่งใหญ่",
+   "desc": "All upcoming Sweet Dream rooms become Dreamy Coffers with +2 extra amount",
+   "desc_th": "ห้องฝันหวานที่กำลังจะเปิดตัวทั้งหมดจะกลายเป็น Dreamy Coffer พร้อมจำนวนเพิ่มเติม +2"
+  },
+  "6": {
+   "buff_id": 6,
+   "type": 6,
+   "weight": 10,
+   "score_change": [
+    [
+     0,
+     3000
+    ]
+   ],
+   "continuous_score_change": null,
+   "prob": null,
+   "icon": "",
+   "name": "Stop Profit",
+   "name_th": "หยุดผลกำไร",
+   "desc": "<a color=\"#CACFD6FF\">Instantly gain 3000</><a color=\"#55fdff\" tip=\"1\" underline=\"1\"> Interest</><a color=\"#CACFD6FF\">, but the next dream will be empty</>",
+   "desc_th": "<a color=\"#CACFD6FF\">รับ<a color=\"#55fdff\" tip=\"1\" underline=\"1\">ดอกเบี้ย</> 3000 </><a color=\"#CACFD6FF\"> แต่ห้องความฝันถัดไปจะว่างเปล่า</>"
+  },
+  "7": {
+   "buff_id": 7,
+   "type": 7,
+   "weight": 20,
+   "score_change": null,
+   "continuous_score_change": null,
+   "prob": null,
+   "icon": "",
+   "name": "Double Gains",
+   "name_th": "รับ 2 เท่า",
+   "desc": "<a color=\"#CACFD6FF\">The number of Dreamy Coffers in the next encounter is changed from 1 to 2, and the next dream will be Dreamy Coffer</>",
+   "desc_th": "<a color=\"#CACFD6FF\">จำนวน Dreamy Coffer ในการเผชิญหน้าครั้งต่อไปจะเปลี่ยนจาก 1 เป็น 2 และความฝันครั้งถัดไปจะเป็น Dreamy Coffer</>"
+  },
+  "8": {
+   "buff_id": 8,
+   "type": 8,
+   "weight": 15,
+   "score_change": [
+    [
+     0,
+     -1000
+    ],
+    [
+     1,
+     200
+    ]
+   ],
+   "continuous_score_change": null,
+   "prob": null,
+   "icon": "",
+   "name": "Interest Investment",
+   "name_th": "ดอกเบี้ยการลงทุน",
+   "desc": "<a color=\"#CACFD6FF\">Convert 1000 of your Dream Dust into double that amount of </><a color=\"#55fdff\" tip=\"1\" underline=\"1\">Interest</>",
+   "desc_th": "<a color=\"#CACFD6FF\">แปลง 1000 ของ Dream Dust ให้เป็น<a color=\"#55fdff\" tip=\"1\" underline=\"1\">ดอกเบี้ย</>จำนวนสองเท่า</>"
+  },
+  "9": {
+   "buff_id": 9,
+   "type": 9,
+   "weight": 15,
+   "score_change": [
+    [
+     1,
+     100
+    ]
+   ],
+   "continuous_score_change": null,
+   "prob": null,
+   "icon": "",
+   "name": "More Interests",
+   "name_th": "ดอกเบี้ยเพิ่มเติม",
+   "desc": "<a color=\"#CACFD6FF\">Increases current Interest by 100%. (Current</> <a color=\"#55fdff\" tip=\"1\" underline=\"1\">Interest</><a color=\"#CACFD6FF\">: {1})</>",
+   "desc_th": "<a color=\"#CACFD6FF\">เพิ่มดอกเบี้ยปัจจุบันของคุณขึ้น 100% (</><a color=\"#55fdff\" tip=\"1\" underline=\"1\">ดอกเบี้ย</><a color=\"#CACFD6FF\">ปัจจุบัน: {1})</>"
+  },
+  "10": {
+   "buff_id": 10,
+   "type": 10,
+   "weight": 10,
+   "score_change": [
+    [
+     0,
+     1000
+    ]
+   ],
+   "continuous_score_change": null,
+   "prob": null,
+   "icon": "",
+   "name": "Whimsical Benediction",
+   "name_th": "Whimsical Benediction",
+   "desc": "<a color=\"#CACFD6FF\">Instantly gain 1000 Dream Dust. Your next dream will be either Serenity Blessing or Night Offering</>",
+   "desc_th": "<a color=\"#CACFD6FF\">รับ 1000 Dream Dust ทันที ความฝันครั้งถัดไปจะเป็น Serenity Blessing หรือ Night Offering</>"
+  },
+  "11": {
+   "buff_id": 11,
+   "type": 11,
+   "weight": 15,
+   "score_change": [
+    [
+     0,
+     8000
+    ]
+   ],
+   "continuous_score_change": null,
+   "prob": null,
+   "icon": "",
+   "name": "Generous Quota",
+   "name_th": "โควตาจุใจ",
+   "desc": "<a color=\"#CACFD6FF\">Set your Dream Dust to 8000</>",
+   "desc_th": "<a color=\"#CACFD6FF\">ตั้งค่า Dream Dust ของคุณเป็น 8000</>"
+  },
+  "101": {
+   "buff_id": 101,
+   "type": 101,
+   "weight": 10,
+   "score_change": [
+    [
+     0,
+     10000
+    ],
+    [
+     1,
+     -10
+    ]
+   ],
+   "continuous_score_change": null,
+   "prob": null,
+   "icon": "",
+   "name": "Against Tomorrow",
+   "name_th": "ปะทะในวันพรุ่งนี้",
+   "desc": "<a color=\"#CACFD6FF\">Instantly gain 10000 Dream Dust. Lose 10% of the current Dream Dust in each dream thereafter</>",
+   "desc_th": "<a color=\"#CACFD6FF\">รับ 10000 Dream Dust ทันที สูญเสีย 10% ของ Dream Dust ปัจจุบันในความฝันครั้งต่อไปหลังจากนั้น</>"
+  },
+  "102": {
+   "buff_id": 102,
+   "type": 102,
+   "weight": 0,
+   "score_change": [
+    [
+     1,
+     -20
+    ]
+   ],
+   "continuous_score_change": [
+    [
+     1,
+     100
+    ]
+   ],
+   "prob": null,
+   "icon": "",
+   "name": "Futures Contracts",
+   "name_th": "สัญญาล่วงหน้า",
+   "desc": "Spend 20% current Dream Dust to double the event rewards of the next 2 room(s)",
+   "desc_th": "ใช้ Dream Dust ปัจจุบัน 20% อัน เพื่อรับรางวัลอีเวนต์สองเท่าจาก 2 ห้องถัดไป"
+  },
+  "103": {
+   "buff_id": 103,
+   "type": 103,
+   "weight": 20,
+   "score_change": [
+    [
+     1,
+     10,
+     30
+    ]
+   ],
+   "continuous_score_change": null,
+   "prob": null,
+   "icon": "",
+   "name": "Capital Allure",
+   "name_th": "สิ่งจูงใจจากเงินทุน",
+   "desc": "<a color=\"#CACFD6FF\">Instantly gain 10%-30% of the current Dream Dust</>",
+   "desc_th": "<a color=\"#CACFD6FF\">รับ 10%-30% ของ Dream Dust ปัจจุบันทันที</>"
+  },
+  "104": {
+   "buff_id": 104,
+   "type": 104,
+   "weight": 15,
+   "score_change": [
+    [
+     0,
+     500,
+     5000
+    ]
+   ],
+   "continuous_score_change": null,
+   "prob": null,
+   "icon": "",
+   "name": "Surprising Lottery",
+   "name_th": "ลอตเตอรี่สุดเซอร์ไพรส์",
+   "desc": "<a color=\"#CACFD6FF\">Instantly gain 500-5000 Dream Dust</>",
+   "desc_th": "<a color=\"#CACFD6FF\">รับ 500-5000 Dream Dust ทันที</>"
+  },
+  "105": {
+   "buff_id": 105,
+   "type": 105,
+   "weight": 0,
+   "score_change": null,
+   "continuous_score_change": [
+    [
+     1,
+     20
+    ]
+   ],
+   "prob": null,
+   "icon": "",
+   "name": "Greedy Soul",
+   "name_th": "จิตวิญญาณโลภ",
+   "desc": "The next room offers 20% increased rewards, but becomes a random dream type",
+   "desc_th": "ห้องถัดไปเสนอรางวัลเพิ่มขึ้น 20% แต่จะกลายเป็นประเภทความฝันแบบสุ่ม"
+  },
+  "106": {
+   "buff_id": 106,
+   "type": 106,
+   "weight": 25,
+   "score_change": null,
+   "continuous_score_change": [
+    [
+     1,
+     50
+    ],
+    [
+     1,
+     -30
+    ]
+   ],
+   "prob": [
+    [
+     50,
+     50,
+     0
+    ]
+   ],
+   "icon": "",
+   "name": "Divine Move",
+   "name_th": "เดินหน้าอย่างเทพ",
+   "desc": "<a color=\"#CACFD6FF\">A 50% chance to gain 50% of your current Dream Dust, and a 50% chance to lose 30% of it</>",
+   "desc_th": "<a color=\"#CACFD6FF\">มีโอกาส 50% ที่จะได้รับ 50% ของ Dream Dust ปัจจุบัน และมีโอกาส 50% ที่จะสูญเสีย 30% ของ Dream Dust</>"
+  },
+  "107": {
+   "buff_id": 107,
+   "type": 107,
+   "weight": 20,
+   "score_change": [
+    [
+     1,
+     300
+    ]
+   ],
+   "continuous_score_change": null,
+   "prob": null,
+   "icon": "",
+   "name": "Fatal Attraction",
+   "name_th": "สิ่งล่อใจอันร้ายแรง",
+   "desc": "<a color=\"#CACFD6FF\">For the next </><a color=\"#55fdff\" tip=\"2\" underline=\"1\">Greed Choice</><a color=\"#CACFD6FF\">, the success reward multiplier changes from 2× to 3×</>",
+   "desc_th": "<a color=\"#CACFD6FF\">สำหรับ</><a color=\"#55fdff\" tip=\"2\" underline=\"1\">ตัวเลือกความโลภครั้งต่อไป</><a color=\"#CACFD6FF\"> ตัวคูณรางวัลความสำเร็จจะเปลี่ยนจาก 2x เป็น 3x</>"
+  },
+  "108": {
+   "buff_id": 108,
+   "type": 108,
+   "weight": 15,
+   "score_change": [
+    [
+     1,
+     -20
+    ],
+    [
+     1,
+     200
+    ]
+   ],
+   "continuous_score_change": null,
+   "prob": null,
+   "icon": "",
+   "name": "Conversion",
+   "name_th": "การแปลง",
+   "desc": "<a color=\"#CACFD6FF\">Convert 20% of your current Dream Dust into double that amount of </><a color=\"#55fdff\" tip=\"1\" underline=\"1\">Interest</>",
+   "desc_th": "<a color=\"#CACFD6FF\">แปลง 20% ของ Dream Dust ปัจจุบันของคุณให้เป็น<a color=\"#55fdff\" tip=\"1\" underline=\"1\">ดอกเบี้ย</>จำนวนสองเท่า</>"
+  },
+  "109": {
+   "buff_id": 109,
+   "type": 109,
+   "weight": 20,
+   "score_change": [
+    [
+     1,
+     300
+    ]
+   ],
+   "continuous_score_change": null,
+   "prob": null,
+   "icon": "",
+   "name": "Settlement",
+   "name_th": "การสรุปผล",
+   "desc": "<a color=\"#CACFD6FF\">Instantly gain Dream Dust equal to triple your current Interest and remove the Interest (Current </><a color=\"#55fdff\" tip=\"1\" underline=\"1\">Interest</><a color=\"#CACFD6FF\">: {1})</>",
+   "desc_th": "<a color=\"#CACFD6FF\">รับ Dream Dust ทันทีเป็นจำนวนเท่ากับสองเท่าของดอกเบี้ยปัจจุบันของคุณ และลบดอกเบี้ยออก (</><a color=\"#55fdff\" tip=\"1\" underline=\"1\">ดอกเบี้ย</><a color=\"#CACFD6FF\">ปัจจุบัน: {1})</>"
+  },
+  "110": {
+   "buff_id": 110,
+   "type": 110,
+   "weight": 10,
+   "score_change": [
+    [
+     1,
+     10
+    ]
+   ],
+   "continuous_score_change": null,
+   "prob": null,
+   "icon": "",
+   "name": "Whimsy Trap",
+   "name_th": "กับดักวิเศษ",
+   "desc": "<a color=\"#CACFD6FF\">Instantly gain 10% of the current Dream Dust. Your next dream will be either Dreamy Labyrinth or Nightmare Labyrinth</>",
+   "desc_th": "<a color=\"#CACFD6FF\">รับ 10% ของ Dream Dust ปัจจุบันทันที ความฝันครั้งถัดไปจะเป็นเขาวงกตความฝันหรือเขาวงกตฝันร้าย</>"
+  },
+  "111": {
+   "buff_id": 111,
+   "type": 111,
+   "weight": 25,
+   "score_change": [
+    [
+     5000,
+     100,
+     20
+    ]
+   ],
+   "continuous_score_change": null,
+   "prob": null,
+   "icon": "",
+   "name": "Deadlock Buster",
+   "name_th": "เครื่องกำจัดเดดล็อก",
+   "desc": "<a color=\"#CACFD6FF\">If your Dream Dust is below 5000, it is doubled. If it exceeds 5000, you gain 20% of the current Dream Dust</>",
+   "desc_th": "<a color=\"#CACFD6FF\">หาก Dream Dust ของคุณต่ำกว่า 5000 จะเพิ่มเป็นสองเท่า หากสูงกว่า 5000 คุณจะได้รับ 20% ของ Dream Dust ปัจจุบัน</>"
+  }
+ },
+ "text_chunk": "00074_9c80a8babd4b88e9.json"
+}

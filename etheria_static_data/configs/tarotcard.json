@@ -1,0 +1,1275 @@
+{
+ "config": "tarotcard",
+ "fields": [
+  "id",
+  "diff",
+  "type",
+  "quality",
+  "weight",
+  "params",
+  "effect",
+  "condition",
+  "awards",
+  "icon",
+  "name",
+  "describe",
+  "describe2"
+ ],
+ "rows": [
+  {
+   "id": 1,
+   "diff": 1,
+   "type": 1,
+   "quality": 1,
+   "weight": 15,
+   "params": [
+    11010001,
+    11010002,
+    11010003,
+    11010004
+   ],
+   "effect": null,
+   "condition": [
+    30751,
+    40511
+   ],
+   "awards": [
+    1010181,
+    1010182,
+    1010183,
+    1010184,
+    1010185,
+    1010186,
+    1010187,
+    1010188,
+    1010189,
+    1010190,
+    1010191,
+    1010192
+   ],
+   "icon": "T_UI_Card_Icon_JingGe_",
+   "name": "DokiDoki",
+   "name_th": "DokiDoki",
+   "describe": "Truth Memetic, DokiDoki awaits your challenge.",
+   "describe_th": "DokiDoki เจ้าของฉายา Truth Memetic รอท้าทายของคุณอยู่",
+   "describe2": "A human-like fire of desire is blazing. DokiDoki, born from others' yearning, is now ready to set the world aflame in pursuit of her own.",
+   "describe2_th": "ไฟปรารถนาเสมือนมนุษย์กำลังลุกโชนโชติช่วง DokiDoki เกิดจากความปรารถนาของผู้อื่น และตอนนี้เธอก็พร้อมที่จะจุดไฟเผาโลกเพื่อตามหาสิ่งที่ตัวเองปรารถนาแล้ว"
+  },
+  {
+   "id": 2,
+   "diff": 2,
+   "type": 1,
+   "quality": 1,
+   "weight": 12,
+   "params": [
+    11020002,
+    11020002,
+    11020003,
+    11020004
+   ],
+   "effect": null,
+   "condition": [
+    30751,
+    40511
+   ],
+   "awards": [
+    1010161,
+    1010162,
+    1010163,
+    1010164,
+    1010165,
+    1010166,
+    1010167,
+    1010168,
+    1010169,
+    1010170,
+    1010171,
+    1010172
+   ],
+   "icon": "T_UI_Card_Icon_ChouKa_",
+   "name": "Helkid",
+   "name_th": "Helkid",
+   "describe": "Scarlet Ironveil, Helkid awaits your challenge.",
+   "describe_th": "Helkid เจ้าของฉายา Scarlet Ironveil รอท้าทายของคุณอยู่",
+   "describe2": "Behind the unseeable crimson iron curtain lies a cold conspiracy and blood. Helkid is paving her path forward with blood-soaked crystal spikes.",
+   "describe2_th": "เบื้องหลังม่านเหล็กสีแดงเข้มที่มองไม่เห็น ซ่อนเร้นแผนการร้ายอันเย็นชาและเปื้อนเลือดเอาไว้ Helkid กำลังปูทางไปข้างหน้าด้วยหนามคริสตัลที่ชุ่มไปด้วยเลือด"
+  },
+  {
+   "id": 3,
+   "diff": 2,
+   "type": 1,
+   "quality": 1,
+   "weight": 5,
+   "params": [
+    11030001,
+    11030002,
+    11030003,
+    11030004
+   ],
+   "effect": null,
+   "condition": [
+    30751,
+    40511
+   ],
+   "awards": [
+    1010141,
+    1010142,
+    1010143,
+    1010144,
+    1010145,
+    1010146,
+    1010147,
+    1010148,
+    1010149,
+    1010150,
+    1010151,
+    1010152
+   ],
+   "icon": "T_UI_Card_Icon_ZuanShi_",
+   "name": "K·Massiah",
+   "name_th": "K Massiah",
+   "describe": "Blade of Verdict, Massiah awaits your challenge.",
+   "describe_th": "Massiah เจ้าของฉายา Blade of Verdict รอท้าทายของคุณอยู่",
+   "describe2": "He engraved the rules he set for himself on the giant cross claymore. To Massiah, the rules are both dignity and strength. For him, absolute power can replace thinking and scheming.",
+   "describe2_th": "เขาสลักกฎที่ตั้งให้กับตัวเองลงบนไม้กางเขนยักษ์ สำหรับ Massiah แล้ว กฎนั้นเป็นทั้งศักดิ์ศรีและความแข็งแกร่ง สำหรับเขาแล้ว แค่พลังเพียงอย่างเดียวก็ทดแทนได้ทั้งการใช้ความคิดและการวางกลยุทธ์"
+  },
+  {
+   "id": 4,
+   "diff": 2,
+   "type": 1,
+   "quality": 1,
+   "weight": 55,
+   "params": [
+    11040002,
+    11040002,
+    11040003,
+    11040004
+   ],
+   "effect": null,
+   "condition": [
+    30751,
+    40511
+   ],
+   "awards": [
+    1010101,
+    1010102,
+    1010103,
+    1010104,
+    1010105,
+    1010106,
+    1010107,
+    1010108,
+    1010109,
+    1010110,
+    1010111,
+    1010112
+   ],
+   "icon": "T_UI_Card_Icon_Jinbi_",
+   "name": "Lilith",
+   "name_th": "Lilith",
+   "describe": "Puppet Master, Animus Lilith awaits your challenge.",
+   "describe_th": "Puppet Master, Animus Lilith กำลังรอท้าทายของคุณ",
+   "describe2": "Fine fingertips tug at invisible threads. At the far end, \"Mr. Baron\" wrestles with the chaos. Lilith spins her web with innocence and disguise, waltzing playfully through brutal reality.",
+   "describe2_th": "ปลายนิ้วอันประณีตดึงเส้นด้ายที่มองไม่เห็น ณ ปลายอีกด้านหนึ่ง\n\"Mr. Baron\" กำลังดิ้นรนกับความโกลาหล Lilith ปั่นใยของเธอ\nด้วยความไร้เดียงสาและการปลอมตัว พร้อมเต้นรำอย่างสนุก\nสนานผ่านความเป็นจริงที่โหดร้าย"
+  },
+  {
+   "id": 5,
+   "diff": 2,
+   "type": 1,
+   "quality": 1,
+   "weight": 5,
+   "params": [
+    11050002,
+    11050002,
+    11050003,
+    11050004
+   ],
+   "effect": null,
+   "condition": [
+    30751,
+    40511
+   ],
+   "awards": [
+    1010141,
+    1010142,
+    1010143,
+    1010144,
+    1010145,
+    1010146,
+    1010147,
+    1010148,
+    1010149,
+    1010150,
+    1010151,
+    1010152
+   ],
+   "icon": "T_UI_Card_Icon_ZuanShi_",
+   "name": "Heinrich",
+   "name_th": "Heinrich",
+   "describe": "Godslayer Guns, Heinrich awaits your challenge.",
+   "describe_th": "Heinrich เจ้าของฉายา Godslayer Guns รอท้าทายคุณ",
+   "describe2": "In the scorching smoke, his enemies have nowhere to escape. \"Reaper\" Heinrich is coming towards the enemies, waiting to harvest endless sins.",
+   "describe2_th": "ท่ามกลางควันที่แผดเผา ศัตรูของเขาไม่มีทางหนีรอด \"ยมทูต\" Heinrich กำลังเข้ามาหาศัตรู รอคอยที่จะเก็บเกี่ยวบาปที่ไม่มีวันสิ้นสุด"
+  },
+  {
+   "id": 6,
+   "diff": 2,
+   "type": 1,
+   "quality": 1,
+   "weight": 55,
+   "params": [
+    11060002,
+    11060002,
+    11060003,
+    11060004
+   ],
+   "effect": null,
+   "condition": [
+    30751,
+    40511
+   ],
+   "awards": [
+    1010121,
+    1010122,
+    1010123,
+    1010124,
+    1010125,
+    1010126,
+    1010127,
+    1010128,
+    1010129,
+    1010130,
+    1010131,
+    1010132
+   ],
+   "icon": "T_UI_Card_Icon_XunLian_",
+   "name": "Xiada",
+   "name_th": "Xiada",
+   "describe": "Alluring Enchantress, Xiada awaits your challenge.",
+   "describe_th": "Xiada เจ้าของฉายา Alluring Enchantress รอท้าทายของคุณอยู่",
+   "describe2": "A gentle shake of the folding fan stirs the flame of the soul; her graceful posture captivates the mind. As Xiada's dance concludes, it is not just the atmosphere of the stage that is ignited by the flames.",
+   "describe2_th": "เพียงโบกพัดเบา ๆ ก็ก่อให้เกิดเปลวไฟแห่งจิตวิญญาณ ท่วงท่าอันสง่างามของเธอช่างตราตรึงใจ ยามที่การเต้นรำของ Xiada จบลง ไม่ได้มีแค่บรรยากาศบนเวทีเท่านั้นที่ลุกเป็นไฟ"
+  },
+  {
+   "id": 7,
+   "diff": 1,
+   "type": 1,
+   "quality": 1,
+   "weight": 55,
+   "params": [
+    11070001,
+    11070002,
+    11070003,
+    11070004
+   ],
+   "effect": null,
+   "condition": [
+    30751,
+    40511
+   ],
+   "awards": [
+    1010101,
+    1010102,
+    1010103,
+    1010104,
+    1010105,
+    1010106,
+    1010107,
+    1010108,
+    1010109,
+    1010110,
+    1010111,
+    1010112
+   ],
+   "icon": "T_UI_Card_Icon_Jinbi_",
+   "name": "Lian",
+   "name_th": "Lian",
+   "describe": "Flameborn Phoenix, Lian awaits your challenge.",
+   "describe_th": "Lian เจ้าของฉายา Flameborn Phoenix รอท้าทายของคุณอยู่",
+   "describe2": "The sword cuts through the brambles, and the flames burn away injustice. The soaring fire phoenix witnesses Lian's beliefs and choices. Beneath the ashes of the burn, a new birth will eventually come.",
+   "describe2_th": "ดาบตัดผ่านพุ่มไม้หนาม และเปลวเพลิงอันร้อนแรงแผดเผาความอยุติธรรม ฟีนิกซ์ที่โผบินร่วมเป็นพยานถึงความเชื่อมั่นและการตัดสินใจของ Lian ภายใต้เถ้าถ่านที่มอดไหม้ ชีวิตใหม่จะถือกำเนิดขึ้นในที่สุด"
+  },
+  {
+   "id": 8,
+   "diff": 2,
+   "type": 1,
+   "quality": 1,
+   "weight": 12,
+   "params": [
+    11080001,
+    11080002,
+    11080003,
+    11080004
+   ],
+   "effect": null,
+   "condition": [
+    30751,
+    40511
+   ],
+   "awards": [
+    1010161,
+    1010162,
+    1010163,
+    1010164,
+    1010165,
+    1010166,
+    1010167,
+    1010168,
+    1010169,
+    1010170,
+    1010171,
+    1010172
+   ],
+   "icon": "T_UI_Card_Icon_ChouKa_",
+   "name": "Shadow Sania",
+   "name_th": "Withered Shadow Sania",
+   "describe": "Vengeful Thorn, Animus Shadow Sania awaits your challenge.",
+   "describe_th": "Vengeful Thorn, Animus Withered Shadow Sania กำลังรอท้าทายของคุณ",
+   "describe2": "Bramble and vine intertwine, challenging the shackles of fate. Sania seeks the freedom of life here and questions the final destiny.",
+   "describe2_th": "พุ่มไม้และเถาวัลย์พัวพัน ท้าทายพันธนาการแห่งโชคชะตา Sania แสวงหาอิสรภาพของชีวิตที่นี่ และตั้งคำถามถึงชะตากรรมสุดท้ายของเธอเช่นกัน"
+  },
+  {
+   "id": 9,
+   "diff": 2,
+   "type": 1,
+   "quality": 1,
+   "weight": 55,
+   "params": [
+    11090002,
+    11090002,
+    11090003,
+    11090004
+   ],
+   "effect": null,
+   "condition": [
+    30751,
+    40511
+   ],
+   "awards": [
+    1010121,
+    1010122,
+    1010123,
+    1010124,
+    1010125,
+    1010126,
+    1010127,
+    1010128,
+    1010129,
+    1010130,
+    1010131,
+    1010132
+   ],
+   "icon": "T_UI_Card_Icon_XunLian_",
+   "name": "Rahu",
+   "name_th": "Rahu",
+   "describe": "Wily Revenant, Animus Rahu awaits your challenge.",
+   "describe_th": "Wily Revenant, Animus Rahu กำลังรอท้าทายของคุณ",
+   "describe2": "He trades and hoards, sighing for buyers and regretting with sellers, but he never shows mercy. From the shadows, Rahu watches, weighing each visitor's desire.",
+   "describe2_th": "เขาค้าขายและสะสมสิ่งของต่าง ๆ พลางถอนหายใจให้กับผู้ซื้อและรู้สึกสงสารผู้ขาย แต่เขาไม่เคยแสดงความเห็นใจให้แก่ใคร Rahu เฝ้าดูจากเงามืด และประเมินความปรารถนาของผู้มาเยือนแต่ละคน"
+  },
+  {
+   "id": 10,
+   "diff": 2,
+   "type": 1,
+   "quality": 1,
+   "weight": 15,
+   "params": [
+    11100002,
+    11100002,
+    11100003,
+    11100004
+   ],
+   "effect": null,
+   "condition": [
+    30751,
+    40511
+   ],
+   "awards": [
+    1010201,
+    1010202,
+    1010203,
+    1010204,
+    1010205,
+    1010206,
+    1010207,
+    1010208,
+    1010209,
+    1010210,
+    1010211,
+    1010212
+   ],
+   "icon": "T_UI_Card_Icon_LiuYing_",
+   "name": "Beyontin",
+   "name_th": "Beyontin",
+   "describe": "Acheron Lycoris, Animus Beyontin awaits your challenge.",
+   "describe_th": "Acheron Lycoris, Animus Beyond กำลังรอท้าทายของคุณอยู่",
+   "describe2": "Gazing, scrutinizing, perceiving... As the hands beyond the chessboard, Beyontin stands on the other side of the underworld, watching this world. But she never guides the lost, for what is worthy of her guidance is the entire world.",
+   "describe2_th": "จ้องมอง พินิจ และรับรู้... เวลาที่ไม่ได้เล่นหมากรุก Beyontin จะยืนมองอยู่ที่อีกฟากของโลกใต้พิภพ เฝ้าดูโลกใบนี้ แต่เธอไม่เคยนำทางผู้ที่หลงทาง เพราะมีแค่โลกทั้งใบเท่านั้นที่คู่ควรกับการนำทางของเธอ"
+  },
+  {
+   "id": 11,
+   "diff": 1,
+   "type": 2,
+   "quality": 1,
+   "weight": 10,
+   "params": null,
+   "effect": null,
+   "condition": null,
+   "awards": [
+    1010041,
+    1010042,
+    1010043,
+    1010044,
+    1010045,
+    1010046,
+    1010047,
+    1010048,
+    1010049,
+    1010050,
+    1010051,
+    1010052
+   ],
+   "icon": "T_UI_Item_Card_Icon_28101",
+   "name": "Etheria Coin Gift Box",
+   "name_th": "กล่องของขวัญ Etheria Coin",
+   "describe": "Loot filled with Etheria Coins. It can be affected by Power Blessing to increase rewards.",
+   "describe_th": "ของรางวัลที่เต็มไปด้วย Etheria Coin สามารถได้รับผลจาก Power Blessing เพื่อเพิ่มรางวัลได้"
+  },
+  {
+   "id": 12,
+   "diff": 2,
+   "type": 2,
+   "quality": 1,
+   "weight": 10,
+   "params": null,
+   "effect": null,
+   "condition": null,
+   "awards": [
+    1010081,
+    1010082,
+    1010083,
+    1010084,
+    1010085,
+    1010086,
+    1010087,
+    1010088,
+    1010089,
+    1010090,
+    1010091,
+    1010092
+   ],
+   "icon": "T_UI_Item_Card_Icon_28111",
+   "name": "Training Data Gift Box",
+   "name_th": "กล่องของขวัญ Training Data",
+   "describe": "Loot filled with Training Data. It can be affected by Power Blessing to increase rewards",
+   "describe_th": "ของรางวัลที่เต็มไปด้วย Training Data สามารถรได้รับผลจาก Power Blessing เพื่อเพิ่มรางวัลได้"
+  },
+  {
+   "id": 13,
+   "diff": 2,
+   "type": 2,
+   "quality": 1,
+   "weight": 10,
+   "params": null,
+   "effect": null,
+   "condition": null,
+   "awards": [
+    1010061,
+    1010062,
+    1010063,
+    1010064,
+    1010065,
+    1010066,
+    1010067,
+    1010068,
+    1010069,
+    1010070,
+    1010071,
+    1010072
+   ],
+   "icon": "T_UI_Item_Card_Icon_28121",
+   "name": "Shadowprint Gift Box",
+   "name_th": "กล่องของขวัญชาโดว์พรินต์",
+   "describe": "Loot filled with Shadowprints. It can be influenced by Power Blessing to increase rewards.",
+   "describe_th": "ของรางวัลที่เต็มไปด้วยชาโดว์พรินต์ สามารถได้รับผลจาก Power Blessing เพื่อเพิ่มรางวัลได้"
+  },
+  {
+   "id": 14,
+   "diff": 2,
+   "type": 3,
+   "quality": 1,
+   "weight": 10,
+   "params": null,
+   "effect": null,
+   "condition": null,
+   "awards": null,
+   "icon": "",
+   "name": "Break Grid",
+   "name_th": "กริดแตกสลาย",
+   "describe": "This part of the Cubic Board is damaged, cannot place Blessings in the Break Grid.",
+   "describe_th": "ส่วนนี้ของกระดานคิวบิกได้รับความเสียหาย ไม่สามารถวาง Blessing ในกริดแตกสลายได้"
+  },
+  {
+   "id": 15,
+   "diff": 2,
+   "type": 3,
+   "quality": 1,
+   "weight": 10,
+   "params": null,
+   "effect": null,
+   "condition": null,
+   "awards": null,
+   "icon": "",
+   "name": "Break Grid",
+   "name_th": "กริดแตกสลาย",
+   "describe": "This part of the Cubic Board is damaged, cannot place Blessings in the Break Grid.",
+   "describe_th": "ส่วนนี้ของกระดานคิวบิกได้รับความเสียหาย ไม่สามารถวาง Blessing ในกริดแตกสลายได้"
+  },
+  {
+   "id": 16,
+   "diff": 2,
+   "type": 3,
+   "quality": 1,
+   "weight": 10,
+   "params": null,
+   "effect": null,
+   "condition": null,
+   "awards": null,
+   "icon": "",
+   "name": "Break Grid",
+   "name_th": "กริดแตกสลาย",
+   "describe": "This part of the Cubic Board is damaged, cannot place Blessings in the Break Grid.",
+   "describe_th": "ส่วนนี้ของกระดานคิวบิกได้รับความเสียหาย ไม่สามารถวาง Blessing ในกริดแตกสลายได้"
+  },
+  {
+   "id": 17,
+   "diff": 2,
+   "type": 3,
+   "quality": 1,
+   "weight": 10,
+   "params": null,
+   "effect": null,
+   "condition": null,
+   "awards": null,
+   "icon": "",
+   "name": "Break Grid",
+   "name_th": "กริดแตกสลาย",
+   "describe": "This part of the Cubic Board is damaged, cannot place Blessings in the Break Grid.",
+   "describe_th": "ส่วนนี้ของกระดานคิวบิกได้รับความเสียหาย ไม่สามารถวาง Blessing ในกริดแตกสลายได้"
+  },
+  {
+   "id": 18,
+   "diff": 2,
+   "type": 3,
+   "quality": 1,
+   "weight": 10,
+   "params": null,
+   "effect": null,
+   "condition": null,
+   "awards": null,
+   "icon": "",
+   "name": "Break Grid",
+   "name_th": "กริดแตกสลาย",
+   "describe": "This part of the Cubic Board is damaged, cannot place Blessings in the Break Grid.",
+   "describe_th": "ส่วนนี้ของกระดานคิวบิกได้รับความเสียหาย ไม่สามารถวาง Blessing ในกริดแตกสลายได้"
+  },
+  {
+   "id": 19,
+   "diff": 2,
+   "type": 3,
+   "quality": 1,
+   "weight": 10,
+   "params": null,
+   "effect": null,
+   "condition": null,
+   "awards": null,
+   "icon": "",
+   "name": "Break Grid",
+   "name_th": "กริดแตกสลาย",
+   "describe": "This part of the Cubic Board is damaged, cannot place Blessings in the Break Grid.",
+   "describe_th": "ส่วนนี้ของกระดานคิวบิกได้รับความเสียหาย ไม่สามารถวาง Blessing ในกริดแตกสลายได้"
+  },
+  {
+   "id": 20,
+   "diff": 2,
+   "type": 4,
+   "quality": 4,
+   "weight": 0,
+   "params": [
+    1,
+    2
+   ],
+   "effect": [
+    6
+   ],
+   "condition": null,
+   "awards": null,
+   "icon": "",
+   "name": "Merge Grid",
+   "name_th": "กริดประสาน",
+   "describe": "Bosses and Magic Boxes within the area have a star level of -3. Unseal by placing 3 Power Blessings within the area.",
+   "describe_th": "บอสและ Magic Box ในพื้นที่มี Lv.ดาวอยู่ที่ -3 ปลดผนึกโดยวาง Power Blessing 3 ชิ้นในพื้นที่"
+  },
+  {
+   "id": 21,
+   "diff": 2,
+   "type": 4,
+   "quality": 4,
+   "weight": 0,
+   "params": [
+    3
+   ],
+   "effect": [
+    6
+   ],
+   "condition": null,
+   "awards": null,
+   "icon": "",
+   "name": "Merge Grid",
+   "name_th": "กริดประสาน",
+   "describe": "Bosses and Magic Boxes within the area have a star level of -3. Unseal by placing 3 Power Blessings within the area.",
+   "describe_th": "บอสและ Magic Box ในพื้นที่มี Lv.ดาวอยู่ที่ -3 ปลดผนึกโดยวาง Power Blessing 3 ชิ้นในพื้นที่"
+  },
+  {
+   "id": 22,
+   "diff": 2,
+   "type": 4,
+   "quality": 4,
+   "weight": 0,
+   "params": [
+    6
+   ],
+   "effect": [
+    6
+   ],
+   "condition": null,
+   "awards": null,
+   "icon": "",
+   "name": "Merge Grid",
+   "name_th": "กริดประสาน",
+   "describe": "Bosses and Magic Boxes within the area have a star level of -3. Unseal by placing 3 Power Blessings within the area.",
+   "describe_th": "บอสและ Magic Box ในพื้นที่มี Lv.ดาวอยู่ที่ -3 ปลดผนึกโดยวาง Power Blessing 3 ชิ้นในพื้นที่"
+  },
+  {
+   "id": 23,
+   "diff": 1,
+   "type": 5,
+   "quality": 1,
+   "weight": 120,
+   "params": [
+    1
+   ],
+   "effect": [
+    1
+   ],
+   "condition": null,
+   "awards": null,
+   "icon": "T_UI_Card_Icon_Boost_Vertical",
+   "name": "Vertical Boost",
+   "name_th": "บูสต์แนวตั้ง",
+   "describe": "All Animuses within range reach star level +1.",
+   "describe_th": "Animus ทุกตัวที่อยู่ในระยะมี Lv.ดาวถึง +1"
+  },
+  {
+   "id": 24,
+   "diff": 1,
+   "type": 5,
+   "quality": 1,
+   "weight": 120,
+   "params": [
+    2
+   ],
+   "effect": [
+    1
+   ],
+   "condition": null,
+   "awards": null,
+   "icon": "T_UI_Card_Icon_Boost_Horizontal",
+   "name": "Horizontal Boost",
+   "name_th": "บูสต์แนวนอน",
+   "describe": "All Animuses within range reach star level +1.",
+   "describe_th": "Animus ทุกตัวที่อยู่ในระยะมี Lv.ดาวถึง +1"
+  },
+  {
+   "id": 25,
+   "diff": 1,
+   "type": 5,
+   "quality": 1,
+   "weight": 100,
+   "params": [
+    3
+   ],
+   "effect": [
+    1
+   ],
+   "condition": null,
+   "awards": null,
+   "icon": "T_UI_Card_Icon_Boost_Oblique",
+   "name": "Diagonal Boost",
+   "name_th": "บูสต์แนวทแยง",
+   "describe": "All Animuses within range reach star level +1.",
+   "describe_th": "Animus ทุกตัวที่อยู่ในระยะมี Lv.ดาวถึง +1"
+  },
+  {
+   "id": 26,
+   "diff": 2,
+   "type": 5,
+   "quality": 4,
+   "weight": 25,
+   "params": [
+    4
+   ],
+   "effect": [
+    4
+   ],
+   "condition": null,
+   "awards": null,
+   "icon": "T_UI_Card_Icon_Boost_Diagonal",
+   "name": "Corners Boost",
+   "name_th": "บูสต์มุม",
+   "describe": "All Animuses within range reach star level +2.",
+   "describe_th": "Animus ทุกตัวที่อยู่ในระยะมี Lv.ดาวถึง +2"
+  },
+  {
+   "id": 27,
+   "diff": 2,
+   "type": 5,
+   "quality": 4,
+   "weight": 25,
+   "params": [
+    5
+   ],
+   "effect": [
+    4
+   ],
+   "condition": null,
+   "awards": null,
+   "icon": "T_UI_Card_Icon_Boost_Nearby",
+   "name": "Adjacent Boost",
+   "name_th": "บูสต์ข้างเคียง",
+   "describe": "All Animuses within range reach star level +2.",
+   "describe_th": "Animus ทุกตัวที่อยู่ในระยะมี Lv.ดาวถึง +2"
+  },
+  {
+   "id": 28,
+   "diff": 1,
+   "type": 5,
+   "quality": 1,
+   "weight": 0,
+   "params": [
+    1
+   ],
+   "effect": [
+    3
+   ],
+   "condition": null,
+   "awards": null,
+   "icon": "",
+   "name": "Vertical Boost+",
+   "name_th": "บูสต์แนวตั้ง+",
+   "describe": "All Bosses and Magic Boxes within the area have a star level of +2, and a Break Grid is generated globally.",
+   "describe_th": "บอสและกล่องของขวัญทั้งหมดในพื้นที่มี Lv.ดาวอยู่ที่ +2 และมีการสร้างกริดแตกสลายขึ้นไปทั่ว"
+  },
+  {
+   "id": 29,
+   "diff": 1,
+   "type": 5,
+   "quality": 1,
+   "weight": 0,
+   "params": [
+    2
+   ],
+   "effect": [
+    3
+   ],
+   "condition": null,
+   "awards": null,
+   "icon": "",
+   "name": "Horizontal Boost+",
+   "name_th": "บูสต์แนวนอน+",
+   "describe": "All Bosses and Magic Boxes within the area have a star level of +2, and a Break Grid is generated globally.",
+   "describe_th": "บอสและกล่องของขวัญทั้งหมดในพื้นที่มี Lv.ดาวอยู่ที่ +2 และมีการสร้างกริดแตกสลายขึ้นไปทั่ว"
+  },
+  {
+   "id": 30,
+   "diff": 1,
+   "type": 5,
+   "quality": 1,
+   "weight": 0,
+   "params": [
+    3
+   ],
+   "effect": [
+    2
+   ],
+   "condition": null,
+   "awards": null,
+   "icon": "",
+   "name": "Diagonal Boost+",
+   "name_th": "บูสต์แนวทแยง+",
+   "describe": "All Bosses and Magic Boxes within the area have a star level of +2, and a Break Grid is generated globally.",
+   "describe_th": "บอสและกล่องของขวัญทั้งหมดในพื้นที่มี Lv.ดาวอยู่ที่ +2 และมีการสร้างกริดแตกสลายขึ้นไปทั่ว"
+  },
+  {
+   "id": 31,
+   "diff": 3,
+   "type": 5,
+   "quality": 4,
+   "weight": 50,
+   "params": [
+    6
+   ],
+   "effect": [
+    1
+   ],
+   "condition": null,
+   "awards": null,
+   "icon": "T_UI_Card_Icon_Boost_surround",
+   "name": "Circular Boost+",
+   "name_th": "บูสต์วงรอบ+",
+   "describe": "All Animuses within range reach star level +1.",
+   "describe_th": "Animus ทุกตัวที่อยู่ในระยะมี Lv.ดาวถึง +1"
+  },
+  {
+   "id": 32,
+   "diff": 3,
+   "type": 5,
+   "quality": 4,
+   "weight": 0,
+   "params": [
+    7
+   ],
+   "effect": [
+    16
+   ],
+   "condition": null,
+   "awards": null,
+   "icon": "",
+   "name": "Puppet's Choice",
+   "name_th": "Puppet's Choice",
+   "describe": "Choose one Power Blessing from the options provided by the Spirit Puppet.",
+   "describe_th": "เลือก Power Blessing ใดก็ได้อย่างหนึ่งจากตัวเลือกที่ Spirit Puppet มอบให้"
+  },
+  {
+   "id": 33,
+   "diff": 3,
+   "type": 5,
+   "quality": 4,
+   "weight": 0,
+   "params": [
+    7
+   ],
+   "effect": [
+    4
+   ],
+   "condition": null,
+   "awards": null,
+   "icon": "",
+   "name": "Puppet's Fervor",
+   "name_th": "Puppet's Fervor",
+   "describe": "All Bosses on the Cubic Board have a star level of +1. Magic Boxes have a star level of -2.",
+   "describe_th": "บอสทุกตัวบนกระดานคิวบิกจะมี Lv.ดาวเท่ากับ +1 Magic Box จะมี Lv.ดาวเท่ากับ -2"
+  },
+  {
+   "id": 34,
+   "diff": 3,
+   "type": 5,
+   "quality": 4,
+   "weight": 0,
+   "params": [
+    7
+   ],
+   "effect": [
+    4
+   ],
+   "condition": null,
+   "awards": null,
+   "icon": "",
+   "name": "Puppet's Prayer",
+   "name_th": "Puppet's Prayer",
+   "describe": "All Bosses on the Cubic Board have a star level of -1. Magic Boxes have a star level of +2.",
+   "describe_th": "บอสทุกตัวบนกระดานคิวบิกจะมี Lv.ดาวเท่ากับ -1 Magic Box จะมี Lv.ดาวเท่ากับ +2"
+  },
+  {
+   "id": 35,
+   "diff": 4,
+   "type": 5,
+   "quality": 7,
+   "weight": 10,
+   "params": [
+    7
+   ],
+   "effect": [
+    1
+   ],
+   "condition": null,
+   "awards": null,
+   "icon": "T_UI_Card_Icon_Boost_Entire",
+   "name": "Puppet's Pardon",
+   "name_th": "Puppet's Pardon",
+   "describe": "All Animuses on the Cubic Board reach star level +1.",
+   "describe_th": "Animus ทุกตัวที่อยู่ในกระดานคิวบิกมี Lv.ดาวถึง +1"
+  },
+  {
+   "id": 36,
+   "diff": 1,
+   "type": 6,
+   "quality": 1,
+   "weight": 100,
+   "params": [
+    1
+   ],
+   "effect": [
+    7
+   ],
+   "condition": null,
+   "awards": null,
+   "icon": "T_UI_Card_Icon_Effect_Vertical",
+   "name": "Vertical Bonus",
+   "name_th": "โบนัสแนวตั้ง",
+   "describe": "The empowerment effect of all Power Blessings within the range is +1.",
+   "describe_th": "เอฟเฟ็กต์การเพิ่มพลังของ Power Blessing ทั้งหมดภายในระยะคือ +1"
+  },
+  {
+   "id": 37,
+   "diff": 1,
+   "type": 6,
+   "quality": 1,
+   "weight": 100,
+   "params": [
+    2
+   ],
+   "effect": [
+    7
+   ],
+   "condition": null,
+   "awards": null,
+   "icon": "T_UI_Card_Icon_Effect_Horizontal",
+   "name": "Horizontal Bonus",
+   "name_th": "โบนัสแนวนอน",
+   "describe": "The empowerment effect of all Power Blessings within the range is +1.",
+   "describe_th": "เอฟเฟ็กต์การเพิ่มพลังของ Power Blessing ทั้งหมดภายในระยะคือ +1"
+  },
+  {
+   "id": 38,
+   "diff": 1,
+   "type": 6,
+   "quality": 1,
+   "weight": 60,
+   "params": [
+    3
+   ],
+   "effect": [
+    7
+   ],
+   "condition": null,
+   "awards": null,
+   "icon": "T_UI_Card_Icon_Effect_Oblique",
+   "name": "Diagonal Bonus",
+   "name_th": "โบนัสแนวทแยง",
+   "describe": "The empowerment effect of all Power Blessings within the range is +1.",
+   "describe_th": "เอฟเฟ็กต์การเพิ่มพลังของ Power Blessing ทั้งหมดภายในระยะคือ +1"
+  },
+  {
+   "id": 39,
+   "diff": 3,
+   "type": 6,
+   "quality": 4,
+   "weight": 30,
+   "params": [
+    6
+   ],
+   "effect": [
+    7
+   ],
+   "condition": null,
+   "awards": null,
+   "icon": "T_UI_Card_Icon_Effect_surround",
+   "name": "Circular Bonus",
+   "name_th": "โบนัสวงรอบ",
+   "describe": "The empowerment effect of all Power Blessings within the range is +1.",
+   "describe_th": "เอฟเฟ็กต์การเพิ่มพลังของ Power Blessing ทั้งหมดภายในระยะคือ +1"
+  },
+  {
+   "id": 40,
+   "diff": 1,
+   "type": 6,
+   "quality": 7,
+   "weight": 30,
+   "params": null,
+   "effect": [
+    8
+   ],
+   "condition": null,
+   "awards": null,
+   "icon": "T_UI_Card_Icon_Effect_Summon",
+   "name": "Splitting Game",
+   "name_th": "Splitting Game",
+   "describe": "Select one from 3 Animus(es) and place them in the designated Base Grid.",
+   "describe_th": "เลือก Animus  1 ตัวจาก 3 ตัวและวางไว้บนกริดพื้นฐานที่กำหนด"
+  },
+  {
+   "id": 41,
+   "diff": 0,
+   "type": 6,
+   "quality": 4,
+   "weight": 0,
+   "params": null,
+   "effect": [
+    9
+   ],
+   "condition": null,
+   "awards": null,
+   "icon": "",
+   "name": "Puppet Herald",
+   "name_th": "Puppet Herald",
+   "describe": "Select one from 3 Magic Boxes and place it in the designated Base Grid.",
+   "describe_th": "เลือก Magic Box หนึ่งกล่องจาก 3 กล่องและวางไว้บนกริดพื้นฐานที่กำหนด"
+  },
+  {
+   "id": 42,
+   "diff": 3,
+   "type": 6,
+   "quality": 4,
+   "weight": 50,
+   "params": null,
+   "effect": [
+    10
+   ],
+   "condition": null,
+   "awards": null,
+   "icon": "T_UI_Card_Icon_Effect_Replacement",
+   "name": "Forced Switch",
+   "name_th": "Forced Switch",
+   "describe": "Replace one Animus on the Cubic Board. Select 1 from 3 options.",
+   "describe_th": "เลือก Animus 1 ตัวบนกระดานคิวบิก เลือกจาก 1 ใน 3 ตัวเลือก"
+  },
+  {
+   "id": 43,
+   "diff": 3,
+   "type": 6,
+   "quality": 4,
+   "weight": 50,
+   "params": null,
+   "effect": [
+    11
+   ],
+   "condition": null,
+   "awards": null,
+   "icon": "T_UI_Card_Icon_Effect_Switch",
+   "name": "Perfect Ritual",
+   "name_th": "Perfect Ritual",
+   "describe": "Swap the positions of any two Blessings/Animuses on the Cubic Board.",
+   "describe_th": "สลับตำแหน่งของ Blessing/Animus 2 อันบนกระดานคิวบิก"
+  },
+  {
+   "id": 44,
+   "diff": 2,
+   "type": 6,
+   "quality": 7,
+   "weight": 0,
+   "params": null,
+   "effect": [
+    12
+   ],
+   "condition": null,
+   "awards": null,
+   "icon": "",
+   "name": "Defiant Pardon",
+   "name_th": "Defiant Pardon",
+   "describe": "Dispel the magic fog, turning the Merge Grid into the Base Grid",
+   "describe_th": "สลายหมอกเวทมนตร์ เปลี่ยนกริดประสานให้เป็นกริดพื้นฐาน"
+  },
+  {
+   "id": 45,
+   "diff": 4,
+   "type": 6,
+   "quality": 7,
+   "weight": 60,
+   "params": null,
+   "effect": [
+    13
+   ],
+   "condition": null,
+   "awards": null,
+   "icon": "T_UI_Card_Icon_Effect_Rebuilding",
+   "name": "Cubic Healing",
+   "name_th": "Cubic Healing",
+   "describe": "Eliminate a Collapse spot, turning it into a random Power Blessing.",
+   "describe_th": "กำจัดจุดพังทลาย โดยเปลี่ยนเป็น Power Blessing แบบสุ่ม"
+  },
+  {
+   "id": 46,
+   "diff": 4,
+   "type": 6,
+   "quality": 7,
+   "weight": 15,
+   "params": null,
+   "effect": [
+    14
+   ],
+   "condition": null,
+   "awards": null,
+   "icon": "T_UI_Card_Icon_Effect_Copy",
+   "name": "Spirit Trickster",
+   "name_th": "Spirit Trickster",
+   "describe": "Copy a Blessing/Animuses from the Cubic Board and place it on the designated Base Grid.",
+   "describe_th": "คัดลอก Blessing/Animus ลงบนกระดานคิวบิกและวางไว้บนกริดพื้นฐานที่กำหนด"
+  },
+  {
+   "id": 47,
+   "diff": 3,
+   "type": 6,
+   "quality": 10,
+   "weight": 5,
+   "params": [
+    9
+   ],
+   "effect": [
+    15
+   ],
+   "condition": null,
+   "awards": null,
+   "icon": "T_UI_Card_Icon_Effect_Absorb",
+   "name": "Sleeping Feast",
+   "name_th": "Sleeping Feast",
+   "describe": "Uses Drainforce to absorb all Power Blessings within a diamond-shaped area, gaining their ranges and effects.",
+   "describe_th": "ดูด Power Blessing ทั้งหมดที่อยู่ในระยะรูปสี่เหลี่ยมข้าวหลามตัด และได้รับระยะและเอฟเฟ็กต์ของพรเหล่านั้น"
+  },
+  {
+   "id": 48,
+   "diff": 4,
+   "type": 5,
+   "quality": 10,
+   "weight": 0,
+   "params": null,
+   "effect": null,
+   "condition": null,
+   "awards": null,
+   "icon": "T_UI_Card_Icon_Boost_Custom",
+   "name": "Feast Blessing",
+   "name_th": "Feast Blessing",
+   "describe": "A powerful Blessing after absorbing the effects of Adjacent Power Blessings.",
+   "describe_th": "Blessing ทรงพลังหลังจากการดูดซับเอฟเฟ็กต์ของ Power Blessing ที่อยู่ติดกัน"
+  },
+  {
+   "id": 49,
+   "diff": 3,
+   "type": 5,
+   "quality": 4,
+   "weight": 50,
+   "params": [
+    8
+   ],
+   "effect": [
+    1
+   ],
+   "condition": null,
+   "awards": null,
+   "icon": "T_UI_Card_Icon_Boost_Cross",
+   "name": "Cross Boost",
+   "name_th": "บูสต์กากบาท",
+   "describe": "All Animuses within range reach star level +1.",
+   "describe_th": "Animus ทุกตัวที่อยู่ในระยะมี Lv.ดาวถึง +1"
+  },
+  {
+   "id": 50,
+   "diff": 2,
+   "type": 1,
+   "quality": 1,
+   "weight": 55,
+   "params": [
+    11110002,
+    11110002,
+    11110003,
+    11110004
+   ],
+   "effect": null,
+   "condition": [
+    30751,
+    40511
+   ],
+   "awards": [
+    1010101,
+    1010102,
+    1010103,
+    1010104,
+    1010105,
+    1010106,
+    1010107,
+    1010108,
+    1010109,
+    1010110,
+    1010111,
+    1010112
+   ],
+   "icon": "T_UI_Card_Icon_Jinbi_",
+   "name": "Lingluo",
+   "name_th": "Lingluo",
+   "describe": "Cantus Maris, Animus Lingluo awaits your challenge.",
+   "describe_th": "Cantus Maris, Animus Lingluo กำลังรอท้าทายของคุณ",
+   "describe2": "Accompanied by the leaping giant whale in the vortex, the distant blessing is echoing. Bestow the song to Eternity, and Lingluo will respond to the conflict with giant waves.",
+   "describe2_th": "พรจากแดนอันไกลโพ้นดังก้องกังวานไปพร้อมกับวาฬยักษ์ที่กระโจนเข้ามาในกระแสน้ำวน มอบบทเพลงให้กับความเป็นนิรันดร์ และ Lingluo จะตอบโต้ความขัดแย้งด้วยคลื่นยักษ์เช่นกัน"
+  },
+  {
+   "id": 51,
+   "diff": 2,
+   "type": 1,
+   "quality": 1,
+   "weight": 55,
+   "params": [
+    11120002,
+    11120002,
+    11120003,
+    11120004
+   ],
+   "effect": null,
+   "condition": [
+    30751,
+    40511
+   ],
+   "awards": [
+    1010121,
+    1010122,
+    1010123,
+    1010124,
+    1010125,
+    1010126,
+    1010127,
+    1010128,
+    1010129,
+    1010130,
+    1010131,
+    1010132
+   ],
+   "icon": "T_UI_Card_Icon_XunLian_",
+   "name": "Rilmocha",
+   "name_th": "Rilmocha",
+   "describe": "The \"Burst Sweety\" Animus Rilmocha awaits your challenge!",
+   "describe_th": "\"Burst Sweety\" Animus Rilmocha กำลังรอคุณท้าทาย!",
+   "describe2": "Don't be fooled by her petite, sweet appearance—Rilmocha's monstrous strength can unleash chaos even when she's not paying attention! Never underestimate her power!",
+   "describe2_th": "อย่าหลงกลรูปลักษณ์ที่เล็กและน่ารักของเธอเชียว เพราะพละกำลังมหาศาลของ Rilmocha สามารถปลดปล่อยพลังอันโกลาหลได้แม้ว่าเธอจะไม่ได้สนใจก็ตาม! ห้ามมองข้ามเด็ดขาด!"
+  },
+  {
+   "id": 52,
+   "diff": 3,
+   "type": 5,
+   "quality": 4,
+   "weight": 0,
+   "params": [
+    9
+   ],
+   "effect": [
+    1
+   ],
+   "condition": null,
+   "awards": null,
+   "icon": "T_UI_Card_Icon_Boost_Diamond",
+   "name": "Diamond-Shaped Power Blessing",
+   "name_th": "Diamond Boost",
+   "describe": "All Animuses within range reach star level +1.",
+   "describe_th": "Animus ทุกตัวที่อยู่ในระยะมี Lv.ดาวถึง +1"
+  }
+ ],
+ "text_chunk": "00161_0e56e1ea375ec18d.json"
+}

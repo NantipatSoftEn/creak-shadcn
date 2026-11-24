@@ -1,0 +1,121 @@
+{
+ "config": "activity_componentforge",
+ "fields": [
+  "id",
+  "energy",
+  "reward"
+ ],
+ "rows": [
+  {
+   "id": 1,
+   "energy": 0,
+   "reward": [
+    {
+     "id": 25101,
+     "count": 5
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "energy": 10,
+   "reward": [
+    {
+     "id": 25101,
+     "count": 20
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "energy": 20,
+   "reward": [
+    {
+     "id": 10505,
+     "count": 5
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "energy": 30,
+   "reward": [
+    {
+     "id": 10509,
+     "count": 10
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "energy": 40,
+   "reward": [
+    {
+     "id": 25101,
+     "count": 20
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "energy": 50,
+   "reward": [
+    {
+     "id": 10611,
+     "count": 1
+    }
+   ]
+  },
+  {
+   "id": 7,
+   "energy": 60,
+   "reward": [
+    {
+     "id": 10509,
+     "count": 10
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "energy": 70,
+   "reward": [
+    {
+     "id": 25101,
+     "count": 20
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "energy": 80,
+   "reward": [
+    {
+     "id": 10509,
+     "count": 10
+    }
+   ]
+  },
+  {
+   "id": 10,
+   "energy": 90,
+   "reward": [
+    {
+     "id": 10505,
+     "count": 5
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "energy": 100,
+   "reward": [
+    {
+     "id": 10509,
+     "count": 20
+    }
+   ]
+  }
+ ],
+ "text_chunk": null
+}

@@ -1,0 +1,76 @@
+{
+ "config": "afk_storyline",
+ "fields": [
+  "id",
+  "npc_cst_id",
+  "name",
+  "chat"
+ ],
+ "rows": [
+  {
+   "id": 1,
+   "npc_cst_id": 30036,
+   "name": "Xiada",
+   "name_th": "Xiada",
+   "chat": "Welcome to Desynced Recursion, brought to you by DOKI Entertainment. Fight alongside us!",
+   "chat_th": "ยินดีต้อนรับสู่ Desynced Recursion นำเสนอโดย Doki Entertainment มาต่อสู้เคียงข้างกันเถอะ"
+  },
+  {
+   "id": 2,
+   "npc_cst_id": 30036,
+   "name": "Xiada",
+   "name_th": "Xiada",
+   "chat": "I'm Pixel Xiada, your guide for this adventure.",
+   "chat_th": "ฉันคือไกด์ของคุณในเซสชันนี้ Pixel Xiada"
+  },
+  {
+   "id": 3,
+   "npc_cst_id": 30036,
+   "name": "Xiada",
+   "name_th": "Xiada",
+   "chat": "Here, the system uses the simulated personality data you've uploaded to generate pixel Animuses and build a squad just for you.",
+   "chat_th": "ที่นี่ ระบบจะสร้าง Pixel Animus ที่สอดคล้องกันตามข้อมูลบุคลิกภาพจำลองที่คุณอัปโหลด กลายเป็นกองกำลังต่อสู้พิเศษเฉพาะของคุณ"
+  },
+  {
+   "id": 4,
+   "npc_cst_id": 30036,
+   "name": "Xiada",
+   "name_th": "Xiada",
+   "chat": "Your squad will venture into pixel battlefields built from combat data on its own. They'll explore, keep fighting, and hunt down pixel phantoms that carry data viruses.",
+   "chat_th": "กองกำลังจะบุกลึกเข้าไปในสนามรบพิกเซลที่สร้างขึ้นจากข้อมูลการต่อสู้ สำรวจและต่อสู้ด้วยตัวเอง ล่าล้างเงาพิกเซลที่พกพาไวรัสข้อมูล"
+  },
+  {
+   "id": 5,
+   "npc_cst_id": 30050,
+   "name": "Kloss",
+   "name_th": "Kloss",
+   "chat": "So... it's basically like raising a bunch of digital pets?",
+   "chat_th": "ฟังดูเหมือนกับการเลี้ยงสัตว์เลี้ยงดิจิทัลกลุ่มหนึ่งเลย?"
+  },
+  {
+   "id": 6,
+   "npc_cst_id": 30036,
+   "name": "Xiada",
+   "name_th": "Xiada",
+   "chat": "In a way, yes. But these \"digital pets\" might surprise you with what they bring home.",
+   "chat_th": "ก็ประมาณนั้นแหละ แต่ \"สัตว์เลี้ยงดิจิทัล\" พวกนี้ก็สามารถมอบความประหลาดใจและรางวัลที่ไม่คาดคิดให้คุณได้เหมือนกัน"
+  },
+  {
+   "id": 7,
+   "npc_cst_id": 30043,
+   "name": "Lian",
+   "name_th": "Lian",
+   "chat": "Want to know how it works? Try it yourself and you'll see.",
+   "chat_th": "คุณจะรู้ก็ต่อเมื่อได้ลองด้วยตัวเองเท่านั้น"
+  },
+  {
+   "id": 8,
+   "npc_cst_id": 30036,
+   "name": "Xiada",
+   "name_th": "Xiada",
+   "chat": "Let's move out, Hyperlinker!",
+   "chat_th": "ไปเลย ไฮเปอร์ลิงเกอร์!"
+  }
+ ],
+ "text_chunk": "00034_f8f5721f32f42a31.json"
+}

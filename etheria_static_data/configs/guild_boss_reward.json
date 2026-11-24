@@ -1,0 +1,231 @@
+{
+ "config": "guild_boss_reward",
+ "fields": [
+  "dungeon_level",
+  "reward_list",
+  "description"
+ ],
+ "rows": {
+  "7001010": {
+   "dungeon_level": 7001010,
+   "reward_list": [
+    {
+     "id": 28151,
+     "count": 1
+    }
+   ],
+   "description": "Union members defeat Wyrm (Normal) 1 time(s).",
+   "description_th": "สมาชิกสหพันธ์ปราบ Wyrm (ธรรมดา) 1 ครั้ง"
+  },
+  "7001020": {
+   "dungeon_level": 7001020,
+   "reward_list": [
+    {
+     "id": 28152,
+     "count": 1
+    }
+   ],
+   "description": "Guild Members defeat Wyrm (Hard) 1 time(s).",
+   "description_th": "สมาชิกสหพันธ์ปราบ Wyrm (ยาก) 1 ครั้ง"
+  },
+  "7001030": {
+   "dungeon_level": 7001030,
+   "reward_list": [
+    {
+     "id": 28153,
+     "count": 1
+    }
+   ],
+   "description": "Guild Members defeat Wyrm (Nightmare) 1 time(s).",
+   "description_th": "สมาชิกสหพันธ์ปราบ Wyrm (ฝันร้าย) 1 ครั้ง"
+  },
+  "7001040": {
+   "dungeon_level": 7001040,
+   "reward_list": [
+    {
+     "id": 28153,
+     "count": 1
+    }
+   ],
+   "description": "Guild Members defeat Wyrm (Nightmare) 1 time(s).",
+   "description_th": "สมาชิกสหพันธ์ปราบ Wyrm (ฝันร้าย) 1 ครั้ง"
+  },
+  "7002010": {
+   "dungeon_level": 7002010,
+   "reward_list": [
+    {
+     "id": 28151,
+     "count": 1
+    }
+   ],
+   "description": "Union members defeat Wyrm (Normal) 1 time(s).",
+   "description_th": "สมาชิกสหพันธ์ปราบ Wyrm (ธรรมดา) 1 ครั้ง"
+  },
+  "7002020": {
+   "dungeon_level": 7002020,
+   "reward_list": [
+    {
+     "id": 28152,
+     "count": 1
+    }
+   ],
+   "description": "Guild Members defeat Wyrm (Hard) 1 time(s).",
+   "description_th": "สมาชิกสหพันธ์ปราบ Wyrm (ยาก) 1 ครั้ง"
+  },
+  "7002030": {
+   "dungeon_level": 7002030,
+   "reward_list": [
+    {
+     "id": 28153,
+     "count": 1
+    }
+   ],
+   "description": "Guild Members defeat Wyrm (Nightmare) 1 time(s).",
+   "description_th": "สมาชิกสหพันธ์ปราบ Wyrm (ฝันร้าย) 1 ครั้ง"
+  },
+  "7002040": {
+   "dungeon_level": 7002040,
+   "reward_list": [
+    {
+     "id": 28153,
+     "count": 1
+    }
+   ],
+   "description": "Guild Members defeat Wyrm (Nightmare) 1 time(s).",
+   "description_th": "สมาชิกสหพันธ์ปราบ Wyrm (ฝันร้าย) 1 ครั้ง"
+  },
+  "7003010": {
+   "dungeon_level": 7003010,
+   "reward_list": [
+    {
+     "id": 28151,
+     "count": 1
+    }
+   ],
+   "description": "Union members defeat Wyrm (Normal) 1 time(s).",
+   "description_th": "สมาชิกสหพันธ์ปราบ Wyrm (ธรรมดา) 1 ครั้ง"
+  },
+  "7003020": {
+   "dungeon_level": 7003020,
+   "reward_list": [
+    {
+     "id": 28152,
+     "count": 1
+    }
+   ],
+   "description": "Guild Members defeat Wyrm (Hard) 1 time(s).",
+   "description_th": "สมาชิกสหพันธ์ปราบ Wyrm (ยาก) 1 ครั้ง"
+  },
+  "7003030": {
+   "dungeon_level": 7003030,
+   "reward_list": [
+    {
+     "id": 28153,
+     "count": 1
+    }
+   ],
+   "description": "Guild Members defeat Wyrm (Nightmare) 1 time(s).",
+   "description_th": "สมาชิกสหพันธ์ปราบ Wyrm (ฝันร้าย) 1 ครั้ง"
+  },
+  "7003040": {
+   "dungeon_level": 7003040,
+   "reward_list": [
+    {
+     "id": 28153,
+     "count": 1
+    }
+   ],
+   "description": "Guild Members defeat Wyrm (Nightmare) 1 time(s).",
+   "description_th": "สมาชิกสหพันธ์ปราบ Wyrm (ฝันร้าย) 1 ครั้ง"
+  },
+  "7004010": {
+   "dungeon_level": 7004010,
+   "reward_list": [
+    {
+     "id": 28151,
+     "count": 1
+    }
+   ],
+   "description": "Union members defeat Wyrm (Normal) 1 time(s).",
+   "description_th": "สมาชิกสหพันธ์ปราบ Wyrm (ธรรมดา) 1 ครั้ง"
+  },
+  "7004020": {
+   "dungeon_level": 7004020,
+   "reward_list": [
+    {
+     "id": 28152,
+     "count": 1
+    }
+   ],
+   "description": "Guild Members defeat Wyrm (Hard) 1 time(s).",
+   "description_th": "สมาชิกสหพันธ์ปราบ Wyrm (ยาก) 1 ครั้ง"
+  },
+  "7004030": {
+   "dungeon_level": 7004030,
+   "reward_list": [
+    {
+     "id": 28153,
+     "count": 1
+    }
+   ],
+   "description": "Guild Members defeat Wyrm (Nightmare) 1 time(s).",
+   "description_th": "สมาชิกสหพันธ์ปราบ Wyrm (ฝันร้าย) 1 ครั้ง"
+  },
+  "7004040": {
+   "dungeon_level": 7004040,
+   "reward_list": [
+    {
+     "id": 28153,
+     "count": 1
+    }
+   ],
+   "description": "Guild Members defeat Wyrm (Nightmare) 1 time(s).",
+   "description_th": "สมาชิกสหพันธ์ปราบ Wyrm (ฝันร้าย) 1 ครั้ง"
+  },
+  "7005010": {
+   "dungeon_level": 7005010,
+   "reward_list": [
+    {
+     "id": 28151,
+     "count": 1
+    }
+   ],
+   "description": "Union members defeat Wyrm (Normal) 1 time(s).",
+   "description_th": "สมาชิกสหพันธ์ปราบ Wyrm (ธรรมดา) 1 ครั้ง"
+  },
+  "7005020": {
+   "dungeon_level": 7005020,
+   "reward_list": [
+    {
+     "id": 28152,
+     "count": 1
+    }
+   ],
+   "description": "Guild Members defeat Wyrm (Hard) 1 time(s).",
+   "description_th": "สมาชิกสหพันธ์ปราบ Wyrm (ยาก) 1 ครั้ง"
+  },
+  "7005030": {
+   "dungeon_level": 7005030,
+   "reward_list": [
+    {
+     "id": 28153,
+     "count": 1
+    }
+   ],
+   "description": "Guild Members defeat Wyrm (Nightmare) 1 time(s).",
+   "description_th": "สมาชิกสหพันธ์ปราบ Wyrm (ฝันร้าย) 1 ครั้ง"
+  },
+  "7005040": {
+   "dungeon_level": 7005040,
+   "reward_list": [
+    {
+     "id": 28153,
+     "count": 1
+    }
+   ],
+   "description": "Guild Members defeat Wyrm (Nightmare) 1 time(s).",
+   "description_th": "สมาชิกสหพันธ์ปราบ Wyrm (ฝันร้าย) 1 ครั้ง"
+  }
+ },
+ "text_chunk": "00083_9eb22b4d7fc12c5f.json"
+}

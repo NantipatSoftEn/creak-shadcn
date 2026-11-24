@@ -1,0 +1,45 @@
+{
+ "config": "afk_draw",
+ "fields": [
+  "id",
+  "cost_items",
+  "normal_loot",
+  "pity_n",
+  "pity_loot",
+  "unlock_level",
+  "name"
+ ],
+ "rows": {
+  "1001": {
+   "id": 1001,
+   "cost_items": "21004,1",
+   "normal_loot": 70501,
+   "pity_n": 1000,
+   "pity_loot": 70501,
+   "unlock_level": 3,
+   "name": "Basic Disinter",
+   "name_th": "Basic Disinter"
+  },
+  "1002": {
+   "id": 1002,
+   "cost_items": "21005,1",
+   "normal_loot": 70502,
+   "pity_n": 1000,
+   "pity_loot": 70502,
+   "unlock_level": 150,
+   "name": "Advanced Disinter",
+   "name_th": "Advanced Disinter"
+  },
+  "1003": {
+   "id": 1003,
+   "cost_items": "21006,1",
+   "normal_loot": 70503,
+   "pity_n": 1000,
+   "pity_loot": 70503,
+   "unlock_level": 300,
+   "name": "Hyper Disinter",
+   "name_th": "Hyper Disinter"
+  }
+ },
+ "text_chunk": "00025_c0bd43f0af1f6488.json"
+}

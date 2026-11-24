@@ -1,0 +1,13 @@
+{
+ "config": "gm_cmd_config",
+ "fields": [
+  "id",
+  "desc",
+  "cmd",
+  "param",
+  "custom_widget",
+  "tooltip",
+  "custom_param"
+ ],
+ "rows": {}
+}

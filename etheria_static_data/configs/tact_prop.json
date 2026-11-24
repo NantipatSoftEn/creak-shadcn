@@ -1,0 +1,393 @@
+{
+ "config": "tact_prop",
+ "fields": [
+  "id",
+  "prop_id_list",
+  "is_negative",
+  "decimal",
+  "style",
+  "name",
+  "desc"
+ ],
+ "rows": [
+  {
+   "id": 1,
+   "prop_id_list": [
+    8
+   ],
+   "is_negative": false,
+   "decimal": 0,
+   "style": 1,
+   "name": "CRIT DMG Boost",
+   "name_th": "เพิ่ม CRIT DMG",
+   "desc": "Increases the Animus's CRIT DMG by <key>{1}</>.",
+   "desc_th": "เพิ่ม CRIT DMG ของ Animus <key>{1}</>"
+  },
+  {
+   "id": 2,
+   "prop_id_list": [
+    4
+   ],
+   "is_negative": false,
+   "decimal": 0,
+   "style": 1,
+   "name": "Healing Boost",
+   "name_th": "เพิ่มการรักษา",
+   "desc": "Increases final healing granted by the Animus by <key>{1}</>.",
+   "desc_th": "เพิ่มปริมาณการรักษาที่ Animus สร้างขึ้น <key>{1}</>"
+  },
+  {
+   "id": 3,
+   "prop_id_list": [
+    12
+   ],
+   "is_negative": false,
+   "decimal": 0,
+   "style": 1,
+   "name": "Shield Boost",
+   "name_th": "เพิ่มโล่",
+   "desc": "Increases Shield provided by the Animus by <key>{1}</>.",
+   "desc_th": "เพิ่มโล่ที่ Animus มอบให้ <key>{1}</>"
+  },
+  {
+   "id": 4,
+   "prop_id_list": [
+    16
+   ],
+   "is_negative": false,
+   "decimal": 1,
+   "style": 1,
+   "name": "Effect ACC Boost",
+   "name_th": "เพิ่ม ACC",
+   "desc": "Increases the Animus's Effect ACC by <key>{1}</>.",
+   "desc_th": "เพิ่ม Effect ACC ของ Animus <key>{1}</>"
+  },
+  {
+   "id": 5,
+   "prop_id_list": [
+    173
+   ],
+   "is_negative": false,
+   "decimal": 1,
+   "style": 1,
+   "name": "Effect RES Boost",
+   "name_th": "เพิ่ม RES",
+   "desc": "Increases the Animus's Effect RES by <key>{1}</>.",
+   "desc_th": "เพิ่ม Effect RES ของ Animus <key>{1}</>"
+  },
+  {
+   "id": 6,
+   "prop_id_list": [
+    176
+   ],
+   "is_negative": true,
+   "decimal": 1,
+   "style": 1,
+   "name": "DMG Boost",
+   "name_th": "เพิ่ม DMG",
+   "desc": "Increases final damage dealt by the Animus by <key>{1}</>.",
+   "desc_th": "เพิ่ม DMG สุดท้ายที่ Animus สร้างขึ้น <key>{1}</>"
+  },
+  {
+   "id": 7,
+   "prop_id_list": [
+    179
+   ],
+   "is_negative": false,
+   "decimal": 1,
+   "style": 1,
+   "name": "Resonance",
+   "name_th": "Resonance",
+   "desc": "In battle, when the Animus has 3 or more types of buffs, their final damage dealt increases by <key>{1}</>.",
+   "desc_th": "เมื่อ Animus มีบัฟ 3 อันหรือมากกว่าในการต่อสู้ จะเพิ่ม DMG สุดท้ายที่สร้างขึ้น <key>{1}</>"
+  },
+  {
+   "id": 8,
+   "prop_id_list": [
+    105
+   ],
+   "is_negative": false,
+   "decimal": 1,
+   "style": 0,
+   "name": "Shadow Strike",
+   "name_th": "Shadow Strike",
+   "desc": "At the end of each turn in battle, the Animus's final damage dealt increases by <key>{1}</>. Stacks up to <key>5</> times.",
+   "desc_th": "เมื่อสิ้นสุดแต่ละเทิร์นในการต่อสู้ เพิ่ม DMG สุดท้ายที่ Animus สร้างขึ้น <key>{1}</> สูงสุด <key>5</> สแตก"
+  },
+  {
+   "id": 9,
+   "prop_id_list": [
+    43
+   ],
+   "is_negative": true,
+   "decimal": 1,
+   "style": 2,
+   "name": "Energy Burst",
+   "name_th": "Energy Burst",
+   "desc": "In battle, when the Animus's HP is above <key>85%</>, their final damage dealt increases by <key>{1}</>.",
+   "desc_th": "เมื่อ Animus มี HP มากกว่า <key>85%</> ในการต่อสู้ จะเพิ่ม DMG สุดท้ายที่สร้างขึ้น <key>{1}</>"
+  },
+  {
+   "id": 10,
+   "prop_id_list": [
+    49,
+    96
+   ],
+   "is_negative": false,
+   "decimal": 1,
+   "style": 2,
+   "name": "DMG Reduction",
+   "name_th": "ลด DMG",
+   "desc": "Reduces final damage taken by the Animus by <key>{1}</>.",
+   "desc_th": "ลด DMG สุดท้ายที่ Animus ได้รับ <key>{1}</>"
+  },
+  {
+   "id": 11,
+   "prop_id_list": [
+    7
+   ],
+   "is_negative": false,
+   "decimal": 1,
+   "style": 2,
+   "name": "Defensive Stance",
+   "name_th": "Defensive Stance",
+   "desc": "In battle, if the Animus has not dealt damage this turn, their final damage taken is reduced by <key>{1}</>. Stacks up to <key>3</> times.",
+   "desc_th": "หาก Animus ไม่ได้สร้าง DMG ในเทิร์นนั้น จะลด DMG สุดท้ายที่ได้รับ <key>{1}</> สูงสุด <key>3</> สแตก"
+  },
+  {
+   "id": 12,
+   "prop_id_list": [
+    3
+   ],
+   "is_negative": false,
+   "decimal": 1,
+   "style": 2,
+   "name": "Synergy",
+   "name_th": "Synergy",
+   "desc": "In battle, when the Animus heals a target or applies a Shield, the target's final damage dealt increases by <key>{1}</>. Stacks up to <key>5</> times.",
+   "desc_th": "เมื่อ Animus ให้การรักษาหรือโล่ในการต่อสู้ จะเพิ่ม DMG สุดท้ายที่เป้าหมายสร้างขึ้น <key>{1}</> สูงสุด <key>5</> สแตก"
+  },
+  {
+   "id": 13,
+   "prop_id_list": [
+    11
+   ],
+   "is_negative": false,
+   "decimal": 1,
+   "style": 2,
+   "name": "Insight",
+   "name_th": "Insight",
+   "desc": "At the start of battle, the Animus's Effect RES and Effect ACC increase by <key>{1}</>. At the end of each of their turns, this bonus is reduced by <key>20%</>.",
+   "desc_th": "เมื่อเริ่มการต่อสู้ เพิ่ม Effect RES และ Effect ACC ของ Animus <key>{1}</> เอฟเฟกต์นี้จะลดลง <key>20%</> เมื่อสิ้นสุดแต่ละเทิร์น"
+  },
+  {
+   "id": 14,
+   "prop_id_list": [
+    25
+   ],
+   "is_negative": false,
+   "decimal": 1,
+   "style": 2,
+   "name": "Gaze",
+   "name_th": "Gaze",
+   "desc": "At the end of each turn, the Animus's Effect ACC increases by <key>{1}</>. Stacks up to <key>5</> times.",
+   "desc_th": "เมื่อสิ้นสุดแต่ละเทิร์น เพิ่ม Effect ACC ของ Animus <key>{1}</> สูงสุด <key>5</> สแตก"
+  },
+  {
+   "id": 15,
+   "prop_id_list": [
+    28
+   ],
+   "is_negative": false,
+   "decimal": 1,
+   "style": 2,
+   "name": "Reason Amp",
+   "name_th": "Reason Amp",
+   "desc": "Increases final damage dealt by <Attr_1>Reason</> Animuses by <key>{1}</>.",
+   "desc_th": "เพิ่ม DMG สุดท้ายที่ Animus ประเภท <Attr_1>Reason</> สร้างขึ้น <key>{1}</>"
+  },
+  {
+   "id": 16,
+   "prop_id_list": [
+    182
+   ],
+   "is_negative": false,
+   "decimal": 1,
+   "style": 2,
+   "name": "Odd Amp",
+   "name_th": "Odd Amp",
+   "desc": "Increases final damage dealt by <Attr_2>Odd</> Animuses by <key>{1}</>.",
+   "desc_th": "เพิ่ม DMG สุดท้ายที่ Animus ประเภท <Attr_2>Odd</> สร้างขึ้น <key>{1}</>"
+  },
+  {
+   "id": 17,
+   "prop_id_list": [
+    185
+   ],
+   "is_negative": true,
+   "decimal": 1,
+   "style": 2,
+   "name": "Hollow Amp",
+   "name_th": "Hollow Amp",
+   "desc": "Increases final damage dealt by <Attr_3>Hollow</> Animuses by <key>{1}</>.",
+   "desc_th": "เพิ่ม DMG สุดท้ายที่ Animus ประเภท <Attr_3>Hollow</> สร้างขึ้น <key>{1}</>"
+  },
+  {
+   "id": 18,
+   "prop_id_list": [
+    188
+   ],
+   "is_negative": false,
+   "decimal": 1,
+   "style": 2,
+   "name": "Constant Amp",
+   "name_th": "Constant Amp",
+   "desc": "Increases final damage dealt by <Attr_5>Constant</> Animuses by <key>{1}</>.",
+   "desc_th": "เพิ่ม DMG สุดท้ายที่ Animus ประเภท <Attr_5>Constant</> สร้างขึ้น <key>{1}</>"
+  },
+  {
+   "id": 19,
+   "prop_id_list": [
+    191
+   ],
+   "is_negative": true,
+   "decimal": 1,
+   "style": 2,
+   "name": "Disorder Amp",
+   "name_th": "Disorder Amp",
+   "desc": "Increases final damage dealt by <Attr_4>Disorder</> Animuses by <key>{1}</>.",
+   "desc_th": "เพิ่ม DMG สุดท้ายที่ Animus ประเภท <Attr_4>Disorder</> สร้างขึ้น <key>{1}</>"
+  },
+  {
+   "id": 20,
+   "prop_id_list": [
+    99
+   ],
+   "is_negative": false,
+   "decimal": 1,
+   "style": 0,
+   "name": "ATK Boost",
+   "name_th": "ATK เพิ่มขึ้น",
+   "desc": "Increases the Animus's Base ATK by <key>{1}</>.",
+   "desc_th": "เพิ่ม ATK พื้นฐานของ Animus <key>{1}</>"
+  },
+  {
+   "id": 21,
+   "prop_id_list": [
+    102
+   ],
+   "is_negative": false,
+   "decimal": 1,
+   "style": 0,
+   "name": "HP Boost",
+   "name_th": "HP เพิ่มขึ้น",
+   "desc": "Increases the Animus's Base HP by <key>{1}</>.",
+   "desc_th": "เพิ่ม HP พื้นฐานของ Animus <key>{1}</>"
+  },
+  {
+   "id": 22,
+   "prop_id_list": [
+    194
+   ],
+   "is_negative": false,
+   "decimal": 1,
+   "style": 2,
+   "name": "DEF Boost",
+   "name_th": "DEF เพิ่มขึ้น",
+   "desc": "Increases the Animus's Base DEF by <key>{1}</>.",
+   "desc_th": "เพิ่ม DEF พื้นฐานของ Animus <key>{1}</>"
+  },
+  {
+   "id": 23,
+   "prop_id_list": [
+    197
+   ],
+   "is_negative": true,
+   "decimal": 1,
+   "style": 2,
+   "name": "SPD Boost",
+   "name_th": "SPD เพิ่มขึ้น",
+   "desc": "Increases the Animus's Base SPD by <key>{1}</>.",
+   "desc_th": "เพิ่ม SPD พื้นฐานของ Animus <key>{1}</>"
+  },
+  {
+   "id": 24,
+   "prop_id_list": [
+    46
+   ],
+   "is_negative": false,
+   "decimal": 1,
+   "style": 2,
+   "name": "CRIT Rate Boost",
+   "name_th": "CRIT Rate↑",
+   "desc": "Increases the Animus's CRIT Rate by <key>{1}</>.",
+   "desc_th": "เพิ่ม CRIT Rate ของ Animus <key>{1}</>"
+  },
+  {
+   "id": 25,
+   "prop_id_list": [
+    93
+   ],
+   "is_negative": false,
+   "decimal": 1,
+   "style": 2,
+   "name": "Follow-up Attack Rate Boost",
+   "name_th": "เพิ่มอัตราโจมตีตามซ้ำ",
+   "desc": "Increases the Animus's Follow-up Attack Rate by <key>{1}</>.",
+   "desc_th": "เพิ่มอัตราโจมตีตามซ้ำของ Animus <key>{1}</>"
+  },
+  {
+   "id": 26,
+   "prop_id_list": [
+    58
+   ],
+   "is_negative": false,
+   "decimal": 1,
+   "style": 2,
+   "name": "Counterattack Rate Boost",
+   "name_th": "เพิ่มอัตราโจมตีสวนกลับ",
+   "desc": "Increases the Animus's Counterattack Rate by <key>{1}</>.",
+   "desc_th": "เพิ่มอัตราโจมตีสวนกลับของ Animus <key>{1}</>"
+  },
+  {
+   "id": 27,
+   "prop_id_list": [
+    22
+   ],
+   "is_negative": false,
+   "decimal": 1,
+   "style": 2,
+   "name": "Time Rate Boost",
+   "name_th": "เพิ่ม Time Rate",
+   "desc": "Increases the Animus's Time Rate by <key>{1}</>.",
+   "desc_th": "เพิ่ม Time Rate ของ Animus <key>{1}</>"
+  },
+  {
+   "id": 28,
+   "prop_id_list": [
+    16
+   ],
+   "is_negative": false,
+   "decimal": 1,
+   "style": 0,
+   "name": "Shield Boost",
+   "name_th": "เพิ่มโล่",
+   "desc": "Increases Shield received by the Animus by <key>{1}</>.",
+   "desc_th": "เพิ่มโล่ที่ Animus ได้รับ <key>{1}</>"
+  },
+  {
+   "id": 29,
+   "prop_id_list": [
+    25
+   ],
+   "is_negative": false,
+   "decimal": 1,
+   "style": 0,
+   "name": "Healing Boost",
+   "name_th": "เพิ่มการรักษา",
+   "desc": "Increases healing received by the Animus by <key>{1}</>.",
+   "desc_th": "เพิ่มปริมาณการรักษาที่ Animus ได้รับ <key>{1}</>"
+  }
+ ],
+ "text_chunk": "00023_38ba8908d1253eb7.json"
+}

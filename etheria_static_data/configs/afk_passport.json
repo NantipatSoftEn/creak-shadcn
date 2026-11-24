@@ -1,0 +1,1050 @@
+{
+ "config": "afk_passport",
+ "fields": [
+  "milestone_id",
+  "unlock_level_count",
+  "afk_rewards",
+  "world_rewards",
+  "key_rewards"
+ ],
+ "rows": [
+  {
+   "milestone_id": 1,
+   "unlock_level_count": 5,
+   "afk_rewards": [
+    {
+     "id": 21001,
+     "count": 200
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 10111,
+     "count": 1
+    }
+   ],
+   "key_rewards": 0
+  },
+  {
+   "milestone_id": 2,
+   "unlock_level_count": 10,
+   "afk_rewards": [
+    {
+     "id": 21007,
+     "count": 100
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 26105,
+     "count": 1
+    }
+   ],
+   "key_rewards": 0
+  },
+  {
+   "milestone_id": 3,
+   "unlock_level_count": 20,
+   "afk_rewards": [
+    {
+     "id": 21004,
+     "count": 1
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 26105,
+     "count": 1
+    }
+   ],
+   "key_rewards": 0
+  },
+  {
+   "milestone_id": 4,
+   "unlock_level_count": 30,
+   "afk_rewards": [
+    {
+     "id": 21008,
+     "count": 12
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 10207,
+     "count": 1
+    }
+   ],
+   "key_rewards": 1
+  },
+  {
+   "milestone_id": 5,
+   "unlock_level_count": 40,
+   "afk_rewards": [
+    {
+     "id": 21007,
+     "count": 120
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 26105,
+     "count": 1
+    }
+   ],
+   "key_rewards": 0
+  },
+  {
+   "milestone_id": 6,
+   "unlock_level_count": 50,
+   "afk_rewards": [
+    {
+     "id": 21004,
+     "count": 1
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 26105,
+     "count": 1
+    }
+   ],
+   "key_rewards": 0
+  },
+  {
+   "milestone_id": 7,
+   "unlock_level_count": 60,
+   "afk_rewards": [
+    {
+     "id": 21008,
+     "count": 12
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 10612,
+     "count": 10
+    }
+   ],
+   "key_rewards": 1
+  },
+  {
+   "milestone_id": 8,
+   "unlock_level_count": 70,
+   "afk_rewards": [
+    {
+     "id": 21007,
+     "count": 140
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 26105,
+     "count": 1
+    }
+   ],
+   "key_rewards": 0
+  },
+  {
+   "milestone_id": 9,
+   "unlock_level_count": 80,
+   "afk_rewards": [
+    {
+     "id": 21004,
+     "count": 1
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 26105,
+     "count": 1
+    }
+   ],
+   "key_rewards": 0
+  },
+  {
+   "milestone_id": 10,
+   "unlock_level_count": 90,
+   "afk_rewards": [
+    {
+     "id": 21008,
+     "count": 12
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 10179,
+     "count": 1
+    }
+   ],
+   "key_rewards": 1
+  },
+  {
+   "milestone_id": 11,
+   "unlock_level_count": 100,
+   "afk_rewards": [
+    {
+     "id": 21007,
+     "count": 160
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 26105,
+     "count": 1
+    }
+   ],
+   "key_rewards": 0
+  },
+  {
+   "milestone_id": 12,
+   "unlock_level_count": 110,
+   "afk_rewards": [
+    {
+     "id": 21004,
+     "count": 1
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 26105,
+     "count": 1
+    }
+   ],
+   "key_rewards": 0
+  },
+  {
+   "milestone_id": 13,
+   "unlock_level_count": 120,
+   "afk_rewards": [
+    {
+     "id": 21008,
+     "count": 12
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 10506,
+     "count": 10
+    }
+   ],
+   "key_rewards": 1
+  },
+  {
+   "milestone_id": 14,
+   "unlock_level_count": 130,
+   "afk_rewards": [
+    {
+     "id": 21007,
+     "count": 180
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 26105,
+     "count": 1
+    }
+   ],
+   "key_rewards": 0
+  },
+  {
+   "milestone_id": 15,
+   "unlock_level_count": 140,
+   "afk_rewards": [
+    {
+     "id": 21004,
+     "count": 1
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 26105,
+     "count": 1
+    }
+   ],
+   "key_rewards": 0
+  },
+  {
+   "milestone_id": 16,
+   "unlock_level_count": 150,
+   "afk_rewards": [
+    {
+     "id": 21008,
+     "count": 12
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 10203,
+     "count": 1
+    }
+   ],
+   "key_rewards": 1
+  },
+  {
+   "milestone_id": 17,
+   "unlock_level_count": 160,
+   "afk_rewards": [
+    {
+     "id": 21007,
+     "count": 200
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 26105,
+     "count": 1
+    }
+   ],
+   "key_rewards": 0
+  },
+  {
+   "milestone_id": 18,
+   "unlock_level_count": 170,
+   "afk_rewards": [
+    {
+     "id": 21005,
+     "count": 1
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 26105,
+     "count": 1
+    }
+   ],
+   "key_rewards": 0
+  },
+  {
+   "milestone_id": 19,
+   "unlock_level_count": 180,
+   "afk_rewards": [
+    {
+     "id": 21008,
+     "count": 12
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 10612,
+     "count": 10
+    }
+   ],
+   "key_rewards": 1
+  },
+  {
+   "milestone_id": 20,
+   "unlock_level_count": 190,
+   "afk_rewards": [
+    {
+     "id": 21007,
+     "count": 220
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 26105,
+     "count": 1
+    }
+   ],
+   "key_rewards": 0
+  },
+  {
+   "milestone_id": 21,
+   "unlock_level_count": 200,
+   "afk_rewards": [
+    {
+     "id": 21005,
+     "count": 1
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 26105,
+     "count": 1
+    }
+   ],
+   "key_rewards": 0
+  },
+  {
+   "milestone_id": 22,
+   "unlock_level_count": 210,
+   "afk_rewards": [
+    {
+     "id": 21008,
+     "count": 18
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 10179,
+     "count": 1
+    }
+   ],
+   "key_rewards": 1
+  },
+  {
+   "milestone_id": 23,
+   "unlock_level_count": 220,
+   "afk_rewards": [
+    {
+     "id": 21007,
+     "count": 240
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 26105,
+     "count": 1
+    }
+   ],
+   "key_rewards": 0
+  },
+  {
+   "milestone_id": 24,
+   "unlock_level_count": 230,
+   "afk_rewards": [
+    {
+     "id": 21005,
+     "count": 1
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 26105,
+     "count": 1
+    }
+   ],
+   "key_rewards": 0
+  },
+  {
+   "milestone_id": 25,
+   "unlock_level_count": 240,
+   "afk_rewards": [
+    {
+     "id": 21008,
+     "count": 18
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 10506,
+     "count": 10
+    }
+   ],
+   "key_rewards": 1
+  },
+  {
+   "milestone_id": 26,
+   "unlock_level_count": 250,
+   "afk_rewards": [
+    {
+     "id": 21007,
+     "count": 260
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 26105,
+     "count": 1
+    }
+   ],
+   "key_rewards": 0
+  },
+  {
+   "milestone_id": 27,
+   "unlock_level_count": 260,
+   "afk_rewards": [
+    {
+     "id": 21005,
+     "count": 1
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 26105,
+     "count": 1
+    }
+   ],
+   "key_rewards": 0
+  },
+  {
+   "milestone_id": 28,
+   "unlock_level_count": 270,
+   "afk_rewards": [
+    {
+     "id": 21008,
+     "count": 18
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 10207,
+     "count": 1
+    }
+   ],
+   "key_rewards": 1
+  },
+  {
+   "milestone_id": 29,
+   "unlock_level_count": 280,
+   "afk_rewards": [
+    {
+     "id": 21007,
+     "count": 280
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 26105,
+     "count": 1
+    }
+   ],
+   "key_rewards": 0
+  },
+  {
+   "milestone_id": 30,
+   "unlock_level_count": 290,
+   "afk_rewards": [
+    {
+     "id": 21006,
+     "count": 1
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 26105,
+     "count": 1
+    }
+   ],
+   "key_rewards": 0
+  },
+  {
+   "milestone_id": 31,
+   "unlock_level_count": 300,
+   "afk_rewards": [
+    {
+     "id": 21008,
+     "count": 18
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 10612,
+     "count": 10
+    }
+   ],
+   "key_rewards": 1
+  },
+  {
+   "milestone_id": 32,
+   "unlock_level_count": 310,
+   "afk_rewards": [
+    {
+     "id": 21007,
+     "count": 300
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 26105,
+     "count": 1
+    }
+   ],
+   "key_rewards": 0
+  },
+  {
+   "milestone_id": 33,
+   "unlock_level_count": 320,
+   "afk_rewards": [
+    {
+     "id": 21005,
+     "count": 1
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 26105,
+     "count": 1
+    }
+   ],
+   "key_rewards": 0
+  },
+  {
+   "milestone_id": 34,
+   "unlock_level_count": 330,
+   "afk_rewards": [
+    {
+     "id": 21008,
+     "count": 18
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 10203,
+     "count": 1
+    }
+   ],
+   "key_rewards": 1
+  },
+  {
+   "milestone_id": 35,
+   "unlock_level_count": 340,
+   "afk_rewards": [
+    {
+     "id": 21007,
+     "count": 320
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 26105,
+     "count": 1
+    }
+   ],
+   "key_rewards": 0
+  },
+  {
+   "milestone_id": 36,
+   "unlock_level_count": 350,
+   "afk_rewards": [
+    {
+     "id": 21005,
+     "count": 1
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 26105,
+     "count": 1
+    }
+   ],
+   "key_rewards": 0
+  },
+  {
+   "milestone_id": 37,
+   "unlock_level_count": 360,
+   "afk_rewards": [
+    {
+     "id": 21008,
+     "count": 18
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 10506,
+     "count": 10
+    }
+   ],
+   "key_rewards": 1
+  },
+  {
+   "milestone_id": 38,
+   "unlock_level_count": 370,
+   "afk_rewards": [
+    {
+     "id": 21007,
+     "count": 340
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 26105,
+     "count": 1
+    }
+   ],
+   "key_rewards": 0
+  },
+  {
+   "milestone_id": 39,
+   "unlock_level_count": 380,
+   "afk_rewards": [
+    {
+     "id": 21005,
+     "count": 1
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 26105,
+     "count": 1
+    }
+   ],
+   "key_rewards": 0
+  },
+  {
+   "milestone_id": 40,
+   "unlock_level_count": 390,
+   "afk_rewards": [
+    {
+     "id": 21008,
+     "count": 24
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 10179,
+     "count": 1
+    }
+   ],
+   "key_rewards": 1
+  },
+  {
+   "milestone_id": 41,
+   "unlock_level_count": 400,
+   "afk_rewards": [
+    {
+     "id": 21007,
+     "count": 360
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 26105,
+     "count": 1
+    }
+   ],
+   "key_rewards": 0
+  },
+  {
+   "milestone_id": 42,
+   "unlock_level_count": 410,
+   "afk_rewards": [
+    {
+     "id": 21005,
+     "count": 1
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 26105,
+     "count": 1
+    }
+   ],
+   "key_rewards": 0
+  },
+  {
+   "milestone_id": 43,
+   "unlock_level_count": 420,
+   "afk_rewards": [
+    {
+     "id": 21008,
+     "count": 24
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 10612,
+     "count": 10
+    }
+   ],
+   "key_rewards": 1
+  },
+  {
+   "milestone_id": 44,
+   "unlock_level_count": 430,
+   "afk_rewards": [
+    {
+     "id": 21007,
+     "count": 380
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 26105,
+     "count": 1
+    }
+   ],
+   "key_rewards": 0
+  },
+  {
+   "milestone_id": 45,
+   "unlock_level_count": 440,
+   "afk_rewards": [
+    {
+     "id": 21006,
+     "count": 1
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 26105,
+     "count": 1
+    }
+   ],
+   "key_rewards": 0
+  },
+  {
+   "milestone_id": 46,
+   "unlock_level_count": 450,
+   "afk_rewards": [
+    {
+     "id": 21008,
+     "count": 24
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 10207,
+     "count": 1
+    }
+   ],
+   "key_rewards": 1
+  },
+  {
+   "milestone_id": 47,
+   "unlock_level_count": 460,
+   "afk_rewards": [
+    {
+     "id": 21007,
+     "count": 400
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 26105,
+     "count": 1
+    }
+   ],
+   "key_rewards": 0
+  },
+  {
+   "milestone_id": 48,
+   "unlock_level_count": 470,
+   "afk_rewards": [
+    {
+     "id": 21005,
+     "count": 1
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 26105,
+     "count": 1
+    }
+   ],
+   "key_rewards": 0
+  },
+  {
+   "milestone_id": 49,
+   "unlock_level_count": 480,
+   "afk_rewards": [
+    {
+     "id": 21008,
+     "count": 24
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 10506,
+     "count": 10
+    }
+   ],
+   "key_rewards": 1
+  },
+  {
+   "milestone_id": 50,
+   "unlock_level_count": 490,
+   "afk_rewards": [
+    {
+     "id": 21007,
+     "count": 420
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 26105,
+     "count": 1
+    }
+   ],
+   "key_rewards": 0
+  },
+  {
+   "milestone_id": 51,
+   "unlock_level_count": 500,
+   "afk_rewards": [
+    {
+     "id": 21005,
+     "count": 1
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 26105,
+     "count": 1
+    }
+   ],
+   "key_rewards": 0
+  },
+  {
+   "milestone_id": 52,
+   "unlock_level_count": 510,
+   "afk_rewards": [
+    {
+     "id": 21008,
+     "count": 24
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 10203,
+     "count": 1
+    }
+   ],
+   "key_rewards": 1
+  },
+  {
+   "milestone_id": 53,
+   "unlock_level_count": 520,
+   "afk_rewards": [
+    {
+     "id": 21007,
+     "count": 440
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 26105,
+     "count": 1
+    }
+   ],
+   "key_rewards": 0
+  },
+  {
+   "milestone_id": 54,
+   "unlock_level_count": 530,
+   "afk_rewards": [
+    {
+     "id": 21005,
+     "count": 1
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 26105,
+     "count": 1
+    }
+   ],
+   "key_rewards": 0
+  },
+  {
+   "milestone_id": 55,
+   "unlock_level_count": 540,
+   "afk_rewards": [
+    {
+     "id": 21008,
+     "count": 24
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 10612,
+     "count": 10
+    }
+   ],
+   "key_rewards": 1
+  },
+  {
+   "milestone_id": 56,
+   "unlock_level_count": 550,
+   "afk_rewards": [
+    {
+     "id": 21007,
+     "count": 460
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 26105,
+     "count": 1
+    }
+   ],
+   "key_rewards": 0
+  },
+  {
+   "milestone_id": 57,
+   "unlock_level_count": 560,
+   "afk_rewards": [
+    {
+     "id": 21005,
+     "count": 1
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 26105,
+     "count": 1
+    }
+   ],
+   "key_rewards": 0
+  },
+  {
+   "milestone_id": 58,
+   "unlock_level_count": 570,
+   "afk_rewards": [
+    {
+     "id": 21008,
+     "count": 30
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 10179,
+     "count": 1
+    }
+   ],
+   "key_rewards": 1
+  },
+  {
+   "milestone_id": 59,
+   "unlock_level_count": 580,
+   "afk_rewards": [
+    {
+     "id": 21007,
+     "count": 480
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 26105,
+     "count": 1
+    }
+   ],
+   "key_rewards": 0
+  },
+  {
+   "milestone_id": 60,
+   "unlock_level_count": 590,
+   "afk_rewards": [
+    {
+     "id": 21006,
+     "count": 1
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 26105,
+     "count": 1
+    }
+   ],
+   "key_rewards": 0
+  },
+  {
+   "milestone_id": 61,
+   "unlock_level_count": 600,
+   "afk_rewards": [
+    {
+     "id": 21008,
+     "count": 30
+    }
+   ],
+   "world_rewards": [
+    {
+     "id": 10506,
+     "count": 10
+    }
+   ],
+   "key_rewards": 1
+  }
+ ],
+ "text_chunk": null
+}

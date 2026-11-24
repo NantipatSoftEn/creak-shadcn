@@ -1,0 +1,70 @@
+{
+ "config": "arenabet_award",
+ "fields": [
+  "id",
+  "cost",
+  "reward",
+  "name"
+ ],
+ "rows": {
+  "1": {
+   "id": 1,
+   "cost": {
+    "id": 27309,
+    "count": 1
+   },
+   "reward": [
+    {
+     "id": 10011,
+     "count": 100
+    },
+    {
+     "id": 10132,
+     "count": 2
+    },
+    {
+     "id": 10001,
+     "count": 150000
+    }
+   ],
+   "name": "Basic Rewards",
+   "name_th": "รางวัลพื้นฐาน"
+  },
+  "2": {
+   "id": 2,
+   "cost": {
+    "id": 10011,
+    "count": 100
+   },
+   "reward": [
+    {
+     "id": 10011,
+     "count": 200
+    },
+    {
+     "id": 10132,
+     "count": 2
+    },
+    {
+     "id": 10001,
+     "count": 150000
+    }
+   ],
+   "name": "Rare Rewards",
+   "name_th": "รางวัลหายาก"
+  },
+  "99": {
+   "id": 99,
+   "cost": null,
+   "reward": [
+    {
+     "id": 10011,
+     "count": 200
+    }
+   ],
+   "name": "Champion Rewards",
+   "name_th": "รางวัลแชมป์"
+  }
+ },
+ "text_chunk": "00036_471173c9dae17954.json"
+}

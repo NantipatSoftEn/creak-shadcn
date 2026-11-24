@@ -1,0 +1,2424 @@
+{
+ "config": "guild_raid_boss_level",
+ "fields": [
+  "boss_level",
+  "hp_rate",
+  "atk_rate",
+  "def_rate",
+  "spd_rate",
+  "crit",
+  "crid",
+  "sphit",
+  "resist",
+  "reward",
+  "level_reward",
+  "diff_index"
+ ],
+ "rows": [
+  {
+   "boss_level": 1,
+   "hp_rate": 0.8,
+   "atk_rate": 0.5,
+   "def_rate": 1.0,
+   "spd_rate": 1.2,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 0.0,
+   "resist": 0.0,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 3
+  },
+  {
+   "boss_level": 2,
+   "hp_rate": 0.85,
+   "atk_rate": 0.55,
+   "def_rate": 1.0,
+   "spd_rate": 1.21,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 0.0,
+   "resist": 0.0,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 3
+  },
+  {
+   "boss_level": 3,
+   "hp_rate": 0.9,
+   "atk_rate": 0.6,
+   "def_rate": 1.0,
+   "spd_rate": 1.22,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 0.0,
+   "resist": 0.0,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": [
+    {
+     "id": 26012,
+     "count": 3
+    },
+    {
+     "id": 10612,
+     "count": 5
+    },
+    {
+     "id": 10202,
+     "count": 2
+    }
+   ],
+   "diff_index": 3
+  },
+  {
+   "boss_level": 4,
+   "hp_rate": 0.95,
+   "atk_rate": 0.65,
+   "def_rate": 1.0,
+   "spd_rate": 1.23,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 0.0,
+   "resist": 0.0,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 3
+  },
+  {
+   "boss_level": 5,
+   "hp_rate": 1.0,
+   "atk_rate": 0.7,
+   "def_rate": 1.0,
+   "spd_rate": 1.24,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 0.0,
+   "resist": 0.0,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 3
+  },
+  {
+   "boss_level": 6,
+   "hp_rate": 1.05,
+   "atk_rate": 0.75,
+   "def_rate": 1.0,
+   "spd_rate": 1.25,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 0.1,
+   "resist": 0.1,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": [
+    {
+     "id": 26012,
+     "count": 3
+    },
+    {
+     "id": 10612,
+     "count": 5
+    },
+    {
+     "id": 10111,
+     "count": 2
+    }
+   ],
+   "diff_index": 3
+  },
+  {
+   "boss_level": 7,
+   "hp_rate": 1.1,
+   "atk_rate": 0.8,
+   "def_rate": 1.0,
+   "spd_rate": 1.26,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 0.1,
+   "resist": 0.1,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 3
+  },
+  {
+   "boss_level": 8,
+   "hp_rate": 1.15,
+   "atk_rate": 0.85,
+   "def_rate": 1.0,
+   "spd_rate": 1.27,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 0.1,
+   "resist": 0.1,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 3
+  },
+  {
+   "boss_level": 9,
+   "hp_rate": 1.2,
+   "atk_rate": 0.9,
+   "def_rate": 1.0,
+   "spd_rate": 1.28,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 0.1,
+   "resist": 0.1,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": [
+    {
+     "id": 26012,
+     "count": 3
+    },
+    {
+     "id": 10612,
+     "count": 5
+    },
+    {
+     "id": 10179,
+     "count": 1
+    }
+   ],
+   "diff_index": 3
+  },
+  {
+   "boss_level": 10,
+   "hp_rate": 1.25,
+   "atk_rate": 0.95,
+   "def_rate": 1.0,
+   "spd_rate": 1.29,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 0.1,
+   "resist": 0.1,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 3
+  },
+  {
+   "boss_level": 11,
+   "hp_rate": 1.3,
+   "atk_rate": 1.0,
+   "def_rate": 1.0,
+   "spd_rate": 1.3,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 0.2,
+   "resist": 0.2,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 4
+  },
+  {
+   "boss_level": 12,
+   "hp_rate": 1.35,
+   "atk_rate": 1.05,
+   "def_rate": 1.0,
+   "spd_rate": 1.31,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 0.2,
+   "resist": 0.2,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": [
+    {
+     "id": 26012,
+     "count": 4
+    },
+    {
+     "id": 10612,
+     "count": 5
+    },
+    {
+     "id": 10207,
+     "count": 1
+    }
+   ],
+   "diff_index": 4
+  },
+  {
+   "boss_level": 13,
+   "hp_rate": 1.4,
+   "atk_rate": 1.1,
+   "def_rate": 1.0,
+   "spd_rate": 1.32,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 0.2,
+   "resist": 0.2,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 4
+  },
+  {
+   "boss_level": 14,
+   "hp_rate": 1.45,
+   "atk_rate": 1.15,
+   "def_rate": 1.0,
+   "spd_rate": 1.33,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 0.2,
+   "resist": 0.2,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 4
+  },
+  {
+   "boss_level": 15,
+   "hp_rate": 1.5,
+   "atk_rate": 1.2,
+   "def_rate": 1.0,
+   "spd_rate": 1.34,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 0.2,
+   "resist": 0.2,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 4
+  },
+  {
+   "boss_level": 16,
+   "hp_rate": 1.55,
+   "atk_rate": 1.25,
+   "def_rate": 1.0,
+   "spd_rate": 1.35,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 0.3,
+   "resist": 0.3,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": [
+    {
+     "id": 26012,
+     "count": 4
+    },
+    {
+     "id": 10612,
+     "count": 5
+    },
+    {
+     "id": 10179,
+     "count": 1
+    }
+   ],
+   "diff_index": 4
+  },
+  {
+   "boss_level": 17,
+   "hp_rate": 1.6,
+   "atk_rate": 1.3,
+   "def_rate": 1.0,
+   "spd_rate": 1.36,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 0.3,
+   "resist": 0.3,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 4
+  },
+  {
+   "boss_level": 18,
+   "hp_rate": 1.7,
+   "atk_rate": 1.35,
+   "def_rate": 1.0,
+   "spd_rate": 1.37,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 0.3,
+   "resist": 0.3,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 4
+  },
+  {
+   "boss_level": 19,
+   "hp_rate": 1.8,
+   "atk_rate": 1.4,
+   "def_rate": 1.0,
+   "spd_rate": 1.38,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 0.3,
+   "resist": 0.3,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 4
+  },
+  {
+   "boss_level": 20,
+   "hp_rate": 1.9,
+   "atk_rate": 1.45,
+   "def_rate": 1.0,
+   "spd_rate": 1.39,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 0.3,
+   "resist": 0.3,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": [
+    {
+     "id": 26012,
+     "count": 4
+    },
+    {
+     "id": 10612,
+     "count": 5
+    },
+    {
+     "id": 25604,
+     "count": 1
+    }
+   ],
+   "diff_index": 4
+  },
+  {
+   "boss_level": 21,
+   "hp_rate": 2.0,
+   "atk_rate": 1.5,
+   "def_rate": 1.0,
+   "spd_rate": 1.4,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 0.4,
+   "resist": 0.4,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 5
+  },
+  {
+   "boss_level": 22,
+   "hp_rate": 2.1,
+   "atk_rate": 1.55,
+   "def_rate": 1.0,
+   "spd_rate": 1.41,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 0.4,
+   "resist": 0.4,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 5
+  },
+  {
+   "boss_level": 23,
+   "hp_rate": 2.2,
+   "atk_rate": 1.6,
+   "def_rate": 1.0,
+   "spd_rate": 1.42,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 0.4,
+   "resist": 0.4,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 5
+  },
+  {
+   "boss_level": 24,
+   "hp_rate": 2.3,
+   "atk_rate": 1.65,
+   "def_rate": 1.0,
+   "spd_rate": 1.43,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 0.4,
+   "resist": 0.4,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 5
+  },
+  {
+   "boss_level": 25,
+   "hp_rate": 2.4,
+   "atk_rate": 1.7,
+   "def_rate": 1.0,
+   "spd_rate": 1.44,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 0.4,
+   "resist": 0.4,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": [
+    {
+     "id": 26012,
+     "count": 5
+    },
+    {
+     "id": 10612,
+     "count": 10
+    },
+    {
+     "id": 10179,
+     "count": 1
+    }
+   ],
+   "diff_index": 5
+  },
+  {
+   "boss_level": 26,
+   "hp_rate": 2.5,
+   "atk_rate": 1.75,
+   "def_rate": 1.0,
+   "spd_rate": 1.45,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 0.5,
+   "resist": 0.5,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 5
+  },
+  {
+   "boss_level": 27,
+   "hp_rate": 2.6,
+   "atk_rate": 1.8,
+   "def_rate": 1.0,
+   "spd_rate": 1.46,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 0.5,
+   "resist": 0.5,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 5
+  },
+  {
+   "boss_level": 28,
+   "hp_rate": 2.7,
+   "atk_rate": 1.85,
+   "def_rate": 1.0,
+   "spd_rate": 1.47,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 0.5,
+   "resist": 0.5,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 5
+  },
+  {
+   "boss_level": 29,
+   "hp_rate": 2.8,
+   "atk_rate": 1.9,
+   "def_rate": 1.0,
+   "spd_rate": 1.48,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 0.5,
+   "resist": 0.5,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 5
+  },
+  {
+   "boss_level": 30,
+   "hp_rate": 2.9,
+   "atk_rate": 1.95,
+   "def_rate": 1.0,
+   "spd_rate": 1.49,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 0.5,
+   "resist": 0.5,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": [
+    {
+     "id": 26012,
+     "count": 5
+    },
+    {
+     "id": 10612,
+     "count": 10
+    },
+    {
+     "id": 10180,
+     "count": 1
+    }
+   ],
+   "diff_index": 5
+  },
+  {
+   "boss_level": 31,
+   "hp_rate": 3.0,
+   "atk_rate": 2.0,
+   "def_rate": 1.0,
+   "spd_rate": 1.5,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 0.6,
+   "resist": 0.6,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 6
+  },
+  {
+   "boss_level": 32,
+   "hp_rate": 3.1,
+   "atk_rate": 2.1,
+   "def_rate": 1.0,
+   "spd_rate": 1.505,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 0.6,
+   "resist": 0.6,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 6
+  },
+  {
+   "boss_level": 33,
+   "hp_rate": 3.2,
+   "atk_rate": 2.2,
+   "def_rate": 1.0,
+   "spd_rate": 1.51,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 0.6,
+   "resist": 0.6,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 6
+  },
+  {
+   "boss_level": 34,
+   "hp_rate": 3.3,
+   "atk_rate": 2.3,
+   "def_rate": 1.0,
+   "spd_rate": 1.515,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 0.6,
+   "resist": 0.6,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 6
+  },
+  {
+   "boss_level": 35,
+   "hp_rate": 3.4,
+   "atk_rate": 2.4,
+   "def_rate": 1.0,
+   "spd_rate": 1.52,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 0.6,
+   "resist": 0.6,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 6
+  },
+  {
+   "boss_level": 36,
+   "hp_rate": 3.5,
+   "atk_rate": 2.5,
+   "def_rate": 1.0,
+   "spd_rate": 1.525,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 0.7,
+   "resist": 0.7,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 6
+  },
+  {
+   "boss_level": 37,
+   "hp_rate": 3.6,
+   "atk_rate": 2.6,
+   "def_rate": 1.0,
+   "spd_rate": 1.53,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 0.7,
+   "resist": 0.7,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 6
+  },
+  {
+   "boss_level": 38,
+   "hp_rate": 3.7,
+   "atk_rate": 2.7,
+   "def_rate": 1.0,
+   "spd_rate": 1.535,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 0.7,
+   "resist": 0.7,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 6
+  },
+  {
+   "boss_level": 39,
+   "hp_rate": 3.8,
+   "atk_rate": 2.8,
+   "def_rate": 1.0,
+   "spd_rate": 1.54,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 0.7,
+   "resist": 0.7,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 6
+  },
+  {
+   "boss_level": 40,
+   "hp_rate": 3.9,
+   "atk_rate": 2.9,
+   "def_rate": 1.0,
+   "spd_rate": 1.545,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 0.7,
+   "resist": 0.7,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 6
+  },
+  {
+   "boss_level": 41,
+   "hp_rate": 4.0,
+   "atk_rate": 3.0,
+   "def_rate": 1.0,
+   "spd_rate": 1.55,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 0.8,
+   "resist": 0.8,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 7
+  },
+  {
+   "boss_level": 42,
+   "hp_rate": 4.1,
+   "atk_rate": 3.05,
+   "def_rate": 1.0,
+   "spd_rate": 1.555,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 0.8,
+   "resist": 0.8,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 7
+  },
+  {
+   "boss_level": 43,
+   "hp_rate": 4.2,
+   "atk_rate": 3.1,
+   "def_rate": 1.0,
+   "spd_rate": 1.56,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 0.8,
+   "resist": 0.8,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 7
+  },
+  {
+   "boss_level": 44,
+   "hp_rate": 4.3,
+   "atk_rate": 3.15,
+   "def_rate": 1.0,
+   "spd_rate": 1.565,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 0.8,
+   "resist": 0.8,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 7
+  },
+  {
+   "boss_level": 45,
+   "hp_rate": 4.4,
+   "atk_rate": 3.2,
+   "def_rate": 1.0,
+   "spd_rate": 1.57,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 0.8,
+   "resist": 0.8,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 7
+  },
+  {
+   "boss_level": 46,
+   "hp_rate": 4.5,
+   "atk_rate": 3.25,
+   "def_rate": 1.0,
+   "spd_rate": 1.575,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 0.9,
+   "resist": 0.9,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 7
+  },
+  {
+   "boss_level": 47,
+   "hp_rate": 4.6,
+   "atk_rate": 3.3,
+   "def_rate": 1.0,
+   "spd_rate": 1.58,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 0.9,
+   "resist": 0.9,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 7
+  },
+  {
+   "boss_level": 48,
+   "hp_rate": 4.7,
+   "atk_rate": 3.35,
+   "def_rate": 1.0,
+   "spd_rate": 1.585,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 0.9,
+   "resist": 0.9,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 7
+  },
+  {
+   "boss_level": 49,
+   "hp_rate": 4.8,
+   "atk_rate": 3.4,
+   "def_rate": 1.0,
+   "spd_rate": 1.59,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 0.9,
+   "resist": 0.9,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 7
+  },
+  {
+   "boss_level": 50,
+   "hp_rate": 4.9,
+   "atk_rate": 3.45,
+   "def_rate": 1.0,
+   "spd_rate": 1.595,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 0.9,
+   "resist": 0.9,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 7
+  },
+  {
+   "boss_level": 51,
+   "hp_rate": 5.0,
+   "atk_rate": 3.5,
+   "def_rate": 1.0,
+   "spd_rate": 1.6,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 1.0,
+   "resist": 1.0,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 8
+  },
+  {
+   "boss_level": 52,
+   "hp_rate": 5.2,
+   "atk_rate": 3.53,
+   "def_rate": 1.0,
+   "spd_rate": 1.605,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 1.0,
+   "resist": 1.0,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 8
+  },
+  {
+   "boss_level": 53,
+   "hp_rate": 5.4,
+   "atk_rate": 3.56,
+   "def_rate": 1.0,
+   "spd_rate": 1.61,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 1.0,
+   "resist": 1.0,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 8
+  },
+  {
+   "boss_level": 54,
+   "hp_rate": 5.6,
+   "atk_rate": 3.59,
+   "def_rate": 1.0,
+   "spd_rate": 1.615,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 1.0,
+   "resist": 1.0,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 8
+  },
+  {
+   "boss_level": 55,
+   "hp_rate": 5.8,
+   "atk_rate": 3.62,
+   "def_rate": 1.0,
+   "spd_rate": 1.62,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 1.0,
+   "resist": 1.0,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 8
+  },
+  {
+   "boss_level": 56,
+   "hp_rate": 6.0,
+   "atk_rate": 3.65,
+   "def_rate": 1.0,
+   "spd_rate": 1.625,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 1.1,
+   "resist": 1.1,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 8
+  },
+  {
+   "boss_level": 57,
+   "hp_rate": 6.2,
+   "atk_rate": 3.68,
+   "def_rate": 1.0,
+   "spd_rate": 1.63,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 1.1,
+   "resist": 1.1,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 8
+  },
+  {
+   "boss_level": 58,
+   "hp_rate": 6.4,
+   "atk_rate": 3.71,
+   "def_rate": 1.0,
+   "spd_rate": 1.635,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 1.1,
+   "resist": 1.1,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 8
+  },
+  {
+   "boss_level": 59,
+   "hp_rate": 6.6,
+   "atk_rate": 3.74,
+   "def_rate": 1.0,
+   "spd_rate": 1.64,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 1.1,
+   "resist": 1.1,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 8
+  },
+  {
+   "boss_level": 60,
+   "hp_rate": 6.8,
+   "atk_rate": 3.77,
+   "def_rate": 1.0,
+   "spd_rate": 1.645,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 1.1,
+   "resist": 1.1,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 8
+  },
+  {
+   "boss_level": 61,
+   "hp_rate": 7.0,
+   "atk_rate": 3.8,
+   "def_rate": 1.0,
+   "spd_rate": 1.65,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 1.2,
+   "resist": 1.2,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 8
+  },
+  {
+   "boss_level": 62,
+   "hp_rate": 7.2,
+   "atk_rate": 3.83,
+   "def_rate": 1.0,
+   "spd_rate": 1.655,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 1.2,
+   "resist": 1.2,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 8
+  },
+  {
+   "boss_level": 63,
+   "hp_rate": 7.4,
+   "atk_rate": 3.86,
+   "def_rate": 1.0,
+   "spd_rate": 1.66,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 1.2,
+   "resist": 1.2,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 8
+  },
+  {
+   "boss_level": 64,
+   "hp_rate": 7.6,
+   "atk_rate": 3.89,
+   "def_rate": 1.0,
+   "spd_rate": 1.665,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 1.2,
+   "resist": 1.2,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 8
+  },
+  {
+   "boss_level": 65,
+   "hp_rate": 7.8,
+   "atk_rate": 3.92,
+   "def_rate": 1.0,
+   "spd_rate": 1.67,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 1.2,
+   "resist": 1.2,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 8
+  },
+  {
+   "boss_level": 66,
+   "hp_rate": 8.0,
+   "atk_rate": 3.95,
+   "def_rate": 1.0,
+   "spd_rate": 1.675,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 1.3,
+   "resist": 1.3,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 8
+  },
+  {
+   "boss_level": 67,
+   "hp_rate": 8.2,
+   "atk_rate": 3.98,
+   "def_rate": 1.0,
+   "spd_rate": 1.68,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 1.3,
+   "resist": 1.3,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 8
+  },
+  {
+   "boss_level": 68,
+   "hp_rate": 8.4,
+   "atk_rate": 4.0,
+   "def_rate": 1.0,
+   "spd_rate": 1.685,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 1.3,
+   "resist": 1.3,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 8
+  },
+  {
+   "boss_level": 69,
+   "hp_rate": 8.6,
+   "atk_rate": 4.0,
+   "def_rate": 1.0,
+   "spd_rate": 1.69,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 1.3,
+   "resist": 1.3,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 8
+  },
+  {
+   "boss_level": 70,
+   "hp_rate": 8.8,
+   "atk_rate": 4.0,
+   "def_rate": 1.0,
+   "spd_rate": 1.695,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 1.3,
+   "resist": 1.3,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 8
+  },
+  {
+   "boss_level": 71,
+   "hp_rate": 9.0,
+   "atk_rate": 4.0,
+   "def_rate": 1.0,
+   "spd_rate": 1.7,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 1.4,
+   "resist": 1.4,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 8
+  },
+  {
+   "boss_level": 72,
+   "hp_rate": 9.2,
+   "atk_rate": 4.0,
+   "def_rate": 1.0,
+   "spd_rate": 1.7,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 1.4,
+   "resist": 1.4,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 8
+  },
+  {
+   "boss_level": 73,
+   "hp_rate": 9.4,
+   "atk_rate": 4.0,
+   "def_rate": 1.0,
+   "spd_rate": 1.7,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 1.4,
+   "resist": 1.4,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 8
+  },
+  {
+   "boss_level": 74,
+   "hp_rate": 9.6,
+   "atk_rate": 4.0,
+   "def_rate": 1.0,
+   "spd_rate": 1.7,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 1.4,
+   "resist": 1.4,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 8
+  },
+  {
+   "boss_level": 75,
+   "hp_rate": 9.8,
+   "atk_rate": 4.0,
+   "def_rate": 1.0,
+   "spd_rate": 1.7,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 1.4,
+   "resist": 1.4,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 8
+  },
+  {
+   "boss_level": 76,
+   "hp_rate": 10.0,
+   "atk_rate": 4.0,
+   "def_rate": 1.0,
+   "spd_rate": 1.7,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 1.5,
+   "resist": 1.5,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 8
+  },
+  {
+   "boss_level": 77,
+   "hp_rate": 10.2,
+   "atk_rate": 4.0,
+   "def_rate": 1.0,
+   "spd_rate": 1.7,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 1.5,
+   "resist": 1.5,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 8
+  },
+  {
+   "boss_level": 78,
+   "hp_rate": 10.4,
+   "atk_rate": 4.0,
+   "def_rate": 1.0,
+   "spd_rate": 1.7,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 1.5,
+   "resist": 1.5,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 8
+  },
+  {
+   "boss_level": 79,
+   "hp_rate": 10.6,
+   "atk_rate": 4.0,
+   "def_rate": 1.0,
+   "spd_rate": 1.7,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 1.5,
+   "resist": 1.5,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 8
+  },
+  {
+   "boss_level": 80,
+   "hp_rate": 10.8,
+   "atk_rate": 4.0,
+   "def_rate": 1.0,
+   "spd_rate": 1.7,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 1.5,
+   "resist": 1.5,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 8
+  },
+  {
+   "boss_level": 81,
+   "hp_rate": 11.0,
+   "atk_rate": 4.0,
+   "def_rate": 1.0,
+   "spd_rate": 1.7,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 1.5,
+   "resist": 1.5,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 8
+  },
+  {
+   "boss_level": 82,
+   "hp_rate": 11.2,
+   "atk_rate": 4.0,
+   "def_rate": 1.0,
+   "spd_rate": 1.7,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 1.5,
+   "resist": 1.5,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 8
+  },
+  {
+   "boss_level": 83,
+   "hp_rate": 11.4,
+   "atk_rate": 4.0,
+   "def_rate": 1.0,
+   "spd_rate": 1.7,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 1.5,
+   "resist": 1.5,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 8
+  },
+  {
+   "boss_level": 84,
+   "hp_rate": 11.6,
+   "atk_rate": 4.0,
+   "def_rate": 1.0,
+   "spd_rate": 1.7,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 1.5,
+   "resist": 1.5,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 8
+  },
+  {
+   "boss_level": 85,
+   "hp_rate": 11.8,
+   "atk_rate": 4.0,
+   "def_rate": 1.0,
+   "spd_rate": 1.7,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 1.5,
+   "resist": 1.5,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 8
+  },
+  {
+   "boss_level": 86,
+   "hp_rate": 12.0,
+   "atk_rate": 4.0,
+   "def_rate": 1.0,
+   "spd_rate": 1.7,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 1.5,
+   "resist": 1.5,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 8
+  },
+  {
+   "boss_level": 87,
+   "hp_rate": 12.2,
+   "atk_rate": 4.0,
+   "def_rate": 1.0,
+   "spd_rate": 1.7,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 1.5,
+   "resist": 1.5,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 8
+  },
+  {
+   "boss_level": 88,
+   "hp_rate": 12.4,
+   "atk_rate": 4.0,
+   "def_rate": 1.0,
+   "spd_rate": 1.7,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 1.5,
+   "resist": 1.5,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 8
+  },
+  {
+   "boss_level": 89,
+   "hp_rate": 12.6,
+   "atk_rate": 4.0,
+   "def_rate": 1.0,
+   "spd_rate": 1.7,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 1.5,
+   "resist": 1.5,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 8
+  },
+  {
+   "boss_level": 90,
+   "hp_rate": 12.8,
+   "atk_rate": 4.0,
+   "def_rate": 1.0,
+   "spd_rate": 1.7,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 1.5,
+   "resist": 1.5,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 8
+  },
+  {
+   "boss_level": 91,
+   "hp_rate": 13.0,
+   "atk_rate": 4.0,
+   "def_rate": 1.0,
+   "spd_rate": 1.7,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 1.5,
+   "resist": 1.5,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 8
+  },
+  {
+   "boss_level": 92,
+   "hp_rate": 13.2,
+   "atk_rate": 4.0,
+   "def_rate": 1.0,
+   "spd_rate": 1.7,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 1.5,
+   "resist": 1.5,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 8
+  },
+  {
+   "boss_level": 93,
+   "hp_rate": 13.4,
+   "atk_rate": 4.0,
+   "def_rate": 1.0,
+   "spd_rate": 1.7,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 1.5,
+   "resist": 1.5,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 8
+  },
+  {
+   "boss_level": 94,
+   "hp_rate": 13.6,
+   "atk_rate": 4.0,
+   "def_rate": 1.0,
+   "spd_rate": 1.7,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 1.5,
+   "resist": 1.5,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 8
+  },
+  {
+   "boss_level": 95,
+   "hp_rate": 13.8,
+   "atk_rate": 4.0,
+   "def_rate": 1.0,
+   "spd_rate": 1.7,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 1.5,
+   "resist": 1.5,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 8
+  },
+  {
+   "boss_level": 96,
+   "hp_rate": 14.0,
+   "atk_rate": 4.0,
+   "def_rate": 1.0,
+   "spd_rate": 1.7,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 1.5,
+   "resist": 1.5,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 8
+  },
+  {
+   "boss_level": 97,
+   "hp_rate": 14.2,
+   "atk_rate": 4.0,
+   "def_rate": 1.0,
+   "spd_rate": 1.7,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 1.5,
+   "resist": 1.5,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 8
+  },
+  {
+   "boss_level": 98,
+   "hp_rate": 14.4,
+   "atk_rate": 4.0,
+   "def_rate": 1.0,
+   "spd_rate": 1.7,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 1.5,
+   "resist": 1.5,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 8
+  },
+  {
+   "boss_level": 99,
+   "hp_rate": 14.6,
+   "atk_rate": 4.0,
+   "def_rate": 1.0,
+   "spd_rate": 1.7,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 1.5,
+   "resist": 1.5,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 8
+  },
+  {
+   "boss_level": 100,
+   "hp_rate": 14.8,
+   "atk_rate": 4.0,
+   "def_rate": 1.0,
+   "spd_rate": 1.7,
+   "crit": 0.1,
+   "crid": 1.5,
+   "sphit": 1.5,
+   "resist": 1.5,
+   "reward": [
+    {
+     "id": 10136,
+     "count": 50
+    },
+    {
+     "id": 26012,
+     "count": 1
+    }
+   ],
+   "level_reward": null,
+   "diff_index": 8
+  }
+ ],
+ "text_chunk": null
+}

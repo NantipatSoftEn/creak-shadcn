@@ -1,0 +1,253 @@
+{
+ "config": "activity_agttrain",
+ "fields": [
+  "item_id",
+  "icon",
+  "agt_name",
+  "desc1",
+  "desc2"
+ ],
+ "rows": {
+  "54135": {
+   "item_id": 54135,
+   "icon": "GoldenLion",
+   "agt_name": "Golden Lion",
+   "agt_name_th": "Golden Lion",
+   "desc1": "Every 2 time(s) the host Animus uses 1 skills, increases the host Animus' damage dealt by 6% and Effect ACC by 12%, up to 5 stack(s).",
+   "desc1_th": "ทุก 2 ครั้งที่ Animus โฮสต์ใช้สกิล 1 จะเพิ่ม DMG ที่ทำได้ของ Animus โฮสต์ขึ้น 6% และ Effect ACC 12% สูงสุด 5 ชั้น",
+   "desc2": "Every 2 time(s) the host Animus uses 1 skills, increases the host Animus' damage dealt by 8% and Effect ACC by 15%, up to 5 stack(s).",
+   "desc2_th": "ทุก 2 ครั้งที่ Animus โฮสต์ใช้สกิล 1 จะเพิ่ม DMG ที่ทำได้ของ Animus โฮสต์ขึ้น 8% และ Effect ACC 15% สูงสุด 5 ชั้น"
+  },
+  "54155": {
+   "item_id": 54155,
+   "icon": "SilenceLaw",
+   "agt_name": "Law of Silence",
+   "agt_name_th": "Law of Silence",
+   "desc1": "At the start of the battle, puts the host Animus in a 1-turn [Void] state. Afterward, for every 4 turn(s), enters a 2-turn [Void] state after the turn ends and increases ATK by 5%.",
+   "desc1_th": "หลังเริ่มการต่อสู้ จะทำให้ Animus โฮสต์เข้าสู่สถานะ [Void] เป็นเวลา 1 เทิร์น หลังจากนั้น ทุก ๆ 4 เทิร์นจะเข้าสู่สถานะ [Void] เป็นเวลา 2 เทิร์นหลังจากสิ้นสุดเทิร์น และเพิ่ม ATK ขึ้น 5%",
+   "desc2": "At the start of the battle, puts the host Animus in a 1-turn [Void] state. Afterward, for every 4 turn(s), enters a 2-turn [Void] state after the turn ends and increases ATK by 10%.",
+   "desc2_th": "หลังเริ่มการต่อสู้ จะทำให้ Animus โฮสต์เข้าสู่สถานะ [Void] เป็นเวลา 1 เทิร์น หลังจากนั้น ทุก ๆ 4 เทิร์นจะเข้าสู่สถานะ [Void] เป็นเวลา 2 เทิร์นหลังจากสิ้นสุดเทิร์น และเพิ่ม ATK ขึ้น 10%"
+  },
+  "54175": {
+   "item_id": 54175,
+   "icon": "Supernova",
+   "agt_name": "Supernova",
+   "agt_name_th": "Supernova",
+   "desc1": "Before the host takes action, empowers self to increase their healing by 30% for 2 turn(s). If the healed target's HP percentage is below 60%, additionally applies a 1-turn [Heal Over Time] to them.",
+   "desc1_th": "ก่อนที่โฮสต์จะทำแอ็กชัน จะเสริมพลังให้ตนเองเพื่อเพิ่มการฮีลขึ้น 30% เป็นเวลา 2 เทิร์น หากเปอร์เซ็นต์ HP ของเป้าหมายที่ได้รับฮีลน้อยกว่า 60% จะมอบ [Heal Over Time] เพิ่มเติมเป็นเวลา 1 เทิร์น",
+   "desc2": "Before the host takes action, empowers self to increase their healing by 35% for 2 turn(s). If the healed target's HP percentage is below 75%, additionally applies a 1-turn [Heal Over Time] to them.",
+   "desc2_th": "ก่อนที่โฮสต์จะทำแอ็กชัน จะเสริมพลังให้ตนเองเพื่อเพิ่มการฮีลขึ้น 35% เป็นเวลา 2 เทิร์น หากเปอร์เซ็นต์ HP ของเป้าหมายที่ได้รับฮีลน้อยกว่า 75% จะมอบ [Heal Over Time] เพิ่มเติมเป็นเวลา 1 เทิร์น"
+  },
+  "54225": {
+   "item_id": 54225,
+   "icon": "Alicorn",
+   "agt_name": "Alicorn",
+   "agt_name_th": "Alicorn",
+   "desc1": "Before the host takes action, if the host has any debuffs, dispels 2 debuff(s) and increases their Effect RES by 20% for every 1 debuff(s) dispelled, lasting for 2 turn(s).",
+   "desc1_th": "ก่อนที่โฮสต์จะทำแอ็กชัน หากโฮสต์มีดีบัฟ จะลบล้าง 2 ดีบัฟและเพิ่ม Effect RES ขึ้น 20% ต่อทุก ๆ 1 ดีบัฟที่ลบล้าง ซึ่งจะคงอยู่เป็นเวลา 2 เทิร์น",
+   "desc2": "Before the host takes action, if the host has any debuffs, dispels 3 debuff(s) and increases their Effect RES by 25% for every 1 debuff(s) dispelled, lasting for 2 turn(s).",
+   "desc2_th": "ก่อนที่โฮสต์จะทำแอ็กชัน หากโฮสต์มีดีบัฟ จะลบล้าง 3 ดีบัฟและเพิ่ม Effect RES ขึ้น 25% ต่อทุก ๆ 1 ดีบัฟที่ลบล้าง ซึ่งจะคงอยู่เป็นเวลา 2 เทิร์น"
+  },
+  "54245": {
+   "item_id": 54245,
+   "icon": "MagicBook",
+   "agt_name": "Codex of Magic",
+   "agt_name_th": "Codex of Magic",
+   "desc1": "Before the host acts, unleashes self full potential, making their next skill cost no CD. In PvP mode, skills that don't trigger CD due to Codex of Magic will permanently increase their CD cap by 1 turn(s) (the increase can be applied to each skill up to 1 time(s)). This skill cannot have its CD reduced.",
+   "desc1_th": "ก่อนการทำแอ็กชันโฮสต์ ปลดปล่อยศักยภาพสูงสุดของตนเอง ทำให้สกิลต่อไปไม่มี CD ในโหมด PvP สกิลที่ไม่ทำให้ CD เกิดขึ้นเนื่องจาก Codex of Magic จะเพิ่มขีดจำกัด CD ขึ้นถาวรเป็นเวลา 1 เทิร์น (การเพิ่มขึ้นนี้สามารถใช้งานกับแต่ละสกิลได้สูงสุด 1 ครั้ง) สกิลนี้ไม่สามารถลด CD ได้",
+   "desc2": "Before the host acts, unleashes the host Animus's full potential, making their next skill cost no CD and increasing their SPD by an additional 10% for 2 turn(s). In PvP mode, skills that don't trigger CD due to Codex of Magic will permanently increase their CD cap by 1 turn(s) (the increase can be applied to each skill up to 1 time(s)). This skill cannot have its CD reduced.",
+   "desc2_th": "ก่อนที่โฮสต์จะทำแอ็กชัน ปลดปล่อยศักยภาพสูงสุดของ Animus โฮสต์ ทำให้สกิลต่อไปไม่มี CD และเพิ่ม SPD ของพวกเขาขึ้นเพิ่มเติม 10% เป็นเวลา 2 เทิร์น ในโหมด PvP สกิลที่ไม่ทำให้ CD เกิดขึ้นเนื่องจาก Codex of Magic จะเพิ่มขีดจำกัด CD ขึ้นถาวรเป็นเวลา 1 เทิร์น (การเพิ่มขึ้นนี้สามารถใช้งานกับแต่ละสกิลได้สูงสุด 1 ครั้ง) สกิลนี้ไม่สามารถลด CD ได้"
+  },
+  "54365": {
+   "item_id": 54365,
+   "icon": "FangsWarrior",
+   "agt_name": "White Fang",
+   "agt_name_th": "White Fang",
+   "desc1": "After the host takes action, performs a follow-up attack on the main target, dealing 2 hit(s) of 100% damage; on a critical hit, increases the host Animus' CRIT DMG by 6.5%, up to 8 stack(s).",
+   "desc1_th": "หลังโฮสต์ทำแอ็กชัน จะโจมตีตามซ้ำเป้าหมายหลัก สร้าง DMG 100% จำนวน 2 ชุด หากติด CRIT จะเพิ่ม CRIT DMG ให้ Animus โฮสต์ 6.5% สูงสุด 8 ชั้น",
+   "desc2": "After the host takes action, performs a follow-up attack on the main target, dealing 2 hit(s) of 110% damage; on a critical hit, increases the host Animus's CRIT DMG by 8%, up to 8 stack(s).",
+   "desc2_th": "หลังโฮสต์ทำแอ็กชัน จะโจมตีตามซ้ำเป้าหมายหลัก สร้าง DMG 110% จำนวน 2 ชุด หากติด CRIT จะเพิ่ม CRIT DMG ให้ Animus โฮสต์ 8% สูงสุด 8 ชั้น"
+  },
+  "54375": {
+   "item_id": 54375,
+   "icon": "Gigabyte",
+   "agt_name": "Gigabyte",
+   "agt_name_th": "Gigabyte",
+   "desc1": "For every 3 action(s) accumulated by enemy units, increases the host's Turn Meter by 30%, and can be triggered up to 1 time(s) per turn.",
+   "desc1_th": "เมื่อยูนิตศัตรูทำแอ็กชันสะสมทุก ๆ 3 ครั้ง เพิ่มเกจเทิร์นของโฮสต์ขึ้น 30% และสามารถเกิดขึ้นได้สูงสุด 1 ครั้งต่อเทิร์น",
+   "desc2": "For every 3 action(s) accumulated by enemy units, increases the host's Turn Meter by 35%, and can be triggered up to 1 time(s) per turn.",
+   "desc2_th": "เมื่อยูนิตศัตรูทำแอ็กชันสะสมทุก ๆ 3 ครั้ง เพิ่มเกจเทิร์นของโฮสต์ขึ้น 35% และสามารถเกิดขึ้นได้สูงสุด 1 ครั้งต่อเทิร์น"
+  },
+  "54405": {
+   "item_id": 54405,
+   "icon": "DiamondHeart",
+   "agt_name": "Artisan",
+   "agt_name_th": "Artisan",
+   "desc1": "Before the host takes action, increases their DEF by 700 for 2 turn(s), then applies a 2-turn [Shield] equal to 350% of self DEF to the host Animus and ally with the lowest HP percentage. Cannot stack with similar effects granted by Shells.",
+   "desc1_th": "ก่อนที่โฮสต์จะทำแอ็กชัน เพิ่ม DEF ของพวกเขา 700 เป็นเวลา 2 เทิร์น และมอบ [Shield] เท่ากับ 350% ของ DEF ของตนเองเป็นเวลา 2 เทิร์น ให้กับ Animus โฮสต์และพันธมิตรที่มีเปอร์เซ็นต์ HP ต่ำที่สุด ไม่สามารถซ้อนทับกับเอฟเฟ็กต์ที่คล้ายกันซึ่ง Shell มอบให้ได้",
+   "desc2": "Before the host takes action, increases their DEF by 700 for 2 turn(s), then applies a 2-turn [Shield] equal to 400% of self DEF to the host Animus and ally with the lowest HP percentage. Cannot stack with similar effects granted by Shells.",
+   "desc2_th": "ก่อนที่โฮสต์จะทำแอ็กชัน เพิ่ม DEF ของพวกเขา 700 เป็นเวลา 2 เทิร์น และมอบ [Shield] เท่ากับ 400% ของ DEF ของตนเองเป็นเวลา 2 เทิร์น ให้กับ Animus โฮสต์และพันธมิตรที่มีเปอร์เซ็นต์ HP ต่ำที่สุด ไม่สามารถซ้อนทับกับเอฟเฟ็กต์ที่คล้ายกันซึ่ง Shell มอบให้ได้"
+  },
+  "54415": {
+   "item_id": 54415,
+   "icon": "WhiteBlast",
+   "agt_name": "Dark Moon",
+   "agt_name_th": "Dark Moon",
+   "desc1": "Before the host takes action, deals 2 hit(s) of 80%+2000 damage to the target with the highest ATK and extends the duration of non-control debuffs inflicted by the host this turn by 1 turn(s) (excluding [DoT]), then increases the host Animus' Effect ACC by 40% in the current turn.",
+   "desc1_th": "ก่อนที่โฮสต์จะทำแอ็กชัน สร้าง DMG 80%+2000 จำนวน 2 ชุดไปยังเป้าหมายที่มี ATK สูงที่สุด และขยายระยะเวลาของดีบัฟที่ไม่ใช่ประเภทควบคุมที่มอบโดยโฮสต์ในเทิร์นนี้ เป็นเวลา 1 เทิร์น (ยกเว้น [DoT]) จากนั้นเพิ่ม Effect ACC ให้ Animus โฮสต์ 40% ในเทิร์นนี้",
+   "desc2": "Before the host takes action, deals 2 hit(s) of 100%+2500 damage to the target with the highest ATK and extends the duration of non-control debuffs inflicted by the host this turn by 1 turn(s) (excluding [DoT]), then increases the host Animus' Effect ACC by 50% in the current turn.",
+   "desc2_th": "ก่อนที่โฮสต์จะทำแอ็กชัน สร้าง DMG 100%+2500 จำนวน 2 ชุดไปยังเป้าหมายที่มี ATK สูงที่สุด และขยายระยะเวลาของดีบัฟที่ไม่ใช่ประเภทควบคุมที่มอบโดยโฮสต์ในเทิร์นนี้ เป็นเวลา 1 เทิร์น (ยกเว้น [DoT]) จากนั้นเพิ่ม Effect ACC ให้ Animus โฮสต์ 50% ในเทิร์นนี้"
+  },
+  "54425": {
+   "item_id": 54425,
+   "icon": "Storm",
+   "agt_name": "Halloween",
+   "agt_name_th": "ฮาโลวีน",
+   "desc1": "After the host takes action, has a 85% chance to reduce the CD of 1 random skill(s) on CD by 1 turn(s).",
+   "desc1_th": "หลังจากโฮสต์ทำแอ็กชัน จะมีโอกาส 85% ที่จะลด CD ของสกิลที่กำลังคูลดาวน์แบบสุ่ม 1 สกิล เป็นเวลา 1 เทิร์น",
+   "desc2": "After the host takes action, has a 100% chance to reduce the CD of 1 random skill(s) on CD by 1 turn(s).",
+   "desc2_th": "หลังจากโฮสต์ทำแอ็กชัน จะมีโอกาส 100% ที่จะลด CD ของสกิลที่กำลังคูลดาวน์แบบสุ่ม 1 สกิล เป็นเวลา 1 เทิร์น"
+  },
+  "54435": {
+   "item_id": 54435,
+   "icon": "WrongRoad",
+   "agt_name": "Count",
+   "agt_name_th": "Count",
+   "desc1": "Before the host takes action, increases their ATK by 1000 for 2 turn(s) and additionally applies a 2-turn [Life Leech - Shell] to them.",
+   "desc1_th": "ก่อนที่โฮสต์จะทำแอ็กชัน เพิ่ม ATK ของพวกเขาขึ้น 1000 เป็นเวลา 2 เทิร์น และมอบ [Life Leech - Shell] เพิ่มเติมเป็นเวลา 2 เทิร์นให้กับโฮสต์",
+   "desc2": "Before the host takes action, increases their ATK by 1200 for 2 turn(s) and additionally applies a 2-turn [Life Leech - Shell] to them.",
+   "desc2_th": "ก่อนที่โฮสต์จะทำแอ็กชัน เพิ่ม ATK ของพวกเขาขึ้น 1200 เป็นเวลา 2 เทิร์น และมอบ [Life Leech - Shell] เพิ่มเติมเป็นเวลา 2 เทิร์นให้กับโฮสต์"
+  },
+  "54445": {
+   "item_id": 54445,
+   "icon": "ShanHaiJing",
+   "agt_name": "Lighthouse",
+   "agt_name_th": "Lighthouse",
+   "desc1": "Triggers when the host takes cumulative damage greater than 25% of max HP within a turn, healing the host for 20% of max HP and increasing their Turn Meter by 20%.",
+   "desc1_th": "ทำงานเมื่อโฮสต์ได้รับ DMG มากกว่า 25% ของ Max HP ภายใน 1 เทิร์น โดยจะฮีลโฮสต์เท่ากับ 20% ของ Max HP และเพิ่มความคืบหน้าเกจเทิร์นขึ้น 20%",
+   "desc2": "Triggers when the host takes cumulative damage greater than 25% of max HP within a turn, healing the host for 25% of max HP and increasing their Turn Meter by 25%.",
+   "desc2_th": "ทำงานเมื่อโฮสต์ได้รับ DMG มากกว่า 25% ของ Max HP ภายใน 1 เทิร์น โดยจะฮีลโฮสต์เท่ากับ 25% ของ Max HP และเพิ่มความคืบหน้าเกจเทิร์นขึ้น 25%"
+  },
+  "54455": {
+   "item_id": 54455,
+   "icon": "JackalGuard",
+   "agt_name": "Jackal Guard",
+   "agt_name_th": "Jackal Guard",
+   "desc1": "After the host takes action, performs a follow-up attack on the main target, dealing 200%+3500 damage, applying a 2-turn [SPD ↑] to the host Animus, and increasing their Turn Meter by 25%.",
+   "desc1_th": "หลังโฮสต์ทำแอ็กชัน จะโจมตีตามซ้ำเป้าหมายหลัก สร้าง DMG 200%+3500 มอบ [SPD ↑] เป็นเวลา 2 เทิร์นให้กับ Animus โฮสต์และเพิ่มเกจเทิร์นขึ้น 25%",
+   "desc2": "After the host takes action, performs a follow-up attack on the main target, dealing 240%+4200 damage, applying a 3-turn [SPD ↑] to the host Animus, and increasing their Turn Meter by 25%.",
+   "desc2_th": "หลังโฮสต์ทำแอ็กชัน จะโจมตีตามซ้ำเป้าหมายหลัก สร้าง DMG 240%+4200 มอบ [SPD ↑] เป็นเวลา 3 เทิร์นให้กับ Animus โฮสต์และเพิ่มเกจเทิร์นขึ้น 25%"
+  },
+  "54465": {
+   "item_id": 54465,
+   "icon": "Revelation",
+   "agt_name": "Revelation",
+   "agt_name_th": "Revelation",
+   "desc1": "Before the host takes action, enables each CRIT hit dealt by the host Animus in this turn to deal additional indirect real damage equal to 10% of the target's max HP (total damage dealt per hit cannot exceed 150% of self ATK). In PvP mode, damage dealt will be reduced by 30% due to the Etherena effect - Protection Field.",
+   "desc1_th": "ก่อนที่โฮสต์จะทำแอ็กชัน แต่ละการโจมตีติด CRIT ที่ Animus โฮสต์ทำได้ในเทิร์นนี้ จะสร้าง DMG จริงทางอ้อมเพิ่มเติมเท่ากับ 10% ของ Max HP ของเป้าหมาย (DMG รวมที่ทำได้ต่อชุดจะไม่เกิน 150% ของ ATK ของตนเอง) ในโหมด PVP ลด DMG ลง 30% ภายใต้เอฟเฟ็กต์อีเทอรีน่า - Protection Field",
+   "desc2": "Before the host takes action, enables each CRIT hit dealt by the host Animus in this turn to deal additional indirect real damage equal to 12% of the target's max HP (total damage dealt per hit cannot exceed 180% of self ATK). In PvP mode, damage dealt will be reduced by 30% due to the Etherena effect - Protection Field.",
+   "desc2_th": "ก่อนที่โฮสต์จะทำแอ็กชัน แต่ละการโจมตีติด CRIT ที่ Animus โฮสต์ทำได้ในเทิร์นนี้ จะสร้าง DMG จริงทางอ้อมเพิ่มเติมเท่ากับ 12% ของ Max HP ของเป้าหมาย (DMG รวมที่ทำได้ต่อชุดจะไม่เกิน 180% ของ ATK ของตนเอง) ในโหมด PVP ลด DMG ลง 30% ภายใต้เอฟเฟ็กต์อีเทอรีน่า - Protection Field"
+  },
+  "54475": {
+   "item_id": 54475,
+   "icon": "Amber",
+   "agt_name": "Amber",
+   "agt_name_th": "Amber",
+   "desc1": "When the host Animus is about to die, halves their current Turn Meter, recovers 50% of their max HP, removes all effects applied to them, and puts them into a 1-turn [Iced] state. This skill cannot have its CD reduced.",
+   "desc1_th": "เมื่อ Animus โฮสต์กำลังจะตาย จะลดเกจเทิร์นปัจจุบันลงครึ่งหนึ่ง ฟื้นฟู 50% ของ Max HP ลบเอฟเฟ็กต์ทั้งหมดบนตัว Animus โฮสต์ และทำให้เข้าสู่สถานะ [Iced] เป็นเวลา 1 เทิร์น สกิลนี้ไม่สามารถลด CD ได้",
+   "desc2": "When the host Animus is about to die, halves their current Turn Meter, recovers 60% of their max HP, removes all effects applied to them, and puts them into a 1-turn [Iced] state. This skill cannot have its CD reduced.",
+   "desc2_th": "เมื่อ Animus โฮสต์กำลังจะตาย จะลดเกจเทิร์นปัจจุบันลงครึ่งหนึ่ง ฟื้นฟู 60% ของ Max HP ลบเอฟเฟ็กต์ทั้งหมดบนตัว Animus โฮสต์ และทำให้เข้าสู่สถานะ [Iced] เป็นเวลา 1 เทิร์น สกิลนี้ไม่สามารถลด CD ได้"
+  },
+  "54485": {
+   "item_id": 54485,
+   "icon": "TheStrongestVoice",
+   "agt_name": "Fortissimo",
+   "agt_name_th": "Fortissimo",
+   "desc1": "Each time the host Animus heals, stores 30% of the actual healing and 60% of the excess healing. Before the host takes action, if any ally's HP percentage is below 60%, heals all eligible allies equally using all stored healing.",
+   "desc1_th": "ทุกครั้งที่ Animus โฮสต์ฮีล จะกักเก็บ 30% ของการฮีลจริงและ 60% ของการฮีลที่เกินมา ก่อนที่โฮสต์จะทำแอ็กชัน หากเปอร์เซ็นต์ HP ของพันธมิตรน้อยกว่า 60% จะฮีลพันธมิตรที่มีสิทธิ์ทั้งหมดเท่า ๆ กันโดยใช้การฮีลที่กักเก็บไว้ทั้งหมด",
+   "desc2": "Each time the host Animus heals, stores 35% of the actual healing and 70% of the excess healing. Before the host takes action, if any ally's HP percentage is below 60%, heals all eligible allies equally using all stored healing.",
+   "desc2_th": "ทุกครั้งที่ Animus โฮสต์ฮีล จะกักเก็บ 35% ของการฮีลจริงและ 70% ของการฮีลที่เกินมา ก่อนที่โฮสต์จะทำแอ็กชัน หากเปอร์เซ็นต์ HP ของพันธมิตรน้อยกว่า 60% จะฮีลพันธมิตรที่มีสิทธิ์ทั้งหมดเท่า ๆ กันโดยใช้การฮีลที่กักเก็บไว้ทั้งหมด"
+  },
+  "54495": {
+   "item_id": 54495,
+   "icon": "ReaperSteps",
+   "agt_name": "Reaper Steps",
+   "agt_name_th": "Reaper Steps",
+   "desc1": "Whenever the host resists any debuff, increases their Turn Meter by 16%. This effect can trigger up to 1 time(s) per turn and can activate even when the Animus is unable to act.",
+   "desc1_th": "เมื่อใดก็ตามที่โฮสต์ต้านทานดีบัฟใด ๆ จะเพิ่มเกจเทิร์นของพวกเขาขึ้น 16% เอฟเฟ็กต์นี้สามารถเกิดขึ้นได้สูงสุด 1 ครั้งต่อเทิร์น และเกิดขึ้นได้แม้ในขณะที่ Animus ไม่สามารถทำแอ็กชันได้",
+   "desc2": "Whenever the host resists any debuff, increases their Turn Meter by 20%. This effect can trigger up to 1 time(s) per turn and can activate even when the Animus is unable to act.",
+   "desc2_th": "เมื่อใดก็ตามที่โฮสต์ต้านทานดีบัฟใด ๆ จะเพิ่มเกจเทิร์นของพวกเขาขึ้น 20% เอฟเฟ็กต์นี้สามารถเกิดขึ้นได้สูงสุด 1 ครั้งต่อเทิร์น และเกิดขึ้นได้แม้ในขณะที่ Animus ไม่สามารถทำแอ็กชันได้"
+  },
+  "54505": {
+   "item_id": 54505,
+   "icon": "Ouroboros",
+   "agt_name": "Ouroboros",
+   "agt_name_th": "Ouroboros",
+   "desc1": "Before the host takes action, if the Animus's HP percentage is above 70%, increases the host's damage dealt by 5% and SPD by 5, up to 6 stack(s).",
+   "desc1_th": "ก่อนที่โฮสต์จะทำแอ็กชัน หากเปอร์เซ็นต์ HP ของ Animus สูงกว่า 70% จะเพิ่ม DMG ที่โฮสต์ทำได้ขึ้น 5% และเพิ่ม SPD ขึ้น 5 สูงสุด 6 ชั้น",
+   "desc2": "Before the host takes action, if the Animus's HP percentage is above 70%, increases the host's damage dealt by 6% and SPD by 6, up to 7 stack(s).",
+   "desc2_th": "ก่อนที่โฮสต์จะทำแอ็กชัน หากเปอร์เซ็นต์ HP ของ Animus สูงกว่า 70% จะเพิ่ม DMG ที่โฮสต์ทำได้ขึ้น 6% และเพิ่ม SPD ขึ้น 6 สูงสุด 7 ชั้น"
+  },
+  "54515": {
+   "item_id": 54515,
+   "icon": "SwordVII",
+   "agt_name": "Sword VII",
+   "agt_name_th": "Sword VII",
+   "desc1": "Before the host takes action, additionally increases the host Animus's damage dealt by 40% against controlled enemies for 2 turn(s).",
+   "desc1_th": "ก่อนที่โฮสต์จะทำแอ็กชัน จะเพิ่ม DMG ที่ Animus โฮสต์ทำได้เพิ่มเติมขึ้น 40% ต่อศัตรูที่ถูกควบคุม เป็นเวลา 2 เทิร์น",
+   "desc2": "Before the host takes action, additionally increases the host Animus's damage dealt by 50% against controlled enemies for 2 turn(s).",
+   "desc2_th": "ก่อนที่โฮสต์จะทำแอ็กชัน จะเพิ่ม DMG ที่ Animus โฮสต์ทำได้เพิ่มเติมขึ้น 50% ต่อศัตรูที่ถูกควบคุม เป็นเวลา 2 เทิร์น"
+  },
+  "54525": {
+   "item_id": 54525,
+   "icon": "TigerYin",
+   "agt_name": "Tiger Yin",
+   "agt_name_th": "Tiger Yin",
+   "desc1": "Before the host takes action, selects the enemy with the lowest HP percentage (boss first) and deals 160% damage to them, additionally increasing their No.1 instance of damage taken in this turn by 40%.",
+   "desc1_th": "ก่อนที่โฮสต์จะทำแอ็กชัน เลือกศัตรูที่มีเปอร์เซ็นต์ HP ต่ำที่สุด (เลือกบอสก่อน) และสร้าง DMG 160% ใส่พวกเขา และทำให้ DMG ครั้งที่ 1 ที่ได้รับในเทิร์นนี้เพิ่มขึ้น 40%",
+   "desc2": "Before the host takes action, selects the enemy with the lowest HP percentage (boss first) and deals 180% damage to them, additionally increasing their No.1 instance of damage taken in this turn by 50%.",
+   "desc2_th": "ก่อนที่โฮสต์จะทำแอ็กชัน เลือกศัตรูที่มีเปอร์เซ็นต์ HP ต่ำที่สุด (เลือกบอสก่อน) และสร้าง DMG 180% ใส่พวกเขา และทำให้ DMG ครั้งที่ 1 ที่ได้รับในเทิร์นนี้เพิ่มขึ้น 50%"
+  },
+  "54535": {
+   "item_id": 54535,
+   "icon": "ChampCroc",
+   "agt_name": "Champion Gator",
+   "agt_name_th": "Champion Gator",
+   "desc1": "When a unit dies in battle, purifies 3 debuff(s) from the owner Animus, restores 50% of their max HP, and increases their Turn Meter by 30%. If multiple units die simultaneously, this effect triggers only once.",
+   "desc1_th": "เมื่อยูนิตตายในการต่อสู้ จะชะล้าง 3 ดีบัฟจาก Animus โฮสต์ ฟื้นฟู 50% ของ Max HP และเพิ่มเกจเทิร์นขึ้น 30% จะทำงานแค่ครั้งเดียวเท่านั้นแม้ยูนิตหลายตัวตายพร้อมกัน",
+   "desc2": "When a unit dies in battle, purifies all debuffs from the owner Animus, restores 50% of their max HP, and increases their Turn Meter by 30%. If multiple units die simultaneously, this effect triggers only once.",
+   "desc2_th": "เมื่อยูนิตตายในการต่อสู้ จะชะล้างดีบัฟทั้งหมดจาก Animus โฮสต์ ฟื้นฟู 50% ของ Max HP และเพิ่มเกจเทิร์นขึ้น 30% จะทำงานแค่ครั้งเดียวเท่านั้นแม้ยูนิตหลายตัวตายพร้อมกัน"
+  },
+  "54545": {
+   "item_id": 54545,
+   "icon": "MoonBunny",
+   "agt_name": "Moon Bunny",
+   "agt_name_th": "กระต่ายจันทรา",
+   "desc1": "At the start of battle, the owner Animus gains 1 stack(s) of [Mortal Essence]. Every 3 turn(s) afterward, the owner Animus gains 2 stack(s) of [Mortal Essence] before the turn.",
+   "desc1_th": "เมื่อเริ่มต้นการต่อสู้ จะมอบ [Mortal Essence] 1 ชั้นให้กับ Animus โฮสต์ หลังจากนั้น ทุก ๆ 3 เทิร์นจะมอบ [Mortal Essence] 2 ชั้นให้กับ Animus โฮสต์ก่อนเริ่มเทิร์น",
+   "desc2": "At the start of battle, the owner Animus gains 1 stack(s) of [Mortal Essence]. Every 3 turn(s) afterward, the owner Animus gains 3 stack(s) of [Mortal Essence] before the turn.",
+   "desc2_th": "เมื่อเริ่มต้นการต่อสู้ จะมอบ [Mortal Essence] 1 ชั้นให้กับ Animus โฮสต์ หลังจากนั้น ทุก ๆ 3 เทิร์นจะมอบ [Mortal Essence] 3 ชั้นให้กับ Animus โฮสต์ก่อนเริ่มเทิร์น"
+  },
+  "54555": {
+   "item_id": 54555,
+   "icon": "Doomcrow",
+   "agt_name": "Doom Crow",
+   "agt_name_th": "Doom Crow",
+   "desc1": "After the owner Animus launches an extra attack, follows up on the main target, dealing damage equal to 200% of self DEF.",
+   "desc1_th": "หลังจาก Animus โฮสต์โจมตีนอกเทิร์นของตัวเอง จะโจมตีตามซ้ำเป้าหมายหลักและสร้าง DMG เท่ากับ 200% ของ DEF ของตัวเอง",
+   "desc2": "After the owner Animus launches an extra attack, follows up on the main target, dealing damage equal to 240% of self DEF.",
+   "desc2_th": "หลังจาก Animus โฮสต์โจมตีนอกเทิร์นของตัวเอง จะโจมตีตามซ้ำเป้าหมายหลักและสร้าง DMG เท่ากับ 240% ของ DEF ของตัวเอง"
+  },
+  "54565": {
+   "item_id": 54565,
+   "icon": "ProdigyPlayer",
+   "agt_name": "Ace Batter",
+   "agt_name_th": "จอมหวดมือหนึ่ง",
+   "desc1": "After the owner takes action, follows up on the main target, dealing 160% damage. Each trigger permanently increases this skill's damage multiplier by 160%, up to 5 time(s).",
+   "desc1_th": "หลังจากโฮสต์ทำแอ็กชัน จะโจมตีตามซ้ำเป้าหมายหลัก และสร้าง DMG 160% ทุกครั้งที่ทำงานจะเพิ่มตัวคูณ DMG ของสกิลนี้ขึ้นอีก 160% อย่างถาวร สูงสุด 5 ครั้ง",
+   "desc2": "After the owner takes action, follows up on the main target, dealing 200% damage. Each trigger permanently increases this skill's damage multiplier by 200%, up to 5 time(s).",
+   "desc2_th": "หลังจากโฮสต์ทำแอ็กชัน จะโจมตีตามซ้ำเป้าหมายหลัก และสร้าง DMG 200% ทุกครั้งที่ทำงานจะเพิ่มตัวคูณ DMG ของสกิลนี้ขึ้นอีก 200% อย่างถาวร สูงสุด 5 ครั้ง"
+  }
+ },
+ "text_chunk": "00001_6b2e16557e05eb66.json"
+}

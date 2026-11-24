@@ -1,0 +1,528 @@
+{
+ "config": "arenabet_setmaker",
+ "fields": [
+  "id",
+  "first_affix",
+  "second_affix"
+ ],
+ "rows": [
+  {
+   "id": 1,
+   "first_affix": {
+    "id": 17,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 34,
+    "count": 12
+   }
+  },
+  {
+   "id": 2,
+   "first_affix": {
+    "id": 6,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 34,
+    "count": 12
+   }
+  },
+  {
+   "id": 3,
+   "first_affix": {
+    "id": 15,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 34,
+    "count": 12
+   }
+  },
+  {
+   "id": 4,
+   "first_affix": {
+    "id": 4,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 34,
+    "count": 12
+   }
+  },
+  {
+   "id": 5,
+   "first_affix": {
+    "id": 4,
+    "count": 12
+   },
+   "second_affix": {
+    "id": 10,
+    "count": 8
+   }
+  },
+  {
+   "id": 6,
+   "first_affix": {
+    "id": 4,
+    "count": 12
+   },
+   "second_affix": {
+    "id": 5,
+    "count": 8
+   }
+  },
+  {
+   "id": 7,
+   "first_affix": {
+    "id": 4,
+    "count": 12
+   },
+   "second_affix": {
+    "id": 12,
+    "count": 8
+   }
+  },
+  {
+   "id": 8,
+   "first_affix": {
+    "id": 4,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 33,
+    "count": 12
+   }
+  },
+  {
+   "id": 9,
+   "first_affix": {
+    "id": 4,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 32,
+    "count": 12
+   }
+  },
+  {
+   "id": 10,
+   "first_affix": {
+    "id": 5,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 33,
+    "count": 12
+   }
+  },
+  {
+   "id": 11,
+   "first_affix": {
+    "id": 12,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 32,
+    "count": 12
+   }
+  },
+  {
+   "id": 12,
+   "first_affix": {
+    "id": 17,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 32,
+    "count": 12
+   }
+  },
+  {
+   "id": 13,
+   "first_affix": {
+    "id": 8,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 34,
+    "count": 12
+   }
+  },
+  {
+   "id": 14,
+   "first_affix": {
+    "id": 8,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 32,
+    "count": 12
+   }
+  },
+  {
+   "id": 15,
+   "first_affix": {
+    "id": 4,
+    "count": 12
+   },
+   "second_affix": {
+    "id": 17,
+    "count": 8
+   }
+  },
+  {
+   "id": 16,
+   "first_affix": {
+    "id": 4,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 3,
+    "count": 12
+   }
+  },
+  {
+   "id": 17,
+   "first_affix": {
+    "id": 17,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 30,
+    "count": 12
+   }
+  },
+  {
+   "id": 18,
+   "first_affix": {
+    "id": 6,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 30,
+    "count": 12
+   }
+  },
+  {
+   "id": 19,
+   "first_affix": {
+    "id": 4,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 1,
+    "count": 12
+   }
+  },
+  {
+   "id": 20,
+   "first_affix": {
+    "id": 1,
+    "count": 12
+   },
+   "second_affix": {
+    "id": 8,
+    "count": 8
+   }
+  },
+  {
+   "id": 21,
+   "first_affix": {
+    "id": 4,
+    "count": 12
+   },
+   "second_affix": {
+    "id": 1,
+    "count": 8
+   }
+  },
+  {
+   "id": 22,
+   "first_affix": {
+    "id": 4,
+    "count": 12
+   },
+   "second_affix": {
+    "id": 8,
+    "count": 8
+   }
+  },
+  {
+   "id": 23,
+   "first_affix": {
+    "id": 32,
+    "count": 12
+   },
+   "second_affix": {
+    "id": 10,
+    "count": 8
+   }
+  },
+  {
+   "id": 24,
+   "first_affix": {
+    "id": 33,
+    "count": 12
+   },
+   "second_affix": {
+    "id": 10,
+    "count": 8
+   }
+  },
+  {
+   "id": 25,
+   "first_affix": {
+    "id": 1,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 34,
+    "count": 12
+   }
+  },
+  {
+   "id": 26,
+   "first_affix": {
+    "id": 1,
+    "count": 12
+   },
+   "second_affix": {
+    "id": 15,
+    "count": 8
+   }
+  },
+  {
+   "id": 27,
+   "first_affix": {
+    "id": 4,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 39,
+    "count": 12
+   }
+  },
+  {
+   "id": 28,
+   "first_affix": {
+    "id": 19,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 4,
+    "count": 12
+   }
+  },
+  {
+   "id": 29,
+   "first_affix": {
+    "id": 18,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 32,
+    "count": 12
+   }
+  },
+  {
+   "id": 30,
+   "first_affix": {
+    "id": 5,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 39,
+    "count": 12
+   }
+  },
+  {
+   "id": 31,
+   "first_affix": {
+    "id": 18,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 39,
+    "count": 12
+   }
+  },
+  {
+   "id": 32,
+   "first_affix": {
+    "id": 19,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 32,
+    "count": 12
+   }
+  },
+  {
+   "id": 33,
+   "first_affix": {
+    "id": 17,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 34,
+    "count": 12
+   }
+  },
+  {
+   "id": 34,
+   "first_affix": {
+    "id": 18,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 39,
+    "count": 12
+   }
+  },
+  {
+   "id": 35,
+   "first_affix": {
+    "id": 6,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 4,
+    "count": 12
+   }
+  },
+  {
+   "id": 36,
+   "first_affix": {
+    "id": 12,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 32,
+    "count": 12
+   }
+  },
+  {
+   "id": 37,
+   "first_affix": {
+    "id": 4,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 32,
+    "count": 12
+   }
+  },
+  {
+   "id": 38,
+   "first_affix": {
+    "id": 4,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 32,
+    "count": 12
+   }
+  },
+  {
+   "id": 39,
+   "first_affix": {
+    "id": 17,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 40,
+    "count": 12
+   }
+  },
+  {
+   "id": 40,
+   "first_affix": {
+    "id": 2,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 4,
+    "count": 12
+   }
+  },
+  {
+   "id": 41,
+   "first_affix": {
+    "id": 21,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 4,
+    "count": 12
+   }
+  },
+  {
+   "id": 42,
+   "first_affix": {
+    "id": 20,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 4,
+    "count": 12
+   }
+  },
+  {
+   "id": 43,
+   "first_affix": {
+    "id": 4,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 2,
+    "count": 12
+   }
+  },
+  {
+   "id": 44,
+   "first_affix": {
+    "id": 5,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 4,
+    "count": 12
+   }
+  },
+  {
+   "id": 45,
+   "first_affix": {
+    "id": 12,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 4,
+    "count": 12
+   }
+  },
+  {
+   "id": 46,
+   "first_affix": {
+    "id": 12,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 32,
+    "count": 12
+   }
+  },
+  {
+   "id": 47,
+   "first_affix": {
+    "id": 17,
+    "count": 8
+   },
+   "second_affix": {
+    "id": 34,
+    "count": 12
+   }
+  }
+ ],
+ "text_chunk": null
+}

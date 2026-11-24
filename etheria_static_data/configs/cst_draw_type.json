@@ -1,0 +1,117 @@
+{
+ "config": "cst_draw_type",
+ "fields": [
+  "pool_type",
+  "draw_num",
+  "weight_add",
+  "max_num",
+  "type_name"
+ ],
+ "rows": {
+  "101": {
+   "pool_type": 101,
+   "draw_num": 50,
+   "weight_add": 2,
+   "max_num": 80,
+   "type_name": "Permanent Summon",
+   "type_name_th": "อัญเชิญถาวร"
+  },
+  "102": {
+   "pool_type": 102,
+   "draw_num": 40,
+   "weight_add": 2,
+   "max_num": 40,
+   "type_name": "Targeted Summon",
+   "type_name_th": "อัญเชิญแบบเลือกเป้าหมาย"
+  },
+  "103": {
+   "pool_type": 103,
+   "draw_num": 50,
+   "weight_add": 2,
+   "max_num": 80,
+   "type_name": "Extre-Affinity Summon",
+   "type_name_th": "อัญเชิญสุดขั้ว"
+  },
+  "104": {
+   "pool_type": 104,
+   "draw_num": 80,
+   "weight_add": 2,
+   "max_num": 80,
+   "type_name": "Anima Limited Summon",
+   "type_name_th": "อัญเชิญแบบจำกัด Anima"
+  },
+  "105": {
+   "pool_type": 105,
+   "draw_num": 80,
+   "weight_add": 2,
+   "max_num": 80,
+   "type_name": "Apex Limited Summon",
+   "type_name_th": "อัญเชิญสุดขั้วลิมิเต็ด"
+  },
+  "106": {
+   "pool_type": 106,
+   "draw_num": 0,
+   "weight_add": 0,
+   "max_num": 0,
+   "type_name": "Ascension Summon",
+   "type_name_th": "อัญเชิญขั้นสุดยอด"
+  },
+  "107": {
+   "pool_type": 107,
+   "draw_num": 0,
+   "weight_add": 0,
+   "max_num": 0,
+   "type_name": "Transcendence Summon",
+   "type_name_th": "อัญเชิญเหนือโลก"
+  },
+  "108": {
+   "pool_type": 108,
+   "draw_num": 50,
+   "weight_add": 2,
+   "max_num": 80,
+   "type_name": "Event Draw",
+   "type_name_th": "การสุ่มในช่วงอีเวนต์"
+  },
+  "109": {
+   "pool_type": 109,
+   "draw_num": 80,
+   "weight_add": 2,
+   "max_num": 80,
+   "type_name": "Reunion Letter",
+   "type_name_th": "จดหมายหวนคืน"
+  },
+  "110": {
+   "pool_type": 110,
+   "draw_num": 0,
+   "weight_add": 0,
+   "max_num": 0,
+   "type_name": "Apex Aspect Summon",
+   "type_name_th": "Apex Aspect Summon"
+  },
+  "111": {
+   "pool_type": 111,
+   "draw_num": 80,
+   "weight_add": 2,
+   "max_num": 80,
+   "type_name": "Kinetic Summon",
+   "type_name_th": "อัญเชิญเลือกเป้าหมาย Kinetic"
+  },
+  "112": {
+   "pool_type": 112,
+   "draw_num": 30,
+   "weight_add": 2,
+   "max_num": 30,
+   "type_name": "Covenant Consonance",
+   "type_name_th": "คำเชิญนำโชค"
+  },
+  "113": {
+   "pool_type": 113,
+   "draw_num": 80,
+   "weight_add": 2,
+   "max_num": 80,
+   "type_name": "Apex Targeted Summon",
+   "type_name_th": "อัญเชิญเลือกเป้าหมาย Apex"
+  }
+ },
+ "text_chunk": "00068_3d2a30da5a75b472.json"
+}

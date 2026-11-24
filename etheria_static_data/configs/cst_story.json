@@ -1,0 +1,12 @@
+{
+ "config": "cst_story",
+ "fields": [
+  "id",
+  "cst_id",
+  "pool_id",
+  "story_name",
+  "story_type",
+  "rewards"
+ ],
+ "rows": {}
+}

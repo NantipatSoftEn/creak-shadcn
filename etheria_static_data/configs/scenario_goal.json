@@ -1,0 +1,25 @@
+{
+ "config": "scenario_goal",
+ "fields": [
+  "id",
+  "desc"
+ ],
+ "rows": [
+  {
+   "id": 1,
+   "desc": "Clear this section",
+   "desc_th": "เคลียร์ฉากนี้"
+  },
+  {
+   "id": 2,
+   "desc": "Animuses die fewer than {1} time(s).",
+   "desc_th": "Animus ตายน้อยกว่า {1} ครั้ง"
+  },
+  {
+   "id": 3,
+   "desc": "Successfully ambush monsters {1} time(s).",
+   "desc_th": "ซุ่มโจมตีมอนสเตอร์สำเร็จ {1} ครั้ง"
+  }
+ ],
+ "text_chunk": "00132_e1240cb09e7803d1.json"
+}

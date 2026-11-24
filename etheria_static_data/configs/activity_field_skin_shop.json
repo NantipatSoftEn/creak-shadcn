@@ -1,0 +1,30 @@
+{
+ "config": "activity_field_skin_shop",
+ "fields": [
+  "activity_id",
+  "sub_id",
+  "goods",
+  "img_bg",
+  "ui",
+  "name",
+  "desc"
+ ],
+ "rows": {
+  "34": {
+   "activity_id": 34,
+   "sub_id": 1,
+   "goods": [
+    30010,
+    30011,
+    30012
+   ],
+   "img_bg": "T_UI_Arena_BG_Scene_001",
+   "ui": "001",
+   "name": "Neon Mirage",
+   "name_th": "นีออนลวงตา",
+   "desc": "Limited-time Sale: Contender Realm!",
+   "desc_th": "ลดราคาจำกัดเวลา: อาณาจักรผู้ท้าชิง!"
+  }
+ },
+ "text_chunk": "00010_56adb807ae9b3b24.json"
+}

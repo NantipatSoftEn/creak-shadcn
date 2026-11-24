@@ -1,0 +1,1131 @@
+{
+ "config": "agt_levelup",
+ "fields": [
+  "level",
+  "level_up_cost_1",
+  "prop_rate_1",
+  "level_up_cost_2",
+  "prop_rate_2",
+  "level_up_cost_3",
+  "prop_rate_3",
+  "level_up_cost_4",
+  "prop_rate_4",
+  "level_up_cost_5",
+  "prop_rate_5",
+  "level_up_cost_6"
+ ],
+ "rows": {
+  "1": {
+   "level": 1,
+   "level_up_cost_1": {
+    "id": 10101,
+    "count": 0
+   },
+   "prop_rate_1": 0.1,
+   "level_up_cost_2": {
+    "id": 10101,
+    "count": 0
+   },
+   "prop_rate_2": 0.1,
+   "level_up_cost_3": {
+    "id": 10101,
+    "count": 0
+   },
+   "prop_rate_3": 0.09,
+   "level_up_cost_4": {
+    "id": 10101,
+    "count": 0
+   },
+   "prop_rate_4": 0.094,
+   "level_up_cost_5": {
+    "id": 10101,
+    "count": 0
+   },
+   "prop_rate_5": 0.094,
+   "level_up_cost_6": null
+  },
+  "2": {
+   "level": 2,
+   "level_up_cost_1": {
+    "id": 10101,
+    "count": 400
+   },
+   "prop_rate_1": 0.13,
+   "level_up_cost_2": {
+    "id": 10101,
+    "count": 400
+   },
+   "prop_rate_2": 0.13,
+   "level_up_cost_3": {
+    "id": 10101,
+    "count": 600
+   },
+   "prop_rate_3": 0.11,
+   "level_up_cost_4": {
+    "id": 10101,
+    "count": 1000
+   },
+   "prop_rate_4": 0.108,
+   "level_up_cost_5": {
+    "id": 10101,
+    "count": 2000
+   },
+   "prop_rate_5": 0.108,
+   "level_up_cost_6": null
+  },
+  "3": {
+   "level": 3,
+   "level_up_cost_1": {
+    "id": 10101,
+    "count": 500
+   },
+   "prop_rate_1": 0.16,
+   "level_up_cost_2": {
+    "id": 10101,
+    "count": 500
+   },
+   "prop_rate_2": 0.16,
+   "level_up_cost_3": {
+    "id": 10101,
+    "count": 750
+   },
+   "prop_rate_3": 0.13,
+   "level_up_cost_4": {
+    "id": 10101,
+    "count": 1250
+   },
+   "prop_rate_4": 0.122,
+   "level_up_cost_5": {
+    "id": 10101,
+    "count": 2500
+   },
+   "prop_rate_5": 0.122,
+   "level_up_cost_6": null
+  },
+  "4": {
+   "level": 4,
+   "level_up_cost_1": {
+    "id": 10101,
+    "count": 600
+   },
+   "prop_rate_1": 0.19,
+   "level_up_cost_2": {
+    "id": 10101,
+    "count": 600
+   },
+   "prop_rate_2": 0.19,
+   "level_up_cost_3": {
+    "id": 10101,
+    "count": 900
+   },
+   "prop_rate_3": 0.15,
+   "level_up_cost_4": {
+    "id": 10101,
+    "count": 1500
+   },
+   "prop_rate_4": 0.136,
+   "level_up_cost_5": {
+    "id": 10101,
+    "count": 3000
+   },
+   "prop_rate_5": 0.136,
+   "level_up_cost_6": null
+  },
+  "5": {
+   "level": 5,
+   "level_up_cost_1": {
+    "id": 10101,
+    "count": 700
+   },
+   "prop_rate_1": 0.22,
+   "level_up_cost_2": {
+    "id": 10101,
+    "count": 700
+   },
+   "prop_rate_2": 0.22,
+   "level_up_cost_3": {
+    "id": 10101,
+    "count": 1050
+   },
+   "prop_rate_3": 0.17,
+   "level_up_cost_4": {
+    "id": 10101,
+    "count": 1750
+   },
+   "prop_rate_4": 0.15,
+   "level_up_cost_5": {
+    "id": 10101,
+    "count": 3500
+   },
+   "prop_rate_5": 0.15,
+   "level_up_cost_6": null
+  },
+  "6": {
+   "level": 6,
+   "level_up_cost_1": {
+    "id": 10101,
+    "count": 800
+   },
+   "prop_rate_1": 0.25,
+   "level_up_cost_2": {
+    "id": 10101,
+    "count": 800
+   },
+   "prop_rate_2": 0.25,
+   "level_up_cost_3": {
+    "id": 10101,
+    "count": 1200
+   },
+   "prop_rate_3": 0.19,
+   "level_up_cost_4": {
+    "id": 10101,
+    "count": 2000
+   },
+   "prop_rate_4": 0.164,
+   "level_up_cost_5": {
+    "id": 10101,
+    "count": 4000
+   },
+   "prop_rate_5": 0.164,
+   "level_up_cost_6": null
+  },
+  "7": {
+   "level": 7,
+   "level_up_cost_1": {
+    "id": 10101,
+    "count": 900
+   },
+   "prop_rate_1": 0.28,
+   "level_up_cost_2": {
+    "id": 10101,
+    "count": 900
+   },
+   "prop_rate_2": 0.28,
+   "level_up_cost_3": {
+    "id": 10101,
+    "count": 1350
+   },
+   "prop_rate_3": 0.21,
+   "level_up_cost_4": {
+    "id": 10101,
+    "count": 2250
+   },
+   "prop_rate_4": 0.178,
+   "level_up_cost_5": {
+    "id": 10101,
+    "count": 4500
+   },
+   "prop_rate_5": 0.178,
+   "level_up_cost_6": null
+  },
+  "8": {
+   "level": 8,
+   "level_up_cost_1": {
+    "id": 10101,
+    "count": 1000
+   },
+   "prop_rate_1": 0.31,
+   "level_up_cost_2": {
+    "id": 10101,
+    "count": 1000
+   },
+   "prop_rate_2": 0.31,
+   "level_up_cost_3": {
+    "id": 10101,
+    "count": 1500
+   },
+   "prop_rate_3": 0.23,
+   "level_up_cost_4": {
+    "id": 10101,
+    "count": 2500
+   },
+   "prop_rate_4": 0.192,
+   "level_up_cost_5": {
+    "id": 10101,
+    "count": 5000
+   },
+   "prop_rate_5": 0.192,
+   "level_up_cost_6": null
+  },
+  "9": {
+   "level": 9,
+   "level_up_cost_1": {
+    "id": 10101,
+    "count": 1100
+   },
+   "prop_rate_1": 0.34,
+   "level_up_cost_2": {
+    "id": 10101,
+    "count": 1100
+   },
+   "prop_rate_2": 0.34,
+   "level_up_cost_3": {
+    "id": 10101,
+    "count": 1650
+   },
+   "prop_rate_3": 0.25,
+   "level_up_cost_4": {
+    "id": 10101,
+    "count": 2750
+   },
+   "prop_rate_4": 0.206,
+   "level_up_cost_5": {
+    "id": 10101,
+    "count": 5500
+   },
+   "prop_rate_5": 0.206,
+   "level_up_cost_6": null
+  },
+  "10": {
+   "level": 10,
+   "level_up_cost_1": {
+    "id": 10101,
+    "count": 1200
+   },
+   "prop_rate_1": 0.37,
+   "level_up_cost_2": {
+    "id": 10101,
+    "count": 1200
+   },
+   "prop_rate_2": 0.37,
+   "level_up_cost_3": {
+    "id": 10101,
+    "count": 1800
+   },
+   "prop_rate_3": 0.27,
+   "level_up_cost_4": {
+    "id": 10101,
+    "count": 3000
+   },
+   "prop_rate_4": 0.22,
+   "level_up_cost_5": {
+    "id": 10101,
+    "count": 6000
+   },
+   "prop_rate_5": 0.22,
+   "level_up_cost_6": null
+  },
+  "101": {
+   "level": 101,
+   "level_up_cost_1": {
+    "id": 10101,
+    "count": 4000
+   },
+   "prop_rate_1": 0.535,
+   "level_up_cost_2": {
+    "id": 10101,
+    "count": 4000
+   },
+   "prop_rate_2": 0.535,
+   "level_up_cost_3": {
+    "id": 10101,
+    "count": 6000
+   },
+   "prop_rate_3": 0.38,
+   "level_up_cost_4": {
+    "id": 10101,
+    "count": 10000
+   },
+   "prop_rate_4": 0.31,
+   "level_up_cost_5": {
+    "id": 10101,
+    "count": 20000
+   },
+   "prop_rate_5": 0.31,
+   "level_up_cost_6": null
+  },
+  "11": {
+   "level": 11,
+   "level_up_cost_1": {
+    "id": 10101,
+    "count": 1600
+   },
+   "prop_rate_1": 0.565,
+   "level_up_cost_2": {
+    "id": 10101,
+    "count": 1600
+   },
+   "prop_rate_2": 0.565,
+   "level_up_cost_3": {
+    "id": 10101,
+    "count": 2400
+   },
+   "prop_rate_3": 0.4,
+   "level_up_cost_4": {
+    "id": 10101,
+    "count": 4000
+   },
+   "prop_rate_4": 0.324,
+   "level_up_cost_5": {
+    "id": 10101,
+    "count": 8000
+   },
+   "prop_rate_5": 0.324,
+   "level_up_cost_6": null
+  },
+  "12": {
+   "level": 12,
+   "level_up_cost_1": {
+    "id": 10101,
+    "count": 1800
+   },
+   "prop_rate_1": 0.595,
+   "level_up_cost_2": {
+    "id": 10101,
+    "count": 1800
+   },
+   "prop_rate_2": 0.595,
+   "level_up_cost_3": {
+    "id": 10101,
+    "count": 2700
+   },
+   "prop_rate_3": 0.42,
+   "level_up_cost_4": {
+    "id": 10101,
+    "count": 4500
+   },
+   "prop_rate_4": 0.338,
+   "level_up_cost_5": {
+    "id": 10101,
+    "count": 9000
+   },
+   "prop_rate_5": 0.338,
+   "level_up_cost_6": null
+  },
+  "13": {
+   "level": 13,
+   "level_up_cost_1": {
+    "id": 10101,
+    "count": 2000
+   },
+   "prop_rate_1": 0.625,
+   "level_up_cost_2": {
+    "id": 10101,
+    "count": 2000
+   },
+   "prop_rate_2": 0.625,
+   "level_up_cost_3": {
+    "id": 10101,
+    "count": 3000
+   },
+   "prop_rate_3": 0.44,
+   "level_up_cost_4": {
+    "id": 10101,
+    "count": 5000
+   },
+   "prop_rate_4": 0.352,
+   "level_up_cost_5": {
+    "id": 10101,
+    "count": 10000
+   },
+   "prop_rate_5": 0.352,
+   "level_up_cost_6": null
+  },
+  "14": {
+   "level": 14,
+   "level_up_cost_1": {
+    "id": 10101,
+    "count": 2200
+   },
+   "prop_rate_1": 0.655,
+   "level_up_cost_2": {
+    "id": 10101,
+    "count": 2200
+   },
+   "prop_rate_2": 0.655,
+   "level_up_cost_3": {
+    "id": 10101,
+    "count": 3300
+   },
+   "prop_rate_3": 0.46,
+   "level_up_cost_4": {
+    "id": 10101,
+    "count": 5500
+   },
+   "prop_rate_4": 0.366,
+   "level_up_cost_5": {
+    "id": 10101,
+    "count": 11000
+   },
+   "prop_rate_5": 0.366,
+   "level_up_cost_6": null
+  },
+  "15": {
+   "level": 15,
+   "level_up_cost_1": {
+    "id": 10101,
+    "count": 2400
+   },
+   "prop_rate_1": 0.685,
+   "level_up_cost_2": {
+    "id": 10101,
+    "count": 2400
+   },
+   "prop_rate_2": 0.685,
+   "level_up_cost_3": {
+    "id": 10101,
+    "count": 3600
+   },
+   "prop_rate_3": 0.48,
+   "level_up_cost_4": {
+    "id": 10101,
+    "count": 6000
+   },
+   "prop_rate_4": 0.38,
+   "level_up_cost_5": {
+    "id": 10101,
+    "count": 12000
+   },
+   "prop_rate_5": 0.38,
+   "level_up_cost_6": null
+  },
+  "16": {
+   "level": 16,
+   "level_up_cost_1": {
+    "id": 10101,
+    "count": 2600
+   },
+   "prop_rate_1": 0.715,
+   "level_up_cost_2": {
+    "id": 10101,
+    "count": 2600
+   },
+   "prop_rate_2": 0.715,
+   "level_up_cost_3": {
+    "id": 10101,
+    "count": 3900
+   },
+   "prop_rate_3": 0.5,
+   "level_up_cost_4": {
+    "id": 10101,
+    "count": 6500
+   },
+   "prop_rate_4": 0.394,
+   "level_up_cost_5": {
+    "id": 10101,
+    "count": 13000
+   },
+   "prop_rate_5": 0.394,
+   "level_up_cost_6": null
+  },
+  "17": {
+   "level": 17,
+   "level_up_cost_1": {
+    "id": 10101,
+    "count": 2800
+   },
+   "prop_rate_1": 0.745,
+   "level_up_cost_2": {
+    "id": 10101,
+    "count": 2800
+   },
+   "prop_rate_2": 0.745,
+   "level_up_cost_3": {
+    "id": 10101,
+    "count": 4200
+   },
+   "prop_rate_3": 0.52,
+   "level_up_cost_4": {
+    "id": 10101,
+    "count": 7000
+   },
+   "prop_rate_4": 0.408,
+   "level_up_cost_5": {
+    "id": 10101,
+    "count": 14000
+   },
+   "prop_rate_5": 0.408,
+   "level_up_cost_6": null
+  },
+  "18": {
+   "level": 18,
+   "level_up_cost_1": {
+    "id": 10101,
+    "count": 3000
+   },
+   "prop_rate_1": 0.775,
+   "level_up_cost_2": {
+    "id": 10101,
+    "count": 3000
+   },
+   "prop_rate_2": 0.775,
+   "level_up_cost_3": {
+    "id": 10101,
+    "count": 4500
+   },
+   "prop_rate_3": 0.54,
+   "level_up_cost_4": {
+    "id": 10101,
+    "count": 7500
+   },
+   "prop_rate_4": 0.422,
+   "level_up_cost_5": {
+    "id": 10101,
+    "count": 15000
+   },
+   "prop_rate_5": 0.422,
+   "level_up_cost_6": null
+  },
+  "19": {
+   "level": 19,
+   "level_up_cost_1": {
+    "id": 10101,
+    "count": 3200
+   },
+   "prop_rate_1": 0.805,
+   "level_up_cost_2": {
+    "id": 10101,
+    "count": 3200
+   },
+   "prop_rate_2": 0.805,
+   "level_up_cost_3": {
+    "id": 10101,
+    "count": 4800
+   },
+   "prop_rate_3": 0.56,
+   "level_up_cost_4": {
+    "id": 10101,
+    "count": 8000
+   },
+   "prop_rate_4": 0.436,
+   "level_up_cost_5": {
+    "id": 10101,
+    "count": 16000
+   },
+   "prop_rate_5": 0.436,
+   "level_up_cost_6": null
+  },
+  "20": {
+   "level": 20,
+   "level_up_cost_1": {
+    "id": 10101,
+    "count": 3400
+   },
+   "prop_rate_1": 0.835,
+   "level_up_cost_2": {
+    "id": 10101,
+    "count": 3400
+   },
+   "prop_rate_2": 0.835,
+   "level_up_cost_3": {
+    "id": 10101,
+    "count": 5100
+   },
+   "prop_rate_3": 0.58,
+   "level_up_cost_4": {
+    "id": 10101,
+    "count": 8500
+   },
+   "prop_rate_4": 0.45,
+   "level_up_cost_5": {
+    "id": 10101,
+    "count": 17000
+   },
+   "prop_rate_5": 0.45,
+   "level_up_cost_6": null
+  },
+  "102": {
+   "level": 102,
+   "level_up_cost_1": {
+    "id": 10101,
+    "count": 12000
+   },
+   "prop_rate_1": 1.0,
+   "level_up_cost_2": {
+    "id": 10101,
+    "count": 12000
+   },
+   "prop_rate_2": 1.0,
+   "level_up_cost_3": {
+    "id": 10101,
+    "count": 18000
+   },
+   "prop_rate_3": 0.69,
+   "level_up_cost_4": {
+    "id": 10101,
+    "count": 30000
+   },
+   "prop_rate_4": 0.54,
+   "level_up_cost_5": {
+    "id": 10101,
+    "count": 60000
+   },
+   "prop_rate_5": 0.54,
+   "level_up_cost_6": null
+  },
+  "21": {
+   "level": 21,
+   "level_up_cost_1": null,
+   "prop_rate_1": 0,
+   "level_up_cost_2": null,
+   "prop_rate_2": 0,
+   "level_up_cost_3": {
+    "id": 10101,
+    "count": 6000
+   },
+   "prop_rate_3": 0.71,
+   "level_up_cost_4": {
+    "id": 10101,
+    "count": 10000
+   },
+   "prop_rate_4": 0.554,
+   "level_up_cost_5": {
+    "id": 10101,
+    "count": 20000
+   },
+   "prop_rate_5": 0.554,
+   "level_up_cost_6": null
+  },
+  "22": {
+   "level": 22,
+   "level_up_cost_1": null,
+   "prop_rate_1": 0,
+   "level_up_cost_2": null,
+   "prop_rate_2": 0,
+   "level_up_cost_3": {
+    "id": 10101,
+    "count": 6600
+   },
+   "prop_rate_3": 0.73,
+   "level_up_cost_4": {
+    "id": 10101,
+    "count": 11000
+   },
+   "prop_rate_4": 0.568,
+   "level_up_cost_5": {
+    "id": 10101,
+    "count": 22000
+   },
+   "prop_rate_5": 0.568,
+   "level_up_cost_6": null
+  },
+  "23": {
+   "level": 23,
+   "level_up_cost_1": null,
+   "prop_rate_1": 0,
+   "level_up_cost_2": null,
+   "prop_rate_2": 0,
+   "level_up_cost_3": {
+    "id": 10101,
+    "count": 7200
+   },
+   "prop_rate_3": 0.75,
+   "level_up_cost_4": {
+    "id": 10101,
+    "count": 12000
+   },
+   "prop_rate_4": 0.582,
+   "level_up_cost_5": {
+    "id": 10101,
+    "count": 24000
+   },
+   "prop_rate_5": 0.582,
+   "level_up_cost_6": null
+  },
+  "24": {
+   "level": 24,
+   "level_up_cost_1": null,
+   "prop_rate_1": 0,
+   "level_up_cost_2": null,
+   "prop_rate_2": 0,
+   "level_up_cost_3": {
+    "id": 10101,
+    "count": 7800
+   },
+   "prop_rate_3": 0.77,
+   "level_up_cost_4": {
+    "id": 10101,
+    "count": 13000
+   },
+   "prop_rate_4": 0.596,
+   "level_up_cost_5": {
+    "id": 10101,
+    "count": 26000
+   },
+   "prop_rate_5": 0.596,
+   "level_up_cost_6": null
+  },
+  "25": {
+   "level": 25,
+   "level_up_cost_1": null,
+   "prop_rate_1": 0,
+   "level_up_cost_2": null,
+   "prop_rate_2": 0,
+   "level_up_cost_3": {
+    "id": 10101,
+    "count": 8400
+   },
+   "prop_rate_3": 0.79,
+   "level_up_cost_4": {
+    "id": 10101,
+    "count": 14000
+   },
+   "prop_rate_4": 0.61,
+   "level_up_cost_5": {
+    "id": 10101,
+    "count": 28000
+   },
+   "prop_rate_5": 0.61,
+   "level_up_cost_6": null
+  },
+  "26": {
+   "level": 26,
+   "level_up_cost_1": null,
+   "prop_rate_1": 0,
+   "level_up_cost_2": null,
+   "prop_rate_2": 0,
+   "level_up_cost_3": {
+    "id": 10101,
+    "count": 9000
+   },
+   "prop_rate_3": 0.81,
+   "level_up_cost_4": {
+    "id": 10101,
+    "count": 15000
+   },
+   "prop_rate_4": 0.624,
+   "level_up_cost_5": {
+    "id": 10101,
+    "count": 30000
+   },
+   "prop_rate_5": 0.624,
+   "level_up_cost_6": null
+  },
+  "27": {
+   "level": 27,
+   "level_up_cost_1": null,
+   "prop_rate_1": 0,
+   "level_up_cost_2": null,
+   "prop_rate_2": 0,
+   "level_up_cost_3": {
+    "id": 10101,
+    "count": 9600
+   },
+   "prop_rate_3": 0.83,
+   "level_up_cost_4": {
+    "id": 10101,
+    "count": 16000
+   },
+   "prop_rate_4": 0.638,
+   "level_up_cost_5": {
+    "id": 10101,
+    "count": 32000
+   },
+   "prop_rate_5": 0.638,
+   "level_up_cost_6": null
+  },
+  "28": {
+   "level": 28,
+   "level_up_cost_1": null,
+   "prop_rate_1": 0,
+   "level_up_cost_2": null,
+   "prop_rate_2": 0,
+   "level_up_cost_3": {
+    "id": 10101,
+    "count": 10200
+   },
+   "prop_rate_3": 0.85,
+   "level_up_cost_4": {
+    "id": 10101,
+    "count": 17000
+   },
+   "prop_rate_4": 0.652,
+   "level_up_cost_5": {
+    "id": 10101,
+    "count": 34000
+   },
+   "prop_rate_5": 0.652,
+   "level_up_cost_6": null
+  },
+  "29": {
+   "level": 29,
+   "level_up_cost_1": null,
+   "prop_rate_1": 0,
+   "level_up_cost_2": null,
+   "prop_rate_2": 0,
+   "level_up_cost_3": {
+    "id": 10101,
+    "count": 10800
+   },
+   "prop_rate_3": 0.87,
+   "level_up_cost_4": {
+    "id": 10101,
+    "count": 18000
+   },
+   "prop_rate_4": 0.666,
+   "level_up_cost_5": {
+    "id": 10101,
+    "count": 36000
+   },
+   "prop_rate_5": 0.666,
+   "level_up_cost_6": null
+  },
+  "30": {
+   "level": 30,
+   "level_up_cost_1": null,
+   "prop_rate_1": 0,
+   "level_up_cost_2": null,
+   "prop_rate_2": 0,
+   "level_up_cost_3": {
+    "id": 10101,
+    "count": 11400
+   },
+   "prop_rate_3": 0.89,
+   "level_up_cost_4": {
+    "id": 10101,
+    "count": 19000
+   },
+   "prop_rate_4": 0.68,
+   "level_up_cost_5": {
+    "id": 10101,
+    "count": 38000
+   },
+   "prop_rate_5": 0.68,
+   "level_up_cost_6": null
+  },
+  "103": {
+   "level": 103,
+   "level_up_cost_1": null,
+   "prop_rate_1": 0,
+   "level_up_cost_2": null,
+   "prop_rate_2": 0,
+   "level_up_cost_3": {
+    "id": 10101,
+    "count": 36000
+   },
+   "prop_rate_3": 1.0,
+   "level_up_cost_4": {
+    "id": 10101,
+    "count": 60000
+   },
+   "prop_rate_4": 0.77,
+   "level_up_cost_5": {
+    "id": 10101,
+    "count": 120000
+   },
+   "prop_rate_5": 0.77,
+   "level_up_cost_6": null
+  },
+  "31": {
+   "level": 31,
+   "level_up_cost_1": null,
+   "prop_rate_1": 0,
+   "level_up_cost_2": null,
+   "prop_rate_2": 0,
+   "level_up_cost_3": null,
+   "prop_rate_3": 0,
+   "level_up_cost_4": {
+    "id": 10101,
+    "count": 22750
+   },
+   "prop_rate_4": 0.784,
+   "level_up_cost_5": {
+    "id": 10101,
+    "count": 45500
+   },
+   "prop_rate_5": 0.784,
+   "level_up_cost_6": null
+  },
+  "32": {
+   "level": 32,
+   "level_up_cost_1": null,
+   "prop_rate_1": 0,
+   "level_up_cost_2": null,
+   "prop_rate_2": 0,
+   "level_up_cost_3": null,
+   "prop_rate_3": 0,
+   "level_up_cost_4": {
+    "id": 10101,
+    "count": 24000
+   },
+   "prop_rate_4": 0.798,
+   "level_up_cost_5": {
+    "id": 10101,
+    "count": 48000
+   },
+   "prop_rate_5": 0.798,
+   "level_up_cost_6": null
+  },
+  "33": {
+   "level": 33,
+   "level_up_cost_1": null,
+   "prop_rate_1": 0,
+   "level_up_cost_2": null,
+   "prop_rate_2": 0,
+   "level_up_cost_3": null,
+   "prop_rate_3": 0,
+   "level_up_cost_4": {
+    "id": 10101,
+    "count": 25250
+   },
+   "prop_rate_4": 0.812,
+   "level_up_cost_5": {
+    "id": 10101,
+    "count": 50500
+   },
+   "prop_rate_5": 0.812,
+   "level_up_cost_6": null
+  },
+  "34": {
+   "level": 34,
+   "level_up_cost_1": null,
+   "prop_rate_1": 0,
+   "level_up_cost_2": null,
+   "prop_rate_2": 0,
+   "level_up_cost_3": null,
+   "prop_rate_3": 0,
+   "level_up_cost_4": {
+    "id": 10101,
+    "count": 26500
+   },
+   "prop_rate_4": 0.826,
+   "level_up_cost_5": {
+    "id": 10101,
+    "count": 53000
+   },
+   "prop_rate_5": 0.826,
+   "level_up_cost_6": null
+  },
+  "35": {
+   "level": 35,
+   "level_up_cost_1": null,
+   "prop_rate_1": 0,
+   "level_up_cost_2": null,
+   "prop_rate_2": 0,
+   "level_up_cost_3": null,
+   "prop_rate_3": 0,
+   "level_up_cost_4": {
+    "id": 10101,
+    "count": 27750
+   },
+   "prop_rate_4": 0.84,
+   "level_up_cost_5": {
+    "id": 10101,
+    "count": 55500
+   },
+   "prop_rate_5": 0.84,
+   "level_up_cost_6": null
+  },
+  "36": {
+   "level": 36,
+   "level_up_cost_1": null,
+   "prop_rate_1": 0,
+   "level_up_cost_2": null,
+   "prop_rate_2": 0,
+   "level_up_cost_3": null,
+   "prop_rate_3": 0,
+   "level_up_cost_4": {
+    "id": 10101,
+    "count": 29000
+   },
+   "prop_rate_4": 0.854,
+   "level_up_cost_5": {
+    "id": 10101,
+    "count": 58000
+   },
+   "prop_rate_5": 0.854,
+   "level_up_cost_6": null
+  },
+  "37": {
+   "level": 37,
+   "level_up_cost_1": null,
+   "prop_rate_1": 0,
+   "level_up_cost_2": null,
+   "prop_rate_2": 0,
+   "level_up_cost_3": null,
+   "prop_rate_3": 0,
+   "level_up_cost_4": {
+    "id": 10101,
+    "count": 30250
+   },
+   "prop_rate_4": 0.868,
+   "level_up_cost_5": {
+    "id": 10101,
+    "count": 60500
+   },
+   "prop_rate_5": 0.868,
+   "level_up_cost_6": null
+  },
+  "38": {
+   "level": 38,
+   "level_up_cost_1": null,
+   "prop_rate_1": 0,
+   "level_up_cost_2": null,
+   "prop_rate_2": 0,
+   "level_up_cost_3": null,
+   "prop_rate_3": 0,
+   "level_up_cost_4": {
+    "id": 10101,
+    "count": 31500
+   },
+   "prop_rate_4": 0.882,
+   "level_up_cost_5": {
+    "id": 10101,
+    "count": 63000
+   },
+   "prop_rate_5": 0.882,
+   "level_up_cost_6": null
+  },
+  "39": {
+   "level": 39,
+   "level_up_cost_1": null,
+   "prop_rate_1": 0,
+   "level_up_cost_2": null,
+   "prop_rate_2": 0,
+   "level_up_cost_3": null,
+   "prop_rate_3": 0,
+   "level_up_cost_4": {
+    "id": 10101,
+    "count": 32750
+   },
+   "prop_rate_4": 0.896,
+   "level_up_cost_5": {
+    "id": 10101,
+    "count": 65500
+   },
+   "prop_rate_5": 0.896,
+   "level_up_cost_6": null
+  },
+  "40": {
+   "level": 40,
+   "level_up_cost_1": null,
+   "prop_rate_1": 0,
+   "level_up_cost_2": null,
+   "prop_rate_2": 0,
+   "level_up_cost_3": null,
+   "prop_rate_3": 0,
+   "level_up_cost_4": {
+    "id": 10101,
+    "count": 34000
+   },
+   "prop_rate_4": 0.91,
+   "level_up_cost_5": {
+    "id": 10101,
+    "count": 68000
+   },
+   "prop_rate_5": 0.91,
+   "level_up_cost_6": null
+  },
+  "104": {
+   "level": 104,
+   "level_up_cost_1": null,
+   "prop_rate_1": 0,
+   "level_up_cost_2": null,
+   "prop_rate_2": 0,
+   "level_up_cost_3": null,
+   "prop_rate_3": 0,
+   "level_up_cost_4": {
+    "id": 10101,
+    "count": 125000
+   },
+   "prop_rate_4": 1.0,
+   "level_up_cost_5": {
+    "id": 10101,
+    "count": 250000
+   },
+   "prop_rate_5": 1.0,
+   "level_up_cost_6": null
+  }
+ },
+ "text_chunk": null
+}

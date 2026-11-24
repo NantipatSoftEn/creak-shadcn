@@ -1,0 +1,4014 @@
+{
+ "config": "afk_shop",
+ "fields": [
+  "goods_id",
+  "cost_items",
+  "rewards",
+  "limit_count",
+  "unlock_level_count",
+  "lock_level_count"
+ ],
+ "rows": [
+  {
+   "goods_id": 1,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 110
+    }
+   ],
+   "rewards": {
+    "id": 53101,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 0,
+   "lock_level_count": 30
+  },
+  {
+   "goods_id": 2,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 190
+    }
+   ],
+   "rewards": {
+    "id": 53102,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 0,
+   "lock_level_count": 30
+  },
+  {
+   "goods_id": 3,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 250
+    }
+   ],
+   "rewards": {
+    "id": 53103,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 0,
+   "lock_level_count": 30
+  },
+  {
+   "goods_id": 4,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 450
+    }
+   ],
+   "rewards": {
+    "id": 53104,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 0,
+   "lock_level_count": 30
+  },
+  {
+   "goods_id": 5,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 160
+    }
+   ],
+   "rewards": {
+    "id": 53105,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 30,
+   "lock_level_count": 60
+  },
+  {
+   "goods_id": 6,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 270
+    }
+   ],
+   "rewards": {
+    "id": 53106,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 30,
+   "lock_level_count": 60
+  },
+  {
+   "goods_id": 7,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 350
+    }
+   ],
+   "rewards": {
+    "id": 53107,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 30,
+   "lock_level_count": 60
+  },
+  {
+   "goods_id": 8,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 630
+    }
+   ],
+   "rewards": {
+    "id": 53108,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 30,
+   "lock_level_count": 60
+  },
+  {
+   "goods_id": 9,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 255
+    }
+   ],
+   "rewards": {
+    "id": 53109,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 60,
+   "lock_level_count": 90
+  },
+  {
+   "goods_id": 10,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 430
+    }
+   ],
+   "rewards": {
+    "id": 53110,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 60,
+   "lock_level_count": 90
+  },
+  {
+   "goods_id": 11,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 550
+    }
+   ],
+   "rewards": {
+    "id": 53111,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 60,
+   "lock_level_count": 90
+  },
+  {
+   "goods_id": 12,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 990
+    }
+   ],
+   "rewards": {
+    "id": 53112,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 60,
+   "lock_level_count": 90
+  },
+  {
+   "goods_id": 13,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 260
+    }
+   ],
+   "rewards": {
+    "id": 53113,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 90,
+   "lock_level_count": 120
+  },
+  {
+   "goods_id": 14,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 440
+    }
+   ],
+   "rewards": {
+    "id": 53114,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 90,
+   "lock_level_count": 120
+  },
+  {
+   "goods_id": 15,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 570
+    }
+   ],
+   "rewards": {
+    "id": 53115,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 90,
+   "lock_level_count": 120
+  },
+  {
+   "goods_id": 16,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1030
+    }
+   ],
+   "rewards": {
+    "id": 53116,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 90,
+   "lock_level_count": 120
+  },
+  {
+   "goods_id": 17,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 270
+    }
+   ],
+   "rewards": {
+    "id": 53117,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 120,
+   "lock_level_count": 150
+  },
+  {
+   "goods_id": 18,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 460
+    }
+   ],
+   "rewards": {
+    "id": 53118,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 120,
+   "lock_level_count": 150
+  },
+  {
+   "goods_id": 19,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 600
+    }
+   ],
+   "rewards": {
+    "id": 53119,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 120,
+   "lock_level_count": 150
+  },
+  {
+   "goods_id": 20,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1080
+    }
+   ],
+   "rewards": {
+    "id": 53120,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 120,
+   "lock_level_count": 150
+  },
+  {
+   "goods_id": 21,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 285
+    }
+   ],
+   "rewards": {
+    "id": 53121,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 150,
+   "lock_level_count": 180
+  },
+  {
+   "goods_id": 22,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 485
+    }
+   ],
+   "rewards": {
+    "id": 53122,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 150,
+   "lock_level_count": 180
+  },
+  {
+   "goods_id": 23,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 625
+    }
+   ],
+   "rewards": {
+    "id": 53123,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 150,
+   "lock_level_count": 180
+  },
+  {
+   "goods_id": 24,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1130
+    }
+   ],
+   "rewards": {
+    "id": 53124,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 150,
+   "lock_level_count": 180
+  },
+  {
+   "goods_id": 25,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 290
+    }
+   ],
+   "rewards": {
+    "id": 53125,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 180,
+   "lock_level_count": 210
+  },
+  {
+   "goods_id": 26,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 490
+    }
+   ],
+   "rewards": {
+    "id": 53126,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 180,
+   "lock_level_count": 210
+  },
+  {
+   "goods_id": 27,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 640
+    }
+   ],
+   "rewards": {
+    "id": 53127,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 180,
+   "lock_level_count": 210
+  },
+  {
+   "goods_id": 28,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1150
+    }
+   ],
+   "rewards": {
+    "id": 53128,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 180,
+   "lock_level_count": 210
+  },
+  {
+   "goods_id": 29,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 310
+    }
+   ],
+   "rewards": {
+    "id": 53129,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 210,
+   "lock_level_count": 240
+  },
+  {
+   "goods_id": 30,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 515
+    }
+   ],
+   "rewards": {
+    "id": 53130,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 210,
+   "lock_level_count": 240
+  },
+  {
+   "goods_id": 31,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 660
+    }
+   ],
+   "rewards": {
+    "id": 53131,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 210,
+   "lock_level_count": 240
+  },
+  {
+   "goods_id": 32,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1190
+    }
+   ],
+   "rewards": {
+    "id": 53132,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 210,
+   "lock_level_count": 240
+  },
+  {
+   "goods_id": 33,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 325
+    }
+   ],
+   "rewards": {
+    "id": 53133,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 240,
+   "lock_level_count": 270
+  },
+  {
+   "goods_id": 34,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 540
+    }
+   ],
+   "rewards": {
+    "id": 53134,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 240,
+   "lock_level_count": 270
+  },
+  {
+   "goods_id": 35,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 690
+    }
+   ],
+   "rewards": {
+    "id": 53135,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 240,
+   "lock_level_count": 270
+  },
+  {
+   "goods_id": 36,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1240
+    }
+   ],
+   "rewards": {
+    "id": 53136,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 240,
+   "lock_level_count": 270
+  },
+  {
+   "goods_id": 37,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 330
+    }
+   ],
+   "rewards": {
+    "id": 53137,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 270,
+   "lock_level_count": 300
+  },
+  {
+   "goods_id": 38,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 545
+    }
+   ],
+   "rewards": {
+    "id": 53138,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 270,
+   "lock_level_count": 300
+  },
+  {
+   "goods_id": 39,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 700
+    }
+   ],
+   "rewards": {
+    "id": 53139,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 270,
+   "lock_level_count": 300
+  },
+  {
+   "goods_id": 40,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1260
+    }
+   ],
+   "rewards": {
+    "id": 53140,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 270,
+   "lock_level_count": 300
+  },
+  {
+   "goods_id": 41,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 345
+    }
+   ],
+   "rewards": {
+    "id": 53141,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 300,
+   "lock_level_count": 330
+  },
+  {
+   "goods_id": 42,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 560
+    }
+   ],
+   "rewards": {
+    "id": 53142,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 300,
+   "lock_level_count": 330
+  },
+  {
+   "goods_id": 43,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 730
+    }
+   ],
+   "rewards": {
+    "id": 53143,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 300,
+   "lock_level_count": 330
+  },
+  {
+   "goods_id": 44,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1310
+    }
+   ],
+   "rewards": {
+    "id": 53144,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 300,
+   "lock_level_count": 330
+  },
+  {
+   "goods_id": 45,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 360
+    }
+   ],
+   "rewards": {
+    "id": 53145,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 330,
+   "lock_level_count": 360
+  },
+  {
+   "goods_id": 46,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 585
+    }
+   ],
+   "rewards": {
+    "id": 53146,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 330,
+   "lock_level_count": 360
+  },
+  {
+   "goods_id": 47,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 760
+    }
+   ],
+   "rewards": {
+    "id": 53147,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 330,
+   "lock_level_count": 360
+  },
+  {
+   "goods_id": 48,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1370
+    }
+   ],
+   "rewards": {
+    "id": 53148,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 330,
+   "lock_level_count": 360
+  },
+  {
+   "goods_id": 49,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 370
+    }
+   ],
+   "rewards": {
+    "id": 53149,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 360,
+   "lock_level_count": 390
+  },
+  {
+   "goods_id": 50,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 590
+    }
+   ],
+   "rewards": {
+    "id": 53150,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 360,
+   "lock_level_count": 390
+  },
+  {
+   "goods_id": 51,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 770
+    }
+   ],
+   "rewards": {
+    "id": 53151,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 360,
+   "lock_level_count": 390
+  },
+  {
+   "goods_id": 52,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1390
+    }
+   ],
+   "rewards": {
+    "id": 53152,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 360,
+   "lock_level_count": 390
+  },
+  {
+   "goods_id": 53,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 385
+    }
+   ],
+   "rewards": {
+    "id": 53153,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 390,
+   "lock_level_count": 420
+  },
+  {
+   "goods_id": 54,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 615
+    }
+   ],
+   "rewards": {
+    "id": 53154,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 390,
+   "lock_level_count": 420
+  },
+  {
+   "goods_id": 55,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 790
+    }
+   ],
+   "rewards": {
+    "id": 53155,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 390,
+   "lock_level_count": 420
+  },
+  {
+   "goods_id": 56,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1420
+    }
+   ],
+   "rewards": {
+    "id": 53156,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 390,
+   "lock_level_count": 420
+  },
+  {
+   "goods_id": 57,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 400
+    }
+   ],
+   "rewards": {
+    "id": 53157,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 420,
+   "lock_level_count": 450
+  },
+  {
+   "goods_id": 58,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 640
+    }
+   ],
+   "rewards": {
+    "id": 53158,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 420,
+   "lock_level_count": 450
+  },
+  {
+   "goods_id": 59,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 825
+    }
+   ],
+   "rewards": {
+    "id": 53159,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 420,
+   "lock_level_count": 450
+  },
+  {
+   "goods_id": 60,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1490
+    }
+   ],
+   "rewards": {
+    "id": 53160,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 420,
+   "lock_level_count": 450
+  },
+  {
+   "goods_id": 61,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 410
+    }
+   ],
+   "rewards": {
+    "id": 53161,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 450,
+   "lock_level_count": 480
+  },
+  {
+   "goods_id": 62,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 645
+    }
+   ],
+   "rewards": {
+    "id": 53162,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 450,
+   "lock_level_count": 480
+  },
+  {
+   "goods_id": 63,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 830
+    }
+   ],
+   "rewards": {
+    "id": 53163,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 450,
+   "lock_level_count": 480
+  },
+  {
+   "goods_id": 64,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1490
+    }
+   ],
+   "rewards": {
+    "id": 53164,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 450,
+   "lock_level_count": 480
+  },
+  {
+   "goods_id": 65,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 425
+    }
+   ],
+   "rewards": {
+    "id": 53165,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 480,
+   "lock_level_count": 510
+  },
+  {
+   "goods_id": 66,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 660
+    }
+   ],
+   "rewards": {
+    "id": 53166,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 480,
+   "lock_level_count": 510
+  },
+  {
+   "goods_id": 67,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 855
+    }
+   ],
+   "rewards": {
+    "id": 53167,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 480,
+   "lock_level_count": 510
+  },
+  {
+   "goods_id": 68,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1540
+    }
+   ],
+   "rewards": {
+    "id": 53168,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 480,
+   "lock_level_count": 510
+  },
+  {
+   "goods_id": 69,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 440
+    }
+   ],
+   "rewards": {
+    "id": 53169,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 510,
+   "lock_level_count": 540
+  },
+  {
+   "goods_id": 70,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 685
+    }
+   ],
+   "rewards": {
+    "id": 53170,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 510,
+   "lock_level_count": 540
+  },
+  {
+   "goods_id": 71,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 885
+    }
+   ],
+   "rewards": {
+    "id": 53171,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 510,
+   "lock_level_count": 540
+  },
+  {
+   "goods_id": 72,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1590
+    }
+   ],
+   "rewards": {
+    "id": 53172,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 510,
+   "lock_level_count": 540
+  },
+  {
+   "goods_id": 73,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 445
+    }
+   ],
+   "rewards": {
+    "id": 53173,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 540,
+   "lock_level_count": 570
+  },
+  {
+   "goods_id": 74,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 690
+    }
+   ],
+   "rewards": {
+    "id": 53174,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 540,
+   "lock_level_count": 570
+  },
+  {
+   "goods_id": 75,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 890
+    }
+   ],
+   "rewards": {
+    "id": 53175,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 540,
+   "lock_level_count": 570
+  },
+  {
+   "goods_id": 76,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1600
+    }
+   ],
+   "rewards": {
+    "id": 53176,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 540,
+   "lock_level_count": 570
+  },
+  {
+   "goods_id": 77,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 460
+    }
+   ],
+   "rewards": {
+    "id": 53177,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 570,
+   "lock_level_count": 600
+  },
+  {
+   "goods_id": 78,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 715
+    }
+   ],
+   "rewards": {
+    "id": 53178,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 570,
+   "lock_level_count": 600
+  },
+  {
+   "goods_id": 79,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 915
+    }
+   ],
+   "rewards": {
+    "id": 53179,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 570,
+   "lock_level_count": 600
+  },
+  {
+   "goods_id": 80,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1650
+    }
+   ],
+   "rewards": {
+    "id": 53180,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 570,
+   "lock_level_count": 600
+  },
+  {
+   "goods_id": 81,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 475
+    }
+   ],
+   "rewards": {
+    "id": 53181,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 600,
+   "lock_level_count": 630
+  },
+  {
+   "goods_id": 82,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 730
+    }
+   ],
+   "rewards": {
+    "id": 53182,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 600,
+   "lock_level_count": 630
+  },
+  {
+   "goods_id": 83,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 945
+    }
+   ],
+   "rewards": {
+    "id": 53183,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 600,
+   "lock_level_count": 630
+  },
+  {
+   "goods_id": 84,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1700
+    }
+   ],
+   "rewards": {
+    "id": 53184,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 600,
+   "lock_level_count": 630
+  },
+  {
+   "goods_id": 85,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 475
+    }
+   ],
+   "rewards": {
+    "id": 53185,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 630,
+   "lock_level_count": 660
+  },
+  {
+   "goods_id": 86,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 740
+    }
+   ],
+   "rewards": {
+    "id": 53186,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 630,
+   "lock_level_count": 660
+  },
+  {
+   "goods_id": 87,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 955
+    }
+   ],
+   "rewards": {
+    "id": 53187,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 630,
+   "lock_level_count": 660
+  },
+  {
+   "goods_id": 88,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1720
+    }
+   ],
+   "rewards": {
+    "id": 53188,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 630,
+   "lock_level_count": 660
+  },
+  {
+   "goods_id": 89,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 490
+    }
+   ],
+   "rewards": {
+    "id": 53189,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 660,
+   "lock_level_count": 690
+  },
+  {
+   "goods_id": 90,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 760
+    }
+   ],
+   "rewards": {
+    "id": 53190,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 660,
+   "lock_level_count": 690
+  },
+  {
+   "goods_id": 91,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 975
+    }
+   ],
+   "rewards": {
+    "id": 53191,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 660,
+   "lock_level_count": 690
+  },
+  {
+   "goods_id": 92,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1760
+    }
+   ],
+   "rewards": {
+    "id": 53192,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 660,
+   "lock_level_count": 690
+  },
+  {
+   "goods_id": 93,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 510
+    }
+   ],
+   "rewards": {
+    "id": 53193,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 690,
+   "lock_level_count": 720
+  },
+  {
+   "goods_id": 94,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 775
+    }
+   ],
+   "rewards": {
+    "id": 53194,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 690,
+   "lock_level_count": 720
+  },
+  {
+   "goods_id": 95,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1000
+    }
+   ],
+   "rewards": {
+    "id": 53195,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 690,
+   "lock_level_count": 720
+  },
+  {
+   "goods_id": 96,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1800
+    }
+   ],
+   "rewards": {
+    "id": 53196,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 690,
+   "lock_level_count": 720
+  },
+  {
+   "goods_id": 97,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 515
+    }
+   ],
+   "rewards": {
+    "id": 53197,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 720,
+   "lock_level_count": 750
+  },
+  {
+   "goods_id": 98,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 785
+    }
+   ],
+   "rewards": {
+    "id": 53198,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 720,
+   "lock_level_count": 750
+  },
+  {
+   "goods_id": 99,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1010
+    }
+   ],
+   "rewards": {
+    "id": 53199,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 720,
+   "lock_level_count": 750
+  },
+  {
+   "goods_id": 100,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1820
+    }
+   ],
+   "rewards": {
+    "id": 53200,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 720,
+   "lock_level_count": 750
+  },
+  {
+   "goods_id": 101,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 530
+    }
+   ],
+   "rewards": {
+    "id": 53201,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 750,
+   "lock_level_count": 780
+  },
+  {
+   "goods_id": 102,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 805
+    }
+   ],
+   "rewards": {
+    "id": 53202,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 750,
+   "lock_level_count": 780
+  },
+  {
+   "goods_id": 103,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1040
+    }
+   ],
+   "rewards": {
+    "id": 53203,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 750,
+   "lock_level_count": 780
+  },
+  {
+   "goods_id": 104,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1870
+    }
+   ],
+   "rewards": {
+    "id": 53204,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 750,
+   "lock_level_count": 780
+  },
+  {
+   "goods_id": 105,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 545
+    }
+   ],
+   "rewards": {
+    "id": 53205,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 780,
+   "lock_level_count": 810
+  },
+  {
+   "goods_id": 106,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 825
+    }
+   ],
+   "rewards": {
+    "id": 53206,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 780,
+   "lock_level_count": 810
+  },
+  {
+   "goods_id": 107,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1065
+    }
+   ],
+   "rewards": {
+    "id": 53207,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 780,
+   "lock_level_count": 810
+  },
+  {
+   "goods_id": 108,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1920
+    }
+   ],
+   "rewards": {
+    "id": 53208,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 780,
+   "lock_level_count": 810
+  },
+  {
+   "goods_id": 109,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 555
+    }
+   ],
+   "rewards": {
+    "id": 53209,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 810,
+   "lock_level_count": 840
+  },
+  {
+   "goods_id": 110,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 830
+    }
+   ],
+   "rewards": {
+    "id": 53210,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 810,
+   "lock_level_count": 840
+  },
+  {
+   "goods_id": 111,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1070
+    }
+   ],
+   "rewards": {
+    "id": 53211,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 810,
+   "lock_level_count": 840
+  },
+  {
+   "goods_id": 112,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1930
+    }
+   ],
+   "rewards": {
+    "id": 53212,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 810,
+   "lock_level_count": 840
+  },
+  {
+   "goods_id": 113,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 570
+    }
+   ],
+   "rewards": {
+    "id": 53213,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 840,
+   "lock_level_count": 870
+  },
+  {
+   "goods_id": 114,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 855
+    }
+   ],
+   "rewards": {
+    "id": 53214,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 840,
+   "lock_level_count": 870
+  },
+  {
+   "goods_id": 115,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1095
+    }
+   ],
+   "rewards": {
+    "id": 53215,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 840,
+   "lock_level_count": 870
+  },
+  {
+   "goods_id": 116,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1970
+    }
+   ],
+   "rewards": {
+    "id": 53216,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 840,
+   "lock_level_count": 870
+  },
+  {
+   "goods_id": 117,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 595
+    }
+   ],
+   "rewards": {
+    "id": 53217,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 870,
+   "lock_level_count": 900
+  },
+  {
+   "goods_id": 118,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 890
+    }
+   ],
+   "rewards": {
+    "id": 53218,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 870,
+   "lock_level_count": 900
+  },
+  {
+   "goods_id": 119,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1145
+    }
+   ],
+   "rewards": {
+    "id": 53219,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 870,
+   "lock_level_count": 900
+  },
+  {
+   "goods_id": 120,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 2060
+    }
+   ],
+   "rewards": {
+    "id": 53220,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 870,
+   "lock_level_count": 900
+  },
+  {
+   "goods_id": 121,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 620
+    }
+   ],
+   "rewards": {
+    "id": 53221,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 900,
+   "lock_level_count": 930
+  },
+  {
+   "goods_id": 122,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 925
+    }
+   ],
+   "rewards": {
+    "id": 53222,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 900,
+   "lock_level_count": 930
+  },
+  {
+   "goods_id": 123,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1195
+    }
+   ],
+   "rewards": {
+    "id": 53223,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 900,
+   "lock_level_count": 930
+  },
+  {
+   "goods_id": 124,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 2150
+    }
+   ],
+   "rewards": {
+    "id": 53224,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 900,
+   "lock_level_count": 930
+  },
+  {
+   "goods_id": 125,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 645
+    }
+   ],
+   "rewards": {
+    "id": 53225,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 930,
+   "lock_level_count": 960
+  },
+  {
+   "goods_id": 126,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 960
+    }
+   ],
+   "rewards": {
+    "id": 53226,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 930,
+   "lock_level_count": 960
+  },
+  {
+   "goods_id": 127,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1245
+    }
+   ],
+   "rewards": {
+    "id": 53227,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 930,
+   "lock_level_count": 960
+  },
+  {
+   "goods_id": 128,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 2240
+    }
+   ],
+   "rewards": {
+    "id": 53228,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 930,
+   "lock_level_count": 960
+  },
+  {
+   "goods_id": 129,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 670
+    }
+   ],
+   "rewards": {
+    "id": 53229,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 960,
+   "lock_level_count": 990
+  },
+  {
+   "goods_id": 130,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 995
+    }
+   ],
+   "rewards": {
+    "id": 53230,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 960,
+   "lock_level_count": 990
+  },
+  {
+   "goods_id": 131,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1295
+    }
+   ],
+   "rewards": {
+    "id": 53231,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 960,
+   "lock_level_count": 990
+  },
+  {
+   "goods_id": 132,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 2330
+    }
+   ],
+   "rewards": {
+    "id": 53232,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 960,
+   "lock_level_count": 990
+  },
+  {
+   "goods_id": 133,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 695
+    }
+   ],
+   "rewards": {
+    "id": 53233,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 990,
+   "lock_level_count": 1020
+  },
+  {
+   "goods_id": 134,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1030
+    }
+   ],
+   "rewards": {
+    "id": 53234,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 990,
+   "lock_level_count": 1020
+  },
+  {
+   "goods_id": 135,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1345
+    }
+   ],
+   "rewards": {
+    "id": 53235,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 990,
+   "lock_level_count": 1020
+  },
+  {
+   "goods_id": 136,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 2420
+    }
+   ],
+   "rewards": {
+    "id": 53236,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 990,
+   "lock_level_count": 1020
+  },
+  {
+   "goods_id": 137,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 720
+    }
+   ],
+   "rewards": {
+    "id": 53237,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1020,
+   "lock_level_count": 1050
+  },
+  {
+   "goods_id": 138,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1065
+    }
+   ],
+   "rewards": {
+    "id": 53238,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1020,
+   "lock_level_count": 1050
+  },
+  {
+   "goods_id": 139,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1395
+    }
+   ],
+   "rewards": {
+    "id": 53239,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1020,
+   "lock_level_count": 1050
+  },
+  {
+   "goods_id": 140,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 2510
+    }
+   ],
+   "rewards": {
+    "id": 53240,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1020,
+   "lock_level_count": 1050
+  },
+  {
+   "goods_id": 141,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 745
+    }
+   ],
+   "rewards": {
+    "id": 53241,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1050,
+   "lock_level_count": 1080
+  },
+  {
+   "goods_id": 142,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1100
+    }
+   ],
+   "rewards": {
+    "id": 53242,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1050,
+   "lock_level_count": 1080
+  },
+  {
+   "goods_id": 143,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1445
+    }
+   ],
+   "rewards": {
+    "id": 53243,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1050,
+   "lock_level_count": 1080
+  },
+  {
+   "goods_id": 144,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 2600
+    }
+   ],
+   "rewards": {
+    "id": 53244,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1050,
+   "lock_level_count": 1080
+  },
+  {
+   "goods_id": 145,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 770
+    }
+   ],
+   "rewards": {
+    "id": 53245,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1080,
+   "lock_level_count": 1110
+  },
+  {
+   "goods_id": 146,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1135
+    }
+   ],
+   "rewards": {
+    "id": 53246,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1080,
+   "lock_level_count": 1110
+  },
+  {
+   "goods_id": 147,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1495
+    }
+   ],
+   "rewards": {
+    "id": 53247,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1080,
+   "lock_level_count": 1110
+  },
+  {
+   "goods_id": 148,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 2690
+    }
+   ],
+   "rewards": {
+    "id": 53248,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1080,
+   "lock_level_count": 1110
+  },
+  {
+   "goods_id": 149,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 795
+    }
+   ],
+   "rewards": {
+    "id": 53249,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1110,
+   "lock_level_count": 1140
+  },
+  {
+   "goods_id": 150,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1170
+    }
+   ],
+   "rewards": {
+    "id": 53250,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1110,
+   "lock_level_count": 1140
+  },
+  {
+   "goods_id": 151,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1545
+    }
+   ],
+   "rewards": {
+    "id": 53251,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1110,
+   "lock_level_count": 1140
+  },
+  {
+   "goods_id": 152,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 2780
+    }
+   ],
+   "rewards": {
+    "id": 53252,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1110,
+   "lock_level_count": 1140
+  },
+  {
+   "goods_id": 153,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 820
+    }
+   ],
+   "rewards": {
+    "id": 53253,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1140,
+   "lock_level_count": 1170
+  },
+  {
+   "goods_id": 154,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1205
+    }
+   ],
+   "rewards": {
+    "id": 53254,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1140,
+   "lock_level_count": 1170
+  },
+  {
+   "goods_id": 155,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1595
+    }
+   ],
+   "rewards": {
+    "id": 53255,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1140,
+   "lock_level_count": 1170
+  },
+  {
+   "goods_id": 156,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 2870
+    }
+   ],
+   "rewards": {
+    "id": 53256,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1140,
+   "lock_level_count": 1170
+  },
+  {
+   "goods_id": 157,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 845
+    }
+   ],
+   "rewards": {
+    "id": 53257,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1170,
+   "lock_level_count": 1200
+  },
+  {
+   "goods_id": 158,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1240
+    }
+   ],
+   "rewards": {
+    "id": 53258,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1170,
+   "lock_level_count": 1200
+  },
+  {
+   "goods_id": 159,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1645
+    }
+   ],
+   "rewards": {
+    "id": 53259,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1170,
+   "lock_level_count": 1200
+  },
+  {
+   "goods_id": 160,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 2960
+    }
+   ],
+   "rewards": {
+    "id": 53260,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1170,
+   "lock_level_count": 1200
+  },
+  {
+   "goods_id": 161,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 870
+    }
+   ],
+   "rewards": {
+    "id": 53261,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1200,
+   "lock_level_count": 1230
+  },
+  {
+   "goods_id": 162,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1275
+    }
+   ],
+   "rewards": {
+    "id": 53262,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1200,
+   "lock_level_count": 1230
+  },
+  {
+   "goods_id": 163,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1695
+    }
+   ],
+   "rewards": {
+    "id": 53263,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1200,
+   "lock_level_count": 1230
+  },
+  {
+   "goods_id": 164,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 3050
+    }
+   ],
+   "rewards": {
+    "id": 53264,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1200,
+   "lock_level_count": 1230
+  },
+  {
+   "goods_id": 165,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 895
+    }
+   ],
+   "rewards": {
+    "id": 53265,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1230,
+   "lock_level_count": 1260
+  },
+  {
+   "goods_id": 166,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1310
+    }
+   ],
+   "rewards": {
+    "id": 53266,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1230,
+   "lock_level_count": 1260
+  },
+  {
+   "goods_id": 167,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1745
+    }
+   ],
+   "rewards": {
+    "id": 53267,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1230,
+   "lock_level_count": 1260
+  },
+  {
+   "goods_id": 168,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 3140
+    }
+   ],
+   "rewards": {
+    "id": 53268,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1230,
+   "lock_level_count": 1260
+  },
+  {
+   "goods_id": 169,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 920
+    }
+   ],
+   "rewards": {
+    "id": 53269,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1260,
+   "lock_level_count": 1290
+  },
+  {
+   "goods_id": 170,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1345
+    }
+   ],
+   "rewards": {
+    "id": 53270,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1260,
+   "lock_level_count": 1290
+  },
+  {
+   "goods_id": 171,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1795
+    }
+   ],
+   "rewards": {
+    "id": 53271,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1260,
+   "lock_level_count": 1290
+  },
+  {
+   "goods_id": 172,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 3230
+    }
+   ],
+   "rewards": {
+    "id": 53272,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1260,
+   "lock_level_count": 1290
+  },
+  {
+   "goods_id": 173,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 945
+    }
+   ],
+   "rewards": {
+    "id": 53273,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1290,
+   "lock_level_count": 1320
+  },
+  {
+   "goods_id": 174,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1380
+    }
+   ],
+   "rewards": {
+    "id": 53274,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1290,
+   "lock_level_count": 1320
+  },
+  {
+   "goods_id": 175,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1845
+    }
+   ],
+   "rewards": {
+    "id": 53275,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1290,
+   "lock_level_count": 1320
+  },
+  {
+   "goods_id": 176,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 3320
+    }
+   ],
+   "rewards": {
+    "id": 53276,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1290,
+   "lock_level_count": 1320
+  },
+  {
+   "goods_id": 177,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 970
+    }
+   ],
+   "rewards": {
+    "id": 53277,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1320,
+   "lock_level_count": 1350
+  },
+  {
+   "goods_id": 178,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1415
+    }
+   ],
+   "rewards": {
+    "id": 53278,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1320,
+   "lock_level_count": 1350
+  },
+  {
+   "goods_id": 179,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1895
+    }
+   ],
+   "rewards": {
+    "id": 53279,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1320,
+   "lock_level_count": 1350
+  },
+  {
+   "goods_id": 180,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 3410
+    }
+   ],
+   "rewards": {
+    "id": 53280,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1320,
+   "lock_level_count": 1350
+  },
+  {
+   "goods_id": 181,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 995
+    }
+   ],
+   "rewards": {
+    "id": 53281,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1350,
+   "lock_level_count": 1380
+  },
+  {
+   "goods_id": 182,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1450
+    }
+   ],
+   "rewards": {
+    "id": 53282,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1350,
+   "lock_level_count": 1380
+  },
+  {
+   "goods_id": 183,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1945
+    }
+   ],
+   "rewards": {
+    "id": 53283,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1350,
+   "lock_level_count": 1380
+  },
+  {
+   "goods_id": 184,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 3500
+    }
+   ],
+   "rewards": {
+    "id": 53284,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1350,
+   "lock_level_count": 1380
+  },
+  {
+   "goods_id": 185,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1020
+    }
+   ],
+   "rewards": {
+    "id": 53285,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1380,
+   "lock_level_count": 1410
+  },
+  {
+   "goods_id": 186,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1485
+    }
+   ],
+   "rewards": {
+    "id": 53286,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1380,
+   "lock_level_count": 1410
+  },
+  {
+   "goods_id": 187,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1995
+    }
+   ],
+   "rewards": {
+    "id": 53287,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1380,
+   "lock_level_count": 1410
+  },
+  {
+   "goods_id": 188,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 3590
+    }
+   ],
+   "rewards": {
+    "id": 53288,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1380,
+   "lock_level_count": 1410
+  },
+  {
+   "goods_id": 189,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1045
+    }
+   ],
+   "rewards": {
+    "id": 53289,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1410,
+   "lock_level_count": 1440
+  },
+  {
+   "goods_id": 190,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1520
+    }
+   ],
+   "rewards": {
+    "id": 53290,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1410,
+   "lock_level_count": 1440
+  },
+  {
+   "goods_id": 191,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 2045
+    }
+   ],
+   "rewards": {
+    "id": 53291,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1410,
+   "lock_level_count": 1440
+  },
+  {
+   "goods_id": 192,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 3680
+    }
+   ],
+   "rewards": {
+    "id": 53292,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1410,
+   "lock_level_count": 1440
+  },
+  {
+   "goods_id": 193,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1070
+    }
+   ],
+   "rewards": {
+    "id": 53293,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1440,
+   "lock_level_count": 1470
+  },
+  {
+   "goods_id": 194,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1555
+    }
+   ],
+   "rewards": {
+    "id": 53294,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1440,
+   "lock_level_count": 1470
+  },
+  {
+   "goods_id": 195,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 2095
+    }
+   ],
+   "rewards": {
+    "id": 53295,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1440,
+   "lock_level_count": 1470
+  },
+  {
+   "goods_id": 196,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 3770
+    }
+   ],
+   "rewards": {
+    "id": 53296,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1440,
+   "lock_level_count": 1470
+  },
+  {
+   "goods_id": 197,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1095
+    }
+   ],
+   "rewards": {
+    "id": 53297,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1470,
+   "lock_level_count": 1500
+  },
+  {
+   "goods_id": 198,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 1590
+    }
+   ],
+   "rewards": {
+    "id": 53298,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1470,
+   "lock_level_count": 1500
+  },
+  {
+   "goods_id": 199,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 2145
+    }
+   ],
+   "rewards": {
+    "id": 53299,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1470,
+   "lock_level_count": 1500
+  },
+  {
+   "goods_id": 200,
+   "cost_items": [
+    {
+     "id": 21009,
+     "count": 3860
+    }
+   ],
+   "rewards": {
+    "id": 53300,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1470,
+   "lock_level_count": 1500
+  },
+  {
+   "goods_id": 201,
+   "cost_items": [
+    {
+     "id": 21010,
+     "count": 45
+    }
+   ],
+   "rewards": {
+    "id": 52101,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 0,
+   "lock_level_count": 30
+  },
+  {
+   "goods_id": 202,
+   "cost_items": [
+    {
+     "id": 21010,
+     "count": 50
+    }
+   ],
+   "rewards": {
+    "id": 52102,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 30,
+   "lock_level_count": 60
+  },
+  {
+   "goods_id": 203,
+   "cost_items": [
+    {
+     "id": 21010,
+     "count": 55
+    }
+   ],
+   "rewards": {
+    "id": 52103,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 60,
+   "lock_level_count": 90
+  },
+  {
+   "goods_id": 204,
+   "cost_items": [
+    {
+     "id": 21010,
+     "count": 65
+    }
+   ],
+   "rewards": {
+    "id": 52104,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 90,
+   "lock_level_count": 120
+  },
+  {
+   "goods_id": 205,
+   "cost_items": [
+    {
+     "id": 21010,
+     "count": 70
+    }
+   ],
+   "rewards": {
+    "id": 52105,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 120,
+   "lock_level_count": 150
+  },
+  {
+   "goods_id": 206,
+   "cost_items": [
+    {
+     "id": 21010,
+     "count": 75
+    }
+   ],
+   "rewards": {
+    "id": 52106,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 150,
+   "lock_level_count": 180
+  },
+  {
+   "goods_id": 207,
+   "cost_items": [
+    {
+     "id": 21010,
+     "count": 120
+    }
+   ],
+   "rewards": {
+    "id": 52107,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 180,
+   "lock_level_count": 210
+  },
+  {
+   "goods_id": 208,
+   "cost_items": [
+    {
+     "id": 21010,
+     "count": 140
+    }
+   ],
+   "rewards": {
+    "id": 52108,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 210,
+   "lock_level_count": 240
+  },
+  {
+   "goods_id": 209,
+   "cost_items": [
+    {
+     "id": 21010,
+     "count": 155
+    }
+   ],
+   "rewards": {
+    "id": 52109,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 240,
+   "lock_level_count": 270
+  },
+  {
+   "goods_id": 210,
+   "cost_items": [
+    {
+     "id": 21010,
+     "count": 170
+    }
+   ],
+   "rewards": {
+    "id": 52110,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 270,
+   "lock_level_count": 300
+  },
+  {
+   "goods_id": 211,
+   "cost_items": [
+    {
+     "id": 21010,
+     "count": 185
+    }
+   ],
+   "rewards": {
+    "id": 52111,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 300,
+   "lock_level_count": 330
+  },
+  {
+   "goods_id": 212,
+   "cost_items": [
+    {
+     "id": 21010,
+     "count": 225
+    }
+   ],
+   "rewards": {
+    "id": 52112,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 330,
+   "lock_level_count": 360
+  },
+  {
+   "goods_id": 213,
+   "cost_items": [
+    {
+     "id": 21010,
+     "count": 280
+    }
+   ],
+   "rewards": {
+    "id": 52113,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 360,
+   "lock_level_count": 390
+  },
+  {
+   "goods_id": 214,
+   "cost_items": [
+    {
+     "id": 21010,
+     "count": 335
+    }
+   ],
+   "rewards": {
+    "id": 52114,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 390,
+   "lock_level_count": 420
+  },
+  {
+   "goods_id": 215,
+   "cost_items": [
+    {
+     "id": 21010,
+     "count": 390
+    }
+   ],
+   "rewards": {
+    "id": 52115,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 420,
+   "lock_level_count": 450
+  },
+  {
+   "goods_id": 216,
+   "cost_items": [
+    {
+     "id": 21010,
+     "count": 445
+    }
+   ],
+   "rewards": {
+    "id": 52116,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 450,
+   "lock_level_count": 480
+  },
+  {
+   "goods_id": 217,
+   "cost_items": [
+    {
+     "id": 21010,
+     "count": 555
+    }
+   ],
+   "rewards": {
+    "id": 52117,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 480,
+   "lock_level_count": 510
+  },
+  {
+   "goods_id": 218,
+   "cost_items": [
+    {
+     "id": 21010,
+     "count": 685
+    }
+   ],
+   "rewards": {
+    "id": 52118,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 510,
+   "lock_level_count": 540
+  },
+  {
+   "goods_id": 219,
+   "cost_items": [
+    {
+     "id": 21010,
+     "count": 820
+    }
+   ],
+   "rewards": {
+    "id": 52119,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 540,
+   "lock_level_count": 570
+  },
+  {
+   "goods_id": 220,
+   "cost_items": [
+    {
+     "id": 21010,
+     "count": 955
+    }
+   ],
+   "rewards": {
+    "id": 52120,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 570,
+   "lock_level_count": 600
+  },
+  {
+   "goods_id": 221,
+   "cost_items": [
+    {
+     "id": 21010,
+     "count": 1085
+    }
+   ],
+   "rewards": {
+    "id": 52121,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 600,
+   "lock_level_count": 630
+  },
+  {
+   "goods_id": 222,
+   "cost_items": [
+    {
+     "id": 21010,
+     "count": 1315
+    }
+   ],
+   "rewards": {
+    "id": 52122,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 630,
+   "lock_level_count": 660
+  },
+  {
+   "goods_id": 223,
+   "cost_items": [
+    {
+     "id": 21010,
+     "count": 1595
+    }
+   ],
+   "rewards": {
+    "id": 52123,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 660,
+   "lock_level_count": 690
+  },
+  {
+   "goods_id": 224,
+   "cost_items": [
+    {
+     "id": 21010,
+     "count": 1875
+    }
+   ],
+   "rewards": {
+    "id": 52124,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 690,
+   "lock_level_count": 720
+  },
+  {
+   "goods_id": 225,
+   "cost_items": [
+    {
+     "id": 21010,
+     "count": 2155
+    }
+   ],
+   "rewards": {
+    "id": 52125,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 720,
+   "lock_level_count": 750
+  },
+  {
+   "goods_id": 226,
+   "cost_items": [
+    {
+     "id": 21010,
+     "count": 2440
+    }
+   ],
+   "rewards": {
+    "id": 52126,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 750,
+   "lock_level_count": 780
+  },
+  {
+   "goods_id": 227,
+   "cost_items": [
+    {
+     "id": 21010,
+     "count": 2720
+    }
+   ],
+   "rewards": {
+    "id": 52127,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 780,
+   "lock_level_count": 810
+  },
+  {
+   "goods_id": 228,
+   "cost_items": [
+    {
+     "id": 21010,
+     "count": 2905
+    }
+   ],
+   "rewards": {
+    "id": 52128,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 810,
+   "lock_level_count": 840
+  },
+  {
+   "goods_id": 229,
+   "cost_items": [
+    {
+     "id": 21010,
+     "count": 3095
+    }
+   ],
+   "rewards": {
+    "id": 52129,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 840,
+   "lock_level_count": 870
+  },
+  {
+   "goods_id": 230,
+   "cost_items": [
+    {
+     "id": 21010,
+     "count": 3280
+    }
+   ],
+   "rewards": {
+    "id": 52130,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 870,
+   "lock_level_count": 900
+  },
+  {
+   "goods_id": 231,
+   "cost_items": [
+    {
+     "id": 21010,
+     "count": 3280
+    }
+   ],
+   "rewards": {
+    "id": 52131,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 900,
+   "lock_level_count": 930
+  },
+  {
+   "goods_id": 232,
+   "cost_items": [
+    {
+     "id": 21010,
+     "count": 3280
+    }
+   ],
+   "rewards": {
+    "id": 52132,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 930,
+   "lock_level_count": 960
+  },
+  {
+   "goods_id": 233,
+   "cost_items": [
+    {
+     "id": 21010,
+     "count": 3280
+    }
+   ],
+   "rewards": {
+    "id": 52133,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 960,
+   "lock_level_count": 990
+  },
+  {
+   "goods_id": 234,
+   "cost_items": [
+    {
+     "id": 21010,
+     "count": 3280
+    }
+   ],
+   "rewards": {
+    "id": 52134,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 990,
+   "lock_level_count": 1020
+  },
+  {
+   "goods_id": 235,
+   "cost_items": [
+    {
+     "id": 21010,
+     "count": 3280
+    }
+   ],
+   "rewards": {
+    "id": 52135,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1020,
+   "lock_level_count": 1050
+  },
+  {
+   "goods_id": 236,
+   "cost_items": [
+    {
+     "id": 21010,
+     "count": 3280
+    }
+   ],
+   "rewards": {
+    "id": 52136,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1050,
+   "lock_level_count": 1080
+  },
+  {
+   "goods_id": 237,
+   "cost_items": [
+    {
+     "id": 21010,
+     "count": 3280
+    }
+   ],
+   "rewards": {
+    "id": 52137,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1080,
+   "lock_level_count": 1110
+  },
+  {
+   "goods_id": 238,
+   "cost_items": [
+    {
+     "id": 21010,
+     "count": 3280
+    }
+   ],
+   "rewards": {
+    "id": 52138,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1110,
+   "lock_level_count": 1140
+  },
+  {
+   "goods_id": 239,
+   "cost_items": [
+    {
+     "id": 21010,
+     "count": 3280
+    }
+   ],
+   "rewards": {
+    "id": 52139,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1140,
+   "lock_level_count": 1170
+  },
+  {
+   "goods_id": 240,
+   "cost_items": [
+    {
+     "id": 21010,
+     "count": 3280
+    }
+   ],
+   "rewards": {
+    "id": 52140,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1170,
+   "lock_level_count": 1200
+  },
+  {
+   "goods_id": 241,
+   "cost_items": [
+    {
+     "id": 21010,
+     "count": 3280
+    }
+   ],
+   "rewards": {
+    "id": 52141,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1200,
+   "lock_level_count": 1230
+  },
+  {
+   "goods_id": 242,
+   "cost_items": [
+    {
+     "id": 21010,
+     "count": 3280
+    }
+   ],
+   "rewards": {
+    "id": 52142,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1230,
+   "lock_level_count": 1260
+  },
+  {
+   "goods_id": 243,
+   "cost_items": [
+    {
+     "id": 21010,
+     "count": 3280
+    }
+   ],
+   "rewards": {
+    "id": 52143,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1260,
+   "lock_level_count": 1290
+  },
+  {
+   "goods_id": 244,
+   "cost_items": [
+    {
+     "id": 21010,
+     "count": 3280
+    }
+   ],
+   "rewards": {
+    "id": 52144,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1290,
+   "lock_level_count": 1320
+  },
+  {
+   "goods_id": 245,
+   "cost_items": [
+    {
+     "id": 21010,
+     "count": 3280
+    }
+   ],
+   "rewards": {
+    "id": 52145,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1320,
+   "lock_level_count": 1350
+  },
+  {
+   "goods_id": 246,
+   "cost_items": [
+    {
+     "id": 21010,
+     "count": 3280
+    }
+   ],
+   "rewards": {
+    "id": 52146,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1350,
+   "lock_level_count": 1380
+  },
+  {
+   "goods_id": 247,
+   "cost_items": [
+    {
+     "id": 21010,
+     "count": 3280
+    }
+   ],
+   "rewards": {
+    "id": 52147,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1380,
+   "lock_level_count": 1410
+  },
+  {
+   "goods_id": 248,
+   "cost_items": [
+    {
+     "id": 21010,
+     "count": 3280
+    }
+   ],
+   "rewards": {
+    "id": 52148,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1410,
+   "lock_level_count": 1440
+  },
+  {
+   "goods_id": 249,
+   "cost_items": [
+    {
+     "id": 21010,
+     "count": 3280
+    }
+   ],
+   "rewards": {
+    "id": 52149,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1440,
+   "lock_level_count": 1470
+  },
+  {
+   "goods_id": 250,
+   "cost_items": [
+    {
+     "id": 21010,
+     "count": 3280
+    }
+   ],
+   "rewards": {
+    "id": 52150,
+    "count": 1
+   },
+   "limit_count": 0,
+   "unlock_level_count": 1470,
+   "lock_level_count": 1500
+  }
+ ],
+ "text_chunk": null
+}

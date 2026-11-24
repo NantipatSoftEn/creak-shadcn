@@ -1,0 +1,61 @@
+{
+ "config": "clue_fragment",
+ "fields": [
+  "id",
+  "icon",
+  "fragment_reward",
+  "clue",
+  "story",
+  "name",
+  "detail"
+ ],
+ "rows": {
+  "11": {
+   "id": 11,
+   "icon": "",
+   "fragment_reward": "10011,100|10202,1",
+   "clue": [
+    20005,
+    20015,
+    20017
+   ],
+   "story": "CW_00_01",
+   "name": "The Thing",
+   "name_th": "เจ้านั่น",
+   "detail": "Description of Fragment 1",
+   "detail_th": "คำอธิบายชิ้นส่วน 1"
+  },
+  "12": {
+   "id": 12,
+   "icon": "",
+   "fragment_reward": "10011,100|10202,1",
+   "clue": [
+    20007,
+    20002,
+    20023
+   ],
+   "story": "CW_00_02",
+   "name": "Stay or Leave",
+   "name_th": "อยู่ต่อหรือจากไป",
+   "detail": "Description of Fragment 2",
+   "detail_th": "คำอธิบายชิ้นส่วน 2"
+  },
+  "13": {
+   "id": 13,
+   "icon": "",
+   "fragment_reward": "10011,100|10202,1",
+   "clue": [
+    20001,
+    20004,
+    20006,
+    20018
+   ],
+   "story": "CW_00_03",
+   "name": "Buried Deep Underground",
+   "name_th": "ฝังลึกอยู่ใต้ดิน",
+   "detail": "Description of Fragment 3",
+   "detail_th": "คำอธิบายชิ้นส่วน 3"
+  }
+ },
+ "text_chunk": "00060_0b6702d9f994ea56.json"
+}

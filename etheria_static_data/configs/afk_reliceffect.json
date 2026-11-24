@@ -1,0 +1,724 @@
+{
+ "config": "afk_reliceffect",
+ "fields": [
+  "id",
+  "prop_id",
+  "skill_id",
+  "param_range_1",
+  "param_range_2",
+  "param_range_3",
+  "param_range_4",
+  "param_range_5",
+  "param_range_6",
+  "param_range_7",
+  "format",
+  "icon",
+  "decimal",
+  "skill_type",
+  "name",
+  "desc"
+ ],
+ "rows": [
+  {
+   "id": 1,
+   "prop_id": 0,
+   "skill_id": [
+    3506
+   ],
+   "param_range_1": null,
+   "param_range_2": [
+    1.0
+   ],
+   "param_range_3": [
+    2.0
+   ],
+   "param_range_4": [
+    3.0
+   ],
+   "param_range_5": [
+    4.0
+   ],
+   "param_range_6": [
+    5.0
+   ],
+   "param_range_7": [
+    6.0
+   ],
+   "format": 0,
+   "icon": "0025",
+   "decimal": 0,
+   "skill_type": 1,
+   "name": "Heavy Onslaught",
+   "name_th": "Heavy Onslaught",
+   "desc": "When HP is above <Key>90%</>, increases damage dealt by <Key>16%</>.",
+   "desc_th": "เมื่อ HP สูงกว่า <Key>90%</> จะเพิ่มดาเมจที่ทำได้ <Key>16%</>"
+  },
+  {
+   "id": 2,
+   "prop_id": 0,
+   "skill_id": [
+    3507
+   ],
+   "param_range_1": null,
+   "param_range_2": [
+    1.0
+   ],
+   "param_range_3": [
+    2.0
+   ],
+   "param_range_4": [
+    3.0
+   ],
+   "param_range_5": [
+    4.0
+   ],
+   "param_range_6": [
+    5.0
+   ],
+   "param_range_7": [
+    6.0
+   ],
+   "format": 0,
+   "icon": "0025",
+   "decimal": 0,
+   "skill_type": 1,
+   "name": "Pre-Combat Defense",
+   "name_th": "Pre-Combat Defense",
+   "desc": "At the start of battle, gains a <Effect>[Shield]</> equal to <Key>400%</> of own ATK. Cannot be dispelled.",
+   "desc_th": "ในช่วงเริ่มต้นของการต่อสู้ จะได้รับ <Effect>[Shield]</> เท่ากับ <Key>400%</> ของ ATK ตนเอง และลบล้างไม่ได้"
+  },
+  {
+   "id": 3,
+   "prop_id": 0,
+   "skill_id": [
+    4001
+   ],
+   "param_range_1": null,
+   "param_range_2": null,
+   "param_range_3": null,
+   "param_range_4": [
+    1.0
+   ],
+   "param_range_5": [
+    2.0
+   ],
+   "param_range_6": [
+    3.0
+   ],
+   "param_range_7": [
+    4.0
+   ],
+   "format": 0,
+   "icon": "0025",
+   "decimal": 0,
+   "skill_type": 1,
+   "name": "Rapid Pursuit",
+   "name_th": "Rapid Pursuit",
+   "desc": "When the Animus uses a Basic Attack, they have a <Key>20%</> chance to gain an extra turn.",
+   "desc_th": "เมื่อใช้โจมตีธรรมดา มีโอกาส <Key>20%</> ที่จะได้รับเทิร์นพิเศษ"
+  },
+  {
+   "id": 4,
+   "prop_id": 0,
+   "skill_id": [
+    4002
+   ],
+   "param_range_1": null,
+   "param_range_2": [
+    1.0
+   ],
+   "param_range_3": [
+    2.0
+   ],
+   "param_range_4": [
+    3.0
+   ],
+   "param_range_5": [
+    4.0
+   ],
+   "param_range_6": [
+    5.0
+   ],
+   "param_range_7": [
+    6.0
+   ],
+   "format": 0,
+   "icon": "0025",
+   "decimal": 0,
+   "skill_type": 1,
+   "name": "Critical Chaos",
+   "name_th": "Critical Chaos",
+   "desc": "When the Animus attacks a target whose HP percentage is below <Key>60%</>, their CRIT Rate increases by <Key>30%</>.",
+   "desc_th": "เมื่อโจมตีเป้าหมายที่มี HP ต่ำกว่า <Key>60%</> จะเพิ่ม CRIT Rate ของตัวเอง <Key>30%</>"
+  },
+  {
+   "id": 5,
+   "prop_id": 0,
+   "skill_id": [
+    4003
+   ],
+   "param_range_1": null,
+   "param_range_2": [
+    1.0
+   ],
+   "param_range_3": [
+    2.0
+   ],
+   "param_range_4": [
+    3.0
+   ],
+   "param_range_5": [
+    4.0
+   ],
+   "param_range_6": [
+    5.0
+   ],
+   "param_range_7": [
+    6.0
+   ],
+   "format": 0,
+   "icon": "0025",
+   "decimal": 0,
+   "skill_type": 1,
+   "name": "Dual Lethality",
+   "name_th": "Dual Lethality",
+   "desc": "When the Animus lands a CRIT, they have a <Key>15%</> chance to deal double damage.",
+   "desc_th": "เมื่อ CRIT สำเร็จ มีโอกาส <Key>15%</> ที่จะสร้าง DMG สองเท่า"
+  },
+  {
+   "id": 6,
+   "prop_id": 0,
+   "skill_id": [
+    4004
+   ],
+   "param_range_1": null,
+   "param_range_2": [
+    1.0
+   ],
+   "param_range_3": [
+    2.0
+   ],
+   "param_range_4": [
+    3.0
+   ],
+   "param_range_5": [
+    4.0
+   ],
+   "param_range_6": [
+    5.0
+   ],
+   "param_range_7": [
+    6.0
+   ],
+   "format": 0,
+   "icon": "0025",
+   "decimal": 0,
+   "skill_type": 1,
+   "name": "Counter Burst",
+   "name_th": "Counter Burst",
+   "desc": "When the Animus deals damage with an Affinity advantage, their CRIT Rate and CRIT DMG increase by <Key>30%</>.",
+   "desc_th": "เมื่อสร้าง DMG ที่มีความได้เปรียบด้านประเภท จะเพิ่ม CRIT Rate และ CRIT DMG ของตัวเอง <Key>30%</>"
+  },
+  {
+   "id": 7,
+   "prop_id": 0,
+   "skill_id": [
+    3509
+   ],
+   "param_range_1": null,
+   "param_range_2": [
+    1.0
+   ],
+   "param_range_3": [
+    2.0
+   ],
+   "param_range_4": [
+    3.0
+   ],
+   "param_range_5": [
+    4.0
+   ],
+   "param_range_6": [
+    5.0
+   ],
+   "param_range_7": [
+    6.0
+   ],
+   "format": 0,
+   "icon": "0025",
+   "decimal": 0,
+   "skill_type": 1,
+   "name": "Morale Overload",
+   "name_th": "Morale Overload",
+   "desc": "Once the Animus reaches action turn <Key>3</>, their damage dealt increases by an additional <Key>16%</>.",
+   "desc_th": "เริ่มตั้งแต่เทิร์นการกระทำที่ <Key>3</> ของตัวเอง จะเพิ่ม DMG ที่สร้างขึ้นเพิ่มเติม <Key>16%</>"
+  },
+  {
+   "id": 8,
+   "prop_id": 0,
+   "skill_id": [
+    3504
+   ],
+   "param_range_1": null,
+   "param_range_2": [
+    1.0
+   ],
+   "param_range_3": [
+    2.0
+   ],
+   "param_range_4": [
+    3.0
+   ],
+   "param_range_5": [
+    4.0
+   ],
+   "param_range_6": [
+    5.0
+   ],
+   "param_range_7": [
+    6.0
+   ],
+   "format": 0,
+   "icon": "0025",
+   "decimal": 0,
+   "skill_type": 1,
+   "name": "Crisis Resurgence",
+   "name_th": "Crisis Resurgence",
+   "desc": "After the Animus is attacked, if their HP is below <Key>35%</>, they restore HP equal to <Key>200%</> of their DEF + <Key>3000</> HP. CD: <Key>3</> turn(s).",
+   "desc_th": "หลังจากได้รับ DMG หาก HP ของตัวเองต่ำกว่า <Key>35%</> จะฟื้นฟู DEF ของตัวเอง <Key>200%</> + HP <Key>3000</> CD: <Key>3</> เทิร์น"
+  },
+  {
+   "id": 9,
+   "prop_id": 0,
+   "skill_id": [
+    4005
+   ],
+   "param_range_1": null,
+   "param_range_2": null,
+   "param_range_3": null,
+   "param_range_4": [
+    1.0
+   ],
+   "param_range_5": [
+    2.0
+   ],
+   "param_range_6": [
+    3.0
+   ],
+   "param_range_7": [
+    4.0
+   ],
+   "format": 0,
+   "icon": "0025",
+   "decimal": 0,
+   "skill_type": 1,
+   "name": "Debuff Dullness",
+   "name_th": "Debuff Dullness",
+   "desc": "The effects of <Debuff>[Basic Debuffs]</> received by the Animus are reduced by <Key>80%</>.",
+   "desc_th": "ลดเอฟเฟกต์ของ <Debuff>[Basic Debuff]</> ที่ได้รับ <Key>80%</>"
+  },
+  {
+   "id": 10,
+   "prop_id": 0,
+   "skill_id": [
+    4006
+   ],
+   "param_range_1": null,
+   "param_range_2": null,
+   "param_range_3": null,
+   "param_range_4": null,
+   "param_range_5": [
+    1.0
+   ],
+   "param_range_6": [
+    2.0
+   ],
+   "param_range_7": [
+    3.0
+   ],
+   "format": 0,
+   "icon": "0025",
+   "decimal": 0,
+   "skill_type": 1,
+   "name": "Multi-Armor Shatter",
+   "name_th": "Multi-Armor Shatter",
+   "desc": "When the Animus attacks, they ignore <Key>10%</> of the target's DEF for each type of debuff on the target, up to <Key>50%</>.",
+   "desc_th": "สำหรับดีบัฟทุกอันที่มีบนเป้าหมายเมื่อโจมตี จะเพิกเฉยต่อ DEF ของเป้าหมาย <Key>10%</> สูงสุด <Key>50%</>"
+  },
+  {
+   "id": 11,
+   "prop_id": 0,
+   "skill_id": [
+    4007
+   ],
+   "param_range_1": null,
+   "param_range_2": [
+    1.0
+   ],
+   "param_range_3": [
+    2.0
+   ],
+   "param_range_4": [
+    3.0
+   ],
+   "param_range_5": [
+    4.0
+   ],
+   "param_range_6": [
+    5.0
+   ],
+   "param_range_7": [
+    6.0
+   ],
+   "format": 0,
+   "icon": "0025",
+   "decimal": 0,
+   "skill_type": 1,
+   "name": "Tech Fortification",
+   "name_th": "Tech Fortification",
+   "desc": "After the Animus actively uses a non-Basic Attack Skill, their DEF increases by <Key>30%</> for <Key>3</> turn(s). Stacks up to <Key>3</> times.",
+   "desc_th": "หลังจากใช้สกิลที่ไม่ใช่โจมตีธรรมดาอย่างจงใจ จะเพิ่ม DEF ของตัวเอง <Key>30%</> เป็นเวลา <Key>3</> เทิร์น สูงสุด <Key>3</> สแตก"
+  },
+  {
+   "id": 12,
+   "prop_id": 0,
+   "skill_id": [
+    3502
+   ],
+   "param_range_1": null,
+   "param_range_2": [
+    1.0
+   ],
+   "param_range_3": [
+    2.0
+   ],
+   "param_range_4": [
+    3.0
+   ],
+   "param_range_5": [
+    4.0
+   ],
+   "param_range_6": [
+    5.0
+   ],
+   "param_range_7": [
+    6.0
+   ],
+   "format": 0,
+   "icon": "0025",
+   "decimal": 0,
+   "skill_type": 1,
+   "name": "Blood-Bathed Will",
+   "name_th": "Blood-Bathed Will",
+   "desc": "For every <Key>10%</> HP the Animus loses, their damage dealt increases by an additional <Key>4%</> and their damage taken is reduced by an additional <Key>4%</>. Stacks up to <Key>7</> times.",
+   "desc_th": "สำหรับ HP ของตัวเองที่เสียไปทุก <Key>10%</> จะเพิ่ม DMG ที่สร้างขึ้น <Key>4%</> และลด DMG ที่ได้รับ <Key>4%</> เพิ่มเติม สูงสุด <Key>7</> สแตก"
+  },
+  {
+   "id": 13,
+   "prop_id": 0,
+   "skill_id": [
+    3503
+   ],
+   "param_range_1": null,
+   "param_range_2": [
+    1.0
+   ],
+   "param_range_3": [
+    2.0
+   ],
+   "param_range_4": [
+    3.0
+   ],
+   "param_range_5": [
+    4.0
+   ],
+   "param_range_6": [
+    5.0
+   ],
+   "param_range_7": [
+    6.0
+   ],
+   "format": 0,
+   "icon": "0025",
+   "decimal": 0,
+   "skill_type": 1,
+   "name": "Monolith Core",
+   "name_th": "Monolith Core",
+   "desc": "When the Animus takes a CRIT hit, their damage taken is reduced by an additional <Key>17%</>.",
+   "desc_th": "ลด DMG ที่ได้รับเพิ่มเติม <Key>17%</> เมื่อถูก CRIT"
+  },
+  {
+   "id": 14,
+   "prop_id": 0,
+   "skill_id": [
+    4008
+   ],
+   "param_range_1": null,
+   "param_range_2": [
+    1.0
+   ],
+   "param_range_3": [
+    2.0
+   ],
+   "param_range_4": [
+    3.0
+   ],
+   "param_range_5": [
+    4.0
+   ],
+   "param_range_6": [
+    5.0
+   ],
+   "param_range_7": [
+    6.0
+   ],
+   "format": 0,
+   "icon": "0025",
+   "decimal": 0,
+   "skill_type": 1,
+   "name": "Resurgent Advance",
+   "name_th": "Resurgent Advance",
+   "desc": "When the Animus is about to die, they gain a <Key>1</>-turn <Buff>[Soul Ward]</> and immediately gain <Key>60%</> Turn Meter. CD: <Key>6</> turn(s).",
+   "desc_th": "เมื่อใกล้จะเสียชีวิต จะได้รับ <Buff>[Soul Ward]</> เป็นเวลา <Key>1</> เทิร์น และได้รับเกจเทิร์นทันที <Key>60%</> เอฟเฟกต์นี้มี CD <Key>6</> เทิร์น"
+  },
+  {
+   "id": 15,
+   "prop_id": 0,
+   "skill_id": [
+    4009
+   ],
+   "param_range_1": null,
+   "param_range_2": [
+    1.0
+   ],
+   "param_range_3": [
+    2.0
+   ],
+   "param_range_4": [
+    3.0
+   ],
+   "param_range_5": [
+    4.0
+   ],
+   "param_range_6": [
+    5.0
+   ],
+   "param_range_7": [
+    6.0
+   ],
+   "format": 0,
+   "icon": "0025",
+   "decimal": 0,
+   "skill_type": 1,
+   "name": "Sustenance Buff",
+   "name_th": "Sustenance Buff",
+   "desc": "At the end of the turn, the Animus recovers <Key>3%</> of Max HP for each type of buff they have, up to <Key>15%</>.",
+   "desc_th": "สำหรับบัฟที่ใช้งานอยู่ทุกอัน จะฟื้นฟู HP สูงสุดของตัวเอง <Key>3%</> เมื่อสิ้นสุดเทิร์น สูงสุด <Key>15%</>"
+  },
+  {
+   "id": 16,
+   "prop_id": 0,
+   "skill_id": [
+    4010
+   ],
+   "param_range_1": null,
+   "param_range_2": [
+    1.0
+   ],
+   "param_range_3": [
+    2.0
+   ],
+   "param_range_4": [
+    3.0
+   ],
+   "param_range_5": [
+    4.0
+   ],
+   "param_range_6": [
+    5.0
+   ],
+   "param_range_7": [
+    6.0
+   ],
+   "format": 0,
+   "icon": "0025",
+   "decimal": 0,
+   "skill_type": 1,
+   "name": "Overdrive Conversion",
+   "name_th": "Overdrive Conversion",
+   "desc": "Excess healing received by the Animus is converted into a <Effect>[Shield]</> at a <Key>50%</> ratio.",
+   "desc_th": "แปลงการรักษาส่วนเกินที่ได้รับ <Key>50%</> เป็น <Effect>[Shield]</>"
+  },
+  {
+   "id": 17,
+   "prop_id": 0,
+   "skill_id": [
+    3501
+   ],
+   "param_range_1": null,
+   "param_range_2": [
+    1.0
+   ],
+   "param_range_3": [
+    2.0
+   ],
+   "param_range_4": [
+    3.0
+   ],
+   "param_range_5": [
+    4.0
+   ],
+   "param_range_6": [
+    5.0
+   ],
+   "param_range_7": [
+    6.0
+   ],
+   "format": 0,
+   "icon": "0025",
+   "decimal": 0,
+   "skill_type": 1,
+   "name": "Repair Strides",
+   "name_th": "Repair Strides",
+   "desc": "After actively healing a target during own turn, increases the healed target's Turn Meter by <Key>16%</>. Can trigger up to <Key>1</> time(s) per turn.",
+   "desc_th": "หลังจากใช้สกิลฮีลในเทิร์นของตนเอง จะเพิ่มเกจเทิร์นของเป้าหมายที่ถูกฮีล <Key>16%</> เกิดขึ้นได้สูงสุด <Key>1</> ครั้งต่อเทิร์น"
+  },
+  {
+   "id": 18,
+   "prop_id": 0,
+   "skill_id": [
+    3508
+   ],
+   "param_range_1": null,
+   "param_range_2": [
+    1.0
+   ],
+   "param_range_3": [
+    2.0
+   ],
+   "param_range_4": [
+    3.0
+   ],
+   "param_range_5": [
+    4.0
+   ],
+   "param_range_6": [
+    5.0
+   ],
+   "param_range_7": [
+    6.0
+   ],
+   "format": 0,
+   "icon": "0025",
+   "decimal": 0,
+   "skill_type": 1,
+   "name": "Resist Suppression",
+   "name_th": "Resist Suppression",
+   "desc": "When the Animus's Effect RES exceeds the enemy's Effect ACC, the final effect of their Effect RES increases by <Key>80%</>, and their Effect RES increases by <Key>100%</>.",
+   "desc_th": "เมื่อ Effect RES ของตัวเองสูงกว่า Effect ACC ของศัตรู โบนัส Effect RES สุดท้ายจะเพิ่มขึ้น <Key>80%</> และ Effect RES จะเพิ่มขึ้น <Key>100%</>"
+  },
+  {
+   "id": 19,
+   "prop_id": 0,
+   "skill_id": [
+    4011
+   ],
+   "param_range_1": null,
+   "param_range_2": [
+    1.0
+   ],
+   "param_range_3": [
+    2.0
+   ],
+   "param_range_4": [
+    3.0
+   ],
+   "param_range_5": [
+    4.0
+   ],
+   "param_range_6": [
+    5.0
+   ],
+   "param_range_7": [
+    6.0
+   ],
+   "format": 0,
+   "icon": "0025",
+   "decimal": 0,
+   "skill_type": 1,
+   "name": "Chrono Reversal",
+   "name_th": "Chrono Reversal",
+   "desc": "Turn Meter+ effects received by the Animus are increased by <Key>50%</>, while Turn Meter- effects received are reduced by <Key>50%</>.",
+   "desc_th": "เพิ่มเอฟเฟกต์ของเกจเทิร์น+ ที่ได้รับ <Key>50%</> และลดเอฟเฟกต์ของเกจเทิร์น- <Key>50%</>"
+  },
+  {
+   "id": 20,
+   "prop_id": 0,
+   "skill_id": [
+    4012
+   ],
+   "param_range_1": null,
+   "param_range_2": [
+    1.0
+   ],
+   "param_range_3": [
+    2.0
+   ],
+   "param_range_4": [
+    3.0
+   ],
+   "param_range_5": [
+    4.0
+   ],
+   "param_range_6": [
+    5.0
+   ],
+   "param_range_7": [
+    6.0
+   ],
+   "format": 0,
+   "icon": "0025",
+   "decimal": 0,
+   "skill_type": 1,
+   "name": "Velocity Support",
+   "name_th": "Velocity Support",
+   "desc": "At the end of the turn, the Animus increases the Turn Meter of the ally with the highest Turn Meter by <Key>12%</>.",
+   "desc_th": "หลังจากเทิร์น เพิ่มเกจเทิร์นของพันธมิตรที่มีเกจเทิร์นสูงสุด <Key>12%</>"
+  },
+  {
+   "id": 21,
+   "prop_id": 0,
+   "skill_id": [
+    4013
+   ],
+   "param_range_1": null,
+   "param_range_2": [
+    1.0
+   ],
+   "param_range_3": [
+    2.0
+   ],
+   "param_range_4": [
+    3.0
+   ],
+   "param_range_5": [
+    4.0
+   ],
+   "param_range_6": [
+    5.0
+   ],
+   "param_range_7": [
+    6.0
+   ],
+   "format": 0,
+   "icon": "0025",
+   "decimal": 0,
+   "skill_type": 1,
+   "name": "Priority Ingress",
+   "name_th": "Priority Ingress",
+   "desc": "The Animus gains <Key>60%</> Turn Meter at the start of battle.",
+   "desc_th": "ได้รับเกจเทิร์น <Key>60%</> เมื่อเริ่มการต่อสู้"
+  }
+ ],
+ "text_chunk": "00031_53ce5a1088bcafbf.json"
+}

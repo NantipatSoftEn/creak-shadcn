@@ -1,0 +1,969 @@
+{
+ "config": "guild_heraldry",
+ "fields": [
+  "id",
+  "type",
+  "resource",
+  "unlock_type",
+  "unlock_condition",
+  "is_spine",
+  "item_id",
+  "name",
+  "unlock_description"
+ ],
+ "rows": {
+  "1001": {
+   "id": 1001,
+   "type": 1,
+   "resource": "Heraldry_01",
+   "unlock_type": 0,
+   "unlock_condition": [
+    0
+   ],
+   "is_spine": 0,
+   "item_id": 0,
+   "name": "Default Emblem",
+   "name_th": "ตราเริ่มต้น",
+   "unlock_description": "Union Initial Emblem",
+   "unlock_description_th": "ธงเริ่มต้นสหพันธ์"
+  },
+  "1002": {
+   "id": 1002,
+   "type": 1,
+   "resource": "Heraldry_02",
+   "unlock_type": 0,
+   "unlock_condition": [
+    0
+   ],
+   "is_spine": 0,
+   "item_id": 0,
+   "name": "Shield Emblem",
+   "name_th": "ตราโล่",
+   "unlock_description": "Union Initial Emblem",
+   "unlock_description_th": "ธงเริ่มต้นสหพันธ์"
+  },
+  "1003": {
+   "id": 1003,
+   "type": 1,
+   "resource": "Heraldry_03",
+   "unlock_type": 0,
+   "unlock_condition": [
+    0
+   ],
+   "is_spine": 0,
+   "item_id": 0,
+   "name": "Monster Emblem",
+   "name_th": "ตราสัตว์ประหลาด",
+   "unlock_description": "Union Initial Emblem",
+   "unlock_description_th": "ธงเริ่มต้นสหพันธ์"
+  },
+  "1004": {
+   "id": 1004,
+   "type": 1,
+   "resource": "Heraldry_04",
+   "unlock_type": 0,
+   "unlock_condition": [
+    0
+   ],
+   "is_spine": 0,
+   "item_id": 0,
+   "name": "War Helm Emblem",
+   "name_th": "ตราหมวกสงคราม",
+   "unlock_description": "Union Initial Emblem",
+   "unlock_description_th": "ธงเริ่มต้นสหพันธ์"
+  },
+  "1005": {
+   "id": 1005,
+   "type": 1,
+   "resource": "Heraldry_05",
+   "unlock_type": 0,
+   "unlock_condition": [
+    0
+   ],
+   "is_spine": 0,
+   "item_id": 0,
+   "name": "Tower Emblem",
+   "name_th": "ตราหอคอย",
+   "unlock_description": "Union Initial Emblem",
+   "unlock_description_th": "ธงเริ่มต้นสหพันธ์"
+  },
+  "1006": {
+   "id": 1006,
+   "type": 1,
+   "resource": "Heraldry_06",
+   "unlock_type": 0,
+   "unlock_condition": [
+    0
+   ],
+   "is_spine": 0,
+   "item_id": 0,
+   "name": "Throne Emblem",
+   "name_th": "ตราบัลลังก์",
+   "unlock_description": "Union Initial Emblem",
+   "unlock_description_th": "ธงเริ่มต้นสหพันธ์"
+  },
+  "1007": {
+   "id": 1007,
+   "type": 1,
+   "resource": "Heraldry_07",
+   "unlock_type": 1,
+   "unlock_condition": [
+    3
+   ],
+   "is_spine": 0,
+   "item_id": 0,
+   "name": "Glory Emblem",
+   "name_th": "ตราเกียรติยศ",
+   "unlock_description": "Unlocked at Union level 3",
+   "unlock_description_th": "ปลดล็อกสหพันธ์ Lv.3"
+  },
+  "1008": {
+   "id": 1008,
+   "type": 1,
+   "resource": "Heraldry_08",
+   "unlock_type": 1,
+   "unlock_condition": [
+    6
+   ],
+   "is_spine": 0,
+   "item_id": 0,
+   "name": "Sharpshooter Emblem",
+   "name_th": "ตราแม่นปืน",
+   "unlock_description": "Unlocked at Union level 6",
+   "unlock_description_th": "ปลดล็อกสหพันธ์ Lv.6"
+  },
+  "1009": {
+   "id": 1009,
+   "type": 1,
+   "resource": "Heraldry_09",
+   "unlock_type": 1,
+   "unlock_condition": [
+    10
+   ],
+   "is_spine": 0,
+   "item_id": 0,
+   "name": "Bulwark Emblem",
+   "name_th": "ตราปราการ",
+   "unlock_description": "Unlocked at Union level 10",
+   "unlock_description_th": "ปลดล็อกสหพันธ์ Lv.10"
+  },
+  "1010": {
+   "id": 1010,
+   "type": 1,
+   "resource": "Heraldry_10",
+   "unlock_type": 1,
+   "unlock_condition": [
+    13
+   ],
+   "is_spine": 0,
+   "item_id": 0,
+   "name": "Falcon Emblem",
+   "name_th": "ตราเหยี่ยว",
+   "unlock_description": "Unlocked at Union level 13",
+   "unlock_description_th": "ปลดล็อกสหพันธ์ Lv.13"
+  },
+  "1011": {
+   "id": 1011,
+   "type": 1,
+   "resource": "Heraldry_11",
+   "unlock_type": 1,
+   "unlock_condition": [
+    16
+   ],
+   "is_spine": 0,
+   "item_id": 0,
+   "name": "Lion Emblem",
+   "name_th": "ตราสิงห์",
+   "unlock_description": "Unlocked at Union level 16",
+   "unlock_description_th": "ปลดล็อกสหพันธ์ Lv.16"
+  },
+  "1012": {
+   "id": 1012,
+   "type": 1,
+   "resource": "Heraldry_12",
+   "unlock_type": 1,
+   "unlock_condition": [
+    20
+   ],
+   "is_spine": 0,
+   "item_id": 0,
+   "name": "Sword Emblem",
+   "name_th": "ตราดาบ",
+   "unlock_description": "Unlocked at Union level 20",
+   "unlock_description_th": "ปลดล็อกสหพันธ์ Lv.20"
+  },
+  "1013": {
+   "id": 1013,
+   "type": 1,
+   "resource": "Heraldry_27200",
+   "unlock_type": 2,
+   "unlock_condition": [
+    1
+   ],
+   "is_spine": 0,
+   "item_id": 27200,
+   "name": "Reserve Insignia",
+   "name_th": "เครื่องหมายสำรอง",
+   "unlock_description": "Unlock by reaching Reserve Union",
+   "unlock_description_th": "ปลดล็อกเมื่อถึง\nสหพันธ์สำรอง"
+  },
+  "1014": {
+   "id": 1014,
+   "type": 1,
+   "resource": "Heraldry_27198",
+   "unlock_type": 2,
+   "unlock_condition": [
+    4
+   ],
+   "is_spine": 0,
+   "item_id": 27198,
+   "name": "Pioneer Insignia",
+   "name_th": "เครื่องหมายผู้บุกเบิก",
+   "unlock_description": "Unlock by reaching Pioneer Union",
+   "unlock_description_th": "ปลดล็อกเมื่อถึงสหพันธ์ผู้บุกเบิก"
+  },
+  "1015": {
+   "id": 1015,
+   "type": 1,
+   "resource": "Heraldry_27199",
+   "unlock_type": 2,
+   "unlock_condition": [
+    7
+   ],
+   "is_spine": 0,
+   "item_id": 27199,
+   "name": "Rookie Insignia",
+   "name_th": "เครื่องหมายมือใหม่",
+   "unlock_description": "Unlock by reaching Rookie Union",
+   "unlock_description_th": "ปลดล็อกเมื่อถึงสหพันธ์มือใหม่"
+  },
+  "1016": {
+   "id": 1016,
+   "type": 1,
+   "resource": "Heraldry_27201",
+   "unlock_type": 2,
+   "unlock_condition": [
+    10
+   ],
+   "is_spine": 0,
+   "item_id": 27201,
+   "name": "Elite Insignia",
+   "name_th": "เครื่องหมายอีลิท",
+   "unlock_description": "Unlock by reaching Elite Union",
+   "unlock_description_th": "ปลดล็อกเมื่อถึง\nสหพันธ์อีลิท"
+  },
+  "1017": {
+   "id": 1017,
+   "type": 1,
+   "resource": "Heraldry_27202",
+   "unlock_type": 2,
+   "unlock_condition": [
+    13
+   ],
+   "is_spine": 0,
+   "item_id": 27202,
+   "name": "Honor Insignia",
+   "name_th": "เครื่องหมายเกียรติยศ",
+   "unlock_description": "Unlock by reaching Honor Union",
+   "unlock_description_th": "ปลดล็อกเมื่อถึง\nสหพันธ์เกียรติยศ"
+  },
+  "1018": {
+   "id": 1018,
+   "type": 1,
+   "resource": "Heraldry_27203",
+   "unlock_type": 2,
+   "unlock_condition": [
+    16
+   ],
+   "is_spine": 0,
+   "item_id": 27203,
+   "name": "Legend Insignia",
+   "name_th": "เครื่องหมายเลเจ้นท์",
+   "unlock_description": "Unlock by reaching Legend Union",
+   "unlock_description_th": "ปลดล็อกเมื่อถึง\nสหพันธ์เลเจ้นท์"
+  },
+  "1019": {
+   "id": 1019,
+   "type": 1,
+   "resource": "Heraldry_27204",
+   "unlock_type": 2,
+   "unlock_condition": [
+    19
+   ],
+   "is_spine": 0,
+   "item_id": 27204,
+   "name": "Ascendant Insignia",
+   "name_th": "เครื่องหมายเหนือชั้น",
+   "unlock_description": "Unlock by reaching Ascendant Union",
+   "unlock_description_th": "ปลดล็อกเมื่อถึง\nสหพันธ์เหนือชั้น"
+  },
+  "1020": {
+   "id": 1020,
+   "type": 1,
+   "resource": "Heraldry_27205",
+   "unlock_type": 2,
+   "unlock_condition": [
+    22
+   ],
+   "is_spine": 0,
+   "item_id": 27205,
+   "name": "Eternal Insignia",
+   "name_th": "เครื่องหมายนิรันดร์",
+   "unlock_description": "Unlock by reaching Eternal Union",
+   "unlock_description_th": "ปลดล็อกเมื่อถึง\nสหพันธ์นิรันดร์"
+  },
+  "1021": {
+   "id": 1021,
+   "type": 1,
+   "resource": "Heraldry_27206",
+   "unlock_type": 3,
+   "unlock_condition": [
+    3,
+    13
+   ],
+   "is_spine": 0,
+   "item_id": 27206,
+   "name": "Hivernia Heart",
+   "name_th": "Winterlight Heart",
+   "unlock_description": "Reach Honor Union in SS2",
+   "unlock_description_th": "ถึงสหพันธ์เกียรติยศในฤดูกาล SS2"
+  },
+  "1022": {
+   "id": 1022,
+   "type": 1,
+   "resource": "Heraldry_27207",
+   "unlock_type": 3,
+   "unlock_condition": [
+    4,
+    13
+   ],
+   "is_spine": 0,
+   "item_id": 27207,
+   "name": "Gilded Emblem",
+   "name_th": "เหรียญประกายทอง",
+   "unlock_description": "Reach Honor Union in SS3",
+   "unlock_description_th": "ถึงสหพันธ์เกียรติยศในฤดูกาล SS3"
+  },
+  "1023": {
+   "id": 1023,
+   "type": 1,
+   "resource": "Heraldry_27208",
+   "unlock_type": 3,
+   "unlock_condition": [
+    4,
+    13
+   ],
+   "is_spine": 1,
+   "item_id": 27208,
+   "name": "EUC Auric Emblem",
+   "name_th": "เหรียญ EUC Auric",
+   "unlock_description": "SS3 Union Championship Emblem",
+   "unlock_description_th": "เครื่องหมาย Union Championship SS3"
+  },
+  "1024": {
+   "id": 1024,
+   "type": 1,
+   "resource": "Heraldry_27209",
+   "unlock_type": 3,
+   "unlock_condition": [
+    5,
+    13
+   ],
+   "is_spine": 0,
+   "item_id": 27209,
+   "name": "Verdant Sigil",
+   "name_th": "Verdant Sigil",
+   "unlock_description": "Reach Honor Union in SS4",
+   "unlock_description_th": "ถึงสหพันธ์เกียรติยศในฤดูกาล SS4"
+  },
+  "1025": {
+   "id": 1025,
+   "type": 1,
+   "resource": "Heraldry_27210",
+   "unlock_type": 4,
+   "unlock_condition": [
+    5,
+    16
+   ],
+   "is_spine": 1,
+   "item_id": 27210,
+   "name": "EUC Loong's Thunder-Sigil",
+   "name_th": "EUC Loong's Thunder-Sigil",
+   "unlock_description": "SS4 Union Championship Top 16 Exclusive",
+   "unlock_description_th": "พิเศษสำหรับสหพันธ์ 16 อันดับแรกของ Union Championship SS4"
+  },
+  "1026": {
+   "id": 1026,
+   "type": 1,
+   "resource": "Heraldry_27211",
+   "unlock_type": 4,
+   "unlock_condition": [
+    4,
+    16
+   ],
+   "is_spine": 1,
+   "item_id": 27211,
+   "name": "EUC Golden Emblem",
+   "name_th": "EUC Golden Emblem",
+   "unlock_description": "SS3 Union Championship Top 16 Exclusive",
+   "unlock_description_th": "พิเศษสำหรับสหพันธ์ 16 อันดับแรกของ Union Championship SS3"
+  },
+  "1027": {
+   "id": 1027,
+   "type": 1,
+   "resource": "Heraldry_27212",
+   "unlock_type": 3,
+   "unlock_condition": [
+    6,
+    13
+   ],
+   "is_spine": 0,
+   "item_id": 27212,
+   "name": "Neon Crest",
+   "name_th": "Neon Crest",
+   "unlock_description": "Reach Honor Union in SS5",
+   "unlock_description_th": "ถึงสหพันธ์เกียรติยศในฤดูกาล SS5"
+  },
+  "1028": {
+   "id": 1028,
+   "type": 1,
+   "resource": "Heraldry_27213",
+   "unlock_type": 5,
+   "unlock_condition": [
+    1,
+    20
+   ],
+   "is_spine": 1,
+   "item_id": 27213,
+   "name": "Conquered Pristine Crest",
+   "name_th": "พิชิต Pristine Crest แล้ว",
+   "unlock_description": "Ruin Hegemony Top 20 Union Rewards",
+   "unlock_description_th": "รางวัลสหพันธ์อันดับ TOP20 ของ Ruin Hegemony"
+  },
+  "1029": {
+   "id": 1029,
+   "type": 1,
+   "resource": "Heraldry_27214",
+   "unlock_type": 3,
+   "unlock_condition": [
+    7,
+    13
+   ],
+   "is_spine": 0,
+   "item_id": 27214,
+   "name": "Union Banner: Pyrite Crest",
+   "name_th": "Union Banner: Pyrite Crest",
+   "unlock_description": "Reach Honor Union in SS6 Season",
+   "unlock_description_th": "ถึงระดับสหพันธ์เกียรติยศใน SS6"
+  },
+  "1030": {
+   "id": 1030,
+   "type": 1,
+   "resource": "Heraldry_27215",
+   "unlock_type": 5,
+   "unlock_condition": [
+    2,
+    20
+   ],
+   "is_spine": 1,
+   "item_id": 27215,
+   "name": "Conquered Pyrite Crest",
+   "name_th": "Conquered Pyrite Crest",
+   "unlock_description": "Ruin Hegemony Top 20 Union Rewards",
+   "unlock_description_th": "รางวัลสหพันธ์อันดับ TOP20 ของ Ruin Hegemony"
+  },
+  "1031": {
+   "id": 1031,
+   "type": 1,
+   "resource": "Heraldry_27216",
+   "unlock_type": 4,
+   "unlock_condition": [
+    7,
+    16
+   ],
+   "is_spine": 1,
+   "item_id": 27216,
+   "name": "EUC Astral Pyrite Crest",
+   "name_th": "EUC Astral Pyrite Crest",
+   "unlock_description": "SS6 Union Championship Top 16 Exclusive",
+   "unlock_description_th": "พิเศษสำหรับสหพันธ์ 16 อันดับแรกของ Union Championship SS6"
+  },
+  "2001": {
+   "id": 2001,
+   "type": 2,
+   "resource": "Banner_01",
+   "unlock_type": 0,
+   "unlock_condition": [
+    0
+   ],
+   "is_spine": 0,
+   "item_id": 0,
+   "name": "Eternal Star Banner",
+   "name_th": "ธงดวงดาวนิรันดร์",
+   "unlock_description": "Union Initial Banner",
+   "unlock_description_th": "ธงเริ่มต้นสหพันธ์"
+  },
+  "2002": {
+   "id": 2002,
+   "type": 2,
+   "resource": "Banner_02",
+   "unlock_type": 0,
+   "unlock_condition": [
+    0
+   ],
+   "is_spine": 0,
+   "item_id": 0,
+   "name": "Scarab Banner",
+   "name_th": "ธงด้วง",
+   "unlock_description": "Union Initial Banner",
+   "unlock_description_th": "ธงเริ่มต้นสหพันธ์"
+  },
+  "2003": {
+   "id": 2003,
+   "type": 2,
+   "resource": "Banner_03",
+   "unlock_type": 0,
+   "unlock_condition": [
+    0
+   ],
+   "is_spine": 0,
+   "item_id": 0,
+   "name": "Siren Banner",
+   "name_th": "ธงไซเรน",
+   "unlock_description": "Union Initial Banner",
+   "unlock_description_th": "ธงเริ่มต้นสหพันธ์"
+  },
+  "2004": {
+   "id": 2004,
+   "type": 2,
+   "resource": "Banner_04",
+   "unlock_type": 0,
+   "unlock_condition": [
+    0
+   ],
+   "is_spine": 0,
+   "item_id": 0,
+   "name": "Chaos Banner",
+   "name_th": "ธงโกลาหล",
+   "unlock_description": "Union Initial Banner",
+   "unlock_description_th": "ธงเริ่มต้นสหพันธ์"
+  },
+  "2005": {
+   "id": 2005,
+   "type": 2,
+   "resource": "Banner_05",
+   "unlock_type": 0,
+   "unlock_condition": [
+    0
+   ],
+   "is_spine": 0,
+   "item_id": 0,
+   "name": "Sakura Banner",
+   "name_th": "ธงซากุระ",
+   "unlock_description": "Union Initial Banner",
+   "unlock_description_th": "ธงเริ่มต้นสหพันธ์"
+  },
+  "2006": {
+   "id": 2006,
+   "type": 2,
+   "resource": "Banner_06",
+   "unlock_type": 0,
+   "unlock_condition": [
+    0
+   ],
+   "is_spine": 0,
+   "item_id": 0,
+   "name": "Red Pattern Banner",
+   "name_th": "ธงลวดลายแดง",
+   "unlock_description": "Union Initial Banner",
+   "unlock_description_th": "ธงเริ่มต้นสหพันธ์"
+  },
+  "2007": {
+   "id": 2007,
+   "type": 2,
+   "resource": "Banner_07",
+   "unlock_type": 1,
+   "unlock_condition": [
+    3
+   ],
+   "is_spine": 0,
+   "item_id": 0,
+   "name": "Gemini Banner",
+   "name_th": "ธงคนคู่",
+   "unlock_description": "Unlocked at Union level 3",
+   "unlock_description_th": "ปลดล็อกสหพันธ์ Lv.3"
+  },
+  "2008": {
+   "id": 2008,
+   "type": 2,
+   "resource": "Banner_08",
+   "unlock_type": 1,
+   "unlock_condition": [
+    6
+   ],
+   "is_spine": 0,
+   "item_id": 0,
+   "name": "Lucky Banner",
+   "name_th": "ธงโชคดี",
+   "unlock_description": "Unlocked at Union level 6",
+   "unlock_description_th": "ปลดล็อกสหพันธ์ Lv.6"
+  },
+  "2009": {
+   "id": 2009,
+   "type": 2,
+   "resource": "Banner_09",
+   "unlock_type": 1,
+   "unlock_condition": [
+    10
+   ],
+   "is_spine": 0,
+   "item_id": 0,
+   "name": "Mystery Banner",
+   "name_th": "ธงลึกลับ",
+   "unlock_description": "Unlocked at Union level 10",
+   "unlock_description_th": "ปลดล็อกสหพันธ์ Lv.10"
+  },
+  "2010": {
+   "id": 2010,
+   "type": 2,
+   "resource": "Banner_10",
+   "unlock_type": 1,
+   "unlock_condition": [
+    13
+   ],
+   "is_spine": 0,
+   "item_id": 0,
+   "name": "Cross Banner",
+   "name_th": "ธงกางเขน",
+   "unlock_description": "Unlocked at Union level 13",
+   "unlock_description_th": "ปลดล็อกสหพันธ์ Lv.13"
+  },
+  "2011": {
+   "id": 2011,
+   "type": 2,
+   "resource": "Banner_11",
+   "unlock_type": 1,
+   "unlock_condition": [
+    16
+   ],
+   "is_spine": 0,
+   "item_id": 0,
+   "name": "Sunday Banner",
+   "name_th": "ธงวันอาทิตย์",
+   "unlock_description": "Unlocked at Union level 16",
+   "unlock_description_th": "ปลดล็อกสหพันธ์ Lv.16"
+  },
+  "2012": {
+   "id": 2012,
+   "type": 2,
+   "resource": "Banner_12",
+   "unlock_type": 1,
+   "unlock_condition": [
+    20
+   ],
+   "is_spine": 0,
+   "item_id": 0,
+   "name": "Star Banner",
+   "name_th": "ธงดวงดาว",
+   "unlock_description": "Unlocked at Union level 20",
+   "unlock_description_th": "ปลดล็อกสหพันธ์ Lv.20"
+  },
+  "2013": {
+   "id": 2013,
+   "type": 2,
+   "resource": "Banner_27150",
+   "unlock_type": 2,
+   "unlock_condition": [
+    1
+   ],
+   "is_spine": 0,
+   "item_id": 27150,
+   "name": "Reserve Banner",
+   "name_th": "ธงสำรอง",
+   "unlock_description": "Unlock by reaching Reserve Union",
+   "unlock_description_th": "ปลดล็อกเมื่อถึง\nสหพันธ์สำรอง"
+  },
+  "2014": {
+   "id": 2014,
+   "type": 2,
+   "resource": "Banner_27148",
+   "unlock_type": 2,
+   "unlock_condition": [
+    4
+   ],
+   "is_spine": 0,
+   "item_id": 27148,
+   "name": "Pioneer Banner",
+   "name_th": "ธงผู้บุกเบิก",
+   "unlock_description": "Unlock by reaching Pioneer Union",
+   "unlock_description_th": "ปลดล็อกเมื่อถึงสหพันธ์ผู้บุกเบิก"
+  },
+  "2015": {
+   "id": 2015,
+   "type": 2,
+   "resource": "Banner_27149",
+   "unlock_type": 2,
+   "unlock_condition": [
+    7
+   ],
+   "is_spine": 0,
+   "item_id": 27149,
+   "name": "Rookie Banner",
+   "name_th": "ธงมือใหม่",
+   "unlock_description": "Unlock by reaching Rookie Union",
+   "unlock_description_th": "ปลดล็อกเมื่อถึงสหพันธ์มือใหม่"
+  },
+  "2016": {
+   "id": 2016,
+   "type": 2,
+   "resource": "Banner_27151",
+   "unlock_type": 2,
+   "unlock_condition": [
+    10
+   ],
+   "is_spine": 0,
+   "item_id": 27151,
+   "name": "Elite Banner",
+   "name_th": "ธงอีลิท",
+   "unlock_description": "Unlock by reaching Elite Union",
+   "unlock_description_th": "ปลดล็อกเมื่อถึง\nสหพันธ์อีลิท"
+  },
+  "2017": {
+   "id": 2017,
+   "type": 2,
+   "resource": "Banner_27152",
+   "unlock_type": 2,
+   "unlock_condition": [
+    13
+   ],
+   "is_spine": 0,
+   "item_id": 27152,
+   "name": "Honor Banner",
+   "name_th": "ธงเกียรติยศ",
+   "unlock_description": "Unlock by reaching Honor Union",
+   "unlock_description_th": "ปลดล็อกเมื่อถึง\nสหพันธ์เกียรติยศ"
+  },
+  "2018": {
+   "id": 2018,
+   "type": 2,
+   "resource": "Banner_27153",
+   "unlock_type": 2,
+   "unlock_condition": [
+    16
+   ],
+   "is_spine": 0,
+   "item_id": 27153,
+   "name": "Legendary Banner",
+   "name_th": "ธงเลเจ้นดารี",
+   "unlock_description": "Unlock by reaching Legend Union",
+   "unlock_description_th": "ปลดล็อกเมื่อถึง\nสหพันธ์เลเจ้นท์"
+  },
+  "2019": {
+   "id": 2019,
+   "type": 2,
+   "resource": "Banner_27154",
+   "unlock_type": 2,
+   "unlock_condition": [
+    19
+   ],
+   "is_spine": 0,
+   "item_id": 27154,
+   "name": "Ascendant Banner",
+   "name_th": "ธงเหนือชั้น",
+   "unlock_description": "Unlock by reaching Ascendant Union",
+   "unlock_description_th": "ปลดล็อกเมื่อถึง\nสหพันธ์เหนือชั้น"
+  },
+  "2020": {
+   "id": 2020,
+   "type": 2,
+   "resource": "Banner_27155",
+   "unlock_type": 2,
+   "unlock_condition": [
+    22
+   ],
+   "is_spine": 0,
+   "item_id": 27155,
+   "name": "Eternal Banner",
+   "name_th": "ธงนิรันดร์",
+   "unlock_description": "Unlock by reaching Eternal Union",
+   "unlock_description_th": "ปลดล็อกเมื่อถึง\nสหพันธ์นิรันดร์"
+  },
+  "2021": {
+   "id": 2021,
+   "type": 2,
+   "resource": "Banner_27156",
+   "unlock_type": 3,
+   "unlock_condition": [
+    3,
+    13
+   ],
+   "is_spine": 0,
+   "item_id": 27156,
+   "name": "Hivernia Standard",
+   "name_th": "Winterlight Banner",
+   "unlock_description": "Reach Honor Union in SS2",
+   "unlock_description_th": "ถึงสหพันธ์เกียรติยศในฤดูกาล SS2"
+  },
+  "2022": {
+   "id": 2022,
+   "type": 2,
+   "resource": "Banner_27157",
+   "unlock_type": 3,
+   "unlock_condition": [
+    4,
+    13
+   ],
+   "is_spine": 0,
+   "item_id": 27157,
+   "name": "Gilded Banner",
+   "name_th": "ธงประกายทอง",
+   "unlock_description": "Reach Honor Union in SS3",
+   "unlock_description_th": "ถึงสหพันธ์เกียรติยศในฤดูกาล SS3"
+  },
+  "2023": {
+   "id": 2023,
+   "type": 2,
+   "resource": "Banner_27158",
+   "unlock_type": 3,
+   "unlock_condition": [
+    4,
+    16
+   ],
+   "is_spine": 1,
+   "item_id": 27158,
+   "name": "EUC Auric Banner",
+   "name_th": "ธง EUC Auric",
+   "unlock_description": "SS3 Union Championship Pennant",
+   "unlock_description_th": "ธง Union Championship SS3"
+  },
+  "2024": {
+   "id": 2024,
+   "type": 2,
+   "resource": "Banner_27159",
+   "unlock_type": 3,
+   "unlock_condition": [
+    5,
+    13
+   ],
+   "is_spine": 0,
+   "item_id": 27159,
+   "name": "Verdant Standard",
+   "name_th": "Verdant Standard",
+   "unlock_description": "Reach Honor Union in SS3",
+   "unlock_description_th": "ถึงสหพันธ์เกียรติยศในฤดูกาล SS3"
+  },
+  "2025": {
+   "id": 2025,
+   "type": 2,
+   "resource": "Banner_27160",
+   "unlock_type": 4,
+   "unlock_condition": [
+    5,
+    16
+   ],
+   "is_spine": 1,
+   "item_id": 27160,
+   "name": "EUC Loong's Thunder-Banner",
+   "name_th": "EUC Loong's Thunder-Banner",
+   "unlock_description": "SS4 Union Championship Top 16 Exclusive",
+   "unlock_description_th": "พิเศษสำหรับสหพันธ์ 16 อันดับแรกของ Union Championship SS4"
+  },
+  "2026": {
+   "id": 2026,
+   "type": 2,
+   "resource": "Banner_27161",
+   "unlock_type": 4,
+   "unlock_condition": [
+    4,
+    13
+   ],
+   "is_spine": 1,
+   "item_id": 27161,
+   "name": "EUC Victory Pennant",
+   "name_th": "EUC Victory Pennant",
+   "unlock_description": "SS3 Union Championship Top 16 Exclusive",
+   "unlock_description_th": "พิเศษสำหรับสหพันธ์ 16 อันดับแรกของ Union Championship SS3"
+  },
+  "2027": {
+   "id": 2027,
+   "type": 2,
+   "resource": "Banner_27162",
+   "unlock_type": 3,
+   "unlock_condition": [
+    6,
+    13
+   ],
+   "is_spine": 0,
+   "item_id": 27162,
+   "name": "Neon Banner",
+   "name_th": "Neon Banner",
+   "unlock_description": "Reach Honor Union in SS5",
+   "unlock_description_th": "ถึงสหพันธ์เกียรติยศในฤดูกาล SS5"
+  },
+  "2028": {
+   "id": 2028,
+   "type": 2,
+   "resource": "Banner_27163",
+   "unlock_type": 5,
+   "unlock_condition": [
+    1,
+    20
+   ],
+   "is_spine": 1,
+   "item_id": 27163,
+   "name": "Pristine Banner",
+   "name_th": "Pristine Banner",
+   "unlock_description": "Ruin Hegemony Top 20 Union Rewards",
+   "unlock_description_th": "รางวัลสหพันธ์อันดับ TOP20 ของ Ruin Hegemony"
+  },
+  "2029": {
+   "id": 2029,
+   "type": 2,
+   "resource": "Banner_27164",
+   "unlock_type": 3,
+   "unlock_condition": [
+    7,
+    13
+   ],
+   "is_spine": 0,
+   "item_id": 27164,
+   "name": "Pyrite Banner",
+   "name_th": "Pyrite Banner",
+   "unlock_description": "Reach Honor Union in SS6 Season",
+   "unlock_description_th": "ถึงระดับสหพันธ์เกียรติยศใน SS6"
+  },
+  "2030": {
+   "id": 2030,
+   "type": 2,
+   "resource": "Banner_27165",
+   "unlock_type": 5,
+   "unlock_condition": [
+    2,
+    20
+   ],
+   "is_spine": 1,
+   "item_id": 27165,
+   "name": "Conquered Pyrite Banner",
+   "name_th": "Conquered Pyrite Banner",
+   "unlock_description": "Ruin Hegemony Top 20 Union Rewards",
+   "unlock_description_th": "รางวัลสหพันธ์อันดับ TOP20 ของ Ruin Hegemony"
+  },
+  "2031": {
+   "id": 2031,
+   "type": 2,
+   "resource": "Banner_27166",
+   "unlock_type": 4,
+   "unlock_condition": [
+    7,
+    16
+   ],
+   "is_spine": 1,
+   "item_id": 27166,
+   "name": "EUC Astral Pyrite Banner",
+   "name_th": "EUC Astral Pyrite Banner",
+   "unlock_description": "SS6 Union Championship Top 16 Exclusive",
+   "unlock_description_th": "พิเศษสำหรับสหพันธ์ 16 อันดับแรกของ Union Championship SS6"
+  }
+ },
+ "text_chunk": "00084_b70c5160e8ca55d0.json"
+}

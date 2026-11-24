@@ -1,0 +1,283 @@
+{
+ "config": "dreammaze_shop",
+ "fields": [
+  "id",
+  "type",
+  "goods",
+  "price",
+  "limit"
+ ],
+ "rows": {
+  "1": {
+   "id": 1,
+   "type": 1,
+   "goods": {
+    "id": 28401,
+    "count": 1
+   },
+   "price": [
+    {
+     "id": 27316,
+     "count": 4000
+    }
+   ],
+   "limit": 300
+  },
+  "2": {
+   "id": 2,
+   "type": 1,
+   "goods": {
+    "id": 28402,
+    "count": 1
+   },
+   "price": [
+    {
+     "id": 27316,
+     "count": 4000
+    }
+   ],
+   "limit": 300
+  },
+  "3": {
+   "id": 3,
+   "type": 1,
+   "goods": {
+    "id": 28403,
+    "count": 1
+   },
+   "price": [
+    {
+     "id": 27316,
+     "count": 4000
+    }
+   ],
+   "limit": 300
+  },
+  "4": {
+   "id": 4,
+   "type": 1,
+   "goods": {
+    "id": 28404,
+    "count": 1
+   },
+   "price": [
+    {
+     "id": 27316,
+     "count": 4000
+    }
+   ],
+   "limit": 300
+  },
+  "101": {
+   "id": 101,
+   "type": 2,
+   "goods": {
+    "id": 10502,
+    "count": 5
+   },
+   "price": [
+    {
+     "id": 27320,
+     "count": 8
+    },
+    {
+     "id": 27321,
+     "count": 8
+    }
+   ],
+   "limit": 10
+  },
+  "102": {
+   "id": 102,
+   "type": 2,
+   "goods": {
+    "id": 10203,
+    "count": 1
+   },
+   "price": [
+    {
+     "id": 27317,
+     "count": 16
+    },
+    {
+     "id": 27319,
+     "count": 16
+    },
+    {
+     "id": 27318,
+     "count": 16
+    }
+   ],
+   "limit": 2
+  },
+  "103": {
+   "id": 103,
+   "type": 2,
+   "goods": {
+    "id": 10207,
+    "count": 1
+   },
+   "price": [
+    {
+     "id": 27317,
+     "count": 5
+    },
+    {
+     "id": 27319,
+     "count": 5
+    },
+    {
+     "id": 27318,
+     "count": 5
+    }
+   ],
+   "limit": 10
+  },
+  "104": {
+   "id": 104,
+   "type": 2,
+   "goods": {
+    "id": 10116,
+    "count": 1
+   },
+   "price": [
+    {
+     "id": 27320,
+     "count": 25
+    },
+    {
+     "id": 27321,
+     "count": 25
+    }
+   ],
+   "limit": 2
+  },
+  "105": {
+   "id": 105,
+   "type": 2,
+   "goods": {
+    "id": 10161,
+    "count": 500
+   },
+   "price": [
+    {
+     "id": 27317,
+     "count": 8
+    },
+    {
+     "id": 27319,
+     "count": 8
+    },
+    {
+     "id": 27318,
+     "count": 8
+    }
+   ],
+   "limit": 10
+  },
+  "106": {
+   "id": 106,
+   "type": 2,
+   "goods": {
+    "id": 10133,
+    "count": 1
+   },
+   "price": [
+    {
+     "id": 27320,
+     "count": 5
+    },
+    {
+     "id": 27321,
+     "count": 5
+    }
+   ],
+   "limit": 6
+  },
+  "107": {
+   "id": 107,
+   "type": 2,
+   "goods": {
+    "id": 25003,
+    "count": 2
+   },
+   "price": [
+    {
+     "id": 27317,
+     "count": 2
+    },
+    {
+     "id": 27319,
+     "count": 2
+    },
+    {
+     "id": 27318,
+     "count": 2
+    }
+   ],
+   "limit": 10
+  },
+  "108": {
+   "id": 108,
+   "type": 2,
+   "goods": {
+    "id": 10102,
+    "count": 100
+   },
+   "price": [
+    {
+     "id": 27320,
+     "count": 5
+    },
+    {
+     "id": 27321,
+     "count": 5
+    }
+   ],
+   "limit": 3
+  },
+  "109": {
+   "id": 109,
+   "type": 2,
+   "goods": {
+    "id": 10101,
+    "count": 10000
+   },
+   "price": [
+    {
+     "id": 27320,
+     "count": 1
+    },
+    {
+     "id": 27321,
+     "count": 1
+    }
+   ],
+   "limit": 99
+  },
+  "110": {
+   "id": 110,
+   "type": 2,
+   "goods": {
+    "id": 10001,
+    "count": 50000
+   },
+   "price": [
+    {
+     "id": 27317,
+     "count": 1
+    },
+    {
+     "id": 27319,
+     "count": 1
+    },
+    {
+     "id": 27318,
+     "count": 1
+    }
+   ],
+   "limit": 99
+  }
+ },
+ "text_chunk": null
+}

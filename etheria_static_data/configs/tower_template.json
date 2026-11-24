@@ -1,0 +1,390 @@
+{
+ "config": "tower_template",
+ "fields": [
+  "key",
+  "area",
+  "flow",
+  "quest",
+  "init_quest",
+  "floor"
+ ],
+ "rows": {
+  "A001_3_3": {
+   "key": "A001_3_3",
+   "area": "TowerHard_A_001_Sub",
+   "flow": "FL_Tower_A_01",
+   "quest": 1,
+   "init_quest": 100101,
+   "floor": 101001
+  },
+  "A003_5_4": {
+   "key": "A003_5_4",
+   "area": "TowerHard_A_003_Sub",
+   "flow": "FL_Tower_A_03",
+   "quest": 5,
+   "init_quest": 100501,
+   "floor": 101005
+  },
+  "A004_5_4": {
+   "key": "A004_5_4",
+   "area": "TowerHard_A_004_Sub",
+   "flow": "FL_Tower_A_04",
+   "quest": 9,
+   "init_quest": 100901,
+   "floor": 101009
+  },
+  "A005_5_4": {
+   "key": "A005_5_4",
+   "area": "Tower_A_005_Sub",
+   "flow": "FL_Tower_A_05",
+   "quest": 17,
+   "init_quest": 101701,
+   "floor": 101017
+  },
+  "A006_5_4": {
+   "key": "A006_5_4",
+   "area": "Tower_A_006_Sub",
+   "flow": "FL_Tower_A_06",
+   "quest": 25,
+   "init_quest": 102501,
+   "floor": 101025
+  },
+  "A007_5_4": {
+   "key": "A007_5_4",
+   "area": "Tower_A_007_Sub",
+   "flow": "FL_Tower_A_07",
+   "quest": 29,
+   "init_quest": 102901,
+   "floor": 101029
+  },
+  "A008_5_4": {
+   "key": "A008_5_4",
+   "area": "Tower_A_008_Sub",
+   "flow": "FL_Tower_A_08",
+   "quest": 37,
+   "init_quest": 103701,
+   "floor": 101037
+  },
+  "A009_5_4": {
+   "key": "A009_5_4",
+   "area": "Tower_A_009_Sub",
+   "flow": "FL_Tower_A_09",
+   "quest": 41,
+   "init_quest": 104101,
+   "floor": 101041
+  },
+  "B002_5_4": {
+   "key": "B002_5_4",
+   "area": "TowerHard_B_002_Sub",
+   "flow": "FL_Tower_B_02",
+   "quest": 7,
+   "init_quest": 100701,
+   "floor": 101007
+  },
+  "B003_5_4": {
+   "key": "B003_5_4",
+   "area": "Tower_B_003_Sub",
+   "flow": "FL_Tower_B_03",
+   "quest": 13,
+   "init_quest": 101301,
+   "floor": 101013
+  },
+  "B004_5_4": {
+   "key": "B004_5_4",
+   "area": "Tower_B_004_Sub",
+   "flow": "FL_Tower_B_04",
+   "quest": 21,
+   "init_quest": 102101,
+   "floor": 101021
+  },
+  "B005_5_4": {
+   "key": "B005_5_4",
+   "area": "Tower_B_005_Sub",
+   "flow": "FL_Tower_B_05",
+   "quest": 31,
+   "init_quest": 103101,
+   "floor": 101031
+  },
+  "C001_4_4": {
+   "key": "C001_4_4",
+   "area": "TowerHard_C_001_Sub",
+   "flow": "FL_Tower_C_01",
+   "quest": 3,
+   "init_quest": 100301,
+   "floor": 101003
+  },
+  "C002_5_4": {
+   "key": "C002_5_4",
+   "area": "TowerHard_C_002_Sub",
+   "flow": "FL_Tower_C_02",
+   "quest": 11,
+   "init_quest": 101101,
+   "floor": 101011
+  },
+  "C003_5_4": {
+   "key": "C003_5_4",
+   "area": "Tower_C_003_Sub",
+   "flow": "FL_Tower_C_03",
+   "quest": 19,
+   "init_quest": 101901,
+   "floor": 101019
+  },
+  "C004_5_4": {
+   "key": "C004_5_4",
+   "area": "Tower_C_004_Sub",
+   "flow": "FL_Tower_C_04",
+   "quest": 15,
+   "init_quest": 101501,
+   "floor": 101015
+  },
+  "C005_5_4": {
+   "key": "C005_5_4",
+   "area": "Tower_C_005_Sub",
+   "flow": "FL_Tower_C_05",
+   "quest": 23,
+   "init_quest": 102301,
+   "floor": 101023
+  },
+  "C006_5_4": {
+   "key": "C006_5_4",
+   "area": "Tower_C_006_Sub",
+   "flow": "FL_Tower_C_06",
+   "quest": 27,
+   "init_quest": 102701,
+   "floor": 101027
+  },
+  "C007_5_4": {
+   "key": "C007_5_4",
+   "area": "Tower_C_007_Sub",
+   "flow": "FL_Tower_C_07",
+   "quest": 33,
+   "init_quest": 103301,
+   "floor": 101033
+  },
+  "C008_5_4": {
+   "key": "C008_5_4",
+   "area": "Tower_C_008_Sub",
+   "flow": "FL_Tower_C_08",
+   "quest": 39,
+   "init_quest": 103901,
+   "floor": 101039
+  },
+  "C009_5_4": {
+   "key": "C009_5_4",
+   "area": "Tower_C_009_Sub",
+   "flow": "FL_Tower_C_09",
+   "quest": 35,
+   "init_quest": 103501,
+   "floor": 101035
+  },
+  "D001_1_1": {
+   "key": "D001_1_1",
+   "area": "TowerHard_D_001_Sub",
+   "flow": "FL_Tower_D_01",
+   "quest": 6,
+   "init_quest": 100601,
+   "floor": 101006
+  },
+  "D002_1_1": {
+   "key": "D002_1_1",
+   "area": "TowerHard_D_002_Sub",
+   "flow": "FL_Tower_D_02",
+   "quest": 12,
+   "init_quest": 101201,
+   "floor": 101012
+  },
+  "D003_1_1": {
+   "key": "D003_1_1",
+   "area": "Tower_D_003_Sub",
+   "flow": "FL_Tower_D_03",
+   "quest": 18,
+   "init_quest": 101801,
+   "floor": 101018
+  },
+  "D004_1_1": {
+   "key": "D004_1_1",
+   "area": "Tower_D_004_Sub",
+   "flow": "FL_Tower_D_04",
+   "quest": 24,
+   "init_quest": 102401,
+   "floor": 101024
+  },
+  "D005_1_1": {
+   "key": "D005_1_1",
+   "area": "Tower_D_005_Sub",
+   "flow": "FL_Tower_D_05",
+   "quest": 30,
+   "init_quest": 103001,
+   "floor": 101030
+  },
+  "D006_1_1": {
+   "key": "D006_1_1",
+   "area": "Tower_D_006_Sub",
+   "flow": "FL_Tower_D_06",
+   "quest": 36,
+   "init_quest": 103601,
+   "floor": 101036
+  },
+  "D007_1_1": {
+   "key": "D007_1_1",
+   "area": "Tower_D_007_Sub",
+   "flow": "FL_Tower_D_07",
+   "quest": 42,
+   "init_quest": 104201,
+   "floor": 101042
+  },
+  "D008_1_1": {
+   "key": "D008_1_1",
+   "area": "Tower_D_008_Sub",
+   "flow": "FL_Tower_D_08",
+   "quest": 43,
+   "init_quest": 104301,
+   "floor": 101043
+  },
+  "D009_1_1": {
+   "key": "D009_1_1",
+   "area": "Tower_D_009_Sub",
+   "flow": "FL_Tower_D_09",
+   "quest": 44,
+   "init_quest": 104401,
+   "floor": 101044
+  },
+  "D010_1_1": {
+   "key": "D010_1_1",
+   "area": "Tower_D_010_Sub",
+   "flow": "FL_Tower_D_10",
+   "quest": 45,
+   "init_quest": 104501,
+   "floor": 101045
+  },
+  "D011_1_1": {
+   "key": "D011_1_1",
+   "area": "Tower_D_011_Sub",
+   "flow": "FL_Tower_D_11",
+   "quest": 46,
+   "init_quest": 104601,
+   "floor": 101046
+  },
+  "D012_1_1": {
+   "key": "D012_1_1",
+   "area": "Tower_D_012_Sub",
+   "flow": "FL_Tower_D_12",
+   "quest": 47,
+   "init_quest": 104701,
+   "floor": 101047
+  },
+  "E001_1_1": {
+   "key": "E001_1_1",
+   "area": "TowerHard_Elite_01_Sub",
+   "flow": "FL_Tower_E_01",
+   "quest": 2,
+   "init_quest": 100201,
+   "floor": 101002
+  },
+  "E002_1_1": {
+   "key": "E002_1_1",
+   "area": "TowerHard_Elite_02_Sub",
+   "flow": "FL_Tower_E_02",
+   "quest": 4,
+   "init_quest": 100401,
+   "floor": 101004
+  },
+  "E003_1_1": {
+   "key": "E003_1_1",
+   "area": "TowerHard_Elite_03_Sub",
+   "flow": "FL_Tower_E_03",
+   "quest": 8,
+   "init_quest": 100801,
+   "floor": 101008
+  },
+  "E004_1_1": {
+   "key": "E004_1_1",
+   "area": "TowerHard_Elite_04_Sub",
+   "flow": "FL_Tower_E_04",
+   "quest": 10,
+   "init_quest": 101001,
+   "floor": 101010
+  },
+  "E005_1_1": {
+   "key": "E005_1_1",
+   "area": "Tower_Elite_05_Sub",
+   "flow": "FL_Tower_E_05",
+   "quest": 14,
+   "init_quest": 101401,
+   "floor": 101014
+  },
+  "E006_1_1": {
+   "key": "E006_1_1",
+   "area": "Tower_Elite_06_Sub",
+   "flow": "FL_Tower_E_06",
+   "quest": 16,
+   "init_quest": 101601,
+   "floor": 101016
+  },
+  "E007_1_1": {
+   "key": "E007_1_1",
+   "area": "Tower_Elite_07_Sub",
+   "flow": "FL_Tower_E_07",
+   "quest": 20,
+   "init_quest": 102001,
+   "floor": 101020
+  },
+  "E008_1_1": {
+   "key": "E008_1_1",
+   "area": "Tower_Elite_08_Sub",
+   "flow": "FL_Tower_E_08",
+   "quest": 22,
+   "init_quest": 102201,
+   "floor": 101022
+  },
+  "E009_1_1": {
+   "key": "E009_1_1",
+   "area": "Tower_Elite_09_Sub",
+   "flow": "FL_Tower_E_09",
+   "quest": 26,
+   "init_quest": 102601,
+   "floor": 101026
+  },
+  "E010_1_1": {
+   "key": "E010_1_1",
+   "area": "Tower_Elite_10_Sub",
+   "flow": "FL_Tower_E_10",
+   "quest": 28,
+   "init_quest": 102801,
+   "floor": 101028
+  },
+  "E011_1_1": {
+   "key": "E011_1_1",
+   "area": "Tower_Elite_11_Sub",
+   "flow": "FL_Tower_E_11",
+   "quest": 32,
+   "init_quest": 103201,
+   "floor": 101032
+  },
+  "E012_1_1": {
+   "key": "E012_1_1",
+   "area": "Tower_Elite_12_Sub",
+   "flow": "FL_Tower_E_12",
+   "quest": 34,
+   "init_quest": 103401,
+   "floor": 101034
+  },
+  "E013_1_1": {
+   "key": "E013_1_1",
+   "area": "Tower_Elite_13_Sub",
+   "flow": "FL_Tower_E_13",
+   "quest": 38,
+   "init_quest": 103801,
+   "floor": 101038
+  },
+  "E014_1_1": {
+   "key": "E014_1_1",
+   "area": "Tower_Elite_14_Sub",
+   "flow": "FL_Tower_E_14",
+   "quest": 40,
+   "init_quest": 104001,
+   "floor": 101040
+  }
+ },
+ "text_chunk": null
+}

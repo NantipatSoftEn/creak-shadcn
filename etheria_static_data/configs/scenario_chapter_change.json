@@ -1,0 +1,82 @@
+{
+ "config": "scenario_chapter_change",
+ "fields": [
+  "chapterId",
+  "version"
+ ],
+ "rows": {
+  "1": {
+   "chapterId": 1,
+   "version": 3212889
+  },
+  "2": {
+   "chapterId": 2,
+   "version": 3212889
+  },
+  "3": {
+   "chapterId": 3,
+   "version": 3212889
+  },
+  "4": {
+   "chapterId": 4,
+   "version": 3212889
+  },
+  "5": {
+   "chapterId": 5,
+   "version": 3212889
+  },
+  "6": {
+   "chapterId": 6,
+   "version": 3386874
+  },
+  "7": {
+   "chapterId": 7,
+   "version": 3212889
+  },
+  "8": {
+   "chapterId": 8,
+   "version": 3212889
+  },
+  "9": {
+   "chapterId": 9,
+   "version": 3212889
+  },
+  "10": {
+   "chapterId": 10,
+   "version": 3379321
+  },
+  "11": {
+   "chapterId": 11,
+   "version": 3324428
+  },
+  "99": {
+   "chapterId": 99,
+   "version": 1
+  },
+  "100": {
+   "chapterId": 100,
+   "version": 1
+  },
+  "52": {
+   "chapterId": 52,
+   "version": 1
+  },
+  "53": {
+   "chapterId": 53,
+   "version": 1
+  },
+  "54": {
+   "chapterId": 54,
+   "version": 1
+  },
+  "12": {
+   "chapterId": 12,
+   "version": 3212889
+  },
+  "13": {
+   "chapterId": 13,
+   "version": 3212889
+  }
+ },
+ "text_chunk": null
+}

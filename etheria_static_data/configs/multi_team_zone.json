@@ -1,0 +1,117 @@
+{
+ "config": "multi_team_zone",
+ "fields": [
+  "id",
+  "limit",
+  "formation",
+  "index",
+  "name"
+ ],
+ "rows": [
+  {
+   "id": 1,
+   "limit": [
+    2,
+    3
+   ],
+   "formation": 51,
+   "index": 2,
+   "name": "Shen Metropolis",
+   "name_th": "Shen Metropolis"
+  },
+  {
+   "id": 2,
+   "limit": [
+    1,
+    3,
+    5
+   ],
+   "formation": 52,
+   "index": 3,
+   "name": "Loralisk",
+   "name_th": "Loralisk"
+  },
+  {
+   "id": 3,
+   "limit": [
+    1,
+    2,
+    4
+   ],
+   "formation": 53,
+   "index": 1,
+   "name": "Kantovia",
+   "name_th": "Kantovia"
+  },
+  {
+   "id": 4,
+   "limit": [
+    2,
+    3,
+    4
+   ],
+   "formation": 51,
+   "index": 2,
+   "name": "Shen Metropolis",
+   "name_th": "Shen Metropolis"
+  },
+  {
+   "id": 5,
+   "limit": [
+    3,
+    5
+   ],
+   "formation": 52,
+   "index": 3,
+   "name": "Loralisk",
+   "name_th": "Loralisk"
+  },
+  {
+   "id": 6,
+   "limit": [
+    1,
+    2
+   ],
+   "formation": 53,
+   "index": 1,
+   "name": "Kantovia",
+   "name_th": "Kantovia"
+  },
+  {
+   "id": 7,
+   "limit": [
+    2,
+    3,
+    5
+   ],
+   "formation": 51,
+   "index": 2,
+   "name": "Shen Metropolis",
+   "name_th": "Shen Metropolis"
+  },
+  {
+   "id": 8,
+   "limit": [
+    3,
+    4
+   ],
+   "formation": 52,
+   "index": 3,
+   "name": "Loralisk",
+   "name_th": "Loralisk"
+  },
+  {
+   "id": 9,
+   "limit": [
+    1,
+    4,
+    5
+   ],
+   "formation": 53,
+   "index": 1,
+   "name": "Kantovia",
+   "name_th": "Kantovia"
+  }
+ ],
+ "text_chunk": "00116_7bf4d00956c5f558.json"
+}

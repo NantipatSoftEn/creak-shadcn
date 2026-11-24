@@ -1,0 +1,4159 @@
+{
+ "config": "bufftips",
+ "fields": [
+  "buff_id",
+  "buff_level",
+  "priority",
+  "buff_name",
+  "buff_desc"
+ ],
+ "rows": {
+  "1": [
+   {
+    "buff_id": 1,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "2": [
+   {
+    "buff_id": 2,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "3": [
+   {
+    "buff_id": 3,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "4": [
+   {
+    "buff_id": 4,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "5": [
+   {
+    "buff_id": 5,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "6": [
+   {
+    "buff_id": 6,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "7": [
+   {
+    "buff_id": 7,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "8": [
+   {
+    "buff_id": 8,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "9": [
+   {
+    "buff_id": 9,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "10": [
+   {
+    "buff_id": 10,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "11": [
+   {
+    "buff_id": 11,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "12": [
+   {
+    "buff_id": 12,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "13": [
+   {
+    "buff_id": 13,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "14": [
+   {
+    "buff_id": 14,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "15": [
+   {
+    "buff_id": 15,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "16": [
+   {
+    "buff_id": 16,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "17": [
+   {
+    "buff_id": 17,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "18": [
+   {
+    "buff_id": 18,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "19": [
+   {
+    "buff_id": 19,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "20": [
+   {
+    "buff_id": 20,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "21": [
+   {
+    "buff_id": 21,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "22": [
+   {
+    "buff_id": 22,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "50": [
+   {
+    "buff_id": 50,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "61": [
+   {
+    "buff_id": 61,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "64": [
+   {
+    "buff_id": 64,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "90": [
+   {
+    "buff_id": 90,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "91": [
+   {
+    "buff_id": 91,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "92": [
+   {
+    "buff_id": 92,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "93": [
+   {
+    "buff_id": 93,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "94": [
+   {
+    "buff_id": 94,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "95": {
+   "1": {
+    "buff_id": 95,
+    "buff_level": 1,
+    "priority": 0
+   },
+   "4": {
+    "buff_id": 95,
+    "buff_level": 4,
+    "priority": 0
+   }
+  },
+  "101": [
+   {
+    "buff_id": 101,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "102": [
+   {
+    "buff_id": 102,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "103": [
+   {
+    "buff_id": 103,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "104": {
+   "buff_id": [
+    104,
+    1,
+    0
+   ],
+   "buff_level": [
+    104,
+    2,
+    0
+   ]
+  },
+  "105": [
+   {
+    "buff_id": 105,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "106": [
+   {
+    "buff_id": 106,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "107": [
+   {
+    "buff_id": 107,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "110": [
+   {
+    "buff_id": 110,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "111": [
+   {
+    "buff_id": 111,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "113": [
+   {
+    "buff_id": 113,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "115": [
+   {
+    "buff_id": 115,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "116": [
+   {
+    "buff_id": 116,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "117": [
+   {
+    "buff_id": 117,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "118": [
+   {
+    "buff_id": 118,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "119": {
+   "buff_id": [
+    119,
+    1,
+    0
+   ],
+   "buff_level": [
+    119,
+    2,
+    0
+   ],
+   "priority": [
+    119,
+    3,
+    0
+   ],
+   "buff_name": [
+    119,
+    4,
+    0
+   ],
+   "buff_desc": [
+    119,
+    5,
+    0
+   ]
+  },
+  "121": [
+   {
+    "buff_id": 121,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "122": [
+   {
+    "buff_id": 122,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "124": [
+   {
+    "buff_id": 124,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "125": [
+   {
+    "buff_id": 125,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "127": [
+   {
+    "buff_id": 127,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "128": [
+   {
+    "buff_id": 128,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "129": [
+   {
+    "buff_id": 129,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "130": [
+   {
+    "buff_id": 130,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "132": [
+   {
+    "buff_id": 132,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "136": [
+   {
+    "buff_id": 136,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "139": [
+   {
+    "buff_id": 139,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "141": [
+   {
+    "buff_id": 141,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "142": [
+   {
+    "buff_id": 142,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "159": [
+   {
+    "buff_id": 159,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "175": {
+   "buff_id": [
+    175,
+    1,
+    0
+   ],
+   "buff_level": [
+    175,
+    2,
+    0
+   ],
+   "priority": [
+    175,
+    3,
+    0
+   ],
+   "buff_name": [
+    175,
+    4,
+    0
+   ],
+   "buff_desc": [
+    175,
+    5,
+    0
+   ]
+  },
+  "176": [
+   {
+    "buff_id": 176,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "177": {
+   "buff_id": [
+    177,
+    1,
+    0
+   ],
+   "buff_level": [
+    177,
+    2,
+    0
+   ]
+  },
+  "178": {
+   "buff_id": [
+    178,
+    1,
+    0
+   ],
+   "buff_level": [
+    178,
+    2,
+    0
+   ]
+  },
+  "179": {
+   "buff_id": [
+    179,
+    1,
+    0
+   ],
+   "buff_level": [
+    179,
+    2,
+    0
+   ]
+  },
+  "180": [
+   {
+    "buff_id": 180,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "181": {
+   "buff_id": [
+    181,
+    1,
+    0
+   ],
+   "buff_level": [
+    181,
+    2,
+    0
+   ],
+   "priority": [
+    181,
+    3,
+    0
+   ],
+   "buff_name": [
+    181,
+    4,
+    0
+   ]
+  },
+  "182": {
+   "buff_id": [
+    182,
+    1,
+    0
+   ],
+   "buff_level": [
+    182,
+    2,
+    0
+   ],
+   "priority": [
+    182,
+    3,
+    0
+   ],
+   "buff_name": [
+    182,
+    4,
+    0
+   ]
+  },
+  "184": [
+   {
+    "buff_id": 184,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "185": [
+   {
+    "buff_id": 185,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "186": [
+   {
+    "buff_id": 186,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "191": {
+   "1": {
+    "buff_id": 191,
+    "buff_level": 1,
+    "priority": 0
+   },
+   "3": {
+    "buff_id": 191,
+    "buff_level": 3,
+    "priority": 0
+   }
+  },
+  "188": {
+   "buff_id": [
+    188,
+    1,
+    0
+   ],
+   "buff_level": [
+    188,
+    2,
+    0
+   ],
+   "priority": [
+    188,
+    3,
+    0
+   ]
+  },
+  "192": [
+   {
+    "buff_id": 192,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "194": [
+   {
+    "buff_id": 194,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "195": [
+   {
+    "buff_id": 195,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "196": [
+   {
+    "buff_id": 196,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "197": [
+   {
+    "buff_id": 197,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "199": [
+   {
+    "buff_id": 199,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "201": {
+   "buff_id": [
+    201,
+    1,
+    0
+   ],
+   "buff_level": [
+    201,
+    2,
+    0
+   ]
+  },
+  "202": {
+   "buff_id": [
+    202,
+    1,
+    0
+   ],
+   "buff_level": [
+    202,
+    2,
+    0
+   ]
+  },
+  "203": [
+   {
+    "buff_id": 203,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "204": {
+   "buff_id": [
+    204,
+    1,
+    0
+   ],
+   "buff_level": [
+    204,
+    2,
+    0
+   ]
+  },
+  "205": {
+   "1": {
+    "buff_id": 205,
+    "buff_level": 1,
+    "priority": 0
+   },
+   "2": {
+    "buff_id": 205,
+    "buff_level": 2,
+    "priority": 0
+   },
+   "4": {
+    "buff_id": 205,
+    "buff_level": 4,
+    "priority": 0
+   }
+  },
+  "206": {
+   "1": {
+    "buff_id": 206,
+    "buff_level": 1,
+    "priority": 0
+   },
+   "3": {
+    "buff_id": 206,
+    "buff_level": 3,
+    "priority": 0
+   },
+   "5": {
+    "buff_id": 206,
+    "buff_level": 5,
+    "priority": 0
+   }
+  },
+  "207": [
+   {
+    "buff_id": 207,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "208": [
+   {
+    "buff_id": 208,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "209": [
+   {
+    "buff_id": 209,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "210": [
+   {
+    "buff_id": 210,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "211": [
+   {
+    "buff_id": 211,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "214": [
+   {
+    "buff_id": 214,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "215": [
+   {
+    "buff_id": 215,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "216": [
+   {
+    "buff_id": 216,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "217": [
+   {
+    "buff_id": 217,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "218": [
+   {
+    "buff_id": 218,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "219": [
+   {
+    "buff_id": 219,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "220": [
+   {
+    "buff_id": 220,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "221": {
+   "buff_id": [
+    221,
+    1,
+    0
+   ],
+   "buff_level": [
+    221,
+    2,
+    0
+   ],
+   "priority": [
+    221,
+    3,
+    0
+   ]
+  },
+  "224": [
+   {
+    "buff_id": 224,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "225": [
+   {
+    "buff_id": 225,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "226": [
+   {
+    "buff_id": 226,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "227": [
+   {
+    "buff_id": 227,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "228": [
+   {
+    "buff_id": 228,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "229": [
+   {
+    "buff_id": 229,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "230": [
+   {
+    "buff_id": 230,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "232": [
+   {
+    "buff_id": 232,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "245": [
+   {
+    "buff_id": 245,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "246": [
+   {
+    "buff_id": 246,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "247": [
+   {
+    "buff_id": 247,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "248": [
+   {
+    "buff_id": 248,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "249": [
+   {
+    "buff_id": 249,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "251": {
+   "buff_id": [
+    251,
+    1,
+    0
+   ],
+   "buff_level": [
+    251,
+    2,
+    0
+   ]
+  },
+  "255": {
+   "buff_id": [
+    255,
+    1,
+    0
+   ],
+   "buff_level": [
+    255,
+    2,
+    0
+   ]
+  },
+  "256": {
+   "buff_id": [
+    256,
+    1,
+    0
+   ],
+   "buff_level": [
+    256,
+    2,
+    0
+   ]
+  },
+  "281": {
+   "1": {
+    "buff_id": 281,
+    "buff_level": 1,
+    "priority": 0
+   },
+   "2": {
+    "buff_id": 281,
+    "buff_level": 2,
+    "priority": 0
+   },
+   "4": {
+    "buff_id": 281,
+    "buff_level": 4,
+    "priority": 0
+   }
+  },
+  "317": [
+   {
+    "buff_id": 317,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "313": [
+   {
+    "buff_id": 313,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "273": {
+   "buff_id": [
+    273,
+    1,
+    0
+   ],
+   "buff_level": [
+    273,
+    2,
+    0
+   ],
+   "priority": [
+    273,
+    3,
+    0
+   ],
+   "buff_name": [
+    273,
+    4,
+    0
+   ],
+   "buff_desc": [
+    273,
+    5,
+    0
+   ]
+  },
+  "319": [
+   {
+    "buff_id": 319,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "320": [
+   {
+    "buff_id": 320,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "322": {
+   "1": {
+    "buff_id": 322,
+    "buff_level": 1,
+    "priority": 0
+   },
+   "22": {
+    "buff_id": 322,
+    "buff_level": 22,
+    "priority": 0
+   }
+  },
+  "328": [
+   {
+    "buff_id": 328,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "337": {
+   "buff_id": [
+    337,
+    1,
+    0
+   ],
+   "buff_level": [
+    337,
+    2,
+    0
+   ]
+  },
+  "342": [
+   {
+    "buff_id": 342,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "343": [
+   {
+    "buff_id": 343,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "344": [
+   {
+    "buff_id": 344,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "345": [
+   {
+    "buff_id": 345,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "346": [
+   {
+    "buff_id": 346,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "347": [
+   {
+    "buff_id": 347,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "348": [
+   {
+    "buff_id": 348,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "349": [
+   {
+    "buff_id": 349,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "350": [
+   {
+    "buff_id": 350,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "351": [
+   {
+    "buff_id": 351,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "353": [
+   {
+    "buff_id": 353,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "354": [
+   {
+    "buff_id": 354,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "355": [
+   {
+    "buff_id": 355,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "356": [
+   {
+    "buff_id": 356,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "360": {
+   "buff_id": [
+    360,
+    1,
+    0
+   ],
+   "buff_level": [
+    360,
+    2,
+    0
+   ]
+  },
+  "361": [
+   {
+    "buff_id": 361,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "362": {
+   "1": {
+    "buff_id": 362,
+    "buff_level": 1,
+    "priority": 0
+   },
+   "5": {
+    "buff_id": 362,
+    "buff_level": 5,
+    "priority": 0
+   }
+  },
+  "363": [
+   {
+    "buff_id": 363,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "364": [
+   {
+    "buff_id": 364,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "365": [
+   {
+    "buff_id": 365,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "368": [
+   {
+    "buff_id": 368,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "370": {
+   "buff_id": [
+    370,
+    1,
+    0
+   ],
+   "buff_level": [
+    370,
+    2,
+    0
+   ],
+   "priority": [
+    370,
+    3,
+    0
+   ],
+   "buff_name": [
+    370,
+    4,
+    0
+   ],
+   "buff_desc": [
+    370,
+    5,
+    0
+   ]
+  },
+  "371": {
+   "buff_id": [
+    371,
+    1,
+    0
+   ],
+   "buff_level": [
+    371,
+    2,
+    0
+   ]
+  },
+  "372": [
+   {
+    "buff_id": 372,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "379": [
+   {
+    "buff_id": 379,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "384": [
+   {
+    "buff_id": 384,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "387": [
+   {
+    "buff_id": 387,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "389": [
+   {
+    "buff_id": 389,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "392": [
+   {
+    "buff_id": 392,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "393": [
+   {
+    "buff_id": 393,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "394": [
+   {
+    "buff_id": 394,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "400": [
+   {
+    "buff_id": 400,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "402": [
+   {
+    "buff_id": 402,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "403": [
+   {
+    "buff_id": 403,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "404": [
+   {
+    "buff_id": 404,
+    "buff_level": 1,
+    "priority": 1
+   }
+  ],
+  "405": [
+   {
+    "buff_id": 405,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "406": [
+   {
+    "buff_id": 406,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "407": [
+   {
+    "buff_id": 407,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "408": [
+   {
+    "buff_id": 408,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "410": [
+   {
+    "buff_id": 410,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "409": [
+   {
+    "buff_id": 409,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "412": [
+   {
+    "buff_id": 412,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "415": [
+   {
+    "buff_id": 415,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "416": {
+   "buff_id": [
+    416,
+    1,
+    0
+   ],
+   "buff_level": [
+    416,
+    2,
+    0
+   ]
+  },
+  "421": [
+   {
+    "buff_id": 421,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "429": {
+   "1": {
+    "buff_id": 429,
+    "buff_level": 1,
+    "priority": 0
+   },
+   "6": {
+    "buff_id": 429,
+    "buff_level": 6,
+    "priority": 0
+   }
+  },
+  "432": {
+   "1": {
+    "buff_id": 432,
+    "buff_level": 1,
+    "priority": 0
+   },
+   "2": {
+    "buff_id": 432,
+    "buff_level": 2,
+    "priority": 0
+   },
+   "6": {
+    "buff_id": 432,
+    "buff_level": 6,
+    "priority": 0
+   }
+  },
+  "434": {
+   "1": {
+    "buff_id": 434,
+    "buff_level": 1,
+    "priority": 0
+   },
+   "5": {
+    "buff_id": 434,
+    "buff_level": 5,
+    "priority": 0
+   }
+  },
+  "436": {
+   "buff_id": [
+    436,
+    1,
+    0
+   ],
+   "buff_level": [
+    436,
+    2,
+    0
+   ],
+   "priority": [
+    436,
+    3,
+    0
+   ],
+   "buff_name": [
+    436,
+    4,
+    0
+   ],
+   "buff_desc": [
+    436,
+    5,
+    0
+   ]
+  },
+  "441": {
+   "1": {
+    "buff_id": 441,
+    "buff_level": 1,
+    "priority": 1
+   },
+   "2": {
+    "buff_id": 441,
+    "buff_level": 2,
+    "priority": 1
+   },
+   "3": {
+    "buff_id": 441,
+    "buff_level": 3,
+    "priority": 1
+   },
+   "4": {
+    "buff_id": 441,
+    "buff_level": 4,
+    "priority": 1
+   },
+   "6": {
+    "buff_id": 441,
+    "buff_level": 6,
+    "priority": 1
+   }
+  },
+  "442": {
+   "1": {
+    "buff_id": 442,
+    "buff_level": 1,
+    "priority": 0
+   },
+   "2": {
+    "buff_id": 442,
+    "buff_level": 2,
+    "priority": 0
+   },
+   "4": {
+    "buff_id": 442,
+    "buff_level": 4,
+    "priority": 0
+   }
+  },
+  "443": [
+   {
+    "buff_id": 443,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "444": [
+   {
+    "buff_id": 444,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "447": {
+   "buff_id": [
+    447,
+    1,
+    0
+   ],
+   "buff_level": [
+    447,
+    2,
+    0
+   ]
+  },
+  "448": {
+   "buff_id": [
+    448,
+    1,
+    0
+   ],
+   "buff_level": [
+    448,
+    2,
+    0
+   ]
+  },
+  "449": {
+   "buff_id": [
+    449,
+    1,
+    0
+   ],
+   "buff_level": [
+    449,
+    2,
+    0
+   ]
+  },
+  "450": {
+   "buff_id": [
+    450,
+    1,
+    0
+   ],
+   "buff_level": [
+    450,
+    2,
+    0
+   ]
+  },
+  "451": [
+   {
+    "buff_id": 451,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "453": [
+   {
+    "buff_id": 453,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "455": {
+   "1": {
+    "buff_id": 455,
+    "buff_level": 1,
+    "priority": 0
+   },
+   "3": {
+    "buff_id": 455,
+    "buff_level": 3,
+    "priority": 0
+   }
+  },
+  "458": {
+   "1": {
+    "buff_id": 458,
+    "buff_level": 1,
+    "priority": 1
+   },
+   "2": {
+    "buff_id": 458,
+    "buff_level": 2,
+    "priority": 1
+   },
+   "4": {
+    "buff_id": 458,
+    "buff_level": 4,
+    "priority": 1
+   }
+  },
+  "459": [
+   {
+    "buff_id": 459,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "460": [
+   {
+    "buff_id": 460,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "461": {
+   "1": {
+    "buff_id": 461,
+    "buff_level": 1,
+    "priority": 0
+   },
+   "3": {
+    "buff_id": 461,
+    "buff_level": 3,
+    "priority": 0
+   }
+  },
+  "467": [
+   {
+    "buff_id": 467,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "468": [
+   {
+    "buff_id": 468,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "469": {
+   "buff_id": [
+    469,
+    1,
+    0
+   ],
+   "buff_level": [
+    469,
+    2,
+    0
+   ]
+  },
+  "470": {
+   "buff_id": [
+    470,
+    1,
+    0
+   ],
+   "buff_level": [
+    470,
+    2,
+    0
+   ]
+  },
+  "471": [
+   {
+    "buff_id": 471,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "484": [
+   {
+    "buff_id": 484,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "487": [
+   {
+    "buff_id": 487,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "489": [
+   {
+    "buff_id": 489,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "491": [
+   {
+    "buff_id": 491,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "498": [
+   {
+    "buff_id": 498,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "499": [
+   {
+    "buff_id": 499,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "500": [
+   {
+    "buff_id": 500,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "501": [
+   {
+    "buff_id": 501,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "502": [
+   {
+    "buff_id": 502,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "503": [
+   {
+    "buff_id": 503,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "504": [
+   {
+    "buff_id": 504,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "505": [
+   {
+    "buff_id": 505,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "506": [
+   {
+    "buff_id": 506,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "507": [
+   {
+    "buff_id": 507,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "508": [
+   {
+    "buff_id": 508,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "510": [
+   {
+    "buff_id": 510,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "511": [
+   {
+    "buff_id": 511,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "512": [
+   {
+    "buff_id": 512,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "513": [
+   {
+    "buff_id": 513,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "514": {
+   "1": {
+    "buff_id": 514,
+    "buff_level": 1,
+    "priority": 0
+   },
+   "4": {
+    "buff_id": 514,
+    "buff_level": 4,
+    "priority": 0
+   }
+  },
+  "516": [
+   {
+    "buff_id": 516,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "517": [
+   {
+    "buff_id": 517,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "518": [
+   {
+    "buff_id": 518,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "519": [
+   {
+    "buff_id": 519,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "520": [
+   {
+    "buff_id": 520,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "522": [
+   {
+    "buff_id": 522,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "523": [
+   {
+    "buff_id": 523,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "524": [
+   {
+    "buff_id": 524,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "525": [
+   {
+    "buff_id": 525,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "526": [
+   {
+    "buff_id": 526,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "527": [
+   {
+    "buff_id": 527,
+    "buff_level": 1,
+    "priority": 1
+   }
+  ],
+  "529": [
+   {
+    "buff_id": 529,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "531": {
+   "1": {
+    "buff_id": 531,
+    "buff_level": 1,
+    "priority": 1
+   },
+   "3": {
+    "buff_id": 531,
+    "buff_level": 3,
+    "priority": 1
+   },
+   "4": {
+    "buff_id": 531,
+    "buff_level": 4,
+    "priority": 1
+   },
+   "5": {
+    "buff_id": 531,
+    "buff_level": 5,
+    "priority": 1
+   }
+  },
+  "532": {
+   "1": {
+    "buff_id": 532,
+    "buff_level": 1,
+    "priority": 0
+   },
+   "4": {
+    "buff_id": 532,
+    "buff_level": 4,
+    "priority": 0
+   }
+  },
+  "533": [
+   {
+    "buff_id": 533,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "534": [
+   {
+    "buff_id": 534,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "537": [
+   {
+    "buff_id": 537,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "538": [
+   {
+    "buff_id": 538,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "539": [
+   {
+    "buff_id": 539,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "540": [
+   {
+    "buff_id": 540,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "542": [
+   {
+    "buff_id": 542,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "544": [
+   {
+    "buff_id": 544,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "545": [
+   {
+    "buff_id": 545,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "549": [
+   {
+    "buff_id": 549,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "550": [
+   {
+    "buff_id": 550,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "555": [
+   {
+    "buff_id": 555,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "556": [
+   {
+    "buff_id": 556,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "558": {
+   "1": {
+    "buff_id": 558,
+    "buff_level": 1,
+    "priority": 0
+   },
+   "2": {
+    "buff_id": 558,
+    "buff_level": 2,
+    "priority": 0
+   },
+   "4": {
+    "buff_id": 558,
+    "buff_level": 4,
+    "priority": 0
+   }
+  },
+  "564": [
+   {
+    "buff_id": 564,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "565": [
+   {
+    "buff_id": 565,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "566": [
+   {
+    "buff_id": 566,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "572": [
+   {
+    "buff_id": 572,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "573": [
+   {
+    "buff_id": 573,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "574": [
+   {
+    "buff_id": 574,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "575": [
+   {
+    "buff_id": 575,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "577": [
+   {
+    "buff_id": 577,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "578": [
+   {
+    "buff_id": 578,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "588": [
+   {
+    "buff_id": 588,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "590": {
+   "buff_id": [
+    590,
+    1,
+    0
+   ],
+   "buff_level": [
+    590,
+    2,
+    0
+   ]
+  },
+  "592": [
+   {
+    "buff_id": 592,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "593": [
+   {
+    "buff_id": 593,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "597": [
+   {
+    "buff_id": 597,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "600": [
+   {
+    "buff_id": 600,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "601": [
+   {
+    "buff_id": 601,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "602": [
+   {
+    "buff_id": 602,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "618": [
+   {
+    "buff_id": 618,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "620": [
+   {
+    "buff_id": 620,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "621": [
+   {
+    "buff_id": 621,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "622": {
+   "buff_id": [
+    622,
+    1,
+    0
+   ],
+   "buff_level": [
+    622,
+    2,
+    0
+   ],
+   "priority": [
+    622,
+    3,
+    0
+   ],
+   "buff_name": [
+    622,
+    4,
+    0
+   ]
+  },
+  "623": [
+   {
+    "buff_id": 623,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "624": {
+   "buff_id": [
+    624,
+    1,
+    0
+   ],
+   "buff_level": [
+    624,
+    2,
+    0
+   ],
+   "priority": [
+    624,
+    3,
+    0
+   ],
+   "buff_name": [
+    624,
+    4,
+    0
+   ],
+   "buff_desc": [
+    624,
+    5,
+    0
+   ]
+  },
+  "625": [
+   {
+    "buff_id": 625,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "626": {
+   "buff_id": [
+    626,
+    1,
+    0
+   ],
+   "buff_level": [
+    626,
+    2,
+    0
+   ]
+  },
+  "628": {
+   "1": {
+    "buff_id": 628,
+    "buff_level": 1,
+    "priority": 0
+   },
+   "2": {
+    "buff_id": 628,
+    "buff_level": 2,
+    "priority": 0
+   },
+   "4": {
+    "buff_id": 628,
+    "buff_level": 4,
+    "priority": 0
+   }
+  },
+  "629": [
+   {
+    "buff_id": 629,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "630": [
+   {
+    "buff_id": 630,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "633": {
+   "buff_id": [
+    633,
+    1,
+    0
+   ],
+   "buff_level": [
+    633,
+    2,
+    0
+   ]
+  },
+  "634": {
+   "buff_id": [
+    634,
+    1,
+    0
+   ],
+   "buff_level": [
+    634,
+    2,
+    0
+   ]
+  },
+  "635": {
+   "buff_id": [
+    635,
+    1,
+    0
+   ],
+   "buff_level": [
+    635,
+    2,
+    0
+   ],
+   "priority": [
+    635,
+    3,
+    0
+   ]
+  },
+  "636": [
+   {
+    "buff_id": 636,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "637": [
+   {
+    "buff_id": 637,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "658": [
+   {
+    "buff_id": 658,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "661": [
+   {
+    "buff_id": 661,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "662": {
+   "1": {
+    "buff_id": 662,
+    "buff_level": 1,
+    "priority": 0
+   },
+   "3": {
+    "buff_id": 662,
+    "buff_level": 3,
+    "priority": 0
+   },
+   "5": {
+    "buff_id": 662,
+    "buff_level": 5,
+    "priority": 0
+   }
+  },
+  "663": [
+   {
+    "buff_id": 663,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "664": {
+   "1": {
+    "buff_id": 664,
+    "buff_level": 1,
+    "priority": 0
+   },
+   "5": {
+    "buff_id": 664,
+    "buff_level": 5,
+    "priority": 0
+   }
+  },
+  "669": [
+   {
+    "buff_id": 669,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "671": [
+   {
+    "buff_id": 671,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "672": [
+   {
+    "buff_id": 672,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "673": [
+   {
+    "buff_id": 673,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "675": [
+   {
+    "buff_id": 675,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "677": {
+   "buff_id": [
+    677,
+    1,
+    0
+   ],
+   "buff_level": [
+    677,
+    2,
+    0
+   ]
+  },
+  "678": [
+   {
+    "buff_id": 678,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "679": [
+   {
+    "buff_id": 679,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "680": [
+   {
+    "buff_id": 680,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "681": [
+   {
+    "buff_id": 681,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "682": {
+   "buff_id": [
+    682,
+    1,
+    1
+   ],
+   "buff_level": [
+    682,
+    2,
+    1
+   ],
+   "priority": [
+    682,
+    3,
+    1
+   ],
+   "buff_name": [
+    682,
+    4,
+    1
+   ]
+  },
+  "690": [
+   {
+    "buff_id": 690,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "692": {
+   "1": {
+    "buff_id": 692,
+    "buff_level": 1,
+    "priority": 0
+   },
+   "3": {
+    "buff_id": 692,
+    "buff_level": 3,
+    "priority": 0
+   }
+  },
+  "695": [
+   {
+    "buff_id": 695,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "696": [
+   {
+    "buff_id": 696,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "700": {
+   "1": {
+    "buff_id": 700,
+    "buff_level": 1,
+    "priority": 0
+   },
+   "2": {
+    "buff_id": 700,
+    "buff_level": 2,
+    "priority": 0
+   },
+   "4": {
+    "buff_id": 700,
+    "buff_level": 4,
+    "priority": 0
+   }
+  },
+  "701": [
+   {
+    "buff_id": 701,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "702": [
+   {
+    "buff_id": 702,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "705": [
+   {
+    "buff_id": 705,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "709": [
+   {
+    "buff_id": 709,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "710": [
+   {
+    "buff_id": 710,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "713": [
+   {
+    "buff_id": 713,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "714": {
+   "buff_id": [
+    714,
+    1,
+    0
+   ],
+   "buff_level": [
+    714,
+    2,
+    0
+   ]
+  },
+  "715": {
+   "buff_id": [
+    715,
+    1,
+    0
+   ],
+   "buff_level": [
+    715,
+    2,
+    0
+   ]
+  },
+  "716": {
+   "buff_id": [
+    716,
+    1,
+    0
+   ],
+   "buff_level": [
+    716,
+    2,
+    0
+   ]
+  },
+  "717": {
+   "buff_id": [
+    717,
+    1,
+    0
+   ],
+   "buff_level": [
+    717,
+    2,
+    0
+   ]
+  },
+  "718": [
+   {
+    "buff_id": 718,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "721": [
+   {
+    "buff_id": 721,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "729": [
+   {
+    "buff_id": 729,
+    "buff_level": 1,
+    "priority": 1
+   }
+  ],
+  "730": [
+   {
+    "buff_id": 730,
+    "buff_level": 1,
+    "priority": 1
+   }
+  ],
+  "731": [
+   {
+    "buff_id": 731,
+    "buff_level": 1,
+    "priority": 1
+   }
+  ],
+  "740": [
+   {
+    "buff_id": 740,
+    "buff_level": 1,
+    "priority": 1
+   }
+  ],
+  "742": [
+   {
+    "buff_id": 742,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "747": [
+   {
+    "buff_id": 747,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "748": {
+   "1": {
+    "buff_id": 748,
+    "buff_level": 1,
+    "priority": 1
+   },
+   "3": {
+    "buff_id": 748,
+    "buff_level": 3,
+    "priority": 1
+   },
+   "5": {
+    "buff_id": 748,
+    "buff_level": 5,
+    "priority": 1
+   }
+  },
+  "749": [
+   {
+    "buff_id": 749,
+    "buff_level": 1,
+    "priority": 1
+   }
+  ],
+  "750": [
+   {
+    "buff_id": 750,
+    "buff_level": 1,
+    "priority": 1
+   }
+  ],
+  "751": [
+   {
+    "buff_id": 751,
+    "buff_level": 1,
+    "priority": 1
+   }
+  ],
+  "753": [
+   {
+    "buff_id": 753,
+    "buff_level": 1,
+    "priority": 1
+   }
+  ],
+  "754": [
+   {
+    "buff_id": 754,
+    "buff_level": 1,
+    "priority": 1
+   }
+  ],
+  "755": [
+   {
+    "buff_id": 755,
+    "buff_level": 1,
+    "priority": 1
+   }
+  ],
+  "756": [
+   {
+    "buff_id": 756,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "757": [
+   {
+    "buff_id": 757,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "761": [
+   {
+    "buff_id": 761,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "763": [
+   {
+    "buff_id": 763,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "767": [
+   {
+    "buff_id": 767,
+    "buff_level": 1,
+    "priority": 1
+   }
+  ],
+  "769": [
+   {
+    "buff_id": 769,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "771": [
+   {
+    "buff_id": 771,
+    "buff_level": 1,
+    "priority": 1
+   }
+  ],
+  "772": [
+   {
+    "buff_id": 772,
+    "buff_level": 1,
+    "priority": 1
+   }
+  ],
+  "773": [
+   {
+    "buff_id": 773,
+    "buff_level": 1,
+    "priority": 1
+   }
+  ],
+  "774": [
+   {
+    "buff_id": 774,
+    "buff_level": 1,
+    "priority": 1
+   }
+  ],
+  "776": [
+   {
+    "buff_id": 776,
+    "buff_level": 1,
+    "priority": 1
+   }
+  ],
+  "786": {
+   "buff_id": [
+    786,
+    1,
+    0
+   ],
+   "buff_level": [
+    786,
+    2,
+    0
+   ]
+  },
+  "787": {
+   "buff_id": [
+    787,
+    1,
+    0
+   ],
+   "buff_level": [
+    787,
+    2,
+    0
+   ]
+  },
+  "788": {
+   "buff_id": [
+    788,
+    1,
+    0
+   ],
+   "buff_level": [
+    788,
+    2,
+    0
+   ],
+   "priority": [
+    788,
+    3,
+    0
+   ]
+  },
+  "789": [
+   {
+    "buff_id": 789,
+    "buff_level": 1,
+    "priority": 1
+   }
+  ],
+  "790": {
+   "buff_id": [
+    790,
+    1,
+    0
+   ],
+   "buff_level": [
+    790,
+    2,
+    0
+   ]
+  },
+  "792": [
+   {
+    "buff_id": 792,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "793": {
+   "1": {
+    "buff_id": 793,
+    "buff_level": 1,
+    "priority": 1
+   },
+   "3": {
+    "buff_id": 793,
+    "buff_level": 3,
+    "priority": 1
+   },
+   "5": {
+    "buff_id": 793,
+    "buff_level": 5,
+    "priority": 1
+   }
+  },
+  "794": {
+   "1": {
+    "buff_id": 794,
+    "buff_level": 1,
+    "priority": 0
+   },
+   "3": {
+    "buff_id": 794,
+    "buff_level": 3,
+    "priority": 0
+   }
+  },
+  "795": [
+   {
+    "buff_id": 795,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "796": {
+   "buff_id": [
+    796,
+    1,
+    1
+   ],
+   "buff_level": [
+    796,
+    2,
+    1
+   ],
+   "priority": [
+    796,
+    3,
+    1
+   ],
+   "buff_name": [
+    796,
+    4,
+    1
+   ],
+   "buff_desc": [
+    796,
+    5,
+    1
+   ]
+  },
+  "804": {
+   "1": {
+    "buff_id": 804,
+    "buff_level": 1,
+    "priority": 1
+   },
+   "3": {
+    "buff_id": 804,
+    "buff_level": 3,
+    "priority": 1
+   },
+   "5": {
+    "buff_id": 804,
+    "buff_level": 5,
+    "priority": 1
+   }
+  },
+  "805": [
+   {
+    "buff_id": 805,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "808": [
+   {
+    "buff_id": 808,
+    "buff_level": 1,
+    "priority": 1
+   }
+  ],
+  "809": [
+   {
+    "buff_id": 809,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "810": {
+   "buff_id": [
+    810,
+    1,
+    1
+   ],
+   "buff_level": [
+    810,
+    2,
+    1
+   ]
+  },
+  "811": {
+   "buff_id": [
+    811,
+    1,
+    1
+   ],
+   "buff_level": [
+    811,
+    2,
+    1
+   ]
+  },
+  "812": {
+   "buff_id": [
+    812,
+    1,
+    1
+   ],
+   "buff_level": [
+    812,
+    2,
+    1
+   ],
+   "priority": [
+    812,
+    3,
+    1
+   ],
+   "buff_name": [
+    812,
+    4,
+    1
+   ],
+   "buff_desc": [
+    812,
+    5,
+    1
+   ]
+  },
+  "814": [
+   {
+    "buff_id": 814,
+    "buff_level": 1,
+    "priority": 1
+   }
+  ],
+  "816": [
+   {
+    "buff_id": 816,
+    "buff_level": 1,
+    "priority": 1
+   }
+  ],
+  "817": [
+   {
+    "buff_id": 817,
+    "buff_level": 1,
+    "priority": 1
+   }
+  ],
+  "818": [
+   {
+    "buff_id": 818,
+    "buff_level": 1,
+    "priority": 1
+   }
+  ],
+  "820": [
+   {
+    "buff_id": 820,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "821": [
+   {
+    "buff_id": 821,
+    "buff_level": 1,
+    "priority": 1
+   }
+  ],
+  "822": [
+   {
+    "buff_id": 822,
+    "buff_level": 1,
+    "priority": 1
+   }
+  ],
+  "823": {
+   "1": {
+    "buff_id": 823,
+    "buff_level": 1,
+    "priority": 1
+   },
+   "2": {
+    "buff_id": 823,
+    "buff_level": 2,
+    "priority": 1
+   },
+   "4": {
+    "buff_id": 823,
+    "buff_level": 4,
+    "priority": 1
+   }
+  },
+  "830": [
+   {
+    "buff_id": 830,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "833": [
+   {
+    "buff_id": 833,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "834": {
+   "1": {
+    "buff_id": 834,
+    "buff_level": 1,
+    "priority": 1
+   },
+   "3": {
+    "buff_id": 834,
+    "buff_level": 3,
+    "priority": 1
+   }
+  },
+  "835": [
+   {
+    "buff_id": 835,
+    "buff_level": 1,
+    "priority": 1
+   }
+  ],
+  "836": {
+   "1": {
+    "buff_id": 836,
+    "buff_level": 1,
+    "priority": 1
+   },
+   "5": {
+    "buff_id": 836,
+    "buff_level": 5,
+    "priority": 1
+   }
+  },
+  "838": [
+   {
+    "buff_id": 838,
+    "buff_level": 1,
+    "priority": 1
+   }
+  ],
+  "839": [
+   {
+    "buff_id": 839,
+    "buff_level": 1,
+    "priority": 1
+   }
+  ],
+  "840": [
+   {
+    "buff_id": 840,
+    "buff_level": 1,
+    "priority": 1
+   }
+  ],
+  "841": [
+   {
+    "buff_id": 841,
+    "buff_level": 1,
+    "priority": 1
+   }
+  ],
+  "842": [
+   {
+    "buff_id": 842,
+    "buff_level": 1,
+    "priority": 1
+   }
+  ],
+  "844": {
+   "1": {
+    "buff_id": 844,
+    "buff_level": 1,
+    "priority": 1
+   },
+   "5": {
+    "buff_id": 844,
+    "buff_level": 5,
+    "priority": 1
+   }
+  },
+  "848": [
+   {
+    "buff_id": 848,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "851": {
+   "1": {
+    "buff_id": 851,
+    "buff_level": 1,
+    "priority": 1
+   },
+   "4": {
+    "buff_id": 851,
+    "buff_level": 4,
+    "priority": 1
+   },
+   "5": {
+    "buff_id": 851,
+    "buff_level": 5,
+    "priority": 1
+   }
+  },
+  "852": [
+   {
+    "buff_id": 852,
+    "buff_level": 1,
+    "priority": 1
+   }
+  ],
+  "854": [
+   {
+    "buff_id": 854,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "856": [
+   {
+    "buff_id": 856,
+    "buff_level": 1,
+    "priority": 1
+   }
+  ],
+  "857": [
+   {
+    "buff_id": 857,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "858": [
+   {
+    "buff_id": 858,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "860": {
+   "buff_id": [
+    860,
+    1,
+    0
+   ],
+   "buff_level": [
+    860,
+    2,
+    0
+   ],
+   "priority": [
+    860,
+    3,
+    0
+   ]
+  },
+  "863": {
+   "buff_id": [
+    863,
+    1,
+    0
+   ],
+   "buff_level": [
+    863,
+    2,
+    0
+   ]
+  },
+  "864": [
+   {
+    "buff_id": 864,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "865": [
+   {
+    "buff_id": 865,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "866": [
+   {
+    "buff_id": 866,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "871": {
+   "1": {
+    "buff_id": 871,
+    "buff_level": 1,
+    "priority": 1
+   },
+   "3": {
+    "buff_id": 871,
+    "buff_level": 3,
+    "priority": 1
+   }
+  },
+  "874": {
+   "1": {
+    "buff_id": 874,
+    "buff_level": 1,
+    "priority": 1
+   },
+   "3": {
+    "buff_id": 874,
+    "buff_level": 3,
+    "priority": 1
+   },
+   "4": {
+    "buff_id": 874,
+    "buff_level": 4,
+    "priority": 1
+   },
+   "5": {
+    "buff_id": 874,
+    "buff_level": 5,
+    "priority": 1
+   }
+  },
+  "875": {
+   "buff_id": [
+    875,
+    1,
+    1
+   ],
+   "buff_level": [
+    875,
+    2,
+    1
+   ],
+   "priority": [
+    875,
+    3,
+    1
+   ],
+   "buff_name": [
+    875,
+    4,
+    1
+   ],
+   "buff_desc": [
+    875,
+    5,
+    1
+   ]
+  },
+  "879": {
+   "buff_id": [
+    879,
+    1,
+    0
+   ],
+   "buff_level": [
+    879,
+    2,
+    0
+   ]
+  },
+  "880": {
+   "buff_id": [
+    880,
+    1,
+    0
+   ],
+   "buff_level": [
+    880,
+    2,
+    0
+   ]
+  },
+  "881": [
+   {
+    "buff_id": 881,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "883": [
+   {
+    "buff_id": 883,
+    "buff_level": 1,
+    "priority": 1
+   }
+  ],
+  "886": {
+   "1": {
+    "buff_id": 886,
+    "buff_level": 1,
+    "priority": 1
+   },
+   "5": {
+    "buff_id": 886,
+    "buff_level": 5,
+    "priority": 1
+   }
+  },
+  "887": [
+   {
+    "buff_id": 887,
+    "buff_level": 1,
+    "priority": 1
+   }
+  ],
+  "888": {
+   "buff_id": [
+    888,
+    1,
+    1
+   ],
+   "buff_level": [
+    888,
+    2,
+    1
+   ]
+  },
+  "891": {
+   "buff_id": [
+    891,
+    1,
+    2
+   ],
+   "buff_level": [
+    891,
+    2,
+    2
+   ],
+   "priority": [
+    891,
+    3,
+    2
+   ],
+   "buff_name": [
+    891,
+    4,
+    2
+   ]
+  },
+  "892": {
+   "buff_id": [
+    892,
+    1,
+    0
+   ],
+   "buff_level": [
+    892,
+    2,
+    0
+   ]
+  },
+  "895": {
+   "buff_id": [
+    895,
+    1,
+    1
+   ],
+   "buff_level": [
+    895,
+    2,
+    1
+   ]
+  },
+  "904": {
+   "1": {
+    "buff_id": 904,
+    "buff_level": 1,
+    "priority": 1
+   },
+   "3": {
+    "buff_id": 904,
+    "buff_level": 3,
+    "priority": 1
+   }
+  },
+  "905": {
+   "1": {
+    "buff_id": 905,
+    "buff_level": 1,
+    "priority": 1
+   },
+   "4": {
+    "buff_id": 905,
+    "buff_level": 4,
+    "priority": 1
+   }
+  },
+  "906": {
+   "1": {
+    "buff_id": 906,
+    "buff_level": 1,
+    "priority": 1
+   },
+   "3": {
+    "buff_id": 906,
+    "buff_level": 3,
+    "priority": 1
+   },
+   "5": {
+    "buff_id": 906,
+    "buff_level": 5,
+    "priority": 1
+   }
+  },
+  "907": {
+   "buff_id": [
+    907,
+    1,
+    1
+   ],
+   "buff_level": [
+    907,
+    2,
+    1
+   ],
+   "priority": [
+    907,
+    3,
+    1
+   ],
+   "buff_name": [
+    907,
+    4,
+    1
+   ]
+  },
+  "909": [
+   {
+    "buff_id": 909,
+    "buff_level": 1,
+    "priority": 1
+   }
+  ],
+  "914": [
+   {
+    "buff_id": 914,
+    "buff_level": 1,
+    "priority": 1
+   },
+   {
+    "buff_id": 914,
+    "buff_level": 2,
+    "priority": 1
+   },
+   {
+    "buff_id": 914,
+    "buff_level": 3,
+    "priority": 1
+   },
+   {
+    "buff_id": 914,
+    "buff_level": 4,
+    "priority": 1
+   },
+   {
+    "buff_id": 914,
+    "buff_level": 5,
+    "priority": 1
+   },
+   {
+    "buff_id": 914,
+    "buff_level": 6,
+    "priority": 1
+   }
+  ],
+  "915": [
+   {
+    "buff_id": 915,
+    "buff_level": 1,
+    "priority": 1
+   }
+  ],
+  "921": [
+   {
+    "buff_id": 921,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "924": {
+   "1": {
+    "buff_id": 924,
+    "buff_level": 1,
+    "priority": 0
+   },
+   "5": {
+    "buff_id": 924,
+    "buff_level": 5,
+    "priority": 0
+   }
+  },
+  "925": {
+   "1": {
+    "buff_id": 925,
+    "buff_level": 1,
+    "priority": 0
+   },
+   "3": {
+    "buff_id": 925,
+    "buff_level": 3,
+    "priority": 0
+   }
+  },
+  "926": [
+   {
+    "buff_id": 926,
+    "buff_level": 1,
+    "priority": 1
+   }
+  ],
+  "927": {
+   "1": {
+    "buff_id": 927,
+    "buff_level": 1,
+    "priority": 0
+   },
+   "4": {
+    "buff_id": 927,
+    "buff_level": 4,
+    "priority": 0
+   }
+  },
+  "931": [
+   {
+    "buff_id": 931,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "933": [
+   {
+    "buff_id": 933,
+    "buff_level": 1,
+    "priority": 2
+   }
+  ],
+  "936": [
+   {
+    "buff_id": 936,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "938": [
+   {
+    "buff_id": 938,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "939": [
+   {
+    "buff_id": 939,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "940": [
+   {
+    "buff_id": 940,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "944": [
+   {
+    "buff_id": 944,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "946": [
+   {
+    "buff_id": 946,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "947": [
+   {
+    "buff_id": 947,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "948": [
+   {
+    "buff_id": 948,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "949": [
+   {
+    "buff_id": 949,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "950": [
+   {
+    "buff_id": 950,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "953": [
+   {
+    "buff_id": 953,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "954": {
+   "1": {
+    "buff_id": 954,
+    "buff_level": 1,
+    "priority": 1
+   },
+   "3": {
+    "buff_id": 954,
+    "buff_level": 3,
+    "priority": 1
+   },
+   "4": {
+    "buff_id": 954,
+    "buff_level": 4,
+    "priority": 1
+   }
+  },
+  "956": {
+   "1": {
+    "buff_id": 956,
+    "buff_level": 1,
+    "priority": 0
+   },
+   "4": {
+    "buff_id": 956,
+    "buff_level": 4,
+    "priority": 0
+   }
+  },
+  "957": [
+   {
+    "buff_id": 957,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "959": [
+   {
+    "buff_id": 959,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "961": [
+   {
+    "buff_id": 961,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "962": {
+   "1": {
+    "buff_id": 962,
+    "buff_level": 1,
+    "priority": 0
+   },
+   "4": {
+    "buff_id": 962,
+    "buff_level": 4,
+    "priority": 0
+   }
+  },
+  "965": [
+   {
+    "buff_id": 965,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "963": [
+   {
+    "buff_id": 963,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "964": {
+   "1": {
+    "buff_id": 964,
+    "buff_level": 1,
+    "priority": 1
+   },
+   "5": {
+    "buff_id": 964,
+    "buff_level": 5,
+    "priority": 1
+   }
+  },
+  "969": {
+   "1": {
+    "buff_id": 969,
+    "buff_level": 1,
+    "priority": 1
+   },
+   "3": {
+    "buff_id": 969,
+    "buff_level": 3,
+    "priority": 1
+   },
+   "5": {
+    "buff_id": 969,
+    "buff_level": 5,
+    "priority": 1
+   }
+  },
+  "971": [
+   {
+    "buff_id": 971,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "972": [
+   {
+    "buff_id": 972,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "977": [
+   {
+    "buff_id": 977,
+    "buff_level": 1,
+    "priority": 1
+   }
+  ],
+  "978": [
+   {
+    "buff_id": 978,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "979": [
+   {
+    "buff_id": 979,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "982": {
+   "1": {
+    "buff_id": 982,
+    "buff_level": 1,
+    "priority": 1
+   },
+   "5": {
+    "buff_id": 982,
+    "buff_level": 5,
+    "priority": 1
+   }
+  },
+  "983": [
+   {
+    "buff_id": 983,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "985": {
+   "1": {
+    "buff_id": 985,
+    "buff_level": 1,
+    "priority": 1
+   },
+   "3": {
+    "buff_id": 985,
+    "buff_level": 3,
+    "priority": 1
+   },
+   "5": {
+    "buff_id": 985,
+    "buff_level": 5,
+    "priority": 1
+   }
+  },
+  "989": {
+   "1": {
+    "buff_id": 989,
+    "buff_level": 1,
+    "priority": 1
+   },
+   "3": {
+    "buff_id": 989,
+    "buff_level": 3,
+    "priority": 1
+   },
+   "4": {
+    "buff_id": 989,
+    "buff_level": 4,
+    "priority": 1
+   }
+  },
+  "993": {
+   "1": {
+    "buff_id": 993,
+    "buff_level": 1,
+    "priority": 1
+   },
+   "5": {
+    "buff_id": 993,
+    "buff_level": 5,
+    "priority": 1
+   }
+  },
+  "994": {
+   "buff_id": [
+    994,
+    1,
+    1
+   ],
+   "buff_level": [
+    994,
+    2,
+    1
+   ],
+   "priority": [
+    994,
+    3,
+    1
+   ],
+   "buff_name": [
+    994,
+    4,
+    1
+   ]
+  },
+  "996": {
+   "buff_id": [
+    996,
+    1,
+    1
+   ],
+   "buff_level": [
+    996,
+    2,
+    1
+   ],
+   "priority": [
+    996,
+    3,
+    1
+   ],
+   "buff_name": [
+    996,
+    4,
+    1
+   ]
+  },
+  "998": [
+   {
+    "buff_id": 998,
+    "buff_level": 1,
+    "priority": 1
+   }
+  ],
+  "999": {
+   "1": {
+    "buff_id": 999,
+    "buff_level": 1,
+    "priority": 1
+   },
+   "3": {
+    "buff_id": 999,
+    "buff_level": 3,
+    "priority": 1
+   },
+   "5": {
+    "buff_id": 999,
+    "buff_level": 5,
+    "priority": 1
+   }
+  },
+  "2087": [
+   {
+    "buff_id": 2087,
+    "buff_level": 1,
+    "priority": 1
+   }
+  ],
+  "995": [
+   {
+    "buff_id": 995,
+    "buff_level": 1,
+    "priority": 0
+   }
+  ],
+  "2092": {
+   "1": {
+    "buff_id": 2092,
+    "buff_level": 1,
+    "priority": 1
+   },
+   "4": {
+    "buff_id": 2092,
+    "buff_level": 4,
+    "priority": 1
+   }
+  },
+  "2093": {
+   "1": {
+    "buff_id": 2093,
+    "buff_level": 1,
+    "priority": 1
+   },
+   "2": {
+    "buff_id": 2093,
+    "buff_level": 2,
+    "priority": 1
+   },
+   "4": {
+    "buff_id": 2093,
+    "buff_level": 4,
+    "priority": 1
+   }
+  },
+  "2095": [
+   {
+    "buff_id": 2095,
+    "buff_level": 1,
+    "priority": 1
+   }
+  ],
+  "2091": {
+   "1": {
+    "buff_id": 2091,
+    "buff_level": 1,
+    "priority": 1
+   },
+   "3": {
+    "buff_id": 2091,
+    "buff_level": 3,
+    "priority": 1
+   },
+   "4": {
+    "buff_id": 2091,
+    "buff_level": 4,
+    "priority": 1
+   }
+  },
+  "2096": [
+   {
+    "buff_id": 2096,
+    "buff_level": 1,
+    "priority": 1
+   }
+  ],
+  "2097": {
+   "buff_id": [
+    2097,
+    1,
+    0
+   ],
+   "buff_level": [
+    2097,
+    2,
+    0
+   ],
+   "priority": [
+    2097,
+    3,
+    0
+   ]
+  }
+ },
+ "text_chunk": null
+}

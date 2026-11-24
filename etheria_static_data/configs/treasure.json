@@ -1,0 +1,2382 @@
+{
+ "config": "treasure",
+ "fields": [
+  "type",
+  "id",
+  "loot",
+  "chapter",
+  "group",
+  "section",
+  "mode"
+ ],
+ "rows": {
+  "10101": {
+   "type": 1,
+   "id": 10101,
+   "loot": 90101,
+   "chapter": 1,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "10102": {
+   "type": 1,
+   "id": 10102,
+   "loot": 90101,
+   "chapter": 1,
+   "group": 2,
+   "section": 1,
+   "mode": -1
+  },
+  "10103": {
+   "type": 1,
+   "id": 10103,
+   "loot": 90101,
+   "chapter": 1,
+   "group": 3,
+   "section": 1,
+   "mode": -1
+  },
+  "10104": {
+   "type": 1,
+   "id": 10104,
+   "loot": 90101,
+   "chapter": 1,
+   "group": 4,
+   "section": 1,
+   "mode": -1
+  },
+  "10105": {
+   "type": 1,
+   "id": 10105,
+   "loot": 90101,
+   "chapter": 1,
+   "group": 5,
+   "section": 1,
+   "mode": -1
+  },
+  "10201": {
+   "type": 1,
+   "id": 10201,
+   "loot": 84011,
+   "chapter": 2,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "10202": {
+   "type": 1,
+   "id": 10202,
+   "loot": 84012,
+   "chapter": 2,
+   "group": 2,
+   "section": 1,
+   "mode": -1
+  },
+  "10203": {
+   "type": 1,
+   "id": 10203,
+   "loot": 84013,
+   "chapter": 2,
+   "group": 3,
+   "section": 1,
+   "mode": -1
+  },
+  "10204": {
+   "type": 1,
+   "id": 10204,
+   "loot": 84014,
+   "chapter": 2,
+   "group": 4,
+   "section": 1,
+   "mode": -1
+  },
+  "10205": {
+   "type": 1,
+   "id": 10205,
+   "loot": 84015,
+   "chapter": 2,
+   "group": 5,
+   "section": 1,
+   "mode": -1
+  },
+  "10301": {
+   "type": 1,
+   "id": 10301,
+   "loot": 84016,
+   "chapter": 3,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "10302": {
+   "type": 1,
+   "id": 10302,
+   "loot": 84017,
+   "chapter": 3,
+   "group": 2,
+   "section": 1,
+   "mode": -1
+  },
+  "10303": {
+   "type": 1,
+   "id": 10303,
+   "loot": 84018,
+   "chapter": 3,
+   "group": 3,
+   "section": 1,
+   "mode": -1
+  },
+  "10401": {
+   "type": 1,
+   "id": 10401,
+   "loot": 84021,
+   "chapter": 4,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "10402": {
+   "type": 1,
+   "id": 10402,
+   "loot": 84022,
+   "chapter": 4,
+   "group": 2,
+   "section": 1,
+   "mode": -1
+  },
+  "10403": {
+   "type": 1,
+   "id": 10403,
+   "loot": 84023,
+   "chapter": 4,
+   "group": 3,
+   "section": 1,
+   "mode": -1
+  },
+  "10501": {
+   "type": 1,
+   "id": 10501,
+   "loot": 84024,
+   "chapter": 5,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "10502": {
+   "type": 1,
+   "id": 10502,
+   "loot": 84025,
+   "chapter": 5,
+   "group": 2,
+   "section": 1,
+   "mode": -1
+  },
+  "10503": {
+   "type": 1,
+   "id": 10503,
+   "loot": 84026,
+   "chapter": 5,
+   "group": 3,
+   "section": 1,
+   "mode": -1
+  },
+  "10601": {
+   "type": 1,
+   "id": 10601,
+   "loot": 84031,
+   "chapter": 6,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "10602": {
+   "type": 1,
+   "id": 10602,
+   "loot": 84032,
+   "chapter": 6,
+   "group": 2,
+   "section": 1,
+   "mode": -1
+  },
+  "10603": {
+   "type": 1,
+   "id": 10603,
+   "loot": 84033,
+   "chapter": 6,
+   "group": 3,
+   "section": 1,
+   "mode": -1
+  },
+  "10604": {
+   "type": 1,
+   "id": 10604,
+   "loot": 84034,
+   "chapter": 6,
+   "group": 4,
+   "section": 1,
+   "mode": -1
+  },
+  "10605": {
+   "type": 1,
+   "id": 10605,
+   "loot": 84035,
+   "chapter": 6,
+   "group": 5,
+   "section": 1,
+   "mode": -1
+  },
+  "10801": {
+   "type": 1,
+   "id": 10801,
+   "loot": 84041,
+   "chapter": 8,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "10802": {
+   "type": 1,
+   "id": 10802,
+   "loot": 84042,
+   "chapter": 8,
+   "group": 2,
+   "section": 1,
+   "mode": -1
+  },
+  "10803": {
+   "type": 1,
+   "id": 10803,
+   "loot": 84043,
+   "chapter": 8,
+   "group": 3,
+   "section": 1,
+   "mode": -1
+  },
+  "10804": {
+   "type": 1,
+   "id": 10804,
+   "loot": 84044,
+   "chapter": 8,
+   "group": 4,
+   "section": 1,
+   "mode": -1
+  },
+  "10805": {
+   "type": 1,
+   "id": 10805,
+   "loot": 84045,
+   "chapter": 8,
+   "group": 5,
+   "section": 1,
+   "mode": -1
+  },
+  "10901": {
+   "type": 1,
+   "id": 10901,
+   "loot": 84046,
+   "chapter": 9,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "10902": {
+   "type": 1,
+   "id": 10902,
+   "loot": 84047,
+   "chapter": 9,
+   "group": 2,
+   "section": 1,
+   "mode": -1
+  },
+  "10903": {
+   "type": 1,
+   "id": 10903,
+   "loot": 84048,
+   "chapter": 9,
+   "group": 3,
+   "section": 1,
+   "mode": -1
+  },
+  "10904": {
+   "type": 1,
+   "id": 10904,
+   "loot": 84049,
+   "chapter": 9,
+   "group": 4,
+   "section": 1,
+   "mode": -1
+  },
+  "10905": {
+   "type": 1,
+   "id": 10905,
+   "loot": 84050,
+   "chapter": 9,
+   "group": 5,
+   "section": 1,
+   "mode": -1
+  },
+  "11001": {
+   "type": 1,
+   "id": 11001,
+   "loot": 84051,
+   "chapter": 10,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "11002": {
+   "type": 1,
+   "id": 11002,
+   "loot": 84052,
+   "chapter": 10,
+   "group": 2,
+   "section": 1,
+   "mode": -1
+  },
+  "11003": {
+   "type": 1,
+   "id": 11003,
+   "loot": 84053,
+   "chapter": 10,
+   "group": 3,
+   "section": 1,
+   "mode": -1
+  },
+  "11004": {
+   "type": 1,
+   "id": 11004,
+   "loot": 84054,
+   "chapter": 10,
+   "group": 4,
+   "section": 1,
+   "mode": -1
+  },
+  "11005": {
+   "type": 1,
+   "id": 11005,
+   "loot": 84055,
+   "chapter": 10,
+   "group": 5,
+   "section": 1,
+   "mode": -1
+  },
+  "11101": {
+   "type": 1,
+   "id": 11101,
+   "loot": 84056,
+   "chapter": 11,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "11102": {
+   "type": 1,
+   "id": 11102,
+   "loot": 84057,
+   "chapter": 11,
+   "group": 2,
+   "section": 1,
+   "mode": -1
+  },
+  "11103": {
+   "type": 1,
+   "id": 11103,
+   "loot": 84058,
+   "chapter": 11,
+   "group": 3,
+   "section": 1,
+   "mode": -1
+  },
+  "11104": {
+   "type": 1,
+   "id": 11104,
+   "loot": 84059,
+   "chapter": 11,
+   "group": 4,
+   "section": 1,
+   "mode": -1
+  },
+  "11105": {
+   "type": 1,
+   "id": 11105,
+   "loot": 84060,
+   "chapter": 11,
+   "group": 5,
+   "section": 1,
+   "mode": -1
+  },
+  "20101": {
+   "type": 2,
+   "id": 20101,
+   "loot": 121011,
+   "chapter": 1,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "20102": {
+   "type": 2,
+   "id": 20102,
+   "loot": 121012,
+   "chapter": 1,
+   "group": 2,
+   "section": 1,
+   "mode": -1
+  },
+  "20103": {
+   "type": 2,
+   "id": 20103,
+   "loot": 121013,
+   "chapter": 1,
+   "group": 3,
+   "section": 1,
+   "mode": -1
+  },
+  "20201": {
+   "type": 2,
+   "id": 20201,
+   "loot": 121021,
+   "chapter": 2,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "20301": {
+   "type": 2,
+   "id": 20301,
+   "loot": 121031,
+   "chapter": 3,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "20302": {
+   "type": 2,
+   "id": 20302,
+   "loot": 121032,
+   "chapter": 3,
+   "group": 2,
+   "section": 1,
+   "mode": -1
+  },
+  "20303": {
+   "type": 2,
+   "id": 20303,
+   "loot": 121033,
+   "chapter": 3,
+   "group": 3,
+   "section": 1,
+   "mode": -1
+  },
+  "20304": {
+   "type": 2,
+   "id": 20304,
+   "loot": 121034,
+   "chapter": 3,
+   "group": 4,
+   "section": 1,
+   "mode": -1
+  },
+  "20401": {
+   "type": 2,
+   "id": 20401,
+   "loot": 121041,
+   "chapter": 4,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "20501": {
+   "type": 2,
+   "id": 20501,
+   "loot": 121051,
+   "chapter": 5,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "20502": {
+   "type": 2,
+   "id": 20502,
+   "loot": 121052,
+   "chapter": 5,
+   "group": 2,
+   "section": 1,
+   "mode": -1
+  },
+  "20503": {
+   "type": 2,
+   "id": 20503,
+   "loot": 121053,
+   "chapter": 5,
+   "group": 3,
+   "section": 1,
+   "mode": -1
+  },
+  "20504": {
+   "type": 2,
+   "id": 20504,
+   "loot": 121054,
+   "chapter": 5,
+   "group": 4,
+   "section": 1,
+   "mode": -1
+  },
+  "20601": {
+   "type": 2,
+   "id": 20601,
+   "loot": 121061,
+   "chapter": 6,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "20701": {
+   "type": 2,
+   "id": 20701,
+   "loot": 121071,
+   "chapter": 7,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "20702": {
+   "type": 2,
+   "id": 20702,
+   "loot": 121072,
+   "chapter": 7,
+   "group": 2,
+   "section": 1,
+   "mode": -1
+  },
+  "20703": {
+   "type": 2,
+   "id": 20703,
+   "loot": 121073,
+   "chapter": 7,
+   "group": 3,
+   "section": 1,
+   "mode": -1
+  },
+  "20704": {
+   "type": 2,
+   "id": 20704,
+   "loot": 121074,
+   "chapter": 7,
+   "group": 4,
+   "section": 1,
+   "mode": -1
+  },
+  "20801": {
+   "type": 2,
+   "id": 20801,
+   "loot": 121081,
+   "chapter": 8,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "20901": {
+   "type": 2,
+   "id": 20901,
+   "loot": 121091,
+   "chapter": 9,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "20902": {
+   "type": 2,
+   "id": 20902,
+   "loot": 121092,
+   "chapter": 9,
+   "group": 2,
+   "section": 1,
+   "mode": -1
+  },
+  "20903": {
+   "type": 2,
+   "id": 20903,
+   "loot": 121093,
+   "chapter": 9,
+   "group": 3,
+   "section": 1,
+   "mode": -1
+  },
+  "20904": {
+   "type": 2,
+   "id": 20904,
+   "loot": 121094,
+   "chapter": 9,
+   "group": 4,
+   "section": 1,
+   "mode": -1
+  },
+  "21001": {
+   "type": 2,
+   "id": 21001,
+   "loot": 121101,
+   "chapter": 10,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "21101": {
+   "type": 2,
+   "id": 21101,
+   "loot": 121111,
+   "chapter": 11,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "21102": {
+   "type": 2,
+   "id": 21102,
+   "loot": 121112,
+   "chapter": 11,
+   "group": 2,
+   "section": 1,
+   "mode": -1
+  },
+  "21103": {
+   "type": 2,
+   "id": 21103,
+   "loot": 121113,
+   "chapter": 11,
+   "group": 3,
+   "section": 1,
+   "mode": -1
+  },
+  "21104": {
+   "type": 2,
+   "id": 21104,
+   "loot": 121114,
+   "chapter": 11,
+   "group": 4,
+   "section": 1,
+   "mode": -1
+  },
+  "21201": {
+   "type": 2,
+   "id": 21201,
+   "loot": 121121,
+   "chapter": 12,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "21301": {
+   "type": 2,
+   "id": 21301,
+   "loot": 121131,
+   "chapter": 13,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "21302": {
+   "type": 2,
+   "id": 21302,
+   "loot": 121132,
+   "chapter": 13,
+   "group": 2,
+   "section": 1,
+   "mode": -1
+  },
+  "21303": {
+   "type": 2,
+   "id": 21303,
+   "loot": 121133,
+   "chapter": 13,
+   "group": 3,
+   "section": 1,
+   "mode": -1
+  },
+  "21304": {
+   "type": 2,
+   "id": 21304,
+   "loot": 121134,
+   "chapter": 13,
+   "group": 4,
+   "section": 1,
+   "mode": -1
+  },
+  "21401": {
+   "type": 2,
+   "id": 21401,
+   "loot": 121141,
+   "chapter": 14,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "21501": {
+   "type": 2,
+   "id": 21501,
+   "loot": 121151,
+   "chapter": 15,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "21502": {
+   "type": 2,
+   "id": 21502,
+   "loot": 121152,
+   "chapter": 15,
+   "group": 2,
+   "section": 1,
+   "mode": -1
+  },
+  "21503": {
+   "type": 2,
+   "id": 21503,
+   "loot": 121153,
+   "chapter": 15,
+   "group": 3,
+   "section": 1,
+   "mode": -1
+  },
+  "21504": {
+   "type": 2,
+   "id": 21504,
+   "loot": 121154,
+   "chapter": 15,
+   "group": 4,
+   "section": 1,
+   "mode": -1
+  },
+  "21601": {
+   "type": 2,
+   "id": 21601,
+   "loot": 121161,
+   "chapter": 16,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "21701": {
+   "type": 2,
+   "id": 21701,
+   "loot": 121171,
+   "chapter": 17,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "21702": {
+   "type": 2,
+   "id": 21702,
+   "loot": 121172,
+   "chapter": 17,
+   "group": 2,
+   "section": 1,
+   "mode": -1
+  },
+  "21703": {
+   "type": 2,
+   "id": 21703,
+   "loot": 121173,
+   "chapter": 17,
+   "group": 3,
+   "section": 1,
+   "mode": -1
+  },
+  "21704": {
+   "type": 2,
+   "id": 21704,
+   "loot": 121174,
+   "chapter": 17,
+   "group": 4,
+   "section": 1,
+   "mode": -1
+  },
+  "21801": {
+   "type": 2,
+   "id": 21801,
+   "loot": 121181,
+   "chapter": 18,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "21901": {
+   "type": 2,
+   "id": 21901,
+   "loot": 121191,
+   "chapter": 19,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "21902": {
+   "type": 2,
+   "id": 21902,
+   "loot": 121192,
+   "chapter": 19,
+   "group": 2,
+   "section": 1,
+   "mode": -1
+  },
+  "21903": {
+   "type": 2,
+   "id": 21903,
+   "loot": 121193,
+   "chapter": 19,
+   "group": 3,
+   "section": 1,
+   "mode": -1
+  },
+  "21904": {
+   "type": 2,
+   "id": 21904,
+   "loot": 121194,
+   "chapter": 19,
+   "group": 4,
+   "section": 1,
+   "mode": -1
+  },
+  "22001": {
+   "type": 2,
+   "id": 22001,
+   "loot": 121201,
+   "chapter": 20,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "22101": {
+   "type": 2,
+   "id": 22101,
+   "loot": 121211,
+   "chapter": 21,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "22102": {
+   "type": 2,
+   "id": 22102,
+   "loot": 121212,
+   "chapter": 21,
+   "group": 2,
+   "section": 1,
+   "mode": -1
+  },
+  "22103": {
+   "type": 2,
+   "id": 22103,
+   "loot": 121213,
+   "chapter": 21,
+   "group": 3,
+   "section": 1,
+   "mode": -1
+  },
+  "22104": {
+   "type": 2,
+   "id": 22104,
+   "loot": 121214,
+   "chapter": 21,
+   "group": 4,
+   "section": 1,
+   "mode": -1
+  },
+  "22201": {
+   "type": 2,
+   "id": 22201,
+   "loot": 121221,
+   "chapter": 22,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "22301": {
+   "type": 2,
+   "id": 22301,
+   "loot": 121231,
+   "chapter": 23,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "22302": {
+   "type": 2,
+   "id": 22302,
+   "loot": 121232,
+   "chapter": 23,
+   "group": 2,
+   "section": 1,
+   "mode": -1
+  },
+  "22303": {
+   "type": 2,
+   "id": 22303,
+   "loot": 121233,
+   "chapter": 23,
+   "group": 3,
+   "section": 1,
+   "mode": -1
+  },
+  "22304": {
+   "type": 2,
+   "id": 22304,
+   "loot": 121234,
+   "chapter": 23,
+   "group": 4,
+   "section": 1,
+   "mode": -1
+  },
+  "22401": {
+   "type": 2,
+   "id": 22401,
+   "loot": 121241,
+   "chapter": 24,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "22501": {
+   "type": 2,
+   "id": 22501,
+   "loot": 121251,
+   "chapter": 25,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "22502": {
+   "type": 2,
+   "id": 22502,
+   "loot": 121252,
+   "chapter": 25,
+   "group": 2,
+   "section": 1,
+   "mode": -1
+  },
+  "22503": {
+   "type": 2,
+   "id": 22503,
+   "loot": 121253,
+   "chapter": 25,
+   "group": 3,
+   "section": 1,
+   "mode": -1
+  },
+  "22504": {
+   "type": 2,
+   "id": 22504,
+   "loot": 121254,
+   "chapter": 25,
+   "group": 4,
+   "section": 1,
+   "mode": -1
+  },
+  "22601": {
+   "type": 2,
+   "id": 22601,
+   "loot": 121261,
+   "chapter": 26,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "22701": {
+   "type": 2,
+   "id": 22701,
+   "loot": 121271,
+   "chapter": 27,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "22702": {
+   "type": 2,
+   "id": 22702,
+   "loot": 121272,
+   "chapter": 27,
+   "group": 2,
+   "section": 1,
+   "mode": -1
+  },
+  "22703": {
+   "type": 2,
+   "id": 22703,
+   "loot": 121273,
+   "chapter": 27,
+   "group": 3,
+   "section": 1,
+   "mode": -1
+  },
+  "22704": {
+   "type": 2,
+   "id": 22704,
+   "loot": 121274,
+   "chapter": 27,
+   "group": 4,
+   "section": 1,
+   "mode": -1
+  },
+  "22801": {
+   "type": 2,
+   "id": 22801,
+   "loot": 121281,
+   "chapter": 28,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "22901": {
+   "type": 2,
+   "id": 22901,
+   "loot": 121291,
+   "chapter": 29,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "22902": {
+   "type": 2,
+   "id": 22902,
+   "loot": 121292,
+   "chapter": 29,
+   "group": 2,
+   "section": 1,
+   "mode": -1
+  },
+  "22903": {
+   "type": 2,
+   "id": 22903,
+   "loot": 121293,
+   "chapter": 29,
+   "group": 3,
+   "section": 1,
+   "mode": -1
+  },
+  "22904": {
+   "type": 2,
+   "id": 22904,
+   "loot": 121294,
+   "chapter": 29,
+   "group": 4,
+   "section": 1,
+   "mode": -1
+  },
+  "23001": {
+   "type": 2,
+   "id": 23001,
+   "loot": 121301,
+   "chapter": 30,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "23101": {
+   "type": 2,
+   "id": 23101,
+   "loot": 121311,
+   "chapter": 31,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "23102": {
+   "type": 2,
+   "id": 23102,
+   "loot": 121312,
+   "chapter": 31,
+   "group": 2,
+   "section": 1,
+   "mode": -1
+  },
+  "23103": {
+   "type": 2,
+   "id": 23103,
+   "loot": 121313,
+   "chapter": 31,
+   "group": 3,
+   "section": 1,
+   "mode": -1
+  },
+  "23104": {
+   "type": 2,
+   "id": 23104,
+   "loot": 121314,
+   "chapter": 31,
+   "group": 4,
+   "section": 1,
+   "mode": -1
+  },
+  "23201": {
+   "type": 2,
+   "id": 23201,
+   "loot": 121321,
+   "chapter": 32,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "23301": {
+   "type": 2,
+   "id": 23301,
+   "loot": 121331,
+   "chapter": 33,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "23302": {
+   "type": 2,
+   "id": 23302,
+   "loot": 121332,
+   "chapter": 33,
+   "group": 2,
+   "section": 1,
+   "mode": -1
+  },
+  "23303": {
+   "type": 2,
+   "id": 23303,
+   "loot": 121333,
+   "chapter": 33,
+   "group": 3,
+   "section": 1,
+   "mode": -1
+  },
+  "23304": {
+   "type": 2,
+   "id": 23304,
+   "loot": 121334,
+   "chapter": 33,
+   "group": 4,
+   "section": 1,
+   "mode": -1
+  },
+  "23401": {
+   "type": 2,
+   "id": 23401,
+   "loot": 121341,
+   "chapter": 34,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "23501": {
+   "type": 2,
+   "id": 23501,
+   "loot": 121351,
+   "chapter": 35,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "23502": {
+   "type": 2,
+   "id": 23502,
+   "loot": 121352,
+   "chapter": 35,
+   "group": 2,
+   "section": 1,
+   "mode": -1
+  },
+  "23503": {
+   "type": 2,
+   "id": 23503,
+   "loot": 121353,
+   "chapter": 35,
+   "group": 3,
+   "section": 1,
+   "mode": -1
+  },
+  "23504": {
+   "type": 2,
+   "id": 23504,
+   "loot": 121354,
+   "chapter": 35,
+   "group": 4,
+   "section": 1,
+   "mode": -1
+  },
+  "23601": {
+   "type": 2,
+   "id": 23601,
+   "loot": 121361,
+   "chapter": 36,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "23701": {
+   "type": 2,
+   "id": 23701,
+   "loot": 121371,
+   "chapter": 37,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "23702": {
+   "type": 2,
+   "id": 23702,
+   "loot": 121372,
+   "chapter": 37,
+   "group": 2,
+   "section": 1,
+   "mode": -1
+  },
+  "23703": {
+   "type": 2,
+   "id": 23703,
+   "loot": 121373,
+   "chapter": 37,
+   "group": 3,
+   "section": 1,
+   "mode": -1
+  },
+  "23704": {
+   "type": 2,
+   "id": 23704,
+   "loot": 121374,
+   "chapter": 37,
+   "group": 4,
+   "section": 1,
+   "mode": -1
+  },
+  "23801": {
+   "type": 2,
+   "id": 23801,
+   "loot": 121381,
+   "chapter": 38,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "23901": {
+   "type": 2,
+   "id": 23901,
+   "loot": 121391,
+   "chapter": 39,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "23902": {
+   "type": 2,
+   "id": 23902,
+   "loot": 121392,
+   "chapter": 39,
+   "group": 2,
+   "section": 1,
+   "mode": -1
+  },
+  "23903": {
+   "type": 2,
+   "id": 23903,
+   "loot": 121393,
+   "chapter": 39,
+   "group": 3,
+   "section": 1,
+   "mode": -1
+  },
+  "23904": {
+   "type": 2,
+   "id": 23904,
+   "loot": 121394,
+   "chapter": 39,
+   "group": 4,
+   "section": 1,
+   "mode": -1
+  },
+  "24001": {
+   "type": 2,
+   "id": 24001,
+   "loot": 121401,
+   "chapter": 40,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "24101": {
+   "type": 2,
+   "id": 24101,
+   "loot": 121411,
+   "chapter": 41,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "24102": {
+   "type": 2,
+   "id": 24102,
+   "loot": 121412,
+   "chapter": 41,
+   "group": 2,
+   "section": 1,
+   "mode": -1
+  },
+  "24103": {
+   "type": 2,
+   "id": 24103,
+   "loot": 121413,
+   "chapter": 41,
+   "group": 3,
+   "section": 1,
+   "mode": -1
+  },
+  "24104": {
+   "type": 2,
+   "id": 24104,
+   "loot": 121414,
+   "chapter": 41,
+   "group": 4,
+   "section": 1,
+   "mode": -1
+  },
+  "24201": {
+   "type": 2,
+   "id": 24201,
+   "loot": 121421,
+   "chapter": 42,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "24301": {
+   "type": 2,
+   "id": 24301,
+   "loot": 121431,
+   "chapter": 43,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "30101": {
+   "type": 3,
+   "id": 30101,
+   "loot": 121011,
+   "chapter": 1,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "30102": {
+   "type": 3,
+   "id": 30102,
+   "loot": 121012,
+   "chapter": 1,
+   "group": 2,
+   "section": 1,
+   "mode": -1
+  },
+  "30103": {
+   "type": 3,
+   "id": 30103,
+   "loot": 121013,
+   "chapter": 1,
+   "group": 3,
+   "section": 1,
+   "mode": -1
+  },
+  "30201": {
+   "type": 3,
+   "id": 30201,
+   "loot": 121021,
+   "chapter": 2,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "30301": {
+   "type": 3,
+   "id": 30301,
+   "loot": 121031,
+   "chapter": 3,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "30302": {
+   "type": 3,
+   "id": 30302,
+   "loot": 121032,
+   "chapter": 3,
+   "group": 2,
+   "section": 1,
+   "mode": -1
+  },
+  "30303": {
+   "type": 3,
+   "id": 30303,
+   "loot": 121033,
+   "chapter": 3,
+   "group": 3,
+   "section": 1,
+   "mode": -1
+  },
+  "30304": {
+   "type": 3,
+   "id": 30304,
+   "loot": 121034,
+   "chapter": 3,
+   "group": 4,
+   "section": 1,
+   "mode": -1
+  },
+  "30401": {
+   "type": 3,
+   "id": 30401,
+   "loot": 121041,
+   "chapter": 4,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "30501": {
+   "type": 3,
+   "id": 30501,
+   "loot": 121051,
+   "chapter": 5,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "30502": {
+   "type": 3,
+   "id": 30502,
+   "loot": 121052,
+   "chapter": 5,
+   "group": 2,
+   "section": 1,
+   "mode": -1
+  },
+  "30503": {
+   "type": 3,
+   "id": 30503,
+   "loot": 121053,
+   "chapter": 5,
+   "group": 3,
+   "section": 1,
+   "mode": -1
+  },
+  "30504": {
+   "type": 3,
+   "id": 30504,
+   "loot": 121054,
+   "chapter": 5,
+   "group": 4,
+   "section": 1,
+   "mode": -1
+  },
+  "30601": {
+   "type": 3,
+   "id": 30601,
+   "loot": 121061,
+   "chapter": 6,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "30701": {
+   "type": 3,
+   "id": 30701,
+   "loot": 121071,
+   "chapter": 7,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "30702": {
+   "type": 3,
+   "id": 30702,
+   "loot": 121072,
+   "chapter": 7,
+   "group": 2,
+   "section": 1,
+   "mode": -1
+  },
+  "30703": {
+   "type": 3,
+   "id": 30703,
+   "loot": 121073,
+   "chapter": 7,
+   "group": 3,
+   "section": 1,
+   "mode": -1
+  },
+  "30704": {
+   "type": 3,
+   "id": 30704,
+   "loot": 121074,
+   "chapter": 7,
+   "group": 4,
+   "section": 1,
+   "mode": -1
+  },
+  "30801": {
+   "type": 3,
+   "id": 30801,
+   "loot": 121081,
+   "chapter": 8,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "30901": {
+   "type": 3,
+   "id": 30901,
+   "loot": 121091,
+   "chapter": 9,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "30902": {
+   "type": 3,
+   "id": 30902,
+   "loot": 121092,
+   "chapter": 9,
+   "group": 2,
+   "section": 1,
+   "mode": -1
+  },
+  "30903": {
+   "type": 3,
+   "id": 30903,
+   "loot": 121093,
+   "chapter": 9,
+   "group": 3,
+   "section": 1,
+   "mode": -1
+  },
+  "30904": {
+   "type": 3,
+   "id": 30904,
+   "loot": 121094,
+   "chapter": 9,
+   "group": 4,
+   "section": 1,
+   "mode": -1
+  },
+  "31001": {
+   "type": 3,
+   "id": 31001,
+   "loot": 121101,
+   "chapter": 10,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "31101": {
+   "type": 3,
+   "id": 31101,
+   "loot": 121111,
+   "chapter": 11,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "31102": {
+   "type": 3,
+   "id": 31102,
+   "loot": 121112,
+   "chapter": 11,
+   "group": 2,
+   "section": 1,
+   "mode": -1
+  },
+  "31103": {
+   "type": 3,
+   "id": 31103,
+   "loot": 121113,
+   "chapter": 11,
+   "group": 3,
+   "section": 1,
+   "mode": -1
+  },
+  "31104": {
+   "type": 3,
+   "id": 31104,
+   "loot": 121114,
+   "chapter": 11,
+   "group": 4,
+   "section": 1,
+   "mode": -1
+  },
+  "31201": {
+   "type": 3,
+   "id": 31201,
+   "loot": 121121,
+   "chapter": 12,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "31301": {
+   "type": 3,
+   "id": 31301,
+   "loot": 121131,
+   "chapter": 13,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "31302": {
+   "type": 3,
+   "id": 31302,
+   "loot": 121132,
+   "chapter": 13,
+   "group": 2,
+   "section": 1,
+   "mode": -1
+  },
+  "31303": {
+   "type": 3,
+   "id": 31303,
+   "loot": 121133,
+   "chapter": 13,
+   "group": 3,
+   "section": 1,
+   "mode": -1
+  },
+  "31304": {
+   "type": 3,
+   "id": 31304,
+   "loot": 121134,
+   "chapter": 13,
+   "group": 4,
+   "section": 1,
+   "mode": -1
+  },
+  "31401": {
+   "type": 3,
+   "id": 31401,
+   "loot": 121141,
+   "chapter": 14,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "31501": {
+   "type": 3,
+   "id": 31501,
+   "loot": 121151,
+   "chapter": 15,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "31502": {
+   "type": 3,
+   "id": 31502,
+   "loot": 121152,
+   "chapter": 15,
+   "group": 2,
+   "section": 1,
+   "mode": -1
+  },
+  "31503": {
+   "type": 3,
+   "id": 31503,
+   "loot": 121153,
+   "chapter": 15,
+   "group": 3,
+   "section": 1,
+   "mode": -1
+  },
+  "31504": {
+   "type": 3,
+   "id": 31504,
+   "loot": 121154,
+   "chapter": 15,
+   "group": 4,
+   "section": 1,
+   "mode": -1
+  },
+  "31601": {
+   "type": 3,
+   "id": 31601,
+   "loot": 121161,
+   "chapter": 16,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "31701": {
+   "type": 3,
+   "id": 31701,
+   "loot": 121171,
+   "chapter": 17,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "31702": {
+   "type": 3,
+   "id": 31702,
+   "loot": 121172,
+   "chapter": 17,
+   "group": 2,
+   "section": 1,
+   "mode": -1
+  },
+  "31703": {
+   "type": 3,
+   "id": 31703,
+   "loot": 121173,
+   "chapter": 17,
+   "group": 3,
+   "section": 1,
+   "mode": -1
+  },
+  "31704": {
+   "type": 3,
+   "id": 31704,
+   "loot": 121174,
+   "chapter": 17,
+   "group": 4,
+   "section": 1,
+   "mode": -1
+  },
+  "31801": {
+   "type": 3,
+   "id": 31801,
+   "loot": 121181,
+   "chapter": 18,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "31901": {
+   "type": 3,
+   "id": 31901,
+   "loot": 121191,
+   "chapter": 19,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "31902": {
+   "type": 3,
+   "id": 31902,
+   "loot": 121192,
+   "chapter": 19,
+   "group": 2,
+   "section": 1,
+   "mode": -1
+  },
+  "31903": {
+   "type": 3,
+   "id": 31903,
+   "loot": 121193,
+   "chapter": 19,
+   "group": 3,
+   "section": 1,
+   "mode": -1
+  },
+  "31904": {
+   "type": 3,
+   "id": 31904,
+   "loot": 121194,
+   "chapter": 19,
+   "group": 4,
+   "section": 1,
+   "mode": -1
+  },
+  "32001": {
+   "type": 3,
+   "id": 32001,
+   "loot": 121201,
+   "chapter": 20,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "32101": {
+   "type": 3,
+   "id": 32101,
+   "loot": 121211,
+   "chapter": 21,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "32102": {
+   "type": 3,
+   "id": 32102,
+   "loot": 121212,
+   "chapter": 21,
+   "group": 2,
+   "section": 1,
+   "mode": -1
+  },
+  "32103": {
+   "type": 3,
+   "id": 32103,
+   "loot": 121213,
+   "chapter": 21,
+   "group": 3,
+   "section": 1,
+   "mode": -1
+  },
+  "32104": {
+   "type": 3,
+   "id": 32104,
+   "loot": 121214,
+   "chapter": 21,
+   "group": 4,
+   "section": 1,
+   "mode": -1
+  },
+  "32201": {
+   "type": 3,
+   "id": 32201,
+   "loot": 121221,
+   "chapter": 22,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "32301": {
+   "type": 3,
+   "id": 32301,
+   "loot": 121231,
+   "chapter": 23,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "32302": {
+   "type": 3,
+   "id": 32302,
+   "loot": 121232,
+   "chapter": 23,
+   "group": 2,
+   "section": 1,
+   "mode": -1
+  },
+  "32303": {
+   "type": 3,
+   "id": 32303,
+   "loot": 121233,
+   "chapter": 23,
+   "group": 3,
+   "section": 1,
+   "mode": -1
+  },
+  "32304": {
+   "type": 3,
+   "id": 32304,
+   "loot": 121234,
+   "chapter": 23,
+   "group": 4,
+   "section": 1,
+   "mode": -1
+  },
+  "32401": {
+   "type": 3,
+   "id": 32401,
+   "loot": 121241,
+   "chapter": 24,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "32501": {
+   "type": 3,
+   "id": 32501,
+   "loot": 121251,
+   "chapter": 25,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "32502": {
+   "type": 3,
+   "id": 32502,
+   "loot": 121252,
+   "chapter": 25,
+   "group": 2,
+   "section": 1,
+   "mode": -1
+  },
+  "32503": {
+   "type": 3,
+   "id": 32503,
+   "loot": 121253,
+   "chapter": 25,
+   "group": 3,
+   "section": 1,
+   "mode": -1
+  },
+  "32504": {
+   "type": 3,
+   "id": 32504,
+   "loot": 121254,
+   "chapter": 25,
+   "group": 4,
+   "section": 1,
+   "mode": -1
+  },
+  "32601": {
+   "type": 3,
+   "id": 32601,
+   "loot": 121261,
+   "chapter": 26,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "32701": {
+   "type": 3,
+   "id": 32701,
+   "loot": 121271,
+   "chapter": 27,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "32702": {
+   "type": 3,
+   "id": 32702,
+   "loot": 121272,
+   "chapter": 27,
+   "group": 2,
+   "section": 1,
+   "mode": -1
+  },
+  "32703": {
+   "type": 3,
+   "id": 32703,
+   "loot": 121273,
+   "chapter": 27,
+   "group": 3,
+   "section": 1,
+   "mode": -1
+  },
+  "32704": {
+   "type": 3,
+   "id": 32704,
+   "loot": 121274,
+   "chapter": 27,
+   "group": 4,
+   "section": 1,
+   "mode": -1
+  },
+  "32801": {
+   "type": 3,
+   "id": 32801,
+   "loot": 121281,
+   "chapter": 28,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "32901": {
+   "type": 3,
+   "id": 32901,
+   "loot": 121291,
+   "chapter": 29,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "32902": {
+   "type": 3,
+   "id": 32902,
+   "loot": 121292,
+   "chapter": 29,
+   "group": 2,
+   "section": 1,
+   "mode": -1
+  },
+  "32903": {
+   "type": 3,
+   "id": 32903,
+   "loot": 121293,
+   "chapter": 29,
+   "group": 3,
+   "section": 1,
+   "mode": -1
+  },
+  "32904": {
+   "type": 3,
+   "id": 32904,
+   "loot": 121294,
+   "chapter": 29,
+   "group": 4,
+   "section": 1,
+   "mode": -1
+  },
+  "33001": {
+   "type": 3,
+   "id": 33001,
+   "loot": 121301,
+   "chapter": 30,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "33101": {
+   "type": 3,
+   "id": 33101,
+   "loot": 121311,
+   "chapter": 31,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "33102": {
+   "type": 3,
+   "id": 33102,
+   "loot": 121312,
+   "chapter": 31,
+   "group": 2,
+   "section": 1,
+   "mode": -1
+  },
+  "33103": {
+   "type": 3,
+   "id": 33103,
+   "loot": 121313,
+   "chapter": 31,
+   "group": 3,
+   "section": 1,
+   "mode": -1
+  },
+  "33104": {
+   "type": 3,
+   "id": 33104,
+   "loot": 121314,
+   "chapter": 31,
+   "group": 4,
+   "section": 1,
+   "mode": -1
+  },
+  "33201": {
+   "type": 3,
+   "id": 33201,
+   "loot": 121321,
+   "chapter": 32,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "33301": {
+   "type": 3,
+   "id": 33301,
+   "loot": 121331,
+   "chapter": 33,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "33302": {
+   "type": 3,
+   "id": 33302,
+   "loot": 121332,
+   "chapter": 33,
+   "group": 2,
+   "section": 1,
+   "mode": -1
+  },
+  "33303": {
+   "type": 3,
+   "id": 33303,
+   "loot": 121333,
+   "chapter": 33,
+   "group": 3,
+   "section": 1,
+   "mode": -1
+  },
+  "33304": {
+   "type": 3,
+   "id": 33304,
+   "loot": 121334,
+   "chapter": 33,
+   "group": 4,
+   "section": 1,
+   "mode": -1
+  },
+  "33401": {
+   "type": 3,
+   "id": 33401,
+   "loot": 121341,
+   "chapter": 34,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "33501": {
+   "type": 3,
+   "id": 33501,
+   "loot": 121351,
+   "chapter": 35,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "33502": {
+   "type": 3,
+   "id": 33502,
+   "loot": 121352,
+   "chapter": 35,
+   "group": 2,
+   "section": 1,
+   "mode": -1
+  },
+  "33503": {
+   "type": 3,
+   "id": 33503,
+   "loot": 121353,
+   "chapter": 35,
+   "group": 3,
+   "section": 1,
+   "mode": -1
+  },
+  "33504": {
+   "type": 3,
+   "id": 33504,
+   "loot": 121354,
+   "chapter": 35,
+   "group": 4,
+   "section": 1,
+   "mode": -1
+  },
+  "33601": {
+   "type": 3,
+   "id": 33601,
+   "loot": 121361,
+   "chapter": 36,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "33701": {
+   "type": 3,
+   "id": 33701,
+   "loot": 121371,
+   "chapter": 37,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "33702": {
+   "type": 3,
+   "id": 33702,
+   "loot": 121372,
+   "chapter": 37,
+   "group": 2,
+   "section": 1,
+   "mode": -1
+  },
+  "33703": {
+   "type": 3,
+   "id": 33703,
+   "loot": 121373,
+   "chapter": 37,
+   "group": 3,
+   "section": 1,
+   "mode": -1
+  },
+  "33704": {
+   "type": 3,
+   "id": 33704,
+   "loot": 121374,
+   "chapter": 37,
+   "group": 4,
+   "section": 1,
+   "mode": -1
+  },
+  "33801": {
+   "type": 3,
+   "id": 33801,
+   "loot": 121381,
+   "chapter": 38,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "33901": {
+   "type": 3,
+   "id": 33901,
+   "loot": 121391,
+   "chapter": 39,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "33902": {
+   "type": 3,
+   "id": 33902,
+   "loot": 121392,
+   "chapter": 39,
+   "group": 2,
+   "section": 1,
+   "mode": -1
+  },
+  "33903": {
+   "type": 3,
+   "id": 33903,
+   "loot": 121393,
+   "chapter": 39,
+   "group": 3,
+   "section": 1,
+   "mode": -1
+  },
+  "33904": {
+   "type": 3,
+   "id": 33904,
+   "loot": 121394,
+   "chapter": 39,
+   "group": 4,
+   "section": 1,
+   "mode": -1
+  },
+  "34001": {
+   "type": 3,
+   "id": 34001,
+   "loot": 121401,
+   "chapter": 40,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "34101": {
+   "type": 3,
+   "id": 34101,
+   "loot": 121411,
+   "chapter": 41,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "34102": {
+   "type": 3,
+   "id": 34102,
+   "loot": 121412,
+   "chapter": 41,
+   "group": 2,
+   "section": 1,
+   "mode": -1
+  },
+  "34103": {
+   "type": 3,
+   "id": 34103,
+   "loot": 121413,
+   "chapter": 41,
+   "group": 3,
+   "section": 1,
+   "mode": -1
+  },
+  "34104": {
+   "type": 3,
+   "id": 34104,
+   "loot": 121414,
+   "chapter": 41,
+   "group": 4,
+   "section": 1,
+   "mode": -1
+  },
+  "34201": {
+   "type": 3,
+   "id": 34201,
+   "loot": 121421,
+   "chapter": 42,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "34301": {
+   "type": 3,
+   "id": 34301,
+   "loot": 121431,
+   "chapter": 43,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "39101": {
+   "type": 3,
+   "id": 39101,
+   "loot": 121432,
+   "chapter": 91,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "39201": {
+   "type": 3,
+   "id": 39201,
+   "loot": 121433,
+   "chapter": 92,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "39301": {
+   "type": 3,
+   "id": 39301,
+   "loot": 121434,
+   "chapter": 93,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "39401": {
+   "type": 3,
+   "id": 39401,
+   "loot": 121435,
+   "chapter": 94,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "39501": {
+   "type": 3,
+   "id": 39501,
+   "loot": 121436,
+   "chapter": 95,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "39601": {
+   "type": 3,
+   "id": 39601,
+   "loot": 121437,
+   "chapter": 96,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "39701": {
+   "type": 3,
+   "id": 39701,
+   "loot": 121438,
+   "chapter": 97,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "39801": {
+   "type": 3,
+   "id": 39801,
+   "loot": 121439,
+   "chapter": 98,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  },
+  "39901": {
+   "type": 3,
+   "id": 39901,
+   "loot": 121440,
+   "chapter": 99,
+   "group": 1,
+   "section": 1,
+   "mode": -1
+  }
+ },
+ "text_chunk": null
+}

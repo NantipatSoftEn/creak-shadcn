@@ -1,0 +1,7466 @@
+{
+ "config": "agt_info",
+ "fields": [
+  "id",
+  "hp_add",
+  "attack_add",
+  "defence_add",
+  "speed_add",
+  "set_pool",
+  "unit_id",
+  "combine_star",
+  "deduplication",
+  "type",
+  "has_extra_exp",
+  "imprint_id"
+ ],
+ "rows": {
+  "54091": {
+   "id": 54091,
+   "hp_add": 945,
+   "attack_add": 155,
+   "defence_add": 57,
+   "speed_add": 13,
+   "set_pool": [
+    [
+     [
+      1,
+      100
+     ]
+    ],
+    [
+     [
+      2,
+      100
+     ]
+    ],
+    [
+     [
+      3,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54091,
+   "combine_star": 21,
+   "deduplication": null,
+   "type": 1,
+   "has_extra_exp": false,
+   "imprint_id": 0
+  },
+  "54101": {
+   "id": 54101,
+   "hp_add": 1200,
+   "attack_add": 120,
+   "defence_add": 80,
+   "speed_add": 15,
+   "set_pool": [
+    [
+     [
+      1,
+      100
+     ]
+    ],
+    [
+     [
+      2,
+      100
+     ]
+    ],
+    [
+     [
+      3,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54101,
+   "combine_star": 11,
+   "deduplication": null,
+   "type": 1,
+   "has_extra_exp": false,
+   "imprint_id": 0
+  },
+  "54111": {
+   "id": 54111,
+   "hp_add": 1348,
+   "attack_add": 89,
+   "defence_add": 160,
+   "speed_add": 16,
+   "set_pool": [
+    [
+     [
+      2,
+      100
+     ]
+    ],
+    [
+     [
+      3,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54111,
+   "combine_star": 31,
+   "deduplication": null,
+   "type": 3,
+   "has_extra_exp": false,
+   "imprint_id": 0
+  },
+  "54112": {
+   "id": 54112,
+   "hp_add": 1685,
+   "attack_add": 111,
+   "defence_add": 201,
+   "speed_add": 20,
+   "set_pool": [
+    [
+     [
+      2,
+      100
+     ]
+    ],
+    [
+     [
+      3,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54111,
+   "combine_star": 32,
+   "deduplication": null,
+   "type": 3,
+   "has_extra_exp": false,
+   "imprint_id": 0
+  },
+  "54121": {
+   "id": 54121,
+   "hp_add": 851,
+   "attack_add": 180,
+   "defence_add": 55,
+   "speed_add": 13,
+   "set_pool": [
+    [
+     [
+      1,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54121,
+   "combine_star": 21,
+   "deduplication": null,
+   "type": 1,
+   "has_extra_exp": false,
+   "imprint_id": 0
+  },
+  "54126": {
+   "id": 54126,
+   "hp_add": 851,
+   "attack_add": 180,
+   "defence_add": 55,
+   "speed_add": 13,
+   "set_pool": [
+    [
+     [
+      1,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54126,
+   "combine_star": 21,
+   "deduplication": null,
+   "type": 1,
+   "has_extra_exp": false,
+   "imprint_id": 0
+  },
+  "54131": {
+   "id": 54131,
+   "hp_add": 2630,
+   "attack_add": 526,
+   "defence_add": 165,
+   "speed_add": 35,
+   "set_pool": [
+    [
+     [
+      1,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      6,
+      100
+     ]
+    ],
+    [
+     [
+      8,
+      100
+     ]
+    ],
+    [
+     [
+      34,
+      100
+     ]
+    ],
+    [
+     [
+      30,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54131,
+   "combine_star": 52,
+   "deduplication": [
+    30,
+    34
+   ],
+   "type": 1,
+   "has_extra_exp": false,
+   "imprint_id": 54135
+  },
+  "54132": {
+   "id": 54132,
+   "hp_add": 2922,
+   "attack_add": 584,
+   "defence_add": 183,
+   "speed_add": 40,
+   "set_pool": [
+    [
+     [
+      1,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      6,
+      100
+     ]
+    ],
+    [
+     [
+      8,
+      100
+     ]
+    ],
+    [
+     [
+      34,
+      100
+     ]
+    ],
+    [
+     [
+      30,
+      100
+     ],
+     [
+      61,
+      100
+     ]
+    ],
+    [
+     [
+      64,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54131,
+   "combine_star": 53,
+   "deduplication": [
+    30,
+    34
+   ],
+   "type": 1,
+   "has_extra_exp": false,
+   "imprint_id": 54135
+  },
+  "54134": {
+   "id": 54134,
+   "hp_add": 2630,
+   "attack_add": 526,
+   "defence_add": 165,
+   "speed_add": 35,
+   "set_pool": [
+    [
+     [
+      1,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      6,
+      100
+     ]
+    ],
+    [
+     [
+      8,
+      100
+     ]
+    ],
+    [
+     [
+      34,
+      100
+     ]
+    ],
+    [
+     [
+      30,
+      100
+     ]
+    ],
+    [
+     [
+      19,
+      100
+     ]
+    ],
+    [
+     [
+      40,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54131,
+   "combine_star": 52,
+   "deduplication": [
+    30,
+    34,
+    40
+   ],
+   "type": 1,
+   "has_extra_exp": false,
+   "imprint_id": 54135
+  },
+  "54135": {
+   "id": 54135,
+   "hp_add": 2922,
+   "attack_add": 584,
+   "defence_add": 183,
+   "speed_add": 40,
+   "set_pool": [
+    [
+     [
+      1,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      6,
+      100
+     ]
+    ],
+    [
+     [
+      8,
+      100
+     ]
+    ],
+    [
+     [
+      34,
+      100
+     ]
+    ],
+    [
+     [
+      30,
+      100
+     ]
+    ],
+    [
+     [
+      19,
+      100
+     ]
+    ],
+    [
+     [
+      40,
+      100
+     ],
+     [
+      61,
+      100
+     ]
+    ],
+    [
+     [
+      64,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54131,
+   "combine_star": 53,
+   "deduplication": [
+    30,
+    34,
+    40
+   ],
+   "type": 1,
+   "has_extra_exp": false,
+   "imprint_id": 54135
+  },
+  "54141": {
+   "id": 54141,
+   "hp_add": 1572,
+   "attack_add": 109,
+   "defence_add": 131,
+   "speed_add": 16,
+   "set_pool": [
+    [
+     [
+      2,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      3,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54141,
+   "combine_star": 31,
+   "deduplication": null,
+   "type": 2,
+   "has_extra_exp": false,
+   "imprint_id": 0
+  },
+  "54142": {
+   "id": 54142,
+   "hp_add": 1965,
+   "attack_add": 136,
+   "defence_add": 163,
+   "speed_add": 20,
+   "set_pool": [
+    [
+     [
+      2,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      3,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54141,
+   "combine_star": 32,
+   "deduplication": null,
+   "type": 2,
+   "has_extra_exp": false,
+   "imprint_id": 0
+  },
+  "54151": {
+   "id": 54151,
+   "hp_add": 2888,
+   "attack_add": 480,
+   "defence_add": 163,
+   "speed_add": 35,
+   "set_pool": [
+    [
+     [
+      1,
+      100
+     ]
+    ],
+    [
+     [
+      8,
+      100
+     ]
+    ],
+    [
+     [
+      15,
+      100
+     ]
+    ],
+    [
+     [
+      17,
+      100
+     ]
+    ],
+    [
+     [
+      34,
+      100
+     ]
+    ],
+    [
+     [
+      33,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54151,
+   "combine_star": 52,
+   "deduplication": [
+    33,
+    34
+   ],
+   "type": 1,
+   "has_extra_exp": false,
+   "imprint_id": 54155
+  },
+  "54152": {
+   "id": 54152,
+   "hp_add": 3209,
+   "attack_add": 533,
+   "defence_add": 181,
+   "speed_add": 40,
+   "set_pool": [
+    [
+     [
+      1,
+      100
+     ]
+    ],
+    [
+     [
+      8,
+      100
+     ]
+    ],
+    [
+     [
+      15,
+      100
+     ]
+    ],
+    [
+     [
+      17,
+      100
+     ]
+    ],
+    [
+     [
+      34,
+      100
+     ]
+    ],
+    [
+     [
+      33,
+      100
+     ],
+     [
+      61,
+      100
+     ]
+    ],
+    [
+     [
+      62,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54151,
+   "combine_star": 53,
+   "deduplication": [
+    33,
+    34
+   ],
+   "type": 1,
+   "has_extra_exp": false,
+   "imprint_id": 54155
+  },
+  "54154": {
+   "id": 54154,
+   "hp_add": 2888,
+   "attack_add": 480,
+   "defence_add": 163,
+   "speed_add": 35,
+   "set_pool": [
+    [
+     [
+      1,
+      100
+     ]
+    ],
+    [
+     [
+      8,
+      100
+     ]
+    ],
+    [
+     [
+      15,
+      100
+     ]
+    ],
+    [
+     [
+      17,
+      100
+     ]
+    ],
+    [
+     [
+      34,
+      100
+     ]
+    ],
+    [
+     [
+      33,
+      100
+     ]
+    ],
+    [
+     [
+      19,
+      100
+     ]
+    ],
+    [
+     [
+      39,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54151,
+   "combine_star": 52,
+   "deduplication": [
+    33,
+    34,
+    39
+   ],
+   "type": 1,
+   "has_extra_exp": false,
+   "imprint_id": 54155
+  },
+  "54155": {
+   "id": 54155,
+   "hp_add": 3209,
+   "attack_add": 533,
+   "defence_add": 181,
+   "speed_add": 40,
+   "set_pool": [
+    [
+     [
+      1,
+      100
+     ]
+    ],
+    [
+     [
+      8,
+      100
+     ]
+    ],
+    [
+     [
+      15,
+      100
+     ]
+    ],
+    [
+     [
+      17,
+      100
+     ]
+    ],
+    [
+     [
+      34,
+      100
+     ]
+    ],
+    [
+     [
+      33,
+      100
+     ]
+    ],
+    [
+     [
+      19,
+      100
+     ]
+    ],
+    [
+     [
+      39,
+      100
+     ],
+     [
+      61,
+      100
+     ]
+    ],
+    [
+     [
+      62,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54151,
+   "combine_star": 53,
+   "deduplication": [
+    33,
+    34,
+    39
+   ],
+   "type": 1,
+   "has_extra_exp": false,
+   "imprint_id": 54155
+  },
+  "54161": {
+   "id": 54161,
+   "hp_add": 2888,
+   "attack_add": 228,
+   "defence_add": 225,
+   "speed_add": 30,
+   "set_pool": [
+    [
+     [
+      3,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      8,
+      100
+     ]
+    ],
+    [
+     [
+      5,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54161,
+   "combine_star": 42,
+   "deduplication": null,
+   "type": 2,
+   "has_extra_exp": false,
+   "imprint_id": 0
+  },
+  "54171": {
+   "id": 54171,
+   "hp_add": 5724,
+   "attack_add": 309,
+   "defence_add": 122,
+   "speed_add": 35,
+   "set_pool": [
+    [
+     [
+      2,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      10,
+      100
+     ]
+    ],
+    [
+     [
+      5,
+      100
+     ]
+    ],
+    [
+     [
+      33,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54171,
+   "combine_star": 52,
+   "deduplication": [
+    32,
+    33
+   ],
+   "type": 4,
+   "has_extra_exp": false,
+   "imprint_id": 54175
+  },
+  "54172": {
+   "id": 54172,
+   "hp_add": 6360,
+   "attack_add": 344,
+   "defence_add": 136,
+   "speed_add": 40,
+   "set_pool": [
+    [
+     [
+      2,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      10,
+      100
+     ]
+    ],
+    [
+     [
+      5,
+      100
+     ]
+    ],
+    [
+     [
+      33,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ],
+     [
+      63,
+      100
+     ]
+    ],
+    [
+     [
+      66,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54171,
+   "combine_star": 53,
+   "deduplication": [
+    32,
+    33
+   ],
+   "type": 4,
+   "has_extra_exp": false,
+   "imprint_id": 54175
+  },
+  "54174": {
+   "id": 54174,
+   "hp_add": 5724,
+   "attack_add": 309,
+   "defence_add": 122,
+   "speed_add": 35,
+   "set_pool": [
+    [
+     [
+      2,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      10,
+      100
+     ]
+    ],
+    [
+     [
+      5,
+      100
+     ]
+    ],
+    [
+     [
+      33,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ]
+    ],
+    [
+     [
+      21,
+      100
+     ]
+    ],
+    [
+     [
+      39,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54171,
+   "combine_star": 52,
+   "deduplication": [
+    32,
+    33,
+    39
+   ],
+   "type": 4,
+   "has_extra_exp": false,
+   "imprint_id": 54175
+  },
+  "54175": {
+   "id": 54175,
+   "hp_add": 6360,
+   "attack_add": 344,
+   "defence_add": 136,
+   "speed_add": 40,
+   "set_pool": [
+    [
+     [
+      2,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      10,
+      100
+     ]
+    ],
+    [
+     [
+      5,
+      100
+     ]
+    ],
+    [
+     [
+      33,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ]
+    ],
+    [
+     [
+      21,
+      100
+     ]
+    ],
+    [
+     [
+      39,
+      100
+     ],
+     [
+      63,
+      100
+     ]
+    ],
+    [
+     [
+      66,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54171,
+   "combine_star": 53,
+   "deduplication": [
+    32,
+    33,
+    39
+   ],
+   "type": 4,
+   "has_extra_exp": false,
+   "imprint_id": 54175
+  },
+  "54181": {
+   "id": 54181,
+   "hp_add": 3129,
+   "attack_add": 180,
+   "defence_add": 257,
+   "speed_add": 30,
+   "set_pool": [
+    [
+     [
+      3,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      10,
+      100
+     ]
+    ],
+    [
+     [
+      8,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54181,
+   "combine_star": 42,
+   "deduplication": null,
+   "type": 2,
+   "has_extra_exp": false,
+   "imprint_id": 0
+  },
+  "54191": {
+   "id": 54191,
+   "hp_add": 877,
+   "attack_add": 186,
+   "defence_add": 52,
+   "speed_add": 13,
+   "set_pool": [
+    [
+     [
+      1,
+      200
+     ]
+    ]
+   ],
+   "unit_id": 54191,
+   "combine_star": 21,
+   "deduplication": null,
+   "type": 1,
+   "has_extra_exp": false,
+   "imprint_id": 0
+  },
+  "54196": {
+   "id": 54196,
+   "hp_add": 877,
+   "attack_add": 186,
+   "defence_add": 52,
+   "speed_add": 13,
+   "set_pool": [
+    [
+     [
+      1,
+      200
+     ]
+    ]
+   ],
+   "unit_id": 54196,
+   "combine_star": 21,
+   "deduplication": null,
+   "type": 1,
+   "has_extra_exp": false,
+   "imprint_id": 0
+  },
+  "54201": {
+   "id": 54201,
+   "hp_add": 1616,
+   "attack_add": 117,
+   "defence_add": 43,
+   "speed_add": 13,
+   "set_pool": [
+    [
+     [
+      2,
+      200
+     ]
+    ]
+   ],
+   "unit_id": 54201,
+   "combine_star": 21,
+   "deduplication": null,
+   "type": 4,
+   "has_extra_exp": false,
+   "imprint_id": 0
+  },
+  "54206": {
+   "id": 54206,
+   "hp_add": 1616,
+   "attack_add": 117,
+   "defence_add": 43,
+   "speed_add": 13,
+   "set_pool": [
+    [
+     [
+      2,
+      200
+     ]
+    ]
+   ],
+   "unit_id": 54206,
+   "combine_star": 21,
+   "deduplication": null,
+   "type": 4,
+   "has_extra_exp": false,
+   "imprint_id": 0
+  },
+  "54211": {
+   "id": 54211,
+   "hp_add": 1771,
+   "attack_add": 108,
+   "defence_add": 42,
+   "speed_add": 13,
+   "set_pool": [
+    [
+     [
+      2,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54211,
+   "combine_star": 21,
+   "deduplication": null,
+   "type": 4,
+   "has_extra_exp": false,
+   "imprint_id": 0
+  },
+  "54216": {
+   "id": 54216,
+   "hp_add": 1771,
+   "attack_add": 108,
+   "defence_add": 42,
+   "speed_add": 13,
+   "set_pool": [
+    [
+     [
+      2,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54216,
+   "combine_star": 21,
+   "deduplication": null,
+   "type": 4,
+   "has_extra_exp": false,
+   "imprint_id": 0
+  },
+  "54221": {
+   "id": 54221,
+   "hp_add": 3187,
+   "attack_add": 196,
+   "defence_add": 351,
+   "speed_add": 35,
+   "set_pool": [
+    [
+     [
+      2,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      8,
+      100
+     ]
+    ],
+    [
+     [
+      12,
+      100
+     ]
+    ],
+    [
+     [
+      33,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54221,
+   "combine_star": 52,
+   "deduplication": [
+    32,
+    33
+   ],
+   "type": 3,
+   "has_extra_exp": false,
+   "imprint_id": 54225
+  },
+  "54222": {
+   "id": 54222,
+   "hp_add": 3541,
+   "attack_add": 218,
+   "defence_add": 390,
+   "speed_add": 40,
+   "set_pool": [
+    [
+     [
+      2,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      8,
+      100
+     ]
+    ],
+    [
+     [
+      12,
+      100
+     ]
+    ],
+    [
+     [
+      33,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ],
+     [
+      63,
+      100
+     ]
+    ],
+    [
+     [
+      65,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54221,
+   "combine_star": 53,
+   "deduplication": [
+    32,
+    33
+   ],
+   "type": 3,
+   "has_extra_exp": false,
+   "imprint_id": 54225
+  },
+  "54224": {
+   "id": 54224,
+   "hp_add": 3187,
+   "attack_add": 196,
+   "defence_add": 351,
+   "speed_add": 35,
+   "set_pool": [
+    [
+     [
+      2,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      8,
+      100
+     ]
+    ],
+    [
+     [
+      12,
+      100
+     ]
+    ],
+    [
+     [
+      33,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ]
+    ],
+    [
+     [
+      18,
+      100
+     ]
+    ],
+    [
+     [
+      39,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54221,
+   "combine_star": 52,
+   "deduplication": [
+    32,
+    33,
+    39
+   ],
+   "type": 3,
+   "has_extra_exp": false,
+   "imprint_id": 54225
+  },
+  "54225": {
+   "id": 54225,
+   "hp_add": 3541,
+   "attack_add": 218,
+   "defence_add": 390,
+   "speed_add": 40,
+   "set_pool": [
+    [
+     [
+      2,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      8,
+      100
+     ]
+    ],
+    [
+     [
+      12,
+      100
+     ]
+    ],
+    [
+     [
+      33,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ]
+    ],
+    [
+     [
+      18,
+      100
+     ]
+    ],
+    [
+     [
+      39,
+      100
+     ],
+     [
+      63,
+      100
+     ]
+    ],
+    [
+     [
+      65,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54221,
+   "combine_star": 53,
+   "deduplication": [
+    32,
+    33,
+    39
+   ],
+   "type": 3,
+   "has_extra_exp": false,
+   "imprint_id": 54225
+  },
+  "54231": {
+   "id": 54231,
+   "hp_add": 4684,
+   "attack_add": 276,
+   "defence_add": 96,
+   "speed_add": 30,
+   "set_pool": [
+    [
+     [
+      2,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      10,
+      100
+     ]
+    ],
+    [
+     [
+      5,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54231,
+   "combine_star": 42,
+   "deduplication": null,
+   "type": 4,
+   "has_extra_exp": false,
+   "imprint_id": 0
+  },
+  "54241": {
+   "id": 54241,
+   "hp_add": 4007,
+   "attack_add": 242,
+   "defence_add": 261,
+   "speed_add": 35,
+   "set_pool": [
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      12,
+      100
+     ]
+    ],
+    [
+     [
+      17,
+      100
+     ]
+    ],
+    [
+     [
+      5,
+      100
+     ]
+    ],
+    [
+     [
+      30,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54241,
+   "combine_star": 52,
+   "deduplication": [
+    30,
+    32
+   ],
+   "type": 2,
+   "has_extra_exp": false,
+   "imprint_id": 54245
+  },
+  "54242": {
+   "id": 54242,
+   "hp_add": 4452,
+   "attack_add": 269,
+   "defence_add": 290,
+   "speed_add": 40,
+   "set_pool": [
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      12,
+      100
+     ]
+    ],
+    [
+     [
+      17,
+      100
+     ]
+    ],
+    [
+     [
+      5,
+      100
+     ]
+    ],
+    [
+     [
+      30,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ],
+     [
+      64,
+      100
+     ]
+    ],
+    [
+     [
+      65,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54241,
+   "combine_star": 53,
+   "deduplication": [
+    30,
+    32
+   ],
+   "type": 2,
+   "has_extra_exp": false,
+   "imprint_id": 54245
+  },
+  "54244": {
+   "id": 54244,
+   "hp_add": 4007,
+   "attack_add": 242,
+   "defence_add": 261,
+   "speed_add": 35,
+   "set_pool": [
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      12,
+      100
+     ]
+    ],
+    [
+     [
+      17,
+      100
+     ]
+    ],
+    [
+     [
+      5,
+      100
+     ]
+    ],
+    [
+     [
+      30,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ]
+    ],
+    [
+     [
+      20,
+      100
+     ]
+    ],
+    [
+     [
+      39,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54241,
+   "combine_star": 52,
+   "deduplication": [
+    30,
+    32,
+    39
+   ],
+   "type": 2,
+   "has_extra_exp": false,
+   "imprint_id": 54245
+  },
+  "54245": {
+   "id": 54245,
+   "hp_add": 4452,
+   "attack_add": 269,
+   "defence_add": 290,
+   "speed_add": 40,
+   "set_pool": [
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      12,
+      100
+     ]
+    ],
+    [
+     [
+      17,
+      100
+     ]
+    ],
+    [
+     [
+      5,
+      100
+     ]
+    ],
+    [
+     [
+      30,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ]
+    ],
+    [
+     [
+      20,
+      100
+     ]
+    ],
+    [
+     [
+      39,
+      100
+     ],
+     [
+      64,
+      100
+     ]
+    ],
+    [
+     [
+      65,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54241,
+   "combine_star": 53,
+   "deduplication": [
+    30,
+    32,
+    39
+   ],
+   "type": 2,
+   "has_extra_exp": false,
+   "imprint_id": 54245
+  },
+  "54251": {
+   "id": 54251,
+   "hp_add": 1998,
+   "attack_add": 486,
+   "defence_add": 135,
+   "speed_add": 30,
+   "set_pool": [
+    [
+     [
+      1,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      15,
+      100
+     ]
+    ],
+    [
+     [
+      6,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54251,
+   "combine_star": 42,
+   "deduplication": null,
+   "type": 1,
+   "has_extra_exp": false,
+   "imprint_id": 0
+  },
+  "54261": {
+   "id": 54261,
+   "hp_add": 3399,
+   "attack_add": 193,
+   "defence_add": 222,
+   "speed_add": 30,
+   "set_pool": [
+    [
+     [
+      2,
+      100
+     ]
+    ],
+    [
+     [
+      3,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      8,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54261,
+   "combine_star": 42,
+   "deduplication": null,
+   "type": 2,
+   "has_extra_exp": false,
+   "imprint_id": 0
+  },
+  "54271": {
+   "id": 54271,
+   "hp_add": 1008,
+   "attack_add": 254,
+   "defence_add": 77,
+   "speed_add": 16,
+   "set_pool": [
+    [
+     [
+      1,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54271,
+   "combine_star": 31,
+   "deduplication": null,
+   "type": 1,
+   "has_extra_exp": false,
+   "imprint_id": 0
+  },
+  "54272": {
+   "id": 54272,
+   "hp_add": 1261,
+   "attack_add": 318,
+   "defence_add": 96,
+   "speed_add": 20,
+   "set_pool": [
+    [
+     [
+      1,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54271,
+   "combine_star": 32,
+   "deduplication": null,
+   "type": 1,
+   "has_extra_exp": false,
+   "imprint_id": 0
+  },
+  "54281": {
+   "id": 54281,
+   "hp_add": 2430,
+   "attack_add": 139,
+   "defence_add": 57,
+   "speed_add": 16,
+   "set_pool": [
+    [
+     [
+      1,
+      100
+     ]
+    ],
+    [
+     [
+      2,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54281,
+   "combine_star": 31,
+   "deduplication": null,
+   "type": 4,
+   "has_extra_exp": false,
+   "imprint_id": 0
+  },
+  "54282": {
+   "id": 54282,
+   "hp_add": 3037,
+   "attack_add": 174,
+   "defence_add": 71,
+   "speed_add": 20,
+   "set_pool": [
+    [
+     [
+      1,
+      100
+     ]
+    ],
+    [
+     [
+      2,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54281,
+   "combine_star": 32,
+   "deduplication": null,
+   "type": 4,
+   "has_extra_exp": false,
+   "imprint_id": 0
+  },
+  "54291": {
+   "id": 54291,
+   "hp_add": 949,
+   "attack_add": 73,
+   "defence_add": 117,
+   "speed_add": 13,
+   "set_pool": [
+    [
+     [
+      1,
+      100
+     ]
+    ],
+    [
+     [
+      2,
+      100
+     ]
+    ],
+    [
+     [
+      3,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54291,
+   "combine_star": 42,
+   "deduplication": null,
+   "type": 2,
+   "has_extra_exp": true,
+   "imprint_id": 0
+  },
+  "54301": {
+   "id": 54301,
+   "hp_add": 1123,
+   "attack_add": 236,
+   "defence_add": 76,
+   "speed_add": 16,
+   "set_pool": [
+    [
+     [
+      1,
+      100
+     ]
+    ],
+    [
+     [
+      10,
+      100
+     ]
+    ],
+    [
+     [
+      15,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54301,
+   "combine_star": 31,
+   "deduplication": null,
+   "type": 1,
+   "has_extra_exp": false,
+   "imprint_id": 0
+  },
+  "54302": {
+   "id": 54302,
+   "hp_add": 1404,
+   "attack_add": 295,
+   "defence_add": 95,
+   "speed_add": 20,
+   "set_pool": [
+    [
+     [
+      1,
+      100
+     ]
+    ],
+    [
+     [
+      10,
+      100
+     ]
+    ],
+    [
+     [
+      15,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54301,
+   "combine_star": 32,
+   "deduplication": null,
+   "type": 1,
+   "has_extra_exp": false,
+   "imprint_id": 0
+  },
+  "54311": {
+   "id": 54311,
+   "hp_add": 834,
+   "attack_add": 180,
+   "defence_add": 56,
+   "speed_add": 13,
+   "set_pool": [
+    [
+     [
+      1,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54311,
+   "combine_star": 21,
+   "deduplication": null,
+   "type": 1,
+   "has_extra_exp": false,
+   "imprint_id": 0
+  },
+  "54316": {
+   "id": 54316,
+   "hp_add": 834,
+   "attack_add": 180,
+   "defence_add": 56,
+   "speed_add": 13,
+   "set_pool": [
+    [
+     [
+      1,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54316,
+   "combine_star": 21,
+   "deduplication": null,
+   "type": 1,
+   "has_extra_exp": false,
+   "imprint_id": 0
+  },
+  "54321": {
+   "id": 54321,
+   "hp_add": 1701,
+   "attack_add": 101,
+   "defence_add": 130,
+   "speed_add": 16,
+   "set_pool": [
+    [
+     [
+      3,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54321,
+   "combine_star": 31,
+   "deduplication": null,
+   "type": 2,
+   "has_extra_exp": false,
+   "imprint_id": 0
+  },
+  "54322": {
+   "id": 54322,
+   "hp_add": 2126,
+   "attack_add": 126,
+   "defence_add": 162,
+   "speed_add": 20,
+   "set_pool": [
+    [
+     [
+      3,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54321,
+   "combine_star": 32,
+   "deduplication": null,
+   "type": 2,
+   "has_extra_exp": false,
+   "imprint_id": 0
+  },
+  "54331": {
+   "id": 54331,
+   "hp_add": 2475,
+   "attack_add": 140,
+   "defence_add": 55,
+   "speed_add": 16,
+   "set_pool": [
+    [
+     [
+      2,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      10,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54331,
+   "combine_star": 31,
+   "deduplication": null,
+   "type": 4,
+   "has_extra_exp": false,
+   "imprint_id": 0
+  },
+  "54332": {
+   "id": 54332,
+   "hp_add": 3094,
+   "attack_add": 175,
+   "defence_add": 69,
+   "speed_add": 20,
+   "set_pool": [
+    [
+     [
+      2,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      10,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54331,
+   "combine_star": 32,
+   "deduplication": null,
+   "type": 4,
+   "has_extra_exp": false,
+   "imprint_id": 0
+  },
+  "54341": {
+   "id": 54341,
+   "hp_add": 1934,
+   "attack_add": 477,
+   "defence_add": 142,
+   "speed_add": 30,
+   "set_pool": [
+    [
+     [
+      1,
+      100
+     ]
+    ],
+    [
+     [
+      5,
+      100
+     ]
+    ],
+    [
+     [
+      17,
+      100
+     ]
+    ],
+    [
+     [
+      15,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54341,
+   "combine_star": 42,
+   "deduplication": null,
+   "type": 1,
+   "has_extra_exp": false,
+   "imprint_id": 0
+  },
+  "54351": {
+   "id": 54351,
+   "hp_add": 1146,
+   "attack_add": 241,
+   "defence_add": 73,
+   "speed_add": 16,
+   "set_pool": [
+    [
+     [
+      1,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      15,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54351,
+   "combine_star": 31,
+   "deduplication": null,
+   "type": 1,
+   "has_extra_exp": false,
+   "imprint_id": 0
+  },
+  "54352": {
+   "id": 54352,
+   "hp_add": 1433,
+   "attack_add": 301,
+   "defence_add": 91,
+   "speed_add": 20,
+   "set_pool": [
+    [
+     [
+      1,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      15,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54351,
+   "combine_star": 32,
+   "deduplication": null,
+   "type": 1,
+   "has_extra_exp": false,
+   "imprint_id": 0
+  },
+  "54361": {
+   "id": 54361,
+   "hp_add": 2398,
+   "attack_add": 593,
+   "defence_add": 158,
+   "speed_add": 35,
+   "set_pool": [
+    [
+     [
+      1,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      15,
+      100
+     ]
+    ],
+    [
+     [
+      17,
+      100
+     ]
+    ],
+    [
+     [
+      34,
+      100
+     ]
+    ],
+    [
+     [
+      30,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54361,
+   "combine_star": 52,
+   "deduplication": [
+    30,
+    34
+   ],
+   "type": 1,
+   "has_extra_exp": false,
+   "imprint_id": 54365
+  },
+  "54362": {
+   "id": 54362,
+   "hp_add": 2664,
+   "attack_add": 659,
+   "defence_add": 176,
+   "speed_add": 40,
+   "set_pool": [
+    [
+     [
+      1,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      15,
+      100
+     ]
+    ],
+    [
+     [
+      17,
+      100
+     ]
+    ],
+    [
+     [
+      34,
+      100
+     ]
+    ],
+    [
+     [
+      30,
+      100
+     ],
+     [
+      61,
+      100
+     ]
+    ],
+    [
+     [
+      64,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54361,
+   "combine_star": 53,
+   "deduplication": [
+    30,
+    34
+   ],
+   "type": 1,
+   "has_extra_exp": false,
+   "imprint_id": 54365
+  },
+  "54364": {
+   "id": 54364,
+   "hp_add": 2398,
+   "attack_add": 593,
+   "defence_add": 158,
+   "speed_add": 35,
+   "set_pool": [
+    [
+     [
+      1,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      15,
+      100
+     ]
+    ],
+    [
+     [
+      17,
+      100
+     ]
+    ],
+    [
+     [
+      34,
+      100
+     ]
+    ],
+    [
+     [
+      30,
+      100
+     ]
+    ],
+    [
+     [
+      19,
+      100
+     ]
+    ],
+    [
+     [
+      40,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54361,
+   "combine_star": 52,
+   "deduplication": [
+    30,
+    34,
+    40
+   ],
+   "type": 1,
+   "has_extra_exp": false,
+   "imprint_id": 54365
+  },
+  "54365": {
+   "id": 54365,
+   "hp_add": 2664,
+   "attack_add": 659,
+   "defence_add": 176,
+   "speed_add": 40,
+   "set_pool": [
+    [
+     [
+      1,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      15,
+      100
+     ]
+    ],
+    [
+     [
+      17,
+      100
+     ]
+    ],
+    [
+     [
+      34,
+      100
+     ]
+    ],
+    [
+     [
+      30,
+      100
+     ]
+    ],
+    [
+     [
+      19,
+      100
+     ]
+    ],
+    [
+     [
+      40,
+      100
+     ],
+     [
+      61,
+      100
+     ]
+    ],
+    [
+     [
+      64,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54361,
+   "combine_star": 53,
+   "deduplication": [
+    30,
+    34,
+    40
+   ],
+   "type": 1,
+   "has_extra_exp": false,
+   "imprint_id": 54365
+  },
+  "54371": {
+   "id": 54371,
+   "hp_add": 3574,
+   "attack_add": 240,
+   "defence_add": 297,
+   "speed_add": 35,
+   "set_pool": [
+    [
+     [
+      2,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      10,
+      100
+     ]
+    ],
+    [
+     [
+      12,
+      100
+     ]
+    ],
+    [
+     [
+      33,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54371,
+   "combine_star": 52,
+   "deduplication": [
+    32,
+    33
+   ],
+   "type": 3,
+   "has_extra_exp": false,
+   "imprint_id": 54375
+  },
+  "54372": {
+   "id": 54372,
+   "hp_add": 3971,
+   "attack_add": 266,
+   "defence_add": 330,
+   "speed_add": 40,
+   "set_pool": [
+    [
+     [
+      2,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      10,
+      100
+     ]
+    ],
+    [
+     [
+      12,
+      100
+     ]
+    ],
+    [
+     [
+      33,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ],
+     [
+      62,
+      100
+     ]
+    ],
+    [
+     [
+      66,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54371,
+   "combine_star": 53,
+   "deduplication": [
+    32,
+    33
+   ],
+   "type": 3,
+   "has_extra_exp": false,
+   "imprint_id": 54375
+  },
+  "54374": {
+   "id": 54374,
+   "hp_add": 3574,
+   "attack_add": 240,
+   "defence_add": 297,
+   "speed_add": 35,
+   "set_pool": [
+    [
+     [
+      2,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      10,
+      100
+     ]
+    ],
+    [
+     [
+      12,
+      100
+     ]
+    ],
+    [
+     [
+      33,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ]
+    ],
+    [
+     [
+      21,
+      100
+     ]
+    ],
+    [
+     [
+      39,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54371,
+   "combine_star": 52,
+   "deduplication": [
+    32,
+    33,
+    39
+   ],
+   "type": 3,
+   "has_extra_exp": false,
+   "imprint_id": 54375
+  },
+  "54375": {
+   "id": 54375,
+   "hp_add": 3971,
+   "attack_add": 266,
+   "defence_add": 330,
+   "speed_add": 40,
+   "set_pool": [
+    [
+     [
+      2,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      10,
+      100
+     ]
+    ],
+    [
+     [
+      12,
+      100
+     ]
+    ],
+    [
+     [
+      33,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ]
+    ],
+    [
+     [
+      21,
+      100
+     ]
+    ],
+    [
+     [
+      39,
+      100
+     ],
+     [
+      62,
+      100
+     ]
+    ],
+    [
+     [
+      66,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54371,
+   "combine_star": 53,
+   "deduplication": [
+    32,
+    33,
+    39
+   ],
+   "type": 3,
+   "has_extra_exp": false,
+   "imprint_id": 54375
+  },
+  "54381": {
+   "id": 54381,
+   "hp_add": 1733,
+   "attack_add": 109,
+   "defence_add": 119,
+   "speed_add": 16,
+   "set_pool": [
+    [
+     [
+      3,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      10,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54381,
+   "combine_star": 31,
+   "deduplication": null,
+   "type": 2,
+   "has_extra_exp": false,
+   "imprint_id": 0
+  },
+  "54382": {
+   "id": 54382,
+   "hp_add": 2166,
+   "attack_add": 136,
+   "defence_add": 148,
+   "speed_add": 20,
+   "set_pool": [
+    [
+     [
+      3,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      10,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54381,
+   "combine_star": 32,
+   "deduplication": null,
+   "type": 2,
+   "has_extra_exp": false,
+   "imprint_id": 0
+  },
+  "54391": {
+   "id": 54391,
+   "hp_add": 2501,
+   "attack_add": 156,
+   "defence_add": 321,
+   "speed_add": 30,
+   "set_pool": [
+    [
+     [
+      3,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      8,
+      100
+     ]
+    ],
+    [
+     [
+      12,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54391,
+   "combine_star": 42,
+   "deduplication": null,
+   "type": 3,
+   "has_extra_exp": false,
+   "imprint_id": 0
+  },
+  "54401": {
+   "id": 54401,
+   "hp_add": 3156,
+   "attack_add": 167,
+   "defence_add": 402,
+   "speed_add": 35,
+   "set_pool": [
+    [
+     [
+      3,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      12,
+      100
+     ]
+    ],
+    [
+     [
+      8,
+      100
+     ]
+    ],
+    [
+     [
+      33,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54401,
+   "combine_star": 52,
+   "deduplication": [
+    32,
+    33
+   ],
+   "type": 2,
+   "has_extra_exp": false,
+   "imprint_id": 54405
+  },
+  "54402": {
+   "id": 54402,
+   "hp_add": 3507,
+   "attack_add": 186,
+   "defence_add": 447,
+   "speed_add": 40,
+   "set_pool": [
+    [
+     [
+      3,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      12,
+      100
+     ]
+    ],
+    [
+     [
+      8,
+      100
+     ]
+    ],
+    [
+     [
+      33,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ],
+     [
+      63,
+      100
+     ]
+    ],
+    [
+     [
+      62,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54401,
+   "combine_star": 53,
+   "deduplication": [
+    32,
+    33
+   ],
+   "type": 2,
+   "has_extra_exp": false,
+   "imprint_id": 54405
+  },
+  "54404": {
+   "id": 54404,
+   "hp_add": 3156,
+   "attack_add": 167,
+   "defence_add": 402,
+   "speed_add": 35,
+   "set_pool": [
+    [
+     [
+      3,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      12,
+      100
+     ]
+    ],
+    [
+     [
+      8,
+      100
+     ]
+    ],
+    [
+     [
+      33,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ]
+    ],
+    [
+     [
+      18,
+      100
+     ]
+    ],
+    [
+     [
+      39,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54401,
+   "combine_star": 52,
+   "deduplication": [
+    32,
+    33,
+    39
+   ],
+   "type": 2,
+   "has_extra_exp": false,
+   "imprint_id": 54405
+  },
+  "54405": {
+   "id": 54405,
+   "hp_add": 3507,
+   "attack_add": 186,
+   "defence_add": 447,
+   "speed_add": 40,
+   "set_pool": [
+    [
+     [
+      3,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      12,
+      100
+     ]
+    ],
+    [
+     [
+      8,
+      100
+     ]
+    ],
+    [
+     [
+      33,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ]
+    ],
+    [
+     [
+      18,
+      100
+     ]
+    ],
+    [
+     [
+      39,
+      100
+     ],
+     [
+      63,
+      100
+     ]
+    ],
+    [
+     [
+      62,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54401,
+   "combine_star": 53,
+   "deduplication": [
+    32,
+    33,
+    39
+   ],
+   "type": 2,
+   "has_extra_exp": false,
+   "imprint_id": 54405
+  },
+  "54411": {
+   "id": 54411,
+   "hp_add": 3249,
+   "attack_add": 266,
+   "defence_add": 294,
+   "speed_add": 35,
+   "set_pool": [
+    [
+     [
+      3,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      12,
+      100
+     ]
+    ],
+    [
+     [
+      5,
+      100
+     ]
+    ],
+    [
+     [
+      33,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54411,
+   "combine_star": 52,
+   "deduplication": [
+    33,
+    32
+   ],
+   "type": 2,
+   "has_extra_exp": false,
+   "imprint_id": 54415
+  },
+  "54412": {
+   "id": 54412,
+   "hp_add": 3610,
+   "attack_add": 295,
+   "defence_add": 327,
+   "speed_add": 40,
+   "set_pool": [
+    [
+     [
+      3,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      12,
+      100
+     ]
+    ],
+    [
+     [
+      5,
+      100
+     ]
+    ],
+    [
+     [
+      33,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ],
+     [
+      65,
+      100
+     ]
+    ],
+    [
+     [
+      62,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54411,
+   "combine_star": 53,
+   "deduplication": [
+    33,
+    32
+   ],
+   "type": 2,
+   "has_extra_exp": false,
+   "imprint_id": 54415
+  },
+  "54414": {
+   "id": 54414,
+   "hp_add": 3249,
+   "attack_add": 266,
+   "defence_add": 294,
+   "speed_add": 35,
+   "set_pool": [
+    [
+     [
+      3,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      12,
+      100
+     ]
+    ],
+    [
+     [
+      5,
+      100
+     ]
+    ],
+    [
+     [
+      33,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ]
+    ],
+    [
+     [
+      20,
+      100
+     ]
+    ],
+    [
+     [
+      39,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54411,
+   "combine_star": 52,
+   "deduplication": [
+    33,
+    32,
+    39
+   ],
+   "type": 2,
+   "has_extra_exp": false,
+   "imprint_id": 54415
+  },
+  "54415": {
+   "id": 54415,
+   "hp_add": 3610,
+   "attack_add": 295,
+   "defence_add": 327,
+   "speed_add": 40,
+   "set_pool": [
+    [
+     [
+      3,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      12,
+      100
+     ]
+    ],
+    [
+     [
+      5,
+      100
+     ]
+    ],
+    [
+     [
+      33,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ]
+    ],
+    [
+     [
+      20,
+      100
+     ]
+    ],
+    [
+     [
+      39,
+      100
+     ],
+     [
+      65,
+      100
+     ]
+    ],
+    [
+     [
+      62,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54411,
+   "combine_star": 53,
+   "deduplication": [
+    33,
+    32,
+    39
+   ],
+   "type": 2,
+   "has_extra_exp": false,
+   "imprint_id": 54415
+  },
+  "54421": {
+   "id": 54421,
+   "hp_add": 3429,
+   "attack_add": 286,
+   "defence_add": 259,
+   "speed_add": 35,
+   "set_pool": [
+    [
+     [
+      3,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      5,
+      100
+     ]
+    ],
+    [
+     [
+      10,
+      100
+     ]
+    ],
+    [
+     [
+      33,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54421,
+   "combine_star": 52,
+   "deduplication": [
+    33,
+    32
+   ],
+   "type": 2,
+   "has_extra_exp": false,
+   "imprint_id": 54425
+  },
+  "54422": {
+   "id": 54422,
+   "hp_add": 3810,
+   "attack_add": 318,
+   "defence_add": 287,
+   "speed_add": 40,
+   "set_pool": [
+    [
+     [
+      3,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      5,
+      100
+     ]
+    ],
+    [
+     [
+      10,
+      100
+     ]
+    ],
+    [
+     [
+      33,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ],
+     [
+      62,
+      100
+     ]
+    ],
+    [
+     [
+      66,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54421,
+   "combine_star": 53,
+   "deduplication": [
+    33,
+    32
+   ],
+   "type": 2,
+   "has_extra_exp": false,
+   "imprint_id": 54425
+  },
+  "54424": {
+   "id": 54424,
+   "hp_add": 3429,
+   "attack_add": 286,
+   "defence_add": 259,
+   "speed_add": 35,
+   "set_pool": [
+    [
+     [
+      3,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      5,
+      100
+     ]
+    ],
+    [
+     [
+      10,
+      100
+     ]
+    ],
+    [
+     [
+      33,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ]
+    ],
+    [
+     [
+      18,
+      100
+     ]
+    ],
+    [
+     [
+      39,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54421,
+   "combine_star": 52,
+   "deduplication": [
+    33,
+    32,
+    39
+   ],
+   "type": 2,
+   "has_extra_exp": false,
+   "imprint_id": 54425
+  },
+  "54425": {
+   "id": 54425,
+   "hp_add": 3810,
+   "attack_add": 318,
+   "defence_add": 287,
+   "speed_add": 40,
+   "set_pool": [
+    [
+     [
+      3,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      5,
+      100
+     ]
+    ],
+    [
+     [
+      10,
+      100
+     ]
+    ],
+    [
+     [
+      33,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ]
+    ],
+    [
+     [
+      18,
+      100
+     ]
+    ],
+    [
+     [
+      39,
+      100
+     ],
+     [
+      62,
+      100
+     ]
+    ],
+    [
+     [
+      66,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54421,
+   "combine_star": 53,
+   "deduplication": [
+    33,
+    32,
+    39
+   ],
+   "type": 2,
+   "has_extra_exp": false,
+   "imprint_id": 54425
+  },
+  "54431": {
+   "id": 54431,
+   "hp_add": 2630,
+   "attack_add": 547,
+   "defence_add": 158,
+   "speed_add": 35,
+   "set_pool": [
+    [
+     [
+      1,
+      100
+     ]
+    ],
+    [
+     [
+      5,
+      100
+     ]
+    ],
+    [
+     [
+      17,
+      100
+     ]
+    ],
+    [
+     [
+      6,
+      100
+     ]
+    ],
+    [
+     [
+      34,
+      100
+     ]
+    ],
+    [
+     [
+      30,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54431,
+   "combine_star": 52,
+   "deduplication": [
+    30,
+    34
+   ],
+   "type": 1,
+   "has_extra_exp": false,
+   "imprint_id": 54435
+  },
+  "54432": {
+   "id": 54432,
+   "hp_add": 2922,
+   "attack_add": 607,
+   "defence_add": 176,
+   "speed_add": 40,
+   "set_pool": [
+    [
+     [
+      1,
+      100
+     ]
+    ],
+    [
+     [
+      5,
+      100
+     ]
+    ],
+    [
+     [
+      17,
+      100
+     ]
+    ],
+    [
+     [
+      6,
+      100
+     ]
+    ],
+    [
+     [
+      34,
+      100
+     ]
+    ],
+    [
+     [
+      30,
+      100
+     ],
+     [
+      61,
+      100
+     ]
+    ],
+    [
+     [
+      64,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54431,
+   "combine_star": 53,
+   "deduplication": [
+    30,
+    34
+   ],
+   "type": 1,
+   "has_extra_exp": false,
+   "imprint_id": 54435
+  },
+  "54434": {
+   "id": 54434,
+   "hp_add": 2630,
+   "attack_add": 547,
+   "defence_add": 158,
+   "speed_add": 35,
+   "set_pool": [
+    [
+     [
+      1,
+      100
+     ]
+    ],
+    [
+     [
+      5,
+      100
+     ]
+    ],
+    [
+     [
+      17,
+      100
+     ]
+    ],
+    [
+     [
+      6,
+      100
+     ]
+    ],
+    [
+     [
+      34,
+      100
+     ]
+    ],
+    [
+     [
+      30,
+      100
+     ]
+    ],
+    [
+     [
+      19,
+      100
+     ]
+    ],
+    [
+     [
+      40,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54431,
+   "combine_star": 52,
+   "deduplication": [
+    30,
+    34,
+    40
+   ],
+   "type": 1,
+   "has_extra_exp": false,
+   "imprint_id": 54435
+  },
+  "54435": {
+   "id": 54435,
+   "hp_add": 2922,
+   "attack_add": 607,
+   "defence_add": 176,
+   "speed_add": 40,
+   "set_pool": [
+    [
+     [
+      1,
+      100
+     ]
+    ],
+    [
+     [
+      5,
+      100
+     ]
+    ],
+    [
+     [
+      17,
+      100
+     ]
+    ],
+    [
+     [
+      6,
+      100
+     ]
+    ],
+    [
+     [
+      34,
+      100
+     ]
+    ],
+    [
+     [
+      30,
+      100
+     ]
+    ],
+    [
+     [
+      19,
+      100
+     ]
+    ],
+    [
+     [
+      40,
+      100
+     ],
+     [
+      61,
+      100
+     ]
+    ],
+    [
+     [
+      64,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54431,
+   "combine_star": 53,
+   "deduplication": [
+    30,
+    34,
+    40
+   ],
+   "type": 1,
+   "has_extra_exp": false,
+   "imprint_id": 54435
+  },
+  "54441": {
+   "id": 54441,
+   "hp_add": 3280,
+   "attack_add": 182,
+   "defence_add": 364,
+   "speed_add": 35,
+   "set_pool": [
+    [
+     [
+      3,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      12,
+      100
+     ]
+    ],
+    [
+     [
+      8,
+      100
+     ]
+    ],
+    [
+     [
+      33,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54441,
+   "combine_star": 52,
+   "deduplication": [
+    32,
+    33
+   ],
+   "type": 3,
+   "has_extra_exp": false,
+   "imprint_id": 54445
+  },
+  "54442": {
+   "id": 54442,
+   "hp_add": 3644,
+   "attack_add": 202,
+   "defence_add": 405,
+   "speed_add": 40,
+   "set_pool": [
+    [
+     [
+      3,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      12,
+      100
+     ]
+    ],
+    [
+     [
+      8,
+      100
+     ]
+    ],
+    [
+     [
+      33,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ],
+     [
+      63,
+      100
+     ]
+    ],
+    [
+     [
+      65,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54441,
+   "combine_star": 53,
+   "deduplication": [
+    32,
+    33
+   ],
+   "type": 3,
+   "has_extra_exp": false,
+   "imprint_id": 54445
+  },
+  "54444": {
+   "id": 54444,
+   "hp_add": 3280,
+   "attack_add": 182,
+   "defence_add": 364,
+   "speed_add": 35,
+   "set_pool": [
+    [
+     [
+      3,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      12,
+      100
+     ]
+    ],
+    [
+     [
+      8,
+      100
+     ]
+    ],
+    [
+     [
+      33,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ]
+    ],
+    [
+     [
+      18,
+      100
+     ]
+    ],
+    [
+     [
+      39,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54441,
+   "combine_star": 52,
+   "deduplication": [
+    32,
+    33,
+    39
+   ],
+   "type": 3,
+   "has_extra_exp": false,
+   "imprint_id": 54445
+  },
+  "54445": {
+   "id": 54445,
+   "hp_add": 3644,
+   "attack_add": 202,
+   "defence_add": 405,
+   "speed_add": 40,
+   "set_pool": [
+    [
+     [
+      3,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      12,
+      100
+     ]
+    ],
+    [
+     [
+      8,
+      100
+     ]
+    ],
+    [
+     [
+      33,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ]
+    ],
+    [
+     [
+      18,
+      100
+     ]
+    ],
+    [
+     [
+      39,
+      100
+     ],
+     [
+      63,
+      100
+     ]
+    ],
+    [
+     [
+      65,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54441,
+   "combine_star": 53,
+   "deduplication": [
+    32,
+    33,
+    39
+   ],
+   "type": 3,
+   "has_extra_exp": false,
+   "imprint_id": 54445
+  },
+  "54451": {
+   "id": 54451,
+   "hp_add": 4187,
+   "attack_add": 242,
+   "defence_add": 248,
+   "speed_add": 35,
+   "set_pool": [
+    [
+     [
+      2,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      10,
+      100
+     ]
+    ],
+    [
+     [
+      5,
+      100
+     ]
+    ],
+    [
+     [
+      33,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54451,
+   "combine_star": 52,
+   "deduplication": [
+    33,
+    32
+   ],
+   "type": 2,
+   "has_extra_exp": false,
+   "imprint_id": 54455
+  },
+  "54452": {
+   "id": 54452,
+   "hp_add": 4653,
+   "attack_add": 269,
+   "defence_add": 275,
+   "speed_add": 40,
+   "set_pool": [
+    [
+     [
+      2,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      10,
+      100
+     ]
+    ],
+    [
+     [
+      5,
+      100
+     ]
+    ],
+    [
+     [
+      33,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ],
+     [
+      65,
+      100
+     ]
+    ],
+    [
+     [
+      66,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54451,
+   "combine_star": 53,
+   "deduplication": [
+    33,
+    32
+   ],
+   "type": 2,
+   "has_extra_exp": false,
+   "imprint_id": 54455
+  },
+  "54454": {
+   "id": 54454,
+   "hp_add": 4187,
+   "attack_add": 242,
+   "defence_add": 248,
+   "speed_add": 35,
+   "set_pool": [
+    [
+     [
+      2,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      10,
+      100
+     ]
+    ],
+    [
+     [
+      5,
+      100
+     ]
+    ],
+    [
+     [
+      33,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ]
+    ],
+    [
+     [
+      20,
+      100
+     ]
+    ],
+    [
+     [
+      39,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54451,
+   "combine_star": 52,
+   "deduplication": [
+    33,
+    32,
+    39
+   ],
+   "type": 2,
+   "has_extra_exp": false,
+   "imprint_id": 54455
+  },
+  "54455": {
+   "id": 54455,
+   "hp_add": 4653,
+   "attack_add": 269,
+   "defence_add": 275,
+   "speed_add": 40,
+   "set_pool": [
+    [
+     [
+      2,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      10,
+      100
+     ]
+    ],
+    [
+     [
+      5,
+      100
+     ]
+    ],
+    [
+     [
+      33,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ]
+    ],
+    [
+     [
+      20,
+      100
+     ]
+    ],
+    [
+     [
+      39,
+      100
+     ],
+     [
+      65,
+      100
+     ]
+    ],
+    [
+     [
+      66,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54451,
+   "combine_star": 53,
+   "deduplication": [
+    33,
+    32,
+    39
+   ],
+   "type": 2,
+   "has_extra_exp": false,
+   "imprint_id": 54455
+  },
+  "54461": {
+   "id": 54461,
+   "hp_add": 2321,
+   "attack_add": 629,
+   "defence_add": 151,
+   "speed_add": 35,
+   "set_pool": [
+    [
+     [
+      1,
+      100
+     ]
+    ],
+    [
+     [
+      6,
+      100
+     ]
+    ],
+    [
+     [
+      17,
+      100
+     ]
+    ],
+    [
+     [
+      15,
+      100
+     ]
+    ],
+    [
+     [
+      34,
+      100
+     ]
+    ],
+    [
+     [
+      30,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54461,
+   "combine_star": 52,
+   "deduplication": [
+    30,
+    34
+   ],
+   "type": 1,
+   "has_extra_exp": false,
+   "imprint_id": 54465
+  },
+  "54462": {
+   "id": 54462,
+   "hp_add": 2579,
+   "attack_add": 699,
+   "defence_add": 168,
+   "speed_add": 40,
+   "set_pool": [
+    [
+     [
+      1,
+      100
+     ]
+    ],
+    [
+     [
+      6,
+      100
+     ]
+    ],
+    [
+     [
+      17,
+      100
+     ]
+    ],
+    [
+     [
+      15,
+      100
+     ]
+    ],
+    [
+     [
+      34,
+      100
+     ]
+    ],
+    [
+     [
+      30,
+      100
+     ],
+     [
+      61,
+      100
+     ]
+    ],
+    [
+     [
+      64,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54461,
+   "combine_star": 53,
+   "deduplication": [
+    30,
+    34
+   ],
+   "type": 1,
+   "has_extra_exp": false,
+   "imprint_id": 54465
+  },
+  "54464": {
+   "id": 54464,
+   "hp_add": 2321,
+   "attack_add": 629,
+   "defence_add": 151,
+   "speed_add": 35,
+   "set_pool": [
+    [
+     [
+      1,
+      100
+     ]
+    ],
+    [
+     [
+      6,
+      100
+     ]
+    ],
+    [
+     [
+      17,
+      100
+     ]
+    ],
+    [
+     [
+      15,
+      100
+     ]
+    ],
+    [
+     [
+      34,
+      100
+     ]
+    ],
+    [
+     [
+      30,
+      100
+     ]
+    ],
+    [
+     [
+      19,
+      100
+     ]
+    ],
+    [
+     [
+      40,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54461,
+   "combine_star": 52,
+   "deduplication": [
+    30,
+    34,
+    40
+   ],
+   "type": 1,
+   "has_extra_exp": false,
+   "imprint_id": 54465
+  },
+  "54465": {
+   "id": 54465,
+   "hp_add": 2579,
+   "attack_add": 699,
+   "defence_add": 168,
+   "speed_add": 40,
+   "set_pool": [
+    [
+     [
+      1,
+      100
+     ]
+    ],
+    [
+     [
+      6,
+      100
+     ]
+    ],
+    [
+     [
+      17,
+      100
+     ]
+    ],
+    [
+     [
+      15,
+      100
+     ]
+    ],
+    [
+     [
+      34,
+      100
+     ]
+    ],
+    [
+     [
+      30,
+      100
+     ]
+    ],
+    [
+     [
+      19,
+      100
+     ]
+    ],
+    [
+     [
+      40,
+      100
+     ],
+     [
+      61,
+      100
+     ]
+    ],
+    [
+     [
+      64,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54461,
+   "combine_star": 53,
+   "deduplication": [
+    30,
+    34,
+    40
+   ],
+   "type": 1,
+   "has_extra_exp": false,
+   "imprint_id": 54465
+  },
+  "54471": {
+   "id": 54471,
+   "hp_add": 2816,
+   "attack_add": 173,
+   "defence_add": 430,
+   "speed_add": 35,
+   "set_pool": [
+    [
+     [
+      3,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      12,
+      100
+     ]
+    ],
+    [
+     [
+      8,
+      100
+     ]
+    ],
+    [
+     [
+      33,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54471,
+   "combine_star": 52,
+   "deduplication": [
+    32,
+    33
+   ],
+   "type": 3,
+   "has_extra_exp": false,
+   "imprint_id": 54475
+  },
+  "54472": {
+   "id": 54472,
+   "hp_add": 3129,
+   "attack_add": 193,
+   "defence_add": 478,
+   "speed_add": 40,
+   "set_pool": [
+    [
+     [
+      3,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      12,
+      100
+     ]
+    ],
+    [
+     [
+      8,
+      100
+     ]
+    ],
+    [
+     [
+      33,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ],
+     [
+      63,
+      100
+     ]
+    ],
+    [
+     [
+      65,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54471,
+   "combine_star": 53,
+   "deduplication": [
+    32,
+    33
+   ],
+   "type": 3,
+   "has_extra_exp": false,
+   "imprint_id": 54475
+  },
+  "54474": {
+   "id": 54474,
+   "hp_add": 2816,
+   "attack_add": 173,
+   "defence_add": 430,
+   "speed_add": 35,
+   "set_pool": [
+    [
+     [
+      3,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      12,
+      100
+     ]
+    ],
+    [
+     [
+      8,
+      100
+     ]
+    ],
+    [
+     [
+      33,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ]
+    ],
+    [
+     [
+      18,
+      100
+     ]
+    ],
+    [
+     [
+      39,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54471,
+   "combine_star": 52,
+   "deduplication": [
+    32,
+    33,
+    39
+   ],
+   "type": 3,
+   "has_extra_exp": false,
+   "imprint_id": 54475
+  },
+  "54475": {
+   "id": 54475,
+   "hp_add": 3129,
+   "attack_add": 193,
+   "defence_add": 478,
+   "speed_add": 40,
+   "set_pool": [
+    [
+     [
+      3,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      12,
+      100
+     ]
+    ],
+    [
+     [
+      8,
+      100
+     ]
+    ],
+    [
+     [
+      33,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ]
+    ],
+    [
+     [
+      18,
+      100
+     ]
+    ],
+    [
+     [
+      39,
+      100
+     ],
+     [
+      63,
+      100
+     ]
+    ],
+    [
+     [
+      65,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54471,
+   "combine_star": 53,
+   "deduplication": [
+    32,
+    33,
+    39
+   ],
+   "type": 3,
+   "has_extra_exp": false,
+   "imprint_id": 54475
+  },
+  "54481": {
+   "id": 54481,
+   "hp_add": 5570,
+   "attack_add": 266,
+   "defence_add": 146,
+   "speed_add": 35,
+   "set_pool": [
+    [
+     [
+      2,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      10,
+      100
+     ]
+    ],
+    [
+     [
+      12,
+      100
+     ]
+    ],
+    [
+     [
+      33,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54481,
+   "combine_star": 52,
+   "deduplication": [
+    32,
+    33
+   ],
+   "type": 4,
+   "has_extra_exp": false,
+   "imprint_id": 54485
+  },
+  "54482": {
+   "id": 54482,
+   "hp_add": 6188,
+   "attack_add": 296,
+   "defence_add": 162,
+   "speed_add": 40,
+   "set_pool": [
+    [
+     [
+      2,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      10,
+      100
+     ]
+    ],
+    [
+     [
+      12,
+      100
+     ]
+    ],
+    [
+     [
+      33,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ],
+     [
+      63,
+      100
+     ]
+    ],
+    [
+     [
+      66,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54481,
+   "combine_star": 53,
+   "deduplication": [
+    32,
+    33
+   ],
+   "type": 4,
+   "has_extra_exp": false,
+   "imprint_id": 54485
+  },
+  "54484": {
+   "id": 54484,
+   "hp_add": 5570,
+   "attack_add": 266,
+   "defence_add": 146,
+   "speed_add": 35,
+   "set_pool": [
+    [
+     [
+      2,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      10,
+      100
+     ]
+    ],
+    [
+     [
+      12,
+      100
+     ]
+    ],
+    [
+     [
+      33,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ]
+    ],
+    [
+     [
+      21,
+      100
+     ]
+    ],
+    [
+     [
+      39,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54481,
+   "combine_star": 52,
+   "deduplication": [
+    32,
+    33,
+    39
+   ],
+   "type": 4,
+   "has_extra_exp": false,
+   "imprint_id": 54485
+  },
+  "54485": {
+   "id": 54485,
+   "hp_add": 6188,
+   "attack_add": 296,
+   "defence_add": 162,
+   "speed_add": 40,
+   "set_pool": [
+    [
+     [
+      2,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      10,
+      100
+     ]
+    ],
+    [
+     [
+      12,
+      100
+     ]
+    ],
+    [
+     [
+      33,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ]
+    ],
+    [
+     [
+      21,
+      100
+     ]
+    ],
+    [
+     [
+      39,
+      100
+     ],
+     [
+      63,
+      100
+     ]
+    ],
+    [
+     [
+      66,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54481,
+   "combine_star": 53,
+   "deduplication": [
+    32,
+    33,
+    39
+   ],
+   "type": 4,
+   "has_extra_exp": false,
+   "imprint_id": 54485
+  },
+  "54491": {
+   "id": 54491,
+   "hp_add": 3826,
+   "attack_add": 217,
+   "defence_add": 303,
+   "speed_add": 35,
+   "set_pool": [
+    [
+     [
+      2,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      10,
+      100
+     ]
+    ],
+    [
+     [
+      12,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ]
+    ],
+    [
+     [
+      33,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54491,
+   "combine_star": 52,
+   "deduplication": [
+    32,
+    33
+   ],
+   "type": 2,
+   "has_extra_exp": false,
+   "imprint_id": 54495
+  },
+  "54492": {
+   "id": 54492,
+   "hp_add": 4252,
+   "attack_add": 241,
+   "defence_add": 336,
+   "speed_add": 40,
+   "set_pool": [
+    [
+     [
+      2,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      10,
+      100
+     ]
+    ],
+    [
+     [
+      12,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ]
+    ],
+    [
+     [
+      33,
+      100
+     ],
+     [
+      65,
+      100
+     ]
+    ],
+    [
+     [
+      66,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54491,
+   "combine_star": 53,
+   "deduplication": [
+    32,
+    33
+   ],
+   "type": 2,
+   "has_extra_exp": false,
+   "imprint_id": 54495
+  },
+  "54494": {
+   "id": 54494,
+   "hp_add": 3826,
+   "attack_add": 217,
+   "defence_add": 303,
+   "speed_add": 35,
+   "set_pool": [
+    [
+     [
+      2,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      10,
+      100
+     ]
+    ],
+    [
+     [
+      12,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ]
+    ],
+    [
+     [
+      33,
+      100
+     ]
+    ],
+    [
+     [
+      21,
+      100
+     ]
+    ],
+    [
+     [
+      39,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54491,
+   "combine_star": 52,
+   "deduplication": [
+    32,
+    33,
+    39
+   ],
+   "type": 2,
+   "has_extra_exp": false,
+   "imprint_id": 54495
+  },
+  "54495": {
+   "id": 54495,
+   "hp_add": 4252,
+   "attack_add": 241,
+   "defence_add": 336,
+   "speed_add": 40,
+   "set_pool": [
+    [
+     [
+      2,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      10,
+      100
+     ]
+    ],
+    [
+     [
+      12,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ]
+    ],
+    [
+     [
+      33,
+      100
+     ]
+    ],
+    [
+     [
+      21,
+      100
+     ]
+    ],
+    [
+     [
+      39,
+      100
+     ],
+     [
+      65,
+      100
+     ]
+    ],
+    [
+     [
+      66,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54491,
+   "combine_star": 53,
+   "deduplication": [
+    32,
+    33,
+    39
+   ],
+   "type": 2,
+   "has_extra_exp": false,
+   "imprint_id": 54495
+  },
+  "54501": {
+   "id": 54501,
+   "hp_add": 3218,
+   "attack_add": 190,
+   "defence_add": 358,
+   "speed_add": 35,
+   "set_pool": [
+    [
+     [
+      3,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      8,
+      100
+     ]
+    ],
+    [
+     [
+      5,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ]
+    ],
+    [
+     [
+      34,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54501,
+   "combine_star": 52,
+   "deduplication": [
+    32,
+    34
+   ],
+   "type": 3,
+   "has_extra_exp": false,
+   "imprint_id": 54505
+  },
+  "54502": {
+   "id": 54502,
+   "hp_add": 3576,
+   "attack_add": 211,
+   "defence_add": 397,
+   "speed_add": 40,
+   "set_pool": [
+    [
+     [
+      3,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      8,
+      100
+     ]
+    ],
+    [
+     [
+      5,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ]
+    ],
+    [
+     [
+      34,
+      100
+     ],
+     [
+      63,
+      100
+     ]
+    ],
+    [
+     [
+      62,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54501,
+   "combine_star": 53,
+   "deduplication": [
+    32,
+    34
+   ],
+   "type": 3,
+   "has_extra_exp": false,
+   "imprint_id": 54505
+  },
+  "54504": {
+   "id": 54504,
+   "hp_add": 3218,
+   "attack_add": 190,
+   "defence_add": 358,
+   "speed_add": 35,
+   "set_pool": [
+    [
+     [
+      3,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      8,
+      100
+     ]
+    ],
+    [
+     [
+      5,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ]
+    ],
+    [
+     [
+      34,
+      100
+     ]
+    ],
+    [
+     [
+      19,
+      100
+     ]
+    ],
+    [
+     [
+      39,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54501,
+   "combine_star": 52,
+   "deduplication": [
+    32,
+    34,
+    39
+   ],
+   "type": 3,
+   "has_extra_exp": false,
+   "imprint_id": 54505
+  },
+  "54505": {
+   "id": 54505,
+   "hp_add": 3576,
+   "attack_add": 211,
+   "defence_add": 397,
+   "speed_add": 40,
+   "set_pool": [
+    [
+     [
+      3,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      8,
+      100
+     ]
+    ],
+    [
+     [
+      5,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ]
+    ],
+    [
+     [
+      34,
+      100
+     ]
+    ],
+    [
+     [
+      19,
+      100
+     ]
+    ],
+    [
+     [
+      39,
+      100
+     ],
+     [
+      63,
+      100
+     ]
+    ],
+    [
+     [
+      62,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54501,
+   "combine_star": 53,
+   "deduplication": [
+    32,
+    34,
+    39
+   ],
+   "type": 3,
+   "has_extra_exp": false,
+   "imprint_id": 54505
+  },
+  "54511": {
+   "id": 54511,
+   "hp_add": 2579,
+   "attack_add": 547,
+   "defence_add": 162,
+   "speed_add": 35,
+   "set_pool": [
+    [
+     [
+      1,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      6,
+      100
+     ]
+    ],
+    [
+     [
+      17,
+      100
+     ]
+    ],
+    [
+     [
+      30,
+      100
+     ]
+    ],
+    [
+     [
+      34,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54511,
+   "combine_star": 52,
+   "deduplication": [
+    30,
+    34
+   ],
+   "type": 1,
+   "has_extra_exp": false,
+   "imprint_id": 54515
+  },
+  "54512": {
+   "id": 54512,
+   "hp_add": 2865,
+   "attack_add": 607,
+   "defence_add": 180,
+   "speed_add": 40,
+   "set_pool": [
+    [
+     [
+      1,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      6,
+      100
+     ]
+    ],
+    [
+     [
+      17,
+      100
+     ]
+    ],
+    [
+     [
+      30,
+      100
+     ]
+    ],
+    [
+     [
+      34,
+      100
+     ],
+     [
+      61,
+      100
+     ]
+    ],
+    [
+     [
+      64,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54511,
+   "combine_star": 53,
+   "deduplication": [
+    30,
+    34
+   ],
+   "type": 1,
+   "has_extra_exp": false,
+   "imprint_id": 54515
+  },
+  "54514": {
+   "id": 54514,
+   "hp_add": 2579,
+   "attack_add": 547,
+   "defence_add": 162,
+   "speed_add": 35,
+   "set_pool": [
+    [
+     [
+      1,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      6,
+      100
+     ]
+    ],
+    [
+     [
+      17,
+      100
+     ]
+    ],
+    [
+     [
+      30,
+      100
+     ]
+    ],
+    [
+     [
+      34,
+      100
+     ]
+    ],
+    [
+     [
+      20,
+      100
+     ]
+    ],
+    [
+     [
+      40,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54511,
+   "combine_star": 52,
+   "deduplication": [
+    30,
+    34,
+    40
+   ],
+   "type": 1,
+   "has_extra_exp": false,
+   "imprint_id": 54515
+  },
+  "54515": {
+   "id": 54515,
+   "hp_add": 2865,
+   "attack_add": 607,
+   "defence_add": 180,
+   "speed_add": 40,
+   "set_pool": [
+    [
+     [
+      1,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      6,
+      100
+     ]
+    ],
+    [
+     [
+      17,
+      100
+     ]
+    ],
+    [
+     [
+      30,
+      100
+     ]
+    ],
+    [
+     [
+      34,
+      100
+     ]
+    ],
+    [
+     [
+      20,
+      100
+     ]
+    ],
+    [
+     [
+      40,
+      100
+     ],
+     [
+      61,
+      100
+     ]
+    ],
+    [
+     [
+      64,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54511,
+   "combine_star": 53,
+   "deduplication": [
+    30,
+    34,
+    40
+   ],
+   "type": 1,
+   "has_extra_exp": false,
+   "imprint_id": 54515
+  },
+  "54521": {
+   "id": 54521,
+   "hp_add": 2475,
+   "attack_add": 609,
+   "defence_add": 148,
+   "speed_add": 35,
+   "set_pool": [
+    [
+     [
+      1,
+      100
+     ]
+    ],
+    [
+     [
+      17,
+      100
+     ]
+    ],
+    [
+     [
+      15,
+      100
+     ]
+    ],
+    [
+     [
+      5,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ]
+    ],
+    [
+     [
+      34,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54521,
+   "combine_star": 52,
+   "deduplication": [
+    32,
+    34
+   ],
+   "type": 1,
+   "has_extra_exp": false,
+   "imprint_id": 54525
+  },
+  "54522": {
+   "id": 54522,
+   "hp_add": 2750,
+   "attack_add": 676,
+   "defence_add": 164,
+   "speed_add": 40,
+   "set_pool": [
+    [
+     [
+      1,
+      100
+     ]
+    ],
+    [
+     [
+      17,
+      100
+     ]
+    ],
+    [
+     [
+      15,
+      100
+     ]
+    ],
+    [
+     [
+      5,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ]
+    ],
+    [
+     [
+      34,
+      100
+     ],
+     [
+      61,
+      100
+     ]
+    ],
+    [
+     [
+      64,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54521,
+   "combine_star": 53,
+   "deduplication": [
+    32,
+    34
+   ],
+   "type": 1,
+   "has_extra_exp": false,
+   "imprint_id": 54525
+  },
+  "54524": {
+   "id": 54524,
+   "hp_add": 2475,
+   "attack_add": 609,
+   "defence_add": 148,
+   "speed_add": 35,
+   "set_pool": [
+    [
+     [
+      1,
+      100
+     ]
+    ],
+    [
+     [
+      17,
+      100
+     ]
+    ],
+    [
+     [
+      15,
+      100
+     ]
+    ],
+    [
+     [
+      5,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ]
+    ],
+    [
+     [
+      34,
+      100
+     ]
+    ],
+    [
+     [
+      19,
+      100
+     ]
+    ],
+    [
+     [
+      39,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54521,
+   "combine_star": 52,
+   "deduplication": [
+    32,
+    34,
+    39
+   ],
+   "type": 1,
+   "has_extra_exp": false,
+   "imprint_id": 54525
+  },
+  "54525": {
+   "id": 54525,
+   "hp_add": 2750,
+   "attack_add": 676,
+   "defence_add": 164,
+   "speed_add": 40,
+   "set_pool": [
+    [
+     [
+      1,
+      100
+     ]
+    ],
+    [
+     [
+      17,
+      100
+     ]
+    ],
+    [
+     [
+      15,
+      100
+     ]
+    ],
+    [
+     [
+      5,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ]
+    ],
+    [
+     [
+      34,
+      100
+     ]
+    ],
+    [
+     [
+      19,
+      100
+     ]
+    ],
+    [
+     [
+      39,
+      100
+     ],
+     [
+      61,
+      100
+     ]
+    ],
+    [
+     [
+      64,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54521,
+   "combine_star": 53,
+   "deduplication": [
+    32,
+    34,
+    39
+   ],
+   "type": 1,
+   "has_extra_exp": false,
+   "imprint_id": 54525
+  },
+  "54531": {
+   "id": 54531,
+   "hp_add": 3558,
+   "attack_add": 192,
+   "defence_add": 316,
+   "speed_add": 35,
+   "set_pool": [
+    [
+     [
+      2,
+      100
+     ]
+    ],
+    [
+     [
+      12,
+      100
+     ]
+    ],
+    [
+     [
+      8,
+      100
+     ]
+    ],
+    [
+     [
+      5,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ]
+    ],
+    [
+     [
+      34,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54531,
+   "combine_star": 52,
+   "deduplication": [
+    32,
+    34
+   ],
+   "type": 3,
+   "has_extra_exp": false,
+   "imprint_id": 54535
+  },
+  "54532": {
+   "id": 54532,
+   "hp_add": 3954,
+   "attack_add": 213,
+   "defence_add": 351,
+   "speed_add": 40,
+   "set_pool": [
+    [
+     [
+      2,
+      100
+     ]
+    ],
+    [
+     [
+      12,
+      100
+     ]
+    ],
+    [
+     [
+      8,
+      100
+     ]
+    ],
+    [
+     [
+      5,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ]
+    ],
+    [
+     [
+      34,
+      100
+     ],
+     [
+      66,
+      100
+     ]
+    ],
+    [
+     [
+      62,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54531,
+   "combine_star": 53,
+   "deduplication": [
+    32,
+    34
+   ],
+   "type": 3,
+   "has_extra_exp": false,
+   "imprint_id": 54535
+  },
+  "54534": {
+   "id": 54534,
+   "hp_add": 3558,
+   "attack_add": 192,
+   "defence_add": 316,
+   "speed_add": 35,
+   "set_pool": [
+    [
+     [
+      2,
+      100
+     ]
+    ],
+    [
+     [
+      12,
+      100
+     ]
+    ],
+    [
+     [
+      8,
+      100
+     ]
+    ],
+    [
+     [
+      5,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ]
+    ],
+    [
+     [
+      34,
+      100
+     ]
+    ],
+    [
+     [
+      18,
+      100
+     ]
+    ],
+    [
+     [
+      39,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54531,
+   "combine_star": 52,
+   "deduplication": [
+    32,
+    34,
+    39
+   ],
+   "type": 3,
+   "has_extra_exp": false,
+   "imprint_id": 54535
+  },
+  "54535": {
+   "id": 54535,
+   "hp_add": 3954,
+   "attack_add": 213,
+   "defence_add": 351,
+   "speed_add": 40,
+   "set_pool": [
+    [
+     [
+      2,
+      100
+     ]
+    ],
+    [
+     [
+      12,
+      100
+     ]
+    ],
+    [
+     [
+      8,
+      100
+     ]
+    ],
+    [
+     [
+      5,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ]
+    ],
+    [
+     [
+      34,
+      100
+     ]
+    ],
+    [
+     [
+      18,
+      100
+     ]
+    ],
+    [
+     [
+      39,
+      100
+     ],
+     [
+      66,
+      100
+     ]
+    ],
+    [
+     [
+      62,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54531,
+   "combine_star": 53,
+   "deduplication": [
+    32,
+    34,
+    39
+   ],
+   "type": 3,
+   "has_extra_exp": false,
+   "imprint_id": 54535
+  },
+  "54541": {
+   "id": 54541,
+   "hp_add": 3935,
+   "attack_add": 229,
+   "defence_add": 281,
+   "speed_add": 35,
+   "set_pool": [
+    [
+     [
+      2,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      10,
+      100
+     ]
+    ],
+    [
+     [
+      12,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ]
+    ],
+    [
+     [
+      33,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54541,
+   "combine_star": 52,
+   "deduplication": [
+    32,
+    33
+   ],
+   "type": 2,
+   "has_extra_exp": false,
+   "imprint_id": 54545
+  },
+  "54542": {
+   "id": 54542,
+   "hp_add": 4372,
+   "attack_add": 255,
+   "defence_add": 312,
+   "speed_add": 40,
+   "set_pool": [
+    [
+     [
+      2,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      10,
+      100
+     ]
+    ],
+    [
+     [
+      12,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ]
+    ],
+    [
+     [
+      33,
+      100
+     ],
+     [
+      65,
+      100
+     ]
+    ],
+    [
+     [
+      66,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54541,
+   "combine_star": 53,
+   "deduplication": [
+    32,
+    33
+   ],
+   "type": 2,
+   "has_extra_exp": false,
+   "imprint_id": 54545
+  },
+  "54544": {
+   "id": 54544,
+   "hp_add": 3935,
+   "attack_add": 229,
+   "defence_add": 281,
+   "speed_add": 35,
+   "set_pool": [
+    [
+     [
+      2,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      10,
+      100
+     ]
+    ],
+    [
+     [
+      12,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ]
+    ],
+    [
+     [
+      33,
+      100
+     ]
+    ],
+    [
+     [
+      21,
+      100
+     ]
+    ],
+    [
+     [
+      39,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54541,
+   "combine_star": 52,
+   "deduplication": [
+    32,
+    33,
+    39
+   ],
+   "type": 2,
+   "has_extra_exp": false,
+   "imprint_id": 54545
+  },
+  "54545": {
+   "id": 54545,
+   "hp_add": 4372,
+   "attack_add": 255,
+   "defence_add": 312,
+   "speed_add": 40,
+   "set_pool": [
+    [
+     [
+      2,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      10,
+      100
+     ]
+    ],
+    [
+     [
+      12,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ]
+    ],
+    [
+     [
+      33,
+      100
+     ]
+    ],
+    [
+     [
+      21,
+      100
+     ]
+    ],
+    [
+     [
+      39,
+      100
+     ],
+     [
+      65,
+      100
+     ]
+    ],
+    [
+     [
+      66,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54541,
+   "combine_star": 53,
+   "deduplication": [
+    32,
+    33,
+    39
+   ],
+   "type": 2,
+   "has_extra_exp": false,
+   "imprint_id": 54545
+  },
+  "54551": {
+   "id": 54551,
+   "hp_add": 3610,
+   "attack_add": 219,
+   "defence_add": 316,
+   "speed_add": 35,
+   "set_pool": [
+    [
+     [
+      3,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      8,
+      100
+     ]
+    ],
+    [
+     [
+      15,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ]
+    ],
+    [
+     [
+      30,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54551,
+   "combine_star": 52,
+   "deduplication": [
+    30,
+    32
+   ],
+   "type": 1,
+   "has_extra_exp": false,
+   "imprint_id": 54555
+  },
+  "54552": {
+   "id": 54552,
+   "hp_add": 4011,
+   "attack_add": 244,
+   "defence_add": 351,
+   "speed_add": 40,
+   "set_pool": [
+    [
+     [
+      3,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      8,
+      100
+     ]
+    ],
+    [
+     [
+      15,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ]
+    ],
+    [
+     [
+      30,
+      100
+     ],
+     [
+      61,
+      100
+     ]
+    ],
+    [
+     [
+      63,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54551,
+   "combine_star": 53,
+   "deduplication": [
+    30,
+    32
+   ],
+   "type": 1,
+   "has_extra_exp": false,
+   "imprint_id": 54555
+  },
+  "54554": {
+   "id": 54554,
+   "hp_add": 3610,
+   "attack_add": 219,
+   "defence_add": 316,
+   "speed_add": 35,
+   "set_pool": [
+    [
+     [
+      3,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      8,
+      100
+     ]
+    ],
+    [
+     [
+      15,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ]
+    ],
+    [
+     [
+      30,
+      100
+     ]
+    ],
+    [
+     [
+      19,
+      100
+     ]
+    ],
+    [
+     [
+      39,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54551,
+   "combine_star": 52,
+   "deduplication": [
+    30,
+    32,
+    39
+   ],
+   "type": 1,
+   "has_extra_exp": false,
+   "imprint_id": 54555
+  },
+  "54555": {
+   "id": 54555,
+   "hp_add": 4011,
+   "attack_add": 244,
+   "defence_add": 351,
+   "speed_add": 40,
+   "set_pool": [
+    [
+     [
+      3,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      8,
+      100
+     ]
+    ],
+    [
+     [
+      15,
+      100
+     ]
+    ],
+    [
+     [
+      32,
+      100
+     ]
+    ],
+    [
+     [
+      30,
+      100
+     ]
+    ],
+    [
+     [
+      19,
+      100
+     ]
+    ],
+    [
+     [
+      39,
+      100
+     ],
+     [
+      61,
+      100
+     ]
+    ],
+    [
+     [
+      63,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54551,
+   "combine_star": 53,
+   "deduplication": [
+    30,
+    32,
+    39
+   ],
+   "type": 1,
+   "has_extra_exp": false,
+   "imprint_id": 54555
+  },
+  "54561": {
+   "id": 54561,
+   "hp_add": 2501,
+   "attack_add": 541,
+   "defence_add": 168,
+   "speed_add": 35,
+   "set_pool": [
+    [
+     [
+      1,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      6,
+      100
+     ]
+    ],
+    [
+     [
+      17,
+      100
+     ]
+    ],
+    [
+     [
+      30,
+      100
+     ]
+    ],
+    [
+     [
+      34,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54561,
+   "combine_star": 52,
+   "deduplication": [
+    30,
+    34
+   ],
+   "type": 1,
+   "has_extra_exp": false,
+   "imprint_id": 54565
+  },
+  "54562": {
+   "id": 54562,
+   "hp_add": 2779,
+   "attack_add": 602,
+   "defence_add": 187,
+   "speed_add": 40,
+   "set_pool": [
+    [
+     [
+      1,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      6,
+      100
+     ]
+    ],
+    [
+     [
+      17,
+      100
+     ]
+    ],
+    [
+     [
+      30,
+      100
+     ]
+    ],
+    [
+     [
+      34,
+      100
+     ],
+     [
+      61,
+      100
+     ]
+    ],
+    [
+     [
+      64,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54561,
+   "combine_star": 53,
+   "deduplication": [
+    30,
+    34
+   ],
+   "type": 1,
+   "has_extra_exp": false,
+   "imprint_id": 54565
+  },
+  "54564": {
+   "id": 54564,
+   "hp_add": 2501,
+   "attack_add": 541,
+   "defence_add": 168,
+   "speed_add": 35,
+   "set_pool": [
+    [
+     [
+      1,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      6,
+      100
+     ]
+    ],
+    [
+     [
+      17,
+      100
+     ]
+    ],
+    [
+     [
+      30,
+      100
+     ]
+    ],
+    [
+     [
+      34,
+      100
+     ]
+    ],
+    [
+     [
+      19,
+      100
+     ]
+    ],
+    [
+     [
+      40,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54561,
+   "combine_star": 52,
+   "deduplication": [
+    30,
+    34,
+    40
+   ],
+   "type": 1,
+   "has_extra_exp": false,
+   "imprint_id": 54565
+  },
+  "54565": {
+   "id": 54565,
+   "hp_add": 2779,
+   "attack_add": 602,
+   "defence_add": 187,
+   "speed_add": 40,
+   "set_pool": [
+    [
+     [
+      1,
+      100
+     ]
+    ],
+    [
+     [
+      4,
+      100
+     ]
+    ],
+    [
+     [
+      6,
+      100
+     ]
+    ],
+    [
+     [
+      17,
+      100
+     ]
+    ],
+    [
+     [
+      30,
+      100
+     ]
+    ],
+    [
+     [
+      34,
+      100
+     ]
+    ],
+    [
+     [
+      19,
+      100
+     ]
+    ],
+    [
+     [
+      40,
+      100
+     ],
+     [
+      61,
+      100
+     ]
+    ],
+    [
+     [
+      64,
+      100
+     ]
+    ]
+   ],
+   "unit_id": 54561,
+   "combine_star": 53,
+   "deduplication": [
+    30,
+    34,
+    40
+   ],
+   "type": 1,
+   "has_extra_exp": false,
+   "imprint_id": 54565
+  }
+ },
+ "text_chunk": null
+}

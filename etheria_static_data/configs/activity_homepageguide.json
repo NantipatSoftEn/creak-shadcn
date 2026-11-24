@@ -1,0 +1,115 @@
+{
+ "config": "activity_homepageguide",
+ "fields": [
+  "function_id",
+  "id",
+  "jump_id",
+  "type",
+  "bind_id",
+  "b_highlight",
+  "title",
+  "desc"
+ ],
+ "rows": {
+  "68": {
+   "function_id": [
+    68,
+    1,
+    5001,
+    1,
+    53,
+    false
+   ],
+   "id": [
+    68,
+    2,
+    5002,
+    1,
+    52,
+    false
+   ],
+   "jump_id": [
+    68,
+    3,
+    5019,
+    1,
+    618,
+    true
+   ],
+   "type": [
+    68,
+    4,
+    5003,
+    1,
+    51,
+    false
+   ],
+   "bind_id": [
+    68,
+    5,
+    5010,
+    2,
+    602,
+    false
+   ],
+   "b_highlight": [
+    68,
+    6,
+    5005,
+    2,
+    601,
+    false
+   ],
+   "title": [
+    68,
+    7,
+    5013,
+    1,
+    611,
+    false
+   ]
+  },
+  "600": {
+   "function_id": [
+    600,
+    1,
+    5014,
+    1,
+    617,
+    false
+   ],
+   "id": [
+    600,
+    2,
+    5015,
+    3,
+    121,
+    false
+   ],
+   "jump_id": [
+    600,
+    3,
+    5016,
+    1,
+    614,
+    false
+   ],
+   "type": [
+    600,
+    4,
+    5017,
+    1,
+    620,
+    false
+   ],
+   "bind_id": [
+    600,
+    5,
+    5018,
+    1,
+    623,
+    false
+   ]
+  }
+ }
+}

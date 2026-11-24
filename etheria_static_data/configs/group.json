@@ -1,0 +1,77 @@
+{
+ "config": "group",
+ "fields": [
+  "id",
+  "asset",
+  "show_name"
+ ],
+ "rows": [
+  {
+   "id": 1,
+   "asset": "0001",
+   "show_name": "DOKI Entertainment",
+   "show_name_th": "DOKI Entertainment"
+  },
+  {
+   "id": 2,
+   "asset": "0002",
+   "show_name": "Etheria E.O.S.",
+   "show_name_th": "Etheria E.O.S."
+  },
+  {
+   "id": 3,
+   "asset": "0003",
+   "show_name": "Elysian",
+   "show_name_th": "Elysian"
+  },
+  {
+   "id": 4,
+   "asset": "0004",
+   "show_name": "13th High School",
+   "show_name_th": "โรงเรียนมัธยมปลายเขตที่ 13"
+  },
+  {
+   "id": 5,
+   "asset": "0005",
+   "show_name": "Hydra Bank",
+   "show_name_th": "ธนาคาร Hydra"
+  },
+  {
+   "id": 6,
+   "asset": "0006",
+   "show_name": "Leiboz Life",
+   "show_name_th": "Leiboz Life"
+  },
+  {
+   "id": 7,
+   "asset": "0007",
+   "show_name": "Faltering District",
+   "show_name_th": "Faltering District"
+  },
+  {
+   "id": 8,
+   "asset": "0008",
+   "show_name": "R.C.S.",
+   "show_name_th": "R.C.S."
+  },
+  {
+   "id": 9,
+   "asset": "0009",
+   "show_name": "Fantasy Club",
+   "show_name_th": "Fantasy Club"
+  },
+  {
+   "id": 10,
+   "asset": "0010",
+   "show_name": "Union",
+   "show_name_th": "สหพันธ์"
+  },
+  {
+   "id": 11,
+   "asset": "0011",
+   "show_name": "Astral Union",
+   "show_name_th": "สหพันธ์ Astral"
+  }
+ ],
+ "text_chunk": "00079_c67dcd06d188097d.json"
+}

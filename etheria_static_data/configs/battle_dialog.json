@@ -1,0 +1,503 @@
+{
+ "config": "battle_dialog",
+ "fields": [
+  "id",
+  "speaker",
+  "ak_name",
+  "wave",
+  "timing",
+  "trigger_character",
+  "dialog"
+ ],
+ "rows": {
+  "1": {
+   "id": 1,
+   "speaker": "T_CstHead_M",
+   "ak_name": "",
+   "wave": 1,
+   "timing": [
+    1
+   ],
+   "trigger_character": null,
+   "dialog": "Test 1",
+   "dialog_th": "ทดสอบ 1"
+  },
+  "2": {
+   "id": 2,
+   "speaker": "T_CstHead_M",
+   "ak_name": "",
+   "wave": 1,
+   "timing": [
+    2
+   ],
+   "trigger_character": [
+    2,
+    1
+   ],
+   "dialog": "Test 2",
+   "dialog_th": "ทดสอบ 2"
+  },
+  "3": {
+   "id": 3,
+   "speaker": "40361",
+   "ak_name": "",
+   "wave": 1,
+   "timing": [
+    3,
+    2
+   ],
+   "trigger_character": [
+    2,
+    1
+   ],
+   "dialog": "Test 3",
+   "dialog_th": "ทดสอบ 3"
+  },
+  "4": {
+   "id": 4,
+   "speaker": "40361",
+   "ak_name": "",
+   "wave": 1,
+   "timing": [
+    4,
+    1
+   ],
+   "trigger_character": [
+    2,
+    1
+   ],
+   "dialog": "Test 4",
+   "dialog_th": "ทดสอบ 4"
+  },
+  "5": {
+   "id": 5,
+   "speaker": "40361",
+   "ak_name": "",
+   "wave": 1,
+   "timing": [
+    0,
+    3
+   ],
+   "trigger_character": null,
+   "dialog": "Test 5",
+   "dialog_th": "ทดสอบ 5"
+  },
+  "8": {
+   "id": 8,
+   "speaker": "T_CstHead_ShadowHunter_Disor",
+   "ak_name": "Play_VO_SC02B_10012700_Disor",
+   "wave": 1,
+   "timing": [
+    1
+   ],
+   "trigger_character": [
+    2,
+    1
+   ],
+   "dialog": "Sania! I'm sorry, please hold on...",
+   "dialog_th": "Sania! ฉันขอโทษ โปรดอดทนอีกนิด..."
+  },
+  "9": {
+   "id": 9,
+   "speaker": "T_CstHead_ShadowHunter_Disor",
+   "ak_name": "Play_VO_SC02B_10012800_Disor",
+   "wave": 1,
+   "timing": [
+    0,
+    8
+   ],
+   "trigger_character": [
+    2,
+    1
+   ],
+   "dialog": "A Hyperlinker is helping me this time. We'll cure you!",
+   "dialog_th": "ด้วยความช่วยเหลือของไฮเปอร์ลิ้งเกอร์ในครั้งนี้ คุณจะหายแน่นอน!"
+  },
+  "10": {
+   "id": 10,
+   "speaker": "T_CstHead_Shanya_Disor",
+   "ak_name": "Play_VO_SC02B_10012900_Shanya",
+   "wave": 1,
+   "timing": [
+    0,
+    9
+   ],
+   "trigger_character": [
+    2,
+    1
+   ],
+   "dialog": "Get away! Stay back!",
+   "dialog_th": "ไปให้พ้น! อย่าเข้ามาใกล้!"
+  },
+  "11": {
+   "id": 11,
+   "speaker": "T_CstHead_Shanya_Disor",
+   "ak_name": "Play_VO_SC02B_10013000_Shanya",
+   "wave": 1,
+   "timing": [
+    0,
+    10
+   ],
+   "trigger_character": [
+    2,
+    1
+   ],
+   "dialog": "No one can mess with our garden...",
+   "dialog_th": "ไม่มีใครได้รับอนุญาตให้ทำลายสวนของเรา..."
+  },
+  "12": {
+   "id": 12,
+   "speaker": "T_CstHead_M",
+   "ak_name": "Play_VO_C00_AgentM_034",
+   "wave": 1,
+   "timing": [
+    1
+   ],
+   "trigger_character": null,
+   "dialog": "No... this level of Anima Reaction is beyond anything in our records—",
+   "dialog_th": "ไม่... นี่เป็นไปไม่ได้ ปฏิกิริยาจิตวิญญาณระดับนี้เกินขีดจำกัดของฐานข้อมูลแล้ว—"
+  },
+  "13": {
+   "id": 13,
+   "speaker": "T_CstHead_M",
+   "ak_name": "Play_VO_C00_AgentM_035",
+   "wave": 1,
+   "timing": [
+    0,
+    12
+   ],
+   "trigger_character": null,
+   "dialog": "Has the RE-A System completely failed?",
+   "dialog_th": "ระบบ Re-A ล้มเหลวทั้งหมดเลยเหรอ?"
+  },
+  "14": {
+   "id": 14,
+   "speaker": "T_CstHead_Kraken_Hollow",
+   "ak_name": "Play_VO_SC03A_10018500_Kraken",
+   "wave": 1,
+   "timing": [
+    1
+   ],
+   "trigger_character": null,
+   "dialog": "I expect your full strength. Please don't hold back.",
+   "dialog_th": "ฉันหวังว่าจะได้เห็นพลังเต็มที่ของคุณ โจมตีฉันได้ตามสบาย"
+  },
+  "15": {
+   "id": 15,
+   "speaker": "T_CstHead_Kraken_Hollow",
+   "ak_name": "Play_VO_SC03A_10018600_Kraken",
+   "wave": 1,
+   "timing": [
+    0,
+    14
+   ],
+   "trigger_character": null,
+   "dialog": "But be careful not to damage anything, or you'll have to pay for it.",
+   "dialog_th": "แต่ระวังอย่าทำอะไรในคลับพัง ไม่งั้นคุณจะต้องจ่ายค่าเสียหาย"
+  },
+  "16": {
+   "id": 16,
+   "speaker": "T_CstHead_Thunderbolt_Hollow",
+   "ak_name": "Play_VO_SC02A_10024300_Thunderbolt",
+   "wave": 1,
+   "timing": [
+    1
+   ],
+   "trigger_character": null,
+   "dialog": "Watch out, he's infected.",
+   "dialog_th": "ระวัง เขาถูกปนเปื้อนโดยปฐมกาล"
+  },
+  "17": {
+   "id": 17,
+   "speaker": "T_CstHead_Gray_Hollow",
+   "ak_name": "Play_VO_SC03A_10004100_Gray",
+   "wave": 1,
+   "timing": [
+    1
+   ],
+   "trigger_character": null,
+   "dialog": "Dare to go against Faltering District? You'll regret it!",
+   "dialog_th": "กล้าท้าทายถนนแห่งการลังเลหรือไม่? วันนี้คุณจะถูกหามออกไปแน่นอน!"
+  },
+  "18": {
+   "id": 18,
+   "speaker": "T_CstHead_Dolores_Const",
+   "ak_name": "",
+   "wave": 1,
+   "timing": [
+    0,
+    17
+   ],
+   "trigger_character": null,
+   "dialog": "Yiiikes! That will be terrible!",
+   "dialog_th": "หวาย! คงจะแย่น่าดูเลย!"
+  },
+  "19": {
+   "id": 19,
+   "speaker": "T_CstHead_Oboro_Odd",
+   "ak_name": "Play_VO_SC03A_10030300_Oboro",
+   "wave": 1,
+   "timing": [
+    1
+   ],
+   "trigger_character": null,
+   "dialog": "I'm curious, what exactly does Mr. Raz see in you?",
+   "dialog_th": "ฉันสงสัยนะ คุณ Raz คุณเห็นอะไรในตัวพวกเขา?"
+  },
+  "20": {
+   "id": 20,
+   "speaker": "T_CstHead_Lian_Light",
+   "ak_name": "Play_VO_SC03A_10030400_Lian",
+   "wave": 1,
+   "timing": [
+    0,
+    19
+   ],
+   "trigger_character": null,
+   "dialog": "She's strong. Be careful!",
+   "dialog_th": "เธอแข็งแกร่ง ระวังตัวด้วย!"
+  },
+  "40": {
+   "id": 40,
+   "speaker": "T_CstHead_Opal_Const",
+   "ak_name": "",
+   "wave": 1,
+   "timing": [
+    1
+   ],
+   "trigger_character": [
+    2,
+    2
+   ],
+   "dialog": "Those people who treat Animuses like garbage...",
+   "dialog_th": "คนพวกนั้นที่ทำเหมือน Animus เป็นขยะ..."
+  },
+  "47": {
+   "id": 47,
+   "speaker": "T_CstHead_Worm_Disor",
+   "ak_name": "Play_VO_Worm_Disor_Battle_Combat_Appearance_01",
+   "wave": 1,
+   "timing": [
+    1
+   ],
+   "trigger_character": null,
+   "dialog": "Let me see... Which side are you on, traitor?",
+   "dialog_th": "ไหนดูสิ... แกอยู่ฝั่งไหนกันแน่ เจ้าคนทรยศ?"
+  },
+  "48": {
+   "id": 48,
+   "speaker": "T_CstHead_M",
+   "ak_name": "Play_VO_Tower1_AgentM_056",
+   "wave": 1,
+   "timing": [
+    0,
+    47
+   ],
+   "trigger_character": null,
+   "dialog": "These eyes... It has to be him—the one that's been watching us.",
+   "dialog_th": "ดวงตาคู่นี้... ต้องเป็นเขาแน่ ๆ... คนที่จับตาดูพวกเราอยู่"
+  },
+  "49": {
+   "id": 49,
+   "speaker": "T_CstHead_M",
+   "ak_name": "Play_VO_Tower1_AgentM_056",
+   "wave": 1,
+   "timing": [
+    0,
+    48
+   ],
+   "trigger_character": null,
+   "dialog": "Convenient storage item bar, not used in the game.",
+   "dialog_th": "แถบจัดเก็บไอเทมที่สะดวกสบาย แต่ไม่ได้ใช้งานในเกม"
+  },
+  "50": {
+   "id": 50,
+   "speaker": "T_CstHead_Yang_Odd",
+   "ak_name": "Play_VO_SC01B_10006200_Yang",
+   "wave": 1,
+   "timing": [
+    1
+   ],
+   "trigger_character": null,
+   "dialog": "Hey, we're here to help you!",
+   "dialog_th": "เฮ้ เรามาที่นี่เพื่อช่วยคุณ!"
+  },
+  "51": {
+   "id": 51,
+   "speaker": "T_CstHead_Opal_Const",
+   "ak_name": "Play_VO_SC01B_10006300_Opal",
+   "wave": 1,
+   "timing": [
+    0,
+    50
+   ],
+   "trigger_character": null,
+   "dialog": "I don't need your help!",
+   "dialog_th": "ฉันไม่ต้องการความช่วยเหลือจากคุณ!"
+  },
+  "52": {
+   "id": 52,
+   "speaker": "T_CstHead_HardShield_Odd",
+   "ak_name": "Play_VO_SC01A_10003200_Hardshield",
+   "wave": 1,
+   "timing": [
+    1
+   ],
+   "trigger_character": null,
+   "dialog": "This place... off-limits...",
+   "dialog_th": "ที่นี่... ล็อกดาวน์..."
+  },
+  "53": {
+   "id": 53,
+   "speaker": "T_CstHead_HardShield_Odd",
+   "ak_name": "Play_VO_SC01A_10003300_Hardshield",
+   "wave": 1,
+   "timing": [
+    0,
+    52
+   ],
+   "trigger_character": null,
+   "dialog": "Leave... leave!!!",
+   "dialog_th": "ออกไป... ออกไป!!!"
+  },
+  "54": {
+   "id": 54,
+   "speaker": "T_CstHead_Yang_Odd",
+   "ak_name": "Play_VO_SC01A_10016400_Yang",
+   "wave": 1,
+   "timing": [
+    1
+   ],
+   "trigger_character": null,
+   "dialog": "Seriously? You're obsessed with rules even after you've lost your mind?",
+   "dialog_th": "เฮ้ คุณบ้าไปแล้วเหรอ? แม้ในตอนที่คุณเสียสติ คุณก็ยังจับการละเมิดได้!"
+  },
+  "55": {
+   "id": 55,
+   "speaker": "T_CstHead_Yang_Odd",
+   "ak_name": "Play_VO_SC01A_10016500_Yang",
+   "wave": 1,
+   "timing": [
+    0,
+    54
+   ],
+   "trigger_character": null,
+   "dialog": "No one's gonna give you extra points in the Meltdown Zone!",
+   "dialog_th": "คุณคาดหวังให้หญิงสาวมาที่พื้นที่หลอมเหลวเพื่อให้คะแนนพิเศษกับคุณหรือไง?!"
+  },
+  "56": {
+   "id": 56,
+   "speaker": "T_CstHead_TimeReaper_Disor",
+   "ak_name": "Play_VO_SC04A_10017900_Heinrich",
+   "wave": 1,
+   "timing": [
+    1
+   ],
+   "trigger_character": null,
+   "dialog": "Surrender, and I'll let you go.",
+   "dialog_th": "ยอมแพ้ซะ แล้วข้าอาจจะไว้ชีวิตเจ้า"
+  },
+  "57": {
+   "id": 57,
+   "speaker": "T_CstHead_Lilith_Hollow",
+   "ak_name": "Play_VO_SC04A_10018000_Lilith",
+   "wave": 1,
+   "timing": [
+    0,
+    56
+   ],
+   "trigger_character": null,
+   "dialog": "No, I must take you back!",
+   "dialog_th": "ไม่ ฉันต้องพาคุณกลับ!"
+  },
+  "58": {
+   "id": 58,
+   "speaker": "T_CstHead_RC77_Odd",
+   "ak_name": "Play_VO_SC04B_10010400_RC77",
+   "wave": 1,
+   "timing": [
+    1
+   ],
+   "trigger_character": null,
+   "dialog": "You should feel honored to witness new life.",
+   "dialog_th": "คุณควรรู้สึกเป็นเกียรติที่ได้เห็นการเกิดของชีวิตใหม่"
+  },
+  "59": {
+   "id": 59,
+   "speaker": "T_CstHead_Thunderbolt_Hollow",
+   "ak_name": "Play_VO_SC04B_10010500_Thunderbolt",
+   "wave": 1,
+   "timing": [
+    0,
+    58
+   ],
+   "trigger_character": null,
+   "dialog": "He's mad... Finish this quickly, don't let him complete the process!",
+   "dialog_th": "ช่างเป็นคนบ้าจริงๆ... จัดการเขาให้เร็ว เราไม่สามารถปล่อยให้เขาสำเร็จได้!"
+  },
+  "60": {
+   "id": 60,
+   "speaker": "T_CstHead_Lilith_Hollow",
+   "ak_name": "Play_VO_SC04B_10011100_Lilith",
+   "wave": 1,
+   "timing": [
+    1
+   ],
+   "trigger_character": null,
+   "dialog": "That's... my brother?!",
+   "dialog_th": "นั่น... พี่ชายเหรอ?!"
+  },
+  "61": {
+   "id": 61,
+   "speaker": "T_CstHead_Lian_Light",
+   "ak_name": "Play_VO_SC04B_10011200_Lian",
+   "wave": 1,
+   "timing": [
+    0,
+    60
+   ],
+   "trigger_character": null,
+   "dialog": "Oh no, he's completed the fusion!",
+   "dialog_th": "โอ้ไม่ เขาทำฟิวชั่นสำเร็จแล้ว!"
+  },
+  "62": {
+   "id": 62,
+   "speaker": "T_CstHead_Lilith_Hollow",
+   "ak_name": "Play_VO_SC04B_10011300_Lilith",
+   "wave": 1,
+   "timing": [
+    0,
+    61
+   ],
+   "trigger_character": null,
+   "dialog": "Please, save him! Save him, hurry!",
+   "dialog_th": "ช่วยเขาด้วย! ได้โปรด!"
+  },
+  "63": {
+   "id": 63,
+   "speaker": "T_CstHead_ShadowHunter_Disor",
+   "ak_name": "Play_VO_SC02A_10024400_Disor",
+   "wave": 1,
+   "timing": [
+    1
+   ],
+   "trigger_character": null,
+   "dialog": "You... stay away from her!",
+   "dialog_th": "ออกไปจากเธอ... เดี๋ยวนี้!"
+  },
+  "64": {
+   "id": 64,
+   "speaker": "T_CstHead_Thunderbolt_Hollow",
+   "ak_name": "Play_VO_SC02A_10024500_Thunderbolt",
+   "wave": 1,
+   "timing": [
+    0,
+    63
+   ],
+   "trigger_character": null,
+   "dialog": "Careful, there's a strong Genesis reaction on him!",
+   "dialog_th": "ระวัง, เขามีปฏิกิริยาปฐมกาลที่รุนแรง!"
+  }
+ },
+ "text_chunk": "00045_f75bd8890eb06d47.json"
+}

@@ -1,0 +1,89 @@
+{
+ "config": "guild_storymain",
+ "fields": [
+  "view_interface",
+  "trigger_func",
+  "params",
+  "story_name",
+  "dialogue_jump",
+  "priority",
+  "play_time",
+  "dialogue"
+ ],
+ "rows": {
+  "view_interface": [
+   0,
+   0,
+   null,
+   "Guild_Story_01",
+   0,
+   99,
+   5.0
+  ],
+  "trigger_func": [
+   0,
+   8,
+   [
+    30
+   ],
+   "Guild_Story_01",
+   0,
+   2,
+   15.0
+  ],
+  "params": [
+   1,
+   1,
+   null,
+   "Guild_Story_01",
+   0,
+   100,
+   0.1
+  ],
+  "story_name": [
+   2,
+   1,
+   null,
+   "Guild_Story_01",
+   0,
+   100,
+   0.1
+  ],
+  "dialogue_jump": [
+   3,
+   1,
+   null,
+   "Guild_Story_01",
+   0,
+   100,
+   0.1
+  ],
+  "priority": [
+   7,
+   1,
+   null,
+   "Guild_Story_01",
+   0,
+   100,
+   0.1
+  ],
+  "play_time": [
+   8,
+   1,
+   null,
+   "Guild_Story_01",
+   0,
+   100,
+   0.1
+  ],
+  "dialogue": [
+   9,
+   1,
+   null,
+   "Guild_Story_01",
+   0,
+   100,
+   0.1
+  ]
+ }
+}

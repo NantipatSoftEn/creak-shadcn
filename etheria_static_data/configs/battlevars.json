@@ -1,0 +1,151 @@
+{
+ "config": "battlevars",
+ "fields": [
+  "id",
+  "int_data",
+  "string_data"
+ ],
+ "rows": {
+  "7": {
+   "id": 7,
+   "int_data": "0.5",
+   "string_data": ""
+  },
+  "34": {
+   "id": 34,
+   "int_data": "65,1.15|19,0.15|79,4.0",
+   "string_data": ""
+  },
+  "35": {
+   "id": 35,
+   "int_data": "65,0.85|19,-0.3|25,-0.5",
+   "string_data": ""
+  },
+  "36": {
+   "id": 36,
+   "int_data": "30",
+   "string_data": ""
+  },
+  "37": {
+   "id": 37,
+   "int_data": "0.1",
+   "string_data": ""
+  },
+  "45": {
+   "id": 45,
+   "int_data": "0.95",
+   "string_data": ""
+  },
+  "46": {
+   "id": 46,
+   "int_data": "1.05",
+   "string_data": ""
+  },
+  "47": {
+   "id": 47,
+   "int_data": "0.85",
+   "string_data": ""
+  },
+  "49": {
+   "id": 49,
+   "int_data": "400000,1000000",
+   "string_data": ""
+  },
+  "50": {
+   "id": 50,
+   "int_data": "150000, 150000",
+   "string_data": ""
+  },
+  "51": {
+   "id": 51,
+   "int_data": "200000,500000",
+   "string_data": ""
+  },
+  "52": {
+   "id": 52,
+   "int_data": "120000, 120000",
+   "string_data": ""
+  },
+  "57": {
+   "id": 57,
+   "int_data": "15",
+   "string_data": ""
+  },
+  "72": {
+   "id": 72,
+   "int_data": "1.25, 2.25, 3",
+   "string_data": ""
+  },
+  "73": {
+   "id": 73,
+   "int_data": "0.33",
+   "string_data": ""
+  },
+  "81": {
+   "id": 81,
+   "int_data": "100",
+   "string_data": ""
+  },
+  "91": {
+   "id": 91,
+   "int_data": "12000001,12000002,12000003,12000004,12000005,12000006,12000007,12000008",
+   "string_data": ""
+  },
+  "92": {
+   "id": 92,
+   "int_data": "12010001,12010002,12010003,12010004,12010005,12010006,12010007,12010008",
+   "string_data": ""
+  },
+  "93": {
+   "id": 93,
+   "int_data": "5",
+   "string_data": ""
+  },
+  "101": {
+   "id": 101,
+   "int_data": "180",
+   "string_data": ""
+  },
+  "102": {
+   "id": 102,
+   "int_data": "90",
+   "string_data": ""
+  },
+  "103": {
+   "id": 103,
+   "int_data": "150",
+   "string_data": ""
+  },
+  "104": {
+   "id": 104,
+   "int_data": "180",
+   "string_data": ""
+  },
+  "105": {
+   "id": 105,
+   "int_data": "0.2",
+   "string_data": ""
+  },
+  "106": {
+   "id": 106,
+   "int_data": "9,14",
+   "string_data": ""
+  },
+  "107": {
+   "id": 107,
+   "int_data": "180",
+   "string_data": ""
+  },
+  "108": {
+   "id": 108,
+   "int_data": "90",
+   "string_data": ""
+  },
+  "109": {
+   "id": 109,
+   "int_data": "120",
+   "string_data": ""
+  }
+ },
+ "text_chunk": null
+}

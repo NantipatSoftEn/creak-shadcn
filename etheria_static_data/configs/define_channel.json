@@ -1,0 +1,358 @@
+{
+ "config": "define_channel",
+ "fields": [
+  "id",
+  "channel_name"
+ ],
+ "rows": [
+  {
+   "id": "100001",
+   "channel_name": "开发版-安卓"
+  },
+  {
+   "id": "200001",
+   "channel_name": "开发版-IOS"
+  },
+  {
+   "id": "300001",
+   "channel_name": "开发版-Win"
+  },
+  {
+   "id": "",
+   "channel_name": ""
+  },
+  {
+   "id": "104001",
+   "channel_name": "自动跑图-安卓"
+  },
+  {
+   "id": "204001",
+   "channel_name": "自动跑图-IOS"
+  },
+  {
+   "id": "304001",
+   "channel_name": "自动跑图-Win"
+  },
+  {
+   "id": "",
+   "channel_name": ""
+  },
+  {
+   "id": "108001",
+   "channel_name": "接口测试-安卓"
+  },
+  {
+   "id": "208001",
+   "channel_name": "接口测试-IOS"
+  },
+  {
+   "id": "308001",
+   "channel_name": "接口测试-Win"
+  },
+  {
+   "id": "",
+   "channel_name": ""
+  },
+  {
+   "id": "105001",
+   "channel_name": "压力测试-安卓"
+  },
+  {
+   "id": "205001",
+   "channel_name": "压力测试-IOS"
+  },
+  {
+   "id": "305001",
+   "channel_name": "压力测试-Win"
+  },
+  {
+   "id": "",
+   "channel_name": ""
+  },
+  {
+   "id": "103001",
+   "channel_name": "大陆版署-安卓"
+  },
+  {
+   "id": "303001",
+   "channel_name": "大陆版署-Win"
+  },
+  {
+   "id": "",
+   "channel_name": ""
+  },
+  {
+   "id": "103203",
+   "channel_name": "台湾版署-安卓"
+  },
+  {
+   "id": "303203",
+   "channel_name": "台湾版署-Win"
+  },
+  {
+   "id": "",
+   "channel_name": ""
+  },
+  {
+   "id": "103403",
+   "channel_name": "越南版署-安卓"
+  },
+  {
+   "id": "303403",
+   "channel_name": "越南版署-Win"
+  },
+  {
+   "id": "",
+   "channel_name": ""
+  },
+  {
+   "id": "102302",
+   "channel_name": "Premaster-安卓"
+  },
+  {
+   "id": "202302",
+   "channel_name": "Premaster-IOS"
+  },
+  {
+   "id": "302302",
+   "channel_name": "Premaster-Win"
+  },
+  {
+   "id": "102303",
+   "channel_name": "Premaster-aab"
+  },
+  {
+   "id": "",
+   "channel_name": ""
+  },
+  {
+   "id": "111302",
+   "channel_name": "国际服ap-安卓"
+  },
+  {
+   "id": "211302",
+   "channel_name": "国际服tap-IOS"
+  },
+  {
+   "id": "311302",
+   "channel_name": "国际服tap-Win"
+  },
+  {
+   "id": "111303",
+   "channel_name": "国际服google-aab"
+  },
+  {
+   "id": "",
+   "channel_name": ""
+  },
+  {
+   "id": "101302",
+   "channel_name": "国际服itest-安卓"
+  },
+  {
+   "id": "201302",
+   "channel_name": "国际服itest-IOS"
+  },
+  {
+   "id": "301302",
+   "channel_name": "国际服itest-Win"
+  },
+  {
+   "id": "",
+   "channel_name": ""
+  },
+  {
+   "id": "110302",
+   "channel_name": "国际服KOL-安卓"
+  },
+  {
+   "id": "310302",
+   "channel_name": "国际服KOL-Win"
+  },
+  {
+   "id": "",
+   "channel_name": ""
+  },
+  {
+   "id": "112303",
+   "channel_name": "国际服编辑-安卓"
+  },
+  {
+   "id": "212302",
+   "channel_name": "国际服编辑-IOS"
+  },
+  {
+   "id": "",
+   "channel_name": ""
+  },
+  {
+   "id": "113402",
+   "channel_name": "国际赛事服-安卓"
+  },
+  {
+   "id": "213402",
+   "channel_name": "国际赛事服-IOS"
+  },
+  {
+   "id": "313402",
+   "channel_name": "国际赛事服-Win"
+  },
+  {
+   "id": "",
+   "channel_name": ""
+  },
+  {
+   "id": "311304",
+   "channel_name": "国际服 Steam"
+  },
+  {
+   "id": "311305",
+   "channel_name": "国际服 Epic"
+  },
+  {
+   "id": "",
+   "channel_name": ""
+  },
+  {
+   "id": "",
+   "channel_name": ""
+  },
+  {
+   "id": "111202",
+   "channel_name": "东亚服tap-安卓"
+  },
+  {
+   "id": "211202",
+   "channel_name": "东亚服tap-IOS"
+  },
+  {
+   "id": "311202",
+   "channel_name": "东亚服tap-Win"
+  },
+  {
+   "id": "111203",
+   "channel_name": "东亚服google-aab"
+  },
+  {
+   "id": "",
+   "channel_name": ""
+  },
+  {
+   "id": "101202",
+   "channel_name": "东亚服itest-安卓"
+  },
+  {
+   "id": "201202",
+   "channel_name": "东亚服itest-IOS"
+  },
+  {
+   "id": "301202",
+   "channel_name": "东亚服itest-Win"
+  },
+  {
+   "id": "",
+   "channel_name": ""
+  },
+  {
+   "id": "110202",
+   "channel_name": "东亚服KOL-安卓"
+  },
+  {
+   "id": "310202",
+   "channel_name": "东亚服KOL-Win"
+  },
+  {
+   "id": "",
+   "channel_name": ""
+  },
+  {
+   "id": "112203",
+   "channel_name": "东亚服编辑-安卓"
+  },
+  {
+   "id": "212202",
+   "channel_name": "东亚服编辑-IOS"
+  },
+  {
+   "id": "",
+   "channel_name": ""
+  },
+  {
+   "id": "311204",
+   "channel_name": "东亚服 Steam"
+  },
+  {
+   "id": "311205",
+   "channel_name": "东亚服 Epic"
+  },
+  {
+   "id": "",
+   "channel_name": ""
+  },
+  {
+   "id": "114201",
+   "channel_name": "东亚服IP审核-安卓"
+  },
+  {
+   "id": "",
+   "channel_name": ""
+  },
+  {
+   "id": "",
+   "channel_name": ""
+  },
+  {
+   "id": "111102",
+   "channel_name": "国服-安卓"
+  },
+  {
+   "id": "211102",
+   "channel_name": "国服-IOS"
+  },
+  {
+   "id": "311102",
+   "channel_name": "国服-Win"
+  },
+  {
+   "id": "",
+   "channel_name": ""
+  },
+  {
+   "id": "101102",
+   "channel_name": "国服itest-安卓"
+  },
+  {
+   "id": "201102",
+   "channel_name": "国服itest-IOS"
+  },
+  {
+   "id": "301102",
+   "channel_name": "国服itest-Win"
+  },
+  {
+   "id": "",
+   "channel_name": ""
+  },
+  {
+   "id": "110102",
+   "channel_name": "国服KOL-安卓"
+  },
+  {
+   "id": "310102",
+   "channel_name": "国服KOL-Win"
+  },
+  {
+   "id": "",
+   "channel_name": ""
+  },
+  {
+   "id": "112102",
+   "channel_name": "国服编辑-安卓"
+  },
+  {
+   "id": "212102",
+   "channel_name": "国服编辑-IOS"
+  }
+ ],
+ "text_chunk": null
+}

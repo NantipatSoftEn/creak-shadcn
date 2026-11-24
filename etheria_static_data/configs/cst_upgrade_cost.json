@@ -1,0 +1,99 @@
+{
+ "config": "cst_upgrade_cost",
+ "fields": [
+  "rank",
+  "consume",
+  "number",
+  "cost"
+ ],
+ "rows": [
+  {
+   "rank": 1,
+   "consume": {
+    "color": 1
+   },
+   "number": 1,
+   "cost": [
+    {
+     "id": 10001,
+     "count": 10000
+    }
+   ]
+  },
+  {
+   "rank": 2,
+   "consume": {
+    "color": 2
+   },
+   "number": 2,
+   "cost": [
+    {
+     "id": 10001,
+     "count": 20000
+    },
+    {
+     "id": 10131,
+     "count": 2
+    }
+   ]
+  },
+  {
+   "rank": 3,
+   "consume": {
+    "color": 3
+   },
+   "number": 3,
+   "cost": [
+    {
+     "id": 10001,
+     "count": 50000
+    },
+    {
+     "id": 10132,
+     "count": 3
+    }
+   ]
+  },
+  {
+   "rank": 4,
+   "consume": {
+    "color": 4
+   },
+   "number": 4,
+   "cost": [
+    {
+     "id": 10001,
+     "count": 100000
+    },
+    {
+     "id": 10133,
+     "count": 4
+    }
+   ]
+  },
+  {
+   "rank": 5,
+   "consume": {
+    "color": 5
+   },
+   "number": 5,
+   "cost": [
+    {
+     "id": 10001,
+     "count": 300000
+    },
+    {
+     "id": 10134,
+     "count": 5
+    }
+   ]
+  },
+  {
+   "rank": 6,
+   "consume": null,
+   "number": 0,
+   "cost": null
+  }
+ ],
+ "text_chunk": null
+}

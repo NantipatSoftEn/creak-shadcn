@@ -1,0 +1,87 @@
+{
+ "config": "chunk_define",
+ "fields": [
+  "id",
+  "pak_key",
+  "priority",
+  "is_default_chunk",
+  "hard_request",
+  "is_localization",
+  "is_default_localization",
+  "name"
+ ],
+ "rows": {
+  "id": [
+   0,
+   "pakchunk0-",
+   100,
+   0,
+   1,
+   0,
+   0
+  ],
+  "pak_key": [
+   1,
+   "pakchunk1-",
+   90,
+   0,
+   1,
+   0,
+   0
+  ],
+  "priority": [
+   2,
+   "pakchunk2-",
+   80,
+   0,
+   1,
+   0,
+   0
+  ],
+  "is_default_chunk": [
+   6,
+   "pakchunk6-",
+   40,
+   0,
+   1,
+   0,
+   0
+  ],
+  "hard_request": [
+   7,
+   "pakchunk7-",
+   1,
+   1,
+   1,
+   0,
+   0
+  ],
+  "is_localization": [
+   101,
+   "pakchunk101-",
+   11,
+   0,
+   0,
+   1,
+   1
+  ],
+  "is_default_localization": [
+   201,
+   "pakchunk201-",
+   21,
+   0,
+   0,
+   1,
+   0
+  ],
+  "name": [
+   301,
+   "pakchunk301-",
+   31,
+   0,
+   0,
+   1,
+   0
+  ]
+ }
+}

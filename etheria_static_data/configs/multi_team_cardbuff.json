@@ -1,0 +1,693 @@
+{
+ "config": "multi_team_cardbuff",
+ "fields": [
+  "id",
+  "rarity",
+  "card_type",
+  "sub_type",
+  "sub_rarity",
+  "add_num",
+  "add_type",
+  "add_rarity_weights",
+  "icon",
+  "card_title",
+  "enhance_name",
+  "enhance_desc"
+ ],
+ "rows": [
+  {
+   "id": 1,
+   "rarity": 2,
+   "card_type": 1,
+   "sub_type": "",
+   "sub_rarity": 0,
+   "add_num": 5,
+   "add_type": "10",
+   "add_rarity_weights": [
+    {
+     "type": 1,
+     "value": 70.0
+    },
+    {
+     "type": 2,
+     "value": 25.0
+    },
+    {
+     "type": 3,
+     "value": 5.0
+    }
+   ],
+   "icon": "T_UI_Sourcenet_Icon_Increase_1",
+   "card_title": "Full Volume",
+   "card_title_th": "เสียงระดับสูงสุด",
+   "enhance_name": "Full Volume",
+   "enhance_name_th": "เสียงระดับสูงสุด",
+   "enhance_desc": "New: Random Box x5",
+   "enhance_desc_th": "ใหม่: กล่องสุ่ม x5"
+  },
+  {
+   "id": 2,
+   "rarity": 1,
+   "card_type": 1,
+   "sub_type": "",
+   "sub_rarity": 0,
+   "add_num": 3,
+   "add_type": "10",
+   "add_rarity_weights": [
+    {
+     "type": 1,
+     "value": 70.0
+    },
+    {
+     "type": 2,
+     "value": 25.0
+    },
+    {
+     "type": 3,
+     "value": 5.0
+    }
+   ],
+   "icon": "T_UI_Sourcenet_Icon_Increase_1",
+   "card_title": "Full Volume",
+   "card_title_th": "เสียงระดับสูงสุด",
+   "enhance_name": "Full Volume",
+   "enhance_name_th": "เสียงระดับสูงสุด",
+   "enhance_desc": "New: Random Box x3",
+   "enhance_desc_th": "ใหม่: กล่องสุ่ม x3"
+  },
+  {
+   "id": 3,
+   "rarity": 1,
+   "card_type": 1,
+   "sub_type": "",
+   "sub_rarity": 0,
+   "add_num": 5,
+   "add_type": "10",
+   "add_rarity_weights": [
+    {
+     "type": 1,
+     "value": 100.0
+    }
+   ],
+   "icon": "T_UI_Sourcenet_Icon_Increase_1",
+   "card_title": "Primary Quality",
+   "card_title_th": "Quality ขั้นต้น",
+   "enhance_name": "Primary Quality",
+   "enhance_name_th": "Quality ขั้นต้น",
+   "enhance_desc": "New: Random Primary Box x5",
+   "enhance_desc_th": "ใหม่: กล่องสุ่มขั้นต้น x5"
+  },
+  {
+   "id": 4,
+   "rarity": 2,
+   "card_type": 1,
+   "sub_type": "",
+   "sub_rarity": 0,
+   "add_num": 3,
+   "add_type": "10",
+   "add_rarity_weights": [
+    {
+     "type": 2,
+     "value": 100.0
+    }
+   ],
+   "icon": "T_UI_Sourcenet_Icon_Increase_1",
+   "card_title": "Intermediate Volume",
+   "card_title_th": "เสียงระดับกลาง",
+   "enhance_name": "Intermediate Volume",
+   "enhance_name_th": "เสียงระดับกลาง",
+   "enhance_desc": "New: Random Intermediate Box x3",
+   "enhance_desc_th": "ใหม่: กล่องสุ่มขั้นกลาง x3"
+  },
+  {
+   "id": 5,
+   "rarity": 3,
+   "card_type": 1,
+   "sub_type": "",
+   "sub_rarity": 0,
+   "add_num": 2,
+   "add_type": "10",
+   "add_rarity_weights": [
+    {
+     "type": 3,
+     "value": 100.0
+    }
+   ],
+   "icon": "T_UI_Sourcenet_Icon_Increase_1",
+   "card_title": "Advanced Derix",
+   "card_title_th": "Derix ขั้นสูง",
+   "enhance_name": "Advanced Derix",
+   "enhance_name_th": "Derix ขั้นสูง",
+   "enhance_desc": "New: Random Advanced Box x2",
+   "enhance_desc_th": "ใหม่: กล่องสุ่มขั้นสูง x2"
+  },
+  {
+   "id": 6,
+   "rarity": 1,
+   "card_type": 1,
+   "sub_type": "",
+   "sub_rarity": 0,
+   "add_num": 1,
+   "add_type": "10",
+   "add_rarity_weights": [
+    {
+     "type": 3,
+     "value": 100.0
+    }
+   ],
+   "icon": "T_UI_Sourcenet_Icon_Increase_1",
+   "card_title": "Advanced Derix",
+   "card_title_th": "Derix ขั้นสูง",
+   "enhance_name": "Advanced Derix",
+   "enhance_name_th": "Derix ขั้นสูง",
+   "enhance_desc": "New: Random Advanced Box x1",
+   "enhance_desc_th": "ใหม่: กล่องสุ่มขั้นสูง x1"
+  },
+  {
+   "id": 7,
+   "rarity": 1,
+   "card_type": 1,
+   "sub_type": "",
+   "sub_rarity": 0,
+   "add_num": 3,
+   "add_type": "1",
+   "add_rarity_weights": [
+    {
+     "type": 1,
+     "value": 70.0
+    },
+    {
+     "type": 2,
+     "value": 25.0
+    },
+    {
+     "type": 3,
+     "value": 5.0
+    }
+   ],
+   "icon": "T_UI_Sourcenet_Icon_Increase_1",
+   "card_title": "Coin Cluster",
+   "card_title_th": "Coin Cluster",
+   "enhance_name": "Coin Cluster",
+   "enhance_name_th": "Coin Cluster",
+   "enhance_desc": "New: Etheria Coin Box x3",
+   "enhance_desc_th": "ใหม่: กล่อง Etheria Coin x3"
+  },
+  {
+   "id": 8,
+   "rarity": 1,
+   "card_type": 1,
+   "sub_type": "",
+   "sub_rarity": 0,
+   "add_num": 3,
+   "add_type": "2",
+   "add_rarity_weights": [
+    {
+     "type": 1,
+     "value": 70.0
+    },
+    {
+     "type": 2,
+     "value": 25.0
+    },
+    {
+     "type": 3,
+     "value": 5.0
+    }
+   ],
+   "icon": "T_UI_Sourcenet_Icon_Increase_1",
+   "card_title": "Data Cluster",
+   "card_title_th": "Data Cluster",
+   "enhance_name": "Data Cluster",
+   "enhance_name_th": "Data Cluster",
+   "enhance_desc": "New: Training Data Box x3",
+   "enhance_desc_th": "ใหม่: กล่อง Training Data x3"
+  },
+  {
+   "id": 9,
+   "rarity": 1,
+   "card_type": 1,
+   "sub_type": "",
+   "sub_rarity": 0,
+   "add_num": 3,
+   "add_type": "3",
+   "add_rarity_weights": [
+    {
+     "type": 1,
+     "value": 70.0
+    },
+    {
+     "type": 2,
+     "value": 25.0
+    },
+    {
+     "type": 3,
+     "value": 5.0
+    }
+   ],
+   "icon": "T_UI_Sourcenet_Icon_Increase_1",
+   "card_title": "Shadowprint Cluster",
+   "card_title_th": "Shadowprint Cluster",
+   "enhance_name": "Shadowprint Cluster",
+   "enhance_name_th": "Shadowprint Cluster",
+   "enhance_desc": "New: Shadowprint Box x3",
+   "enhance_desc_th": "ใหม่: กล่องชาโดว์พรินต์ x3"
+  },
+  {
+   "id": 10,
+   "rarity": 2,
+   "card_type": 1,
+   "sub_type": "",
+   "sub_rarity": 0,
+   "add_num": 3,
+   "add_type": "4",
+   "add_rarity_weights": [
+    {
+     "type": 1,
+     "value": 70.0
+    },
+    {
+     "type": 2,
+     "value": 25.0
+    },
+    {
+     "type": 3,
+     "value": 5.0
+    }
+   ],
+   "icon": "T_UI_Sourcenet_Icon_Increase_1",
+   "card_title": "Diamond Cluster",
+   "card_title_th": "Diamond Cluster",
+   "enhance_name": "Diamond Cluster",
+   "enhance_name_th": "Diamond Cluster",
+   "enhance_desc": "New: Crystal Box x3",
+   "enhance_desc_th": "ใหม่: กล่องคริสตัล x3"
+  },
+  {
+   "id": 11,
+   "rarity": 2,
+   "card_type": 1,
+   "sub_type": "",
+   "sub_rarity": 0,
+   "add_num": 3,
+   "add_type": "6",
+   "add_rarity_weights": [
+    {
+     "type": 1,
+     "value": 70.0
+    },
+    {
+     "type": 2,
+     "value": 25.0
+    },
+    {
+     "type": 3,
+     "value": 5.0
+    }
+   ],
+   "icon": "T_UI_Sourcenet_Icon_Increase_1",
+   "card_title": "Lattice Cluster",
+   "card_title_th": "Lattice Cluster",
+   "enhance_name": "Lattice Cluster",
+   "enhance_name_th": "Lattice Cluster",
+   "enhance_desc": "New: Lattice Box x3",
+   "enhance_desc_th": "ใหม่: กล่อง Lattice x3"
+  },
+  {
+   "id": 12,
+   "rarity": 2,
+   "card_type": 1,
+   "sub_type": "",
+   "sub_rarity": 0,
+   "add_num": 3,
+   "add_type": "5",
+   "add_rarity_weights": [
+    {
+     "type": 1,
+     "value": 70.0
+    },
+    {
+     "type": 2,
+     "value": 25.0
+    },
+    {
+     "type": 3,
+     "value": 5.0
+    }
+   ],
+   "icon": "T_UI_Sourcenet_Icon_Increase_1",
+   "card_title": "Enhancement Cluster",
+   "card_title_th": "Enhancement Cluster",
+   "enhance_name": "Enhancement Cluster",
+   "enhance_name_th": "Enhancement Cluster",
+   "enhance_desc": "New: Enhanced Prototype Box x3",
+   "enhance_desc_th": "ใหม่: กล่อง Enhanced Prototype ×3"
+  },
+  {
+   "id": 13,
+   "rarity": 3,
+   "card_type": 13,
+   "sub_type": "",
+   "sub_rarity": 0,
+   "add_num": 5,
+   "add_type": "10",
+   "add_rarity_weights": [
+    {
+     "type": 1,
+     "value": 70.0
+    },
+    {
+     "type": 2,
+     "value": 25.0
+    },
+    {
+     "type": 3,
+     "value": 5.0
+    }
+   ],
+   "icon": "T_UI_Sourcenet_Icon_Increase_1",
+   "card_title": "Random Empowerment",
+   "card_title_th": "Empowerment แบบสุ่ม",
+   "enhance_name": "Random Empowerment",
+   "enhance_name_th": "Empowerment แบบสุ่ม",
+   "enhance_desc": "Upgrade: Random Box x5",
+   "enhance_desc_th": "อัปเกรด: กล่องสุ่ม x5"
+  },
+  {
+   "id": 14,
+   "rarity": 2,
+   "card_type": 13,
+   "sub_type": "",
+   "sub_rarity": 0,
+   "add_num": 3,
+   "add_type": "10",
+   "add_rarity_weights": [
+    {
+     "type": 1,
+     "value": 70.0
+    },
+    {
+     "type": 2,
+     "value": 25.0
+    },
+    {
+     "type": 3,
+     "value": 5.0
+    }
+   ],
+   "icon": "T_UI_Sourcenet_Icon_Increase_1",
+   "card_title": "Random Empowerment",
+   "card_title_th": "Empowerment แบบสุ่ม",
+   "enhance_name": "Random Empowerment",
+   "enhance_name_th": "Empowerment แบบสุ่ม",
+   "enhance_desc": "Upgrade: Random Box x3",
+   "enhance_desc_th": "อัปเกรด: กล่องสุ่ม x3"
+  },
+  {
+   "id": 15,
+   "rarity": 3,
+   "card_type": 13,
+   "sub_type": "",
+   "sub_rarity": 0,
+   "add_num": -1,
+   "add_type": "11",
+   "add_rarity_weights": [
+    {
+     "type": 1,
+     "value": 100.0
+    }
+   ],
+   "icon": "T_UI_Sourcenet_Icon_Increase_1",
+   "card_title": "Primary Evolution",
+   "card_title_th": "Evolution ขั้นต้น",
+   "enhance_name": "Primary Evolution",
+   "enhance_name_th": "Evolution ขั้นต้น",
+   "enhance_desc": "Upgrade: All Primary Boxes",
+   "enhance_desc_th": "อัปเกรด: กล่องขั้นต้นทั้งหมด"
+  },
+  {
+   "id": 16,
+   "rarity": 1,
+   "card_type": 13,
+   "sub_type": "",
+   "sub_rarity": 0,
+   "add_num": 3,
+   "add_type": "11",
+   "add_rarity_weights": [
+    {
+     "type": 1,
+     "value": 100.0
+    }
+   ],
+   "icon": "T_UI_Sourcenet_Icon_Increase_1",
+   "card_title": "Primary Promotion",
+   "card_title_th": "Primary Promotion",
+   "enhance_name": "Primary Promotion",
+   "enhance_name_th": "Primary Promotion",
+   "enhance_desc": "Upgrade: Primary Box x3",
+   "enhance_desc_th": "อัปเกรด: กล่องขั้นต้น x3"
+  },
+  {
+   "id": 17,
+   "rarity": 3,
+   "card_type": 13,
+   "sub_type": "",
+   "sub_rarity": 0,
+   "add_num": 4,
+   "add_type": "11",
+   "add_rarity_weights": [
+    {
+     "type": 2,
+     "value": 100.0
+    }
+   ],
+   "icon": "T_UI_Sourcenet_Icon_Increase_1",
+   "card_title": "Intermediate Leap",
+   "card_title_th": "Intermediate Leap",
+   "enhance_name": "Intermediate Leap",
+   "enhance_name_th": "Intermediate Leap",
+   "enhance_desc": "Upgrade: Intermediate Box x4",
+   "enhance_desc_th": "อัปเกรด: กล่องขั้นกลาง x4"
+  },
+  {
+   "id": 18,
+   "rarity": 2,
+   "card_type": 13,
+   "sub_type": "",
+   "sub_rarity": 0,
+   "add_num": 2,
+   "add_type": "11",
+   "add_rarity_weights": [
+    {
+     "type": 2,
+     "value": 100.0
+    }
+   ],
+   "icon": "T_UI_Sourcenet_Icon_Increase_1",
+   "card_title": "Intermediate Leap",
+   "card_title_th": "Intermediate Leap",
+   "enhance_name": "Intermediate Leap",
+   "enhance_name_th": "Intermediate Leap",
+   "enhance_desc": "Upgrade: Intermediate Box x2",
+   "enhance_desc_th": "อัปเกรด: กล่องขั้นกลาง x2"
+  },
+  {
+   "id": 19,
+   "rarity": 3,
+   "card_type": 13,
+   "sub_type": "",
+   "sub_rarity": 0,
+   "add_num": 3,
+   "add_type": "11",
+   "add_rarity_weights": [
+    {
+     "type": 3,
+     "value": 100.0
+    }
+   ],
+   "icon": "T_UI_Sourcenet_Icon_Increase_1",
+   "card_title": "Advanced Ascension",
+   "card_title_th": "Ascension ขั้นสูง",
+   "enhance_name": "Ultimate Ascension",
+   "enhance_name_th": "การยกระดับขั้นสูงสุด",
+   "enhance_desc": "Upgrade: Advanced Box x3",
+   "enhance_desc_th": "อัปเกรด: กล่องขั้นสูง x3"
+  },
+  {
+   "id": 20,
+   "rarity": 2,
+   "card_type": 13,
+   "sub_type": "",
+   "sub_rarity": 0,
+   "add_num": 1,
+   "add_type": "11",
+   "add_rarity_weights": [
+    {
+     "type": 3,
+     "value": 100.0
+    }
+   ],
+   "icon": "T_UI_Sourcenet_Icon_Increase_1",
+   "card_title": "Advanced Ascension",
+   "card_title_th": "Ascension ขั้นสูง",
+   "enhance_name": "Ultimate Ascension",
+   "enhance_name_th": "การยกระดับขั้นสูงสุด",
+   "enhance_desc": "Upgrade: Advanced Box x1",
+   "enhance_desc_th": "อัปเกรด: กล่องขั้นสูง x1"
+  },
+  {
+   "id": 21,
+   "rarity": 3,
+   "card_type": 16,
+   "sub_type": "",
+   "sub_rarity": 0,
+   "add_num": -1,
+   "add_type": "1",
+   "add_rarity_weights": null,
+   "icon": "T_UI_Sourcenet_Icon_Increase_1",
+   "card_title": "Coin Evolution",
+   "card_title_th": "Data Evolution",
+   "enhance_name": "Coin Evolution",
+   "enhance_name_th": "Data Evolution",
+   "enhance_desc": "Upgrade: All Etheria Coin Boxes",
+   "enhance_desc_th": "อัปเกรด: กล่อง Etheria Coin ทั้งหมด"
+  },
+  {
+   "id": 22,
+   "rarity": 3,
+   "card_type": 16,
+   "sub_type": "",
+   "sub_rarity": 0,
+   "add_num": -1,
+   "add_type": "2",
+   "add_rarity_weights": null,
+   "icon": "T_UI_Sourcenet_Icon_Increase_1",
+   "card_title": "Data Evolution",
+   "card_title_th": "Data Evolution",
+   "enhance_name": "Data Evolution",
+   "enhance_name_th": "Data Evolution",
+   "enhance_desc": "Upgrade: All Training Data Boxes",
+   "enhance_desc_th": "อัปเกรด: กล่อง Training Data ทั้งหมด"
+  },
+  {
+   "id": 23,
+   "rarity": 3,
+   "card_type": 16,
+   "sub_type": "",
+   "sub_rarity": 0,
+   "add_num": -1,
+   "add_type": "3",
+   "add_rarity_weights": null,
+   "icon": "T_UI_Sourcenet_Icon_Increase_1",
+   "card_title": "Shadowprint Evolution",
+   "card_title_th": "Shadowprint Evolution",
+   "enhance_name": "Shadowprint Evolution",
+   "enhance_name_th": "Shadowprint Evolution",
+   "enhance_desc": "Upgrade: All Shadowprint Boxes",
+   "enhance_desc_th": "อัปเกรด: กล่องชาโดว์พรินต์ทั้งหมด"
+  },
+  {
+   "id": 24,
+   "rarity": 3,
+   "card_type": 16,
+   "sub_type": "",
+   "sub_rarity": 0,
+   "add_num": -1,
+   "add_type": "6",
+   "add_rarity_weights": null,
+   "icon": "T_UI_Sourcenet_Icon_Increase_1",
+   "card_title": "Lattice Evolution",
+   "card_title_th": "Lattice Evolution",
+   "enhance_name": "Lattice Evolution",
+   "enhance_name_th": "Lattice Evolution",
+   "enhance_desc": "Upgrade: All Lattice Boxes",
+   "enhance_desc_th": "อัปเกรด: กล่อง Lattice ทั้งหมด"
+  },
+  {
+   "id": 25,
+   "rarity": 3,
+   "card_type": 16,
+   "sub_type": "",
+   "sub_rarity": 0,
+   "add_num": -1,
+   "add_type": "4",
+   "add_rarity_weights": null,
+   "icon": "T_UI_Sourcenet_Icon_Increase_1",
+   "card_title": "Diamond Evolution",
+   "card_title_th": "Diamond Evolution",
+   "enhance_name": "Diamond Evolution",
+   "enhance_name_th": "Diamond Evolution",
+   "enhance_desc": "Upgrade: All Crystal Boxes",
+   "enhance_desc_th": "อัปเกรด: กล่องคริสตัลทั้งหมด"
+  },
+  {
+   "id": 26,
+   "rarity": 3,
+   "card_type": 16,
+   "sub_type": "",
+   "sub_rarity": 0,
+   "add_num": -1,
+   "add_type": "5",
+   "add_rarity_weights": null,
+   "icon": "T_UI_Sourcenet_Icon_Increase_1",
+   "card_title": "Enhancement Evolution",
+   "card_title_th": "Enhancement Evolution",
+   "enhance_name": "Enhancement Evolution",
+   "enhance_name_th": "Enhancement Evolution",
+   "enhance_desc": "Upgrade: All Enhanced Prototype Boxes",
+   "enhance_desc_th": "อัปเกรด: กล่อง Enhanced Prototype ทั้งหมด"
+  },
+  {
+   "id": 27,
+   "rarity": 2,
+   "card_type": 4,
+   "sub_type": "10",
+   "sub_rarity": 10,
+   "add_num": 0,
+   "add_type": "4",
+   "add_rarity_weights": null,
+   "icon": "T_UI_Sourcenet_Icon_Increase_1",
+   "card_title": "Diamondization",
+   "card_title_th": "Diamondization",
+   "enhance_name": "Diamondization",
+   "enhance_name_th": "Diamondization",
+   "enhance_desc": "Convert: 3 Random Box(es) to Crystal Box(es)",
+   "enhance_desc_th": "แปลง: กล่องสุ่ม 3 กล่องเป็นกล่องคริสตัล"
+  },
+  {
+   "id": 28,
+   "rarity": 2,
+   "card_type": 4,
+   "sub_type": "10",
+   "sub_rarity": 10,
+   "add_num": 0,
+   "add_type": "6",
+   "add_rarity_weights": null,
+   "icon": "T_UI_Sourcenet_Icon_Increase_1",
+   "card_title": "Latticilation",
+   "card_title_th": "Latticilation",
+   "enhance_name": "Latticilation",
+   "enhance_name_th": "Latticilation",
+   "enhance_desc": "Convert: 3 Random Box(es) to Lattice Box(es)",
+   "enhance_desc_th": "แปลง: กล่องสุ่ม 3 กล่องเป็นกล่อง Lattice"
+  },
+  {
+   "id": 29,
+   "rarity": 2,
+   "card_type": 4,
+   "sub_type": "10",
+   "sub_rarity": 10,
+   "add_num": 0,
+   "add_type": "5",
+   "add_rarity_weights": null,
+   "icon": "T_UI_Sourcenet_Icon_Increase_1",
+   "card_title": "Enhancing",
+   "card_title_th": "การเสริมพลัง",
+   "enhance_name": "Enhancing",
+   "enhance_name_th": "การเสริมพลัง",
+   "enhance_desc": "Convert: 3 Random Box(es) to Enhanced Prototype Box(es)",
+   "enhance_desc_th": "แปลง: กล่องสุ่ม 3 กล่องเป็นกล่อง Enhanced Prototype"
+  }
+ ],
+ "text_chunk": "00114_ed1b8b2c515b0e8d.json"
+}

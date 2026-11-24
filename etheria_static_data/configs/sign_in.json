@@ -1,0 +1,206 @@
+{
+ "config": "sign_in",
+ "fields": [
+  "day",
+  "receive"
+ ],
+ "rows": [
+  {
+   "day": 1,
+   "receive": {
+    "id": 10001,
+    "count": 100000
+   }
+  },
+  {
+   "day": 2,
+   "receive": {
+    "id": 10111,
+    "count": 1
+   }
+  },
+  {
+   "day": 3,
+   "receive": {
+    "id": 10114,
+    "count": 5
+   }
+  },
+  {
+   "day": 4,
+   "receive": {
+    "id": 10101,
+    "count": 50000
+   }
+  },
+  {
+   "day": 5,
+   "receive": {
+    "id": 10011,
+    "count": 100
+   }
+  },
+  {
+   "day": 6,
+   "receive": {
+    "id": 10202,
+    "count": 1
+   }
+  },
+  {
+   "day": 7,
+   "receive": {
+    "id": 10133,
+    "count": 1
+   }
+  },
+  {
+   "day": 8,
+   "receive": {
+    "id": 10001,
+    "count": 100000
+   }
+  },
+  {
+   "day": 9,
+   "receive": {
+    "id": 10111,
+    "count": 1
+   }
+  },
+  {
+   "day": 10,
+   "receive": {
+    "id": 10114,
+    "count": 5
+   }
+  },
+  {
+   "day": 11,
+   "receive": {
+    "id": 10101,
+    "count": 50000
+   }
+  },
+  {
+   "day": 12,
+   "receive": {
+    "id": 10011,
+    "count": 100
+   }
+  },
+  {
+   "day": 13,
+   "receive": {
+    "id": 10202,
+    "count": 1
+   }
+  },
+  {
+   "day": 14,
+   "receive": {
+    "id": 10116,
+    "count": 1
+   }
+  },
+  {
+   "day": 15,
+   "receive": {
+    "id": 10001,
+    "count": 100000
+   }
+  },
+  {
+   "day": 16,
+   "receive": {
+    "id": 10111,
+    "count": 1
+   }
+  },
+  {
+   "day": 17,
+   "receive": {
+    "id": 10114,
+    "count": 5
+   }
+  },
+  {
+   "day": 18,
+   "receive": {
+    "id": 10101,
+    "count": 50000
+   }
+  },
+  {
+   "day": 19,
+   "receive": {
+    "id": 10011,
+    "count": 100
+   }
+  },
+  {
+   "day": 20,
+   "receive": {
+    "id": 10202,
+    "count": 1
+   }
+  },
+  {
+   "day": 21,
+   "receive": {
+    "id": 10133,
+    "count": 1
+   }
+  },
+  {
+   "day": 22,
+   "receive": {
+    "id": 10001,
+    "count": 100000
+   }
+  },
+  {
+   "day": 23,
+   "receive": {
+    "id": 10111,
+    "count": 1
+   }
+  },
+  {
+   "day": 24,
+   "receive": {
+    "id": 10114,
+    "count": 5
+   }
+  },
+  {
+   "day": 25,
+   "receive": {
+    "id": 10101,
+    "count": 50000
+   }
+  },
+  {
+   "day": 26,
+   "receive": {
+    "id": 10011,
+    "count": 100
+   }
+  },
+  {
+   "day": 27,
+   "receive": {
+    "id": 10202,
+    "count": 1
+   }
+  },
+  {
+   "day": 28,
+   "receive": {
+    "id": 10116,
+    "count": 1
+   }
+  }
+ ],
+ "text_chunk": null
+}

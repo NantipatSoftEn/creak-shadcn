@@ -1,0 +1,6311 @@
+{
+ "config": "afk_dungeonsection",
+ "fields": [
+  "id",
+  "pre_section",
+  "drop_list",
+  "head_postfix",
+  "first_drop_list",
+  "diff_color",
+  "name",
+  "section_descript"
+ ],
+ "rows": {
+  "30001010": {
+   "id": 30001010,
+   "pre_section": [
+    "29001030"
+   ],
+   "drop_list": [
+    {
+     "id": 40902,
+     "count": -1
+    },
+    {
+     "id": 40702,
+     "count": -1
+    },
+    {
+     "id": 41502,
+     "count": -1
+    },
+    {
+     "id": 41302,
+     "count": -1
+    },
+    {
+     "id": 41902,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Apate",
+   "first_drop_list": null,
+   "diff_color": 2,
+   "name": [
+    "Apate",
+    "Floor 1"
+   ],
+   "name_th": [
+    "Apate",
+    "F1"
+   ],
+   "section_descript": "<Black>A mysterious magician with a passion for card tricks and absolutely no ambition. All she wants is to live a quiet, comfortable life. Just never try to spoil her act. You will regret it.</>",
+   "section_descript_th": "<Black>นักมายากลลึกลับที่รักการเล่นไพ่ แต่ไม่มีความทะเยอทะยาน ต้องการแค่ใช้ชีวิตอย่างสบาย ๆ เท่านั้น อย่างไรก็ตาม อย่าพยายามขัดขวางมายากลของเธอเด็ดขาด ไม่เช่นนั้นจะเกิดเรื่องเลวร้ายขึ้น</>"
+  },
+  "30001020": {
+   "id": 30001020,
+   "pre_section": [
+    "30001010",
+    "29001030"
+   ],
+   "drop_list": [
+    {
+     "id": 40903,
+     "count": -1
+    },
+    {
+     "id": 40703,
+     "count": -1
+    },
+    {
+     "id": 41503,
+     "count": -1
+    },
+    {
+     "id": 41303,
+     "count": -1
+    },
+    {
+     "id": 41903,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Apate",
+   "first_drop_list": null,
+   "diff_color": 3,
+   "name": [
+    "Apate",
+    "Floor 2"
+   ],
+   "name_th": [
+    "Apate",
+    "F2"
+   ],
+   "section_descript": "<Black>A mysterious magician with a passion for card tricks and absolutely no ambition. All she wants is to live a quiet, comfortable life. Just never try to spoil her act. You will regret it.</>",
+   "section_descript_th": "<Black>นักมายากลลึกลับที่รักการเล่นไพ่ แต่ไม่มีความทะเยอทะยาน ต้องการแค่ใช้ชีวิตอย่างสบาย ๆ เท่านั้น อย่างไรก็ตาม อย่าพยายามขัดขวางมายากลของเธอเด็ดขาด ไม่เช่นนั้นจะเกิดเรื่องเลวร้ายขึ้น</>"
+  },
+  "30001030": {
+   "id": 30001030,
+   "pre_section": [
+    "30001020",
+    "29001030"
+   ],
+   "drop_list": [
+    {
+     "id": 40903,
+     "count": -1
+    },
+    {
+     "id": 40703,
+     "count": -1
+    },
+    {
+     "id": 41503,
+     "count": -1
+    },
+    {
+     "id": 41303,
+     "count": -1
+    },
+    {
+     "id": 41903,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Apate",
+   "first_drop_list": null,
+   "diff_color": 3,
+   "name": [
+    "Apate",
+    "Floor 3"
+   ],
+   "name_th": [
+    "Apate",
+    "F3"
+   ],
+   "section_descript": "<Black>A mysterious magician with a passion for card tricks and absolutely no ambition. All she wants is to live a quiet, comfortable life. Just never try to spoil her act. You will regret it.</>",
+   "section_descript_th": "<Black>นักมายากลลึกลับที่รักการเล่นไพ่ แต่ไม่มีความทะเยอทะยาน ต้องการแค่ใช้ชีวิตอย่างสบาย ๆ เท่านั้น อย่างไรก็ตาม อย่าพยายามขัดขวางมายากลของเธอเด็ดขาด ไม่เช่นนั้นจะเกิดเรื่องเลวร้ายขึ้น</>"
+  },
+  "30001040": {
+   "id": 30001040,
+   "pre_section": [
+    "30001030",
+    "29001030"
+   ],
+   "drop_list": [
+    {
+     "id": 40903,
+     "count": -1
+    },
+    {
+     "id": 40703,
+     "count": -1
+    },
+    {
+     "id": 41503,
+     "count": -1
+    },
+    {
+     "id": 41303,
+     "count": -1
+    },
+    {
+     "id": 41903,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Apate",
+   "first_drop_list": null,
+   "diff_color": 3,
+   "name": [
+    "Apate",
+    "Floor 4"
+   ],
+   "name_th": [
+    "Apate",
+    "F4"
+   ],
+   "section_descript": "<Black>A mysterious magician with a passion for card tricks and absolutely no ambition. All she wants is to live a quiet, comfortable life. Just never try to spoil her act. You will regret it.</>",
+   "section_descript_th": "<Black>นักมายากลลึกลับที่รักการเล่นไพ่ แต่ไม่มีความทะเยอทะยาน ต้องการแค่ใช้ชีวิตอย่างสบาย ๆ เท่านั้น อย่างไรก็ตาม อย่าพยายามขัดขวางมายากลของเธอเด็ดขาด ไม่เช่นนั้นจะเกิดเรื่องเลวร้ายขึ้น</>"
+  },
+  "30001050": {
+   "id": 30001050,
+   "pre_section": [
+    "30001040",
+    "29001030"
+   ],
+   "drop_list": [
+    {
+     "id": 40903,
+     "count": -1
+    },
+    {
+     "id": 40703,
+     "count": -1
+    },
+    {
+     "id": 41503,
+     "count": -1
+    },
+    {
+     "id": 41303,
+     "count": -1
+    },
+    {
+     "id": 41903,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Apate",
+   "first_drop_list": null,
+   "diff_color": 3,
+   "name": [
+    "Apate",
+    "Floor 5"
+   ],
+   "name_th": [
+    "Apate",
+    "F5"
+   ],
+   "section_descript": "<Black>A mysterious magician with a passion for card tricks and absolutely no ambition. All she wants is to live a quiet, comfortable life. Just never try to spoil her act. You will regret it.</>",
+   "section_descript_th": "<Black>นักมายากลลึกลับที่รักการเล่นไพ่ แต่ไม่มีความทะเยอทะยาน ต้องการแค่ใช้ชีวิตอย่างสบาย ๆ เท่านั้น อย่างไรก็ตาม อย่าพยายามขัดขวางมายากลของเธอเด็ดขาด ไม่เช่นนั้นจะเกิดเรื่องเลวร้ายขึ้น</>"
+  },
+  "30001060": {
+   "id": 30001060,
+   "pre_section": [
+    "30001050",
+    "29001030"
+   ],
+   "drop_list": [
+    {
+     "id": 40903,
+     "count": -1
+    },
+    {
+     "id": 40703,
+     "count": -1
+    },
+    {
+     "id": 41503,
+     "count": -1
+    },
+    {
+     "id": 41303,
+     "count": -1
+    },
+    {
+     "id": 41903,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Apate",
+   "first_drop_list": null,
+   "diff_color": 3,
+   "name": [
+    "Apate",
+    "Floor 6"
+   ],
+   "name_th": [
+    "Apate",
+    "F6"
+   ],
+   "section_descript": "<Black>A mysterious magician with a passion for card tricks and absolutely no ambition. All she wants is to live a quiet, comfortable life. Just never try to spoil her act. You will regret it.</>",
+   "section_descript_th": "<Black>นักมายากลลึกลับที่รักการเล่นไพ่ แต่ไม่มีความทะเยอทะยาน ต้องการแค่ใช้ชีวิตอย่างสบาย ๆ เท่านั้น อย่างไรก็ตาม อย่าพยายามขัดขวางมายากลของเธอเด็ดขาด ไม่เช่นนั้นจะเกิดเรื่องเลวร้ายขึ้น</>"
+  },
+  "30001070": {
+   "id": 30001070,
+   "pre_section": [
+    "30001060",
+    "29001030"
+   ],
+   "drop_list": [
+    {
+     "id": 40904,
+     "count": -1
+    },
+    {
+     "id": 40704,
+     "count": -1
+    },
+    {
+     "id": 41504,
+     "count": -1
+    },
+    {
+     "id": 41304,
+     "count": -1
+    },
+    {
+     "id": 41904,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Apate",
+   "first_drop_list": null,
+   "diff_color": 4,
+   "name": [
+    "Apate",
+    "Floor 7"
+   ],
+   "name_th": [
+    "Apate",
+    "F7"
+   ],
+   "section_descript": "<Black>A mysterious magician with a passion for card tricks and absolutely no ambition. All she wants is to live a quiet, comfortable life. Just never try to spoil her act. You will regret it.</>",
+   "section_descript_th": "<Black>นักมายากลลึกลับที่รักการเล่นไพ่ แต่ไม่มีความทะเยอทะยาน ต้องการแค่ใช้ชีวิตอย่างสบาย ๆ เท่านั้น อย่างไรก็ตาม อย่าพยายามขัดขวางมายากลของเธอเด็ดขาด ไม่เช่นนั้นจะเกิดเรื่องเลวร้ายขึ้น</>"
+  },
+  "30001080": {
+   "id": 30001080,
+   "pre_section": [
+    "30001070",
+    "29001030"
+   ],
+   "drop_list": [
+    {
+     "id": 40904,
+     "count": -1
+    },
+    {
+     "id": 40704,
+     "count": -1
+    },
+    {
+     "id": 41504,
+     "count": -1
+    },
+    {
+     "id": 41304,
+     "count": -1
+    },
+    {
+     "id": 41904,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Apate",
+   "first_drop_list": null,
+   "diff_color": 4,
+   "name": [
+    "Apate",
+    "Floor 8"
+   ],
+   "name_th": [
+    "Apate",
+    "F8"
+   ],
+   "section_descript": "<Black>A mysterious magician with a passion for card tricks and absolutely no ambition. All she wants is to live a quiet, comfortable life. Just never try to spoil her act. You will regret it.</>",
+   "section_descript_th": "<Black>นักมายากลลึกลับที่รักการเล่นไพ่ แต่ไม่มีความทะเยอทะยาน ต้องการแค่ใช้ชีวิตอย่างสบาย ๆ เท่านั้น อย่างไรก็ตาม อย่าพยายามขัดขวางมายากลของเธอเด็ดขาด ไม่เช่นนั้นจะเกิดเรื่องเลวร้ายขึ้น</>"
+  },
+  "30001090": {
+   "id": 30001090,
+   "pre_section": [
+    "30001080",
+    "29001030"
+   ],
+   "drop_list": [
+    {
+     "id": 40904,
+     "count": -1
+    },
+    {
+     "id": 40704,
+     "count": -1
+    },
+    {
+     "id": 41504,
+     "count": -1
+    },
+    {
+     "id": 41304,
+     "count": -1
+    },
+    {
+     "id": 41904,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Apate",
+   "first_drop_list": null,
+   "diff_color": 4,
+   "name": [
+    "Apate",
+    "Floor 9"
+   ],
+   "name_th": [
+    "Apate",
+    "F9"
+   ],
+   "section_descript": "<Black>A mysterious magician with a passion for card tricks and absolutely no ambition. All she wants is to live a quiet, comfortable life. Just never try to spoil her act. You will regret it.</>",
+   "section_descript_th": "<Black>นักมายากลลึกลับที่รักการเล่นไพ่ แต่ไม่มีความทะเยอทะยาน ต้องการแค่ใช้ชีวิตอย่างสบาย ๆ เท่านั้น อย่างไรก็ตาม อย่าพยายามขัดขวางมายากลของเธอเด็ดขาด ไม่เช่นนั้นจะเกิดเรื่องเลวร้ายขึ้น</>"
+  },
+  "30001100": {
+   "id": 30001100,
+   "pre_section": [
+    "30001090",
+    "29001030"
+   ],
+   "drop_list": [
+    {
+     "id": 40904,
+     "count": -1
+    },
+    {
+     "id": 40704,
+     "count": -1
+    },
+    {
+     "id": 41504,
+     "count": -1
+    },
+    {
+     "id": 41304,
+     "count": -1
+    },
+    {
+     "id": 41904,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Apate",
+   "first_drop_list": null,
+   "diff_color": 4,
+   "name": [
+    "Apate",
+    "Floor 10"
+   ],
+   "name_th": [
+    "Apate",
+    "F10"
+   ],
+   "section_descript": "<Black>A mysterious magician with a passion for card tricks and absolutely no ambition. All she wants is to live a quiet, comfortable life. Just never try to spoil her act. You will regret it.</>",
+   "section_descript_th": "<Black>นักมายากลลึกลับที่รักการเล่นไพ่ แต่ไม่มีความทะเยอทะยาน ต้องการแค่ใช้ชีวิตอย่างสบาย ๆ เท่านั้น อย่างไรก็ตาม อย่าพยายามขัดขวางมายากลของเธอเด็ดขาด ไม่เช่นนั้นจะเกิดเรื่องเลวร้ายขึ้น</>"
+  },
+  "30001110": {
+   "id": 30001110,
+   "pre_section": [
+    "30001100",
+    "29001030"
+   ],
+   "drop_list": [
+    {
+     "id": 42004,
+     "count": -1
+    },
+    {
+     "id": 44004,
+     "count": -1
+    },
+    {
+     "id": 42504,
+     "count": -1
+    },
+    {
+     "id": 42404,
+     "count": -1
+    },
+    {
+     "id": 41704,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Apate",
+   "first_drop_list": null,
+   "diff_color": 4,
+   "name": [
+    "Apate",
+    "Floor 11"
+   ],
+   "name_th": [
+    "Apate",
+    "F11"
+   ],
+   "section_descript": "<Black>A mysterious magician with a passion for card tricks and absolutely no ambition. All she wants is to live a quiet, comfortable life. Just never try to spoil her act. You will regret it.</>",
+   "section_descript_th": "<Black>นักมายากลลึกลับที่รักการเล่นไพ่ แต่ไม่มีความทะเยอทะยาน ต้องการแค่ใช้ชีวิตอย่างสบาย ๆ เท่านั้น อย่างไรก็ตาม อย่าพยายามขัดขวางมายากลของเธอเด็ดขาด ไม่เช่นนั้นจะเกิดเรื่องเลวร้ายขึ้น</>"
+  },
+  "30001120": {
+   "id": 30001120,
+   "pre_section": [
+    "30001110",
+    "29001030"
+   ],
+   "drop_list": [
+    {
+     "id": 42005,
+     "count": -1
+    },
+    {
+     "id": 44005,
+     "count": -1
+    },
+    {
+     "id": 42505,
+     "count": -1
+    },
+    {
+     "id": 42405,
+     "count": -1
+    },
+    {
+     "id": 41705,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Apate",
+   "first_drop_list": null,
+   "diff_color": 5,
+   "name": [
+    "Apate",
+    "Floor 12"
+   ],
+   "name_th": [
+    "Apate",
+    "F12"
+   ],
+   "section_descript": "<Black>A mysterious magician with a passion for card tricks and absolutely no ambition. All she wants is to live a quiet, comfortable life. Just never try to spoil her act. You will regret it.</>",
+   "section_descript_th": "<Black>นักมายากลลึกลับที่รักการเล่นไพ่ แต่ไม่มีความทะเยอทะยาน ต้องการแค่ใช้ชีวิตอย่างสบาย ๆ เท่านั้น อย่างไรก็ตาม อย่าพยายามขัดขวางมายากลของเธอเด็ดขาด ไม่เช่นนั้นจะเกิดเรื่องเลวร้ายขึ้น</>"
+  },
+  "30001130": {
+   "id": 30001130,
+   "pre_section": [
+    "30001120",
+    "29001030"
+   ],
+   "drop_list": [
+    {
+     "id": 42005,
+     "count": -1
+    },
+    {
+     "id": 44005,
+     "count": -1
+    },
+    {
+     "id": 42505,
+     "count": -1
+    },
+    {
+     "id": 42405,
+     "count": -1
+    },
+    {
+     "id": 41705,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Apate",
+   "first_drop_list": null,
+   "diff_color": 5,
+   "name": [
+    "Apate",
+    "Floor 13"
+   ],
+   "name_th": [
+    "Apate",
+    "F13"
+   ],
+   "section_descript": "<Black>A mysterious magician with a passion for card tricks and absolutely no ambition. All she wants is to live a quiet, comfortable life. Just never try to spoil her act. You will regret it.</>",
+   "section_descript_th": "<Black>นักมายากลลึกลับที่รักการเล่นไพ่ แต่ไม่มีความทะเยอทะยาน ต้องการแค่ใช้ชีวิตอย่างสบาย ๆ เท่านั้น อย่างไรก็ตาม อย่าพยายามขัดขวางมายากลของเธอเด็ดขาด ไม่เช่นนั้นจะเกิดเรื่องเลวร้ายขึ้น</>"
+  },
+  "30001140": {
+   "id": 30001140,
+   "pre_section": [
+    "30001130",
+    "29001030"
+   ],
+   "drop_list": [
+    {
+     "id": 42005,
+     "count": -1
+    },
+    {
+     "id": 44005,
+     "count": -1
+    },
+    {
+     "id": 42505,
+     "count": -1
+    },
+    {
+     "id": 42405,
+     "count": -1
+    },
+    {
+     "id": 41705,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Apate",
+   "first_drop_list": null,
+   "diff_color": 5,
+   "name": [
+    "Apate",
+    "Floor 14"
+   ],
+   "name_th": [
+    "Apate",
+    "F14"
+   ],
+   "section_descript": "<Black>A mysterious magician with a passion for card tricks and absolutely no ambition. All she wants is to live a quiet, comfortable life. Just never try to spoil her act. You will regret it.</>",
+   "section_descript_th": "<Black>นักมายากลลึกลับที่รักการเล่นไพ่ แต่ไม่มีความทะเยอทะยาน ต้องการแค่ใช้ชีวิตอย่างสบาย ๆ เท่านั้น อย่างไรก็ตาม อย่าพยายามขัดขวางมายากลของเธอเด็ดขาด ไม่เช่นนั้นจะเกิดเรื่องเลวร้ายขึ้น</>"
+  },
+  "30001150": {
+   "id": 30001150,
+   "pre_section": [
+    "30001140",
+    "29001030"
+   ],
+   "drop_list": [
+    {
+     "id": 42005,
+     "count": -1
+    },
+    {
+     "id": 44005,
+     "count": -1
+    },
+    {
+     "id": 42505,
+     "count": -1
+    },
+    {
+     "id": 42405,
+     "count": -1
+    },
+    {
+     "id": 41705,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Apate",
+   "first_drop_list": null,
+   "diff_color": 5,
+   "name": [
+    "Apate",
+    "Floor 15"
+   ],
+   "name_th": [
+    "Apate",
+    "F15"
+   ],
+   "section_descript": "<Black>A mysterious magician with a passion for card tricks and absolutely no ambition. All she wants is to live a quiet, comfortable life. Just never try to spoil her act. You will regret it.</>",
+   "section_descript_th": "<Black>นักมายากลลึกลับที่รักการเล่นไพ่ แต่ไม่มีความทะเยอทะยาน ต้องการแค่ใช้ชีวิตอย่างสบาย ๆ เท่านั้น อย่างไรก็ตาม อย่าพยายามขัดขวางมายากลของเธอเด็ดขาด ไม่เช่นนั้นจะเกิดเรื่องเลวร้ายขึ้น</>"
+  },
+  "30001160": {
+   "id": 30001160,
+   "pre_section": [
+    "30001150",
+    "29001030"
+   ],
+   "drop_list": [
+    {
+     "id": 42005,
+     "count": -1
+    },
+    {
+     "id": 44005,
+     "count": -1
+    },
+    {
+     "id": 42505,
+     "count": -1
+    },
+    {
+     "id": 42405,
+     "count": -1
+    },
+    {
+     "id": 41705,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Apate",
+   "first_drop_list": null,
+   "diff_color": 5,
+   "name": [
+    "Apate",
+    "Floor 16"
+   ],
+   "name_th": [
+    "Apate",
+    "F16"
+   ],
+   "section_descript": "<Black>A mysterious magician with a passion for card tricks and absolutely no ambition. All she wants is to live a quiet, comfortable life. Just never try to spoil her act. You will regret it.</>",
+   "section_descript_th": "<Black>นักมายากลลึกลับที่รักการเล่นไพ่ แต่ไม่มีความทะเยอทะยาน ต้องการแค่ใช้ชีวิตอย่างสบาย ๆ เท่านั้น อย่างไรก็ตาม อย่าพยายามขัดขวางมายากลของเธอเด็ดขาด ไม่เช่นนั้นจะเกิดเรื่องเลวร้ายขึ้น</>"
+  },
+  "30001170": {
+   "id": 30001170,
+   "pre_section": [
+    "30001160",
+    "29001030"
+   ],
+   "drop_list": [
+    {
+     "id": 42006,
+     "count": -1
+    },
+    {
+     "id": 44006,
+     "count": -1
+    },
+    {
+     "id": 42506,
+     "count": -1
+    },
+    {
+     "id": 42406,
+     "count": -1
+    },
+    {
+     "id": 41706,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Apate",
+   "first_drop_list": null,
+   "diff_color": 6,
+   "name": [
+    "Apate",
+    "Floor 17"
+   ],
+   "name_th": [
+    "Apate",
+    "F17"
+   ],
+   "section_descript": "<Black>A mysterious magician with a passion for card tricks and absolutely no ambition. All she wants is to live a quiet, comfortable life. Just never try to spoil her act. You will regret it.</>",
+   "section_descript_th": "<Black>นักมายากลลึกลับที่รักการเล่นไพ่ แต่ไม่มีความทะเยอทะยาน ต้องการแค่ใช้ชีวิตอย่างสบาย ๆ เท่านั้น อย่างไรก็ตาม อย่าพยายามขัดขวางมายากลของเธอเด็ดขาด ไม่เช่นนั้นจะเกิดเรื่องเลวร้ายขึ้น</>"
+  },
+  "30001180": {
+   "id": 30001180,
+   "pre_section": [
+    "30001170",
+    "29001030"
+   ],
+   "drop_list": [
+    {
+     "id": 42006,
+     "count": -1
+    },
+    {
+     "id": 44006,
+     "count": -1
+    },
+    {
+     "id": 42506,
+     "count": -1
+    },
+    {
+     "id": 42406,
+     "count": -1
+    },
+    {
+     "id": 41706,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Apate",
+   "first_drop_list": null,
+   "diff_color": 6,
+   "name": [
+    "Apate",
+    "Floor 18"
+   ],
+   "name_th": [
+    "Apate",
+    "F18"
+   ],
+   "section_descript": "<Black>A mysterious magician with a passion for card tricks and absolutely no ambition. All she wants is to live a quiet, comfortable life. Just never try to spoil her act. You will regret it.</>",
+   "section_descript_th": "<Black>นักมายากลลึกลับที่รักการเล่นไพ่ แต่ไม่มีความทะเยอทะยาน ต้องการแค่ใช้ชีวิตอย่างสบาย ๆ เท่านั้น อย่างไรก็ตาม อย่าพยายามขัดขวางมายากลของเธอเด็ดขาด ไม่เช่นนั้นจะเกิดเรื่องเลวร้ายขึ้น</>"
+  },
+  "30001190": {
+   "id": 30001190,
+   "pre_section": [
+    "30001180",
+    "29001030"
+   ],
+   "drop_list": [
+    {
+     "id": 42006,
+     "count": -1
+    },
+    {
+     "id": 44006,
+     "count": -1
+    },
+    {
+     "id": 42506,
+     "count": -1
+    },
+    {
+     "id": 42406,
+     "count": -1
+    },
+    {
+     "id": 41706,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Apate",
+   "first_drop_list": null,
+   "diff_color": 6,
+   "name": [
+    "Apate",
+    "Floor 19"
+   ],
+   "name_th": [
+    "Apate",
+    "F19"
+   ],
+   "section_descript": "<Black>A mysterious magician with a passion for card tricks and absolutely no ambition. All she wants is to live a quiet, comfortable life. Just never try to spoil her act. You will regret it.</>",
+   "section_descript_th": "<Black>นักมายากลลึกลับที่รักการเล่นไพ่ แต่ไม่มีความทะเยอทะยาน ต้องการแค่ใช้ชีวิตอย่างสบาย ๆ เท่านั้น อย่างไรก็ตาม อย่าพยายามขัดขวางมายากลของเธอเด็ดขาด ไม่เช่นนั้นจะเกิดเรื่องเลวร้ายขึ้น</>"
+  },
+  "30001200": {
+   "id": 30001200,
+   "pre_section": [
+    "30001190",
+    "29001030"
+   ],
+   "drop_list": [
+    {
+     "id": 42006,
+     "count": -1
+    },
+    {
+     "id": 44006,
+     "count": -1
+    },
+    {
+     "id": 42506,
+     "count": -1
+    },
+    {
+     "id": 42406,
+     "count": -1
+    },
+    {
+     "id": 41706,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Apate",
+   "first_drop_list": null,
+   "diff_color": 6,
+   "name": [
+    "Apate",
+    "Floor 20"
+   ],
+   "name_th": [
+    "Apate",
+    "F20"
+   ],
+   "section_descript": "<Black>A mysterious magician with a passion for card tricks and absolutely no ambition. All she wants is to live a quiet, comfortable life. Just never try to spoil her act. You will regret it.</>",
+   "section_descript_th": "<Black>นักมายากลลึกลับที่รักการเล่นไพ่ แต่ไม่มีความทะเยอทะยาน ต้องการแค่ใช้ชีวิตอย่างสบาย ๆ เท่านั้น อย่างไรก็ตาม อย่าพยายามขัดขวางมายากลของเธอเด็ดขาด ไม่เช่นนั้นจะเกิดเรื่องเลวร้ายขึ้น</>"
+  },
+  "30001210": {
+   "id": 30001210,
+   "pre_section": [
+    "30001200",
+    "29001030"
+   ],
+   "drop_list": [
+    {
+     "id": 42006,
+     "count": -1
+    },
+    {
+     "id": 44006,
+     "count": -1
+    },
+    {
+     "id": 42506,
+     "count": -1
+    },
+    {
+     "id": 42406,
+     "count": -1
+    },
+    {
+     "id": 41706,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Apate",
+   "first_drop_list": null,
+   "diff_color": 6,
+   "name": [
+    "Apate",
+    "Floor 21"
+   ],
+   "name_th": [
+    "Apate",
+    "F21"
+   ],
+   "section_descript": "<Black>A mysterious magician with a passion for card tricks and absolutely no ambition. All she wants is to live a quiet, comfortable life. Just never try to spoil her act. You will regret it.</>",
+   "section_descript_th": "<Black>นักมายากลลึกลับที่รักการเล่นไพ่ แต่ไม่มีความทะเยอทะยาน ต้องการแค่ใช้ชีวิตอย่างสบาย ๆ เท่านั้น อย่างไรก็ตาม อย่าพยายามขัดขวางมายากลของเธอเด็ดขาด ไม่เช่นนั้นจะเกิดเรื่องเลวร้ายขึ้น</>"
+  },
+  "30001220": {
+   "id": 30001220,
+   "pre_section": [
+    "30001210",
+    "29001030"
+   ],
+   "drop_list": [
+    {
+     "id": 42007,
+     "count": -1
+    },
+    {
+     "id": 44007,
+     "count": -1
+    },
+    {
+     "id": 42507,
+     "count": -1
+    },
+    {
+     "id": 42407,
+     "count": -1
+    },
+    {
+     "id": 41707,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Apate",
+   "first_drop_list": null,
+   "diff_color": 7,
+   "name": [
+    "Apate",
+    "Floor 22"
+   ],
+   "name_th": [
+    "Apate",
+    "F22"
+   ],
+   "section_descript": "<Black>A mysterious magician with a passion for card tricks and absolutely no ambition. All she wants is to live a quiet, comfortable life. Just never try to spoil her act. You will regret it.</>",
+   "section_descript_th": "<Black>นักมายากลลึกลับที่รักการเล่นไพ่ แต่ไม่มีความทะเยอทะยาน ต้องการแค่ใช้ชีวิตอย่างสบาย ๆ เท่านั้น อย่างไรก็ตาม อย่าพยายามขัดขวางมายากลของเธอเด็ดขาด ไม่เช่นนั้นจะเกิดเรื่องเลวร้ายขึ้น</>"
+  },
+  "30001230": {
+   "id": 30001230,
+   "pre_section": [
+    "30001220",
+    "29001030"
+   ],
+   "drop_list": [
+    {
+     "id": 42007,
+     "count": -1
+    },
+    {
+     "id": 44007,
+     "count": -1
+    },
+    {
+     "id": 42507,
+     "count": -1
+    },
+    {
+     "id": 42407,
+     "count": -1
+    },
+    {
+     "id": 41707,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Apate",
+   "first_drop_list": null,
+   "diff_color": 7,
+   "name": [
+    "Apate",
+    "Floor 23"
+   ],
+   "name_th": [
+    "Apate",
+    "F23"
+   ],
+   "section_descript": "<Black>A mysterious magician with a passion for card tricks and absolutely no ambition. All she wants is to live a quiet, comfortable life. Just never try to spoil her act. You will regret it.</>",
+   "section_descript_th": "<Black>นักมายากลลึกลับที่รักการเล่นไพ่ แต่ไม่มีความทะเยอทะยาน ต้องการแค่ใช้ชีวิตอย่างสบาย ๆ เท่านั้น อย่างไรก็ตาม อย่าพยายามขัดขวางมายากลของเธอเด็ดขาด ไม่เช่นนั้นจะเกิดเรื่องเลวร้ายขึ้น</>"
+  },
+  "30001240": {
+   "id": 30001240,
+   "pre_section": [
+    "30001230",
+    "29001030"
+   ],
+   "drop_list": [
+    {
+     "id": 42007,
+     "count": -1
+    },
+    {
+     "id": 44007,
+     "count": -1
+    },
+    {
+     "id": 42507,
+     "count": -1
+    },
+    {
+     "id": 42407,
+     "count": -1
+    },
+    {
+     "id": 41707,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Apate",
+   "first_drop_list": null,
+   "diff_color": 7,
+   "name": [
+    "Apate",
+    "Floor 24"
+   ],
+   "name_th": [
+    "Apate",
+    "F24"
+   ],
+   "section_descript": "<Black>A mysterious magician with a passion for card tricks and absolutely no ambition. All she wants is to live a quiet, comfortable life. Just never try to spoil her act. You will regret it.</>",
+   "section_descript_th": "<Black>นักมายากลลึกลับที่รักการเล่นไพ่ แต่ไม่มีความทะเยอทะยาน ต้องการแค่ใช้ชีวิตอย่างสบาย ๆ เท่านั้น อย่างไรก็ตาม อย่าพยายามขัดขวางมายากลของเธอเด็ดขาด ไม่เช่นนั้นจะเกิดเรื่องเลวร้ายขึ้น</>"
+  },
+  "30001250": {
+   "id": 30001250,
+   "pre_section": [
+    "30001240",
+    "29001030"
+   ],
+   "drop_list": [
+    {
+     "id": 42007,
+     "count": -1
+    },
+    {
+     "id": 44007,
+     "count": -1
+    },
+    {
+     "id": 42507,
+     "count": -1
+    },
+    {
+     "id": 42407,
+     "count": -1
+    },
+    {
+     "id": 41707,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Apate",
+   "first_drop_list": null,
+   "diff_color": 7,
+   "name": [
+    "Apate",
+    "Floor 25"
+   ],
+   "name_th": [
+    "Apate",
+    "F25"
+   ],
+   "section_descript": "<Black>A mysterious magician with a passion for card tricks and absolutely no ambition. All she wants is to live a quiet, comfortable life. Just never try to spoil her act. You will regret it.</>",
+   "section_descript_th": "<Black>นักมายากลลึกลับที่รักการเล่นไพ่ แต่ไม่มีความทะเยอทะยาน ต้องการแค่ใช้ชีวิตอย่างสบาย ๆ เท่านั้น อย่างไรก็ตาม อย่าพยายามขัดขวางมายากลของเธอเด็ดขาด ไม่เช่นนั้นจะเกิดเรื่องเลวร้ายขึ้น</>"
+  },
+  "30001260": {
+   "id": 30001260,
+   "pre_section": [
+    "30001250",
+    "29001030"
+   ],
+   "drop_list": [
+    {
+     "id": 42007,
+     "count": -1
+    },
+    {
+     "id": 44007,
+     "count": -1
+    },
+    {
+     "id": 42507,
+     "count": -1
+    },
+    {
+     "id": 42407,
+     "count": -1
+    },
+    {
+     "id": 41707,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Apate",
+   "first_drop_list": null,
+   "diff_color": 7,
+   "name": [
+    "Apate",
+    "Floor 26"
+   ],
+   "name_th": [
+    "Apate",
+    "F26"
+   ],
+   "section_descript": "<Black>A mysterious magician with a passion for card tricks and absolutely no ambition. All she wants is to live a quiet, comfortable life. Just never try to spoil her act. You will regret it.</>",
+   "section_descript_th": "<Black>นักมายากลลึกลับที่รักการเล่นไพ่ แต่ไม่มีความทะเยอทะยาน ต้องการแค่ใช้ชีวิตอย่างสบาย ๆ เท่านั้น อย่างไรก็ตาม อย่าพยายามขัดขวางมายากลของเธอเด็ดขาด ไม่เช่นนั้นจะเกิดเรื่องเลวร้ายขึ้น</>"
+  },
+  "30001270": {
+   "id": 30001270,
+   "pre_section": [
+    "30001260",
+    "29001030"
+   ],
+   "drop_list": [
+    {
+     "id": 42007,
+     "count": -1
+    },
+    {
+     "id": 44007,
+     "count": -1
+    },
+    {
+     "id": 42507,
+     "count": -1
+    },
+    {
+     "id": 42407,
+     "count": -1
+    },
+    {
+     "id": 41707,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Apate",
+   "first_drop_list": null,
+   "diff_color": 7,
+   "name": [
+    "Apate",
+    "Floor 27"
+   ],
+   "name_th": [
+    "Apate",
+    "F27"
+   ],
+   "section_descript": "<Black>A mysterious magician with a passion for card tricks and absolutely no ambition. All she wants is to live a quiet, comfortable life. Just never try to spoil her act. You will regret it.</>",
+   "section_descript_th": "<Black>นักมายากลลึกลับที่รักการเล่นไพ่ แต่ไม่มีความทะเยอทะยาน ต้องการแค่ใช้ชีวิตอย่างสบาย ๆ เท่านั้น อย่างไรก็ตาม อย่าพยายามขัดขวางมายากลของเธอเด็ดขาด ไม่เช่นนั้นจะเกิดเรื่องเลวร้ายขึ้น</>"
+  },
+  "30001280": {
+   "id": 30001280,
+   "pre_section": [
+    "30001270",
+    "29001030"
+   ],
+   "drop_list": [
+    {
+     "id": 42007,
+     "count": -1
+    },
+    {
+     "id": 44007,
+     "count": -1
+    },
+    {
+     "id": 42507,
+     "count": -1
+    },
+    {
+     "id": 42407,
+     "count": -1
+    },
+    {
+     "id": 41707,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Apate",
+   "first_drop_list": null,
+   "diff_color": 7,
+   "name": [
+    "Apate",
+    "Floor 28"
+   ],
+   "name_th": [
+    "Apate",
+    "F28"
+   ],
+   "section_descript": "<Black>A mysterious magician with a passion for card tricks and absolutely no ambition. All she wants is to live a quiet, comfortable life. Just never try to spoil her act. You will regret it.</>",
+   "section_descript_th": "<Black>นักมายากลลึกลับที่รักการเล่นไพ่ แต่ไม่มีความทะเยอทะยาน ต้องการแค่ใช้ชีวิตอย่างสบาย ๆ เท่านั้น อย่างไรก็ตาม อย่าพยายามขัดขวางมายากลของเธอเด็ดขาด ไม่เช่นนั้นจะเกิดเรื่องเลวร้ายขึ้น</>"
+  },
+  "30001290": {
+   "id": 30001290,
+   "pre_section": [
+    "30001280",
+    "29001030"
+   ],
+   "drop_list": [
+    {
+     "id": 42007,
+     "count": -1
+    },
+    {
+     "id": 44007,
+     "count": -1
+    },
+    {
+     "id": 42507,
+     "count": -1
+    },
+    {
+     "id": 42407,
+     "count": -1
+    },
+    {
+     "id": 41707,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Apate",
+   "first_drop_list": null,
+   "diff_color": 7,
+   "name": [
+    "Apate",
+    "Floor 29"
+   ],
+   "name_th": [
+    "Apate",
+    "F29"
+   ],
+   "section_descript": "<Black>A mysterious magician with a passion for card tricks and absolutely no ambition. All she wants is to live a quiet, comfortable life. Just never try to spoil her act. You will regret it.</>",
+   "section_descript_th": "<Black>นักมายากลลึกลับที่รักการเล่นไพ่ แต่ไม่มีความทะเยอทะยาน ต้องการแค่ใช้ชีวิตอย่างสบาย ๆ เท่านั้น อย่างไรก็ตาม อย่าพยายามขัดขวางมายากลของเธอเด็ดขาด ไม่เช่นนั้นจะเกิดเรื่องเลวร้ายขึ้น</>"
+  },
+  "30001300": {
+   "id": 30001300,
+   "pre_section": [
+    "30001290",
+    "29001030"
+   ],
+   "drop_list": [
+    {
+     "id": 42007,
+     "count": -1
+    },
+    {
+     "id": 44007,
+     "count": -1
+    },
+    {
+     "id": 42507,
+     "count": -1
+    },
+    {
+     "id": 42407,
+     "count": -1
+    },
+    {
+     "id": 41707,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Apate",
+   "first_drop_list": null,
+   "diff_color": 7,
+   "name": [
+    "Apate",
+    "Floor 30"
+   ],
+   "name_th": [
+    "Apate",
+    "F30"
+   ],
+   "section_descript": "<Black>A mysterious magician with a passion for card tricks and absolutely no ambition. All she wants is to live a quiet, comfortable life. Just never try to spoil her act. You will regret it.</>",
+   "section_descript_th": "<Black>นักมายากลลึกลับที่รักการเล่นไพ่ แต่ไม่มีความทะเยอทะยาน ต้องการแค่ใช้ชีวิตอย่างสบาย ๆ เท่านั้น อย่างไรก็ตาม อย่าพยายามขัดขวางมายากลของเธอเด็ดขาด ไม่เช่นนั้นจะเกิดเรื่องเลวร้ายขึ้น</>"
+  },
+  "30002010": {
+   "id": 30002010,
+   "pre_section": [
+    "29002030"
+   ],
+   "drop_list": [
+    {
+     "id": 40402,
+     "count": -1
+    },
+    {
+     "id": 40802,
+     "count": -1
+    },
+    {
+     "id": 41802,
+     "count": -1
+    },
+    {
+     "id": 41602,
+     "count": -1
+    },
+    {
+     "id": 41702,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Whitney",
+   "first_drop_list": null,
+   "diff_color": 2,
+   "name": [
+    "Whitney",
+    "Floor 1"
+   ],
+   "name_th": [
+    "Whitney",
+    "F1"
+   ],
+   "section_descript": "<Black>Leiboz Life's foremost mechanical engineer. She is obsessed with the precision of retro machinery and walks paths no one has taken before. Anyone who stands in her way becomes her enemy.</>",
+   "section_descript_th": "<Black>วิศวกรเครื่องกลแถวหน้าของ Leiboz Life เธอหมกมุ่นอยู่กับการทำงานที่แม่นยำของเครื่องจักรย้อนยุค อีกทั้งยังออกสำรวจเส้นทางที่ไม่มีใครเคยเดินมาก่อนอีกด้วย คนที่ขวางทางเธอจะกลายเป็นศัตรูของเธอ</>"
+  },
+  "30002020": {
+   "id": 30002020,
+   "pre_section": [
+    "30002010",
+    "29002030"
+   ],
+   "drop_list": [
+    {
+     "id": 40403,
+     "count": -1
+    },
+    {
+     "id": 40803,
+     "count": -1
+    },
+    {
+     "id": 41803,
+     "count": -1
+    },
+    {
+     "id": 41603,
+     "count": -1
+    },
+    {
+     "id": 41703,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Whitney",
+   "first_drop_list": null,
+   "diff_color": 3,
+   "name": [
+    "Whitney",
+    "Floor 2"
+   ],
+   "name_th": [
+    "Whitney",
+    "F2"
+   ],
+   "section_descript": "<Black>Leiboz Life's foremost mechanical engineer. She is obsessed with the precision of retro machinery and walks paths no one has taken before. Anyone who stands in her way becomes her enemy.</>",
+   "section_descript_th": "<Black>วิศวกรเครื่องกลแถวหน้าของ Leiboz Life เธอหมกมุ่นอยู่กับการทำงานที่แม่นยำของเครื่องจักรย้อนยุค อีกทั้งยังออกสำรวจเส้นทางที่ไม่มีใครเคยเดินมาก่อนอีกด้วย คนที่ขวางทางเธอจะกลายเป็นศัตรูของเธอ</>"
+  },
+  "30002030": {
+   "id": 30002030,
+   "pre_section": [
+    "30002020",
+    "29002030"
+   ],
+   "drop_list": [
+    {
+     "id": 40403,
+     "count": -1
+    },
+    {
+     "id": 40803,
+     "count": -1
+    },
+    {
+     "id": 41803,
+     "count": -1
+    },
+    {
+     "id": 41603,
+     "count": -1
+    },
+    {
+     "id": 41703,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Whitney",
+   "first_drop_list": null,
+   "diff_color": 3,
+   "name": [
+    "Whitney",
+    "Floor 3"
+   ],
+   "name_th": [
+    "Whitney",
+    "F3"
+   ],
+   "section_descript": "<Black>Leiboz Life's foremost mechanical engineer. She is obsessed with the precision of retro machinery and walks paths no one has taken before. Anyone who stands in her way becomes her enemy.</>",
+   "section_descript_th": "<Black>วิศวกรเครื่องกลแถวหน้าของ Leiboz Life เธอหมกมุ่นอยู่กับการทำงานที่แม่นยำของเครื่องจักรย้อนยุค อีกทั้งยังออกสำรวจเส้นทางที่ไม่มีใครเคยเดินมาก่อนอีกด้วย คนที่ขวางทางเธอจะกลายเป็นศัตรูของเธอ</>"
+  },
+  "30002040": {
+   "id": 30002040,
+   "pre_section": [
+    "30002030",
+    "29002030"
+   ],
+   "drop_list": [
+    {
+     "id": 40403,
+     "count": -1
+    },
+    {
+     "id": 40803,
+     "count": -1
+    },
+    {
+     "id": 41803,
+     "count": -1
+    },
+    {
+     "id": 41603,
+     "count": -1
+    },
+    {
+     "id": 41703,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Whitney",
+   "first_drop_list": null,
+   "diff_color": 3,
+   "name": [
+    "Whitney",
+    "Floor 4"
+   ],
+   "name_th": [
+    "Whitney",
+    "F4"
+   ],
+   "section_descript": "<Black>Leiboz Life's foremost mechanical engineer. She is obsessed with the precision of retro machinery and walks paths no one has taken before. Anyone who stands in her way becomes her enemy.</>",
+   "section_descript_th": "<Black>วิศวกรเครื่องกลแถวหน้าของ Leiboz Life เธอหมกมุ่นอยู่กับการทำงานที่แม่นยำของเครื่องจักรย้อนยุค อีกทั้งยังออกสำรวจเส้นทางที่ไม่มีใครเคยเดินมาก่อนอีกด้วย คนที่ขวางทางเธอจะกลายเป็นศัตรูของเธอ</>"
+  },
+  "30002050": {
+   "id": 30002050,
+   "pre_section": [
+    "30002040",
+    "29002030"
+   ],
+   "drop_list": [
+    {
+     "id": 40403,
+     "count": -1
+    },
+    {
+     "id": 40803,
+     "count": -1
+    },
+    {
+     "id": 41803,
+     "count": -1
+    },
+    {
+     "id": 41603,
+     "count": -1
+    },
+    {
+     "id": 41703,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Whitney",
+   "first_drop_list": null,
+   "diff_color": 3,
+   "name": [
+    "Whitney",
+    "Floor 5"
+   ],
+   "name_th": [
+    "Whitney",
+    "F5"
+   ],
+   "section_descript": "<Black>Leiboz Life's foremost mechanical engineer. She is obsessed with the precision of retro machinery and walks paths no one has taken before. Anyone who stands in her way becomes her enemy.</>",
+   "section_descript_th": "<Black>วิศวกรเครื่องกลแถวหน้าของ Leiboz Life เธอหมกมุ่นอยู่กับการทำงานที่แม่นยำของเครื่องจักรย้อนยุค อีกทั้งยังออกสำรวจเส้นทางที่ไม่มีใครเคยเดินมาก่อนอีกด้วย คนที่ขวางทางเธอจะกลายเป็นศัตรูของเธอ</>"
+  },
+  "30002060": {
+   "id": 30002060,
+   "pre_section": [
+    "30002050",
+    "29002030"
+   ],
+   "drop_list": [
+    {
+     "id": 40403,
+     "count": -1
+    },
+    {
+     "id": 40803,
+     "count": -1
+    },
+    {
+     "id": 41803,
+     "count": -1
+    },
+    {
+     "id": 41603,
+     "count": -1
+    },
+    {
+     "id": 41703,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Whitney",
+   "first_drop_list": null,
+   "diff_color": 3,
+   "name": [
+    "Whitney",
+    "Floor 6"
+   ],
+   "name_th": [
+    "Whitney",
+    "F6"
+   ],
+   "section_descript": "<Black>Leiboz Life's foremost mechanical engineer. She is obsessed with the precision of retro machinery and walks paths no one has taken before. Anyone who stands in her way becomes her enemy.</>",
+   "section_descript_th": "<Black>วิศวกรเครื่องกลแถวหน้าของ Leiboz Life เธอหมกมุ่นอยู่กับการทำงานที่แม่นยำของเครื่องจักรย้อนยุค อีกทั้งยังออกสำรวจเส้นทางที่ไม่มีใครเคยเดินมาก่อนอีกด้วย คนที่ขวางทางเธอจะกลายเป็นศัตรูของเธอ</>"
+  },
+  "30002070": {
+   "id": 30002070,
+   "pre_section": [
+    "30002060",
+    "29002030"
+   ],
+   "drop_list": [
+    {
+     "id": 40404,
+     "count": -1
+    },
+    {
+     "id": 40804,
+     "count": -1
+    },
+    {
+     "id": 41804,
+     "count": -1
+    },
+    {
+     "id": 41604,
+     "count": -1
+    },
+    {
+     "id": 41704,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Whitney",
+   "first_drop_list": null,
+   "diff_color": 4,
+   "name": [
+    "Whitney",
+    "Floor 7"
+   ],
+   "name_th": [
+    "Whitney",
+    "F7"
+   ],
+   "section_descript": "<Black>Leiboz Life's foremost mechanical engineer. She is obsessed with the precision of retro machinery and walks paths no one has taken before. Anyone who stands in her way becomes her enemy.</>",
+   "section_descript_th": "<Black>วิศวกรเครื่องกลแถวหน้าของ Leiboz Life เธอหมกมุ่นอยู่กับการทำงานที่แม่นยำของเครื่องจักรย้อนยุค อีกทั้งยังออกสำรวจเส้นทางที่ไม่มีใครเคยเดินมาก่อนอีกด้วย คนที่ขวางทางเธอจะกลายเป็นศัตรูของเธอ</>"
+  },
+  "30002080": {
+   "id": 30002080,
+   "pre_section": [
+    "30002070",
+    "29002030"
+   ],
+   "drop_list": [
+    {
+     "id": 40404,
+     "count": -1
+    },
+    {
+     "id": 40804,
+     "count": -1
+    },
+    {
+     "id": 41804,
+     "count": -1
+    },
+    {
+     "id": 41604,
+     "count": -1
+    },
+    {
+     "id": 41704,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Whitney",
+   "first_drop_list": null,
+   "diff_color": 4,
+   "name": [
+    "Whitney",
+    "Floor 8"
+   ],
+   "name_th": [
+    "Whitney",
+    "F8"
+   ],
+   "section_descript": "<Black>Leiboz Life's foremost mechanical engineer. She is obsessed with the precision of retro machinery and walks paths no one has taken before. Anyone who stands in her way becomes her enemy.</>",
+   "section_descript_th": "<Black>วิศวกรเครื่องกลแถวหน้าของ Leiboz Life เธอหมกมุ่นอยู่กับการทำงานที่แม่นยำของเครื่องจักรย้อนยุค อีกทั้งยังออกสำรวจเส้นทางที่ไม่มีใครเคยเดินมาก่อนอีกด้วย คนที่ขวางทางเธอจะกลายเป็นศัตรูของเธอ</>"
+  },
+  "30002090": {
+   "id": 30002090,
+   "pre_section": [
+    "30002080",
+    "29002030"
+   ],
+   "drop_list": [
+    {
+     "id": 40404,
+     "count": -1
+    },
+    {
+     "id": 40804,
+     "count": -1
+    },
+    {
+     "id": 41804,
+     "count": -1
+    },
+    {
+     "id": 41604,
+     "count": -1
+    },
+    {
+     "id": 41704,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Whitney",
+   "first_drop_list": null,
+   "diff_color": 4,
+   "name": [
+    "Whitney",
+    "Floor 9"
+   ],
+   "name_th": [
+    "Whitney",
+    "F9"
+   ],
+   "section_descript": "<Black>Leiboz Life's foremost mechanical engineer. She is obsessed with the precision of retro machinery and walks paths no one has taken before. Anyone who stands in her way becomes her enemy.</>",
+   "section_descript_th": "<Black>วิศวกรเครื่องกลแถวหน้าของ Leiboz Life เธอหมกมุ่นอยู่กับการทำงานที่แม่นยำของเครื่องจักรย้อนยุค อีกทั้งยังออกสำรวจเส้นทางที่ไม่มีใครเคยเดินมาก่อนอีกด้วย คนที่ขวางทางเธอจะกลายเป็นศัตรูของเธอ</>"
+  },
+  "30002100": {
+   "id": 30002100,
+   "pre_section": [
+    "30002090",
+    "29002030"
+   ],
+   "drop_list": [
+    {
+     "id": 40404,
+     "count": -1
+    },
+    {
+     "id": 40804,
+     "count": -1
+    },
+    {
+     "id": 41804,
+     "count": -1
+    },
+    {
+     "id": 41604,
+     "count": -1
+    },
+    {
+     "id": 41704,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Whitney",
+   "first_drop_list": null,
+   "diff_color": 4,
+   "name": [
+    "Whitney",
+    "Floor 10"
+   ],
+   "name_th": [
+    "Whitney",
+    "F10"
+   ],
+   "section_descript": "<Black>Leiboz Life's foremost mechanical engineer. She is obsessed with the precision of retro machinery and walks paths no one has taken before. Anyone who stands in her way becomes her enemy.</>",
+   "section_descript_th": "<Black>วิศวกรเครื่องกลแถวหน้าของ Leiboz Life เธอหมกมุ่นอยู่กับการทำงานที่แม่นยำของเครื่องจักรย้อนยุค อีกทั้งยังออกสำรวจเส้นทางที่ไม่มีใครเคยเดินมาก่อนอีกด้วย คนที่ขวางทางเธอจะกลายเป็นศัตรูของเธอ</>"
+  },
+  "30002110": {
+   "id": 30002110,
+   "pre_section": [
+    "30002100",
+    "29002030"
+   ],
+   "drop_list": [
+    {
+     "id": 43204,
+     "count": -1
+    },
+    {
+     "id": 42704,
+     "count": -1
+    },
+    {
+     "id": 43004,
+     "count": -1
+    },
+    {
+     "id": 42304,
+     "count": -1
+    },
+    {
+     "id": 42104,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Whitney",
+   "first_drop_list": null,
+   "diff_color": 4,
+   "name": [
+    "Whitney",
+    "Floor 11"
+   ],
+   "name_th": [
+    "Whitney",
+    "F11"
+   ],
+   "section_descript": "<Black>Leiboz Life's foremost mechanical engineer. She is obsessed with the precision of retro machinery and walks paths no one has taken before. Anyone who stands in her way becomes her enemy.</>",
+   "section_descript_th": "<Black>วิศวกรเครื่องกลแถวหน้าของ Leiboz Life เธอหมกมุ่นอยู่กับการทำงานที่แม่นยำของเครื่องจักรย้อนยุค อีกทั้งยังออกสำรวจเส้นทางที่ไม่มีใครเคยเดินมาก่อนอีกด้วย คนที่ขวางทางเธอจะกลายเป็นศัตรูของเธอ</>"
+  },
+  "30002120": {
+   "id": 30002120,
+   "pre_section": [
+    "30002110",
+    "29002030"
+   ],
+   "drop_list": [
+    {
+     "id": 43205,
+     "count": -1
+    },
+    {
+     "id": 42705,
+     "count": -1
+    },
+    {
+     "id": 43005,
+     "count": -1
+    },
+    {
+     "id": 42305,
+     "count": -1
+    },
+    {
+     "id": 42105,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Whitney",
+   "first_drop_list": null,
+   "diff_color": 5,
+   "name": [
+    "Whitney",
+    "Floor 12"
+   ],
+   "name_th": [
+    "Whitney",
+    "F12"
+   ],
+   "section_descript": "<Black>Leiboz Life's foremost mechanical engineer. She is obsessed with the precision of retro machinery and walks paths no one has taken before. Anyone who stands in her way becomes her enemy.</>",
+   "section_descript_th": "<Black>วิศวกรเครื่องกลแถวหน้าของ Leiboz Life เธอหมกมุ่นอยู่กับการทำงานที่แม่นยำของเครื่องจักรย้อนยุค อีกทั้งยังออกสำรวจเส้นทางที่ไม่มีใครเคยเดินมาก่อนอีกด้วย คนที่ขวางทางเธอจะกลายเป็นศัตรูของเธอ</>"
+  },
+  "30002130": {
+   "id": 30002130,
+   "pre_section": [
+    "30002120",
+    "29002030"
+   ],
+   "drop_list": [
+    {
+     "id": 43205,
+     "count": -1
+    },
+    {
+     "id": 42705,
+     "count": -1
+    },
+    {
+     "id": 43005,
+     "count": -1
+    },
+    {
+     "id": 42305,
+     "count": -1
+    },
+    {
+     "id": 42105,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Whitney",
+   "first_drop_list": null,
+   "diff_color": 5,
+   "name": [
+    "Whitney",
+    "Floor 13"
+   ],
+   "name_th": [
+    "Whitney",
+    "F13"
+   ],
+   "section_descript": "<Black>Leiboz Life's foremost mechanical engineer. She is obsessed with the precision of retro machinery and walks paths no one has taken before. Anyone who stands in her way becomes her enemy.</>",
+   "section_descript_th": "<Black>วิศวกรเครื่องกลแถวหน้าของ Leiboz Life เธอหมกมุ่นอยู่กับการทำงานที่แม่นยำของเครื่องจักรย้อนยุค อีกทั้งยังออกสำรวจเส้นทางที่ไม่มีใครเคยเดินมาก่อนอีกด้วย คนที่ขวางทางเธอจะกลายเป็นศัตรูของเธอ</>"
+  },
+  "30002140": {
+   "id": 30002140,
+   "pre_section": [
+    "30002130",
+    "29002030"
+   ],
+   "drop_list": [
+    {
+     "id": 43205,
+     "count": -1
+    },
+    {
+     "id": 42705,
+     "count": -1
+    },
+    {
+     "id": 43005,
+     "count": -1
+    },
+    {
+     "id": 42305,
+     "count": -1
+    },
+    {
+     "id": 42105,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Whitney",
+   "first_drop_list": null,
+   "diff_color": 5,
+   "name": [
+    "Whitney",
+    "Floor 14"
+   ],
+   "name_th": [
+    "Whitney",
+    "F14"
+   ],
+   "section_descript": "<Black>Leiboz Life's foremost mechanical engineer. She is obsessed with the precision of retro machinery and walks paths no one has taken before. Anyone who stands in her way becomes her enemy.</>",
+   "section_descript_th": "<Black>วิศวกรเครื่องกลแถวหน้าของ Leiboz Life เธอหมกมุ่นอยู่กับการทำงานที่แม่นยำของเครื่องจักรย้อนยุค อีกทั้งยังออกสำรวจเส้นทางที่ไม่มีใครเคยเดินมาก่อนอีกด้วย คนที่ขวางทางเธอจะกลายเป็นศัตรูของเธอ</>"
+  },
+  "30002150": {
+   "id": 30002150,
+   "pre_section": [
+    "30002140",
+    "29002030"
+   ],
+   "drop_list": [
+    {
+     "id": 43205,
+     "count": -1
+    },
+    {
+     "id": 42705,
+     "count": -1
+    },
+    {
+     "id": 43005,
+     "count": -1
+    },
+    {
+     "id": 42305,
+     "count": -1
+    },
+    {
+     "id": 42105,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Whitney",
+   "first_drop_list": null,
+   "diff_color": 5,
+   "name": [
+    "Whitney",
+    "Floor 15"
+   ],
+   "name_th": [
+    "Whitney",
+    "F15"
+   ],
+   "section_descript": "<Black>Leiboz Life's foremost mechanical engineer. She is obsessed with the precision of retro machinery and walks paths no one has taken before. Anyone who stands in her way becomes her enemy.</>",
+   "section_descript_th": "<Black>วิศวกรเครื่องกลแถวหน้าของ Leiboz Life เธอหมกมุ่นอยู่กับการทำงานที่แม่นยำของเครื่องจักรย้อนยุค อีกทั้งยังออกสำรวจเส้นทางที่ไม่มีใครเคยเดินมาก่อนอีกด้วย คนที่ขวางทางเธอจะกลายเป็นศัตรูของเธอ</>"
+  },
+  "30002160": {
+   "id": 30002160,
+   "pre_section": [
+    "30002150",
+    "29002030"
+   ],
+   "drop_list": [
+    {
+     "id": 43205,
+     "count": -1
+    },
+    {
+     "id": 42705,
+     "count": -1
+    },
+    {
+     "id": 43005,
+     "count": -1
+    },
+    {
+     "id": 42305,
+     "count": -1
+    },
+    {
+     "id": 42105,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Whitney",
+   "first_drop_list": null,
+   "diff_color": 5,
+   "name": [
+    "Whitney",
+    "Floor 16"
+   ],
+   "name_th": [
+    "Whitney",
+    "F16"
+   ],
+   "section_descript": "<Black>Leiboz Life's foremost mechanical engineer. She is obsessed with the precision of retro machinery and walks paths no one has taken before. Anyone who stands in her way becomes her enemy.</>",
+   "section_descript_th": "<Black>วิศวกรเครื่องกลแถวหน้าของ Leiboz Life เธอหมกมุ่นอยู่กับการทำงานที่แม่นยำของเครื่องจักรย้อนยุค อีกทั้งยังออกสำรวจเส้นทางที่ไม่มีใครเคยเดินมาก่อนอีกด้วย คนที่ขวางทางเธอจะกลายเป็นศัตรูของเธอ</>"
+  },
+  "30002170": {
+   "id": 30002170,
+   "pre_section": [
+    "30002160",
+    "29002030"
+   ],
+   "drop_list": [
+    {
+     "id": 43206,
+     "count": -1
+    },
+    {
+     "id": 42706,
+     "count": -1
+    },
+    {
+     "id": 43006,
+     "count": -1
+    },
+    {
+     "id": 42306,
+     "count": -1
+    },
+    {
+     "id": 42106,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Whitney",
+   "first_drop_list": null,
+   "diff_color": 6,
+   "name": [
+    "Whitney",
+    "Floor 17"
+   ],
+   "name_th": [
+    "Whitney",
+    "F17"
+   ],
+   "section_descript": "<Black>Leiboz Life's foremost mechanical engineer. She is obsessed with the precision of retro machinery and walks paths no one has taken before. Anyone who stands in her way becomes her enemy.</>",
+   "section_descript_th": "<Black>วิศวกรเครื่องกลแถวหน้าของ Leiboz Life เธอหมกมุ่นอยู่กับการทำงานที่แม่นยำของเครื่องจักรย้อนยุค อีกทั้งยังออกสำรวจเส้นทางที่ไม่มีใครเคยเดินมาก่อนอีกด้วย คนที่ขวางทางเธอจะกลายเป็นศัตรูของเธอ</>"
+  },
+  "30002180": {
+   "id": 30002180,
+   "pre_section": [
+    "30002170",
+    "29002030"
+   ],
+   "drop_list": [
+    {
+     "id": 43206,
+     "count": -1
+    },
+    {
+     "id": 42706,
+     "count": -1
+    },
+    {
+     "id": 43006,
+     "count": -1
+    },
+    {
+     "id": 42306,
+     "count": -1
+    },
+    {
+     "id": 42106,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Whitney",
+   "first_drop_list": null,
+   "diff_color": 6,
+   "name": [
+    "Whitney",
+    "Floor 18"
+   ],
+   "name_th": [
+    "Whitney",
+    "F18"
+   ],
+   "section_descript": "<Black>Leiboz Life's foremost mechanical engineer. She is obsessed with the precision of retro machinery and walks paths no one has taken before. Anyone who stands in her way becomes her enemy.</>",
+   "section_descript_th": "<Black>วิศวกรเครื่องกลแถวหน้าของ Leiboz Life เธอหมกมุ่นอยู่กับการทำงานที่แม่นยำของเครื่องจักรย้อนยุค อีกทั้งยังออกสำรวจเส้นทางที่ไม่มีใครเคยเดินมาก่อนอีกด้วย คนที่ขวางทางเธอจะกลายเป็นศัตรูของเธอ</>"
+  },
+  "30002190": {
+   "id": 30002190,
+   "pre_section": [
+    "30002180",
+    "29002030"
+   ],
+   "drop_list": [
+    {
+     "id": 43206,
+     "count": -1
+    },
+    {
+     "id": 42706,
+     "count": -1
+    },
+    {
+     "id": 43006,
+     "count": -1
+    },
+    {
+     "id": 42306,
+     "count": -1
+    },
+    {
+     "id": 42106,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Whitney",
+   "first_drop_list": null,
+   "diff_color": 6,
+   "name": [
+    "Whitney",
+    "Floor 19"
+   ],
+   "name_th": [
+    "Whitney",
+    "F19"
+   ],
+   "section_descript": "<Black>Leiboz Life's foremost mechanical engineer. She is obsessed with the precision of retro machinery and walks paths no one has taken before. Anyone who stands in her way becomes her enemy.</>",
+   "section_descript_th": "<Black>วิศวกรเครื่องกลแถวหน้าของ Leiboz Life เธอหมกมุ่นอยู่กับการทำงานที่แม่นยำของเครื่องจักรย้อนยุค อีกทั้งยังออกสำรวจเส้นทางที่ไม่มีใครเคยเดินมาก่อนอีกด้วย คนที่ขวางทางเธอจะกลายเป็นศัตรูของเธอ</>"
+  },
+  "30002200": {
+   "id": 30002200,
+   "pre_section": [
+    "30002190",
+    "29002030"
+   ],
+   "drop_list": [
+    {
+     "id": 43206,
+     "count": -1
+    },
+    {
+     "id": 42706,
+     "count": -1
+    },
+    {
+     "id": 43006,
+     "count": -1
+    },
+    {
+     "id": 42306,
+     "count": -1
+    },
+    {
+     "id": 42106,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Whitney",
+   "first_drop_list": null,
+   "diff_color": 6,
+   "name": [
+    "Whitney",
+    "Floor 20"
+   ],
+   "name_th": [
+    "Whitney",
+    "F20"
+   ],
+   "section_descript": "<Black>Leiboz Life's foremost mechanical engineer. She is obsessed with the precision of retro machinery and walks paths no one has taken before. Anyone who stands in her way becomes her enemy.</>",
+   "section_descript_th": "<Black>วิศวกรเครื่องกลแถวหน้าของ Leiboz Life เธอหมกมุ่นอยู่กับการทำงานที่แม่นยำของเครื่องจักรย้อนยุค อีกทั้งยังออกสำรวจเส้นทางที่ไม่มีใครเคยเดินมาก่อนอีกด้วย คนที่ขวางทางเธอจะกลายเป็นศัตรูของเธอ</>"
+  },
+  "30002210": {
+   "id": 30002210,
+   "pre_section": [
+    "30002200",
+    "29002030"
+   ],
+   "drop_list": [
+    {
+     "id": 43206,
+     "count": -1
+    },
+    {
+     "id": 42706,
+     "count": -1
+    },
+    {
+     "id": 43006,
+     "count": -1
+    },
+    {
+     "id": 42306,
+     "count": -1
+    },
+    {
+     "id": 42106,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Whitney",
+   "first_drop_list": null,
+   "diff_color": 6,
+   "name": [
+    "Whitney",
+    "Floor 21"
+   ],
+   "name_th": [
+    "Whitney",
+    "F21"
+   ],
+   "section_descript": "<Black>Leiboz Life's foremost mechanical engineer. She is obsessed with the precision of retro machinery and walks paths no one has taken before. Anyone who stands in her way becomes her enemy.</>",
+   "section_descript_th": "<Black>วิศวกรเครื่องกลแถวหน้าของ Leiboz Life เธอหมกมุ่นอยู่กับการทำงานที่แม่นยำของเครื่องจักรย้อนยุค อีกทั้งยังออกสำรวจเส้นทางที่ไม่มีใครเคยเดินมาก่อนอีกด้วย คนที่ขวางทางเธอจะกลายเป็นศัตรูของเธอ</>"
+  },
+  "30002220": {
+   "id": 30002220,
+   "pre_section": [
+    "30002210",
+    "29002030"
+   ],
+   "drop_list": [
+    {
+     "id": 43207,
+     "count": -1
+    },
+    {
+     "id": 42707,
+     "count": -1
+    },
+    {
+     "id": 43007,
+     "count": -1
+    },
+    {
+     "id": 42307,
+     "count": -1
+    },
+    {
+     "id": 42107,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Whitney",
+   "first_drop_list": null,
+   "diff_color": 7,
+   "name": [
+    "Whitney",
+    "Floor 22"
+   ],
+   "name_th": [
+    "Whitney",
+    "F22"
+   ],
+   "section_descript": "<Black>Leiboz Life's foremost mechanical engineer. She is obsessed with the precision of retro machinery and walks paths no one has taken before. Anyone who stands in her way becomes her enemy.</>",
+   "section_descript_th": "<Black>วิศวกรเครื่องกลแถวหน้าของ Leiboz Life เธอหมกมุ่นอยู่กับการทำงานที่แม่นยำของเครื่องจักรย้อนยุค อีกทั้งยังออกสำรวจเส้นทางที่ไม่มีใครเคยเดินมาก่อนอีกด้วย คนที่ขวางทางเธอจะกลายเป็นศัตรูของเธอ</>"
+  },
+  "30002230": {
+   "id": 30002230,
+   "pre_section": [
+    "30002220",
+    "29002030"
+   ],
+   "drop_list": [
+    {
+     "id": 43207,
+     "count": -1
+    },
+    {
+     "id": 42707,
+     "count": -1
+    },
+    {
+     "id": 43007,
+     "count": -1
+    },
+    {
+     "id": 42307,
+     "count": -1
+    },
+    {
+     "id": 42107,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Whitney",
+   "first_drop_list": null,
+   "diff_color": 7,
+   "name": [
+    "Whitney",
+    "Floor 23"
+   ],
+   "name_th": [
+    "Whitney",
+    "F23"
+   ],
+   "section_descript": "<Black>Leiboz Life's foremost mechanical engineer. She is obsessed with the precision of retro machinery and walks paths no one has taken before. Anyone who stands in her way becomes her enemy.</>",
+   "section_descript_th": "<Black>วิศวกรเครื่องกลแถวหน้าของ Leiboz Life เธอหมกมุ่นอยู่กับการทำงานที่แม่นยำของเครื่องจักรย้อนยุค อีกทั้งยังออกสำรวจเส้นทางที่ไม่มีใครเคยเดินมาก่อนอีกด้วย คนที่ขวางทางเธอจะกลายเป็นศัตรูของเธอ</>"
+  },
+  "30002240": {
+   "id": 30002240,
+   "pre_section": [
+    "30002230",
+    "29002030"
+   ],
+   "drop_list": [
+    {
+     "id": 43207,
+     "count": -1
+    },
+    {
+     "id": 42707,
+     "count": -1
+    },
+    {
+     "id": 43007,
+     "count": -1
+    },
+    {
+     "id": 42307,
+     "count": -1
+    },
+    {
+     "id": 42107,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Whitney",
+   "first_drop_list": null,
+   "diff_color": 7,
+   "name": [
+    "Whitney",
+    "Floor 24"
+   ],
+   "name_th": [
+    "Whitney",
+    "F24"
+   ],
+   "section_descript": "<Black>Leiboz Life's foremost mechanical engineer. She is obsessed with the precision of retro machinery and walks paths no one has taken before. Anyone who stands in her way becomes her enemy.</>",
+   "section_descript_th": "<Black>วิศวกรเครื่องกลแถวหน้าของ Leiboz Life เธอหมกมุ่นอยู่กับการทำงานที่แม่นยำของเครื่องจักรย้อนยุค อีกทั้งยังออกสำรวจเส้นทางที่ไม่มีใครเคยเดินมาก่อนอีกด้วย คนที่ขวางทางเธอจะกลายเป็นศัตรูของเธอ</>"
+  },
+  "30002250": {
+   "id": 30002250,
+   "pre_section": [
+    "30002240",
+    "29002030"
+   ],
+   "drop_list": [
+    {
+     "id": 43207,
+     "count": -1
+    },
+    {
+     "id": 42707,
+     "count": -1
+    },
+    {
+     "id": 43007,
+     "count": -1
+    },
+    {
+     "id": 42307,
+     "count": -1
+    },
+    {
+     "id": 42107,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Whitney",
+   "first_drop_list": null,
+   "diff_color": 7,
+   "name": [
+    "Whitney",
+    "Floor 25"
+   ],
+   "name_th": [
+    "Whitney",
+    "F25"
+   ],
+   "section_descript": "<Black>Leiboz Life's foremost mechanical engineer. She is obsessed with the precision of retro machinery and walks paths no one has taken before. Anyone who stands in her way becomes her enemy.</>",
+   "section_descript_th": "<Black>วิศวกรเครื่องกลแถวหน้าของ Leiboz Life เธอหมกมุ่นอยู่กับการทำงานที่แม่นยำของเครื่องจักรย้อนยุค อีกทั้งยังออกสำรวจเส้นทางที่ไม่มีใครเคยเดินมาก่อนอีกด้วย คนที่ขวางทางเธอจะกลายเป็นศัตรูของเธอ</>"
+  },
+  "30002260": {
+   "id": 30002260,
+   "pre_section": [
+    "30002250",
+    "29002030"
+   ],
+   "drop_list": [
+    {
+     "id": 43207,
+     "count": -1
+    },
+    {
+     "id": 42707,
+     "count": -1
+    },
+    {
+     "id": 43007,
+     "count": -1
+    },
+    {
+     "id": 42307,
+     "count": -1
+    },
+    {
+     "id": 42107,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Whitney",
+   "first_drop_list": null,
+   "diff_color": 7,
+   "name": [
+    "Whitney",
+    "Floor 26"
+   ],
+   "name_th": [
+    "Whitney",
+    "F26"
+   ],
+   "section_descript": "<Black>Leiboz Life's foremost mechanical engineer. She is obsessed with the precision of retro machinery and walks paths no one has taken before. Anyone who stands in her way becomes her enemy.</>",
+   "section_descript_th": "<Black>วิศวกรเครื่องกลแถวหน้าของ Leiboz Life เธอหมกมุ่นอยู่กับการทำงานที่แม่นยำของเครื่องจักรย้อนยุค อีกทั้งยังออกสำรวจเส้นทางที่ไม่มีใครเคยเดินมาก่อนอีกด้วย คนที่ขวางทางเธอจะกลายเป็นศัตรูของเธอ</>"
+  },
+  "30002270": {
+   "id": 30002270,
+   "pre_section": [
+    "30002260",
+    "29002030"
+   ],
+   "drop_list": [
+    {
+     "id": 43207,
+     "count": -1
+    },
+    {
+     "id": 42707,
+     "count": -1
+    },
+    {
+     "id": 43007,
+     "count": -1
+    },
+    {
+     "id": 42307,
+     "count": -1
+    },
+    {
+     "id": 42107,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Whitney",
+   "first_drop_list": null,
+   "diff_color": 7,
+   "name": [
+    "Whitney",
+    "Floor 27"
+   ],
+   "name_th": [
+    "Whitney",
+    "F27"
+   ],
+   "section_descript": "<Black>Leiboz Life's foremost mechanical engineer. She is obsessed with the precision of retro machinery and walks paths no one has taken before. Anyone who stands in her way becomes her enemy.</>",
+   "section_descript_th": "<Black>วิศวกรเครื่องกลแถวหน้าของ Leiboz Life เธอหมกมุ่นอยู่กับการทำงานที่แม่นยำของเครื่องจักรย้อนยุค อีกทั้งยังออกสำรวจเส้นทางที่ไม่มีใครเคยเดินมาก่อนอีกด้วย คนที่ขวางทางเธอจะกลายเป็นศัตรูของเธอ</>"
+  },
+  "30002280": {
+   "id": 30002280,
+   "pre_section": [
+    "30002270",
+    "29002030"
+   ],
+   "drop_list": [
+    {
+     "id": 43207,
+     "count": -1
+    },
+    {
+     "id": 42707,
+     "count": -1
+    },
+    {
+     "id": 43007,
+     "count": -1
+    },
+    {
+     "id": 42307,
+     "count": -1
+    },
+    {
+     "id": 42107,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Whitney",
+   "first_drop_list": null,
+   "diff_color": 7,
+   "name": [
+    "Whitney",
+    "Floor 28"
+   ],
+   "name_th": [
+    "Whitney",
+    "F28"
+   ],
+   "section_descript": "<Black>Leiboz Life's foremost mechanical engineer. She is obsessed with the precision of retro machinery and walks paths no one has taken before. Anyone who stands in her way becomes her enemy.</>",
+   "section_descript_th": "<Black>วิศวกรเครื่องกลแถวหน้าของ Leiboz Life เธอหมกมุ่นอยู่กับการทำงานที่แม่นยำของเครื่องจักรย้อนยุค อีกทั้งยังออกสำรวจเส้นทางที่ไม่มีใครเคยเดินมาก่อนอีกด้วย คนที่ขวางทางเธอจะกลายเป็นศัตรูของเธอ</>"
+  },
+  "30002290": {
+   "id": 30002290,
+   "pre_section": [
+    "30002280",
+    "29002030"
+   ],
+   "drop_list": [
+    {
+     "id": 43207,
+     "count": -1
+    },
+    {
+     "id": 42707,
+     "count": -1
+    },
+    {
+     "id": 43007,
+     "count": -1
+    },
+    {
+     "id": 42307,
+     "count": -1
+    },
+    {
+     "id": 42107,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Whitney",
+   "first_drop_list": null,
+   "diff_color": 7,
+   "name": [
+    "Whitney",
+    "Floor 29"
+   ],
+   "name_th": [
+    "Whitney",
+    "F29"
+   ],
+   "section_descript": "<Black>Leiboz Life's foremost mechanical engineer. She is obsessed with the precision of retro machinery and walks paths no one has taken before. Anyone who stands in her way becomes her enemy.</>",
+   "section_descript_th": "<Black>วิศวกรเครื่องกลแถวหน้าของ Leiboz Life เธอหมกมุ่นอยู่กับการทำงานที่แม่นยำของเครื่องจักรย้อนยุค อีกทั้งยังออกสำรวจเส้นทางที่ไม่มีใครเคยเดินมาก่อนอีกด้วย คนที่ขวางทางเธอจะกลายเป็นศัตรูของเธอ</>"
+  },
+  "30002300": {
+   "id": 30002300,
+   "pre_section": [
+    "30002290",
+    "29002030"
+   ],
+   "drop_list": [
+    {
+     "id": 43207,
+     "count": -1
+    },
+    {
+     "id": 42707,
+     "count": -1
+    },
+    {
+     "id": 43007,
+     "count": -1
+    },
+    {
+     "id": 42307,
+     "count": -1
+    },
+    {
+     "id": 42107,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Whitney",
+   "first_drop_list": null,
+   "diff_color": 7,
+   "name": [
+    "Whitney",
+    "Floor 30"
+   ],
+   "name_th": [
+    "Whitney",
+    "F30"
+   ],
+   "section_descript": "<Black>Leiboz Life's foremost mechanical engineer. She is obsessed with the precision of retro machinery and walks paths no one has taken before. Anyone who stands in her way becomes her enemy.</>",
+   "section_descript_th": "<Black>วิศวกรเครื่องกลแถวหน้าของ Leiboz Life เธอหมกมุ่นอยู่กับการทำงานที่แม่นยำของเครื่องจักรย้อนยุค อีกทั้งยังออกสำรวจเส้นทางที่ไม่มีใครเคยเดินมาก่อนอีกด้วย คนที่ขวางทางเธอจะกลายเป็นศัตรูของเธอ</>"
+  },
+  "30003010": {
+   "id": 30003010,
+   "pre_section": [
+    "29004030"
+   ],
+   "drop_list": [
+    {
+     "id": 42802,
+     "count": -1
+    },
+    {
+     "id": 43702,
+     "count": -1
+    },
+    {
+     "id": 42202,
+     "count": -1
+    },
+    {
+     "id": 43102,
+     "count": -1
+    },
+    {
+     "id": 43302,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Sharon",
+   "first_drop_list": null,
+   "diff_color": 2,
+   "name": [
+    "Sharon",
+    "Floor 1"
+   ],
+   "name_th": [
+    "Sharon",
+    "F1"
+   ],
+   "section_descript": "<Black>\"Despair\", \"Betrayal\", \"Fear\"... Sharon takes the stage once more, and the strings beneath her fingers will sound the final funeral hymn.</>",
+   "section_descript_th": "<Black>\"ความสิ้นหวัง\" \"การทรยศ\" \"ความหวาดกลัว\"... Sharon ที่กลับขึ้นมาบนเวที จะดีดสายที่ปลายนิ้ว ซึ่งทำให้บทเพลงอาลัยแห่งความตายก้องกังวานไปทั่ว</>"
+  },
+  "30003020": {
+   "id": 30003020,
+   "pre_section": [
+    "30003010",
+    "29004030"
+   ],
+   "drop_list": [
+    {
+     "id": 42803,
+     "count": -1
+    },
+    {
+     "id": 43703,
+     "count": -1
+    },
+    {
+     "id": 42203,
+     "count": -1
+    },
+    {
+     "id": 43103,
+     "count": -1
+    },
+    {
+     "id": 43303,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Sharon",
+   "first_drop_list": null,
+   "diff_color": 3,
+   "name": [
+    "Sharon",
+    "Floor 2"
+   ],
+   "name_th": [
+    "Sharon",
+    "F2"
+   ],
+   "section_descript": "<Black>\"Despair\", \"Betrayal\", \"Fear\"... Sharon takes the stage once more, and the strings beneath her fingers will sound the final funeral hymn.</>",
+   "section_descript_th": "<Black>\"ความสิ้นหวัง\" \"การทรยศ\" \"ความหวาดกลัว\"... Sharon ที่กลับขึ้นมาบนเวที จะดีดสายที่ปลายนิ้ว ซึ่งทำให้บทเพลงอาลัยแห่งความตายก้องกังวานไปทั่ว</>"
+  },
+  "30003030": {
+   "id": 30003030,
+   "pre_section": [
+    "30003020",
+    "29004030"
+   ],
+   "drop_list": [
+    {
+     "id": 42803,
+     "count": -1
+    },
+    {
+     "id": 43703,
+     "count": -1
+    },
+    {
+     "id": 42203,
+     "count": -1
+    },
+    {
+     "id": 43103,
+     "count": -1
+    },
+    {
+     "id": 43303,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Sharon",
+   "first_drop_list": null,
+   "diff_color": 3,
+   "name": [
+    "Sharon",
+    "Floor 3"
+   ],
+   "name_th": [
+    "Sharon",
+    "F3"
+   ],
+   "section_descript": "<Black>\"Despair\", \"Betrayal\", \"Fear\"... Sharon takes the stage once more, and the strings beneath her fingers will sound the final funeral hymn.</>",
+   "section_descript_th": "<Black>\"ความสิ้นหวัง\" \"การทรยศ\" \"ความหวาดกลัว\"... Sharon ที่กลับขึ้นมาบนเวที จะดีดสายที่ปลายนิ้ว ซึ่งทำให้บทเพลงอาลัยแห่งความตายก้องกังวานไปทั่ว</>"
+  },
+  "30003040": {
+   "id": 30003040,
+   "pre_section": [
+    "30003030",
+    "29004030"
+   ],
+   "drop_list": [
+    {
+     "id": 42803,
+     "count": -1
+    },
+    {
+     "id": 43703,
+     "count": -1
+    },
+    {
+     "id": 42203,
+     "count": -1
+    },
+    {
+     "id": 43103,
+     "count": -1
+    },
+    {
+     "id": 43303,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Sharon",
+   "first_drop_list": null,
+   "diff_color": 3,
+   "name": [
+    "Sharon",
+    "Floor 4"
+   ],
+   "name_th": [
+    "Sharon",
+    "F4"
+   ],
+   "section_descript": "<Black>\"Despair\", \"Betrayal\", \"Fear\"... Sharon takes the stage once more, and the strings beneath her fingers will sound the final funeral hymn.</>",
+   "section_descript_th": "<Black>\"ความสิ้นหวัง\" \"การทรยศ\" \"ความหวาดกลัว\"... Sharon ที่กลับขึ้นมาบนเวที จะดีดสายที่ปลายนิ้ว ซึ่งทำให้บทเพลงอาลัยแห่งความตายก้องกังวานไปทั่ว</>"
+  },
+  "30003050": {
+   "id": 30003050,
+   "pre_section": [
+    "30003040",
+    "29004030"
+   ],
+   "drop_list": [
+    {
+     "id": 42803,
+     "count": -1
+    },
+    {
+     "id": 43703,
+     "count": -1
+    },
+    {
+     "id": 42203,
+     "count": -1
+    },
+    {
+     "id": 43103,
+     "count": -1
+    },
+    {
+     "id": 43303,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Sharon",
+   "first_drop_list": null,
+   "diff_color": 3,
+   "name": [
+    "Sharon",
+    "Floor 5"
+   ],
+   "name_th": [
+    "Sharon",
+    "F5"
+   ],
+   "section_descript": "<Black>\"Despair\", \"Betrayal\", \"Fear\"... Sharon takes the stage once more, and the strings beneath her fingers will sound the final funeral hymn.</>",
+   "section_descript_th": "<Black>\"ความสิ้นหวัง\" \"การทรยศ\" \"ความหวาดกลัว\"... Sharon ที่กลับขึ้นมาบนเวที จะดีดสายที่ปลายนิ้ว ซึ่งทำให้บทเพลงอาลัยแห่งความตายก้องกังวานไปทั่ว</>"
+  },
+  "30003060": {
+   "id": 30003060,
+   "pre_section": [
+    "30003050",
+    "29004030"
+   ],
+   "drop_list": [
+    {
+     "id": 42803,
+     "count": -1
+    },
+    {
+     "id": 43703,
+     "count": -1
+    },
+    {
+     "id": 42203,
+     "count": -1
+    },
+    {
+     "id": 43103,
+     "count": -1
+    },
+    {
+     "id": 43303,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Sharon",
+   "first_drop_list": null,
+   "diff_color": 3,
+   "name": [
+    "Sharon",
+    "Floor 6"
+   ],
+   "name_th": [
+    "Sharon",
+    "F6"
+   ],
+   "section_descript": "<Black>\"Despair\", \"Betrayal\", \"Fear\"... Sharon takes the stage once more, and the strings beneath her fingers will sound the final funeral hymn.</>",
+   "section_descript_th": "<Black>\"ความสิ้นหวัง\" \"การทรยศ\" \"ความหวาดกลัว\"... Sharon ที่กลับขึ้นมาบนเวที จะดีดสายที่ปลายนิ้ว ซึ่งทำให้บทเพลงอาลัยแห่งความตายก้องกังวานไปทั่ว</>"
+  },
+  "30003070": {
+   "id": 30003070,
+   "pre_section": [
+    "30003060",
+    "29004030"
+   ],
+   "drop_list": [
+    {
+     "id": 42804,
+     "count": -1
+    },
+    {
+     "id": 43704,
+     "count": -1
+    },
+    {
+     "id": 42204,
+     "count": -1
+    },
+    {
+     "id": 43104,
+     "count": -1
+    },
+    {
+     "id": 43304,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Sharon",
+   "first_drop_list": null,
+   "diff_color": 4,
+   "name": [
+    "Sharon",
+    "Floor 7"
+   ],
+   "name_th": [
+    "Sharon",
+    "F7"
+   ],
+   "section_descript": "<Black>\"Despair\", \"Betrayal\", \"Fear\"... Sharon takes the stage once more, and the strings beneath her fingers will sound the final funeral hymn.</>",
+   "section_descript_th": "<Black>\"ความสิ้นหวัง\" \"การทรยศ\" \"ความหวาดกลัว\"... Sharon ที่กลับขึ้นมาบนเวที จะดีดสายที่ปลายนิ้ว ซึ่งทำให้บทเพลงอาลัยแห่งความตายก้องกังวานไปทั่ว</>"
+  },
+  "30003080": {
+   "id": 30003080,
+   "pre_section": [
+    "30003070",
+    "29004030"
+   ],
+   "drop_list": [
+    {
+     "id": 42804,
+     "count": -1
+    },
+    {
+     "id": 43704,
+     "count": -1
+    },
+    {
+     "id": 42204,
+     "count": -1
+    },
+    {
+     "id": 43104,
+     "count": -1
+    },
+    {
+     "id": 43304,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Sharon",
+   "first_drop_list": null,
+   "diff_color": 4,
+   "name": [
+    "Sharon",
+    "Floor 8"
+   ],
+   "name_th": [
+    "Sharon",
+    "F8"
+   ],
+   "section_descript": "<Black>\"Despair\", \"Betrayal\", \"Fear\"... Sharon takes the stage once more, and the strings beneath her fingers will sound the final funeral hymn.</>",
+   "section_descript_th": "<Black>\"ความสิ้นหวัง\" \"การทรยศ\" \"ความหวาดกลัว\"... Sharon ที่กลับขึ้นมาบนเวที จะดีดสายที่ปลายนิ้ว ซึ่งทำให้บทเพลงอาลัยแห่งความตายก้องกังวานไปทั่ว</>"
+  },
+  "30003090": {
+   "id": 30003090,
+   "pre_section": [
+    "30003080",
+    "29004030"
+   ],
+   "drop_list": [
+    {
+     "id": 42804,
+     "count": -1
+    },
+    {
+     "id": 43704,
+     "count": -1
+    },
+    {
+     "id": 42204,
+     "count": -1
+    },
+    {
+     "id": 43104,
+     "count": -1
+    },
+    {
+     "id": 43304,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Sharon",
+   "first_drop_list": null,
+   "diff_color": 4,
+   "name": [
+    "Sharon",
+    "Floor 9"
+   ],
+   "name_th": [
+    "Sharon",
+    "F9"
+   ],
+   "section_descript": "<Black>\"Despair\", \"Betrayal\", \"Fear\"... Sharon takes the stage once more, and the strings beneath her fingers will sound the final funeral hymn.</>",
+   "section_descript_th": "<Black>\"ความสิ้นหวัง\" \"การทรยศ\" \"ความหวาดกลัว\"... Sharon ที่กลับขึ้นมาบนเวที จะดีดสายที่ปลายนิ้ว ซึ่งทำให้บทเพลงอาลัยแห่งความตายก้องกังวานไปทั่ว</>"
+  },
+  "30003100": {
+   "id": 30003100,
+   "pre_section": [
+    "30003090",
+    "29004030"
+   ],
+   "drop_list": [
+    {
+     "id": 42804,
+     "count": -1
+    },
+    {
+     "id": 43704,
+     "count": -1
+    },
+    {
+     "id": 42204,
+     "count": -1
+    },
+    {
+     "id": 43104,
+     "count": -1
+    },
+    {
+     "id": 43304,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Sharon",
+   "first_drop_list": null,
+   "diff_color": 4,
+   "name": [
+    "Sharon",
+    "Floor 10"
+   ],
+   "name_th": [
+    "Sharon",
+    "F10"
+   ],
+   "section_descript": "<Black>\"Despair\", \"Betrayal\", \"Fear\"... Sharon takes the stage once more, and the strings beneath her fingers will sound the final funeral hymn.</>",
+   "section_descript_th": "<Black>\"ความสิ้นหวัง\" \"การทรยศ\" \"ความหวาดกลัว\"... Sharon ที่กลับขึ้นมาบนเวที จะดีดสายที่ปลายนิ้ว ซึ่งทำให้บทเพลงอาลัยแห่งความตายก้องกังวานไปทั่ว</>"
+  },
+  "30003110": {
+   "id": 30003110,
+   "pre_section": [
+    "30003100",
+    "29004030"
+   ],
+   "drop_list": [
+    {
+     "id": 42804,
+     "count": -1
+    },
+    {
+     "id": 43704,
+     "count": -1
+    },
+    {
+     "id": 42204,
+     "count": -1
+    },
+    {
+     "id": 43104,
+     "count": -1
+    },
+    {
+     "id": 43304,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Sharon",
+   "first_drop_list": null,
+   "diff_color": 4,
+   "name": [
+    "Sharon",
+    "Floor 11"
+   ],
+   "name_th": [
+    "Sharon",
+    "F11"
+   ],
+   "section_descript": "<Black>\"Despair\", \"Betrayal\", \"Fear\"... Sharon takes the stage once more, and the strings beneath her fingers will sound the final funeral hymn.</>",
+   "section_descript_th": "<Black>\"ความสิ้นหวัง\" \"การทรยศ\" \"ความหวาดกลัว\"... Sharon ที่กลับขึ้นมาบนเวที จะดีดสายที่ปลายนิ้ว ซึ่งทำให้บทเพลงอาลัยแห่งความตายก้องกังวานไปทั่ว</>"
+  },
+  "30003120": {
+   "id": 30003120,
+   "pre_section": [
+    "30003110",
+    "29004030"
+   ],
+   "drop_list": [
+    {
+     "id": 42805,
+     "count": -1
+    },
+    {
+     "id": 43705,
+     "count": -1
+    },
+    {
+     "id": 42205,
+     "count": -1
+    },
+    {
+     "id": 43105,
+     "count": -1
+    },
+    {
+     "id": 43305,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Sharon",
+   "first_drop_list": null,
+   "diff_color": 5,
+   "name": [
+    "Sharon",
+    "Floor 12"
+   ],
+   "name_th": [
+    "Sharon",
+    "F12"
+   ],
+   "section_descript": "<Black>\"Despair\", \"Betrayal\", \"Fear\"... Sharon takes the stage once more, and the strings beneath her fingers will sound the final funeral hymn.</>",
+   "section_descript_th": "<Black>\"ความสิ้นหวัง\" \"การทรยศ\" \"ความหวาดกลัว\"... Sharon ที่กลับขึ้นมาบนเวที จะดีดสายที่ปลายนิ้ว ซึ่งทำให้บทเพลงอาลัยแห่งความตายก้องกังวานไปทั่ว</>"
+  },
+  "30003130": {
+   "id": 30003130,
+   "pre_section": [
+    "30003120",
+    "29004030"
+   ],
+   "drop_list": [
+    {
+     "id": 42805,
+     "count": -1
+    },
+    {
+     "id": 43705,
+     "count": -1
+    },
+    {
+     "id": 42205,
+     "count": -1
+    },
+    {
+     "id": 43105,
+     "count": -1
+    },
+    {
+     "id": 43305,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Sharon",
+   "first_drop_list": null,
+   "diff_color": 5,
+   "name": [
+    "Sharon",
+    "Floor 13"
+   ],
+   "name_th": [
+    "Sharon",
+    "F13"
+   ],
+   "section_descript": "<Black>\"Despair\", \"Betrayal\", \"Fear\"... Sharon takes the stage once more, and the strings beneath her fingers will sound the final funeral hymn.</>",
+   "section_descript_th": "<Black>\"ความสิ้นหวัง\" \"การทรยศ\" \"ความหวาดกลัว\"... Sharon ที่กลับขึ้นมาบนเวที จะดีดสายที่ปลายนิ้ว ซึ่งทำให้บทเพลงอาลัยแห่งความตายก้องกังวานไปทั่ว</>"
+  },
+  "30003140": {
+   "id": 30003140,
+   "pre_section": [
+    "30003130",
+    "29004030"
+   ],
+   "drop_list": [
+    {
+     "id": 42805,
+     "count": -1
+    },
+    {
+     "id": 43705,
+     "count": -1
+    },
+    {
+     "id": 42205,
+     "count": -1
+    },
+    {
+     "id": 43105,
+     "count": -1
+    },
+    {
+     "id": 43305,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Sharon",
+   "first_drop_list": null,
+   "diff_color": 5,
+   "name": [
+    "Sharon",
+    "Floor 14"
+   ],
+   "name_th": [
+    "Sharon",
+    "F14"
+   ],
+   "section_descript": "<Black>\"Despair\", \"Betrayal\", \"Fear\"... Sharon takes the stage once more, and the strings beneath her fingers will sound the final funeral hymn.</>",
+   "section_descript_th": "<Black>\"ความสิ้นหวัง\" \"การทรยศ\" \"ความหวาดกลัว\"... Sharon ที่กลับขึ้นมาบนเวที จะดีดสายที่ปลายนิ้ว ซึ่งทำให้บทเพลงอาลัยแห่งความตายก้องกังวานไปทั่ว</>"
+  },
+  "30003150": {
+   "id": 30003150,
+   "pre_section": [
+    "30003140",
+    "29004030"
+   ],
+   "drop_list": [
+    {
+     "id": 42805,
+     "count": -1
+    },
+    {
+     "id": 43705,
+     "count": -1
+    },
+    {
+     "id": 42205,
+     "count": -1
+    },
+    {
+     "id": 43105,
+     "count": -1
+    },
+    {
+     "id": 43305,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Sharon",
+   "first_drop_list": null,
+   "diff_color": 5,
+   "name": [
+    "Sharon",
+    "Floor 15"
+   ],
+   "name_th": [
+    "Sharon",
+    "F15"
+   ],
+   "section_descript": "<Black>\"Despair\", \"Betrayal\", \"Fear\"... Sharon takes the stage once more, and the strings beneath her fingers will sound the final funeral hymn.</>",
+   "section_descript_th": "<Black>\"ความสิ้นหวัง\" \"การทรยศ\" \"ความหวาดกลัว\"... Sharon ที่กลับขึ้นมาบนเวที จะดีดสายที่ปลายนิ้ว ซึ่งทำให้บทเพลงอาลัยแห่งความตายก้องกังวานไปทั่ว</>"
+  },
+  "30003160": {
+   "id": 30003160,
+   "pre_section": [
+    "30003150",
+    "29004030"
+   ],
+   "drop_list": [
+    {
+     "id": 42805,
+     "count": -1
+    },
+    {
+     "id": 43705,
+     "count": -1
+    },
+    {
+     "id": 42205,
+     "count": -1
+    },
+    {
+     "id": 43105,
+     "count": -1
+    },
+    {
+     "id": 43305,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Sharon",
+   "first_drop_list": null,
+   "diff_color": 5,
+   "name": [
+    "Sharon",
+    "Floor 16"
+   ],
+   "name_th": [
+    "Sharon",
+    "F16"
+   ],
+   "section_descript": "<Black>\"Despair\", \"Betrayal\", \"Fear\"... Sharon takes the stage once more, and the strings beneath her fingers will sound the final funeral hymn.</>",
+   "section_descript_th": "<Black>\"ความสิ้นหวัง\" \"การทรยศ\" \"ความหวาดกลัว\"... Sharon ที่กลับขึ้นมาบนเวที จะดีดสายที่ปลายนิ้ว ซึ่งทำให้บทเพลงอาลัยแห่งความตายก้องกังวานไปทั่ว</>"
+  },
+  "30003170": {
+   "id": 30003170,
+   "pre_section": [
+    "30003160",
+    "29004030"
+   ],
+   "drop_list": [
+    {
+     "id": 42806,
+     "count": -1
+    },
+    {
+     "id": 43706,
+     "count": -1
+    },
+    {
+     "id": 42206,
+     "count": -1
+    },
+    {
+     "id": 43106,
+     "count": -1
+    },
+    {
+     "id": 43306,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Sharon",
+   "first_drop_list": null,
+   "diff_color": 6,
+   "name": [
+    "Sharon",
+    "Floor 17"
+   ],
+   "name_th": [
+    "Sharon",
+    "F17"
+   ],
+   "section_descript": "<Black>\"Despair\", \"Betrayal\", \"Fear\"... Sharon takes the stage once more, and the strings beneath her fingers will sound the final funeral hymn.</>",
+   "section_descript_th": "<Black>\"ความสิ้นหวัง\" \"การทรยศ\" \"ความหวาดกลัว\"... Sharon ที่กลับขึ้นมาบนเวที จะดีดสายที่ปลายนิ้ว ซึ่งทำให้บทเพลงอาลัยแห่งความตายก้องกังวานไปทั่ว</>"
+  },
+  "30003180": {
+   "id": 30003180,
+   "pre_section": [
+    "30003170",
+    "29004030"
+   ],
+   "drop_list": [
+    {
+     "id": 42806,
+     "count": -1
+    },
+    {
+     "id": 43706,
+     "count": -1
+    },
+    {
+     "id": 42206,
+     "count": -1
+    },
+    {
+     "id": 43106,
+     "count": -1
+    },
+    {
+     "id": 43306,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Sharon",
+   "first_drop_list": null,
+   "diff_color": 6,
+   "name": [
+    "Sharon",
+    "Floor 18"
+   ],
+   "name_th": [
+    "Sharon",
+    "F18"
+   ],
+   "section_descript": "<Black>\"Despair\", \"Betrayal\", \"Fear\"... Sharon takes the stage once more, and the strings beneath her fingers will sound the final funeral hymn.</>",
+   "section_descript_th": "<Black>\"ความสิ้นหวัง\" \"การทรยศ\" \"ความหวาดกลัว\"... Sharon ที่กลับขึ้นมาบนเวที จะดีดสายที่ปลายนิ้ว ซึ่งทำให้บทเพลงอาลัยแห่งความตายก้องกังวานไปทั่ว</>"
+  },
+  "30003190": {
+   "id": 30003190,
+   "pre_section": [
+    "30003180",
+    "29004030"
+   ],
+   "drop_list": [
+    {
+     "id": 42806,
+     "count": -1
+    },
+    {
+     "id": 43706,
+     "count": -1
+    },
+    {
+     "id": 42206,
+     "count": -1
+    },
+    {
+     "id": 43106,
+     "count": -1
+    },
+    {
+     "id": 43306,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Sharon",
+   "first_drop_list": null,
+   "diff_color": 6,
+   "name": [
+    "Sharon",
+    "Floor 19"
+   ],
+   "name_th": [
+    "Sharon",
+    "F19"
+   ],
+   "section_descript": "<Black>\"Despair\", \"Betrayal\", \"Fear\"... Sharon takes the stage once more, and the strings beneath her fingers will sound the final funeral hymn.</>",
+   "section_descript_th": "<Black>\"ความสิ้นหวัง\" \"การทรยศ\" \"ความหวาดกลัว\"... Sharon ที่กลับขึ้นมาบนเวที จะดีดสายที่ปลายนิ้ว ซึ่งทำให้บทเพลงอาลัยแห่งความตายก้องกังวานไปทั่ว</>"
+  },
+  "30003200": {
+   "id": 30003200,
+   "pre_section": [
+    "30003190",
+    "29004030"
+   ],
+   "drop_list": [
+    {
+     "id": 42806,
+     "count": -1
+    },
+    {
+     "id": 43706,
+     "count": -1
+    },
+    {
+     "id": 42206,
+     "count": -1
+    },
+    {
+     "id": 43106,
+     "count": -1
+    },
+    {
+     "id": 43306,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Sharon",
+   "first_drop_list": null,
+   "diff_color": 6,
+   "name": [
+    "Sharon",
+    "Floor 20"
+   ],
+   "name_th": [
+    "Sharon",
+    "F20"
+   ],
+   "section_descript": "<Black>\"Despair\", \"Betrayal\", \"Fear\"... Sharon takes the stage once more, and the strings beneath her fingers will sound the final funeral hymn.</>",
+   "section_descript_th": "<Black>\"ความสิ้นหวัง\" \"การทรยศ\" \"ความหวาดกลัว\"... Sharon ที่กลับขึ้นมาบนเวที จะดีดสายที่ปลายนิ้ว ซึ่งทำให้บทเพลงอาลัยแห่งความตายก้องกังวานไปทั่ว</>"
+  },
+  "30003210": {
+   "id": 30003210,
+   "pre_section": [
+    "30003200",
+    "29004030"
+   ],
+   "drop_list": [
+    {
+     "id": 42806,
+     "count": -1
+    },
+    {
+     "id": 43706,
+     "count": -1
+    },
+    {
+     "id": 42206,
+     "count": -1
+    },
+    {
+     "id": 43106,
+     "count": -1
+    },
+    {
+     "id": 43306,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Sharon",
+   "first_drop_list": null,
+   "diff_color": 6,
+   "name": [
+    "Sharon",
+    "Floor 21"
+   ],
+   "name_th": [
+    "Sharon",
+    "F21"
+   ],
+   "section_descript": "<Debuff>On Inferno difficulty</><Key>, Sharon and Concerto Flowers deal </><Debuff>200%</><Key> extra damage to </><Odd>[Odd]</><Key> Animuses, and Sharon is </><Buff>immune</><Key> to all </><Debuff>debuffs</><Key>.</>\n<Key>Sharon has a chance to drop Shells with </><Debuff>3</><Key> Matrix stats.</>\n<Black>\"Despair\", \"Betrayal\", \"Fear\"... Sharon takes the stage once more, and the strings beneath her fingers will sound the final funeral hymn.</>",
+   "section_descript_th": "<Debuff>ในระดับความยาก อินเฟอร์โน</> <Key>Sharon และ Concerto Flowers สร้าง DMG เพิ่มเติม</> <Debuff>200%</> <Key>ให้กับ Animus ที่มี Affinity</> <Odd>[Odd]</> <Key>และ Sharon มี</> <Buff>Immunity</> <Key>ต่อ</> <Debuff>ดีบัฟ</><Key>ทั้งหมด</>\n<Key>Sharon มีโอกาสสร้าง Shell ที่มีเส้น Matrix</> <Debuff>3</> <Key>เส้น</>\n<Black>\"ความสิ้นหวัง\" \"การทรยศ\" \"ความหวาดกลัว\"... Sharon ที่กลับขึ้นมาบนเวที จะดีดสายที่ปลายนิ้ว ซึ่งทำให้บทเพลงอาลัยแห่งความตายก้องกังวานไปทั่ว</>"
+  },
+  "30003220": {
+   "id": 30003220,
+   "pre_section": [
+    "30003210",
+    "29004030"
+   ],
+   "drop_list": [
+    {
+     "id": 42807,
+     "count": -1
+    },
+    {
+     "id": 43707,
+     "count": -1
+    },
+    {
+     "id": 42207,
+     "count": -1
+    },
+    {
+     "id": 43107,
+     "count": -1
+    },
+    {
+     "id": 43307,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Sharon",
+   "first_drop_list": null,
+   "diff_color": 7,
+   "name": [
+    "Sharon",
+    "Floor 22"
+   ],
+   "name_th": [
+    "Sharon",
+    "F22"
+   ],
+   "section_descript": "<Debuff>On Inferno difficulty</><Key>, Sharon and Concerto Flowers deal </><Debuff>200%</><Key> extra damage to </><Odd>[Odd]</><Key> Animuses, and Sharon is </><Buff>immune</><Key> to all </><Debuff>debuffs</><Key>.</>\n<Key>Sharon has a chance to drop Shells with </><Debuff>3</><Key> Matrix stats.</>\n<Black>\"Despair\", \"Betrayal\", \"Fear\"... Sharon takes the stage once more, and the strings beneath her fingers will sound the final funeral hymn.</>",
+   "section_descript_th": "<Debuff>ในระดับความยาก อินเฟอร์โน</> <Key>Sharon และ Concerto Flowers สร้าง DMG เพิ่มเติม</> <Debuff>200%</> <Key>ให้กับ Animus ที่มี Affinity</> <Odd>[Odd]</> <Key>และ Sharon มี</> <Buff>Immunity</> <Key>ต่อ</> <Debuff>ดีบัฟ</><Key>ทั้งหมด</>\n<Key>Sharon มีโอกาสสร้าง Shell ที่มีเส้น Matrix</> <Debuff>3</> <Key>เส้น</>\n<Black>\"ความสิ้นหวัง\" \"การทรยศ\" \"ความหวาดกลัว\"... Sharon ที่กลับขึ้นมาบนเวที จะดีดสายที่ปลายนิ้ว ซึ่งทำให้บทเพลงอาลัยแห่งความตายก้องกังวานไปทั่ว</>"
+  },
+  "30003230": {
+   "id": 30003230,
+   "pre_section": [
+    "30003220",
+    "29004030"
+   ],
+   "drop_list": [
+    {
+     "id": 42807,
+     "count": -1
+    },
+    {
+     "id": 43707,
+     "count": -1
+    },
+    {
+     "id": 42207,
+     "count": -1
+    },
+    {
+     "id": 43107,
+     "count": -1
+    },
+    {
+     "id": 43307,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Sharon",
+   "first_drop_list": null,
+   "diff_color": 7,
+   "name": [
+    "Sharon",
+    "Floor 23"
+   ],
+   "name_th": [
+    "Sharon",
+    "F23"
+   ],
+   "section_descript": "<Debuff>On Inferno difficulty</><Key>, Sharon and Concerto Flowers deal </><Debuff>200%</><Key> extra damage to </><Odd>[Odd]</><Key> Animuses, and Sharon is </><Buff>immune</><Key> to all </><Debuff>debuffs</><Key>.</>\n<Key>Sharon has a chance to drop Shells with </><Debuff>3</><Key> Matrix stats.</>\n<Black>\"Despair\", \"Betrayal\", \"Fear\"... Sharon takes the stage once more, and the strings beneath her fingers will sound the final funeral hymn.</>",
+   "section_descript_th": "<Debuff>ในระดับความยาก อินเฟอร์โน</> <Key>Sharon และ Concerto Flowers สร้าง DMG เพิ่มเติม</> <Debuff>200%</> <Key>ให้กับ Animus ที่มี Affinity</> <Odd>[Odd]</> <Key>และ Sharon มี</> <Buff>Immunity</> <Key>ต่อ</> <Debuff>ดีบัฟ</><Key>ทั้งหมด</>\n<Key>Sharon มีโอกาสสร้าง Shell ที่มีเส้น Matrix</> <Debuff>3</> <Key>เส้น</>\n<Black>\"ความสิ้นหวัง\" \"การทรยศ\" \"ความหวาดกลัว\"... Sharon ที่กลับขึ้นมาบนเวที จะดีดสายที่ปลายนิ้ว ซึ่งทำให้บทเพลงอาลัยแห่งความตายก้องกังวานไปทั่ว</>"
+  },
+  "30003240": {
+   "id": 30003240,
+   "pre_section": [
+    "30003230",
+    "29004030"
+   ],
+   "drop_list": [
+    {
+     "id": 42807,
+     "count": -1
+    },
+    {
+     "id": 43707,
+     "count": -1
+    },
+    {
+     "id": 42207,
+     "count": -1
+    },
+    {
+     "id": 43107,
+     "count": -1
+    },
+    {
+     "id": 43307,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Sharon",
+   "first_drop_list": null,
+   "diff_color": 7,
+   "name": [
+    "Sharon",
+    "Floor 24"
+   ],
+   "name_th": [
+    "Sharon",
+    "F24"
+   ],
+   "section_descript": "<Debuff>On Inferno difficulty</><Key>, Sharon and Concerto Flowers deal </><Debuff>200%</><Key> extra damage to </><Odd>[Odd]</><Key> Animuses, and Sharon is </><Buff>immune</><Key> to all </><Debuff>debuffs</><Key>.</>\n<Key>Sharon has a chance to drop Shells with </><Debuff>3</><Key> Matrix stats.</>\n<Black>\"Despair\", \"Betrayal\", \"Fear\"... Sharon takes the stage once more, and the strings beneath her fingers will sound the final funeral hymn.</>",
+   "section_descript_th": "<Debuff>ในระดับความยาก อินเฟอร์โน</> <Key>Sharon และ Concerto Flowers สร้าง DMG เพิ่มเติม</> <Debuff>200%</> <Key>ให้กับ Animus ที่มี Affinity</> <Odd>[Odd]</> <Key>และ Sharon มี</> <Buff>Immunity</> <Key>ต่อ</> <Debuff>ดีบัฟ</><Key>ทั้งหมด</>\n<Key>Sharon มีโอกาสสร้าง Shell ที่มีเส้น Matrix</> <Debuff>3</> <Key>เส้น</>\n<Black>\"ความสิ้นหวัง\" \"การทรยศ\" \"ความหวาดกลัว\"... Sharon ที่กลับขึ้นมาบนเวที จะดีดสายที่ปลายนิ้ว ซึ่งทำให้บทเพลงอาลัยแห่งความตายก้องกังวานไปทั่ว</>"
+  },
+  "30003250": {
+   "id": 30003250,
+   "pre_section": [
+    "30003240",
+    "29004030"
+   ],
+   "drop_list": [
+    {
+     "id": 42807,
+     "count": -1
+    },
+    {
+     "id": 43707,
+     "count": -1
+    },
+    {
+     "id": 42207,
+     "count": -1
+    },
+    {
+     "id": 43107,
+     "count": -1
+    },
+    {
+     "id": 43307,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Sharon",
+   "first_drop_list": null,
+   "diff_color": 7,
+   "name": [
+    "Sharon",
+    "Floor 25"
+   ],
+   "name_th": [
+    "Sharon",
+    "F25"
+   ],
+   "section_descript": "<Debuff>On Inferno difficulty</><Key>, Sharon and Concerto Flowers deal </><Debuff>200%</><Key> extra damage to </><Odd>[Odd]</><Key> Animuses, and Sharon is </><Buff>immune</><Key> to all </><Debuff>debuffs</><Key>.</>\n<Key>Sharon has a chance to drop Shells with </><Debuff>3</><Key> Matrix stats.</>\n<Black>\"Despair\", \"Betrayal\", \"Fear\"... Sharon takes the stage once more, and the strings beneath her fingers will sound the final funeral hymn.</>",
+   "section_descript_th": "<Debuff>ในระดับความยาก อินเฟอร์โน</> <Key>Sharon และ Concerto Flowers สร้าง DMG เพิ่มเติม</> <Debuff>200%</> <Key>ให้กับ Animus ที่มี Affinity</> <Odd>[Odd]</> <Key>และ Sharon มี</> <Buff>Immunity</> <Key>ต่อ</> <Debuff>ดีบัฟ</><Key>ทั้งหมด</>\n<Key>Sharon มีโอกาสสร้าง Shell ที่มีเส้น Matrix</> <Debuff>3</> <Key>เส้น</>\n<Black>\"ความสิ้นหวัง\" \"การทรยศ\" \"ความหวาดกลัว\"... Sharon ที่กลับขึ้นมาบนเวที จะดีดสายที่ปลายนิ้ว ซึ่งทำให้บทเพลงอาลัยแห่งความตายก้องกังวานไปทั่ว</>"
+  },
+  "30003260": {
+   "id": 30003260,
+   "pre_section": [
+    "30003250",
+    "29004030"
+   ],
+   "drop_list": [
+    {
+     "id": 42807,
+     "count": -1
+    },
+    {
+     "id": 43707,
+     "count": -1
+    },
+    {
+     "id": 42207,
+     "count": -1
+    },
+    {
+     "id": 43107,
+     "count": -1
+    },
+    {
+     "id": 43307,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Sharon",
+   "first_drop_list": null,
+   "diff_color": 7,
+   "name": [
+    "Sharon",
+    "Floor 26"
+   ],
+   "name_th": [
+    "Sharon",
+    "F26"
+   ],
+   "section_descript": "<Debuff>On Abyss difficulty, Sharon takes 100% increased damage from [Reason] Animuses.</>\n<Key>Sharon and Concerto Flowers deal </><Debuff>200%</><Key> extra damage to </><Odd>[Odd]</><Key> Animuses, and Sharon is </><Buff>immune</><Key> to all </><Debuff>debuffs</><Key>.</>\n<Key>Sharon has a chance to drop Shells with </><Debuff>3</><Key> Matrix stats.</>\n<Black>\"Despair\", \"Betrayal\", \"Fear\"... Sharon takes the stage once more, and the strings beneath her fingers will sound the final funeral hymn.</>",
+   "section_descript_th": "<Debuff>ในระดับความยาก Abyss, Sharon จะได้รับความเสียหายเพิ่มขึ้น 100% จาก Animus Affinity [Reason]</>\n<Key>Sharon และ Concerto Flower สร้าง DMG เพิ่มเติม</> <Debuff>200%</> <Key>ให้กับ Animus Affinity</> <Odd>[Odd]</> <Key>และ Sharon มี</> <Buff>Immunity</> <Key>ต่อ</><Debuff>ดีบัฟ</><Key>ทั้งหมด</>\n<Key>Sharon มีโอกาสสร้าง Shell ที่มีเส้น</> <Debuff>3</> <Key>Matrix</>\n<Black>\"ความสิ้นหวัง\" \"การทรยศ\" \"ความกลัว\"... เมื่อ Sharon ขึ้นเวทีอีกครั้ง สายที่เธอดีดจะสะท้อนกังวานไปกับบทเพลงศพแห่งการสิ้นสุด</>"
+  },
+  "30003270": {
+   "id": 30003270,
+   "pre_section": [
+    "30003260",
+    "29004030"
+   ],
+   "drop_list": [
+    {
+     "id": 42807,
+     "count": -1
+    },
+    {
+     "id": 43707,
+     "count": -1
+    },
+    {
+     "id": 42207,
+     "count": -1
+    },
+    {
+     "id": 43107,
+     "count": -1
+    },
+    {
+     "id": 43307,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Sharon",
+   "first_drop_list": null,
+   "diff_color": 7,
+   "name": [
+    "Sharon",
+    "Floor 27"
+   ],
+   "name_th": [
+    "Sharon",
+    "F27"
+   ],
+   "section_descript": "<Debuff>On Abyss difficulty, Sharon takes 100% increased damage from [Reason] Animuses.</>\n<Key>Sharon and Concerto Flowers deal </><Debuff>200%</><Key> extra damage to </><Odd>[Odd]</><Key> Animuses, and Sharon is </><Buff>immune</><Key> to all </><Debuff>debuffs</><Key>.</>\n<Key>Sharon has a chance to drop Shells with </><Debuff>3</><Key> Matrix stats.</>\n<Black>\"Despair\", \"Betrayal\", \"Fear\"... Sharon takes the stage once more, and the strings beneath her fingers will sound the final funeral hymn.</>",
+   "section_descript_th": "<Debuff>ในระดับความยาก Abyss, Sharon จะได้รับความเสียหายเพิ่มขึ้น 100% จาก Animus Affinity [Reason]</>\n<Key>Sharon และ Concerto Flower สร้าง DMG เพิ่มเติม</> <Debuff>200%</> <Key>ให้กับ Animus Affinity</> <Odd>[Odd]</> <Key>และ Sharon มี</> <Buff>Immunity</> <Key>ต่อ</><Debuff>ดีบัฟ</><Key>ทั้งหมด</>\n<Key>Sharon มีโอกาสสร้าง Shell ที่มีเส้น</> <Debuff>3</> <Key>Matrix</>\n<Black>\"ความสิ้นหวัง\" \"การทรยศ\" \"ความกลัว\"... เมื่อ Sharon ขึ้นเวทีอีกครั้ง สายที่เธอดีดจะสะท้อนกังวานไปกับบทเพลงศพแห่งการสิ้นสุด</>"
+  },
+  "30003280": {
+   "id": 30003280,
+   "pre_section": [
+    "30003270",
+    "29004030"
+   ],
+   "drop_list": [
+    {
+     "id": 42807,
+     "count": -1
+    },
+    {
+     "id": 43707,
+     "count": -1
+    },
+    {
+     "id": 42207,
+     "count": -1
+    },
+    {
+     "id": 43107,
+     "count": -1
+    },
+    {
+     "id": 43307,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Sharon",
+   "first_drop_list": null,
+   "diff_color": 7,
+   "name": [
+    "Sharon",
+    "Floor 28"
+   ],
+   "name_th": [
+    "Sharon",
+    "F28"
+   ],
+   "section_descript": "<Debuff>On Abyss difficulty, Sharon takes 100% increased damage from [Reason] Animuses.</>\n<Key>Sharon and Concerto Flowers deal </><Debuff>200%</><Key> extra damage to </><Odd>[Odd]</><Key> Animuses, and Sharon is </><Buff>immune</><Key> to all </><Debuff>debuffs</><Key>.</>\n<Key>Sharon has a chance to drop Shells with </><Debuff>3</><Key> Matrix stats.</>\n<Black>\"Despair\", \"Betrayal\", \"Fear\"... Sharon takes the stage once more, and the strings beneath her fingers will sound the final funeral hymn.</>",
+   "section_descript_th": "<Debuff>ในระดับความยาก Abyss, Sharon จะได้รับความเสียหายเพิ่มขึ้น 100% จาก Animus Affinity [Reason]</>\n<Key>Sharon และ Concerto Flower สร้าง DMG เพิ่มเติม</> <Debuff>200%</> <Key>ให้กับ Animus Affinity</> <Odd>[Odd]</> <Key>และ Sharon มี</> <Buff>Immunity</> <Key>ต่อ</><Debuff>ดีบัฟ</><Key>ทั้งหมด</>\n<Key>Sharon มีโอกาสสร้าง Shell ที่มีเส้น</> <Debuff>3</> <Key>Matrix</>\n<Black>\"ความสิ้นหวัง\" \"การทรยศ\" \"ความกลัว\"... เมื่อ Sharon ขึ้นเวทีอีกครั้ง สายที่เธอดีดจะสะท้อนกังวานไปกับบทเพลงศพแห่งการสิ้นสุด</>"
+  },
+  "30003290": {
+   "id": 30003290,
+   "pre_section": [
+    "30003280",
+    "29004030"
+   ],
+   "drop_list": [
+    {
+     "id": 42807,
+     "count": -1
+    },
+    {
+     "id": 43707,
+     "count": -1
+    },
+    {
+     "id": 42207,
+     "count": -1
+    },
+    {
+     "id": 43107,
+     "count": -1
+    },
+    {
+     "id": 43307,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Sharon",
+   "first_drop_list": null,
+   "diff_color": 7,
+   "name": [
+    "Sharon",
+    "Floor 29"
+   ],
+   "name_th": [
+    "Sharon",
+    "F29"
+   ],
+   "section_descript": "<Debuff>On Abyss difficulty, Sharon takes 100% increased damage from [Reason] Animuses.</>\n<Key>Sharon and Concerto Flowers deal </><Debuff>200%</><Key> extra damage to </><Odd>[Odd]</><Key> Animuses, and Sharon is </><Buff>immune</><Key> to all </><Debuff>debuffs</><Key>.</>\n<Key>Sharon has a chance to drop Shells with </><Debuff>3</><Key> Matrix stats.</>\n<Black>\"Despair\", \"Betrayal\", \"Fear\"... Sharon takes the stage once more, and the strings beneath her fingers will sound the final funeral hymn.</>",
+   "section_descript_th": "<Debuff>ในระดับความยาก Abyss, Sharon จะได้รับความเสียหายเพิ่มขึ้น 100% จาก Animus Affinity [Reason]</>\n<Key>Sharon และ Concerto Flower สร้าง DMG เพิ่มเติม</> <Debuff>200%</> <Key>ให้กับ Animus Affinity</> <Odd>[Odd]</> <Key>และ Sharon มี</> <Buff>Immunity</> <Key>ต่อ</><Debuff>ดีบัฟ</><Key>ทั้งหมด</>\n<Key>Sharon มีโอกาสสร้าง Shell ที่มีเส้น</> <Debuff>3</> <Key>Matrix</>\n<Black>\"ความสิ้นหวัง\" \"การทรยศ\" \"ความกลัว\"... เมื่อ Sharon ขึ้นเวทีอีกครั้ง สายที่เธอดีดจะสะท้อนกังวานไปกับบทเพลงศพแห่งการสิ้นสุด</>"
+  },
+  "30003300": {
+   "id": 30003300,
+   "pre_section": [
+    "30003290",
+    "29004030"
+   ],
+   "drop_list": [
+    {
+     "id": 42807,
+     "count": -1
+    },
+    {
+     "id": 43707,
+     "count": -1
+    },
+    {
+     "id": 42207,
+     "count": -1
+    },
+    {
+     "id": 43107,
+     "count": -1
+    },
+    {
+     "id": 43307,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Sharon",
+   "first_drop_list": null,
+   "diff_color": 7,
+   "name": [
+    "Sharon",
+    "Floor 30"
+   ],
+   "name_th": [
+    "Sharon",
+    "F30"
+   ],
+   "section_descript": "<Debuff>On Abyss difficulty, Sharon takes 100% increased damage from [Reason] Animuses.</>\n<Key>Sharon and Concerto Flowers deal </><Debuff>200%</><Key> extra damage to </><Odd>[Odd]</><Key> Animuses, and Sharon is </><Buff>immune</><Key> to all </><Debuff>debuffs</><Key>.</>\n<Key>Sharon has a chance to drop Shells with </><Debuff>3</><Key> Matrix stats.</>\n<Black>\"Despair\", \"Betrayal\", \"Fear\"... Sharon takes the stage once more, and the strings beneath her fingers will sound the final funeral hymn.</>",
+   "section_descript_th": "<Debuff>ในระดับความยาก Abyss, Sharon จะได้รับความเสียหายเพิ่มขึ้น 100% จาก Animus Affinity [Reason]</>\n<Key>Sharon และ Concerto Flower สร้าง DMG เพิ่มเติม</> <Debuff>200%</> <Key>ให้กับ Animus Affinity</> <Odd>[Odd]</> <Key>และ Sharon มี</> <Buff>Immunity</> <Key>ต่อ</><Debuff>ดีบัฟ</><Key>ทั้งหมด</>\n<Key>Sharon มีโอกาสสร้าง Shell ที่มีเส้น</> <Debuff>3</> <Key>Matrix</>\n<Black>\"ความสิ้นหวัง\" \"การทรยศ\" \"ความกลัว\"... เมื่อ Sharon ขึ้นเวทีอีกครั้ง สายที่เธอดีดจะสะท้อนกังวานไปกับบทเพลงศพแห่งการสิ้นสุด</>"
+  },
+  "30004010": {
+   "id": 30004010,
+   "pre_section": [
+    "29006030"
+   ],
+   "drop_list": [
+    {
+     "id": 43902,
+     "count": -1
+    },
+    {
+     "id": 43802,
+     "count": -1
+    },
+    {
+     "id": 43402,
+     "count": -1
+    },
+    {
+     "id": 43602,
+     "count": -1
+    },
+    {
+     "id": 42902,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Shadowflame",
+   "first_drop_list": null,
+   "diff_color": 2,
+   "name": [
+    "Hoyan",
+    "Floor 1"
+   ],
+   "name_th": [
+    "Hoyan",
+    "F1"
+   ],
+   "section_descript": "<Black>The Sixth Executioner of R.C.S., an execution machine that strikes fear into all who face her. Shadowflame is Hoyan's complete combat form after her full upgrade.</>",
+   "section_descript_th": "<Black>ผู้ประหารชีวิตคนที่หกของ R.C.S. เครื่องจักรสังหารที่น่าสะพรึงกลัว Flamehunter คือรูปแบบการต่อสู้ที่สมบูรณ์ของ Animus Hoyan หลังจาก Empowerment</>"
+  },
+  "30004020": {
+   "id": 30004020,
+   "pre_section": [
+    "30004010",
+    "29006030"
+   ],
+   "drop_list": [
+    {
+     "id": 43903,
+     "count": -1
+    },
+    {
+     "id": 43803,
+     "count": -1
+    },
+    {
+     "id": 43403,
+     "count": -1
+    },
+    {
+     "id": 43603,
+     "count": -1
+    },
+    {
+     "id": 42903,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Shadowflame",
+   "first_drop_list": null,
+   "diff_color": 3,
+   "name": [
+    "Hoyan",
+    "Floor 2"
+   ],
+   "name_th": [
+    "Hoyan",
+    "F2"
+   ],
+   "section_descript": "<Black>The Sixth Executioner of R.C.S., an execution machine that strikes fear into all who face her. Shadowflame is Hoyan's complete combat form after her full upgrade.</>",
+   "section_descript_th": "<Black>ผู้ประหารชีวิตคนที่หกของ R.C.S. เครื่องจักรสังหารที่น่าสะพรึงกลัว Flamehunter คือรูปแบบการต่อสู้ที่สมบูรณ์ของ Animus Hoyan หลังจาก Empowerment</>"
+  },
+  "30004030": {
+   "id": 30004030,
+   "pre_section": [
+    "30004020",
+    "29006030"
+   ],
+   "drop_list": [
+    {
+     "id": 43903,
+     "count": -1
+    },
+    {
+     "id": 43803,
+     "count": -1
+    },
+    {
+     "id": 43403,
+     "count": -1
+    },
+    {
+     "id": 43603,
+     "count": -1
+    },
+    {
+     "id": 42903,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Shadowflame",
+   "first_drop_list": null,
+   "diff_color": 3,
+   "name": [
+    "Hoyan",
+    "Floor 3"
+   ],
+   "name_th": [
+    "Hoyan",
+    "F3"
+   ],
+   "section_descript": "<Black>The Sixth Executioner of R.C.S., an execution machine that strikes fear into all who face her. Shadowflame is Hoyan's complete combat form after her full upgrade.</>",
+   "section_descript_th": "<Black>ผู้ประหารชีวิตคนที่หกของ R.C.S. เครื่องจักรสังหารที่น่าสะพรึงกลัว Flamehunter คือรูปแบบการต่อสู้ที่สมบูรณ์ของ Animus Hoyan หลังจาก Empowerment</>"
+  },
+  "30004040": {
+   "id": 30004040,
+   "pre_section": [
+    "30004030",
+    "29006030"
+   ],
+   "drop_list": [
+    {
+     "id": 43903,
+     "count": -1
+    },
+    {
+     "id": 43803,
+     "count": -1
+    },
+    {
+     "id": 43403,
+     "count": -1
+    },
+    {
+     "id": 43603,
+     "count": -1
+    },
+    {
+     "id": 42903,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Shadowflame",
+   "first_drop_list": null,
+   "diff_color": 3,
+   "name": [
+    "Hoyan",
+    "Floor 4"
+   ],
+   "name_th": [
+    "Hoyan",
+    "F4"
+   ],
+   "section_descript": "<Black>The Sixth Executioner of R.C.S., an execution machine that strikes fear into all who face her. Shadowflame is Hoyan's complete combat form after her full upgrade.</>",
+   "section_descript_th": "<Black>ผู้ประหารชีวิตคนที่หกของ R.C.S. เครื่องจักรสังหารที่น่าสะพรึงกลัว Flamehunter คือรูปแบบการต่อสู้ที่สมบูรณ์ของ Animus Hoyan หลังจาก Empowerment</>"
+  },
+  "30004050": {
+   "id": 30004050,
+   "pre_section": [
+    "30004040",
+    "29006030"
+   ],
+   "drop_list": [
+    {
+     "id": 43903,
+     "count": -1
+    },
+    {
+     "id": 43803,
+     "count": -1
+    },
+    {
+     "id": 43403,
+     "count": -1
+    },
+    {
+     "id": 43603,
+     "count": -1
+    },
+    {
+     "id": 42903,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Shadowflame",
+   "first_drop_list": null,
+   "diff_color": 3,
+   "name": [
+    "Hoyan",
+    "Floor 5"
+   ],
+   "name_th": [
+    "Hoyan",
+    "F5"
+   ],
+   "section_descript": "<Black>The Sixth Executioner of R.C.S., an execution machine that strikes fear into all who face her. Shadowflame is Hoyan's complete combat form after her full upgrade.</>",
+   "section_descript_th": "<Black>ผู้ประหารชีวิตคนที่หกของ R.C.S. เครื่องจักรสังหารที่น่าสะพรึงกลัว Flamehunter คือรูปแบบการต่อสู้ที่สมบูรณ์ของ Animus Hoyan หลังจาก Empowerment</>"
+  },
+  "30004060": {
+   "id": 30004060,
+   "pre_section": [
+    "30004050",
+    "29006030"
+   ],
+   "drop_list": [
+    {
+     "id": 43903,
+     "count": -1
+    },
+    {
+     "id": 43803,
+     "count": -1
+    },
+    {
+     "id": 43403,
+     "count": -1
+    },
+    {
+     "id": 43603,
+     "count": -1
+    },
+    {
+     "id": 42903,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Shadowflame",
+   "first_drop_list": null,
+   "diff_color": 3,
+   "name": [
+    "Hoyan",
+    "Floor 6"
+   ],
+   "name_th": [
+    "Hoyan",
+    "F6"
+   ],
+   "section_descript": "<Black>The Sixth Executioner of R.C.S., an execution machine that strikes fear into all who face her. Shadowflame is Hoyan's complete combat form after her full upgrade.</>",
+   "section_descript_th": "<Black>ผู้ประหารชีวิตคนที่หกของ R.C.S. เครื่องจักรสังหารที่น่าสะพรึงกลัว Flamehunter คือรูปแบบการต่อสู้ที่สมบูรณ์ของ Animus Hoyan หลังจาก Empowerment</>"
+  },
+  "30004070": {
+   "id": 30004070,
+   "pre_section": [
+    "30004060",
+    "29006030"
+   ],
+   "drop_list": [
+    {
+     "id": 43904,
+     "count": -1
+    },
+    {
+     "id": 43804,
+     "count": -1
+    },
+    {
+     "id": 43404,
+     "count": -1
+    },
+    {
+     "id": 43604,
+     "count": -1
+    },
+    {
+     "id": 42904,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Shadowflame",
+   "first_drop_list": null,
+   "diff_color": 4,
+   "name": [
+    "Hoyan",
+    "Floor 7"
+   ],
+   "name_th": [
+    "Hoyan",
+    "F7"
+   ],
+   "section_descript": "<Black>The Sixth Executioner of R.C.S., an execution machine that strikes fear into all who face her. Shadowflame is Hoyan's complete combat form after her full upgrade.</>",
+   "section_descript_th": "<Black>ผู้ประหารชีวิตคนที่หกของ R.C.S. เครื่องจักรสังหารที่น่าสะพรึงกลัว Flamehunter คือรูปแบบการต่อสู้ที่สมบูรณ์ของ Animus Hoyan หลังจาก Empowerment</>"
+  },
+  "30004080": {
+   "id": 30004080,
+   "pre_section": [
+    "30004070",
+    "29006030"
+   ],
+   "drop_list": [
+    {
+     "id": 43904,
+     "count": -1
+    },
+    {
+     "id": 43804,
+     "count": -1
+    },
+    {
+     "id": 43404,
+     "count": -1
+    },
+    {
+     "id": 43604,
+     "count": -1
+    },
+    {
+     "id": 42904,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Shadowflame",
+   "first_drop_list": null,
+   "diff_color": 4,
+   "name": [
+    "Hoyan",
+    "Floor 8"
+   ],
+   "name_th": [
+    "Hoyan",
+    "F8"
+   ],
+   "section_descript": "<Black>The Sixth Executioner of R.C.S., an execution machine that strikes fear into all who face her. Shadowflame is Hoyan's complete combat form after her full upgrade.</>",
+   "section_descript_th": "<Black>ผู้ประหารชีวิตคนที่หกของ R.C.S. เครื่องจักรสังหารที่น่าสะพรึงกลัว Flamehunter คือรูปแบบการต่อสู้ที่สมบูรณ์ของ Animus Hoyan หลังจาก Empowerment</>"
+  },
+  "30004090": {
+   "id": 30004090,
+   "pre_section": [
+    "30004080",
+    "29006030"
+   ],
+   "drop_list": [
+    {
+     "id": 43904,
+     "count": -1
+    },
+    {
+     "id": 43804,
+     "count": -1
+    },
+    {
+     "id": 43404,
+     "count": -1
+    },
+    {
+     "id": 43604,
+     "count": -1
+    },
+    {
+     "id": 42904,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Shadowflame",
+   "first_drop_list": null,
+   "diff_color": 4,
+   "name": [
+    "Hoyan",
+    "Floor 9"
+   ],
+   "name_th": [
+    "Hoyan",
+    "F9"
+   ],
+   "section_descript": "<Black>The Sixth Executioner of R.C.S., an execution machine that strikes fear into all who face her. Shadowflame is Hoyan's complete combat form after her full upgrade.</>",
+   "section_descript_th": "<Black>ผู้ประหารชีวิตคนที่หกของ R.C.S. เครื่องจักรสังหารที่น่าสะพรึงกลัว Flamehunter คือรูปแบบการต่อสู้ที่สมบูรณ์ของ Animus Hoyan หลังจาก Empowerment</>"
+  },
+  "30004100": {
+   "id": 30004100,
+   "pre_section": [
+    "30004090",
+    "29006030"
+   ],
+   "drop_list": [
+    {
+     "id": 43904,
+     "count": -1
+    },
+    {
+     "id": 43804,
+     "count": -1
+    },
+    {
+     "id": 43404,
+     "count": -1
+    },
+    {
+     "id": 43604,
+     "count": -1
+    },
+    {
+     "id": 42904,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Shadowflame",
+   "first_drop_list": null,
+   "diff_color": 4,
+   "name": [
+    "Hoyan",
+    "Floor 10"
+   ],
+   "name_th": [
+    "Hoyan",
+    "F10"
+   ],
+   "section_descript": "<Black>The Sixth Executioner of R.C.S., an execution machine that strikes fear into all who face her. Shadowflame is Hoyan's complete combat form after her full upgrade.</>",
+   "section_descript_th": "<Black>ผู้ประหารชีวิตคนที่หกของ R.C.S. เครื่องจักรสังหารที่น่าสะพรึงกลัว Flamehunter คือรูปแบบการต่อสู้ที่สมบูรณ์ของ Animus Hoyan หลังจาก Empowerment</>"
+  },
+  "30004110": {
+   "id": 30004110,
+   "pre_section": [
+    "30004100",
+    "29006030"
+   ],
+   "drop_list": [
+    {
+     "id": 43904,
+     "count": -1
+    },
+    {
+     "id": 43804,
+     "count": -1
+    },
+    {
+     "id": 43404,
+     "count": -1
+    },
+    {
+     "id": 43604,
+     "count": -1
+    },
+    {
+     "id": 42904,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Shadowflame",
+   "first_drop_list": null,
+   "diff_color": 4,
+   "name": [
+    "Hoyan",
+    "Floor 11"
+   ],
+   "name_th": [
+    "Hoyan",
+    "F11"
+   ],
+   "section_descript": "<Black>The Sixth Executioner of R.C.S., an execution machine that strikes fear into all who face her. Shadowflame is Hoyan's complete combat form after her full upgrade.</>",
+   "section_descript_th": "<Black>ผู้ประหารชีวิตคนที่หกของ R.C.S. เครื่องจักรสังหารที่น่าสะพรึงกลัว Flamehunter คือรูปแบบการต่อสู้ที่สมบูรณ์ของ Animus Hoyan หลังจาก Empowerment</>"
+  },
+  "30004120": {
+   "id": 30004120,
+   "pre_section": [
+    "30004110",
+    "29006030"
+   ],
+   "drop_list": [
+    {
+     "id": 43905,
+     "count": -1
+    },
+    {
+     "id": 43805,
+     "count": -1
+    },
+    {
+     "id": 43405,
+     "count": -1
+    },
+    {
+     "id": 43605,
+     "count": -1
+    },
+    {
+     "id": 42905,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Shadowflame",
+   "first_drop_list": null,
+   "diff_color": 5,
+   "name": [
+    "Hoyan",
+    "Floor 12"
+   ],
+   "name_th": [
+    "Hoyan",
+    "F12"
+   ],
+   "section_descript": "<Black>The Sixth Executioner of R.C.S., an execution machine that strikes fear into all who face her. Shadowflame is Hoyan's complete combat form after her full upgrade.</>",
+   "section_descript_th": "<Black>ผู้ประหารชีวิตคนที่หกของ R.C.S. เครื่องจักรสังหารที่น่าสะพรึงกลัว Flamehunter คือรูปแบบการต่อสู้ที่สมบูรณ์ของ Animus Hoyan หลังจาก Empowerment</>"
+  },
+  "30004130": {
+   "id": 30004130,
+   "pre_section": [
+    "30004120",
+    "29006030"
+   ],
+   "drop_list": [
+    {
+     "id": 43905,
+     "count": -1
+    },
+    {
+     "id": 43805,
+     "count": -1
+    },
+    {
+     "id": 43405,
+     "count": -1
+    },
+    {
+     "id": 43605,
+     "count": -1
+    },
+    {
+     "id": 42905,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Shadowflame",
+   "first_drop_list": null,
+   "diff_color": 5,
+   "name": [
+    "Hoyan",
+    "Floor 13"
+   ],
+   "name_th": [
+    "Hoyan",
+    "F13"
+   ],
+   "section_descript": "<Black>The Sixth Executioner of R.C.S., an execution machine that strikes fear into all who face her. Shadowflame is Hoyan's complete combat form after her full upgrade.</>",
+   "section_descript_th": "<Black>ผู้ประหารชีวิตคนที่หกของ R.C.S. เครื่องจักรสังหารที่น่าสะพรึงกลัว Flamehunter คือรูปแบบการต่อสู้ที่สมบูรณ์ของ Animus Hoyan หลังจาก Empowerment</>"
+  },
+  "30004140": {
+   "id": 30004140,
+   "pre_section": [
+    "30004130",
+    "29006030"
+   ],
+   "drop_list": [
+    {
+     "id": 43905,
+     "count": -1
+    },
+    {
+     "id": 43805,
+     "count": -1
+    },
+    {
+     "id": 43405,
+     "count": -1
+    },
+    {
+     "id": 43605,
+     "count": -1
+    },
+    {
+     "id": 42905,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Shadowflame",
+   "first_drop_list": null,
+   "diff_color": 5,
+   "name": [
+    "Hoyan",
+    "Floor 14"
+   ],
+   "name_th": [
+    "Hoyan",
+    "F14"
+   ],
+   "section_descript": "<Black>The Sixth Executioner of R.C.S., an execution machine that strikes fear into all who face her. Shadowflame is Hoyan's complete combat form after her full upgrade.</>",
+   "section_descript_th": "<Black>ผู้ประหารชีวิตคนที่หกของ R.C.S. เครื่องจักรสังหารที่น่าสะพรึงกลัว Flamehunter คือรูปแบบการต่อสู้ที่สมบูรณ์ของ Animus Hoyan หลังจาก Empowerment</>"
+  },
+  "30004150": {
+   "id": 30004150,
+   "pre_section": [
+    "30004140",
+    "29006030"
+   ],
+   "drop_list": [
+    {
+     "id": 43905,
+     "count": -1
+    },
+    {
+     "id": 43805,
+     "count": -1
+    },
+    {
+     "id": 43405,
+     "count": -1
+    },
+    {
+     "id": 43605,
+     "count": -1
+    },
+    {
+     "id": 42905,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Shadowflame",
+   "first_drop_list": null,
+   "diff_color": 5,
+   "name": [
+    "Hoyan",
+    "Floor 15"
+   ],
+   "name_th": [
+    "Hoyan",
+    "F15"
+   ],
+   "section_descript": "<Black>The Sixth Executioner of R.C.S., an execution machine that strikes fear into all who face her. Shadowflame is Hoyan's complete combat form after her full upgrade.</>",
+   "section_descript_th": "<Black>ผู้ประหารชีวิตคนที่หกของ R.C.S. เครื่องจักรสังหารที่น่าสะพรึงกลัว Flamehunter คือรูปแบบการต่อสู้ที่สมบูรณ์ของ Animus Hoyan หลังจาก Empowerment</>"
+  },
+  "30004160": {
+   "id": 30004160,
+   "pre_section": [
+    "30004150",
+    "29006030"
+   ],
+   "drop_list": [
+    {
+     "id": 43905,
+     "count": -1
+    },
+    {
+     "id": 43805,
+     "count": -1
+    },
+    {
+     "id": 43405,
+     "count": -1
+    },
+    {
+     "id": 43605,
+     "count": -1
+    },
+    {
+     "id": 42905,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Shadowflame",
+   "first_drop_list": null,
+   "diff_color": 5,
+   "name": [
+    "Hoyan",
+    "Floor 16"
+   ],
+   "name_th": [
+    "Hoyan",
+    "F16"
+   ],
+   "section_descript": "<Black>The Sixth Executioner of R.C.S., an execution machine that strikes fear into all who face her. Shadowflame is Hoyan's complete combat form after her full upgrade.</>",
+   "section_descript_th": "<Black>ผู้ประหารชีวิตคนที่หกของ R.C.S. เครื่องจักรสังหารที่น่าสะพรึงกลัว Flamehunter คือรูปแบบการต่อสู้ที่สมบูรณ์ของ Animus Hoyan หลังจาก Empowerment</>"
+  },
+  "30004170": {
+   "id": 30004170,
+   "pre_section": [
+    "30004160",
+    "29006030"
+   ],
+   "drop_list": [
+    {
+     "id": 43906,
+     "count": -1
+    },
+    {
+     "id": 43806,
+     "count": -1
+    },
+    {
+     "id": 43406,
+     "count": -1
+    },
+    {
+     "id": 43606,
+     "count": -1
+    },
+    {
+     "id": 42906,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Shadowflame",
+   "first_drop_list": null,
+   "diff_color": 6,
+   "name": [
+    "Hoyan",
+    "Floor 17"
+   ],
+   "name_th": [
+    "Hoyan",
+    "F17"
+   ],
+   "section_descript": "<Black>The Sixth Executioner of R.C.S., an execution machine that strikes fear into all who face her. Shadowflame is Hoyan's complete combat form after her full upgrade.</>",
+   "section_descript_th": "<Black>ผู้ประหารชีวิตคนที่หกของ R.C.S. เครื่องจักรสังหารที่น่าสะพรึงกลัว Flamehunter คือรูปแบบการต่อสู้ที่สมบูรณ์ของ Animus Hoyan หลังจาก Empowerment</>"
+  },
+  "30004180": {
+   "id": 30004180,
+   "pre_section": [
+    "30004170",
+    "29006030"
+   ],
+   "drop_list": [
+    {
+     "id": 43906,
+     "count": -1
+    },
+    {
+     "id": 43806,
+     "count": -1
+    },
+    {
+     "id": 43406,
+     "count": -1
+    },
+    {
+     "id": 43606,
+     "count": -1
+    },
+    {
+     "id": 42906,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Shadowflame",
+   "first_drop_list": null,
+   "diff_color": 6,
+   "name": [
+    "Hoyan",
+    "Floor 18"
+   ],
+   "name_th": [
+    "Hoyan",
+    "F18"
+   ],
+   "section_descript": "<Black>The Sixth Executioner of R.C.S., an execution machine that strikes fear into all who face her. Shadowflame is Hoyan's complete combat form after her full upgrade.</>",
+   "section_descript_th": "<Black>ผู้ประหารชีวิตคนที่หกของ R.C.S. เครื่องจักรสังหารที่น่าสะพรึงกลัว Flamehunter คือรูปแบบการต่อสู้ที่สมบูรณ์ของ Animus Hoyan หลังจาก Empowerment</>"
+  },
+  "30004190": {
+   "id": 30004190,
+   "pre_section": [
+    "30004180",
+    "29006030"
+   ],
+   "drop_list": [
+    {
+     "id": 43906,
+     "count": -1
+    },
+    {
+     "id": 43806,
+     "count": -1
+    },
+    {
+     "id": 43406,
+     "count": -1
+    },
+    {
+     "id": 43606,
+     "count": -1
+    },
+    {
+     "id": 42906,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Shadowflame",
+   "first_drop_list": null,
+   "diff_color": 6,
+   "name": [
+    "Hoyan",
+    "Floor 19"
+   ],
+   "name_th": [
+    "Hoyan",
+    "F19"
+   ],
+   "section_descript": "<Black>The Sixth Executioner of R.C.S., an execution machine that strikes fear into all who face her. Shadowflame is Hoyan's complete combat form after her full upgrade.</>",
+   "section_descript_th": "<Black>ผู้ประหารชีวิตคนที่หกของ R.C.S. เครื่องจักรสังหารที่น่าสะพรึงกลัว Flamehunter คือรูปแบบการต่อสู้ที่สมบูรณ์ของ Animus Hoyan หลังจาก Empowerment</>"
+  },
+  "30004200": {
+   "id": 30004200,
+   "pre_section": [
+    "30004190",
+    "29006030"
+   ],
+   "drop_list": [
+    {
+     "id": 43906,
+     "count": -1
+    },
+    {
+     "id": 43806,
+     "count": -1
+    },
+    {
+     "id": 43406,
+     "count": -1
+    },
+    {
+     "id": 43606,
+     "count": -1
+    },
+    {
+     "id": 42906,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Shadowflame",
+   "first_drop_list": null,
+   "diff_color": 6,
+   "name": [
+    "Hoyan",
+    "Floor 20"
+   ],
+   "name_th": [
+    "Hoyan",
+    "F20"
+   ],
+   "section_descript": "<Black>The Sixth Executioner of R.C.S., an execution machine that strikes fear into all who face her. Shadowflame is Hoyan's complete combat form after her full upgrade.</>",
+   "section_descript_th": "<Black>ผู้ประหารชีวิตคนที่หกของ R.C.S. เครื่องจักรสังหารที่น่าสะพรึงกลัว Flamehunter คือรูปแบบการต่อสู้ที่สมบูรณ์ของ Animus Hoyan หลังจาก Empowerment</>"
+  },
+  "30004210": {
+   "id": 30004210,
+   "pre_section": [
+    "30004200",
+    "29006030"
+   ],
+   "drop_list": [
+    {
+     "id": 43906,
+     "count": -1
+    },
+    {
+     "id": 43806,
+     "count": -1
+    },
+    {
+     "id": 43406,
+     "count": -1
+    },
+    {
+     "id": 43606,
+     "count": -1
+    },
+    {
+     "id": 42906,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Shadowflame",
+   "first_drop_list": null,
+   "diff_color": 6,
+   "name": [
+    "Hoyan",
+    "Floor 21"
+   ],
+   "name_th": [
+    "Hoyan",
+    "F21"
+   ],
+   "section_descript": "<Debuff>On Inferno difficulty</><Key>, Hoyan and Durand deal </><Debuff>200%</><Key> extra damage to </><Const>[Constant]</><Key> Animuses.</>\n<Key>Hoyan has a chance to drop Shells with </><Debuff>3</><Key> Matrix stats.</>\n<Black>The Sixth Executioner of R.C.S., an execution machine that strikes fear into all who face her. Shadowflame is Hoyan's complete combat form after her full upgrade.</>",
+   "section_descript_th": "<Debuff>ในระดับความยาก อินเฟอร์โน</> <Key>Hoyan และ Durand สร้าง DMG เพิ่มเติม</> <Debuff>200%</> <Key>ให้กับ Animus ที่มี Affinity</> <Const>[Constant]</>\n<Key>Hoyan มีโอกาสสร้าง Shell ที่มีเส้น Matrix</> <Debuff>3</> <Key>เส้น</>\n<Black>ผู้ประหารชีวิตคนที่หกของ R.C.S. เครื่องจักรสังหารที่น่าสะพรึงกลัว Flamehunter คือรูปแบบการต่อสู้ที่สมบูรณ์ของ Animus Hoyan หลังจาก Empowerment</>"
+  },
+  "30004220": {
+   "id": 30004220,
+   "pre_section": [
+    "30004210",
+    "29006030"
+   ],
+   "drop_list": [
+    {
+     "id": 43907,
+     "count": -1
+    },
+    {
+     "id": 43807,
+     "count": -1
+    },
+    {
+     "id": 43407,
+     "count": -1
+    },
+    {
+     "id": 43607,
+     "count": -1
+    },
+    {
+     "id": 42907,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Shadowflame",
+   "first_drop_list": null,
+   "diff_color": 7,
+   "name": [
+    "Hoyan",
+    "Floor 22"
+   ],
+   "name_th": [
+    "Hoyan",
+    "F22"
+   ],
+   "section_descript": "<Debuff>On Inferno difficulty</><Key>, Hoyan and Durand deal </><Debuff>200%</><Key> extra damage to </><Const>[Constant]</><Key> Animuses.</>\n<Key>Hoyan has a chance to drop Shells with </><Debuff>3</><Key> Matrix stats.</>\n<Black>The Sixth Executioner of R.C.S., an execution machine that strikes fear into all who face her. Shadowflame is Hoyan's complete combat form after her full upgrade.</>",
+   "section_descript_th": "<Debuff>ในระดับความยาก อินเฟอร์โน</> <Key>Hoyan และ Durand สร้าง DMG เพิ่มเติม</> <Debuff>200%</> <Key>ให้กับ Animus ที่มี Affinity</> <Const>[Constant]</>\n<Key>Hoyan มีโอกาสสร้าง Shell ที่มีเส้น Matrix</> <Debuff>3</> <Key>เส้น</>\n<Black>ผู้ประหารชีวิตคนที่หกของ R.C.S. เครื่องจักรสังหารที่น่าสะพรึงกลัว Flamehunter คือรูปแบบการต่อสู้ที่สมบูรณ์ของ Animus Hoyan หลังจาก Empowerment</>"
+  },
+  "30004230": {
+   "id": 30004230,
+   "pre_section": [
+    "30004220",
+    "29006030"
+   ],
+   "drop_list": [
+    {
+     "id": 43907,
+     "count": -1
+    },
+    {
+     "id": 43807,
+     "count": -1
+    },
+    {
+     "id": 43407,
+     "count": -1
+    },
+    {
+     "id": 43607,
+     "count": -1
+    },
+    {
+     "id": 42907,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Shadowflame",
+   "first_drop_list": null,
+   "diff_color": 7,
+   "name": [
+    "Hoyan",
+    "Floor 23"
+   ],
+   "name_th": [
+    "Hoyan",
+    "F23"
+   ],
+   "section_descript": "<Debuff>On Inferno difficulty</><Key>, Hoyan and Durand deal </><Debuff>200%</><Key> extra damage to </><Const>[Constant]</><Key> Animuses.</>\n<Key>Hoyan has a chance to drop Shells with </><Debuff>3</><Key> Matrix stats.</>\n<Black>The Sixth Executioner of R.C.S., an execution machine that strikes fear into all who face her. Shadowflame is Hoyan's complete combat form after her full upgrade.</>",
+   "section_descript_th": "<Debuff>ในระดับความยาก อินเฟอร์โน</> <Key>Hoyan และ Durand สร้าง DMG เพิ่มเติม</> <Debuff>200%</> <Key>ให้กับ Animus ที่มี Affinity</> <Const>[Constant]</>\n<Key>Hoyan มีโอกาสสร้าง Shell ที่มีเส้น Matrix</> <Debuff>3</> <Key>เส้น</>\n<Black>ผู้ประหารชีวิตคนที่หกของ R.C.S. เครื่องจักรสังหารที่น่าสะพรึงกลัว Flamehunter คือรูปแบบการต่อสู้ที่สมบูรณ์ของ Animus Hoyan หลังจาก Empowerment</>"
+  },
+  "30004240": {
+   "id": 30004240,
+   "pre_section": [
+    "30004230",
+    "29006030"
+   ],
+   "drop_list": [
+    {
+     "id": 43907,
+     "count": -1
+    },
+    {
+     "id": 43807,
+     "count": -1
+    },
+    {
+     "id": 43407,
+     "count": -1
+    },
+    {
+     "id": 43607,
+     "count": -1
+    },
+    {
+     "id": 42907,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Shadowflame",
+   "first_drop_list": null,
+   "diff_color": 7,
+   "name": [
+    "Hoyan",
+    "Floor 24"
+   ],
+   "name_th": [
+    "Hoyan",
+    "F24"
+   ],
+   "section_descript": "<Debuff>On Inferno difficulty</><Key>, Hoyan and Durand deal </><Debuff>200%</><Key> extra damage to </><Const>[Constant]</><Key> Animuses.</>\n<Key>Hoyan has a chance to drop Shells with </><Debuff>3</><Key> Matrix stats.</>\n<Black>The Sixth Executioner of R.C.S., an execution machine that strikes fear into all who face her. Shadowflame is Hoyan's complete combat form after her full upgrade.</>",
+   "section_descript_th": "<Debuff>ในระดับความยาก อินเฟอร์โน</> <Key>Hoyan และ Durand สร้าง DMG เพิ่มเติม</> <Debuff>200%</> <Key>ให้กับ Animus ที่มี Affinity</> <Const>[Constant]</>\n<Key>Hoyan มีโอกาสสร้าง Shell ที่มีเส้น Matrix</> <Debuff>3</> <Key>เส้น</>\n<Black>ผู้ประหารชีวิตคนที่หกของ R.C.S. เครื่องจักรสังหารที่น่าสะพรึงกลัว Flamehunter คือรูปแบบการต่อสู้ที่สมบูรณ์ของ Animus Hoyan หลังจาก Empowerment</>"
+  },
+  "30004250": {
+   "id": 30004250,
+   "pre_section": [
+    "30004240",
+    "29006030"
+   ],
+   "drop_list": [
+    {
+     "id": 43907,
+     "count": -1
+    },
+    {
+     "id": 43807,
+     "count": -1
+    },
+    {
+     "id": 43407,
+     "count": -1
+    },
+    {
+     "id": 43607,
+     "count": -1
+    },
+    {
+     "id": 42907,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Shadowflame",
+   "first_drop_list": null,
+   "diff_color": 7,
+   "name": [
+    "Hoyan",
+    "Floor 25"
+   ],
+   "name_th": [
+    "Hoyan",
+    "F25"
+   ],
+   "section_descript": "<Debuff>On Inferno difficulty</><Key>, Hoyan and Durand deal </><Debuff>200%</><Key> extra damage to </><Const>[Constant]</><Key> Animuses.</>\n<Key>Hoyan has a chance to drop Shells with </><Debuff>3</><Key> Matrix stats.</>\n<Black>The Sixth Executioner of R.C.S., an execution machine that strikes fear into all who face her. Shadowflame is Hoyan's complete combat form after her full upgrade.</>",
+   "section_descript_th": "<Debuff>ในระดับความยาก อินเฟอร์โน</> <Key>Hoyan และ Durand สร้าง DMG เพิ่มเติม</> <Debuff>200%</> <Key>ให้กับ Animus ที่มี Affinity</> <Const>[Constant]</>\n<Key>Hoyan มีโอกาสสร้าง Shell ที่มีเส้น Matrix</> <Debuff>3</> <Key>เส้น</>\n<Black>ผู้ประหารชีวิตคนที่หกของ R.C.S. เครื่องจักรสังหารที่น่าสะพรึงกลัว Flamehunter คือรูปแบบการต่อสู้ที่สมบูรณ์ของ Animus Hoyan หลังจาก Empowerment</>"
+  },
+  "30004260": {
+   "id": 30004260,
+   "pre_section": [
+    "30004250",
+    "29006030"
+   ],
+   "drop_list": [
+    {
+     "id": 43907,
+     "count": -1
+    },
+    {
+     "id": 43807,
+     "count": -1
+    },
+    {
+     "id": 43407,
+     "count": -1
+    },
+    {
+     "id": 43607,
+     "count": -1
+    },
+    {
+     "id": 42907,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Shadowflame",
+   "first_drop_list": null,
+   "diff_color": 7,
+   "name": [
+    "Hoyan",
+    "Floor 26"
+   ],
+   "name_th": [
+    "Hoyan",
+    "F26"
+   ],
+   "section_descript": "<Debuff>On Abyss difficulty, Hoyan takes 100% increased damage from [Disorder] Animuses.</>\n<Key>Hoyan and Durand are immune to </><Debuff>[DoT]</><Key> effects and deal </><Debuff>200%</><Key> extra damage to </><Const>[Constant]</><Key> Animuses.</>\n<Key>Hoyan has a chance to drop Shells with </><Debuff>3</><Key> Matrix stats.</>\n<Black>The Sixth Executioner of R.C.S., an execution machine that strikes fear into all who face her. Shadowflame is Hoyan's complete combat form after her full upgrade.</>",
+   "section_descript_th": "<Debuff>ในระดับความยากอเวจี Hoyan จะได้รับ DMG เพิ่มขึ้น 100% จาก Animus Affinity [Disorder]</>\n<Key>Hoyan และ Durand มี<Buff>ภูมิคุ้มกัน</>ต่อเอฟเฟ็กต์</><Debuff>[DoT]</><Key> และสร้าง DMG เพิ่มเติม</><Debuff>200%</><Key> ให้กับ Animus Affinity</><Const>[Constant]</>\n<Key>Hoyan มีโอกาสสร้าง Shell ที่มี</><Debuff>3</><Key> เส้น Matrix</>\n<Black>ผู้ประหารชีวิตคนที่ 6 ของ R.C.S. เครื่องจักรแห่งการประหารที่น่าสะพรึงกลัว Shadowflame คือรูปแบบการต่อสู้ที่ได้รับพลังเต็มที่ของ Animus Hoyan หลังจากการเสริมพลัง</>"
+  },
+  "30004270": {
+   "id": 30004270,
+   "pre_section": [
+    "30004260",
+    "29006030"
+   ],
+   "drop_list": [
+    {
+     "id": 43907,
+     "count": -1
+    },
+    {
+     "id": 43807,
+     "count": -1
+    },
+    {
+     "id": 43407,
+     "count": -1
+    },
+    {
+     "id": 43607,
+     "count": -1
+    },
+    {
+     "id": 42907,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Shadowflame",
+   "first_drop_list": null,
+   "diff_color": 7,
+   "name": [
+    "Hoyan",
+    "Floor 27"
+   ],
+   "name_th": [
+    "Hoyan",
+    "F27"
+   ],
+   "section_descript": "<Debuff>On Abyss difficulty, Hoyan takes 100% increased damage from [Disorder] Animuses.</>\n<Key>Hoyan and Durand are immune to </><Debuff>[DoT]</><Key> effects and deal </><Debuff>200%</><Key> extra damage to </><Const>[Constant]</><Key> Animuses.</>\n<Key>Hoyan has a chance to drop Shells with </><Debuff>3</><Key> Matrix stats.</>\n<Black>The Sixth Executioner of R.C.S., an execution machine that strikes fear into all who face her. Shadowflame is Hoyan's complete combat form after her full upgrade.</>",
+   "section_descript_th": "<Debuff>ในระดับความยากอเวจี Hoyan จะได้รับ DMG เพิ่มขึ้น 100% จาก Animus Affinity [Disorder]</>\n<Key>Hoyan และ Durand มี<Buff>ภูมิคุ้มกัน</>ต่อเอฟเฟ็กต์</><Debuff>[DoT]</><Key> และสร้าง DMG เพิ่มเติม</><Debuff>200%</><Key> ให้กับ Animus Affinity</><Const>[Constant]</>\n<Key>Hoyan มีโอกาสสร้าง Shell ที่มี</><Debuff>3</><Key> เส้น Matrix</>\n<Black>ผู้ประหารชีวิตคนที่ 6 ของ R.C.S. เครื่องจักรแห่งการประหารที่น่าสะพรึงกลัว Shadowflame คือรูปแบบการต่อสู้ที่ได้รับพลังเต็มที่ของ Animus Hoyan หลังจากการเสริมพลัง</>"
+  },
+  "30004280": {
+   "id": 30004280,
+   "pre_section": [
+    "30004270",
+    "29006030"
+   ],
+   "drop_list": [
+    {
+     "id": 43907,
+     "count": -1
+    },
+    {
+     "id": 43807,
+     "count": -1
+    },
+    {
+     "id": 43407,
+     "count": -1
+    },
+    {
+     "id": 43607,
+     "count": -1
+    },
+    {
+     "id": 42907,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Shadowflame",
+   "first_drop_list": null,
+   "diff_color": 7,
+   "name": [
+    "Hoyan",
+    "Floor 28"
+   ],
+   "name_th": [
+    "Hoyan",
+    "F28"
+   ],
+   "section_descript": "<Debuff>On Abyss difficulty, Hoyan takes 100% increased damage from [Disorder] Animuses.</>\n<Key>Hoyan and Durand are immune to </><Debuff>[DoT]</><Key> effects and deal </><Debuff>200%</><Key> extra damage to </><Const>[Constant]</><Key> Animuses.</>\n<Key>Hoyan has a chance to drop Shells with </><Debuff>3</><Key> Matrix stats.</>\n<Black>The Sixth Executioner of R.C.S., an execution machine that strikes fear into all who face her. Shadowflame is Hoyan's complete combat form after her full upgrade.</>",
+   "section_descript_th": "<Debuff>ในระดับความยากอเวจี Hoyan จะได้รับ DMG เพิ่มขึ้น 100% จาก Animus Affinity [Disorder]</>\n<Key>Hoyan และ Durand มี<Buff>ภูมิคุ้มกัน</>ต่อเอฟเฟ็กต์</><Debuff>[DoT]</><Key> และสร้าง DMG เพิ่มเติม</><Debuff>200%</><Key> ให้กับ Animus Affinity</><Const>[Constant]</>\n<Key>Hoyan มีโอกาสสร้าง Shell ที่มี</><Debuff>3</><Key> เส้น Matrix</>\n<Black>ผู้ประหารชีวิตคนที่ 6 ของ R.C.S. เครื่องจักรแห่งการประหารที่น่าสะพรึงกลัว Shadowflame คือรูปแบบการต่อสู้ที่ได้รับพลังเต็มที่ของ Animus Hoyan หลังจากการเสริมพลัง</>"
+  },
+  "30004290": {
+   "id": 30004290,
+   "pre_section": [
+    "30004280",
+    "29006030"
+   ],
+   "drop_list": [
+    {
+     "id": 43907,
+     "count": -1
+    },
+    {
+     "id": 43807,
+     "count": -1
+    },
+    {
+     "id": 43407,
+     "count": -1
+    },
+    {
+     "id": 43607,
+     "count": -1
+    },
+    {
+     "id": 42907,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Shadowflame",
+   "first_drop_list": null,
+   "diff_color": 7,
+   "name": [
+    "Hoyan",
+    "Floor 29"
+   ],
+   "name_th": [
+    "Hoyan",
+    "F29"
+   ],
+   "section_descript": "<Debuff>On Abyss difficulty, Hoyan takes 100% increased damage from [Disorder] Animuses.</>\n<Key>Hoyan and Durand are immune to </><Debuff>[DoT]</><Key> effects and deal </><Debuff>200%</><Key> extra damage to </><Const>[Constant]</><Key> Animuses.</>\n<Key>Hoyan has a chance to drop Shells with </><Debuff>3</><Key> Matrix stats.</>\n<Black>The Sixth Executioner of R.C.S., an execution machine that strikes fear into all who face her. Shadowflame is Hoyan's complete combat form after her full upgrade.</>",
+   "section_descript_th": "<Debuff>ในระดับความยากอเวจี Hoyan จะได้รับ DMG เพิ่มขึ้น 100% จาก Animus Affinity [Disorder]</>\n<Key>Hoyan และ Durand มี<Buff>ภูมิคุ้มกัน</>ต่อเอฟเฟ็กต์</><Debuff>[DoT]</><Key> และสร้าง DMG เพิ่มเติม</><Debuff>200%</><Key> ให้กับ Animus Affinity</><Const>[Constant]</>\n<Key>Hoyan มีโอกาสสร้าง Shell ที่มี</><Debuff>3</><Key> เส้น Matrix</>\n<Black>ผู้ประหารชีวิตคนที่ 6 ของ R.C.S. เครื่องจักรแห่งการประหารที่น่าสะพรึงกลัว Shadowflame คือรูปแบบการต่อสู้ที่ได้รับพลังเต็มที่ของ Animus Hoyan หลังจากการเสริมพลัง</>"
+  },
+  "30004300": {
+   "id": 30004300,
+   "pre_section": [
+    "30004290",
+    "29006030"
+   ],
+   "drop_list": [
+    {
+     "id": 43907,
+     "count": -1
+    },
+    {
+     "id": 43807,
+     "count": -1
+    },
+    {
+     "id": 43407,
+     "count": -1
+    },
+    {
+     "id": 43607,
+     "count": -1
+    },
+    {
+     "id": 42907,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Shadowflame",
+   "first_drop_list": null,
+   "diff_color": 7,
+   "name": [
+    "Hoyan",
+    "Floor 30"
+   ],
+   "name_th": [
+    "Hoyan",
+    "F30"
+   ],
+   "section_descript": "<Debuff>On Abyss difficulty, Hoyan takes 100% increased damage from [Disorder] Animuses.</>\n<Key>Hoyan and Durand are immune to </><Debuff>[DoT]</><Key> effects and deal </><Debuff>200%</><Key> extra damage to </><Const>[Constant]</><Key> Animuses.</>\n<Key>Hoyan has a chance to drop Shells with </><Debuff>3</><Key> Matrix stats.</>\n<Black>The Sixth Executioner of R.C.S., an execution machine that strikes fear into all who face her. Shadowflame is Hoyan's complete combat form after her full upgrade.</>",
+   "section_descript_th": "<Debuff>ในระดับความยากอเวจี Hoyan จะได้รับ DMG เพิ่มขึ้น 100% จาก Animus Affinity [Disorder]</>\n<Key>Hoyan และ Durand มี<Buff>ภูมิคุ้มกัน</>ต่อเอฟเฟ็กต์</><Debuff>[DoT]</><Key> และสร้าง DMG เพิ่มเติม</><Debuff>200%</><Key> ให้กับ Animus Affinity</><Const>[Constant]</>\n<Key>Hoyan มีโอกาสสร้าง Shell ที่มี</><Debuff>3</><Key> เส้น Matrix</>\n<Black>ผู้ประหารชีวิตคนที่ 6 ของ R.C.S. เครื่องจักรแห่งการประหารที่น่าสะพรึงกลัว Shadowflame คือรูปแบบการต่อสู้ที่ได้รับพลังเต็มที่ของ Animus Hoyan หลังจากการเสริมพลัง</>"
+  },
+  "30005010": {
+   "id": 30005010,
+   "pre_section": [
+    "29009030"
+   ],
+   "drop_list": [
+    {
+     "id": 44202,
+     "count": -1
+    },
+    {
+     "id": 44302,
+     "count": -1
+    },
+    {
+     "id": 42602,
+     "count": -1
+    },
+    {
+     "id": 44102,
+     "count": -1
+    },
+    {
+     "id": 43502,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Febian",
+   "first_drop_list": null,
+   "diff_color": 2,
+   "name": [
+    "Febian",
+    "Floor 1"
+   ],
+   "name_th": [
+    "Febian",
+    "F1"
+   ],
+   "section_descript": "<Black>Two souls share one body. Chess player, genius strategist, and a formidable Animus in her own right. She hones her craft in an endless game against the other self within her. No one has ever won on her board.</>",
+   "section_descript_th": "<Black>นักยุทธศาสตร์สองวิญญาณ นักยุทธวิธีอัจฉริยะ และ Animus ที่น่าเกรงขาม... เพื่อไล่ตามกลยุทธ์ขั้นสูงสุด เธอเล่นหมากรุกกับตัวเองอีกคนหนึ่งในใจอยู่ตลอดเวลา ไม่มีใครสามารถเอาชนะเธอบนกระดานหมากของเธอได้</>"
+  },
+  "30005020": {
+   "id": 30005020,
+   "pre_section": [
+    "30005010",
+    "29009030"
+   ],
+   "drop_list": [
+    {
+     "id": 44203,
+     "count": -1
+    },
+    {
+     "id": 44303,
+     "count": -1
+    },
+    {
+     "id": 42603,
+     "count": -1
+    },
+    {
+     "id": 44103,
+     "count": -1
+    },
+    {
+     "id": 43503,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Febian",
+   "first_drop_list": null,
+   "diff_color": 3,
+   "name": [
+    "Febian",
+    "Floor 2"
+   ],
+   "name_th": [
+    "Febian",
+    "F2"
+   ],
+   "section_descript": "<Black>Two souls share one body. Chess player, genius strategist, and a formidable Animus in her own right. She hones her craft in an endless game against the other self within her. No one has ever won on her board.</>",
+   "section_descript_th": "<Black>นักยุทธศาสตร์สองวิญญาณ นักยุทธวิธีอัจฉริยะ และ Animus ที่น่าเกรงขาม... เพื่อไล่ตามกลยุทธ์ขั้นสูงสุด เธอเล่นหมากรุกกับตัวเองอีกคนหนึ่งในใจอยู่ตลอดเวลา ไม่มีใครสามารถเอาชนะเธอบนกระดานหมากของเธอได้</>"
+  },
+  "30005030": {
+   "id": 30005030,
+   "pre_section": [
+    "30005020",
+    "29009030"
+   ],
+   "drop_list": [
+    {
+     "id": 44203,
+     "count": -1
+    },
+    {
+     "id": 44303,
+     "count": -1
+    },
+    {
+     "id": 42603,
+     "count": -1
+    },
+    {
+     "id": 44103,
+     "count": -1
+    },
+    {
+     "id": 43503,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Febian",
+   "first_drop_list": null,
+   "diff_color": 3,
+   "name": [
+    "Febian",
+    "Floor 3"
+   ],
+   "name_th": [
+    "Febian",
+    "F3"
+   ],
+   "section_descript": "<Black>Two souls share one body. Chess player, genius strategist, and a formidable Animus in her own right. She hones her craft in an endless game against the other self within her. No one has ever won on her board.</>",
+   "section_descript_th": "<Black>นักยุทธศาสตร์สองวิญญาณ นักยุทธวิธีอัจฉริยะ และ Animus ที่น่าเกรงขาม... เพื่อไล่ตามกลยุทธ์ขั้นสูงสุด เธอเล่นหมากรุกกับตัวเองอีกคนหนึ่งในใจอยู่ตลอดเวลา ไม่มีใครสามารถเอาชนะเธอบนกระดานหมากของเธอได้</>"
+  },
+  "30005040": {
+   "id": 30005040,
+   "pre_section": [
+    "30005030",
+    "29009030"
+   ],
+   "drop_list": [
+    {
+     "id": 44203,
+     "count": -1
+    },
+    {
+     "id": 44303,
+     "count": -1
+    },
+    {
+     "id": 42603,
+     "count": -1
+    },
+    {
+     "id": 44103,
+     "count": -1
+    },
+    {
+     "id": 43503,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Febian",
+   "first_drop_list": null,
+   "diff_color": 3,
+   "name": [
+    "Febian",
+    "Floor 4"
+   ],
+   "name_th": [
+    "Febian",
+    "F4"
+   ],
+   "section_descript": "<Black>Two souls share one body. Chess player, genius strategist, and a formidable Animus in her own right. She hones her craft in an endless game against the other self within her. No one has ever won on her board.</>",
+   "section_descript_th": "<Black>นักยุทธศาสตร์สองวิญญาณ นักยุทธวิธีอัจฉริยะ และ Animus ที่น่าเกรงขาม... เพื่อไล่ตามกลยุทธ์ขั้นสูงสุด เธอเล่นหมากรุกกับตัวเองอีกคนหนึ่งในใจอยู่ตลอดเวลา ไม่มีใครสามารถเอาชนะเธอบนกระดานหมากของเธอได้</>"
+  },
+  "30005050": {
+   "id": 30005050,
+   "pre_section": [
+    "30005040",
+    "29009030"
+   ],
+   "drop_list": [
+    {
+     "id": 44203,
+     "count": -1
+    },
+    {
+     "id": 44303,
+     "count": -1
+    },
+    {
+     "id": 42603,
+     "count": -1
+    },
+    {
+     "id": 44103,
+     "count": -1
+    },
+    {
+     "id": 43503,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Febian",
+   "first_drop_list": null,
+   "diff_color": 3,
+   "name": [
+    "Febian",
+    "Floor 5"
+   ],
+   "name_th": [
+    "Febian",
+    "F5"
+   ],
+   "section_descript": "<Black>Two souls share one body. Chess player, genius strategist, and a formidable Animus in her own right. She hones her craft in an endless game against the other self within her. No one has ever won on her board.</>",
+   "section_descript_th": "<Black>นักยุทธศาสตร์สองวิญญาณ นักยุทธวิธีอัจฉริยะ และ Animus ที่น่าเกรงขาม... เพื่อไล่ตามกลยุทธ์ขั้นสูงสุด เธอเล่นหมากรุกกับตัวเองอีกคนหนึ่งในใจอยู่ตลอดเวลา ไม่มีใครสามารถเอาชนะเธอบนกระดานหมากของเธอได้</>"
+  },
+  "30005060": {
+   "id": 30005060,
+   "pre_section": [
+    "30005050",
+    "29009030"
+   ],
+   "drop_list": [
+    {
+     "id": 44203,
+     "count": -1
+    },
+    {
+     "id": 44303,
+     "count": -1
+    },
+    {
+     "id": 42603,
+     "count": -1
+    },
+    {
+     "id": 44103,
+     "count": -1
+    },
+    {
+     "id": 43503,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Febian",
+   "first_drop_list": null,
+   "diff_color": 3,
+   "name": [
+    "Febian",
+    "Floor 6"
+   ],
+   "name_th": [
+    "Febian",
+    "F6"
+   ],
+   "section_descript": "<Black>Two souls share one body. Chess player, genius strategist, and a formidable Animus in her own right. She hones her craft in an endless game against the other self within her. No one has ever won on her board.</>",
+   "section_descript_th": "<Black>นักยุทธศาสตร์สองวิญญาณ นักยุทธวิธีอัจฉริยะ และ Animus ที่น่าเกรงขาม... เพื่อไล่ตามกลยุทธ์ขั้นสูงสุด เธอเล่นหมากรุกกับตัวเองอีกคนหนึ่งในใจอยู่ตลอดเวลา ไม่มีใครสามารถเอาชนะเธอบนกระดานหมากของเธอได้</>"
+  },
+  "30005070": {
+   "id": 30005070,
+   "pre_section": [
+    "30005060",
+    "29009030"
+   ],
+   "drop_list": [
+    {
+     "id": 44204,
+     "count": -1
+    },
+    {
+     "id": 44304,
+     "count": -1
+    },
+    {
+     "id": 42604,
+     "count": -1
+    },
+    {
+     "id": 44104,
+     "count": -1
+    },
+    {
+     "id": 43504,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Febian",
+   "first_drop_list": null,
+   "diff_color": 4,
+   "name": [
+    "Febian",
+    "Floor 7"
+   ],
+   "name_th": [
+    "Febian",
+    "F7"
+   ],
+   "section_descript": "<Black>Two souls share one body. Chess player, genius strategist, and a formidable Animus in her own right. She hones her craft in an endless game against the other self within her. No one has ever won on her board.</>",
+   "section_descript_th": "<Black>นักยุทธศาสตร์สองวิญญาณ นักยุทธวิธีอัจฉริยะ และ Animus ที่น่าเกรงขาม... เพื่อไล่ตามกลยุทธ์ขั้นสูงสุด เธอเล่นหมากรุกกับตัวเองอีกคนหนึ่งในใจอยู่ตลอดเวลา ไม่มีใครสามารถเอาชนะเธอบนกระดานหมากของเธอได้</>"
+  },
+  "30005080": {
+   "id": 30005080,
+   "pre_section": [
+    "30005070",
+    "29009030"
+   ],
+   "drop_list": [
+    {
+     "id": 44204,
+     "count": -1
+    },
+    {
+     "id": 44304,
+     "count": -1
+    },
+    {
+     "id": 42604,
+     "count": -1
+    },
+    {
+     "id": 44104,
+     "count": -1
+    },
+    {
+     "id": 43504,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Febian",
+   "first_drop_list": null,
+   "diff_color": 4,
+   "name": [
+    "Febian",
+    "Floor 8"
+   ],
+   "name_th": [
+    "Febian",
+    "F8"
+   ],
+   "section_descript": "<Black>Two souls share one body. Chess player, genius strategist, and a formidable Animus in her own right. She hones her craft in an endless game against the other self within her. No one has ever won on her board.</>",
+   "section_descript_th": "<Black>นักยุทธศาสตร์สองวิญญาณ นักยุทธวิธีอัจฉริยะ และ Animus ที่น่าเกรงขาม... เพื่อไล่ตามกลยุทธ์ขั้นสูงสุด เธอเล่นหมากรุกกับตัวเองอีกคนหนึ่งในใจอยู่ตลอดเวลา ไม่มีใครสามารถเอาชนะเธอบนกระดานหมากของเธอได้</>"
+  },
+  "30005090": {
+   "id": 30005090,
+   "pre_section": [
+    "30005080",
+    "29009030"
+   ],
+   "drop_list": [
+    {
+     "id": 44204,
+     "count": -1
+    },
+    {
+     "id": 44304,
+     "count": -1
+    },
+    {
+     "id": 42604,
+     "count": -1
+    },
+    {
+     "id": 44104,
+     "count": -1
+    },
+    {
+     "id": 43504,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Febian",
+   "first_drop_list": null,
+   "diff_color": 4,
+   "name": [
+    "Febian",
+    "Floor 9"
+   ],
+   "name_th": [
+    "Febian",
+    "F9"
+   ],
+   "section_descript": "<Black>Two souls share one body. Chess player, genius strategist, and a formidable Animus in her own right. She hones her craft in an endless game against the other self within her. No one has ever won on her board.</>",
+   "section_descript_th": "<Black>นักยุทธศาสตร์สองวิญญาณ นักยุทธวิธีอัจฉริยะ และ Animus ที่น่าเกรงขาม... เพื่อไล่ตามกลยุทธ์ขั้นสูงสุด เธอเล่นหมากรุกกับตัวเองอีกคนหนึ่งในใจอยู่ตลอดเวลา ไม่มีใครสามารถเอาชนะเธอบนกระดานหมากของเธอได้</>"
+  },
+  "30005100": {
+   "id": 30005100,
+   "pre_section": [
+    "30005090",
+    "29009030"
+   ],
+   "drop_list": [
+    {
+     "id": 44204,
+     "count": -1
+    },
+    {
+     "id": 44304,
+     "count": -1
+    },
+    {
+     "id": 42604,
+     "count": -1
+    },
+    {
+     "id": 44104,
+     "count": -1
+    },
+    {
+     "id": 43504,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Febian",
+   "first_drop_list": null,
+   "diff_color": 4,
+   "name": [
+    "Febian",
+    "Floor 10"
+   ],
+   "name_th": [
+    "Febian",
+    "F10"
+   ],
+   "section_descript": "<Black>Two souls share one body. Chess player, genius strategist, and a formidable Animus in her own right. She hones her craft in an endless game against the other self within her. No one has ever won on her board.</>",
+   "section_descript_th": "<Black>นักยุทธศาสตร์สองวิญญาณ นักยุทธวิธีอัจฉริยะ และ Animus ที่น่าเกรงขาม... เพื่อไล่ตามกลยุทธ์ขั้นสูงสุด เธอเล่นหมากรุกกับตัวเองอีกคนหนึ่งในใจอยู่ตลอดเวลา ไม่มีใครสามารถเอาชนะเธอบนกระดานหมากของเธอได้</>"
+  },
+  "30005110": {
+   "id": 30005110,
+   "pre_section": [
+    "30005100",
+    "29009030"
+   ],
+   "drop_list": [
+    {
+     "id": 44204,
+     "count": -1
+    },
+    {
+     "id": 44304,
+     "count": -1
+    },
+    {
+     "id": 42604,
+     "count": -1
+    },
+    {
+     "id": 44104,
+     "count": -1
+    },
+    {
+     "id": 43504,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Febian",
+   "first_drop_list": null,
+   "diff_color": 4,
+   "name": [
+    "Febian",
+    "Floor 11"
+   ],
+   "name_th": [
+    "Febian",
+    "F11"
+   ],
+   "section_descript": "<Black>Two souls share one body. Chess player, genius strategist, and a formidable Animus in her own right. She hones her craft in an endless game against the other self within her. No one has ever won on her board.</>",
+   "section_descript_th": "<Black>นักยุทธศาสตร์สองวิญญาณ นักยุทธวิธีอัจฉริยะ และ Animus ที่น่าเกรงขาม... เพื่อไล่ตามกลยุทธ์ขั้นสูงสุด เธอเล่นหมากรุกกับตัวเองอีกคนหนึ่งในใจอยู่ตลอดเวลา ไม่มีใครสามารถเอาชนะเธอบนกระดานหมากของเธอได้</>"
+  },
+  "30005120": {
+   "id": 30005120,
+   "pre_section": [
+    "30005110",
+    "29009030"
+   ],
+   "drop_list": [
+    {
+     "id": 44205,
+     "count": -1
+    },
+    {
+     "id": 44305,
+     "count": -1
+    },
+    {
+     "id": 42605,
+     "count": -1
+    },
+    {
+     "id": 44105,
+     "count": -1
+    },
+    {
+     "id": 43505,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Febian",
+   "first_drop_list": null,
+   "diff_color": 5,
+   "name": [
+    "Febian",
+    "Floor 12"
+   ],
+   "name_th": [
+    "Febian",
+    "F12"
+   ],
+   "section_descript": "<Black>Two souls share one body. Chess player, genius strategist, and a formidable Animus in her own right. She hones her craft in an endless game against the other self within her. No one has ever won on her board.</>",
+   "section_descript_th": "<Black>นักยุทธศาสตร์สองวิญญาณ นักยุทธวิธีอัจฉริยะ และ Animus ที่น่าเกรงขาม... เพื่อไล่ตามกลยุทธ์ขั้นสูงสุด เธอเล่นหมากรุกกับตัวเองอีกคนหนึ่งในใจอยู่ตลอดเวลา ไม่มีใครสามารถเอาชนะเธอบนกระดานหมากของเธอได้</>"
+  },
+  "30005130": {
+   "id": 30005130,
+   "pre_section": [
+    "30005120",
+    "29009030"
+   ],
+   "drop_list": [
+    {
+     "id": 44205,
+     "count": -1
+    },
+    {
+     "id": 44305,
+     "count": -1
+    },
+    {
+     "id": 42605,
+     "count": -1
+    },
+    {
+     "id": 44105,
+     "count": -1
+    },
+    {
+     "id": 43505,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Febian",
+   "first_drop_list": null,
+   "diff_color": 5,
+   "name": [
+    "Febian",
+    "Floor 13"
+   ],
+   "name_th": [
+    "Febian",
+    "F13"
+   ],
+   "section_descript": "<Black>Two souls share one body. Chess player, genius strategist, and a formidable Animus in her own right. She hones her craft in an endless game against the other self within her. No one has ever won on her board.</>",
+   "section_descript_th": "<Black>นักยุทธศาสตร์สองวิญญาณ นักยุทธวิธีอัจฉริยะ และ Animus ที่น่าเกรงขาม... เพื่อไล่ตามกลยุทธ์ขั้นสูงสุด เธอเล่นหมากรุกกับตัวเองอีกคนหนึ่งในใจอยู่ตลอดเวลา ไม่มีใครสามารถเอาชนะเธอบนกระดานหมากของเธอได้</>"
+  },
+  "30005140": {
+   "id": 30005140,
+   "pre_section": [
+    "30005130",
+    "29009030"
+   ],
+   "drop_list": [
+    {
+     "id": 44205,
+     "count": -1
+    },
+    {
+     "id": 44305,
+     "count": -1
+    },
+    {
+     "id": 42605,
+     "count": -1
+    },
+    {
+     "id": 44105,
+     "count": -1
+    },
+    {
+     "id": 43505,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Febian",
+   "first_drop_list": null,
+   "diff_color": 5,
+   "name": [
+    "Febian",
+    "Floor 14"
+   ],
+   "name_th": [
+    "Febian",
+    "F14"
+   ],
+   "section_descript": "<Black>Two souls share one body. Chess player, genius strategist, and a formidable Animus in her own right. She hones her craft in an endless game against the other self within her. No one has ever won on her board.</>",
+   "section_descript_th": "<Black>นักยุทธศาสตร์สองวิญญาณ นักยุทธวิธีอัจฉริยะ และ Animus ที่น่าเกรงขาม... เพื่อไล่ตามกลยุทธ์ขั้นสูงสุด เธอเล่นหมากรุกกับตัวเองอีกคนหนึ่งในใจอยู่ตลอดเวลา ไม่มีใครสามารถเอาชนะเธอบนกระดานหมากของเธอได้</>"
+  },
+  "30005150": {
+   "id": 30005150,
+   "pre_section": [
+    "30005140",
+    "29009030"
+   ],
+   "drop_list": [
+    {
+     "id": 44205,
+     "count": -1
+    },
+    {
+     "id": 44305,
+     "count": -1
+    },
+    {
+     "id": 42605,
+     "count": -1
+    },
+    {
+     "id": 44105,
+     "count": -1
+    },
+    {
+     "id": 43505,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Febian",
+   "first_drop_list": null,
+   "diff_color": 5,
+   "name": [
+    "Febian",
+    "Floor 15"
+   ],
+   "name_th": [
+    "Febian",
+    "F15"
+   ],
+   "section_descript": "<Black>Two souls share one body. Chess player, genius strategist, and a formidable Animus in her own right. She hones her craft in an endless game against the other self within her. No one has ever won on her board.</>",
+   "section_descript_th": "<Black>นักยุทธศาสตร์สองวิญญาณ นักยุทธวิธีอัจฉริยะ และ Animus ที่น่าเกรงขาม... เพื่อไล่ตามกลยุทธ์ขั้นสูงสุด เธอเล่นหมากรุกกับตัวเองอีกคนหนึ่งในใจอยู่ตลอดเวลา ไม่มีใครสามารถเอาชนะเธอบนกระดานหมากของเธอได้</>"
+  },
+  "30005160": {
+   "id": 30005160,
+   "pre_section": [
+    "30005150",
+    "29009030"
+   ],
+   "drop_list": [
+    {
+     "id": 44205,
+     "count": -1
+    },
+    {
+     "id": 44305,
+     "count": -1
+    },
+    {
+     "id": 42605,
+     "count": -1
+    },
+    {
+     "id": 44105,
+     "count": -1
+    },
+    {
+     "id": 43505,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Febian",
+   "first_drop_list": null,
+   "diff_color": 5,
+   "name": [
+    "Febian",
+    "Floor 16"
+   ],
+   "name_th": [
+    "Febian",
+    "F16"
+   ],
+   "section_descript": "<Black>Two souls share one body. Chess player, genius strategist, and a formidable Animus in her own right. She hones her craft in an endless game against the other self within her. No one has ever won on her board.</>",
+   "section_descript_th": "<Black>นักยุทธศาสตร์สองวิญญาณ นักยุทธวิธีอัจฉริยะ และ Animus ที่น่าเกรงขาม... เพื่อไล่ตามกลยุทธ์ขั้นสูงสุด เธอเล่นหมากรุกกับตัวเองอีกคนหนึ่งในใจอยู่ตลอดเวลา ไม่มีใครสามารถเอาชนะเธอบนกระดานหมากของเธอได้</>"
+  },
+  "30005170": {
+   "id": 30005170,
+   "pre_section": [
+    "30005160",
+    "29009030"
+   ],
+   "drop_list": [
+    {
+     "id": 44206,
+     "count": -1
+    },
+    {
+     "id": 44306,
+     "count": -1
+    },
+    {
+     "id": 42606,
+     "count": -1
+    },
+    {
+     "id": 44106,
+     "count": -1
+    },
+    {
+     "id": 43506,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Febian",
+   "first_drop_list": null,
+   "diff_color": 6,
+   "name": [
+    "Febian",
+    "Floor 17"
+   ],
+   "name_th": [
+    "Febian",
+    "F17"
+   ],
+   "section_descript": "<Black>Two souls share one body. Chess player, genius strategist, and a formidable Animus in her own right. She hones her craft in an endless game against the other self within her. No one has ever won on her board.</>",
+   "section_descript_th": "<Black>นักยุทธศาสตร์สองวิญญาณ นักยุทธวิธีอัจฉริยะ และ Animus ที่น่าเกรงขาม... เพื่อไล่ตามกลยุทธ์ขั้นสูงสุด เธอเล่นหมากรุกกับตัวเองอีกคนหนึ่งในใจอยู่ตลอดเวลา ไม่มีใครสามารถเอาชนะเธอบนกระดานหมากของเธอได้</>"
+  },
+  "30005180": {
+   "id": 30005180,
+   "pre_section": [
+    "30005170",
+    "29009030"
+   ],
+   "drop_list": [
+    {
+     "id": 44206,
+     "count": -1
+    },
+    {
+     "id": 44306,
+     "count": -1
+    },
+    {
+     "id": 42606,
+     "count": -1
+    },
+    {
+     "id": 44106,
+     "count": -1
+    },
+    {
+     "id": 43506,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Febian",
+   "first_drop_list": null,
+   "diff_color": 6,
+   "name": [
+    "Febian",
+    "Floor 18"
+   ],
+   "name_th": [
+    "Febian",
+    "F18"
+   ],
+   "section_descript": "<Black>Two souls share one body. Chess player, genius strategist, and a formidable Animus in her own right. She hones her craft in an endless game against the other self within her. No one has ever won on her board.</>",
+   "section_descript_th": "<Black>นักยุทธศาสตร์สองวิญญาณ นักยุทธวิธีอัจฉริยะ และ Animus ที่น่าเกรงขาม... เพื่อไล่ตามกลยุทธ์ขั้นสูงสุด เธอเล่นหมากรุกกับตัวเองอีกคนหนึ่งในใจอยู่ตลอดเวลา ไม่มีใครสามารถเอาชนะเธอบนกระดานหมากของเธอได้</>"
+  },
+  "30005190": {
+   "id": 30005190,
+   "pre_section": [
+    "30005180",
+    "29009030"
+   ],
+   "drop_list": [
+    {
+     "id": 44206,
+     "count": -1
+    },
+    {
+     "id": 44306,
+     "count": -1
+    },
+    {
+     "id": 42606,
+     "count": -1
+    },
+    {
+     "id": 44106,
+     "count": -1
+    },
+    {
+     "id": 43506,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Febian",
+   "first_drop_list": null,
+   "diff_color": 6,
+   "name": [
+    "Febian",
+    "Floor 19"
+   ],
+   "name_th": [
+    "Febian",
+    "F19"
+   ],
+   "section_descript": "<Black>Two souls share one body. Chess player, genius strategist, and a formidable Animus in her own right. She hones her craft in an endless game against the other self within her. No one has ever won on her board.</>",
+   "section_descript_th": "<Black>นักยุทธศาสตร์สองวิญญาณ นักยุทธวิธีอัจฉริยะ และ Animus ที่น่าเกรงขาม... เพื่อไล่ตามกลยุทธ์ขั้นสูงสุด เธอเล่นหมากรุกกับตัวเองอีกคนหนึ่งในใจอยู่ตลอดเวลา ไม่มีใครสามารถเอาชนะเธอบนกระดานหมากของเธอได้</>"
+  },
+  "30005200": {
+   "id": 30005200,
+   "pre_section": [
+    "30005190",
+    "29009030"
+   ],
+   "drop_list": [
+    {
+     "id": 44206,
+     "count": -1
+    },
+    {
+     "id": 44306,
+     "count": -1
+    },
+    {
+     "id": 42606,
+     "count": -1
+    },
+    {
+     "id": 44106,
+     "count": -1
+    },
+    {
+     "id": 43506,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Febian",
+   "first_drop_list": null,
+   "diff_color": 6,
+   "name": [
+    "Febian",
+    "Floor 20"
+   ],
+   "name_th": [
+    "Febian",
+    "F20"
+   ],
+   "section_descript": "<Black>Two souls share one body. Chess player, genius strategist, and a formidable Animus in her own right. She hones her craft in an endless game against the other self within her. No one has ever won on her board.</>",
+   "section_descript_th": "<Black>นักยุทธศาสตร์สองวิญญาณ นักยุทธวิธีอัจฉริยะ และ Animus ที่น่าเกรงขาม... เพื่อไล่ตามกลยุทธ์ขั้นสูงสุด เธอเล่นหมากรุกกับตัวเองอีกคนหนึ่งในใจอยู่ตลอดเวลา ไม่มีใครสามารถเอาชนะเธอบนกระดานหมากของเธอได้</>"
+  },
+  "30005210": {
+   "id": 30005210,
+   "pre_section": [
+    "30005200",
+    "29009030"
+   ],
+   "drop_list": [
+    {
+     "id": 44206,
+     "count": -1
+    },
+    {
+     "id": 44306,
+     "count": -1
+    },
+    {
+     "id": 42606,
+     "count": -1
+    },
+    {
+     "id": 44106,
+     "count": -1
+    },
+    {
+     "id": 43506,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Febian",
+   "first_drop_list": null,
+   "diff_color": 6,
+   "name": [
+    "Febian",
+    "Floor 21"
+   ],
+   "name_th": [
+    "Febian",
+    "F21"
+   ],
+   "section_descript": "<Black>Two souls share one body. Chess player, genius strategist, and a formidable Animus in her own right. She hones her craft in an endless game against the other self within her. No one has ever won on her board.</>",
+   "section_descript_th": "<Black>นักยุทธศาสตร์สองวิญญาณ นักยุทธวิธีอัจฉริยะ และ Animus ที่น่าเกรงขาม... เพื่อไล่ตามกลยุทธ์ขั้นสูงสุด เธอเล่นหมากรุกกับตัวเองอีกคนหนึ่งในใจอยู่ตลอดเวลา ไม่มีใครสามารถเอาชนะเธอบนกระดานหมากของเธอได้</>"
+  },
+  "30005220": {
+   "id": 30005220,
+   "pre_section": [
+    "30005210",
+    "29009030"
+   ],
+   "drop_list": [
+    {
+     "id": 44207,
+     "count": -1
+    },
+    {
+     "id": 44307,
+     "count": -1
+    },
+    {
+     "id": 42607,
+     "count": -1
+    },
+    {
+     "id": 44107,
+     "count": -1
+    },
+    {
+     "id": 43507,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Febian",
+   "first_drop_list": null,
+   "diff_color": 7,
+   "name": [
+    "Febian",
+    "Floor 22"
+   ],
+   "name_th": [
+    "Febian",
+    "F22"
+   ],
+   "section_descript": "<Black>Two souls share one body. Chess player, genius strategist, and a formidable Animus in her own right. She hones her craft in an endless game against the other self within her. No one has ever won on her board.</>",
+   "section_descript_th": "<Black>นักยุทธศาสตร์สองวิญญาณ นักยุทธวิธีอัจฉริยะ และ Animus ที่น่าเกรงขาม... เพื่อไล่ตามกลยุทธ์ขั้นสูงสุด เธอเล่นหมากรุกกับตัวเองอีกคนหนึ่งในใจอยู่ตลอดเวลา ไม่มีใครสามารถเอาชนะเธอบนกระดานหมากของเธอได้</>"
+  },
+  "30005230": {
+   "id": 30005230,
+   "pre_section": [
+    "30005220",
+    "29009030"
+   ],
+   "drop_list": [
+    {
+     "id": 44207,
+     "count": -1
+    },
+    {
+     "id": 44307,
+     "count": -1
+    },
+    {
+     "id": 42607,
+     "count": -1
+    },
+    {
+     "id": 44107,
+     "count": -1
+    },
+    {
+     "id": 43507,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Febian",
+   "first_drop_list": null,
+   "diff_color": 7,
+   "name": [
+    "Febian",
+    "Floor 23"
+   ],
+   "name_th": [
+    "Febian",
+    "F23"
+   ],
+   "section_descript": "<Black>Two souls share one body. Chess player, genius strategist, and a formidable Animus in her own right. She hones her craft in an endless game against the other self within her. No one has ever won on her board.</>",
+   "section_descript_th": "<Black>นักยุทธศาสตร์สองวิญญาณ นักยุทธวิธีอัจฉริยะ และ Animus ที่น่าเกรงขาม... เพื่อไล่ตามกลยุทธ์ขั้นสูงสุด เธอเล่นหมากรุกกับตัวเองอีกคนหนึ่งในใจอยู่ตลอดเวลา ไม่มีใครสามารถเอาชนะเธอบนกระดานหมากของเธอได้</>"
+  },
+  "30005240": {
+   "id": 30005240,
+   "pre_section": [
+    "30005230",
+    "29009030"
+   ],
+   "drop_list": [
+    {
+     "id": 44207,
+     "count": -1
+    },
+    {
+     "id": 44307,
+     "count": -1
+    },
+    {
+     "id": 42607,
+     "count": -1
+    },
+    {
+     "id": 44107,
+     "count": -1
+    },
+    {
+     "id": 43507,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Febian",
+   "first_drop_list": null,
+   "diff_color": 7,
+   "name": [
+    "Febian",
+    "Floor 24"
+   ],
+   "name_th": [
+    "Febian",
+    "F24"
+   ],
+   "section_descript": "<Black>Two souls share one body. Chess player, genius strategist, and a formidable Animus in her own right. She hones her craft in an endless game against the other self within her. No one has ever won on her board.</>",
+   "section_descript_th": "<Black>นักยุทธศาสตร์สองวิญญาณ นักยุทธวิธีอัจฉริยะ และ Animus ที่น่าเกรงขาม... เพื่อไล่ตามกลยุทธ์ขั้นสูงสุด เธอเล่นหมากรุกกับตัวเองอีกคนหนึ่งในใจอยู่ตลอดเวลา ไม่มีใครสามารถเอาชนะเธอบนกระดานหมากของเธอได้</>"
+  },
+  "30005250": {
+   "id": 30005250,
+   "pre_section": [
+    "30005240",
+    "29009030"
+   ],
+   "drop_list": [
+    {
+     "id": 44207,
+     "count": -1
+    },
+    {
+     "id": 44307,
+     "count": -1
+    },
+    {
+     "id": 42607,
+     "count": -1
+    },
+    {
+     "id": 44107,
+     "count": -1
+    },
+    {
+     "id": 43507,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Febian",
+   "first_drop_list": null,
+   "diff_color": 7,
+   "name": [
+    "Febian",
+    "Floor 25"
+   ],
+   "name_th": [
+    "Febian",
+    "F25"
+   ],
+   "section_descript": "<Black>Two souls share one body. Chess player, genius strategist, and a formidable Animus in her own right. She hones her craft in an endless game against the other self within her. No one has ever won on her board.</>",
+   "section_descript_th": "<Black>นักยุทธศาสตร์สองวิญญาณ นักยุทธวิธีอัจฉริยะ และ Animus ที่น่าเกรงขาม... เพื่อไล่ตามกลยุทธ์ขั้นสูงสุด เธอเล่นหมากรุกกับตัวเองอีกคนหนึ่งในใจอยู่ตลอดเวลา ไม่มีใครสามารถเอาชนะเธอบนกระดานหมากของเธอได้</>"
+  },
+  "30005260": {
+   "id": 30005260,
+   "pre_section": [
+    "30005250",
+    "29009030"
+   ],
+   "drop_list": [
+    {
+     "id": 44207,
+     "count": -1
+    },
+    {
+     "id": 44307,
+     "count": -1
+    },
+    {
+     "id": 42607,
+     "count": -1
+    },
+    {
+     "id": 44107,
+     "count": -1
+    },
+    {
+     "id": 43507,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Febian",
+   "first_drop_list": null,
+   "diff_color": 7,
+   "name": [
+    "Febian",
+    "Floor 26"
+   ],
+   "name_th": [
+    "Febian",
+    "F26"
+   ],
+   "section_descript": "<Black>Two souls share one body. Chess player, genius strategist, and a formidable Animus in her own right. She hones her craft in an endless game against the other self within her. No one has ever won on her board.</>",
+   "section_descript_th": "<Black>นักยุทธศาสตร์สองวิญญาณ นักยุทธวิธีอัจฉริยะ และ Animus ที่น่าเกรงขาม... เพื่อไล่ตามกลยุทธ์ขั้นสูงสุด เธอเล่นหมากรุกกับตัวเองอีกคนหนึ่งในใจอยู่ตลอดเวลา ไม่มีใครสามารถเอาชนะเธอบนกระดานหมากของเธอได้</>"
+  },
+  "30005270": {
+   "id": 30005270,
+   "pre_section": [
+    "30005260",
+    "29009030"
+   ],
+   "drop_list": [
+    {
+     "id": 44207,
+     "count": -1
+    },
+    {
+     "id": 44307,
+     "count": -1
+    },
+    {
+     "id": 42607,
+     "count": -1
+    },
+    {
+     "id": 44107,
+     "count": -1
+    },
+    {
+     "id": 43507,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Febian",
+   "first_drop_list": null,
+   "diff_color": 7,
+   "name": [
+    "Febian",
+    "Floor 27"
+   ],
+   "name_th": [
+    "Febian",
+    "F27"
+   ],
+   "section_descript": "<Black>Two souls share one body. Chess player, genius strategist, and a formidable Animus in her own right. She hones her craft in an endless game against the other self within her. No one has ever won on her board.</>",
+   "section_descript_th": "<Black>นักยุทธศาสตร์สองวิญญาณ นักยุทธวิธีอัจฉริยะ และ Animus ที่น่าเกรงขาม... เพื่อไล่ตามกลยุทธ์ขั้นสูงสุด เธอเล่นหมากรุกกับตัวเองอีกคนหนึ่งในใจอยู่ตลอดเวลา ไม่มีใครสามารถเอาชนะเธอบนกระดานหมากของเธอได้</>"
+  },
+  "30005280": {
+   "id": 30005280,
+   "pre_section": [
+    "30005270",
+    "29009030"
+   ],
+   "drop_list": [
+    {
+     "id": 44207,
+     "count": -1
+    },
+    {
+     "id": 44307,
+     "count": -1
+    },
+    {
+     "id": 42607,
+     "count": -1
+    },
+    {
+     "id": 44107,
+     "count": -1
+    },
+    {
+     "id": 43507,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Febian",
+   "first_drop_list": null,
+   "diff_color": 7,
+   "name": [
+    "Febian",
+    "Floor 28"
+   ],
+   "name_th": [
+    "Febian",
+    "F28"
+   ],
+   "section_descript": "<Black>Two souls share one body. Chess player, genius strategist, and a formidable Animus in her own right. She hones her craft in an endless game against the other self within her. No one has ever won on her board.</>",
+   "section_descript_th": "<Black>นักยุทธศาสตร์สองวิญญาณ นักยุทธวิธีอัจฉริยะ และ Animus ที่น่าเกรงขาม... เพื่อไล่ตามกลยุทธ์ขั้นสูงสุด เธอเล่นหมากรุกกับตัวเองอีกคนหนึ่งในใจอยู่ตลอดเวลา ไม่มีใครสามารถเอาชนะเธอบนกระดานหมากของเธอได้</>"
+  },
+  "30005290": {
+   "id": 30005290,
+   "pre_section": [
+    "30005280",
+    "29009030"
+   ],
+   "drop_list": [
+    {
+     "id": 44207,
+     "count": -1
+    },
+    {
+     "id": 44307,
+     "count": -1
+    },
+    {
+     "id": 42607,
+     "count": -1
+    },
+    {
+     "id": 44107,
+     "count": -1
+    },
+    {
+     "id": 43507,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Febian",
+   "first_drop_list": null,
+   "diff_color": 7,
+   "name": [
+    "Febian",
+    "Floor 29"
+   ],
+   "name_th": [
+    "Febian",
+    "F29"
+   ],
+   "section_descript": "<Black>Two souls share one body. Chess player, genius strategist, and a formidable Animus in her own right. She hones her craft in an endless game against the other self within her. No one has ever won on her board.</>",
+   "section_descript_th": "<Black>นักยุทธศาสตร์สองวิญญาณ นักยุทธวิธีอัจฉริยะ และ Animus ที่น่าเกรงขาม... เพื่อไล่ตามกลยุทธ์ขั้นสูงสุด เธอเล่นหมากรุกกับตัวเองอีกคนหนึ่งในใจอยู่ตลอดเวลา ไม่มีใครสามารถเอาชนะเธอบนกระดานหมากของเธอได้</>"
+  },
+  "30005300": {
+   "id": 30005300,
+   "pre_section": [
+    "30005290",
+    "29009030"
+   ],
+   "drop_list": [
+    {
+     "id": 44207,
+     "count": -1
+    },
+    {
+     "id": 44307,
+     "count": -1
+    },
+    {
+     "id": 42607,
+     "count": -1
+    },
+    {
+     "id": 44107,
+     "count": -1
+    },
+    {
+     "id": 43507,
+     "count": -1
+    }
+   ],
+   "head_postfix": "Febian",
+   "first_drop_list": null,
+   "diff_color": 7,
+   "name": [
+    "Febian",
+    "Floor 30"
+   ],
+   "name_th": [
+    "Febian",
+    "F30"
+   ],
+   "section_descript": "<Black>Two souls share one body. Chess player, genius strategist, and a formidable Animus in her own right. She hones her craft in an endless game against the other self within her. No one has ever won on her board.</>",
+   "section_descript_th": "<Black>นักยุทธศาสตร์สองวิญญาณ นักยุทธวิธีอัจฉริยะ และ Animus ที่น่าเกรงขาม... เพื่อไล่ตามกลยุทธ์ขั้นสูงสุด เธอเล่นหมากรุกกับตัวเองอีกคนหนึ่งในใจอยู่ตลอดเวลา ไม่มีใครสามารถเอาชนะเธอบนกระดานหมากของเธอได้</>"
+  }
+ },
+ "text_chunk": "00026_1137e13d3457d683.json"
+}

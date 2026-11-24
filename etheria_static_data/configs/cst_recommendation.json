@@ -1,0 +1,2060 @@
+{
+ "config": "cst_recommendation",
+ "fields": [
+  "id",
+  "best_partner",
+  "key_prop",
+  "newbie_best_agt",
+  "newbie_best_affix"
+ ],
+ "rows": {
+  "30051": {
+   "id": 30051,
+   "best_partner": [
+    30251,
+    30451
+   ],
+   "key_prop": [
+    13,
+    1
+   ],
+   "newbie_best_agt": [
+    54211
+   ],
+   "newbie_best_affix": [
+    [
+     4
+    ],
+    [
+     2
+    ]
+   ]
+  },
+  "30101": {
+   "id": 30101,
+   "best_partner": [
+    46161,
+    40186
+   ],
+   "key_prop": [
+    5,
+    17,
+    13
+   ],
+   "newbie_best_agt": [
+    54311,
+    54121
+   ],
+   "newbie_best_affix": [
+    [
+     1
+    ],
+    [
+     4
+    ]
+   ]
+  },
+  "30151": {
+   "id": 30151,
+   "best_partner": [
+    30451,
+    30701
+   ],
+   "key_prop": [
+    5,
+    17,
+    20
+   ],
+   "newbie_best_agt": [
+    54311,
+    54121
+   ],
+   "newbie_best_affix": [
+    [
+     1
+    ],
+    [
+     4
+    ]
+   ]
+  },
+  "30201": {
+   "id": 30201,
+   "best_partner": [
+    46161,
+    40186
+   ],
+   "key_prop": [
+    13,
+    5,
+    17
+   ],
+   "newbie_best_agt": [
+    54311,
+    54121
+   ],
+   "newbie_best_affix": [
+    [
+     1
+    ],
+    [
+     4
+    ]
+   ]
+  },
+  "30251": {
+   "id": 30251,
+   "best_partner": [
+    40491,
+    46121
+   ],
+   "key_prop": [
+    1,
+    23
+   ],
+   "newbie_best_agt": [
+    54211
+   ],
+   "newbie_best_affix": [
+    [
+     2
+    ],
+    [
+     4
+    ]
+   ]
+  },
+  "30301": {
+   "id": 30301,
+   "best_partner": [
+    40601,
+    40421
+   ],
+   "key_prop": [
+    23,
+    20
+   ],
+   "newbie_best_agt": [
+    54311,
+    54121
+   ],
+   "newbie_best_affix": [
+    [
+     4
+    ],
+    [
+     1
+    ]
+   ]
+  },
+  "30351": {
+   "id": 30351,
+   "best_partner": [
+    40691,
+    40186
+   ],
+   "key_prop": [
+    5,
+    17,
+    20
+   ],
+   "newbie_best_agt": [
+    54311,
+    54121
+   ],
+   "newbie_best_affix": [
+    [
+     1
+    ],
+    [
+     4
+    ]
+   ]
+  },
+  "30401": {
+   "id": 30401,
+   "best_partner": [
+    40691,
+    30701
+   ],
+   "key_prop": [
+    5,
+    17,
+    20
+   ],
+   "newbie_best_agt": [
+    54311,
+    54121
+   ],
+   "newbie_best_affix": [
+    [
+     1
+    ],
+    [
+     4
+    ]
+   ]
+  },
+  "30451": {
+   "id": 30451,
+   "best_partner": [
+    30301,
+    46121
+   ],
+   "key_prop": [
+    13,
+    23
+   ],
+   "newbie_best_agt": [
+    54211
+   ],
+   "newbie_best_affix": [
+    [
+     4
+    ],
+    [
+     2
+    ]
+   ]
+  },
+  "30501": {
+   "id": 30501,
+   "best_partner": [
+    40491,
+    40691
+   ],
+   "key_prop": [
+    1,
+    17
+   ],
+   "newbie_best_agt": [
+    54211
+   ],
+   "newbie_best_affix": [
+    [
+     2
+    ],
+    [
+     4
+    ]
+   ]
+  },
+  "30601": {
+   "id": 30601,
+   "best_partner": [
+    40451,
+    40691
+   ],
+   "key_prop": [
+    9,
+    17,
+    20
+   ],
+   "newbie_best_agt": [
+    54211,
+    54121
+   ],
+   "newbie_best_affix": [
+    [
+     3
+    ],
+    [
+     4
+    ]
+   ]
+  },
+  "30651": {
+   "id": 30651,
+   "best_partner": [
+    40661,
+    40571
+   ],
+   "key_prop": [
+    13,
+    1
+   ],
+   "newbie_best_agt": [
+    54211
+   ],
+   "newbie_best_affix": [
+    [
+     4
+    ],
+    [
+     2
+    ]
+   ]
+  },
+  "30701": {
+   "id": 30701,
+   "best_partner": [
+    30151,
+    30401
+   ],
+   "key_prop": [
+    13,
+    1
+   ],
+   "newbie_best_agt": [
+    54211
+   ],
+   "newbie_best_affix": [
+    [
+     4
+    ],
+    [
+     2
+    ]
+   ]
+  },
+  "30751": {
+   "id": 30751,
+   "best_partner": [
+    30501,
+    40691
+   ],
+   "key_prop": [
+    13,
+    1
+   ],
+   "newbie_best_agt": [
+    54211,
+    54281
+   ],
+   "newbie_best_affix": [
+    [
+     4
+    ],
+    [
+     2
+    ]
+   ]
+  },
+  "30801": {
+   "id": 30801,
+   "best_partner": [
+    30601,
+    40451
+   ],
+   "key_prop": [
+    9,
+    17,
+    20
+   ],
+   "newbie_best_agt": [
+    54211,
+    54121
+   ],
+   "newbie_best_affix": [
+    [
+     3
+    ],
+    [
+     4
+    ]
+   ]
+  },
+  "30851": {
+   "id": 30851,
+   "best_partner": [
+    30151,
+    31151
+   ],
+   "key_prop": [
+    13,
+    1
+   ],
+   "newbie_best_agt": [
+    54211
+   ],
+   "newbie_best_affix": [
+    [
+     4
+    ],
+    [
+     2
+    ]
+   ]
+  },
+  "30901": {
+   "id": 30901,
+   "best_partner": [
+    40491,
+    30101
+   ],
+   "key_prop": [
+    13,
+    1
+   ],
+   "newbie_best_agt": [
+    54211
+   ],
+   "newbie_best_affix": [
+    [
+     4
+    ],
+    [
+     2
+    ]
+   ]
+  },
+  "30951": {
+   "id": 30951,
+   "best_partner": [
+    30451,
+    40631
+   ],
+   "key_prop": [
+    5,
+    17,
+    20
+   ],
+   "newbie_best_agt": [
+    54311,
+    54121
+   ],
+   "newbie_best_affix": [
+    [
+     1
+    ],
+    [
+     4
+    ]
+   ]
+  },
+  "31001": {
+   "id": 31001,
+   "best_partner": [
+    31201,
+    40631
+   ],
+   "key_prop": [
+    5,
+    17,
+    20
+   ],
+   "newbie_best_agt": [
+    54311,
+    54121
+   ],
+   "newbie_best_affix": [
+    [
+     1
+    ],
+    [
+     4
+    ]
+   ]
+  },
+  "31051": {
+   "id": 31051,
+   "best_partner": [
+    30601,
+    40451
+   ],
+   "key_prop": [
+    1,
+    13
+   ],
+   "newbie_best_agt": [
+    54211
+   ],
+   "newbie_best_affix": [
+    [
+     2
+    ],
+    [
+     4
+    ]
+   ]
+  },
+  "31101": {
+   "id": 31101,
+   "best_partner": [
+    30701,
+    30051
+   ],
+   "key_prop": [
+    5,
+    17,
+    20
+   ],
+   "newbie_best_agt": [
+    54311,
+    54121
+   ],
+   "newbie_best_affix": [
+    [
+     1
+    ],
+    [
+     4
+    ]
+   ]
+  },
+  "31151": {
+   "id": 31151,
+   "best_partner": [
+    30301,
+    31301
+   ],
+   "key_prop": [
+    17,
+    5,
+    20
+   ],
+   "newbie_best_agt": [
+    54311,
+    54121
+   ],
+   "newbie_best_affix": [
+    [
+     1
+    ],
+    [
+     4
+    ]
+   ]
+  },
+  "31201": {
+   "id": 31201,
+   "best_partner": [
+    30401,
+    30101
+   ],
+   "key_prop": [
+    13,
+    1
+   ],
+   "newbie_best_agt": [
+    54211
+   ],
+   "newbie_best_affix": [
+    [
+     4
+    ],
+    [
+     3
+    ]
+   ]
+  },
+  "31251": {
+   "id": 31251,
+   "best_partner": [
+    40691,
+    31051
+   ],
+   "key_prop": [
+    13,
+    1
+   ],
+   "newbie_best_agt": [
+    54211
+   ],
+   "newbie_best_affix": [
+    [
+     4
+    ],
+    [
+     2
+    ]
+   ]
+  },
+  "31301": {
+   "id": 31301,
+   "best_partner": [
+    30301,
+    30651
+   ],
+   "key_prop": [
+    17,
+    5,
+    20
+   ],
+   "newbie_best_agt": [
+    54311,
+    54121
+   ],
+   "newbie_best_affix": [
+    [
+     1
+    ],
+    [
+     4
+    ]
+   ]
+  },
+  "31351": {
+   "id": 31351,
+   "best_partner": [
+    31251,
+    46306
+   ],
+   "key_prop": [
+    1,
+    13
+   ],
+   "newbie_best_agt": [
+    54211
+   ],
+   "newbie_best_affix": [
+    [
+     2
+    ],
+    [
+     4
+    ]
+   ]
+  },
+  "31401": {
+   "id": 31401,
+   "best_partner": [
+    30251,
+    30051
+   ],
+   "key_prop": [
+    13,
+    23
+   ],
+   "newbie_best_agt": [
+    54211
+   ],
+   "newbie_best_affix": [
+    [
+     4
+    ],
+    [
+     2
+    ]
+   ]
+  },
+  "31451": {
+   "id": 31451,
+   "best_partner": [
+    40491,
+    40186
+   ],
+   "key_prop": [
+    5,
+    13
+   ],
+   "newbie_best_agt": [
+    54311,
+    54121
+   ],
+   "newbie_best_affix": [
+    [
+     1
+    ],
+    [
+     4
+    ]
+   ]
+  },
+  "31501": {
+   "id": 31501,
+   "best_partner": [
+    30501,
+    40491
+   ],
+   "key_prop": [
+    1,
+    13
+   ],
+   "newbie_best_agt": [
+    54211
+   ],
+   "newbie_best_affix": [
+    [
+     2
+    ],
+    [
+     4
+    ]
+   ]
+  },
+  "31551": {
+   "id": 31551,
+   "best_partner": [
+    40391
+   ],
+   "key_prop": [
+    13,
+    23
+   ],
+   "newbie_best_agt": [
+    54211
+   ],
+   "newbie_best_affix": [
+    [
+     4
+    ],
+    [
+     2
+    ]
+   ]
+  },
+  "31601": {
+   "id": 31601,
+   "best_partner": [
+    31751,
+    40811
+   ],
+   "key_prop": [
+    13,
+    23
+   ],
+   "newbie_best_agt": [
+    54211
+   ],
+   "newbie_best_affix": [
+    [
+     4
+    ],
+    [
+     2
+    ]
+   ]
+  },
+  "31651": {
+   "id": 31651,
+   "best_partner": [
+    30651,
+    40811
+   ],
+   "key_prop": [
+    5,
+    13,
+    17
+   ],
+   "newbie_best_agt": [
+    54311,
+    54121
+   ],
+   "newbie_best_affix": [
+    [
+     4
+    ],
+    [
+     1
+    ]
+   ]
+  },
+  "31701": {
+   "id": 31701,
+   "best_partner": [
+    40781,
+    46126
+   ],
+   "key_prop": [
+    1,
+    13,
+    23
+   ],
+   "newbie_best_agt": [
+    54311,
+    54121
+   ],
+   "newbie_best_affix": [
+    [
+     1
+    ],
+    [
+     4
+    ]
+   ]
+  },
+  "31751": {
+   "id": 31751,
+   "best_partner": [
+    30451
+   ],
+   "key_prop": [
+    5,
+    17,
+    20
+   ],
+   "newbie_best_agt": [
+    54311,
+    54121
+   ],
+   "newbie_best_affix": [
+    [
+     1
+    ],
+    [
+     4
+    ]
+   ]
+  },
+  "31801": {
+   "id": 31801,
+   "best_partner": [
+    30651,
+    40491
+   ],
+   "key_prop": [
+    1,
+    17
+   ],
+   "newbie_best_agt": [
+    54211
+   ],
+   "newbie_best_affix": [
+    [
+     2
+    ],
+    [
+     4
+    ]
+   ]
+  },
+  "31851": {
+   "id": 31851,
+   "best_partner": [
+    30601,
+    40841
+   ],
+   "key_prop": [
+    9,
+    17,
+    20
+   ],
+   "newbie_best_agt": [
+    54211,
+    54121
+   ],
+   "newbie_best_affix": [
+    [
+     3
+    ],
+    [
+     4
+    ]
+   ]
+  },
+  "31901": {
+   "id": 31901,
+   "best_partner": [
+    31801,
+    40511
+   ],
+   "key_prop": [
+    13,
+    1
+   ],
+   "newbie_best_agt": [
+    54211
+   ],
+   "newbie_best_affix": [
+    [
+     4
+    ],
+    [
+     2
+    ]
+   ]
+  },
+  "31951": {
+   "id": 31951,
+   "best_partner": [
+    30351,
+    31101
+   ],
+   "key_prop": [
+    13,
+    1
+   ],
+   "newbie_best_agt": [
+    54211
+   ],
+   "newbie_best_affix": [
+    [
+     4
+    ],
+    [
+     2
+    ]
+   ]
+  },
+  "32001": {
+   "id": 32001,
+   "best_partner": [
+    30801,
+    40751
+   ],
+   "key_prop": [
+    13,
+    1
+   ],
+   "newbie_best_agt": [
+    54211
+   ],
+   "newbie_best_affix": [
+    [
+     4
+    ],
+    [
+     2
+    ]
+   ]
+  },
+  "32051": {
+   "id": 32051,
+   "best_partner": [
+    40491
+   ],
+   "key_prop": [
+    1,
+    17
+   ],
+   "newbie_best_agt": [
+    54211
+   ],
+   "newbie_best_affix": [
+    [
+     2
+    ],
+    [
+     4
+    ]
+   ]
+  },
+  "32101": {
+   "id": 32101,
+   "best_partner": [
+    30501,
+    32001
+   ],
+   "key_prop": [
+    13,
+    1
+   ],
+   "newbie_best_agt": [
+    54211
+   ],
+   "newbie_best_affix": [
+    [
+     4
+    ],
+    [
+     2
+    ]
+   ]
+  },
+  "32151": {
+   "id": 32151,
+   "best_partner": [
+    40491,
+    30051
+   ],
+   "key_prop": [
+    23,
+    1
+   ],
+   "newbie_best_agt": [
+    54211
+   ],
+   "newbie_best_affix": [
+    [
+     2
+    ],
+    [
+     4
+    ]
+   ]
+  },
+  "32201": {
+   "id": 32201,
+   "best_partner": [
+    40491,
+    31501
+   ],
+   "key_prop": [
+    1,
+    13
+   ],
+   "newbie_best_agt": [
+    54211
+   ],
+   "newbie_best_affix": [
+    [
+     4
+    ],
+    [
+     2
+    ]
+   ]
+  },
+  "32251": {
+   "id": 32251,
+   "best_partner": [
+    32001,
+    31501
+   ],
+   "key_prop": [
+    9,
+    17,
+    20
+   ],
+   "newbie_best_agt": [
+    54211,
+    54121
+   ],
+   "newbie_best_affix": [
+    [
+     3
+    ],
+    [
+     4
+    ]
+   ]
+  },
+  "32301": {
+   "id": 32301,
+   "best_partner": [
+    30651,
+    31201
+   ],
+   "key_prop": [
+    5,
+    17,
+    20
+   ],
+   "newbie_best_agt": [
+    54311,
+    54121
+   ],
+   "newbie_best_affix": [
+    [
+     1
+    ],
+    [
+     4
+    ]
+   ]
+  },
+  "32351": {
+   "id": 32351,
+   "best_partner": [
+    30501,
+    30651
+   ],
+   "key_prop": [
+    5,
+    17,
+    20
+   ],
+   "newbie_best_agt": [
+    54311,
+    54121
+   ],
+   "newbie_best_affix": [
+    [
+     1
+    ],
+    [
+     4
+    ]
+   ]
+  },
+  "32401": {
+   "id": 32401,
+   "best_partner": [
+    30651,
+    30701
+   ],
+   "key_prop": [
+    5,
+    17,
+    20
+   ],
+   "newbie_best_agt": [
+    54311,
+    54121
+   ],
+   "newbie_best_affix": [
+    [
+     1
+    ],
+    [
+     4
+    ]
+   ]
+  },
+  "32451": {
+   "id": 32451,
+   "best_partner": [
+    30601,
+    40841
+   ],
+   "key_prop": [
+    9,
+    17,
+    20
+   ],
+   "newbie_best_agt": [
+    54211,
+    54121
+   ],
+   "newbie_best_affix": [
+    [
+     3
+    ],
+    [
+     4
+    ]
+   ]
+  },
+  "32651": {
+   "id": 32651,
+   "best_partner": [
+    46061
+   ],
+   "key_prop": [
+    23,
+    13,
+    1
+   ],
+   "newbie_best_agt": [
+    54211
+   ],
+   "newbie_best_affix": [
+    [
+     4
+    ],
+    [
+     2
+    ]
+   ]
+  },
+  "40127": {
+   "id": 40127,
+   "best_partner": [
+    30101,
+    40451
+   ],
+   "key_prop": [
+    5,
+    17,
+    20
+   ],
+   "newbie_best_agt": [
+    54311,
+    54121
+   ],
+   "newbie_best_affix": [
+    [
+     1
+    ],
+    [
+     4
+    ]
+   ]
+  },
+  "40181": {
+   "id": 40181,
+   "best_partner": [
+    30401,
+    30501
+   ],
+   "key_prop": [
+    13,
+    1
+   ],
+   "newbie_best_agt": [
+    54211,
+    54281
+   ],
+   "newbie_best_affix": [
+    [
+     2
+    ],
+    [
+     4
+    ]
+   ]
+  },
+  "40186": {
+   "id": 40186,
+   "best_partner": [
+    30351,
+    30401
+   ],
+   "key_prop": [
+    13,
+    1
+   ],
+   "newbie_best_agt": [
+    54211
+   ],
+   "newbie_best_affix": [
+    [
+     4
+    ],
+    [
+     2
+    ]
+   ]
+  },
+  "40301": {
+   "id": 40301,
+   "best_partner": [
+    30451,
+    40631
+   ],
+   "key_prop": [
+    17,
+    5,
+    20
+   ],
+   "newbie_best_agt": [
+    54311,
+    54121
+   ],
+   "newbie_best_affix": [
+    [
+     1
+    ],
+    [
+     4
+    ]
+   ]
+  },
+  "40331": {
+   "id": 40331,
+   "best_partner": [
+    40301,
+    46121
+   ],
+   "key_prop": [
+    13,
+    23
+   ],
+   "newbie_best_agt": [
+    54211
+   ],
+   "newbie_best_affix": [
+    [
+     4
+    ],
+    [
+     2
+    ]
+   ]
+  },
+  "40391": {
+   "id": 40391,
+   "best_partner": [
+    30251,
+    40631
+   ],
+   "key_prop": [
+    13,
+    23
+   ],
+   "newbie_best_agt": [
+    54211
+   ],
+   "newbie_best_affix": [
+    [
+     4
+    ],
+    [
+     2
+    ]
+   ]
+  },
+  "40421": {
+   "id": 40421,
+   "best_partner": [
+    30351,
+    40571
+   ],
+   "key_prop": [
+    17,
+    13
+   ],
+   "newbie_best_agt": [
+    54311,
+    54121
+   ],
+   "newbie_best_affix": [
+    [
+     4
+    ],
+    [
+     1
+    ]
+   ]
+  },
+  "40451": {
+   "id": 40451,
+   "best_partner": [
+    40661,
+    30601
+   ],
+   "key_prop": [
+    9,
+    13
+   ],
+   "newbie_best_agt": [
+    54211
+   ],
+   "newbie_best_affix": [
+    [
+     3
+    ],
+    [
+     4
+    ]
+   ]
+  },
+  "40456": {
+   "id": 40456,
+   "best_partner": [
+    30651
+   ],
+   "key_prop": [
+    13,
+    5
+   ],
+   "newbie_best_agt": [
+    54211,
+    54281
+   ],
+   "newbie_best_affix": [
+    [
+     4
+    ],
+    [
+     1
+    ]
+   ]
+  },
+  "40481": {
+   "id": 40481,
+   "best_partner": [
+    46061,
+    46241
+   ],
+   "key_prop": [
+    23,
+    13
+   ],
+   "newbie_best_agt": [
+    54211
+   ],
+   "newbie_best_affix": [
+    [
+     4
+    ],
+    [
+     2
+    ]
+   ]
+  },
+  "40491": {
+   "id": 40491,
+   "best_partner": [
+    30251,
+    30501
+   ],
+   "key_prop": [
+    1,
+    13
+   ],
+   "newbie_best_agt": [
+    54211,
+    54281
+   ],
+   "newbie_best_affix": [
+    [
+     2
+    ],
+    [
+     4
+    ]
+   ]
+  },
+  "40511": {
+   "id": 40511,
+   "best_partner": [
+    40601,
+    40421
+   ],
+   "key_prop": [
+    5,
+    17,
+    20
+   ],
+   "newbie_best_agt": [
+    54311,
+    54121
+   ],
+   "newbie_best_affix": [
+    [
+     1
+    ],
+    [
+     4
+    ]
+   ]
+  },
+  "40516": {
+   "id": 40516,
+   "best_partner": [
+    40841,
+    30601
+   ],
+   "key_prop": [
+    9,
+    13,
+    23
+   ],
+   "newbie_best_agt": [
+    54211
+   ],
+   "newbie_best_affix": [
+    [
+     3
+    ],
+    [
+     4
+    ]
+   ]
+  },
+  "40541": {
+   "id": 40541,
+   "best_partner": [
+    46161,
+    40186
+   ],
+   "key_prop": [
+    5,
+    13
+   ],
+   "newbie_best_agt": [
+    54211,
+    54281
+   ],
+   "newbie_best_affix": [
+    [
+     1
+    ],
+    [
+     4
+    ]
+   ]
+  },
+  "40546": {
+   "id": 40546,
+   "best_partner": [
+    30151,
+    30401
+   ],
+   "key_prop": [
+    17,
+    13
+   ],
+   "newbie_best_agt": [
+    54211
+   ],
+   "newbie_best_affix": [
+    [
+     4
+    ],
+    [
+     2
+    ]
+   ]
+  },
+  "40571": {
+   "id": 40571,
+   "best_partner": [
+    30651,
+    30301
+   ],
+   "key_prop": [
+    5,
+    17,
+    20
+   ],
+   "newbie_best_agt": [
+    54311,
+    54121
+   ],
+   "newbie_best_affix": [
+    [
+     1
+    ],
+    [
+     4
+    ]
+   ]
+  },
+  "40601": {
+   "id": 40601,
+   "best_partner": [
+    30401,
+    30301
+   ],
+   "key_prop": [
+    17,
+    13
+   ],
+   "newbie_best_agt": [
+    54311,
+    54121
+   ],
+   "newbie_best_affix": [
+    [
+     4
+    ],
+    [
+     1
+    ]
+   ]
+  },
+  "40631": {
+   "id": 40631,
+   "best_partner": [
+    30101,
+    40301
+   ],
+   "key_prop": [
+    23,
+    13
+   ],
+   "newbie_best_agt": [
+    54311,
+    54121
+   ],
+   "newbie_best_affix": [
+    [
+     4
+    ],
+    [
+     1
+    ]
+   ]
+  },
+  "40636": {
+   "id": 40636,
+   "best_partner": [
+    31251,
+    31701
+   ],
+   "key_prop": [
+    23,
+    13
+   ],
+   "newbie_best_agt": [
+    54311,
+    54121
+   ],
+   "newbie_best_affix": [
+    [
+     4
+    ],
+    [
+     1
+    ]
+   ]
+  },
+  "40661": {
+   "id": 40661,
+   "best_partner": [
+    40451,
+    30651
+   ],
+   "key_prop": [
+    5,
+    23
+   ],
+   "newbie_best_agt": [
+    54311,
+    54121
+   ],
+   "newbie_best_affix": [
+    [
+     1
+    ],
+    [
+     2
+    ]
+   ]
+  },
+  "40691": {
+   "id": 40691,
+   "best_partner": [
+    30351,
+    30401
+   ],
+   "key_prop": [
+    1,
+    13
+   ],
+   "newbie_best_agt": [
+    54211
+   ],
+   "newbie_best_affix": [
+    [
+     2
+    ],
+    [
+     3
+    ]
+   ]
+  },
+  "40721": {
+   "id": 40721,
+   "best_partner": [
+    30051,
+    30251
+   ],
+   "key_prop": [
+    13,
+    23
+   ],
+   "newbie_best_agt": [
+    54211
+   ],
+   "newbie_best_affix": [
+    [
+     4
+    ],
+    [
+     2
+    ]
+   ]
+  },
+  "40751": {
+   "id": 40751,
+   "best_partner": [
+    30601,
+    40491
+   ],
+   "key_prop": [
+    9,
+    23
+   ],
+   "newbie_best_agt": [
+    54211,
+    54121
+   ],
+   "newbie_best_affix": [
+    [
+     3
+    ],
+    [
+     4
+    ]
+   ]
+  },
+  "40781": {
+   "id": 40781,
+   "best_partner": [
+    30151,
+    31151
+   ],
+   "key_prop": [
+    13,
+    23
+   ],
+   "newbie_best_agt": [
+    54211
+   ],
+   "newbie_best_affix": [
+    [
+     4
+    ],
+    [
+     2
+    ]
+   ]
+  },
+  "40811": {
+   "id": 40811,
+   "best_partner": [
+    30451,
+    31151
+   ],
+   "key_prop": [
+    13,
+    23
+   ],
+   "newbie_best_agt": [
+    54211
+   ],
+   "newbie_best_affix": [
+    [
+     4
+    ],
+    [
+     2
+    ]
+   ]
+  },
+  "40841": {
+   "id": 40841,
+   "best_partner": [
+    30801,
+    40751
+   ],
+   "key_prop": [
+    13,
+    1
+   ],
+   "newbie_best_agt": [
+    54211,
+    54281
+   ],
+   "newbie_best_affix": [
+    [
+     4
+    ],
+    [
+     2
+    ]
+   ]
+  },
+  "40871": {
+   "id": 40871,
+   "best_partner": [
+    31501,
+    31651
+   ],
+   "key_prop": [
+    13,
+    23
+   ],
+   "newbie_best_agt": [
+    54211
+   ],
+   "newbie_best_affix": [
+    [
+     4
+    ],
+    [
+     2
+    ]
+   ]
+  },
+  "40901": {
+   "id": 40901,
+   "best_partner": [
+    31251,
+    30051
+   ],
+   "key_prop": [
+    13,
+    17,
+    20
+   ],
+   "newbie_best_agt": [
+    54211,
+    54281
+   ],
+   "newbie_best_affix": [
+    [
+     4
+    ],
+    [
+     1
+    ]
+   ]
+  },
+  "46001": {
+   "id": 46001,
+   "best_partner": [
+    40691,
+    30601
+   ],
+   "key_prop": [
+    9,
+    1
+   ],
+   "newbie_best_agt": [
+    54211
+   ],
+   "newbie_best_affix": [
+    [
+     3
+    ],
+    [
+     4
+    ]
+   ]
+  },
+  "46006": {
+   "id": 46006,
+   "best_partner": [
+    46121
+   ],
+   "key_prop": [
+    5,
+    17
+   ],
+   "newbie_best_agt": [
+    54311,
+    54121
+   ],
+   "newbie_best_affix": [
+    [
+     4
+    ],
+    [
+     2
+    ]
+   ]
+  },
+  "46061": {
+   "id": 46061,
+   "best_partner": [
+    40481,
+    46241
+   ],
+   "key_prop": [
+    13,
+    23
+   ],
+   "newbie_best_agt": [
+    54211
+   ],
+   "newbie_best_affix": [
+    [
+     4
+    ],
+    [
+     2
+    ]
+   ]
+  },
+  "46081": {
+   "id": 46081,
+   "best_partner": [
+    30401,
+    40601
+   ],
+   "key_prop": [
+    13,
+    1
+   ],
+   "newbie_best_agt": [
+    54211
+   ],
+   "newbie_best_affix": [
+    [
+     4
+    ],
+    [
+     2
+    ]
+   ]
+  },
+  "46121": {
+   "id": 46121,
+   "best_partner": [
+    30401,
+    40601
+   ],
+   "key_prop": [
+    13,
+    1
+   ],
+   "newbie_best_agt": [
+    54211
+   ],
+   "newbie_best_affix": [
+    [
+     4
+    ],
+    [
+     2
+    ]
+   ]
+  },
+  "46126": {
+   "id": 46126,
+   "best_partner": [
+    30251
+   ],
+   "key_prop": [
+    13,
+    23
+   ],
+   "newbie_best_agt": [
+    54211
+   ],
+   "newbie_best_affix": [
+    [
+     4
+    ],
+    [
+     1
+    ]
+   ]
+  },
+  "46141": {
+   "id": 46141,
+   "best_partner": [
+    40491,
+    30051
+   ],
+   "key_prop": [
+    1,
+    23
+   ],
+   "newbie_best_agt": [
+    54311,
+    54121
+   ],
+   "newbie_best_affix": [
+    [
+     2
+    ],
+    [
+     4
+    ]
+   ]
+  },
+  "46161": {
+   "id": 46161,
+   "best_partner": [
+    30351,
+    30401
+   ],
+   "key_prop": [
+    13,
+    1
+   ],
+   "newbie_best_agt": [
+    54211
+   ],
+   "newbie_best_affix": [
+    [
+     4
+    ],
+    [
+     2
+    ]
+   ]
+  },
+  "46241": {
+   "id": 46241,
+   "best_partner": [
+    40481,
+    40571
+   ],
+   "key_prop": [
+    5,
+    23,
+    17
+   ],
+   "newbie_best_agt": [
+    54311,
+    54121
+   ],
+   "newbie_best_affix": [
+    [
+     1
+    ],
+    [
+     4
+    ]
+   ]
+  },
+  "46271": {
+   "id": 46271,
+   "best_partner": [
+    46121
+   ],
+   "key_prop": [
+    13,
+    23
+   ],
+   "newbie_best_agt": [
+    54311,
+    54121
+   ],
+   "newbie_best_affix": [
+    [
+     4
+    ],
+    [
+     1
+    ]
+   ]
+  },
+  "46301": {
+   "id": 46301,
+   "best_partner": [
+    30151,
+    30401
+   ],
+   "key_prop": [
+    13,
+    1
+   ],
+   "newbie_best_agt": [
+    54211
+   ],
+   "newbie_best_affix": [
+    [
+     4
+    ],
+    [
+     2
+    ]
+   ]
+  },
+  "46306": {
+   "id": 46306,
+   "best_partner": [
+    30051,
+    40661
+   ],
+   "key_prop": [
+    23,
+    13
+   ],
+   "newbie_best_agt": [
+    54211
+   ],
+   "newbie_best_affix": [
+    [
+     4
+    ],
+    [
+     2
+    ]
+   ]
+  },
+  "46331": {
+   "id": 46331,
+   "best_partner": [
+    46161,
+    40601
+   ],
+   "key_prop": [
+    5,
+    17,
+    20
+   ],
+   "newbie_best_agt": [
+    54311,
+    54121
+   ],
+   "newbie_best_affix": [
+    [
+     1
+    ],
+    [
+     4
+    ]
+   ]
+  }
+ },
+ "text_chunk": null
+}

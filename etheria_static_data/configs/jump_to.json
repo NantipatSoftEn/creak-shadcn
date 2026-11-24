@@ -1,0 +1,1455 @@
+{
+ "config": "jump_to",
+ "fields": [
+  "id",
+  "jump_type",
+  "jump_param",
+  "show_name"
+ ],
+ "rows": {
+  "1": {
+   "id": 1,
+   "jump_type": 0,
+   "jump_param": null,
+   "show_name": "Purchase at the Shop",
+   "show_name_th": "ซื้อจากร้านค้า"
+  },
+  "2": {
+   "id": 2,
+   "jump_type": 0,
+   "jump_param": null,
+   "show_name": "Dungeon Drop",
+   "show_name_th": "ไอเทมดันเจียน"
+  },
+  "3": {
+   "id": 3,
+   "jump_type": 0,
+   "jump_param": null,
+   "show_name": "Quest Rewards",
+   "show_name_th": "รางวัลเควส"
+  },
+  "4": {
+   "id": 4,
+   "jump_type": 0,
+   "jump_param": null,
+   "show_name": "Mental Stabilizer Exchange",
+   "show_name_th": "แลกเปลี่ยน Mental Stabilizer"
+  },
+  "5": {
+   "id": 5,
+   "jump_type": 0,
+   "jump_param": null,
+   "show_name": "Encrypted Token Exchange",
+   "show_name_th": "แลกเปลี่ยนโทเคนเข้ารหัส"
+  },
+  "6": {
+   "id": 6,
+   "jump_type": 0,
+   "jump_param": null,
+   "show_name": "First Clear Reward",
+   "show_name_th": "รางวัลผ่านครั้งแรก"
+  },
+  "7": {
+   "id": 7,
+   "jump_type": 0,
+   "jump_param": null,
+   "show_name": "Recycle",
+   "show_name_th": "รีไซเคิล"
+  },
+  "8": {
+   "id": 8,
+   "jump_type": 0,
+   "jump_param": null,
+   "show_name": "Chance to obtain from Wish Machine",
+   "show_name_th": "มีโอกาสได้รับจากเครื่องหมุนไข่กาชา"
+  },
+  "9": {
+   "id": 9,
+   "jump_type": 0,
+   "jump_param": null,
+   "show_name": "Purchase from \"Outfits\"",
+   "show_name_th": "ซื้อจาก \"ชุด\""
+  },
+  "10": {
+   "id": 10,
+   "jump_type": 0,
+   "jump_param": null,
+   "show_name": "Character Creation Reward",
+   "show_name_th": "รางวัลการสร้างตัวละคร"
+  },
+  "11": {
+   "id": 11,
+   "jump_type": 0,
+   "jump_param": null,
+   "show_name": "Arena Shop",
+   "show_name_th": "ร้านอารีน่า"
+  },
+  "12": {
+   "id": 12,
+   "jump_type": 0,
+   "jump_param": null,
+   "show_name": "7-Day Commission",
+   "show_name_th": "ภารกิจ 7 วัน"
+  },
+  "13": {
+   "id": 13,
+   "jump_type": 0,
+   "jump_param": null,
+   "show_name": "Final Test Exclusive",
+   "show_name_th": "เอ็กซ์คลูซีฟการทดสอบแบบเปิดชำระเงิน"
+  },
+  "14": {
+   "id": 14,
+   "jump_type": 0,
+   "jump_param": null,
+   "show_name": "Stellar Shop",
+   "show_name_th": "ร้าน Stellar"
+  },
+  "50": {
+   "id": 50,
+   "jump_type": 0,
+   "jump_param": null,
+   "show_name": "Oneiric Box",
+   "show_name_th": "กล่องดั่งความฝัน"
+  },
+  "51": {
+   "id": 51,
+   "jump_type": 0,
+   "jump_param": null,
+   "show_name": "Heroic Box",
+   "show_name_th": "กล่อง Hero"
+  },
+  "52": {
+   "id": 52,
+   "jump_type": 0,
+   "jump_param": null,
+   "show_name": "Clouded Dreams",
+   "show_name_th": "ความฝันเลือนราง"
+  },
+  "53": {
+   "id": 53,
+   "jump_type": 0,
+   "jump_param": null,
+   "show_name": "Gilded Radiance",
+   "show_name_th": "Gilded Radiance"
+  },
+  "54": {
+   "id": 54,
+   "jump_type": 0,
+   "jump_param": null,
+   "show_name": "Phantom Parade",
+   "show_name_th": "พาเหรดมายา"
+  },
+  "55": {
+   "id": 55,
+   "jump_type": 0,
+   "jump_param": null,
+   "show_name": "Wishweaver",
+   "show_name_th": "Belldream"
+  },
+  "101": {
+   "id": 101,
+   "jump_type": 3,
+   "jump_param": [
+    25001
+   ],
+   "show_name": "Use Prowess Supply Pack",
+   "show_name_th": "ใช้แพ็กอุปกรณ์ศักยภาพ"
+  },
+  "102": {
+   "id": 102,
+   "jump_type": 3,
+   "jump_param": [
+    25002
+   ],
+   "show_name": "Use Prowess Supply Pack",
+   "show_name_th": "ใช้แพ็กอุปกรณ์ศักยภาพ"
+  },
+  "103": {
+   "id": 103,
+   "jump_type": 3,
+   "jump_param": [
+    25003
+   ],
+   "show_name": "Use Prowess Supply Pack",
+   "show_name_th": "ใช้แพ็กอุปกรณ์ศักยภาพ"
+  },
+  "104": {
+   "id": 104,
+   "jump_type": 3,
+   "jump_param": [
+    25101
+   ],
+   "show_name": "G Component Bespoke Archive",
+   "show_name_th": "กล่องเลือก Component G"
+  },
+  "1000": {
+   "id": 1000,
+   "jump_type": 1,
+   "jump_param": [
+    100
+   ],
+   "show_name": "Grim Pursuit",
+   "show_name_th": "ไล่ล่าเงาร้าย"
+  },
+  "1001": {
+   "id": 1001,
+   "jump_type": 1,
+   "jump_param": [
+    100,
+    1
+   ],
+   "show_name": "Grim Pursuit -1",
+   "show_name_th": "ไล่ล่าเงาร้าย -1"
+  },
+  "1002": {
+   "id": 1002,
+   "jump_type": 1,
+   "jump_param": [
+    100,
+    2
+   ],
+   "show_name": "Grim Pursuit -2",
+   "show_name_th": "ไล่ล่าเงาร้าย -2"
+  },
+  "1003": {
+   "id": 1003,
+   "jump_type": 1,
+   "jump_param": [
+    100,
+    3
+   ],
+   "show_name": "Grim Pursuit -3",
+   "show_name_th": "ไล่ล่าเงาร้าย -3"
+  },
+  "1004": {
+   "id": 1004,
+   "jump_type": 1,
+   "jump_param": [
+    100,
+    4
+   ],
+   "show_name": "Grim Pursuit -4",
+   "show_name_th": "ไล่ล่าเงาร้าย -4"
+  },
+  "1005": {
+   "id": 1005,
+   "jump_type": 1,
+   "jump_param": [
+    100,
+    5
+   ],
+   "show_name": "Grim Pursuit -5",
+   "show_name_th": "ไล่ล่าเงาร้าย -5"
+  },
+  "1006": {
+   "id": 1006,
+   "jump_type": 1,
+   "jump_param": [
+    100,
+    6
+   ],
+   "show_name": "Grim Pursuit -6",
+   "show_name_th": "ไล่ล่าเงาร้าย -6"
+  },
+  "1007": {
+   "id": 1007,
+   "jump_type": 1,
+   "jump_param": [
+    100,
+    7
+   ],
+   "show_name": "Grim Pursuit -7",
+   "show_name_th": "ไล่ล่าเงาร้าย -7"
+  },
+  "1008": {
+   "id": 1008,
+   "jump_type": 1,
+   "jump_param": [
+    100,
+    8
+   ],
+   "show_name": "Grim Pursuit -8",
+   "show_name_th": "ไล่ล่าเงาร้าย -8"
+  },
+  "1009": {
+   "id": 1009,
+   "jump_type": 1,
+   "jump_param": [
+    100,
+    9
+   ],
+   "show_name": "Grim Pursuit -9",
+   "show_name_th": "ไล่ล่าเงาร้าย -9"
+  },
+  "1010": {
+   "id": 1010,
+   "jump_type": 1,
+   "jump_param": [
+    100,
+    10
+   ],
+   "show_name": "Grim Pursuit -10",
+   "show_name_th": "ไล่ล่าเงาร้าย -10"
+  },
+  "1011": {
+   "id": 1011,
+   "jump_type": 1,
+   "jump_param": [
+    100,
+    11
+   ],
+   "show_name": "Grim Pursuit -11",
+   "show_name_th": "ไล่ล่าเงาร้าย -11"
+  },
+  "1012": {
+   "id": 1012,
+   "jump_type": 1,
+   "jump_param": [
+    100,
+    12
+   ],
+   "show_name": "Grim Pursuit -12",
+   "show_name_th": "ไล่ล่าเงาร้าย -12"
+  },
+  "1100": {
+   "id": 1100,
+   "jump_type": 1,
+   "jump_param": [
+    101
+   ],
+   "show_name": "GP Outpost",
+   "show_name_th": "ด่านหน้า GP"
+  },
+  "1101": {
+   "id": 1101,
+   "jump_type": 1,
+   "jump_param": [
+    101,
+    1
+   ],
+   "show_name": "GP Outpost - Reason Observation Point",
+   "show_name_th": "ด่านหน้า GP - จุดสังเกตการณ์ Reason"
+  },
+  "1102": {
+   "id": 1102,
+   "jump_type": 1,
+   "jump_param": [
+    101,
+    2
+   ],
+   "show_name": "GP Outpost - Odd Observation Point",
+   "show_name_th": "ด่านหน้า GP - จุดสังเกตการณ์ Odd"
+  },
+  "1103": {
+   "id": 1103,
+   "jump_type": 1,
+   "jump_param": [
+    101,
+    3
+   ],
+   "show_name": "GP Outpost - Hollow Observation Point",
+   "show_name_th": "ด่านหน้า GP - จุดสังเกตการณ์ Hollow"
+  },
+  "1104": {
+   "id": 1104,
+   "jump_type": 1,
+   "jump_param": [
+    101,
+    4
+   ],
+   "show_name": "GP Outpost - Disorder Observation Point",
+   "show_name_th": "ด่านหน้า GP - จุดสังเกตการณ์ Disorder"
+  },
+  "1105": {
+   "id": 1105,
+   "jump_type": 1,
+   "jump_param": [
+    101,
+    5
+   ],
+   "show_name": "GP Outpost - Constant Observation Point",
+   "show_name_th": "ด่านหน้า GP - จุดสังเกตการณ์ Constant"
+  },
+  "1300": {
+   "id": 1300,
+   "jump_type": 1,
+   "jump_param": [
+    103
+   ],
+   "show_name": "Threshold",
+   "show_name_th": "เทรชโฮลด์"
+  },
+  "1301": {
+   "id": 1301,
+   "jump_type": 1,
+   "jump_param": [
+    103,
+    1
+   ],
+   "show_name": "Threshold -1",
+   "show_name_th": "เทรชโฮลด์ -1"
+  },
+  "1302": {
+   "id": 1302,
+   "jump_type": 1,
+   "jump_param": [
+    103,
+    2
+   ],
+   "show_name": "Threshold -2",
+   "show_name_th": "เทรชโฮลด์ -2"
+  },
+  "1303": {
+   "id": 1303,
+   "jump_type": 1,
+   "jump_param": [
+    103,
+    3
+   ],
+   "show_name": "Threshold -3",
+   "show_name_th": "เทรชโฮลด์ -3"
+  },
+  "1304": {
+   "id": 1304,
+   "jump_type": 1,
+   "jump_param": [
+    103,
+    4
+   ],
+   "show_name": "Threshold -4",
+   "show_name_th": "เทรชโฮลด์ -4"
+  },
+  "1305": {
+   "id": 1305,
+   "jump_type": 1,
+   "jump_param": [
+    103,
+    5
+   ],
+   "show_name": "Threshold -5",
+   "show_name_th": "เทรชโฮลด์ -5"
+  },
+  "1400": {
+   "id": 1400,
+   "jump_type": 1,
+   "jump_param": [
+    104
+   ],
+   "show_name": "Investigation",
+   "show_name_th": "การตรวจสอบ"
+  },
+  "1500": {
+   "id": 1500,
+   "jump_type": 1,
+   "jump_param": [
+    102
+   ],
+   "show_name": "Ember Trek",
+   "show_name_th": "Ember Trek"
+  },
+  "1600": {
+   "id": 1600,
+   "jump_type": 1,
+   "jump_param": [
+    105
+   ],
+   "show_name": "Anisync Echoes",
+   "show_name_th": "Anisync Echoes"
+  },
+  "1700": {
+   "id": 1700,
+   "jump_type": 1,
+   "jump_param": [
+    107
+   ],
+   "show_name": "Phantom Theater",
+   "show_name_th": "โรงละครมายา"
+  },
+  "1800": {
+   "id": 1800,
+   "jump_type": 1,
+   "jump_param": [
+    301
+   ],
+   "show_name": "Summit Arena",
+   "show_name_th": "สุดยอดอารีน่า"
+  },
+  "1801": {
+   "id": 1801,
+   "jump_type": 1,
+   "jump_param": [
+    304
+   ],
+   "show_name": "Summit Arena - HYPA Season",
+   "show_name_th": "สุดยอดอารีน่า - HYPA Season"
+  },
+  "1810": {
+   "id": 1810,
+   "jump_type": 1,
+   "jump_param": [
+    302
+   ],
+   "show_name": "Fearless Arena",
+   "show_name_th": "อารีน่าห้าวหาญ"
+  },
+  "1900": {
+   "id": 1900,
+   "jump_type": 1,
+   "jump_param": [
+    108
+   ],
+   "show_name": "Cyber Shadows",
+   "show_name_th": "เงามืดโลกไซเบอร์"
+  },
+  "1950": {
+   "id": 1950,
+   "jump_type": 1,
+   "jump_param": [
+    117
+   ],
+   "show_name": "Temple Expedition",
+   "show_name_th": "การสำรวจวิหาร"
+  },
+  "1960": {
+   "id": 1960,
+   "jump_type": 1,
+   "jump_param": [
+    118
+   ],
+   "show_name": "Order Arena",
+   "show_name_th": "Order Arena"
+  },
+  "1970": {
+   "id": 1970,
+   "jump_type": 1,
+   "jump_param": [
+    171
+   ],
+   "show_name": "Hyper Matches",
+   "show_name_th": "Hyper Matches"
+  },
+  "2000": {
+   "id": 2000,
+   "jump_type": 1,
+   "jump_param": [
+    45
+   ],
+   "show_name": "Apostle Interface",
+   "show_name_th": "อินเทอร์เฟซสาวก"
+  },
+  "2100": {
+   "id": 2100,
+   "jump_type": 1,
+   "jump_param": [
+    21
+   ],
+   "show_name": "Main Quest",
+   "show_name_th": "เควสหลัก"
+  },
+  "2200": {
+   "id": 2200,
+   "jump_type": 1,
+   "jump_param": [
+    4
+   ],
+   "show_name": "Draw Cards",
+   "show_name_th": "สุ่มการ์ด"
+  },
+  "2210": {
+   "id": 2210,
+   "jump_type": 1,
+   "jump_param": [
+    24
+   ],
+   "show_name": "Guild",
+   "show_name_th": "กิลด์"
+  },
+  "2211": {
+   "id": 2211,
+   "jump_type": 1,
+   "jump_param": [
+    161
+   ],
+   "show_name": "Union GVE",
+   "show_name_th": "กิลด์ GVE"
+  },
+  "2220": {
+   "id": 2220,
+   "jump_type": 1,
+   "jump_param": [
+    300
+   ],
+   "show_name": "Etherena",
+   "show_name_th": "อีเทอรีน่า"
+  },
+  "2230": {
+   "id": 2230,
+   "jump_type": 1,
+   "jump_param": [
+    47
+   ],
+   "show_name": "Quest",
+   "show_name_th": "เควส"
+  },
+  "2240": {
+   "id": 2240,
+   "jump_type": 1,
+   "jump_param": [
+    59
+   ],
+   "show_name": "Inventory",
+   "show_name_th": "ที่เก็บของ"
+  },
+  "2250": {
+   "id": 2250,
+   "jump_type": 1,
+   "jump_param": [
+    22
+   ],
+   "show_name": "Challenge",
+   "show_name_th": "ท้าทาย"
+  },
+  "2260": {
+   "id": 2260,
+   "jump_type": 1,
+   "jump_param": [
+    50
+   ],
+   "show_name": "Friends",
+   "show_name_th": "เพื่อน"
+  },
+  "2270": {
+   "id": 2270,
+   "jump_type": 1,
+   "jump_param": [
+    52
+   ],
+   "show_name": "Purchase at the Shop",
+   "show_name_th": "ซื้อจากร้านค้า"
+  },
+  "2280": {
+   "id": 2280,
+   "jump_type": 1,
+   "jump_param": [
+    22
+   ],
+   "show_name": "Daily Challenge",
+   "show_name_th": "ท้าทายประจำวัน"
+  },
+  "2290": {
+   "id": 2290,
+   "jump_type": 1,
+   "jump_param": [
+    47
+   ],
+   "show_name": "Daily Quests",
+   "show_name_th": "เควสประจำวัน"
+  },
+  "2300": {
+   "id": 2300,
+   "jump_type": 0,
+   "jump_param": null,
+   "show_name": "Hyper Kernel",
+   "show_name_th": "Hyper Kernel"
+  },
+  "2301": {
+   "id": 2301,
+   "jump_type": 0,
+   "jump_param": null,
+   "show_name": "Hyper Kernel: Exploration Dispatch",
+   "show_name_th": "Hyper Kernel ออกสำรวจ"
+  },
+  "2400": {
+   "id": 2400,
+   "jump_type": 1,
+   "jump_param": [
+    500
+   ],
+   "show_name": "New Main Quest",
+   "show_name_th": "เควสหลักใหม่"
+  },
+  "2500": {
+   "id": 2500,
+   "jump_type": 0,
+   "jump_param": null,
+   "show_name": "Limited-time Event",
+   "show_name_th": "อีเวนต์ลิมิเต็ด"
+  },
+  "3000": {
+   "id": 3000,
+   "jump_type": 2,
+   "jump_param": [
+    6,
+    5,
+    4
+   ],
+   "show_name": "Shadowprint Craft",
+   "show_name_th": "คราฟต์ชาโดว์พรินต์"
+  },
+  "3001": {
+   "id": 3001,
+   "jump_type": 2,
+   "jump_param": [
+    11,
+    16
+   ],
+   "show_name": "Anima Ether Crystal Craft",
+   "show_name_th": "คราฟต์ Ether Crystal Anima"
+  },
+  "3002": {
+   "id": 3002,
+   "jump_type": 2,
+   "jump_param": [
+    12,
+    17
+   ],
+   "show_name": "Animus Ether Crystal Craft",
+   "show_name_th": "คราฟต์ Ether Crystal Animus"
+  },
+  "3003": {
+   "id": 3003,
+   "jump_type": 2,
+   "jump_param": [
+    13,
+    18
+   ],
+   "show_name": "Hollow Ether Crystal Craft",
+   "show_name_th": "คราฟต์ Ether Crystal Hollow"
+  },
+  "3004": {
+   "id": 3004,
+   "jump_type": 2,
+   "jump_param": [
+    14,
+    19
+   ],
+   "show_name": "Disorder Ether Crystal Craft",
+   "show_name_th": "คราฟต์ Ether Crystal Disorder"
+  },
+  "3005": {
+   "id": 3005,
+   "jump_type": 2,
+   "jump_param": [
+    15,
+    20
+   ],
+   "show_name": "Constant Ether Crystal Craft",
+   "show_name_th": "คราฟต์ Ether Crystal Constant"
+  },
+  "3006": {
+   "id": 3006,
+   "jump_type": 2,
+   "jump_param": [
+    21,
+    22
+   ],
+   "show_name": "Investigation Record Synthesis",
+   "show_name_th": "รวมบันทึกการตรวจสอบ"
+  },
+  "4001": {
+   "id": 4001,
+   "jump_type": 1,
+   "jump_param": [
+    61
+   ],
+   "show_name": "7-Day Commission",
+   "show_name_th": "ภารกิจ 7 วัน"
+  },
+  "4002": {
+   "id": 4002,
+   "jump_type": 1,
+   "jump_param": [
+    62
+   ],
+   "show_name": "Chaku-ring's Adventure",
+   "show_name_th": "การผจญภัยของ Chaku-ring"
+  },
+  "4003": {
+   "id": 4003,
+   "jump_type": 1,
+   "jump_param": [
+    63
+   ],
+   "show_name": "Music Party",
+   "show_name_th": "ปาร์ตี้ดนตรี"
+  },
+  "4004": {
+   "id": 4004,
+   "jump_type": 1,
+   "jump_param": [
+    64
+   ],
+   "show_name": "Bingo",
+   "show_name_th": "บิงโก"
+  },
+  "4005": {
+   "id": 4005,
+   "jump_type": 1,
+   "jump_param": [
+    114
+   ],
+   "show_name": "Dreamscape",
+   "show_name_th": "แดนฝัน"
+  },
+  "4100": {
+   "id": 4100,
+   "jump_type": 1,
+   "jump_param": [
+    116
+   ],
+   "show_name": "Awaken Ordeal",
+   "show_name_th": "Awaken Ordeal"
+  },
+  "5001": {
+   "id": 5001,
+   "jump_type": 1,
+   "jump_param": [
+    25,
+    53
+   ],
+   "show_name": "Return Path",
+   "show_name_th": "เส้นทางหวนกลับ"
+  },
+  "5002": {
+   "id": 5002,
+   "jump_type": 1,
+   "jump_param": [
+    25,
+    52
+   ],
+   "show_name": "Link Again",
+   "show_name_th": "ลิงก์อีกครั้ง"
+  },
+  "5003": {
+   "id": 5003,
+   "jump_type": 1,
+   "jump_param": [
+    25,
+    51
+   ],
+   "show_name": "Reunion Grace",
+   "show_name_th": "พรหวนคืน"
+  },
+  "5004": {
+   "id": 5004,
+   "jump_type": 1,
+   "jump_param": [
+    4,
+    600
+   ],
+   "show_name": "Reunion Letter",
+   "show_name_th": "จดหมายหวนคืน"
+  },
+  "5005": {
+   "id": 5005,
+   "jump_type": 1,
+   "jump_param": [
+    4,
+    601
+   ],
+   "show_name": "Reunion Letter",
+   "show_name_th": "จดหมายหวนคืน"
+  },
+  "5006": {
+   "id": 5006,
+   "jump_type": 0,
+   "jump_param": null,
+   "show_name": "Spectral Shop",
+   "show_name_th": "ร้านค้าวิญญาณ"
+  },
+  "5007": {
+   "id": 5007,
+   "jump_type": 0,
+   "jump_param": null,
+   "show_name": "Ginger Market",
+   "show_name_th": "ตลาด Gingerbread"
+  },
+  "5008": {
+   "id": 5008,
+   "jump_type": 0,
+   "jump_param": null,
+   "show_name": "Genesis Shop",
+   "show_name_th": "ร้านค้าปีใหม่"
+  },
+  "5009": {
+   "id": 5009,
+   "jump_type": 0,
+   "jump_param": null,
+   "show_name": "Genesis Voyage",
+   "show_name_th": "การเริ่มต้นผจญภัย"
+  },
+  "5010": {
+   "id": 5010,
+   "jump_type": 1,
+   "jump_param": [
+    4,
+    602
+   ],
+   "show_name": "Covenant Consonance",
+   "show_name_th": "คำเชิญนำโชค"
+  },
+  "5011": {
+   "id": 5011,
+   "jump_type": 0,
+   "jump_param": null,
+   "show_name": "Spring Days",
+   "show_name_th": "Spring Days"
+  },
+  "5012": {
+   "id": 5012,
+   "jump_type": 0,
+   "jump_param": null,
+   "show_name": "Honey Boutique",
+   "show_name_th": "Honey Boutique"
+  },
+  "5013": {
+   "id": 5013,
+   "jump_type": 1,
+   "jump_param": [
+    25,
+    611
+   ],
+   "show_name": "Returnee Catch-up Crate",
+   "show_name_th": "กล่องเสบียง Returnee Catch-up"
+  },
+  "5014": {
+   "id": 5014,
+   "jump_type": 1,
+   "jump_param": [
+    25,
+    617
+   ],
+   "show_name": "Pyrite Plunder",
+   "show_name_th": "Pyrite Plunder"
+  },
+  "5015": {
+   "id": 5015,
+   "jump_type": 1,
+   "jump_param": [
+    121
+   ],
+   "show_name": "The Heuristic Pit",
+   "show_name_th": "The Heuristic Pit"
+  },
+  "5016": {
+   "id": 5016,
+   "jump_type": 1,
+   "jump_param": [
+    25,
+    614
+   ],
+   "show_name": "Chrysus Codex",
+   "show_name_th": "Chrysus Codex"
+  },
+  "5017": {
+   "id": 5017,
+   "jump_type": 1,
+   "jump_param": [
+    25,
+    620
+   ],
+   "show_name": "Neon Blaze",
+   "show_name_th": "Neon Blaze"
+  },
+  "5018": {
+   "id": 5018,
+   "jump_type": 1,
+   "jump_param": [
+    25,
+    623
+   ],
+   "show_name": "Chrysus Night-Incursion",
+   "show_name_th": "Chrysus Night-Incursion"
+  },
+  "5019": {
+   "id": 5019,
+   "jump_type": 1,
+   "jump_param": [
+    25,
+    618
+   ],
+   "show_name": "Hyperlink Reboot Protocol",
+   "show_name_th": "Hyperlink Reboot Protocol"
+  },
+  "5020": {
+   "id": 5020,
+   "jump_type": 0,
+   "jump_param": null,
+   "show_name": "Pyrite Plunder",
+   "show_name_th": "Pyrite Plunder"
+  },
+  "5021": {
+   "id": 5021,
+   "jump_type": 0,
+   "jump_param": null,
+   "show_name": "Crimson Nocturne",
+   "show_name_th": "Crimson Nocturne"
+  },
+  "5022": {
+   "id": 5022,
+   "jump_type": 0,
+   "jump_param": null,
+   "show_name": "Stellar Conclave",
+   "show_name_th": "Stellar Conclave"
+  },
+  "5023": {
+   "id": 5023,
+   "jump_type": 0,
+   "jump_param": null,
+   "show_name": "Lunar Liturgy",
+   "show_name_th": "Lunar Liturgy"
+  },
+  "7101": {
+   "id": 7101,
+   "jump_type": 4,
+   "jump_param": [
+    31601
+   ],
+   "show_name": "Exclusive Lattice: Plume",
+   "show_name_th": "Exclusive Lattice: Plume"
+  },
+  "7102": {
+   "id": 7102,
+   "jump_type": 4,
+   "jump_param": [
+    31651
+   ],
+   "show_name": "Exclusive Lattice: Kokardi",
+   "show_name_th": "Exclusive Lattice: Kokardi"
+  },
+  "7103": {
+   "id": 7103,
+   "jump_type": 4,
+   "jump_param": [
+    31701
+   ],
+   "show_name": "Exclusive Lattice: Nevette",
+   "show_name_th": "Exclusive Lattice: Nevette"
+  },
+  "7104": {
+   "id": 7104,
+   "jump_type": 4,
+   "jump_param": [
+    31801
+   ],
+   "show_name": "Exclusive Lattice: Raymerry",
+   "show_name_th": "Exclusive Lattice: Raymerry"
+  },
+  "7105": {
+   "id": 7105,
+   "jump_type": 4,
+   "jump_param": [
+    31851
+   ],
+   "show_name": "Exclusive Lattice: Lowan",
+   "show_name_th": "Exclusive Lattice: Lowan"
+  },
+  "7106": {
+   "id": 7106,
+   "jump_type": 4,
+   "jump_param": [
+    31901
+   ],
+   "show_name": "Exclusive Lattice: Santik",
+   "show_name_th": "Exclusive Lattice: Santik"
+  },
+  "7107": {
+   "id": 7107,
+   "jump_type": 4,
+   "jump_param": [
+    31951
+   ],
+   "show_name": "Exclusive Lattice: Airon",
+   "show_name_th": "Exclusive Lattice: Airon"
+  },
+  "7108": {
+   "id": 7108,
+   "jump_type": 4,
+   "jump_param": [
+    32001
+   ],
+   "show_name": "Exclusive Lattice: Palin",
+   "show_name_th": "Exclusive Lattice: Palin"
+  },
+  "7109": {
+   "id": 7109,
+   "jump_type": 4,
+   "jump_param": [
+    32051
+   ],
+   "show_name": "Exclusive Lattice: Kethos",
+   "show_name_th": "Exclusive Lattice: Kethos"
+  },
+  "7110": {
+   "id": 7110,
+   "jump_type": 4,
+   "jump_param": [
+    40871
+   ],
+   "show_name": "Exclusive Lattice: Mizusumi Aya",
+   "show_name_th": "Exclusive Lattice: Mizusumi Aya"
+  },
+  "7111": {
+   "id": 7111,
+   "jump_type": 4,
+   "jump_param": [
+    32101
+   ],
+   "show_name": "Exclusive Lattice: Fiamelia",
+   "show_name_th": "Exclusive Lattice: Fiamelia"
+  },
+  "7112": {
+   "id": 7112,
+   "jump_type": 4,
+   "jump_param": [
+    40516
+   ],
+   "show_name": "Exclusive Lattice: The Lumiwarden Diting",
+   "show_name_th": "Exclusive Lattice: Lumiwarden Diting"
+  },
+  "7113": {
+   "id": 7113,
+   "jump_type": 4,
+   "jump_param": [
+    32151
+   ],
+   "show_name": "Exclusive Lattice: Luvia",
+   "show_name_th": "Exclusive Lattice: Luvia"
+  },
+  "7114": {
+   "id": 7114,
+   "jump_type": 4,
+   "jump_param": [
+    32201
+   ],
+   "show_name": "Exclusive Lattice: Gianc",
+   "show_name_th": "Exclusive Lattice: Gianc"
+  },
+  "7115": {
+   "id": 7115,
+   "jump_type": 4,
+   "jump_param": [
+    32251
+   ],
+   "show_name": "Exclusive Lattice: Xuan Li",
+   "show_name_th": "Exclusive Lattice: Xuan Li"
+  },
+  "7116": {
+   "id": 7116,
+   "jump_type": 4,
+   "jump_param": [
+    32301
+   ],
+   "show_name": "Exclusive Lattice: Bornova",
+   "show_name_th": "Exclusive Lattice: Bornova"
+  },
+  "7117": {
+   "id": 7117,
+   "jump_type": 4,
+   "jump_param": [
+    40901
+   ],
+   "show_name": "Exclusive Lattice: Senyu",
+   "show_name_th": "Exclusive Lattice: Senyu"
+  },
+  "7118": {
+   "id": 7118,
+   "jump_type": 4,
+   "jump_param": [
+    32351
+   ],
+   "show_name": "Exclusive Lattice: Asal",
+   "show_name_th": "Exclusive Lattice: Asal"
+  },
+  "7119": {
+   "id": 7119,
+   "jump_type": 4,
+   "jump_param": [
+    32401
+   ],
+   "show_name": "Exclusive Lattice: Qano",
+   "show_name_th": "Exclusive Lattice: Qano"
+  },
+  "7120": {
+   "id": 7120,
+   "jump_type": 4,
+   "jump_param": [
+    32451
+   ],
+   "show_name": "Exclusive Lattice: Xuan Chi",
+   "show_name_th": "Exclusive Lattice: Xuan Chi"
+  },
+  "7121": {
+   "id": 7121,
+   "jump_type": 4,
+   "jump_param": [
+    32501
+   ],
+   "show_name": "Exclusive Lattice: Sylvia",
+   "show_name_th": "Exclusive Lattice: Sylvia"
+  },
+  "7122": {
+   "id": 7122,
+   "jump_type": 4,
+   "jump_param": [
+    32551
+   ],
+   "show_name": "Exclusive Lattice: Nathenn",
+   "show_name_th": "Exclusive Lattice: Nathenn"
+  },
+  "7123": {
+   "id": 7123,
+   "jump_type": 4,
+   "jump_param": [
+    32601
+   ],
+   "show_name": "Exclusive Lattice: Areal",
+   "show_name_th": "Exclusive Lattice: Areal"
+  },
+  "7124": {
+   "id": 7124,
+   "jump_type": 4,
+   "jump_param": [
+    32651
+   ],
+   "show_name": "Exclusive Lattice: Sharon",
+   "show_name_th": "Exclusive Lattice: Sharon"
+  },
+  "7125": {
+   "id": 7125,
+   "jump_type": 4,
+   "jump_param": [
+    32701
+   ],
+   "show_name": "Exclusive Lattice: Piayera",
+   "show_name_th": "Exclusive Lattice: Piayera"
+  },
+  "7126": {
+   "id": 7126,
+   "jump_type": 4,
+   "jump_param": [
+    32751
+   ],
+   "show_name": "Exclusive Lattice: Danvery",
+   "show_name_th": "Exclusive Lattice: Danvery"
+  },
+  "7127": {
+   "id": 7127,
+   "jump_type": 4,
+   "jump_param": [
+    32801
+   ],
+   "show_name": "Exclusive Lattice: Oryes",
+   "show_name_th": "Exclusive Lattice: Oryes"
+  },
+  "7128": {
+   "id": 7128,
+   "jump_type": 4,
+   "jump_param": [
+    32851
+   ],
+   "show_name": "Exclusive Lattice: Sol Badguy",
+   "show_name_th": "Exclusive Lattice: Sol Badguy"
+  },
+  "7129": {
+   "id": 7129,
+   "jump_type": 4,
+   "jump_param": [
+    32901
+   ],
+   "show_name": "Exclusive Lattice: Queen Dizzy",
+   "show_name_th": "Exclusive Lattice: Queen Dizzy"
+  },
+  "7130": {
+   "id": 7130,
+   "jump_type": 4,
+   "jump_param": [
+    32951
+   ],
+   "show_name": "Exclusive Lattice: Jack-O'",
+   "show_name_th": "Exclusive Lattice: Jacko"
+  },
+  "7131": {
+   "id": 7131,
+   "jump_type": 4,
+   "jump_param": [
+    30401
+   ],
+   "show_name": "Exclusive Lattice: Lian",
+   "show_name_th": "Exclusive Lattice: Lian"
+  },
+  "7132": {
+   "id": 7132,
+   "jump_type": 4,
+   "jump_param": [
+    30451
+   ],
+   "show_name": "Exclusive Lattice: Kloss",
+   "show_name_th": "Exclusive Lattice: Kloss"
+  },
+  "7133": {
+   "id": 7133,
+   "jump_type": 4,
+   "jump_param": [
+    30751
+   ],
+   "show_name": "Exclusive Lattice: Lingluo",
+   "show_name_th": "Exclusive Lattice: Lingluo"
+  },
+  "7134": {
+   "id": 7134,
+   "jump_type": 4,
+   "jump_param": [
+    33001
+   ],
+   "show_name": "Exclusive Lattice: Thalos",
+   "show_name_th": "Exclusive Lattice: Thalos"
+  },
+  "7135": {
+   "id": 7135,
+   "jump_type": 4,
+   "jump_param": [
+    33051
+   ],
+   "show_name": "Exclusive Lattice: Shanlo",
+   "show_name_th": "Exclusive Lattice: Jolt"
+  },
+  "7136": {
+   "id": 7136,
+   "jump_type": 4,
+   "jump_param": [
+    33101
+   ],
+   "show_name": "Exclusive Lattice: Kynessa",
+   "show_name_th": "Exclusive Lattice: Kynessa"
+  },
+  "7137": {
+   "id": 7137,
+   "jump_type": 4,
+   "jump_param": [
+    33151
+   ],
+   "show_name": "Exclusive Lattice: Syen",
+   "show_name_th": "Exclusive Lattice: Syen"
+  },
+  "7138": {
+   "id": 7138,
+   "jump_type": 4,
+   "jump_param": [
+    33201
+   ],
+   "show_name": "Exclusive Lattice: Holveig",
+   "show_name_th": "Exclusive Lattice: Holveig"
+  },
+  "7139": {
+   "id": 7139,
+   "jump_type": 4,
+   "jump_param": [
+    33251
+   ],
+   "show_name": "Exclusive Lattice: Getsu Rin",
+   "show_name_th": "Exclusive Lattice: Getsu Rin"
+  },
+  "30653": {
+   "id": 30653,
+   "jump_type": 5,
+   "jump_param": [
+    30653
+   ],
+   "show_name": "Outfit Preview",
+   "show_name_th": "พรีวิวแฟชั่น"
+  },
+  "30503": {
+   "id": 30503,
+   "jump_type": 5,
+   "jump_param": [
+    30503
+   ],
+   "show_name": "Outfit Preview",
+   "show_name_th": "พรีวิวแฟชั่น"
+  },
+  "30953": {
+   "id": 30953,
+   "jump_type": 5,
+   "jump_param": [
+    30953
+   ],
+   "show_name": "Outfit Preview",
+   "show_name_th": "พรีวิวแฟชั่น"
+  },
+  "31603": {
+   "id": 31603,
+   "jump_type": 5,
+   "jump_param": [
+    31603
+   ],
+   "show_name": "Outfit Preview",
+   "show_name_th": "พรีวิวแฟชั่น"
+  },
+  "30753": {
+   "id": 30753,
+   "jump_type": 5,
+   "jump_param": [
+    30753
+   ],
+   "show_name": "Outfit Preview",
+   "show_name_th": "พรีวิวแฟชั่น"
+  },
+  "30153": {
+   "id": 30153,
+   "jump_type": 5,
+   "jump_param": [
+    30153
+   ],
+   "show_name": "Outfit Preview",
+   "show_name_th": "พรีวิวแฟชั่น"
+  },
+  "31853": {
+   "id": 31853,
+   "jump_type": 5,
+   "jump_param": [
+    31853
+   ],
+   "show_name": "Outfit Preview",
+   "show_name_th": "พรีวิวแฟชั่น"
+  },
+  "31803": {
+   "id": 31803,
+   "jump_type": 5,
+   "jump_param": [
+    31803
+   ],
+   "show_name": "Outfit Preview",
+   "show_name_th": "พรีวิวแฟชั่น"
+  },
+  "32103": {
+   "id": 32103,
+   "jump_type": 5,
+   "jump_param": [
+    32103
+   ],
+   "show_name": "Outfit Preview",
+   "show_name_th": "พรีวิวแฟชั่น"
+  },
+  "31804": {
+   "id": 31804,
+   "jump_type": 5,
+   "jump_param": [
+    31804
+   ],
+   "show_name": "Outfit Preview",
+   "show_name_th": "พรีวิวแฟชั่น"
+  },
+  "32653": {
+   "id": 32653,
+   "jump_type": 5,
+   "jump_param": [
+    32653
+   ],
+   "show_name": "Outfit Preview",
+   "show_name_th": "พรีวิวแฟชั่น"
+  }
+ },
+ "text_chunk": "00105_beab29a7e06650ef.json"
+}
