@@ -11,6 +11,7 @@
     "format:check": "prettier --check .",
     "format": "prettier --write .",
     "knip": "knip",
+    "build:etheria-data": "node scripts/build-etheria-data.mjs",
     "test": "vitest run --browser.headless",
     "test:watch": "vitest --browser.headless",
     "test:ui": "vitest --ui --browser.headless",

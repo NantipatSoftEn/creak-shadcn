@@ -1,0 +1,5262 @@
+[
+  {
+    "id": 30051,
+    "codeName": "DokiHero_Const",
+    "name": "DokiDoki",
+    "nameTh": "DokiDoki",
+    "title": "Truth Memetic",
+    "titleTh": "Truth Memetic",
+    "rarity": 5,
+    "attr": 5,
+    "star": 4,
+    "skillIds": [
+      3005101,
+      3005102,
+      3005103
+    ],
+    "cv": {
+      "ja": "ONISHI SAORI",
+      "zh": "Wangxiaotong"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 30251,
+          "name": "Lilith",
+          "nameTh": "Lilith"
+        },
+        {
+          "id": 30451,
+          "name": "Kloss",
+          "nameTh": "Kloss"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 13,
+          "name": "SPD",
+          "nameTh": "SPD",
+          "isRate": false
+        },
+        {
+          "id": 1,
+          "name": "HP",
+          "nameTh": "HP",
+          "isRate": false
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54211,
+          "name": "Scorpion Queen",
+          "nameTh": "Scorpion Queen"
+        }
+      ]
+    }
+  },
+  {
+    "id": 30101,
+    "codeName": "Helkid_Light",
+    "name": "Helkid",
+    "nameTh": "Helkid",
+    "title": "Scarlet Ironveil",
+    "titleTh": "Scarlet Ironveil",
+    "rarity": 5,
+    "attr": 1,
+    "star": 4,
+    "skillIds": [
+      3010101,
+      3010102,
+      3010103,
+      3010105
+    ],
+    "cv": {
+      "ja": "JUNICHI SUWABE",
+      "zh": "Lizhuoting"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 46161,
+          "name": "Turandot",
+          "nameTh": "Turandot"
+        },
+        {
+          "id": 40186,
+          "name": "Chiaki the Echo",
+          "nameTh": "Chiaki the Echo"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 5,
+          "name": "ATK",
+          "nameTh": "ATK",
+          "isRate": false
+        },
+        {
+          "id": 17,
+          "name": "CRIT Rate",
+          "nameTh": "CRIT Rate",
+          "isRate": true
+        },
+        {
+          "id": 13,
+          "name": "SPD",
+          "nameTh": "SPD",
+          "isRate": false
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54311,
+          "name": "Red Comet",
+          "nameTh": "Red Comet"
+        },
+        {
+          "id": 54121,
+          "name": "Phantom Cat",
+          "nameTh": "Phantom Cat"
+        }
+      ]
+    }
+  },
+  {
+    "id": 30151,
+    "codeName": "Messiah_Const",
+    "name": "Massiah",
+    "nameTh": "Massiah",
+    "title": "Blade of Verdict",
+    "titleTh": "Blade of Verdict",
+    "rarity": 5,
+    "attr": 5,
+    "star": 4,
+    "skillIds": [
+      3015101,
+      3015102,
+      3015103,
+      3015104,
+      3015108
+    ],
+    "cv": {
+      "ja": "DAIKI HAMANO",
+      "zh": "Liangdawei"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 30451,
+          "name": "Kloss",
+          "nameTh": "Kloss"
+        },
+        {
+          "id": 30701,
+          "name": "Beyontin",
+          "nameTh": "Beyontin"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 5,
+          "name": "ATK",
+          "nameTh": "ATK",
+          "isRate": false
+        },
+        {
+          "id": 17,
+          "name": "CRIT Rate",
+          "nameTh": "CRIT Rate",
+          "isRate": true
+        },
+        {
+          "id": 20,
+          "name": "CRIT DMG",
+          "nameTh": "CRIT DMG",
+          "isRate": true
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54311,
+          "name": "Red Comet",
+          "nameTh": "Red Comet"
+        },
+        {
+          "id": 54121,
+          "name": "Phantom Cat",
+          "nameTh": "Phantom Cat"
+        }
+      ]
+    }
+  },
+  {
+    "id": 30251,
+    "codeName": "Lilith_Hollow",
+    "name": "Lilith",
+    "nameTh": "Lilith",
+    "title": "Puppet Master",
+    "titleTh": "Puppet Master",
+    "rarity": 5,
+    "attr": 3,
+    "star": 4,
+    "skillIds": [
+      3025101,
+      3025102,
+      3025103
+    ],
+    "cv": {
+      "ja": "YUKA IGUCHI",
+      "zh": "Liuwen"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 40491,
+          "name": "Sania",
+          "nameTh": "Sania"
+        },
+        {
+          "id": 46121,
+          "name": "Kazami Kazuyo",
+          "nameTh": "Kazami Kazuyo"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 1,
+          "name": "HP",
+          "nameTh": "HP",
+          "isRate": false
+        },
+        {
+          "id": 23,
+          "name": "Effect ACC",
+          "nameTh": "Effect ACC",
+          "isRate": true
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54211,
+          "name": "Scorpion Queen",
+          "nameTh": "Scorpion Queen"
+        }
+      ]
+    }
+  },
+  {
+    "id": 30301,
+    "codeName": "TimeReaper_Disor",
+    "name": "Heinrich",
+    "nameTh": "Heinrich",
+    "title": "Godslayer Guns",
+    "titleTh": "Godslayer Guns",
+    "rarity": 5,
+    "attr": 4,
+    "star": 4,
+    "skillIds": [
+      3030101,
+      3030102,
+      3030103,
+      3030104
+    ],
+    "cv": {
+      "ja": "DAIKI HAMANO",
+      "zh": "Sunye"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 40601,
+          "name": "Gray",
+          "nameTh": "Gray"
+        },
+        {
+          "id": 40421,
+          "name": "Yang",
+          "nameTh": "Yang"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 23,
+          "name": "Effect ACC",
+          "nameTh": "Effect ACC",
+          "isRate": true
+        },
+        {
+          "id": 20,
+          "name": "CRIT DMG",
+          "nameTh": "CRIT DMG",
+          "isRate": true
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54311,
+          "name": "Red Comet",
+          "nameTh": "Red Comet"
+        },
+        {
+          "id": 54121,
+          "name": "Phantom Cat",
+          "nameTh": "Phantom Cat"
+        }
+      ]
+    }
+  },
+  {
+    "id": 30351,
+    "codeName": "NineTailedFox_Odd",
+    "name": "Xiada",
+    "nameTh": "Xiada",
+    "title": "Alluring Enchantress",
+    "titleTh": "Alluring Enchantress",
+    "rarity": 5,
+    "attr": 2,
+    "star": 4,
+    "skillIds": [
+      3035101,
+      3035102,
+      3035103,
+      3035104,
+      3035105
+    ],
+    "cv": {
+      "ja": "YUKANA",
+      "zh": "Shisi"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 40691,
+          "name": "Valerian",
+          "nameTh": "Valerian"
+        },
+        {
+          "id": 40186,
+          "name": "Chiaki the Echo",
+          "nameTh": "Chiaki the Echo"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 5,
+          "name": "ATK",
+          "nameTh": "ATK",
+          "isRate": false
+        },
+        {
+          "id": 17,
+          "name": "CRIT Rate",
+          "nameTh": "CRIT Rate",
+          "isRate": true
+        },
+        {
+          "id": 20,
+          "name": "CRIT DMG",
+          "nameTh": "CRIT DMG",
+          "isRate": true
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54311,
+          "name": "Red Comet",
+          "nameTh": "Red Comet"
+        },
+        {
+          "id": 54121,
+          "name": "Phantom Cat",
+          "nameTh": "Phantom Cat"
+        }
+      ]
+    }
+  },
+  {
+    "id": 30401,
+    "codeName": "Lian_Light",
+    "name": "Lian",
+    "nameTh": "Lian",
+    "title": "Flameborn Phoenix",
+    "titleTh": "Flameborn Phoenix",
+    "rarity": 5,
+    "attr": 1,
+    "star": 4,
+    "skillIds": [
+      3040101,
+      3040102,
+      3040103,
+      3040104
+    ],
+    "cv": {
+      "ja": "YUI ISHIKAWA",
+      "zh": "Jiangjingju"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 40691,
+          "name": "Valerian",
+          "nameTh": "Valerian"
+        },
+        {
+          "id": 30701,
+          "name": "Beyontin",
+          "nameTh": "Beyontin"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 5,
+          "name": "ATK",
+          "nameTh": "ATK",
+          "isRate": false
+        },
+        {
+          "id": 17,
+          "name": "CRIT Rate",
+          "nameTh": "CRIT Rate",
+          "isRate": true
+        },
+        {
+          "id": 20,
+          "name": "CRIT DMG",
+          "nameTh": "CRIT DMG",
+          "isRate": true
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54311,
+          "name": "Red Comet",
+          "nameTh": "Red Comet"
+        },
+        {
+          "id": 54121,
+          "name": "Phantom Cat",
+          "nameTh": "Phantom Cat"
+        }
+      ]
+    }
+  },
+  {
+    "id": 30451,
+    "codeName": "Kloss_Odd",
+    "name": "Kloss",
+    "nameTh": "Kloss",
+    "title": "Phantom Hacker",
+    "titleTh": "Phantom Hacker",
+    "rarity": 5,
+    "attr": 3,
+    "star": 4,
+    "skillIds": [
+      3045101,
+      3045102,
+      3045103
+    ],
+    "cv": {
+      "ja": "ASAMI SHIMODA",
+      "zh": "Liuwen"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 30301,
+          "name": "Heinrich",
+          "nameTh": "Heinrich"
+        },
+        {
+          "id": 46121,
+          "name": "Kazami Kazuyo",
+          "nameTh": "Kazami Kazuyo"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 13,
+          "name": "SPD",
+          "nameTh": "SPD",
+          "isRate": false
+        },
+        {
+          "id": 23,
+          "name": "Effect ACC",
+          "nameTh": "Effect ACC",
+          "isRate": true
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54211,
+          "name": "Scorpion Queen",
+          "nameTh": "Scorpion Queen"
+        }
+      ]
+    }
+  },
+  {
+    "id": 30501,
+    "codeName": "Tiamat_Hollow",
+    "name": "Tiamat",
+    "nameTh": "Tiamat",
+    "title": "Abyssal Nightmare",
+    "titleTh": "Abyssal Nightmare",
+    "rarity": 5,
+    "attr": 2,
+    "star": 4,
+    "skillIds": [
+      3050101,
+      3050102,
+      3050103,
+      3050104,
+      3050105,
+      3050106
+    ],
+    "cv": {
+      "ja": "TOA YUKINARI",
+      "zh": "Huangying"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 40491,
+          "name": "Sania",
+          "nameTh": "Sania"
+        },
+        {
+          "id": 40691,
+          "name": "Valerian",
+          "nameTh": "Valerian"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 1,
+          "name": "HP",
+          "nameTh": "HP",
+          "isRate": false
+        },
+        {
+          "id": 17,
+          "name": "CRIT Rate",
+          "nameTh": "CRIT Rate",
+          "isRate": true
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54211,
+          "name": "Scorpion Queen",
+          "nameTh": "Scorpion Queen"
+        }
+      ]
+    }
+  },
+  {
+    "id": 30601,
+    "codeName": "Ruho_Odd",
+    "name": "Rahu",
+    "nameTh": "Rahu",
+    "title": "Wily Revenant",
+    "titleTh": "Wily Revenant",
+    "rarity": 5,
+    "attr": 3,
+    "star": 4,
+    "skillIds": [
+      3060101,
+      3060102,
+      3060103,
+      3060104,
+      3060105,
+      3060106,
+      3060107
+    ],
+    "cv": {
+      "ja": "KOHSUKE TORIUMI",
+      "zh": "Liuyao"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 40451,
+          "name": "Rin",
+          "nameTh": "Rin"
+        },
+        {
+          "id": 40691,
+          "name": "Valerian",
+          "nameTh": "Valerian"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 9,
+          "name": "DEF",
+          "nameTh": "DEF",
+          "isRate": false
+        },
+        {
+          "id": 17,
+          "name": "CRIT Rate",
+          "nameTh": "CRIT Rate",
+          "isRate": true
+        },
+        {
+          "id": 20,
+          "name": "CRIT DMG",
+          "nameTh": "CRIT DMG",
+          "isRate": true
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54211,
+          "name": "Scorpion Queen",
+          "nameTh": "Scorpion Queen"
+        },
+        {
+          "id": 54121,
+          "name": "Phantom Cat",
+          "nameTh": "Phantom Cat"
+        }
+      ]
+    }
+  },
+  {
+    "id": 30651,
+    "codeName": "GhostMagic_Disor",
+    "name": "Lily",
+    "nameTh": "Lily",
+    "title": "Phantom Trickster",
+    "titleTh": "Phantom Trickster",
+    "rarity": 5,
+    "attr": 4,
+    "star": 4,
+    "skillIds": [
+      3065101,
+      3065102,
+      3065103
+    ],
+    "cv": {
+      "ja": "HIDAKA RINA",
+      "zh": "Miaozi"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 40661,
+          "name": "Viper",
+          "nameTh": "Viper"
+        },
+        {
+          "id": 40571,
+          "name": "Khloros",
+          "nameTh": "Khloros"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 13,
+          "name": "SPD",
+          "nameTh": "SPD",
+          "isRate": false
+        },
+        {
+          "id": 1,
+          "name": "HP",
+          "nameTh": "HP",
+          "isRate": false
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54211,
+          "name": "Scorpion Queen",
+          "nameTh": "Scorpion Queen"
+        }
+      ]
+    }
+  },
+  {
+    "id": 30701,
+    "codeName": "Beyontin_Light",
+    "name": "Beyontin",
+    "nameTh": "Beyontin",
+    "title": "Acheron Lycoris",
+    "titleTh": "Acheron Lycoris",
+    "rarity": 5,
+    "attr": 1,
+    "star": 4,
+    "skillIds": [
+      3070101,
+      3070102,
+      3070103
+    ],
+    "cv": {
+      "ja": "TAMURA YUKARI",
+      "zh": "Jiangli"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 30151,
+          "name": "Massiah",
+          "nameTh": "Massiah"
+        },
+        {
+          "id": 30401,
+          "name": "Lian",
+          "nameTh": "Lian"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 13,
+          "name": "SPD",
+          "nameTh": "SPD",
+          "isRate": false
+        },
+        {
+          "id": 1,
+          "name": "HP",
+          "nameTh": "HP",
+          "isRate": false
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54211,
+          "name": "Scorpion Queen",
+          "nameTh": "Scorpion Queen"
+        }
+      ]
+    }
+  },
+  {
+    "id": 30751,
+    "codeName": "Lingluo_Odd",
+    "name": "Lingluo",
+    "nameTh": "Lingluo",
+    "title": "Cantus Maris",
+    "titleTh": "Cantus Maris",
+    "rarity": 5,
+    "attr": 2,
+    "star": 4,
+    "skillIds": [
+      3075101,
+      3075102,
+      3075103,
+      3075104
+    ],
+    "cv": {
+      "ja": "ISHIHARA KAORI",
+      "zh": "Xieying"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 30501,
+          "name": "Tiamat",
+          "nameTh": "Tiamat"
+        },
+        {
+          "id": 40691,
+          "name": "Valerian",
+          "nameTh": "Valerian"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 13,
+          "name": "SPD",
+          "nameTh": "SPD",
+          "isRate": false
+        },
+        {
+          "id": 1,
+          "name": "HP",
+          "nameTh": "HP",
+          "isRate": false
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54211,
+          "name": "Scorpion Queen",
+          "nameTh": "Scorpion Queen"
+        },
+        {
+          "id": 54281,
+          "name": "Teacher Owl",
+          "nameTh": "Teacher Owl"
+        }
+      ]
+    }
+  },
+  {
+    "id": 30801,
+    "codeName": "Holden_Light",
+    "name": "Holden",
+    "nameTh": "Holden",
+    "title": "Banmoku Blade",
+    "titleTh": "All-Seeing Blade",
+    "rarity": 5,
+    "attr": 1,
+    "star": 4,
+    "skillIds": [
+      3080101,
+      3080102,
+      3080103,
+      3080104
+    ],
+    "cv": {
+      "ja": "CHIAKI KOBAYASHI",
+      "zh": "Zhongwei"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 30601,
+          "name": "Rahu",
+          "nameTh": "Rahu"
+        },
+        {
+          "id": 40451,
+          "name": "Rin",
+          "nameTh": "Rin"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 9,
+          "name": "DEF",
+          "nameTh": "DEF",
+          "isRate": false
+        },
+        {
+          "id": 17,
+          "name": "CRIT Rate",
+          "nameTh": "CRIT Rate",
+          "isRate": true
+        },
+        {
+          "id": 20,
+          "name": "CRIT DMG",
+          "nameTh": "CRIT DMG",
+          "isRate": true
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54211,
+          "name": "Scorpion Queen",
+          "nameTh": "Scorpion Queen"
+        },
+        {
+          "id": 54121,
+          "name": "Phantom Cat",
+          "nameTh": "Phantom Cat"
+        }
+      ]
+    }
+  },
+  {
+    "id": 30851,
+    "codeName": "Ninfoniel_Odd",
+    "name": "Ninfoniel",
+    "nameTh": "Ninfoniel",
+    "title": "Dual Mortgage",
+    "titleTh": "Double Loan",
+    "rarity": 5,
+    "attr": 2,
+    "star": 4,
+    "skillIds": [
+      3085101,
+      3085102,
+      3085103
+    ],
+    "cv": {
+      "ja": "SAYUMI SUZUSHIRO",
+      "zh": "Tangyajing"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 30151,
+          "name": "Massiah",
+          "nameTh": "Massiah"
+        },
+        {
+          "id": 31151,
+          "name": "Yeli",
+          "nameTh": "Yeli"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 13,
+          "name": "SPD",
+          "nameTh": "SPD",
+          "isRate": false
+        },
+        {
+          "id": 1,
+          "name": "HP",
+          "nameTh": "HP",
+          "isRate": false
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54211,
+          "name": "Scorpion Queen",
+          "nameTh": "Scorpion Queen"
+        }
+      ]
+    }
+  },
+  {
+    "id": 30901,
+    "codeName": "Veronika_Light",
+    "name": "Veronika",
+    "nameTh": "Veronika",
+    "title": "Crimson Duchess",
+    "titleTh": "Crimson Duchess",
+    "rarity": 5,
+    "attr": 1,
+    "star": 4,
+    "skillIds": [
+      3090101,
+      3090102,
+      3090103,
+      3090104
+    ],
+    "cv": {
+      "ja": "YAMAMOTO AI",
+      "zh": "Chenchaoqun"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 40491,
+          "name": "Sania",
+          "nameTh": "Sania"
+        },
+        {
+          "id": 30101,
+          "name": "Helkid",
+          "nameTh": "Helkid"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 13,
+          "name": "SPD",
+          "nameTh": "SPD",
+          "isRate": false
+        },
+        {
+          "id": 1,
+          "name": "HP",
+          "nameTh": "HP",
+          "isRate": false
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54211,
+          "name": "Scorpion Queen",
+          "nameTh": "Scorpion Queen"
+        }
+      ]
+    }
+  },
+  {
+    "id": 30951,
+    "codeName": "Liliam_Disor",
+    "name": "Liliam",
+    "nameTh": "Liliam",
+    "title": "Destroy Declaration",
+    "titleTh": "Declaration of Destruction",
+    "rarity": 5,
+    "attr": 4,
+    "star": 4,
+    "skillIds": [
+      3095101,
+      3095102,
+      3095103,
+      3095104
+    ],
+    "cv": {
+      "ja": "RIKA NAGAE",
+      "zh": "Shisi"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 30451,
+          "name": "Kloss",
+          "nameTh": "Kloss"
+        },
+        {
+          "id": 40631,
+          "name": "Dinah",
+          "nameTh": "Dinah"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 5,
+          "name": "ATK",
+          "nameTh": "ATK",
+          "isRate": false
+        },
+        {
+          "id": 17,
+          "name": "CRIT Rate",
+          "nameTh": "CRIT Rate",
+          "isRate": true
+        },
+        {
+          "id": 20,
+          "name": "CRIT DMG",
+          "nameTh": "CRIT DMG",
+          "isRate": true
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54311,
+          "name": "Red Comet",
+          "nameTh": "Red Comet"
+        },
+        {
+          "id": 54121,
+          "name": "Phantom Cat",
+          "nameTh": "Phantom Cat"
+        }
+      ]
+    }
+  },
+  {
+    "id": 31001,
+    "codeName": "Rilmocha_Hollow",
+    "name": "Rilmocha",
+    "nameTh": "Rilmocha",
+    "title": "Blast Belle",
+    "titleTh": "Blast Belle",
+    "rarity": 5,
+    "attr": 3,
+    "star": 4,
+    "skillIds": [
+      3100101,
+      3100102,
+      3100103,
+      3100104
+    ],
+    "cv": {
+      "ja": "MISAKI KUNO",
+      "zh": "Hualing"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 31201,
+          "name": "Tsukiyo Mi",
+          "nameTh": "Tsukiyo Mi"
+        },
+        {
+          "id": 40631,
+          "name": "Dinah",
+          "nameTh": "Dinah"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 5,
+          "name": "ATK",
+          "nameTh": "ATK",
+          "isRate": false
+        },
+        {
+          "id": 17,
+          "name": "CRIT Rate",
+          "nameTh": "CRIT Rate",
+          "isRate": true
+        },
+        {
+          "id": 20,
+          "name": "CRIT DMG",
+          "nameTh": "CRIT DMG",
+          "isRate": true
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54311,
+          "name": "Red Comet",
+          "nameTh": "Red Comet"
+        },
+        {
+          "id": 54121,
+          "name": "Phantom Cat",
+          "nameTh": "Phantom Cat"
+        }
+      ]
+    }
+  },
+  {
+    "id": 31051,
+    "codeName": "Celince_Hollow",
+    "name": "Celince",
+    "nameTh": "Celince",
+    "title": "Celestial Rain",
+    "titleTh": "Celestial Rain",
+    "rarity": 5,
+    "attr": 3,
+    "star": 4,
+    "skillIds": [
+      3105101,
+      3105102,
+      3105103,
+      3105104
+    ],
+    "cv": {
+      "ja": "AYANE SAKURA",
+      "zh": "Zhangkaixuan"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 30601,
+          "name": "Rahu",
+          "nameTh": "Rahu"
+        },
+        {
+          "id": 40451,
+          "name": "Rin",
+          "nameTh": "Rin"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 1,
+          "name": "HP",
+          "nameTh": "HP",
+          "isRate": false
+        },
+        {
+          "id": 13,
+          "name": "SPD",
+          "nameTh": "SPD",
+          "isRate": false
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54211,
+          "name": "Scorpion Queen",
+          "nameTh": "Scorpion Queen"
+        }
+      ]
+    }
+  },
+  {
+    "id": 31101,
+    "codeName": "Hoyan_Hollow",
+    "name": "Hoyan",
+    "nameTh": "Hoyan",
+    "title": "Hidden Hunting",
+    "titleTh": "Hidden Hunting",
+    "rarity": 5,
+    "attr": 3,
+    "star": 4,
+    "skillIds": [
+      3110101,
+      3110102,
+      3110103,
+      3110104,
+      3110105
+    ],
+    "cv": {
+      "ja": "WAKAYAMA SHION",
+      "zh": "kiyo"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 30701,
+          "name": "Beyontin",
+          "nameTh": "Beyontin"
+        },
+        {
+          "id": 30051,
+          "name": "DokiDoki",
+          "nameTh": "DokiDoki"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 5,
+          "name": "ATK",
+          "nameTh": "ATK",
+          "isRate": false
+        },
+        {
+          "id": 17,
+          "name": "CRIT Rate",
+          "nameTh": "CRIT Rate",
+          "isRate": true
+        },
+        {
+          "id": 20,
+          "name": "CRIT DMG",
+          "nameTh": "CRIT DMG",
+          "isRate": true
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54311,
+          "name": "Red Comet",
+          "nameTh": "Red Comet"
+        },
+        {
+          "id": 54121,
+          "name": "Phantom Cat",
+          "nameTh": "Phantom Cat"
+        }
+      ]
+    }
+  },
+  {
+    "id": 31151,
+    "codeName": "Yeli_Const",
+    "name": "Yeli",
+    "nameTh": "Yeli",
+    "title": "Eternal Night",
+    "titleTh": "Eternal Night",
+    "rarity": 5,
+    "attr": 5,
+    "star": 4,
+    "skillIds": [
+      3115101,
+      3115102,
+      3115103,
+      3115104
+    ],
+    "cv": {
+      "ja": "SAKURA KAORU",
+      "zh": "Miaojiang"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 30301,
+          "name": "Heinrich",
+          "nameTh": "Heinrich"
+        },
+        {
+          "id": 31301,
+          "name": "Rosa",
+          "nameTh": "Rosa"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 17,
+          "name": "CRIT Rate",
+          "nameTh": "CRIT Rate",
+          "isRate": true
+        },
+        {
+          "id": 5,
+          "name": "ATK",
+          "nameTh": "ATK",
+          "isRate": false
+        },
+        {
+          "id": 20,
+          "name": "CRIT DMG",
+          "nameTh": "CRIT DMG",
+          "isRate": true
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54311,
+          "name": "Red Comet",
+          "nameTh": "Red Comet"
+        },
+        {
+          "id": 54121,
+          "name": "Phantom Cat",
+          "nameTh": "Phantom Cat"
+        }
+      ]
+    }
+  },
+  {
+    "id": 31201,
+    "codeName": "TsukiyoMi_Odd",
+    "name": "Tsukiyo Mi",
+    "nameTh": "Tsukiyo Mi",
+    "title": "Queen Bee",
+    "titleTh": "Queen Bee",
+    "rarity": 5,
+    "attr": 2,
+    "star": 4,
+    "skillIds": [
+      3120101,
+      3120102,
+      3120103
+    ],
+    "cv": {
+      "ja": "ISOBE KARIN",
+      "zh": "Miaozi"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 30401,
+          "name": "Lian",
+          "nameTh": "Lian"
+        },
+        {
+          "id": 30101,
+          "name": "Helkid",
+          "nameTh": "Helkid"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 13,
+          "name": "SPD",
+          "nameTh": "SPD",
+          "isRate": false
+        },
+        {
+          "id": 1,
+          "name": "HP",
+          "nameTh": "HP",
+          "isRate": false
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54211,
+          "name": "Scorpion Queen",
+          "nameTh": "Scorpion Queen"
+        }
+      ]
+    }
+  },
+  {
+    "id": 31251,
+    "codeName": "Freya_Hollow",
+    "name": "Freya",
+    "nameTh": "Freya",
+    "title": "Oblivion Flame",
+    "titleTh": "Oblivion Flame",
+    "rarity": 5,
+    "attr": 3,
+    "star": 4,
+    "skillIds": [
+      3125101,
+      3125102,
+      3125103,
+      3125104
+    ],
+    "cv": {
+      "ja": "SATOMI SATO",
+      "zh": "Suwan"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 40691,
+          "name": "Valerian",
+          "nameTh": "Valerian"
+        },
+        {
+          "id": 31051,
+          "name": "Celince",
+          "nameTh": "Celince"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 13,
+          "name": "SPD",
+          "nameTh": "SPD",
+          "isRate": false
+        },
+        {
+          "id": 1,
+          "name": "HP",
+          "nameTh": "HP",
+          "isRate": false
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54211,
+          "name": "Scorpion Queen",
+          "nameTh": "Scorpion Queen"
+        }
+      ]
+    }
+  },
+  {
+    "id": 31301,
+    "codeName": "Rosa_Odd",
+    "name": "Rosa",
+    "nameTh": "Rosa",
+    "title": "Doom Blossom",
+    "titleTh": "Doom Blossom",
+    "rarity": 5,
+    "attr": 2,
+    "star": 4,
+    "skillIds": [
+      3130101,
+      3130102,
+      3130103
+    ],
+    "cv": {
+      "ja": "TANAKA RIE",
+      "zh": "Jiangjingju"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 30301,
+          "name": "Heinrich",
+          "nameTh": "Heinrich"
+        },
+        {
+          "id": 30651,
+          "name": "Lily",
+          "nameTh": "Lily"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 17,
+          "name": "CRIT Rate",
+          "nameTh": "CRIT Rate",
+          "isRate": true
+        },
+        {
+          "id": 5,
+          "name": "ATK",
+          "nameTh": "ATK",
+          "isRate": false
+        },
+        {
+          "id": 20,
+          "name": "CRIT DMG",
+          "nameTh": "CRIT DMG",
+          "isRate": true
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54311,
+          "name": "Red Comet",
+          "nameTh": "Red Comet"
+        },
+        {
+          "id": 54121,
+          "name": "Phantom Cat",
+          "nameTh": "Phantom Cat"
+        }
+      ]
+    }
+  },
+  {
+    "id": 31351,
+    "codeName": "Mia_Light",
+    "name": "Mia",
+    "nameTh": "Mia",
+    "title": "Spirit Water",
+    "titleTh": "Spirit Water",
+    "rarity": 5,
+    "attr": 1,
+    "star": 4,
+    "skillIds": [
+      3135101,
+      3135102,
+      3135103,
+      3135104
+    ],
+    "cv": {
+      "ja": "NAGANAWA MARIA",
+      "zh": "Liuxinni"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 31251,
+          "name": "Freya",
+          "nameTh": "Freya"
+        },
+        {
+          "id": 46306,
+          "name": "Cachi the Guard",
+          "nameTh": "Cachi the Guard"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 1,
+          "name": "HP",
+          "nameTh": "HP",
+          "isRate": false
+        },
+        {
+          "id": 13,
+          "name": "SPD",
+          "nameTh": "SPD",
+          "isRate": false
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54211,
+          "name": "Scorpion Queen",
+          "nameTh": "Scorpion Queen"
+        }
+      ]
+    }
+  },
+  {
+    "id": 31401,
+    "codeName": "Nahor_Odd",
+    "name": "Nahor",
+    "nameTh": "Nahor",
+    "title": "Order Judgment",
+    "titleTh": "Order Judgment",
+    "rarity": 5,
+    "attr": 2,
+    "star": 4,
+    "skillIds": [
+      3140101,
+      3140102,
+      3140103
+    ],
+    "cv": {
+      "ja": "KENTARO KUMAGAI",
+      "zh": "Yangboyu"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 30251,
+          "name": "Lilith",
+          "nameTh": "Lilith"
+        },
+        {
+          "id": 30051,
+          "name": "DokiDoki",
+          "nameTh": "DokiDoki"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 13,
+          "name": "SPD",
+          "nameTh": "SPD",
+          "isRate": false
+        },
+        {
+          "id": 23,
+          "name": "Effect ACC",
+          "nameTh": "Effect ACC",
+          "isRate": true
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54211,
+          "name": "Scorpion Queen",
+          "nameTh": "Scorpion Queen"
+        }
+      ]
+    }
+  },
+  {
+    "id": 31451,
+    "codeName": "Borgne_Odd",
+    "name": "Borgne",
+    "nameTh": "Borgne",
+    "title": "Nocturnal Prayer",
+    "titleTh": "Nocturnal Prayer",
+    "rarity": 5,
+    "attr": 2,
+    "star": 4,
+    "skillIds": [
+      3145101,
+      3145102,
+      3145103,
+      3145104,
+      3145105
+    ],
+    "cv": {
+      "ja": "KIJIMA RYUICHI",
+      "zh": "Lichunyin"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 40491,
+          "name": "Sania",
+          "nameTh": "Sania"
+        },
+        {
+          "id": 40186,
+          "name": "Chiaki the Echo",
+          "nameTh": "Chiaki the Echo"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 5,
+          "name": "ATK",
+          "nameTh": "ATK",
+          "isRate": false
+        },
+        {
+          "id": 13,
+          "name": "SPD",
+          "nameTh": "SPD",
+          "isRate": false
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54311,
+          "name": "Red Comet",
+          "nameTh": "Red Comet"
+        },
+        {
+          "id": 54121,
+          "name": "Phantom Cat",
+          "nameTh": "Phantom Cat"
+        }
+      ]
+    }
+  },
+  {
+    "id": 31501,
+    "codeName": "Fuqiu_Hollow",
+    "name": "Fuqiu",
+    "nameTh": "Fuqiu",
+    "title": "Elusive Grace",
+    "titleTh": "Elusive Grace",
+    "rarity": 5,
+    "attr": 3,
+    "star": 4,
+    "skillIds": [
+      3150101,
+      3150102,
+      3150103,
+      3150104
+    ],
+    "cv": {
+      "ja": "CHIKA ANZAI",
+      "zh": "Lichanfei"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 30501,
+          "name": "Tiamat",
+          "nameTh": "Tiamat"
+        },
+        {
+          "id": 40491,
+          "name": "Sania",
+          "nameTh": "Sania"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 1,
+          "name": "HP",
+          "nameTh": "HP",
+          "isRate": false
+        },
+        {
+          "id": 13,
+          "name": "SPD",
+          "nameTh": "SPD",
+          "isRate": false
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54211,
+          "name": "Scorpion Queen",
+          "nameTh": "Scorpion Queen"
+        }
+      ]
+    }
+  },
+  {
+    "id": 31551,
+    "codeName": "Mio_Light",
+    "name": "Mio",
+    "nameTh": "Mio",
+    "title": "Riddle Encyclopedia",
+    "titleTh": "Riddle Encyclopedia",
+    "rarity": 5,
+    "attr": 5,
+    "star": 4,
+    "skillIds": [
+      3155101,
+      3155102,
+      3155103,
+      3155104
+    ],
+    "cv": {
+      "ja": "YU SERIZAWA",
+      "zh": "Wukaili"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 40391,
+          "name": "Kraken",
+          "nameTh": "Kraken"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 13,
+          "name": "SPD",
+          "nameTh": "SPD",
+          "isRate": false
+        },
+        {
+          "id": 23,
+          "name": "Effect ACC",
+          "nameTh": "Effect ACC",
+          "isRate": true
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54211,
+          "name": "Scorpion Queen",
+          "nameTh": "Scorpion Queen"
+        }
+      ]
+    }
+  },
+  {
+    "id": 31601,
+    "codeName": "Plume_Hollow",
+    "name": "Plume",
+    "nameTh": "Plume",
+    "title": "Peacock Lady",
+    "titleTh": "Peacock Lady",
+    "rarity": 5,
+    "attr": 4,
+    "star": 4,
+    "skillIds": [
+      3160101,
+      3160102,
+      3160103,
+      3160104
+    ],
+    "cv": {
+      "ja": "IKUMI HASEGAWA",
+      "zh": "Yingxiaowu"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 31751,
+          "name": "Batsby",
+          "nameTh": "Batsby"
+        },
+        {
+          "id": 40811,
+          "name": "Nell",
+          "nameTh": "Nell"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 13,
+          "name": "SPD",
+          "nameTh": "SPD",
+          "isRate": false
+        },
+        {
+          "id": 23,
+          "name": "Effect ACC",
+          "nameTh": "Effect ACC",
+          "isRate": true
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54211,
+          "name": "Scorpion Queen",
+          "nameTh": "Scorpion Queen"
+        }
+      ]
+    }
+  },
+  {
+    "id": 31651,
+    "codeName": "Kirkcaldy_Light",
+    "name": "Kokardi",
+    "nameTh": "Kokardi",
+    "title": "Emberweave",
+    "titleTh": "Emberweave",
+    "rarity": 5,
+    "attr": 1,
+    "star": 4,
+    "skillIds": [
+      3165101,
+      3165102,
+      3165103,
+      3165104,
+      3165105,
+      3165107
+    ],
+    "cv": {
+      "ja": "KENT ITO",
+      "zh": "Yangchaoran"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 30651,
+          "name": "Lily",
+          "nameTh": "Lily"
+        },
+        {
+          "id": 40811,
+          "name": "Nell",
+          "nameTh": "Nell"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 5,
+          "name": "ATK",
+          "nameTh": "ATK",
+          "isRate": false
+        },
+        {
+          "id": 13,
+          "name": "SPD",
+          "nameTh": "SPD",
+          "isRate": false
+        },
+        {
+          "id": 17,
+          "name": "CRIT Rate",
+          "nameTh": "CRIT Rate",
+          "isRate": true
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54311,
+          "name": "Red Comet",
+          "nameTh": "Red Comet"
+        },
+        {
+          "id": 54121,
+          "name": "Phantom Cat",
+          "nameTh": "Phantom Cat"
+        }
+      ]
+    }
+  },
+  {
+    "id": 31701,
+    "codeName": "Nevitel_Odd",
+    "name": "Nevette",
+    "nameTh": "Nevette",
+    "title": "The Lament",
+    "titleTh": "เสียงคร่ำครวญ",
+    "rarity": 5,
+    "attr": 3,
+    "star": 4,
+    "skillIds": [
+      3170101,
+      3170102,
+      3170103,
+      3170104,
+      3170105,
+      3170106
+    ],
+    "cv": {
+      "ja": "YURINA AMAMI",
+      "zh": "Chenyang"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 40781,
+          "name": "Hizuki Mari",
+          "nameTh": "Hizuki Mari"
+        },
+        {
+          "id": 46126,
+          "name": "Kazuyo the Reverie",
+          "nameTh": "Kazuyo the Reverie"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 1,
+          "name": "HP",
+          "nameTh": "HP",
+          "isRate": false
+        },
+        {
+          "id": 13,
+          "name": "SPD",
+          "nameTh": "SPD",
+          "isRate": false
+        },
+        {
+          "id": 23,
+          "name": "Effect ACC",
+          "nameTh": "Effect ACC",
+          "isRate": true
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54311,
+          "name": "Red Comet",
+          "nameTh": "Red Comet"
+        },
+        {
+          "id": 54121,
+          "name": "Phantom Cat",
+          "nameTh": "Phantom Cat"
+        }
+      ]
+    }
+  },
+  {
+    "id": 31751,
+    "codeName": "Batsby_Odd",
+    "name": "Batsby",
+    "nameTh": "Batsby",
+    "title": "Tidal Waves",
+    "titleTh": "Tidal Waves",
+    "rarity": 5,
+    "attr": 2,
+    "star": 4,
+    "skillIds": [
+      3175101,
+      3175102,
+      3175103,
+      3175104
+    ],
+    "cv": {
+      "ja": "YUKI SAKAKIHARA",
+      "zh": "Chenxiyue"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 30451,
+          "name": "Kloss",
+          "nameTh": "Kloss"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 5,
+          "name": "ATK",
+          "nameTh": "ATK",
+          "isRate": false
+        },
+        {
+          "id": 17,
+          "name": "CRIT Rate",
+          "nameTh": "CRIT Rate",
+          "isRate": true
+        },
+        {
+          "id": 20,
+          "name": "CRIT DMG",
+          "nameTh": "CRIT DMG",
+          "isRate": true
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54311,
+          "name": "Red Comet",
+          "nameTh": "Red Comet"
+        },
+        {
+          "id": 54121,
+          "name": "Phantom Cat",
+          "nameTh": "Phantom Cat"
+        }
+      ]
+    }
+  },
+  {
+    "id": 31801,
+    "codeName": "Raymerry_Disor",
+    "name": "Raymerry",
+    "nameTh": "Raymerry",
+    "title": "Absolution",
+    "titleTh": "Absolution",
+    "rarity": 5,
+    "attr": 5,
+    "star": 4,
+    "skillIds": [
+      3180101,
+      3180102,
+      3180103,
+      3180104,
+      3180105,
+      3180106,
+      3180107
+    ],
+    "cv": {
+      "ja": "MINAMI TANAKA",
+      "zh": "Chongchong"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 30651,
+          "name": "Lily",
+          "nameTh": "Lily"
+        },
+        {
+          "id": 40491,
+          "name": "Sania",
+          "nameTh": "Sania"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 1,
+          "name": "HP",
+          "nameTh": "HP",
+          "isRate": false
+        },
+        {
+          "id": 17,
+          "name": "CRIT Rate",
+          "nameTh": "CRIT Rate",
+          "isRate": true
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54211,
+          "name": "Scorpion Queen",
+          "nameTh": "Scorpion Queen"
+        }
+      ]
+    }
+  },
+  {
+    "id": 31851,
+    "codeName": "Ruwoon_Hollow",
+    "name": "Lowan",
+    "nameTh": "Lowan",
+    "title": "Eclipse Hunter",
+    "titleTh": "Eclipse Hunter",
+    "rarity": 5,
+    "attr": 4,
+    "star": 4,
+    "skillIds": [
+      3185101,
+      3185102,
+      3185103
+    ],
+    "cv": {
+      "ja": "",
+      "zh": ""
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 30601,
+          "name": "Rahu",
+          "nameTh": "Rahu"
+        },
+        {
+          "id": 40841,
+          "name": "Sylph",
+          "nameTh": "Sylph"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 9,
+          "name": "DEF",
+          "nameTh": "DEF",
+          "isRate": false
+        },
+        {
+          "id": 17,
+          "name": "CRIT Rate",
+          "nameTh": "CRIT Rate",
+          "isRate": true
+        },
+        {
+          "id": 20,
+          "name": "CRIT DMG",
+          "nameTh": "CRIT DMG",
+          "isRate": true
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54211,
+          "name": "Scorpion Queen",
+          "nameTh": "Scorpion Queen"
+        },
+        {
+          "id": 54121,
+          "name": "Phantom Cat",
+          "nameTh": "Phantom Cat"
+        }
+      ]
+    }
+  },
+  {
+    "id": 31901,
+    "codeName": "SunTyke_Light",
+    "name": "Santik",
+    "nameTh": "Santik",
+    "title": "Rocking Phantom",
+    "titleTh": "Rocking Phantom",
+    "rarity": 5,
+    "attr": 1,
+    "star": 4,
+    "skillIds": [
+      3190101,
+      3190102,
+      3190103,
+      3190104
+    ],
+    "cv": {
+      "ja": "",
+      "zh": ""
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 31801,
+          "name": "Raymerry",
+          "nameTh": "Raymerry"
+        },
+        {
+          "id": 40511,
+          "name": "Diting",
+          "nameTh": "Diting"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 13,
+          "name": "SPD",
+          "nameTh": "SPD",
+          "isRate": false
+        },
+        {
+          "id": 1,
+          "name": "HP",
+          "nameTh": "HP",
+          "isRate": false
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54211,
+          "name": "Scorpion Queen",
+          "nameTh": "Scorpion Queen"
+        }
+      ]
+    }
+  },
+  {
+    "id": 31951,
+    "codeName": "Airon_Odd",
+    "name": "Airon",
+    "nameTh": "Aeroan",
+    "title": "Lionheart",
+    "titleTh": "Lionheart",
+    "rarity": 5,
+    "attr": 1,
+    "star": 4,
+    "skillIds": [
+      3195101,
+      3195102,
+      3195103,
+      3195104,
+      3195105
+    ],
+    "cv": {
+      "ja": "",
+      "zh": ""
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 30351,
+          "name": "Xiada",
+          "nameTh": "Xiada"
+        },
+        {
+          "id": 31101,
+          "name": "Hoyan",
+          "nameTh": "Hoyan"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 13,
+          "name": "SPD",
+          "nameTh": "SPD",
+          "isRate": false
+        },
+        {
+          "id": 1,
+          "name": "HP",
+          "nameTh": "HP",
+          "isRate": false
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54211,
+          "name": "Scorpion Queen",
+          "nameTh": "Scorpion Queen"
+        }
+      ]
+    }
+  },
+  {
+    "id": 32001,
+    "codeName": "Pyxis_Const",
+    "name": "Palin",
+    "nameTh": "Palin",
+    "title": "Vitachime",
+    "titleTh": "Vitachime",
+    "rarity": 5,
+    "attr": 2,
+    "star": 4,
+    "skillIds": [
+      3200101,
+      3200102,
+      3200103,
+      3200104
+    ],
+    "cv": {
+      "ja": "",
+      "zh": ""
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 30801,
+          "name": "Holden",
+          "nameTh": "Holden"
+        },
+        {
+          "id": 40751,
+          "name": "Mizuki Makoto",
+          "nameTh": "Mizuki Makoto"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 13,
+          "name": "SPD",
+          "nameTh": "SPD",
+          "isRate": false
+        },
+        {
+          "id": 1,
+          "name": "HP",
+          "nameTh": "HP",
+          "isRate": false
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54211,
+          "name": "Scorpion Queen",
+          "nameTh": "Scorpion Queen"
+        }
+      ]
+    }
+  },
+  {
+    "id": 32051,
+    "codeName": "Kethos_Odd",
+    "name": "Kethos",
+    "nameTh": "Kethos",
+    "title": "Necro Flourish",
+    "titleTh": "Necro Flourish",
+    "rarity": 5,
+    "attr": 1,
+    "star": 4,
+    "skillIds": [
+      3205101,
+      3205102,
+      3205103,
+      3205104,
+      3205105,
+      3205106
+    ],
+    "cv": {
+      "ja": "",
+      "zh": ""
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 40491,
+          "name": "Sania",
+          "nameTh": "Sania"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 1,
+          "name": "HP",
+          "nameTh": "HP",
+          "isRate": false
+        },
+        {
+          "id": 17,
+          "name": "CRIT Rate",
+          "nameTh": "CRIT Rate",
+          "isRate": true
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54211,
+          "name": "Scorpion Queen",
+          "nameTh": "Scorpion Queen"
+        }
+      ]
+    }
+  },
+  {
+    "id": 32401,
+    "codeName": "Kylor_Odd",
+    "name": "Qano",
+    "nameTh": "Qano",
+    "title": "The Velocity",
+    "titleTh": "The Velocity",
+    "rarity": 5,
+    "attr": 2,
+    "star": 4,
+    "skillIds": [
+      3240101,
+      3240102,
+      3240103,
+      3240104,
+      3240105
+    ],
+    "cv": {
+      "ja": "",
+      "zh": ""
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 30651,
+          "name": "Lily",
+          "nameTh": "Lily"
+        },
+        {
+          "id": 30701,
+          "name": "Beyontin",
+          "nameTh": "Beyontin"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 5,
+          "name": "ATK",
+          "nameTh": "ATK",
+          "isRate": false
+        },
+        {
+          "id": 17,
+          "name": "CRIT Rate",
+          "nameTh": "CRIT Rate",
+          "isRate": true
+        },
+        {
+          "id": 20,
+          "name": "CRIT DMG",
+          "nameTh": "CRIT DMG",
+          "isRate": true
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54311,
+          "name": "Red Comet",
+          "nameTh": "Red Comet"
+        },
+        {
+          "id": 54121,
+          "name": "Phantom Cat",
+          "nameTh": "Phantom Cat"
+        }
+      ]
+    }
+  },
+  {
+    "id": 32451,
+    "codeName": "Xuanqi_Const",
+    "name": "Xuan Chi",
+    "nameTh": "Xuan Chi",
+    "title": "The Chasm",
+    "titleTh": "ห้วงลึก",
+    "rarity": 5,
+    "attr": 5,
+    "star": 4,
+    "skillIds": [
+      3245101,
+      3245102,
+      3245103,
+      3245104,
+      3245105
+    ],
+    "cv": {
+      "ja": "",
+      "zh": ""
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 30601,
+          "name": "Rahu",
+          "nameTh": "Rahu"
+        },
+        {
+          "id": 40841,
+          "name": "Sylph",
+          "nameTh": "Sylph"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 9,
+          "name": "DEF",
+          "nameTh": "DEF",
+          "isRate": false
+        },
+        {
+          "id": 17,
+          "name": "CRIT Rate",
+          "nameTh": "CRIT Rate",
+          "isRate": true
+        },
+        {
+          "id": 20,
+          "name": "CRIT DMG",
+          "nameTh": "CRIT DMG",
+          "isRate": true
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54211,
+          "name": "Scorpion Queen",
+          "nameTh": "Scorpion Queen"
+        },
+        {
+          "id": 54121,
+          "name": "Phantom Cat",
+          "nameTh": "Phantom Cat"
+        }
+      ]
+    }
+  },
+  {
+    "id": 32551,
+    "codeName": "Nagalan_Hollow",
+    "name": "Nathenn",
+    "nameTh": "Nathenn",
+    "title": "Vox Caeli",
+    "titleTh": "Vox Caeli",
+    "rarity": 5,
+    "attr": 3,
+    "star": 4,
+    "skillIds": [
+      3255101,
+      3255102,
+      3255103,
+      3255104,
+      3255105
+    ],
+    "cv": {
+      "ja": "",
+      "zh": ""
+    },
+    "recommendation": null
+  },
+  {
+    "id": 32651,
+    "codeName": "SharonHero_Disor",
+    "name": "Sharon",
+    "nameTh": "Sharon",
+    "title": "Soul Anthem",
+    "titleTh": "Soul Anthem",
+    "rarity": 5,
+    "attr": 4,
+    "star": 4,
+    "skillIds": [
+      3265101,
+      3265102,
+      3265103,
+      3265107,
+      3265108
+    ],
+    "cv": {
+      "ja": "",
+      "zh": ""
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 46061,
+          "name": "Obol",
+          "nameTh": "Obol"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 23,
+          "name": "Effect ACC",
+          "nameTh": "Effect ACC",
+          "isRate": true
+        },
+        {
+          "id": 13,
+          "name": "SPD",
+          "nameTh": "SPD",
+          "isRate": false
+        },
+        {
+          "id": 1,
+          "name": "HP",
+          "nameTh": "HP",
+          "isRate": false
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54211,
+          "name": "Scorpion Queen",
+          "nameTh": "Scorpion Queen"
+        }
+      ]
+    }
+  },
+  {
+    "id": 32751,
+    "codeName": "Danvery_Odd",
+    "name": "Danvery",
+    "nameTh": "Danvery",
+    "title": "Heart Seeker",
+    "titleTh": "ผู้เสาะหาหัวใจ",
+    "rarity": 5,
+    "attr": 2,
+    "star": 4,
+    "skillIds": [
+      3275101,
+      3275102,
+      3275103
+    ],
+    "cv": {
+      "ja": "",
+      "zh": ""
+    },
+    "recommendation": null
+  },
+  {
+    "id": 32801,
+    "codeName": "Orias_Disor",
+    "name": "Oryes",
+    "nameTh": "Oryes",
+    "title": "Decamnocte",
+    "titleTh": "Decamnocte",
+    "rarity": 5,
+    "attr": 3,
+    "star": 4,
+    "skillIds": [
+      3280101,
+      3280102,
+      3280103,
+      3280104
+    ],
+    "cv": {
+      "ja": "",
+      "zh": ""
+    },
+    "recommendation": null
+  },
+  {
+    "id": 32851,
+    "codeName": "Sol_Light",
+    "name": "Sol Badguy",
+    "nameTh": "Sol Badguy",
+    "title": "G.U.E.S.T.",
+    "titleTh": "G.U.E.S.T.",
+    "rarity": 5,
+    "attr": 1,
+    "star": 4,
+    "skillIds": [
+      3285101,
+      3285102,
+      3285103,
+      3285104,
+      3285105,
+      3285106,
+      3285107
+    ],
+    "cv": {
+      "ja": "",
+      "zh": ""
+    },
+    "recommendation": null
+  },
+  {
+    "id": 32901,
+    "codeName": "Dizzy_Disor",
+    "name": "Queen Dizzy",
+    "nameTh": "Queen Dizzy",
+    "title": "G.U.E.S.T.",
+    "titleTh": "G.U.E.S.T.",
+    "rarity": 5,
+    "attr": 4,
+    "star": 4,
+    "skillIds": [
+      3290101,
+      3290102,
+      3290103,
+      3290104
+    ],
+    "cv": {
+      "ja": "",
+      "zh": ""
+    },
+    "recommendation": null
+  },
+  {
+    "id": 32951,
+    "codeName": "JackO_Hollow",
+    "name": "Jack-O'",
+    "nameTh": "Jacko",
+    "title": "G.U.E.S.T.",
+    "titleTh": "G.U.E.S.T.",
+    "rarity": 5,
+    "attr": 3,
+    "star": 4,
+    "skillIds": [
+      3295101,
+      3295102,
+      3295103
+    ],
+    "cv": {
+      "ja": "",
+      "zh": ""
+    },
+    "recommendation": null
+  },
+  {
+    "id": 33101,
+    "codeName": "Quinos_Const",
+    "name": "Kynessa",
+    "nameTh": "Kynessa",
+    "title": "Gnostic",
+    "titleTh": "Gnostic",
+    "rarity": 5,
+    "attr": 4,
+    "star": 4,
+    "skillIds": [
+      3310101,
+      3310102,
+      3310103,
+      3310104,
+      3310105,
+      3310106,
+      3310107,
+      3310108
+    ],
+    "cv": {
+      "ja": "",
+      "zh": ""
+    },
+    "recommendation": null
+  },
+  {
+    "id": 33151,
+    "codeName": "Shiyan_Disor",
+    "name": "Syen",
+    "nameTh": "Syen",
+    "title": "Phosphor Tigris",
+    "titleTh": "Phosphor Tigris",
+    "rarity": 5,
+    "attr": 1,
+    "star": 4,
+    "skillIds": [
+      3315101,
+      3315102,
+      3315103,
+      3315104,
+      3315105,
+      3315107
+    ],
+    "cv": {
+      "ja": "",
+      "zh": ""
+    },
+    "recommendation": null
+  },
+  {
+    "id": 33201,
+    "codeName": "Horvia_Light",
+    "name": "Holveig",
+    "nameTh": "Holveig",
+    "title": "To be added",
+    "titleTh": "รอเพิ่ม",
+    "rarity": 5,
+    "attr": 4,
+    "star": 4,
+    "skillIds": [
+      3320101,
+      3320102,
+      3320103
+    ],
+    "cv": null,
+    "recommendation": null
+  },
+  {
+    "id": 33251,
+    "codeName": "Yuelin_Const",
+    "name": "Getsu Rin",
+    "nameTh": "Getsu Rin",
+    "title": "To be added",
+    "titleTh": "รอเพิ่ม",
+    "rarity": 5,
+    "attr": 4,
+    "star": 4,
+    "skillIds": [
+      3325101,
+      3325102,
+      3325103
+    ],
+    "cv": null,
+    "recommendation": null
+  },
+  {
+    "id": 33301,
+    "codeName": "Angelos_Odd",
+    "name": "Anzero",
+    "nameTh": "Anzero",
+    "title": "To be added",
+    "titleTh": "รอเพิ่ม",
+    "rarity": 5,
+    "attr": 2,
+    "star": 4,
+    "skillIds": [
+      3330101,
+      3330102,
+      3330103
+    ],
+    "cv": null,
+    "recommendation": null
+  },
+  {
+    "id": 40481,
+    "codeName": "Shanya_Disor",
+    "name": "Shadow Sania",
+    "nameTh": "Withered Shadow Sania",
+    "title": "Vengeful Thorn",
+    "titleTh": "Vengeful Thorn",
+    "rarity": 5,
+    "attr": 4,
+    "star": 4,
+    "skillIds": [
+      4048101,
+      4048102,
+      4048103,
+      4048104
+    ],
+    "cv": {
+      "ja": "NORIKO SHITAYA",
+      "zh": "Xiaosibai"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 46061,
+          "name": "Obol",
+          "nameTh": "Obol"
+        },
+        {
+          "id": 46241,
+          "name": "Fangus",
+          "nameTh": "Fangus"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 23,
+          "name": "Effect ACC",
+          "nameTh": "Effect ACC",
+          "isRate": true
+        },
+        {
+          "id": 13,
+          "name": "SPD",
+          "nameTh": "SPD",
+          "isRate": false
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54211,
+          "name": "Scorpion Queen",
+          "nameTh": "Scorpion Queen"
+        }
+      ]
+    }
+  },
+  {
+    "id": 40516,
+    "codeName": "ShadowHunter_Const",
+    "name": "The Lumiwarden Diting",
+    "nameTh": "The Lumiwarden Diting",
+    "title": "Gleam Hunter",
+    "titleTh": "Gleam Hunter",
+    "rarity": 5,
+    "attr": 1,
+    "star": 4,
+    "skillIds": [
+      4051601,
+      4051602,
+      4051603,
+      4051604,
+      4051605
+    ],
+    "cv": {
+      "ja": "YUUICHIROU UMEHARA",
+      "zh": "Suyi"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 40841,
+          "name": "Sylph",
+          "nameTh": "Sylph"
+        },
+        {
+          "id": 30601,
+          "name": "Rahu",
+          "nameTh": "Rahu"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 9,
+          "name": "DEF",
+          "nameTh": "DEF",
+          "isRate": false
+        },
+        {
+          "id": 13,
+          "name": "SPD",
+          "nameTh": "SPD",
+          "isRate": false
+        },
+        {
+          "id": 23,
+          "name": "Effect ACC",
+          "nameTh": "Effect ACC",
+          "isRate": true
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54211,
+          "name": "Scorpion Queen",
+          "nameTh": "Scorpion Queen"
+        }
+      ]
+    }
+  },
+  {
+    "id": 40571,
+    "codeName": "Khloros_Hollow",
+    "name": "Khloros",
+    "nameTh": "Khloros",
+    "title": "Grim Penalty",
+    "titleTh": "Grim Penalty",
+    "rarity": 5,
+    "attr": 1,
+    "star": 4,
+    "skillIds": [
+      4057101,
+      4057102,
+      4057103,
+      4057104,
+      4057105,
+      4057106
+    ],
+    "cv": {
+      "ja": "UCHIYAMA KOKI",
+      "zh": "Suyi"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 30651,
+          "name": "Lily",
+          "nameTh": "Lily"
+        },
+        {
+          "id": 30301,
+          "name": "Heinrich",
+          "nameTh": "Heinrich"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 5,
+          "name": "ATK",
+          "nameTh": "ATK",
+          "isRate": false
+        },
+        {
+          "id": 17,
+          "name": "CRIT Rate",
+          "nameTh": "CRIT Rate",
+          "isRate": true
+        },
+        {
+          "id": 20,
+          "name": "CRIT DMG",
+          "nameTh": "CRIT DMG",
+          "isRate": true
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54311,
+          "name": "Red Comet",
+          "nameTh": "Red Comet"
+        },
+        {
+          "id": 54121,
+          "name": "Phantom Cat",
+          "nameTh": "Phantom Cat"
+        }
+      ]
+    }
+  },
+  {
+    "id": 40901,
+    "codeName": "Qianyu_Const",
+    "name": "Senyu",
+    "nameTh": "Senyu",
+    "title": "Dawn Flare",
+    "titleTh": "Dawn Flare",
+    "rarity": 5,
+    "attr": 1,
+    "star": 4,
+    "skillIds": [
+      4090101,
+      4090102,
+      4090103
+    ],
+    "cv": {
+      "ja": "",
+      "zh": ""
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 31251,
+          "name": "Freya",
+          "nameTh": "Freya"
+        },
+        {
+          "id": 30051,
+          "name": "DokiDoki",
+          "nameTh": "DokiDoki"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 13,
+          "name": "SPD",
+          "nameTh": "SPD",
+          "isRate": false
+        },
+        {
+          "id": 17,
+          "name": "CRIT Rate",
+          "nameTh": "CRIT Rate",
+          "isRate": true
+        },
+        {
+          "id": 20,
+          "name": "CRIT DMG",
+          "nameTh": "CRIT DMG",
+          "isRate": true
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54211,
+          "name": "Scorpion Queen",
+          "nameTh": "Scorpion Queen"
+        },
+        {
+          "id": 54281,
+          "name": "Teacher Owl",
+          "nameTh": "Teacher Owl"
+        }
+      ]
+    }
+  },
+  {
+    "id": 30201,
+    "codeName": "Oboro_Odd",
+    "name": "Oboro",
+    "nameTh": "Oboro",
+    "title": "Phantom Edge",
+    "titleTh": "Phantom Edge",
+    "rarity": 4,
+    "attr": 2,
+    "star": 3,
+    "skillIds": [
+      3020101,
+      3020102,
+      3020103,
+      3020104
+    ],
+    "cv": {
+      "ja": "MARINA INOUE",
+      "zh": "Pandanni"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 46161,
+          "name": "Turandot",
+          "nameTh": "Turandot"
+        },
+        {
+          "id": 40186,
+          "name": "Chiaki the Echo",
+          "nameTh": "Chiaki the Echo"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 13,
+          "name": "SPD",
+          "nameTh": "SPD",
+          "isRate": false
+        },
+        {
+          "id": 5,
+          "name": "ATK",
+          "nameTh": "ATK",
+          "isRate": false
+        },
+        {
+          "id": 17,
+          "name": "CRIT Rate",
+          "nameTh": "CRIT Rate",
+          "isRate": true
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54311,
+          "name": "Red Comet",
+          "nameTh": "Red Comet"
+        },
+        {
+          "id": 54121,
+          "name": "Phantom Cat",
+          "nameTh": "Phantom Cat"
+        }
+      ]
+    }
+  },
+  {
+    "id": 40127,
+    "codeName": "CorpseCol_Disor",
+    "name": "Victor",
+    "nameTh": "Victor",
+    "title": "Necro Miner",
+    "titleTh": "Necro Miner",
+    "rarity": 4,
+    "attr": 4,
+    "star": 3,
+    "skillIds": [
+      4012701,
+      4012702,
+      4012703
+    ],
+    "cv": {
+      "ja": "KIKUCHI MICHITAKE",
+      "zh": "Mengxianglong"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 30101,
+          "name": "Helkid",
+          "nameTh": "Helkid"
+        },
+        {
+          "id": 40451,
+          "name": "Rin",
+          "nameTh": "Rin"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 5,
+          "name": "ATK",
+          "nameTh": "ATK",
+          "isRate": false
+        },
+        {
+          "id": 17,
+          "name": "CRIT Rate",
+          "nameTh": "CRIT Rate",
+          "isRate": true
+        },
+        {
+          "id": 20,
+          "name": "CRIT DMG",
+          "nameTh": "CRIT DMG",
+          "isRate": true
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54311,
+          "name": "Red Comet",
+          "nameTh": "Red Comet"
+        },
+        {
+          "id": 54121,
+          "name": "Phantom Cat",
+          "nameTh": "Phantom Cat"
+        }
+      ]
+    }
+  },
+  {
+    "id": 40181,
+    "codeName": "Shears_Light",
+    "name": "Chiaki",
+    "nameTh": "Chiaki",
+    "title": "Illusion's Reality",
+    "titleTh": "Illusion's Reality",
+    "rarity": 4,
+    "attr": 1,
+    "star": 3,
+    "skillIds": [
+      4018101,
+      4018102,
+      4018103
+    ],
+    "cv": {
+      "ja": "KANEMOTO HISAKO",
+      "zh": "Hualing"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 30401,
+          "name": "Lian",
+          "nameTh": "Lian"
+        },
+        {
+          "id": 30501,
+          "name": "Tiamat",
+          "nameTh": "Tiamat"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 13,
+          "name": "SPD",
+          "nameTh": "SPD",
+          "isRate": false
+        },
+        {
+          "id": 1,
+          "name": "HP",
+          "nameTh": "HP",
+          "isRate": false
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54211,
+          "name": "Scorpion Queen",
+          "nameTh": "Scorpion Queen"
+        },
+        {
+          "id": 54281,
+          "name": "Teacher Owl",
+          "nameTh": "Teacher Owl"
+        }
+      ]
+    }
+  },
+  {
+    "id": 40186,
+    "codeName": "Shears_Hollow",
+    "name": "Chiaki the Echo",
+    "nameTh": "Chiaki the Echo",
+    "title": "Daydream Melody",
+    "titleTh": "Daydream Melody",
+    "rarity": 4,
+    "attr": 3,
+    "star": 3,
+    "skillIds": [
+      4018601,
+      4018602,
+      4018603
+    ],
+    "cv": {
+      "ja": "KANEMOTO HISAKO",
+      "zh": "Hualing"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 30351,
+          "name": "Xiada",
+          "nameTh": "Xiada"
+        },
+        {
+          "id": 30401,
+          "name": "Lian",
+          "nameTh": "Lian"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 13,
+          "name": "SPD",
+          "nameTh": "SPD",
+          "isRate": false
+        },
+        {
+          "id": 1,
+          "name": "HP",
+          "nameTh": "HP",
+          "isRate": false
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54211,
+          "name": "Scorpion Queen",
+          "nameTh": "Scorpion Queen"
+        }
+      ]
+    }
+  },
+  {
+    "id": 40301,
+    "codeName": "Jugg_Hollow",
+    "name": "Tsutomu",
+    "nameTh": "Tsutomu",
+    "title": "Musou Blade",
+    "titleTh": "Musou Blade",
+    "rarity": 4,
+    "attr": 3,
+    "star": 3,
+    "skillIds": [
+      4030101,
+      4030102,
+      4030103,
+      4030104,
+      4030105
+    ],
+    "cv": {
+      "ja": "MAKOTO FURUKAWA",
+      "zh": "Liangdawei"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 30451,
+          "name": "Kloss",
+          "nameTh": "Kloss"
+        },
+        {
+          "id": 40631,
+          "name": "Dinah",
+          "nameTh": "Dinah"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 17,
+          "name": "CRIT Rate",
+          "nameTh": "CRIT Rate",
+          "isRate": true
+        },
+        {
+          "id": 5,
+          "name": "ATK",
+          "nameTh": "ATK",
+          "isRate": false
+        },
+        {
+          "id": 20,
+          "name": "CRIT DMG",
+          "nameTh": "CRIT DMG",
+          "isRate": true
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54311,
+          "name": "Red Comet",
+          "nameTh": "Red Comet"
+        },
+        {
+          "id": 54121,
+          "name": "Phantom Cat",
+          "nameTh": "Phantom Cat"
+        }
+      ]
+    }
+  },
+  {
+    "id": 40331,
+    "codeName": "RC77_Odd",
+    "name": "RC-77",
+    "nameTh": "RC-77",
+    "title": "Geek Scientist",
+    "titleTh": "Geek Scientist",
+    "rarity": 4,
+    "attr": 2,
+    "star": 3,
+    "skillIds": [
+      4033101,
+      4033102,
+      4033103,
+      4033105
+    ],
+    "cv": {
+      "ja": "SHUN HORIE",
+      "zh": "Lihaorui"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 40301,
+          "name": "Tsutomu",
+          "nameTh": "Tsutomu"
+        },
+        {
+          "id": 46121,
+          "name": "Kazami Kazuyo",
+          "nameTh": "Kazami Kazuyo"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 13,
+          "name": "SPD",
+          "nameTh": "SPD",
+          "isRate": false
+        },
+        {
+          "id": 23,
+          "name": "Effect ACC",
+          "nameTh": "Effect ACC",
+          "isRate": true
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54211,
+          "name": "Scorpion Queen",
+          "nameTh": "Scorpion Queen"
+        }
+      ]
+    }
+  },
+  {
+    "id": 40361,
+    "codeName": "Lighting_Light",
+    "name": "Lightning",
+    "nameTh": "Lightning",
+    "title": "Stormbringer Sigil",
+    "titleTh": "Stormbringer Sigil",
+    "rarity": 4,
+    "attr": 3,
+    "star": 3,
+    "skillIds": [
+      4036101,
+      4036102,
+      4036103
+    ],
+    "cv": {
+      "ja": "",
+      "zh": ""
+    },
+    "recommendation": null
+  },
+  {
+    "id": 40391,
+    "codeName": "Kraken_Hollow",
+    "name": "Kraken",
+    "nameTh": "Kraken",
+    "title": "Mastermind Manager",
+    "titleTh": "Mastermind Manager",
+    "rarity": 4,
+    "attr": 2,
+    "star": 3,
+    "skillIds": [
+      4039101,
+      4039102,
+      4039103
+    ],
+    "cv": {
+      "ja": "KOYASU TAKEHITO",
+      "zh": "Lizhuoting"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 30251,
+          "name": "Lilith",
+          "nameTh": "Lilith"
+        },
+        {
+          "id": 40631,
+          "name": "Dinah",
+          "nameTh": "Dinah"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 13,
+          "name": "SPD",
+          "nameTh": "SPD",
+          "isRate": false
+        },
+        {
+          "id": 23,
+          "name": "Effect ACC",
+          "nameTh": "Effect ACC",
+          "isRate": true
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54211,
+          "name": "Scorpion Queen",
+          "nameTh": "Scorpion Queen"
+        }
+      ]
+    }
+  },
+  {
+    "id": 40421,
+    "codeName": "Yang_Odd",
+    "name": "Yang",
+    "nameTh": "Yang",
+    "title": "Flamboyant Juvenile",
+    "titleTh": "Flamboyant Juvenile",
+    "rarity": 4,
+    "attr": 2,
+    "star": 3,
+    "skillIds": [
+      4042101,
+      4042102,
+      4042103
+    ],
+    "cv": {
+      "ja": "MIYU IRINO",
+      "zh": "Zhangpei"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 30351,
+          "name": "Xiada",
+          "nameTh": "Xiada"
+        },
+        {
+          "id": 40571,
+          "name": "Khloros",
+          "nameTh": "Khloros"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 17,
+          "name": "CRIT Rate",
+          "nameTh": "CRIT Rate",
+          "isRate": true
+        },
+        {
+          "id": 13,
+          "name": "SPD",
+          "nameTh": "SPD",
+          "isRate": false
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54311,
+          "name": "Red Comet",
+          "nameTh": "Red Comet"
+        },
+        {
+          "id": 54121,
+          "name": "Phantom Cat",
+          "nameTh": "Phantom Cat"
+        }
+      ]
+    }
+  },
+  {
+    "id": 40451,
+    "codeName": "Lin_Light",
+    "name": "Rin",
+    "nameTh": "Rin",
+    "title": "Wild Rampage",
+    "titleTh": "Wild Rampage",
+    "rarity": 4,
+    "attr": 1,
+    "star": 3,
+    "skillIds": [
+      4045101,
+      4045102,
+      4045103
+    ],
+    "cv": {
+      "ja": "MARIYA ISE",
+      "zh": "Kiyo"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 40661,
+          "name": "Viper",
+          "nameTh": "Viper"
+        },
+        {
+          "id": 30601,
+          "name": "Rahu",
+          "nameTh": "Rahu"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 9,
+          "name": "DEF",
+          "nameTh": "DEF",
+          "isRate": false
+        },
+        {
+          "id": 13,
+          "name": "SPD",
+          "nameTh": "SPD",
+          "isRate": false
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54211,
+          "name": "Scorpion Queen",
+          "nameTh": "Scorpion Queen"
+        }
+      ]
+    }
+  },
+  {
+    "id": 40456,
+    "codeName": "Lin_Odd",
+    "name": "Rin the Unbowed",
+    "nameTh": "Rin the Unbowed",
+    "title": "Honed Edge",
+    "titleTh": "Honed Edge",
+    "rarity": 4,
+    "attr": 2,
+    "star": 3,
+    "skillIds": [
+      4045601,
+      4045602,
+      4045603
+    ],
+    "cv": {
+      "ja": "MARIYA ISE",
+      "zh": "kiyo"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 30651,
+          "name": "Lily",
+          "nameTh": "Lily"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 13,
+          "name": "SPD",
+          "nameTh": "SPD",
+          "isRate": false
+        },
+        {
+          "id": 5,
+          "name": "ATK",
+          "nameTh": "ATK",
+          "isRate": false
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54211,
+          "name": "Scorpion Queen",
+          "nameTh": "Scorpion Queen"
+        },
+        {
+          "id": 54281,
+          "name": "Teacher Owl",
+          "nameTh": "Teacher Owl"
+        }
+      ]
+    }
+  },
+  {
+    "id": 40491,
+    "codeName": "Shanya_Const",
+    "name": "Sania",
+    "nameTh": "Sania",
+    "title": "Virtuous Maiden",
+    "titleTh": "Virtuous Maiden",
+    "rarity": 4,
+    "attr": 3,
+    "star": 3,
+    "skillIds": [
+      4049101,
+      4049102,
+      4049103,
+      4049104
+    ],
+    "cv": {
+      "ja": "NORIKO SHITAYA",
+      "zh": "Xiaosibai"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 30251,
+          "name": "Lilith",
+          "nameTh": "Lilith"
+        },
+        {
+          "id": 30501,
+          "name": "Tiamat",
+          "nameTh": "Tiamat"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 1,
+          "name": "HP",
+          "nameTh": "HP",
+          "isRate": false
+        },
+        {
+          "id": 13,
+          "name": "SPD",
+          "nameTh": "SPD",
+          "isRate": false
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54211,
+          "name": "Scorpion Queen",
+          "nameTh": "Scorpion Queen"
+        },
+        {
+          "id": 54281,
+          "name": "Teacher Owl",
+          "nameTh": "Teacher Owl"
+        }
+      ]
+    }
+  },
+  {
+    "id": 40511,
+    "codeName": "ShadowHunter_Disor",
+    "name": "Diting",
+    "nameTh": "Diting",
+    "title": "Shadow Hunter",
+    "titleTh": "Shadow Hunter",
+    "rarity": 4,
+    "attr": 4,
+    "star": 3,
+    "skillIds": [
+      4051101,
+      4051102,
+      4051103,
+      4051104,
+      4051105
+    ],
+    "cv": {
+      "ja": "YUUICHIROU UMEHARA",
+      "zh": "Suyi"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 40601,
+          "name": "Gray",
+          "nameTh": "Gray"
+        },
+        {
+          "id": 40421,
+          "name": "Yang",
+          "nameTh": "Yang"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 5,
+          "name": "ATK",
+          "nameTh": "ATK",
+          "isRate": false
+        },
+        {
+          "id": 17,
+          "name": "CRIT Rate",
+          "nameTh": "CRIT Rate",
+          "isRate": true
+        },
+        {
+          "id": 20,
+          "name": "CRIT DMG",
+          "nameTh": "CRIT DMG",
+          "isRate": true
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54311,
+          "name": "Red Comet",
+          "nameTh": "Red Comet"
+        },
+        {
+          "id": 54121,
+          "name": "Phantom Cat",
+          "nameTh": "Phantom Cat"
+        }
+      ]
+    }
+  },
+  {
+    "id": 40541,
+    "codeName": "Dolores_Const",
+    "name": "Dorothy",
+    "nameTh": "Dorothy",
+    "title": "Lynx",
+    "titleTh": "Lynx",
+    "rarity": 4,
+    "attr": 5,
+    "star": 3,
+    "skillIds": [
+      4054101,
+      4054102,
+      4054103
+    ],
+    "cv": {
+      "ja": "OGURA YUI",
+      "zh": "Yanning"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 46161,
+          "name": "Turandot",
+          "nameTh": "Turandot"
+        },
+        {
+          "id": 40186,
+          "name": "Chiaki the Echo",
+          "nameTh": "Chiaki the Echo"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 5,
+          "name": "ATK",
+          "nameTh": "ATK",
+          "isRate": false
+        },
+        {
+          "id": 13,
+          "name": "SPD",
+          "nameTh": "SPD",
+          "isRate": false
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54211,
+          "name": "Scorpion Queen",
+          "nameTh": "Scorpion Queen"
+        },
+        {
+          "id": 54281,
+          "name": "Teacher Owl",
+          "nameTh": "Teacher Owl"
+        }
+      ]
+    }
+  },
+  {
+    "id": 40546,
+    "codeName": "Dolores_Light",
+    "name": "Dorothy the Wisher",
+    "nameTh": "Dorothy the Wisher",
+    "title": "Journey to Yourland",
+    "titleTh": "Journey to Yourland",
+    "rarity": 4,
+    "attr": 1,
+    "star": 3,
+    "skillIds": [
+      4054601,
+      4054602,
+      4054603
+    ],
+    "cv": {
+      "ja": "OGURA YUI",
+      "zh": "Yanning"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 30151,
+          "name": "Massiah",
+          "nameTh": "Massiah"
+        },
+        {
+          "id": 30401,
+          "name": "Lian",
+          "nameTh": "Lian"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 17,
+          "name": "CRIT Rate",
+          "nameTh": "CRIT Rate",
+          "isRate": true
+        },
+        {
+          "id": 13,
+          "name": "SPD",
+          "nameTh": "SPD",
+          "isRate": false
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54211,
+          "name": "Scorpion Queen",
+          "nameTh": "Scorpion Queen"
+        }
+      ]
+    }
+  },
+  {
+    "id": 40601,
+    "codeName": "Thunderbolt_Hollow",
+    "name": "Gray",
+    "nameTh": "Gray",
+    "title": "Thunderbolt",
+    "titleTh": "Thunderbolt",
+    "rarity": 4,
+    "attr": 3,
+    "star": 3,
+    "skillIds": [
+      4060101,
+      4060102,
+      4060103
+    ],
+    "cv": {
+      "ja": "YUSUKE SHIRAI",
+      "zh": "Xuxiang"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 30401,
+          "name": "Lian",
+          "nameTh": "Lian"
+        },
+        {
+          "id": 30301,
+          "name": "Heinrich",
+          "nameTh": "Heinrich"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 17,
+          "name": "CRIT Rate",
+          "nameTh": "CRIT Rate",
+          "isRate": true
+        },
+        {
+          "id": 13,
+          "name": "SPD",
+          "nameTh": "SPD",
+          "isRate": false
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54311,
+          "name": "Red Comet",
+          "nameTh": "Red Comet"
+        },
+        {
+          "id": 54121,
+          "name": "Phantom Cat",
+          "nameTh": "Phantom Cat"
+        }
+      ]
+    }
+  },
+  {
+    "id": 40631,
+    "codeName": "BloodDiamond_Light",
+    "name": "Dinah",
+    "nameTh": "Dinah",
+    "title": "Dual Thorn",
+    "titleTh": "Dual Thorn",
+    "rarity": 4,
+    "attr": 1,
+    "star": 3,
+    "skillIds": [
+      4063101,
+      4063102,
+      4063103
+    ],
+    "cv": {
+      "ja": "AYAKA FUKUHARA",
+      "zh": "Huangying"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 30101,
+          "name": "Helkid",
+          "nameTh": "Helkid"
+        },
+        {
+          "id": 40301,
+          "name": "Tsutomu",
+          "nameTh": "Tsutomu"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 23,
+          "name": "Effect ACC",
+          "nameTh": "Effect ACC",
+          "isRate": true
+        },
+        {
+          "id": 13,
+          "name": "SPD",
+          "nameTh": "SPD",
+          "isRate": false
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54311,
+          "name": "Red Comet",
+          "nameTh": "Red Comet"
+        },
+        {
+          "id": 54121,
+          "name": "Phantom Cat",
+          "nameTh": "Phantom Cat"
+        }
+      ]
+    }
+  },
+  {
+    "id": 40661,
+    "codeName": "Viper_Odd",
+    "name": "Viper",
+    "nameTh": "Viper",
+    "title": "Wandering Sinner",
+    "titleTh": "Wandering Sinner",
+    "rarity": 4,
+    "attr": 2,
+    "star": 3,
+    "skillIds": [
+      4066101,
+      4066102,
+      4066103,
+      4066104,
+      4066105
+    ],
+    "cv": {
+      "ja": "RYOTA SUZUKI",
+      "zh": "Fanjunhang"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 40451,
+          "name": "Rin",
+          "nameTh": "Rin"
+        },
+        {
+          "id": 30651,
+          "name": "Lily",
+          "nameTh": "Lily"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 5,
+          "name": "ATK",
+          "nameTh": "ATK",
+          "isRate": false
+        },
+        {
+          "id": 23,
+          "name": "Effect ACC",
+          "nameTh": "Effect ACC",
+          "isRate": true
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54311,
+          "name": "Red Comet",
+          "nameTh": "Red Comet"
+        },
+        {
+          "id": 54121,
+          "name": "Phantom Cat",
+          "nameTh": "Phantom Cat"
+        }
+      ]
+    }
+  },
+  {
+    "id": 40691,
+    "codeName": "Valerian_Hollow",
+    "name": "Valerian",
+    "nameTh": "Valerian",
+    "title": "Eternal Slumber",
+    "titleTh": "Eternal Slumber",
+    "rarity": 4,
+    "attr": 5,
+    "star": 3,
+    "skillIds": [
+      4069101,
+      4069102,
+      4069103,
+      4069104
+    ],
+    "cv": {
+      "ja": "HIBIKU YAMAMURA",
+      "zh": "Jiangshufei"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 30351,
+          "name": "Xiada",
+          "nameTh": "Xiada"
+        },
+        {
+          "id": 30401,
+          "name": "Lian",
+          "nameTh": "Lian"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 1,
+          "name": "HP",
+          "nameTh": "HP",
+          "isRate": false
+        },
+        {
+          "id": 13,
+          "name": "SPD",
+          "nameTh": "SPD",
+          "isRate": false
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54211,
+          "name": "Scorpion Queen",
+          "nameTh": "Scorpion Queen"
+        }
+      ]
+    }
+  },
+  {
+    "id": 40721,
+    "codeName": "Marvell_Const",
+    "name": "Marvell",
+    "nameTh": "Marvell",
+    "title": "Pure Dimension",
+    "titleTh": "Pure Dimension",
+    "rarity": 4,
+    "attr": 5,
+    "star": 3,
+    "skillIds": [
+      4072101,
+      4072102,
+      4072103
+    ],
+    "cv": {
+      "ja": "TAKATSUKA TOMOHITO",
+      "zh": "Yaomingshun"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 30051,
+          "name": "DokiDoki",
+          "nameTh": "DokiDoki"
+        },
+        {
+          "id": 30251,
+          "name": "Lilith",
+          "nameTh": "Lilith"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 13,
+          "name": "SPD",
+          "nameTh": "SPD",
+          "isRate": false
+        },
+        {
+          "id": 23,
+          "name": "Effect ACC",
+          "nameTh": "Effect ACC",
+          "isRate": true
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54211,
+          "name": "Scorpion Queen",
+          "nameTh": "Scorpion Queen"
+        }
+      ]
+    }
+  },
+  {
+    "id": 40751,
+    "codeName": "Makoto_Hollow",
+    "name": "Mizuki Makoto",
+    "nameTh": "Mizuki Makoto",
+    "title": "Grim Fist",
+    "titleTh": "Grim Fist",
+    "rarity": 4,
+    "attr": 3,
+    "star": 3,
+    "skillIds": [
+      4075101,
+      4075102,
+      4075103,
+      4075104
+    ],
+    "cv": {
+      "ja": "SAKU MIZUNO",
+      "zh": "Zhimao"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 30601,
+          "name": "Rahu",
+          "nameTh": "Rahu"
+        },
+        {
+          "id": 40491,
+          "name": "Sania",
+          "nameTh": "Sania"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 9,
+          "name": "DEF",
+          "nameTh": "DEF",
+          "isRate": false
+        },
+        {
+          "id": 23,
+          "name": "Effect ACC",
+          "nameTh": "Effect ACC",
+          "isRate": true
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54211,
+          "name": "Scorpion Queen",
+          "nameTh": "Scorpion Queen"
+        },
+        {
+          "id": 54121,
+          "name": "Phantom Cat",
+          "nameTh": "Phantom Cat"
+        }
+      ]
+    }
+  },
+  {
+    "id": 40781,
+    "codeName": "Mari_Disor",
+    "name": "Hizuki Mari",
+    "nameTh": "Hizuki Mari",
+    "title": "Crimson Moon",
+    "titleTh": "Crimson Moon",
+    "rarity": 4,
+    "attr": 4,
+    "star": 3,
+    "skillIds": [
+      4078101,
+      4078102,
+      4078103
+    ],
+    "cv": {
+      "ja": "RUMI OKUBO",
+      "zh": "Yingxiaowu"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 30151,
+          "name": "Massiah",
+          "nameTh": "Massiah"
+        },
+        {
+          "id": 31151,
+          "name": "Yeli",
+          "nameTh": "Yeli"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 13,
+          "name": "SPD",
+          "nameTh": "SPD",
+          "isRate": false
+        },
+        {
+          "id": 23,
+          "name": "Effect ACC",
+          "nameTh": "Effect ACC",
+          "isRate": true
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54211,
+          "name": "Scorpion Queen",
+          "nameTh": "Scorpion Queen"
+        }
+      ]
+    }
+  },
+  {
+    "id": 40811,
+    "codeName": "Nell_Const",
+    "name": "Nell",
+    "nameTh": "Nell",
+    "title": "Sunshadow",
+    "titleTh": "Sunshadow",
+    "rarity": 4,
+    "attr": 4,
+    "star": 3,
+    "skillIds": [
+      4081101,
+      4081102,
+      4081103
+    ],
+    "cv": {
+      "ja": "AYUMI MANO",
+      "zh": "Chenyang"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 30451,
+          "name": "Kloss",
+          "nameTh": "Kloss"
+        },
+        {
+          "id": 31151,
+          "name": "Yeli",
+          "nameTh": "Yeli"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 13,
+          "name": "SPD",
+          "nameTh": "SPD",
+          "isRate": false
+        },
+        {
+          "id": 23,
+          "name": "Effect ACC",
+          "nameTh": "Effect ACC",
+          "isRate": true
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54211,
+          "name": "Scorpion Queen",
+          "nameTh": "Scorpion Queen"
+        }
+      ]
+    }
+  },
+  {
+    "id": 40816,
+    "codeName": "Nell_Hollow",
+    "name": "Dawnlight Nell",
+    "nameTh": "Dawnlight Nell",
+    "title": "Sear Solar",
+    "titleTh": "Sear Solar",
+    "rarity": 4,
+    "attr": 3,
+    "star": 3,
+    "skillIds": [
+      4081601,
+      4081602,
+      4081603,
+      4081604,
+      4081605,
+      4081606
+    ],
+    "cv": {
+      "ja": "",
+      "zh": ""
+    },
+    "recommendation": null
+  },
+  {
+    "id": 40841,
+    "codeName": "Sylph_Hollow",
+    "name": "Sylph",
+    "nameTh": "Sylph",
+    "title": "Glimmer",
+    "titleTh": "Glimmer",
+    "rarity": 4,
+    "attr": 2,
+    "star": 3,
+    "skillIds": [
+      4084101,
+      4084102,
+      4084103,
+      4084104
+    ],
+    "cv": {
+      "ja": "MANAKA IWAMI",
+      "zh": "Chenzhang"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 30801,
+          "name": "Holden",
+          "nameTh": "Holden"
+        },
+        {
+          "id": 40751,
+          "name": "Mizuki Makoto",
+          "nameTh": "Mizuki Makoto"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 13,
+          "name": "SPD",
+          "nameTh": "SPD",
+          "isRate": false
+        },
+        {
+          "id": 1,
+          "name": "HP",
+          "nameTh": "HP",
+          "isRate": false
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54211,
+          "name": "Scorpion Queen",
+          "nameTh": "Scorpion Queen"
+        },
+        {
+          "id": 54281,
+          "name": "Teacher Owl",
+          "nameTh": "Teacher Owl"
+        }
+      ]
+    }
+  },
+  {
+    "id": 46061,
+    "codeName": "Opal_Const",
+    "name": "Obol",
+    "nameTh": "Obol",
+    "title": "Beacon Conductor",
+    "titleTh": "Beacon Conductor",
+    "rarity": 4,
+    "attr": 2,
+    "star": 3,
+    "skillIds": [
+      4606101,
+      4606102,
+      4606103
+    ],
+    "cv": {
+      "ja": "KAZUHIRO YAMAJI",
+      "zh": "Zhaozihan"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 40481,
+          "name": "Shadow Sania",
+          "nameTh": "Withered Shadow Sania"
+        },
+        {
+          "id": 46241,
+          "name": "Fangus",
+          "nameTh": "Fangus"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 13,
+          "name": "SPD",
+          "nameTh": "SPD",
+          "isRate": false
+        },
+        {
+          "id": 23,
+          "name": "Effect ACC",
+          "nameTh": "Effect ACC",
+          "isRate": true
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54211,
+          "name": "Scorpion Queen",
+          "nameTh": "Scorpion Queen"
+        }
+      ]
+    }
+  },
+  {
+    "id": 46121,
+    "codeName": "Kazama_Light",
+    "name": "Kazami Kazuyo",
+    "nameTh": "Kazami Kazuyo",
+    "title": "Discipline Keeper",
+    "titleTh": "Discipline Keeper",
+    "rarity": 4,
+    "attr": 1,
+    "star": 3,
+    "skillIds": [
+      4612101,
+      4612102,
+      4612103
+    ],
+    "cv": {
+      "ja": "AYANA TAKETATSU",
+      "zh": "Tangyajing"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 30401,
+          "name": "Lian",
+          "nameTh": "Lian"
+        },
+        {
+          "id": 40601,
+          "name": "Gray",
+          "nameTh": "Gray"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 13,
+          "name": "SPD",
+          "nameTh": "SPD",
+          "isRate": false
+        },
+        {
+          "id": 1,
+          "name": "HP",
+          "nameTh": "HP",
+          "isRate": false
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54211,
+          "name": "Scorpion Queen",
+          "nameTh": "Scorpion Queen"
+        }
+      ]
+    }
+  },
+  {
+    "id": 46126,
+    "codeName": "Kazama_Hollow",
+    "name": "Kazuyo the Reverie",
+    "nameTh": "Kazuyo the Reverie",
+    "title": "Tranquil Rest",
+    "titleTh": "Tranquil Rest",
+    "rarity": 4,
+    "attr": 3,
+    "star": 3,
+    "skillIds": [
+      4612601,
+      4612602,
+      4612603,
+      4612604
+    ],
+    "cv": {
+      "ja": "AYANA TAKETATSU",
+      "zh": "Tangyajing"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 30251,
+          "name": "Lilith",
+          "nameTh": "Lilith"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 13,
+          "name": "SPD",
+          "nameTh": "SPD",
+          "isRate": false
+        },
+        {
+          "id": 23,
+          "name": "Effect ACC",
+          "nameTh": "Effect ACC",
+          "isRate": true
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54211,
+          "name": "Scorpion Queen",
+          "nameTh": "Scorpion Queen"
+        }
+      ]
+    }
+  },
+  {
+    "id": 46161,
+    "codeName": "Durandor_Light",
+    "name": "Turandot",
+    "nameTh": "Turandot",
+    "title": "Crimson Waltz",
+    "titleTh": "Crimson Waltz",
+    "rarity": 4,
+    "attr": 1,
+    "star": 3,
+    "skillIds": [
+      4616101,
+      4616102,
+      4616103,
+      4616104
+    ],
+    "cv": {
+      "ja": "MATSUOKA YUKI",
+      "zh": "Mufei"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 30351,
+          "name": "Xiada",
+          "nameTh": "Xiada"
+        },
+        {
+          "id": 30401,
+          "name": "Lian",
+          "nameTh": "Lian"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 13,
+          "name": "SPD",
+          "nameTh": "SPD",
+          "isRate": false
+        },
+        {
+          "id": 1,
+          "name": "HP",
+          "nameTh": "HP",
+          "isRate": false
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54211,
+          "name": "Scorpion Queen",
+          "nameTh": "Scorpion Queen"
+        }
+      ]
+    }
+  },
+  {
+    "id": 46241,
+    "codeName": "Fungus_Light",
+    "name": "Fangus",
+    "nameTh": "Fangus",
+    "title": "Infinite Trojan",
+    "titleTh": "Infinite Trojan",
+    "rarity": 4,
+    "attr": 1,
+    "star": 3,
+    "skillIds": [
+      4624101,
+      4624102,
+      4624103
+    ],
+    "cv": {
+      "ja": "MURO GENKI",
+      "zh": "Sunkaiyin"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 40481,
+          "name": "Shadow Sania",
+          "nameTh": "Withered Shadow Sania"
+        },
+        {
+          "id": 40571,
+          "name": "Khloros",
+          "nameTh": "Khloros"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 5,
+          "name": "ATK",
+          "nameTh": "ATK",
+          "isRate": false
+        },
+        {
+          "id": 23,
+          "name": "Effect ACC",
+          "nameTh": "Effect ACC",
+          "isRate": true
+        },
+        {
+          "id": 17,
+          "name": "CRIT Rate",
+          "nameTh": "CRIT Rate",
+          "isRate": true
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54311,
+          "name": "Red Comet",
+          "nameTh": "Red Comet"
+        },
+        {
+          "id": 54121,
+          "name": "Phantom Cat",
+          "nameTh": "Phantom Cat"
+        }
+      ]
+    }
+  },
+  {
+    "id": 46306,
+    "codeName": "Cachi_Disor",
+    "name": "Cachi the Guard",
+    "nameTh": "Cachi the Guard",
+    "title": "Fearless Guard",
+    "titleTh": "Fearless Guard",
+    "rarity": 4,
+    "attr": 4,
+    "star": 3,
+    "skillIds": [
+      4630601,
+      4630602,
+      4630603,
+      4630604
+    ],
+    "cv": {
+      "ja": "TAMURA KONOMI",
+      "zh": "Pandanni"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 30051,
+          "name": "DokiDoki",
+          "nameTh": "DokiDoki"
+        },
+        {
+          "id": 40661,
+          "name": "Viper",
+          "nameTh": "Viper"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 23,
+          "name": "Effect ACC",
+          "nameTh": "Effect ACC",
+          "isRate": true
+        },
+        {
+          "id": 13,
+          "name": "SPD",
+          "nameTh": "SPD",
+          "isRate": false
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54211,
+          "name": "Scorpion Queen",
+          "nameTh": "Scorpion Queen"
+        }
+      ]
+    }
+  },
+  {
+    "id": 46001,
+    "codeName": "HardShield_Odd",
+    "name": "Andrew",
+    "nameTh": "Andrew",
+    "title": "Unyielding Aegis",
+    "titleTh": "Unyielding Aegis",
+    "rarity": 3,
+    "attr": 2,
+    "star": 2,
+    "skillIds": [
+      4600101,
+      4600102,
+      4600103
+    ],
+    "cv": {
+      "ja": "OTOMARI TAKAKI",
+      "zh": "Yukailong"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 40691,
+          "name": "Valerian",
+          "nameTh": "Valerian"
+        },
+        {
+          "id": 30601,
+          "name": "Rahu",
+          "nameTh": "Rahu"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 9,
+          "name": "DEF",
+          "nameTh": "DEF",
+          "isRate": false
+        },
+        {
+          "id": 1,
+          "name": "HP",
+          "nameTh": "HP",
+          "isRate": false
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54211,
+          "name": "Scorpion Queen",
+          "nameTh": "Scorpion Queen"
+        }
+      ]
+    }
+  },
+  {
+    "id": 46006,
+    "codeName": "HardShield_Light",
+    "name": "Andrew",
+    "nameTh": "Andrew",
+    "title": "Blitz Striker",
+    "titleTh": "Blitz Striker",
+    "rarity": 3,
+    "attr": 1,
+    "star": 2,
+    "skillIds": [
+      4600601,
+      4600602,
+      4600603,
+      4600604
+    ],
+    "cv": {
+      "ja": "OTOMARI TAKAKI",
+      "zh": "Yukailong"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 46121,
+          "name": "Kazami Kazuyo",
+          "nameTh": "Kazami Kazuyo"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 5,
+          "name": "ATK",
+          "nameTh": "ATK",
+          "isRate": false
+        },
+        {
+          "id": 17,
+          "name": "CRIT Rate",
+          "nameTh": "CRIT Rate",
+          "isRate": true
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54311,
+          "name": "Red Comet",
+          "nameTh": "Red Comet"
+        },
+        {
+          "id": 54121,
+          "name": "Phantom Cat",
+          "nameTh": "Phantom Cat"
+        }
+      ]
+    }
+  },
+  {
+    "id": 46007,
+    "codeName": "HardShield_Light",
+    "name": "Andrew",
+    "nameTh": "Andrew",
+    "title": "Blitz Striker",
+    "titleTh": "Blitz Striker",
+    "rarity": 3,
+    "attr": 2,
+    "star": 2,
+    "skillIds": [
+      4600601,
+      4600602,
+      4600603,
+      4600604
+    ],
+    "cv": {
+      "ja": "OTOMARI TAKAKI",
+      "zh": "Yukailong"
+    },
+    "recommendation": null
+  },
+  {
+    "id": 46081,
+    "codeName": "Experimenter41_Const",
+    "name": "No. 41",
+    "nameTh": "No. 41",
+    "title": "Researcher",
+    "titleTh": "Researcher",
+    "rarity": 3,
+    "attr": 5,
+    "star": 2,
+    "skillIds": [
+      4608101,
+      4608102,
+      4608103
+    ],
+    "cv": {
+      "ja": "HIKASAYOKO",
+      "zh": "Zhangruoyu"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 30401,
+          "name": "Lian",
+          "nameTh": "Lian"
+        },
+        {
+          "id": 40601,
+          "name": "Gray",
+          "nameTh": "Gray"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 13,
+          "name": "SPD",
+          "nameTh": "SPD",
+          "isRate": false
+        },
+        {
+          "id": 1,
+          "name": "HP",
+          "nameTh": "HP",
+          "isRate": false
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54211,
+          "name": "Scorpion Queen",
+          "nameTh": "Scorpion Queen"
+        }
+      ]
+    }
+  },
+  {
+    "id": 46141,
+    "codeName": "BadLuck_Const",
+    "name": "Vice",
+    "nameTh": "Vice",
+    "title": "Rogue Crew",
+    "titleTh": "Rogue Crew",
+    "rarity": 3,
+    "attr": 5,
+    "star": 2,
+    "skillIds": [
+      4614101,
+      4614102,
+      4614103
+    ],
+    "cv": {
+      "ja": "NEZU DAISUKE",
+      "zh": "Liyang"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 40491,
+          "name": "Sania",
+          "nameTh": "Sania"
+        },
+        {
+          "id": 30051,
+          "name": "DokiDoki",
+          "nameTh": "DokiDoki"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 1,
+          "name": "HP",
+          "nameTh": "HP",
+          "isRate": false
+        },
+        {
+          "id": 23,
+          "name": "Effect ACC",
+          "nameTh": "Effect ACC",
+          "isRate": true
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54311,
+          "name": "Red Comet",
+          "nameTh": "Red Comet"
+        },
+        {
+          "id": 54121,
+          "name": "Phantom Cat",
+          "nameTh": "Phantom Cat"
+        }
+      ]
+    }
+  },
+  {
+    "id": 46146,
+    "codeName": "BadLuck_Light",
+    "name": "Vice",
+    "nameTh": "Vice",
+    "title": "Gladiator",
+    "titleTh": "Gladiator",
+    "rarity": 3,
+    "attr": 1,
+    "star": 2,
+    "skillIds": [
+      4614601,
+      4614602,
+      4614603
+    ],
+    "cv": {
+      "ja": "NEZU DAISUKE",
+      "zh": "Liyang"
+    },
+    "recommendation": null
+  },
+  {
+    "id": 46151,
+    "codeName": "BadLuck_Odd",
+    "name": "Vice",
+    "nameTh": "Vice",
+    "title": "Fang & Claw",
+    "titleTh": "Fang & Claw",
+    "rarity": 3,
+    "attr": 2,
+    "star": 2,
+    "skillIds": [
+      4615101,
+      4615102,
+      4615103
+    ],
+    "cv": {
+      "ja": "NEZU DAISUKE",
+      "zh": "Liyang"
+    },
+    "recommendation": null
+  },
+  {
+    "id": 46271,
+    "codeName": "Gray_Hollow",
+    "name": "Asshu",
+    "nameTh": "Asshu",
+    "title": "Scoundrel",
+    "titleTh": "Scoundrel",
+    "rarity": 3,
+    "attr": 3,
+    "star": 2,
+    "skillIds": [
+      4627101,
+      4627102,
+      4627103
+    ],
+    "cv": {
+      "ja": "MIYASE NAOYA",
+      "zh": "Heishiren"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 46121,
+          "name": "Kazami Kazuyo",
+          "nameTh": "Kazami Kazuyo"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 13,
+          "name": "SPD",
+          "nameTh": "SPD",
+          "isRate": false
+        },
+        {
+          "id": 23,
+          "name": "Effect ACC",
+          "nameTh": "Effect ACC",
+          "isRate": true
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54311,
+          "name": "Red Comet",
+          "nameTh": "Red Comet"
+        },
+        {
+          "id": 54121,
+          "name": "Phantom Cat",
+          "nameTh": "Phantom Cat"
+        }
+      ]
+    }
+  },
+  {
+    "id": 46301,
+    "codeName": "Cachi_Light",
+    "name": "Cachi",
+    "nameTh": "Cachi",
+    "title": "Ursa Minor",
+    "titleTh": "Ursa Minor",
+    "rarity": 3,
+    "attr": 1,
+    "star": 2,
+    "skillIds": [
+      4630101,
+      4630102,
+      4630103
+    ],
+    "cv": {
+      "ja": "TAMURA KONOMI",
+      "zh": "Pandanni"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 30151,
+          "name": "Massiah",
+          "nameTh": "Massiah"
+        },
+        {
+          "id": 30401,
+          "name": "Lian",
+          "nameTh": "Lian"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 13,
+          "name": "SPD",
+          "nameTh": "SPD",
+          "isRate": false
+        },
+        {
+          "id": 1,
+          "name": "HP",
+          "nameTh": "HP",
+          "isRate": false
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54211,
+          "name": "Scorpion Queen",
+          "nameTh": "Scorpion Queen"
+        }
+      ]
+    }
+  },
+  {
+    "id": 46331,
+    "codeName": "Sybil_Odd",
+    "name": "Sybil",
+    "nameTh": "Sybil",
+    "title": "Zephyr Blade",
+    "titleTh": "Zephyr Blade",
+    "rarity": 3,
+    "attr": 2,
+    "star": 2,
+    "skillIds": [
+      4633101,
+      4633102,
+      4633103
+    ],
+    "cv": {
+      "ja": "MIYURI SHIMABUKURO",
+      "zh": "Zhangqi"
+    },
+    "recommendation": {
+      "partners": [
+        {
+          "id": 46161,
+          "name": "Turandot",
+          "nameTh": "Turandot"
+        },
+        {
+          "id": 40601,
+          "name": "Gray",
+          "nameTh": "Gray"
+        }
+      ],
+      "keyProps": [
+        {
+          "id": 5,
+          "name": "ATK",
+          "nameTh": "ATK",
+          "isRate": false
+        },
+        {
+          "id": 17,
+          "name": "CRIT Rate",
+          "nameTh": "CRIT Rate",
+          "isRate": true
+        },
+        {
+          "id": 20,
+          "name": "CRIT DMG",
+          "nameTh": "CRIT DMG",
+          "isRate": true
+        }
+      ],
+      "starterShells": [
+        {
+          "id": 54311,
+          "name": "Red Comet",
+          "nameTh": "Red Comet"
+        },
+        {
+          "id": 54121,
+          "name": "Phantom Cat",
+          "nameTh": "Phantom Cat"
+        }
+      ]
+    }
+  }
+]

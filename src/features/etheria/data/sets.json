@@ -1,0 +1,810 @@
+[
+  {
+    "id": 1,
+    "bonuses": [
+      {
+        "pieces": 4,
+        "props": [
+          {
+            "id": 7,
+            "name": "ATK Bonus",
+            "nameTh": "โบนัส ATK",
+            "isRate": true,
+            "value": 0.1
+          }
+        ]
+      },
+      {
+        "pieces": 8,
+        "props": [
+          {
+            "id": 7,
+            "name": "ATK Bonus",
+            "nameTh": "โบนัส ATK",
+            "isRate": true,
+            "value": 0.25
+          }
+        ]
+      },
+      {
+        "pieces": 12,
+        "props": [
+          {
+            "id": 7,
+            "name": "ATK Bonus",
+            "nameTh": "โบนัส ATK",
+            "isRate": true,
+            "value": 0.45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "bonuses": [
+      {
+        "pieces": 4,
+        "props": [
+          {
+            "id": 3,
+            "name": "HP Bonus",
+            "nameTh": "โบนัส HP",
+            "isRate": true,
+            "value": 0.1
+          }
+        ]
+      },
+      {
+        "pieces": 8,
+        "props": [
+          {
+            "id": 3,
+            "name": "HP Bonus",
+            "nameTh": "โบนัส HP",
+            "isRate": true,
+            "value": 0.25
+          }
+        ]
+      },
+      {
+        "pieces": 12,
+        "props": [
+          {
+            "id": 3,
+            "name": "HP Bonus",
+            "nameTh": "โบนัส HP",
+            "isRate": true,
+            "value": 0.45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "bonuses": [
+      {
+        "pieces": 4,
+        "props": [
+          {
+            "id": 11,
+            "name": "DEF Bonus",
+            "nameTh": "โบนัส DEF",
+            "isRate": true,
+            "value": 0.1
+          }
+        ]
+      },
+      {
+        "pieces": 8,
+        "props": [
+          {
+            "id": 11,
+            "name": "DEF Bonus",
+            "nameTh": "โบนัส DEF",
+            "isRate": true,
+            "value": 0.25
+          }
+        ]
+      },
+      {
+        "pieces": 12,
+        "props": [
+          {
+            "id": 11,
+            "name": "DEF Bonus",
+            "nameTh": "โบนัส DEF",
+            "isRate": true,
+            "value": 0.45
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "bonuses": [
+      {
+        "pieces": 4,
+        "props": [
+          {
+            "id": 15,
+            "name": "SPD",
+            "nameTh": "SPD",
+            "isRate": true,
+            "value": 0.08
+          }
+        ]
+      },
+      {
+        "pieces": 8,
+        "props": [
+          {
+            "id": 15,
+            "name": "SPD",
+            "nameTh": "SPD",
+            "isRate": true,
+            "value": 0.2
+          }
+        ]
+      },
+      {
+        "pieces": 12,
+        "props": [
+          {
+            "id": 15,
+            "name": "SPD",
+            "nameTh": "SPD",
+            "isRate": true,
+            "value": 0.35
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "bonuses": [
+      {
+        "pieces": 4,
+        "props": [
+          {
+            "id": 3,
+            "name": "HP Bonus",
+            "nameTh": "โบนัส HP",
+            "isRate": true,
+            "value": 0.1
+          }
+        ]
+      },
+      {
+        "pieces": 8,
+        "props": [
+          {
+            "id": 3,
+            "name": "HP Bonus",
+            "nameTh": "โบนัส HP",
+            "isRate": true,
+            "value": 0.1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "bonuses": [
+      {
+        "pieces": 4,
+        "props": [
+          {
+            "id": 7,
+            "name": "ATK Bonus",
+            "nameTh": "โบนัส ATK",
+            "isRate": true,
+            "value": 0.1
+          }
+        ]
+      },
+      {
+        "pieces": 8,
+        "props": [
+          {
+            "id": 7,
+            "name": "ATK Bonus",
+            "nameTh": "โบนัส ATK",
+            "isRate": true,
+            "value": 0.1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "bonuses": [
+      {
+        "pieces": 4,
+        "props": [
+          {
+            "id": 11,
+            "name": "DEF Bonus",
+            "nameTh": "โบนัส DEF",
+            "isRate": true,
+            "value": 0.1
+          }
+        ]
+      },
+      {
+        "pieces": 8,
+        "props": [
+          {
+            "id": 11,
+            "name": "DEF Bonus",
+            "nameTh": "โบนัส DEF",
+            "isRate": true,
+            "value": 0.1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "bonuses": [
+      {
+        "pieces": 4,
+        "props": [
+          {
+            "id": 3,
+            "name": "HP Bonus",
+            "nameTh": "โบนัส HP",
+            "isRate": true,
+            "value": 0.1
+          }
+        ]
+      },
+      {
+        "pieces": 8,
+        "props": [
+          {
+            "id": 3,
+            "name": "HP Bonus",
+            "nameTh": "โบนัส HP",
+            "isRate": true,
+            "value": 0.1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "bonuses": [
+      {
+        "pieces": 4,
+        "props": [
+          {
+            "id": 11,
+            "name": "DEF Bonus",
+            "nameTh": "โบนัส DEF",
+            "isRate": true,
+            "value": 0.1
+          }
+        ]
+      },
+      {
+        "pieces": 8,
+        "props": [
+          {
+            "id": 11,
+            "name": "DEF Bonus",
+            "nameTh": "โบนัส DEF",
+            "isRate": true,
+            "value": 0.1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "bonuses": [
+      {
+        "pieces": 4,
+        "props": [
+          {
+            "id": 7,
+            "name": "ATK Bonus",
+            "nameTh": "โบนัส ATK",
+            "isRate": true,
+            "value": 0.1
+          }
+        ]
+      },
+      {
+        "pieces": 8,
+        "props": [
+          {
+            "id": 7,
+            "name": "ATK Bonus",
+            "nameTh": "โบนัส ATK",
+            "isRate": true,
+            "value": 0.1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "bonuses": [
+      {
+        "pieces": 4,
+        "props": [
+          {
+            "id": 7,
+            "name": "ATK Bonus",
+            "nameTh": "โบนัส ATK",
+            "isRate": true,
+            "value": 0.1
+          }
+        ]
+      },
+      {
+        "pieces": 8,
+        "props": [
+          {
+            "id": 7,
+            "name": "ATK Bonus",
+            "nameTh": "โบนัส ATK",
+            "isRate": true,
+            "value": 0.1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "bonuses": [
+      {
+        "pieces": 4,
+        "props": [
+          {
+            "id": 3,
+            "name": "HP Bonus",
+            "nameTh": "โบนัส HP",
+            "isRate": true,
+            "value": 0.1
+          }
+        ]
+      },
+      {
+        "pieces": 8,
+        "props": [
+          {
+            "id": 3,
+            "name": "HP Bonus",
+            "nameTh": "โบนัส HP",
+            "isRate": true,
+            "value": 0.1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "bonuses": [
+      {
+        "pieces": 4,
+        "props": [
+          {
+            "id": 7,
+            "name": "ATK Bonus",
+            "nameTh": "โบนัส ATK",
+            "isRate": true,
+            "value": 0.1
+          }
+        ]
+      },
+      {
+        "pieces": 8,
+        "props": [
+          {
+            "id": 7,
+            "name": "ATK Bonus",
+            "nameTh": "โบนัส ATK",
+            "isRate": true,
+            "value": 0.1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "bonuses": [
+      {
+        "pieces": 4,
+        "props": [
+          {
+            "id": 3,
+            "name": "HP Bonus",
+            "nameTh": "โบนัส HP",
+            "isRate": true,
+            "value": 0.1
+          }
+        ]
+      },
+      {
+        "pieces": 8,
+        "props": [
+          {
+            "id": 3,
+            "name": "HP Bonus",
+            "nameTh": "โบนัส HP",
+            "isRate": true,
+            "value": 0.1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "bonuses": [
+      {
+        "pieces": 4,
+        "props": [
+          {
+            "id": 11,
+            "name": "DEF Bonus",
+            "nameTh": "โบนัส DEF",
+            "isRate": true,
+            "value": 0.1
+          }
+        ]
+      },
+      {
+        "pieces": 8,
+        "props": [
+          {
+            "id": 11,
+            "name": "DEF Bonus",
+            "nameTh": "โบนัส DEF",
+            "isRate": true,
+            "value": 0.1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "bonuses": [
+      {
+        "pieces": 6,
+        "props": [
+          {
+            "id": 19,
+            "name": "CRIT Rate",
+            "nameTh": "CRIT Rate",
+            "isRate": true,
+            "value": 0.12
+          }
+        ]
+      },
+      {
+        "pieces": 12,
+        "props": [
+          {
+            "id": 19,
+            "name": "CRIT Rate",
+            "nameTh": "CRIT Rate",
+            "isRate": true,
+            "value": 0.12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "bonuses": [
+      {
+        "pieces": 6,
+        "props": [
+          {
+            "id": 28,
+            "name": "Effect RES",
+            "nameTh": "Effect RES",
+            "isRate": true,
+            "value": 0.18
+          }
+        ]
+      },
+      {
+        "pieces": 12,
+        "props": [
+          {
+            "id": 28,
+            "name": "Effect RES",
+            "nameTh": "Effect RES",
+            "isRate": true,
+            "value": 0.18
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "bonuses": [
+      {
+        "pieces": 6,
+        "props": [
+          {
+            "id": 25,
+            "name": "Effect ACC",
+            "nameTh": "Effect ACC",
+            "isRate": true,
+            "value": 0.18
+          }
+        ]
+      },
+      {
+        "pieces": 12,
+        "props": [
+          {
+            "id": 25,
+            "name": "Effect ACC",
+            "nameTh": "Effect ACC",
+            "isRate": true,
+            "value": 0.18
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "bonuses": [
+      {
+        "pieces": 6,
+        "props": [
+          {
+            "id": 22,
+            "name": "CRIT DMG",
+            "nameTh": "CRIT DMG",
+            "isRate": true,
+            "value": 0.18
+          }
+        ]
+      },
+      {
+        "pieces": 12,
+        "props": [
+          {
+            "id": 22,
+            "name": "CRIT DMG",
+            "nameTh": "CRIT DMG",
+            "isRate": true,
+            "value": 0.18
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "bonuses": [
+      {
+        "pieces": 6,
+        "props": [
+          {
+            "id": 28,
+            "name": "Effect RES",
+            "nameTh": "Effect RES",
+            "isRate": true,
+            "value": 0.18
+          }
+        ]
+      },
+      {
+        "pieces": 12,
+        "props": [
+          {
+            "id": 28,
+            "name": "Effect RES",
+            "nameTh": "Effect RES",
+            "isRate": true,
+            "value": 0.18
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "bonuses": [
+      {
+        "pieces": 6,
+        "props": [
+          {
+            "id": 19,
+            "name": "CRIT Rate",
+            "nameTh": "CRIT Rate",
+            "isRate": true,
+            "value": 0.12
+          }
+        ]
+      },
+      {
+        "pieces": 12,
+        "props": [
+          {
+            "id": 19,
+            "name": "CRIT Rate",
+            "nameTh": "CRIT Rate",
+            "isRate": true,
+            "value": 0.12
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 61,
+    "bonuses": [
+      {
+        "pieces": 6,
+        "props": [
+          {
+            "id": 19,
+            "name": "CRIT Rate",
+            "nameTh": "CRIT Rate",
+            "isRate": true,
+            "value": 0.12
+          },
+          {
+            "id": 22,
+            "name": "CRIT DMG",
+            "nameTh": "CRIT DMG",
+            "isRate": true,
+            "value": 0.2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 62,
+    "bonuses": [
+      {
+        "pieces": 6,
+        "props": [
+          {
+            "id": 3,
+            "name": "HP Bonus",
+            "nameTh": "โบนัส HP",
+            "isRate": true,
+            "value": 0.25
+          },
+          {
+            "id": 25,
+            "name": "Effect ACC",
+            "nameTh": "Effect ACC",
+            "isRate": true,
+            "value": 0.2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 63,
+    "bonuses": [
+      {
+        "pieces": 6,
+        "props": [
+          {
+            "id": 11,
+            "name": "DEF Bonus",
+            "nameTh": "โบนัส DEF",
+            "isRate": true,
+            "value": 0.25
+          },
+          {
+            "id": 28,
+            "name": "Effect RES",
+            "nameTh": "Effect RES",
+            "isRate": true,
+            "value": 0.3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 64,
+    "bonuses": [
+      {
+        "pieces": 6,
+        "props": [
+          {
+            "id": 15,
+            "name": "SPD",
+            "nameTh": "SPD",
+            "isRate": true,
+            "value": 0.15
+          },
+          {
+            "id": 7,
+            "name": "ATK Bonus",
+            "nameTh": "โบนัส ATK",
+            "isRate": true,
+            "value": 0.2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 65,
+    "bonuses": [
+      {
+        "pieces": 6,
+        "props": [
+          {
+            "id": 15,
+            "name": "SPD",
+            "nameTh": "SPD",
+            "isRate": true,
+            "value": 0.15
+          },
+          {
+            "id": 25,
+            "name": "Effect ACC",
+            "nameTh": "Effect ACC",
+            "isRate": true,
+            "value": 0.2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 66,
+    "bonuses": [
+      {
+        "pieces": 6,
+        "props": [
+          {
+            "id": 46,
+            "name": "Increased Healing Done",
+            "nameTh": "เพิ่มการฮีลที่ทำได้",
+            "isRate": true,
+            "value": 0.12
+          },
+          {
+            "id": 93,
+            "name": "Increased Shield (applied)",
+            "nameTh": "เพิ่มโล่ (ที่สร้าง)",
+            "isRate": true,
+            "value": 0.12
+          },
+          {
+            "id": 15,
+            "name": "SPD",
+            "nameTh": "SPD",
+            "isRate": true,
+            "value": 0.1
+          }
+        ]
+      }
+    ]
+  }
+]

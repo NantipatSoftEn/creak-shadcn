@@ -21,6 +21,9 @@ import {
   AudioWaveform,
   Command,
   GalleryVerticalEnd,
+  Grid3x3,
+  Shield,
+  Sparkles,
 } from 'lucide-react'
 import { ClerkLogo } from '@/assets/clerk-logo'
 import { type SidebarData } from '../types'
@@ -95,6 +98,26 @@ export const sidebarData: SidebarData = {
               url: '/clerk/user-management',
             },
           ],
+        },
+      ],
+    },
+    {
+      title: 'Etheria',
+      items: [
+        {
+          title: 'Animus',
+          url: '/animus',
+          icon: Sparkles,
+        },
+        {
+          title: 'Shell',
+          url: '/shells',
+          icon: Shield,
+        },
+        {
+          title: 'เมทริกซ์ธาตุ',
+          url: '/attr-matrix',
+          icon: Grid3x3,
         },
       ],
     },
